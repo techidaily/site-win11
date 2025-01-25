@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Business Model: Windows 11 & Microsoft"
-date: 2025-01-12T12:50:15.887Z
-updated: 2025-01-18T20:23:41.588Z
+date: 2025-01-22T17:29:07.525Z
+updated: 2025-01-24T16:56:43.796Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 ![A Windows 11 device](https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53a757d0b8f7bbc674ee0d976.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can install Windows 11 on any computer that meets the minimum requirement to run the OS. Unlike Apple, Microsoft sells Windows 11 licenses so that you can make your PC using all the best components available.
 
  You can buy Windows 11 licenses from the Microsoft Store or other authorized retailers. Microsoft earns profit for every license sold everywhere in the world.
@@ -45,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 ![A phone displaying the applications belonging to Microsoft 365](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ed-hardie-xg02jzibf7o-unsplash-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you start using Windows 11, the chances are high that you'll end up using some of Microsoft's apps and services, some of which are paid. Like it or not, Microsoft keeps promoting its paid subscription offering, like Microsoft 365, through various apps and services.
 
  For example, on opening the Microsoft Store, you'll see Microsoft promoting its Microsoft 365 apps by highlighting some of their benefits.
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
  Some popular subscription services that boost Microsoft's revenue include Microsoft 365, Microsoft Azure, and Microsoft Dynamics 365\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Bloatware Apps in Windows 11 Help Microsoft Make a Profit
@@ -73,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 ![Screenshot Showing Windows 11 Account Settings Menu on the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-account-settings-menu-on-the-start-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Every major tech company profits from advertising, and Microsoft is no exception. In fact, the company pays significant attention to increasing its advertisement revenue.
 
  And since Windows is the company's most successful product used by billions of people, showing advertisements in Windows 11 is arguably one of the best ways to earn more profit.
@@ -86,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
  Windows 11 shows you personalized ads, meaning it will try to show you advertisements that you might find interesting. And personalized ads require Microsoft to collect your data. But you can get rid of all of them by [making Windows 11 ad-free](https://www.makeuseof.com/windows-11-remove-ads/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Microsoft Makes Money From Search Advertising Business
@@ -94,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 ![Bing Chat logo with a white abstract background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bing-chat-with-abstract-background.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft earns a sizable chunk of its revenue from the personal computing space, which includes online search. And search is an integral part of Windows 11—you can see it in the Start menu, Settings app, and even File Explorer.
@@ -106,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
  Microsoft shows all this sponsored content on the search page because the company was paid to do so. Microsoft's Bing Chat chatbot also displays sponsored content in its responses, thus increasing the company's overall revenue.
 
  Since Bing is well integrated into Windows 11, it is easier for Microsoft to get more people to use their search in some way or the other. The more Bing can increase its user base, the more revenue it will earn by displaying sponsored content on its page. Overall, search remains an important focus area for Microsoft to make money in Windows 11\.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Microsoft's Revenue Sources Are Diverse in Windows 11
 
@@ -127,22 +127,18 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-sound-brilliance-for-podcasters-top-10-microphones/"><u>[New] 2024 Approved Sound Brilliance for Podcasters Top 10 Microphones</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unravel-the-secrets-of-crafting-engaging-snapchat-boomerangs/"><u>[New] 2024 Approved Unravel the Secrets of Crafting Engaging Snapchat Boomerangs</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-editors-elite-gadgets-best-machines-for-screen-magic-for-2024/"><u>[Updated] Editor’s Elite Gadgets Best Machines for Screen Magic for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-techniques-for-channel-management-on-yt-hub/"><u>[Updated] In 2024, Cutting-Edge Techniques for Channel Management on YT Hub</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-bridge-gaps-in-distance-mastering-xbox-one-zooming/"><u>2024 Approved Bridge Gaps in Distance Mastering Xbox One Zooming</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-unauthorized-access-to-secure-devices-win/"><u>Addressing Unauthorized Access to Secure Devices Win</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-resolved-kit-free-1535-wireless-network-driver-here/"><u>Download the Resolved Kit: Free 1535 Wireless Network Driver Here!</u></a></li>
-<li><a href="https://win11.techidaily.com/enable-system-sounds-despite-muted-status/"><u>Enable System Sounds Despite Muted Status</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-tracking-yuzu-gameplay-on-windows/"><u>Fast-Tracking Yuzu Gameplay on Windows</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/free-cam-screen-recorder-review-and-best-alternatives/"><u>Free Cam Screen Recorder Review and Best Alternatives</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-your-pcs-ram-landscape-on-windows/"><u>Navigate Your PC's RAM Landscape on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-with-linuxs-sudo-feature/"><u>Navigating Windows with Linux's Sudo Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/openai-whisper-for-windows-voice-to-text-techniques-unveiled/"><u>OpenAI Whisper for Windows: Voice-to-Text Techniques Unveiled</u></a></li>
-<li><a href="https://win-webster.techidaily.com/personalizing-your-digital-story-a-step-by-step-guide-to-creating-a-unique-flipbook-on-flipbuildercom/"><u>Personalizing Your Digital Story: A Step-by-Step Guide to Creating a Unique Flipbook on FlipBuilder.com</u></a></li>
-<li><a href="https://win11.techidaily.com/the-rise-of-ai-in-next-gen-windows/"><u>The Rise of AI in Next-Gen Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-corsair-headset-solutions-for-common-issues/"><u>Troubleshooting Your Corsair Headset: Solutions for Common Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/zip-file-disguise-for-windows-11-enthusiasts/"><u>Zip File Disguise for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-play-40c-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor Play 40C</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/converting-creative-imagery-transforming-webp-from-dall-e-to-png-jpg/"><u>Converting Creative Imagery: Transforming WebP From DALL-E to PNG, JPG</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-onedrives-reparse-point-tag-misstep-on-windows/"><u>Correcting OneDrive's Reparse Point Tag Misstep on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/epic-bike-shots-the-best-helmet-cams-of-2023-decoded-and-displayed/"><u>Epic Bike Shots - The Best Helmet Cams of 2023 Decoded and Displayed</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-activate-a-black-background-in-wincalc/"><u>How To Activate a Black Background in WinCalc</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-sound-quality-for-bluetooth-headphonesspeakers/"><u>Improving Sound Quality for Bluetooth Headphones/Speakers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lava-blaze-2-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lava Blaze 2</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-5-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme GT 5 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/mute-windows-update-announcements/"><u>Mute Windows Update Announcements</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-through-vyncs-link-robust-performance-with-enigmaturated-subscription-models/"><u>Navigating Through Vyncs Link: Robust Performance with Enigmaturated Subscription Models</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-sleep-suspend-with-windows-11-devices/"><u>Overcoming Sleep Suspend with Windows 11 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-restoring-windows-11-help-functionality/"><u>Steps for Restoring Windows 11 Help Functionality</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620271322-the-ultimate-technique-for-retrieving-deleted-content-on-iphones-discover-here/"><u>The Ultimate Technique for Retrieving Deleted Content on iPhones - Discover Here</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Regain Original Settings in Win11 Terminal
-date: 2025-01-14T16:25:00.636Z
-updated: 2025-01-18T23:52:34.097Z
+date: 2025-01-21T23:03:49.926Z
+updated: 2025-01-25T06:05:42.520Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Would You Reset Your Windows Terminal?
 
  Windows Terminal is an amazing tool for power users and developers. It allows you to access a variety of tools, all in one place, with custom settings and themes that make it easy to work from anywhere. But over time, your Windows Terminal may become cluttered with old settings or themes that have become redundant or are no longer relevant.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
  It also helps clear out any potentially harmful malware or corrupt files that might be lurking in the background of your system, hindering your productivity. By doing so, you will ensure that your computer works as fast and as smoothly as possible - giving you the most optimal experience when using this powerful tool.
 
  Let's now move to the below sections and see how it can be reset.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings by Clearing JSON Files
 
@@ -43,14 +51,14 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
 ![Open JSON file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-json-file.jpg)
 4. If you're asked which app to use to open the file, then double-click on**Notepad** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. On the next page, select all the contents and**Delete** them.
 6. Now press**Ctrl + S** on your keyboard to save it.
 
  Next time you open the app, a new configuration with all the default settings will be created automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings Using Command Prompt
 
@@ -63,15 +71,11 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
 ![Reset Windows Terminal Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-terminal-using-command-prompt.jpg)  
 del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json"
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Now press the**Enter** key to delete the settings.json file.
 4. You can now exit the command prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings Using Windows PowerShell
@@ -85,10 +89,6 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 
 3. Press**Enter** to execute the command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Reset Windows Terminal Settings From File Explorer
 
  If you don't prefer the command line process, you can use Windows File Explorer to reset the settings. In this way, the Terminal will be reset to its default settings, and you can continue using it. Here's how to do it:
@@ -99,7 +99,7 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 %LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. On the next page, right-click on**settings.json** and select**Delete** from the context menu.
@@ -125,22 +125,20 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-capturing-presentations-effortlessly-a-guide-to-screen-capture/"><u>[New] In 2024, Capturing Presentations Effortlessly A Guide to Screen Capture</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-instantpause-live-image-save-tips/"><u>2024 Approved InstantPause Live Image Save Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/a-systematic-approach-to-rejuvenating-your-media-software/"><u>A Systematic Approach to Rejuvenating Your Media Software</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-efficiency-in-the-digital-age-with-these-best-windows-tools/"><u>Boosting Efficiency in the Digital Age with These Best Windows Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-and-resolving-windows-11s-fatal-error/"><u>Deciphering and Resolving Windows 11'S Fatal Error</u></a></li>
-<li><a href="https://win11.techidaily.com/1719343225911-epic-launcher-uninstallation-hurdles-bust-them-on-windows-11/"><u>Epic Launcher Uninstallation Hurdles, Bust Them On Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-to-eradicate-fluctuating-display-on-windows-1011/"><u>Expert Tips to Eradicate Fluctuating Display on Windows 10/11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-the-best-current-movie-selections-on-disneyplus-for-an-enchanting-time/"><u>Explore the Best Current Movie Selections on Disney+ for an Enchanting Time</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/find-the-ultimate-bargains-for-apple-gadgets-this-prime-day/"><u>Find the Ultimate Bargains for Apple Gadgets This Prime Day</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/from-shared-laughter-to-your-storage-twitters-gif-guide/"><u>From Shared Laughter to Your Storage Twitter's GIF Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-quickly-resolve-win1011-screen-flicker/"><u>How to Quickly Resolve WIN10/11 Screen Flicker</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-poco-f5-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Poco F5 5G Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-linuxs-best-pick-screen-capture-and-save-tools/"><u>In 2024, Linux's Best Pick Screen Capture & Save Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-essential-guide-to-mac-screen-recording-with-shortcuts/"><u>In 2024, The Essential Guide to Mac Screen Recording with Shortcuts</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-network-unreachable-issue-in-windows/"><u>Resolving 'Network Unreachable' Issue in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/top-8-video-editing-software-for-pc-users-windows/"><u>Top 8 Video Editing Software for PC Users (Windows)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/webaviogv-movavi/"><u>Web上で無料でAVIからOGVへの変換方法 - MOVAVI</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-creators-currency-how-to-turn-streams-into-dollars/"><u>[New] In 2024, The Creator’s Currency How To Turn Streams Into Dollars</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-add-ons-the-best-new-filmmakers-starter-list/"><u>[New] Prime Add-Ons The Best New Filmmaker’s Starter List</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-navigating-twitters-video-content-aspect-ratios-included/"><u>[Updated] 2024 Approved Navigating Twitter’s Video Content Aspect Ratios Included</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-biz-vr-innovations-new-frontiers-in-virtual-workspaces-for-2024/"><u>[Updated] Biz-VR Innovations New Frontiers in Virtual Workspaces for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-brush-up-skills-unveiling-the-ultimate-8-iphone-drawing-tools/"><u>[Updated] In 2024, Brush Up Skills Unveiling the Ultimate 8 iPhone Drawing Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-directdraw-errors-effective-remedies-for-modern-microsoft-oses/"><u>Decoding DirectDraw Errors: Effective Remedies for Modern Microsoft OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/defining-fresh-default-for-windows-pdf-files/"><u>Defining Fresh Default for Windows PDF Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-download-issues-during-steam-platform-updates/"><u>Effective Solutions for Download Issues During Steam Platform Updates</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-a-list-android-3d-viewing-tools/"><u>In 2024, A-List Android 3D Viewing Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-setup-guide-how-to-install-the-canon-pro-100-driver-for-your-windows-pc/"><u>Instant Setup Guide: How to Install the Canon PRO 100 Driver for Your Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/master-rdc-start-ups-with-these-10-tips/"><u>Master RDC Start-Ups with These 10 Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-apexs-windows-server-issues-(156-chars/"><u>Mastering Apex's Windows Server Issues (<156 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-transitioning-your-workspace-from-concentration-to-normal-on-terminal/"><u>Mastery over Transitioning Your Workspace: From Concentration to Normal on Terminal</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-win11s-narrator-command-efficiency/"><u>Unlocking Win11's Narrator Command Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-icons-how-to-ditch-the-focused-wallpaper-symbol/"><u>Win11 Icons: How to Ditch the Focused Wallpaper Symbol</u></a></li>
 </ul></div>
 

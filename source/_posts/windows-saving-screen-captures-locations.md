@@ -1,7 +1,7 @@
 ---
 title: "Windows: Saving Screen Captures Locations"
-date: 2025-01-17T19:58:56.115Z
-updated: 2025-01-18T20:29:13.369Z
+date: 2025-01-20T05:05:39.097Z
+updated: 2025-01-25T05:55:21.346Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -41,20 +41,20 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
  You've taken a screenshot, and now you're wondering, "where do my screenshots go on Windows?" It can be hard to know where to find screenshots since it depends on the method used to take them, but there are a few common places to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where Do Screenshots Go on Windows 10 and 11?
 
  There are several built-in tools for [taking screenshots on Windows](https://www.makeuseof.com/take-screenshot-windows-11/), including the Print Screen key (typically abbreviated **Prt Sc** on your keyboard) and Snipping Tool. Depending on which one you use, you might have to save it yourself after taking it, or navigate to a specific folder to grab it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Prt Sc Key
 
  Where do print screens go? The answer is simple: to the clipboard. If you want to access the screenshot, you have to save the it manually in an image editor like Paint. You can even paste the screenshots into programs that allow you to insert images, such as Microsoft Word or Google Docs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Windows Key + Prt Sc
 
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 ![The Screenshots folder on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshots-folder-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The screenshot will be saved in PNG format with a generic name like "Screenshot (2)."
@@ -78,15 +78,15 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 
  Make sure you select a location you can easily remember so you don't forget where you placed it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Xbox Game Bar (Windows Key + G)
 
  You can find where the Xbox Game Bar saves your screenshots by heading to **This PC > Local Disk (C:) > Users > \[your username\] > Videos > Captures**.
 
 ![The Captures folder highlighted in the Videos folder on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/captures-folder-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the file path, replace **\[your username\]** with the name of the user account you've logged into. That means if the account username is Jack, then the file path will be **This PC > Local Disk (C:) > Users > Jack > Videos > Captures**.
 
@@ -97,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
  In the Game Bar's gallery, click on the folder icon in the top-right corner of the left panel.
 
 ![The Game Bar gallery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gallery-game-bar-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the pop-up, click **Continue**, and it will open the folder with the screenshots.
 
@@ -126,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 
 ![A screenshot in the Recent section of the File Explorer Home tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/file-explorer-home-recent.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another thing you can do, on top of looking in the **Pictures** and **Documents** folders, is [check the installation location of the program](https://www.makeuseof.com/windows-ways-to-find-programs-install-location/) you use for screenshots. Look for folders with names like **Screenshots** or **Captures**. Using Windows Search for these common terms could help you locate them.
 
  Once you find the folder where the screenshots are, you may wish to note the file path in the Sticky Notes app. Alternatively, you can right-click the folder and select **Pin to Quick Access**. This will make it easier to remember where your Windows screenshots go.
@@ -140,19 +140,15 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-the-full-potential-of-picsart-a-comprehensive-review/"><u>[New] Explore the Full Potential of PicsArt - A Comprehensive Review</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-illusions-realized-what-is-augmented-reality/"><u>[Updated] 2024 Approved Illusions Realized What Is Augmented Reality?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-must-see-vr-movies-for-film-enthusiasts/"><u>[Updated] Must-See VR Movies for Film Enthusiasts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-roadmap-how-to-make-your-covers-shine/"><u>[Updated] The Roadmap How To Make Your Covers Shine</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-vives-ultimate-virtual-journey-unparalleled-immersion/"><u>[Updated] Vive's Ultimate Virtual Journey Unparalleled Immersion</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-copyright-laws-and-content-capture/"><u>[Updated] YouTube Copyright Laws and Content Capture</u></a></li>
-<li><a href="https://win11.techidaily.com/7-ways-to-prevent-unauthorized-access-on-windows/"><u>7 Ways to Prevent Unauthorized Access on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/customize-your-pc-windows-11-device-options-revised/"><u>Customize Your PC: Windows 11 Device Options Revised</u></a></li>
-<li><a href="https://games-able.techidaily.com/cutting-edge-electronics-at-the-heart-of-ifa-2023/"><u>Cutting-Edge Electronics at the Heart of IFA 2023</u></a></li>
-<li><a href="https://win11.techidaily.com/nine-best-window-timers-enhancing-pomodoro-productivity/"><u>Nine Best Window Timers Enhancing Pomodoro Productivity</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-detection-of-razer-devices-by-synapse-software/"><u>Reinstating Detection of Razer Devices by Synapse Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-sharing-your-chatgpt-conversations-online/"><u>Step-by-Step Guide: Sharing Your ChatGPT Conversations Online</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-guide-swift-solutions-for-adding-a-folder-to-onedrive-successfully/"><u>Troubleshooting Guide: Swift Solutions for Adding a Folder to OneDrive Successfully</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-back-original-icon-placement/"><u>Winning Back Original Icon Placement</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-art-of-influential-facebook-video-marketing/"><u>[New] The Art of Influential Facebook Video Marketing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-5-superior-recording-gear-options-for-ipad-and-mac-owners/"><u>[Updated] 2024 Approved 5 Superior Recording Gear Options for iPad & Mac Owners</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-honor-play-40c-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Honor Play 40C to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/keyways-to-activate-windows-11s-backup-and-restore-options/"><u>Keyways to Activate Windows 11'S Backup and Restore Options</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/nine-new-dimensions-ai-altering-creative-processes/"><u>Nine New Dimensions: AI Altering Creative Processes</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-capturing-windows-based-chats/"><u>The Art of Capturing Windows-Based Chats</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-a59-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo A59 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-one-side-headphone-output-in-windows-10/"><u>Troubleshooting One-Side Headphone Output in Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-comparison-pros-pick-for-leading-2024-keyboards-as-tested-by-professionals-reviews/"><u>Ultimate Comparison: Pro's Pick for Leading 2024 Keyboards as Tested by Professionals Reviews</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-enabling-immersive-sound-experience/"><u>Windows 11: Enabling Immersive Sound Experience</u></a></li>
 </ul></div>
 

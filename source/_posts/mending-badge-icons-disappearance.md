@@ -1,7 +1,7 @@
 ---
 title: Mending Badge Icons Disappearance
-date: 2025-01-14T00:08:20.232Z
-updated: 2025-01-19T08:50:42.887Z
+date: 2025-01-19T08:19:22.034Z
+updated: 2025-01-25T06:12:19.988Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Modify the Taskbar Behavior
 
  To start, you need to ensure that the taskbar is configured to show notification badges on your computer. Here are the steps for doing the same.
@@ -41,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 ![Enable Badges on Taskbar Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-badges-on-taskbar-apps-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Following this, apps should display notification badges on the taskbar.
@@ -57,11 +53,7 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 ![Enable Notifications for Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-notifications-for-apps-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Allow Apps to Run in the Background
@@ -75,11 +67,11 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 5. Use the drop-down menu under**Background apps permissions** to select**Always** .  
 ![Allow Xbox to Run in the Background on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/allow-xbox-to-run-in-the-background-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Unable to find the background app permissions option in the Settings app? Check our guide on[how to restore a missing background apps permission option in Windows](https://www.makeuseof.com/windows-11-restore-background-apps-permissions/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Restart the Windows Explorer Process
 
@@ -98,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 3. Type the name of the app in the search box.
 4. Select**Pin to taskbar** from the right pane.  
 ![Unpin App From Windows Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/unpin-app-from-windows-taskbar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Repeat the above steps for all the apps that are not displaying badges on the taskbar.
 
@@ -125,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
  Exit the Registry Editor window and restart your PC to apply the changes. After that, notification badges should appear on taskbar apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay on Top of App Alerts With Notification Badges
 
  Taskbar notification badges are useful as they inform you about apps and programs awaiting your attention. Hopefully, one of the above fixes has helped you resolve the underlying issue and Windows is now showing notification badges for taskbar apps.
@@ -146,24 +146,18 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-deciphering-facebooks-iconic-blue-emoji-usage-in-messages/"><u>[New] Deciphering Facebook's Iconic Blue Emoji Usage in Messages</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-prime-collection-must-try-virtual-reality-games-for-google-cardboard-for-2024/"><u>[New] Prime Collection Must-Try Virtual Reality Games for Google Cardboard for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-guide-to-choosing-vocal-change-software-for-2024/"><u>[New] The Ultimate Guide to Choosing Vocal Change Software for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-adding-visual-time-indicators-to-your-youtube-links/"><u>[Updated] Adding Visual Time Indicators to Your YouTube Links</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-choices-in-high-definition-screen-capture/"><u>[Updated] Ultimate Choices in High Definition Screen Capture</u></a></li>
-<li><a href="https://win11.techidaily.com/advance-your-task-management-with-windows-flow-launcher/"><u>Advance Your Task Management with Windows' Flow Launcher</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-showdown-assessing-which-is-superior-llama-3-or-gpt-4/"><u>AI Showdown: Assessing Which Is Superior, Llama 3 or GPT-4?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/charting-a-course-through-public-domain-landmarks/"><u>Charting a Course Through Public Domain Landmarks</u></a></li>
-<li><a href="https://win11.techidaily.com/extracting-tabbed-files-windows-11-quick-guide/"><u>Extracting Tabbed Files: Windows 11 Quick Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-cluttered-desktop-with-removal-of-win11s-focus-icons/"><u>Fix Cluttered Desktop with Removal of Win11's Focus Icons</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-change-monitor-1-and-2-in-windows/"><u>How to Change Monitor 1 and 2 in Windows</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-5-zoom-transcribing-tools-free-and-paid-options/"><u>In 2024, Top 5 Zoom Transcribing Tools Free & Paid Options</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/introducing-the-essence-of-motion-blur-techniques-on-iphone/"><u>Introducing the Essence of Motion-Blur Techniques on iPhone</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-bsod-data-for-system-debugging/"><u>Leveraging BSOD Data for System Debugging</u></a></li>
-<li><a href="https://win11.techidaily.com/make-your-grans-old-computer-senior-friendly-and-simple/"><u>Make Your Gran’s Old Computer Senior-Friendly & Simple</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-obstacles-your-guide-to-color-perfection-on-windows/"><u>Overcoming Obstacles: Your Guide to Color Perfection on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-copy-pasting-malfunctions-in-windows-11/"><u>Rectifying Copy-Pasting Malfunctions in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/revive-typical-windows-explore-view-configuration/"><u>Revive Typical Windows Explore View Configuration</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-flaws-a-closer-look-at-6-reasons-mac-isnt-ideal-for-gamers/"><u>Unveiling the Flaws: A Closer Look at 6 Reasons Mac Isn't Ideal for Gamers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-crafting-youtube-masterpieces-with-powerful-hashtag-strategies/"><u>[Updated] 2024 Approved Crafting YouTube Masterpieces with Powerful Hashtag Strategies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/17-best-background-remover-apps-to-remove-image-background-easily-for-2024/"><u>17 Best Background Remover Apps to Remove Image Background Easily for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/best-4-alternative-file-sharing-solutions-to-airdrop-on-windows-versions-11-10-8-and-7/"><u>Best 4 Alternative File Sharing Solutions To AirDrop on Windows Versions (11, 10, 8, and 7)</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-windows-11s-core-data-the-registry-files/"><u>Discovering Windows 11'S Core Data: The Registry Files</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-pc-game-5-crucial-speed-up-tools/"><u>Elevate Your PC Game: 5 Crucial Speed-Up Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/enable-handwritten-entry-on-windows-using-simple-steps/"><u>Enable Handwritten Entry on Windows Using Simple Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/game-files-unlocked-3-windows-techniques-explored/"><u>Game Files Unlocked: 3 Windows Techniques Explored</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-zte-axon-40-lite-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovating-code-workflow-the-impact-of-artificial-intelligence-on-programmers/"><u>Innovating Code Workflow: The Impact of Artificial Intelligence on Programmers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/launch-your-clips-free-intro-downloads/"><u>Launch Your Clips Free Intro Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-activate-windows-11s-elevated-powershell-console/"><u>Steps to Activate Windows 11'S Elevated PowerShell Console</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-access-to-safe-mode-on-your-windows-11-pc/"><u>Swift Access to Safe Mode on Your Windows 11 PC</u></a></li>
 </ul></div>
 

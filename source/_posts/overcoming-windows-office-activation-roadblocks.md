@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows Office Activation Roadblocks
-date: 2024-08-08T13:21:30.569Z
-updated: 2024-08-09T13:21:30.569Z
+date: 2025-01-23T17:43:30.508Z
+updated: 2025-01-25T03:56:16.514Z
 tags:
   - windows10
   - windows11
@@ -32,23 +32,21 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 
  As you now better understand what causes this error, let's see how to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix the "Product Activation Failed" Error in Microsoft Office Apps
 
  To fix the "Product Activation Failed" error, ensure your subscription is active, you're signed in with the right account, and the date is correct. Other possible solutions include updating the Office app where you are encountering the issue and confirming that you have a genuine copy of Windows installed on your computer.
 
  Now let's see how to check the above settings and apply the solutions to prevent this error from occurring again.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Apply Some Preliminary Fixes
 
 First, perform the following preliminary checks:
 
 * Run the Office application as an administrator. Type the app name in Windows Search, right-click its icon, and click**Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![Running the Microsoft Word App As an Administrator From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/1-running-the-microsoft-word-app-as-an-administrator-from-windows-search.jpg)
 * Ensure Microsoft Word, Microsoft Excel, or any other app you're using is up-to-date. For that, open the app, navigate to the**File** tab, and select**Account** on the left sidebar. Then, click on the**Update Options** dropdown and select**Update Now** .
 
@@ -69,9 +67,9 @@ If the above steps don't help, try applying the remaining fixes.
  However, if you are already subscribed to Microsoft 365 and Windows is registered, ensure it hasn't expired.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Ensure Your Subscription Hasn't Expired
 
  Check the email account you used to purchase the subscription to see if you have recently received an email from Microsoft. If you find an email regarding subscription expiration, log in to your Microsoft 365 account to confirm.
@@ -79,17 +77,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If the subscription has expired, you will have to renew it to fix the error. However, if you have not received any email and the subscription is still active, you might be logged in to Microsoft apps with a different account.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Ensure You Are Logged Into the Correct Account
 
  You must use the same Microsoft account you used to buy the subscription to access all features of the Office apps. If you share your computer with others, they might have logged in to their accounts that do not have active subscriptions.
@@ -101,8 +91,9 @@ To ensure that's not the case, follow the below steps:
 3. Under**User Information** , you can find the account information. If you see a different account there, click on**Sign out** . Then, sign in again using the account that has an active subscription.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6\. Ensure the Date Is Set Correctly
 
  The "Product Activation Failed" error can also be caused by an incorrectly set date on your device. If your subscription is going to expire in a specific month of the year, which is yet to come, but the date you set on your device goes past the day when the subscription will actually expire, you may encounter this error.
@@ -124,25 +115,23 @@ To ensure that's not the case, follow the below steps:
 C:\Program Files\Microsoft Office\Office16
 3. Locate the**OSPREARM.EXE** file.
 4. Right-click on it and hit**Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Running the OSPREARM Executable File as an Administrator in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/4-running-the-osprearm-executable-file-as-an-administrator-in-windows-file-explorer.jpg)
 
  It is important to note that the name of the Office folder in the path above may differ depending on which version of Office you are using. Therefore, if you use a different version than Office16, change the last part of the above path accordingly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix the "Product Activation Failed" Error on Windows
 
  Running into the "Product Activation Failed" error and finding most of the features of Office apps restricted isn't a great experience. Hopefully, the solutions covered above will help you resolve the issue. In case they don't work, try the workaround. If that does not work as well, reinstall the Office application.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,4 +140,20 @@ C:\Program Files\Microsoft Office\Office16
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/he-art-of-adding-emojis-to-youtube-comments/"><u>[New] The Art of Adding Emojis to YouTube Comments</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-master-your-media-comprehensive-guide-to-instagram-converters-windowsmac/"><u>[Updated] Master Your Media Comprehensive Guide to Instagram Converters (Windows/Mac)</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-look-at-windows-printer-administration-interface/"><u>A Comprehensive Look at Windows Printer Administration Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-and-upgrade-top-5-essentials-to-enhance-win-pcs/"><u>Accelerate and Upgrade: Top 5 Essentials to Enhance Win PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-connectivity-issues-fix-iphone-images-not-uploading-in-windows/"><u>Addressing Connectivity Issues: Fix iPhone Images Not Uploading in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-file-security-strategies-in-powertoys/"><u>Advanced File Security Strategies in PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/best-value-car-performance-software-for-windows-top-5-revealed/"><u>Best Value Car Performance Software for Windows - Top 5 Revealed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/effortless-viewing-tackling-instagram-video-issues/"><u>Effortless Viewing Tackling Instagram Video Issues</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-implementing-gradual-intensity-boost-in-audio-projects/"><u>In 2024, Implementing Gradual Intensity Boost in Audio Projects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-multimedia-how-to-teach-chatgpt-to-interpret-pdf-documents/"><u>Mastering Multimedia: How to Teach ChatGPT to Interpret PDF Documents</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/navigating-the-intricacies-of-morphvox-evolution-for-2024/"><u>Navigating the Intricacies of MorphVOX Evolution for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/perfecting-the-introduction-writing-impressive-summaries-for-2024/"><u>Perfecting the Introduction Writing Impressive Summaries for 2024</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/resolving-peripheral-detection-issues-in-windows-guidance-by-yl-computing-experts/"><u>Resolving Peripheral Detection Issues in Windows - Guidance by YL Computing Experts</u></a></li>
+</ul></div>
 

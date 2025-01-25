@@ -1,7 +1,7 @@
 ---
 title: Saving Past Executions in the Command Window
-date: 2025-01-12T02:55:56.482Z
-updated: 2025-01-19T01:10:41.112Z
+date: 2025-01-22T18:09:30.934Z
+updated: 2025-01-24T16:20:29.167Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check Your Privacy Settings
@@ -40,14 +40,10 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 ![Allow Windows to Track App Launches on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-windows-to-track-app-launches-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After completing the above steps, try running a few commands via the Run dialog box. Then, check if it is saving your command history and providing auto-complete suggestions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Edit Registry Files
 
@@ -65,13 +61,13 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 ![Edit Registry DWORD on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-registry-dword-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your PC after this for the changes to take effect. Following this, the Run command should start saving your history on Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apply Generic Fixes
@@ -81,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 * **Restart Your PC:** This may appear rudimentary, but temporary OS-related glitches can sometimes cause such anomalies. If it’s nothing major, [restarting your PC](https://www.makeuseof.com/windows-restart-methods/) should fix any issues with the Run command.
 * **Run an SFC Scan:** Such issues can also arise if some of the critical system files on your PC are corrupt. [Running a System File Checker (SFC) scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) can help detect and repair any damaged system files on your PC.
 * **Scan for Malware:** It’s possible that your system is infected by malware, which is why the Run command is having trouble saving your history. To rule out this possibility, you can [scan Windows for malware using PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) or Windows Defender.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get the Run Tool to Save Your History on Windows
 
@@ -100,22 +100,17 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-insight-into-excellence-a-detailed-guide-to-mastering-vivacut-editing/"><u>[Updated] Insight Into Excellence A Detailed Guide to Mastering VivaCut Editing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-smart-tactics-to-jump-over-online-classroom-screens/"><u>2024 Approved Smart Tactics to Jump Over Online Classroom Screens</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-synchronous-capture-for-webcam-and-display/"><u>2024 Approved Synchronous Capture for Webcam and Display</u></a></li>
-<li><a href="https://win11.techidaily.com/3-ways-to-open-a-games-directory-on-windows/"><u>3 Ways to Open a Game's Directory on Windows</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-v29-pro-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from V29 Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/asus-vivobook-s-15-the-ultimate-student-friendly-laptop/"><u>ASUS Vivobook S 15: The Ultimate Student-Friendly Laptop</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-secure-tcp-protocols-in-windows-os/"><u>Ensuring Secure TCP Protocols in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-edges-unending-task-on-windows-11-pcs/"><u>Exploring Edge's Unending Task on Windows 11 PCs</u></a></li>
-<li><a href="https://win-info.techidaily.com/how-secure-is-your-internet-activity-when-using-incognito-mode-unveiling-the-truth/"><u>How Secure Is Your Internet Activity When Using Incognito Mode? Unveiling the Truth</u></a></li>
-<li><a href="https://win11.techidaily.com/microsoft-world-google-map-powerhouse/"><u>Microsoft World, Google Map Powerhouse</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/no-rework-or-replacement-intel-stands-by-defective-chip-production/"><u>No Rework or Replacement: Intel Stands by Defective Chip Production</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/powerdirector-pro-complete-2024-users-manual/"><u>PowerDirector Pro Complete 2024 User's Manual</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-service-enrollment-bypassing-phone-numbers-in-apps/"><u>Seamless Service Enrollment: Bypassing Phone Numbers in Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-the-cloud-using-microsoft-onedrive-offline/"><u>Taming the Cloud: Using Microsoft OneDrive Offline</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-stylus-pens-for-your-ipad-finding-the-perfect-match/"><u>Top-Rated Stylus Pens for Your iPad: Finding the Perfect Match</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-advanced-backup-capabilities/"><u>Unlock Advanced Backup Capabilities</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-and-11-enable-endless-deletion-via-desktop-trash/"><u>Windows 11 & 11: Enable Endless Deletion via Desktop Trash</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-explore-the-world-of-photo-videos-your-pixiz-companion/"><u>[Updated] Explore the World of Photo-Videos Your Pixiz Companion</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-fixing-libxml2dll-not-found-errors/"><u>Comprehensive Guide to Fixing 'libxml2.dll Not Found' Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/hacks-expose-trust-in-your-biometric-windows-lock/"><u>Hacks Expose: Trust in Your Biometric Windows Lock</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-improve-video-loading-times-in-instagram/"><u>In 2024, Improve Video Loading Times in Instagram</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-zte-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your ZTE</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-toms-hardware-a-deep-dive-into-pc-specs-and-performance/"><u>Inside Tom's Hardware: A Deep Dive Into PC Specs and Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-tech-performance-efficiency-with-windows-widgets/"><u>Maximizing Tech Performance: Efficiency with Window's Widgets</u></a></li>
+<li><a href="https://win11.techidaily.com/powerful-practices-reactivating-explore-in-11os/"><u>Powerful Practices: Reactivating Explore in 11OS</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-vivo-v30-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo V30 Pro Black and White | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-windows-11s-soon-to-expire-licensing-message/"><u>Remedying Windows 11'S 'Soon-to-Expire' Licensing Message</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-resolving-error-code-0xc0000005-in-windows/"><u>Step-by-Step Guide: Resolving Error Code 0XC0000005 in Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Rapid Text Entry: TypingAid for Speed Enthusiasts"
-date: 2025-01-11T23:34:10.265Z
-updated: 2025-01-19T01:02:12.831Z
+date: 2025-01-21T08:29:51.116Z
+updated: 2025-01-25T05:42:51.489Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is TypingAid for Windows?
 
@@ -57,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 ![TypingAid Exe and AHK Versions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-exe-and-ahk-versions.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can empower TypingAid to offer suggestions from the get-go instead of waiting for it to populate its database from scratch with the words you're writing. For that, though, you'll need a wordlist.
 
  Wordlists are what enables most predictive text solutions to recognize words and phrases and offer suggestions on how to proceed. As their name states, they're just lists of words, usually stored in a typical text file—one per line or separated by commas.
@@ -76,16 +76,24 @@ Then, run TypingAid.
 ![TypingAid Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Let's see the essential settings worth tweaking in TypingAid.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. General Settings
 
  On the**General Settings** page, you can tweak TypingAid's "behavior".
 
 ![TypingAid Settings General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-general.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * If you turn**Learn new words as you type** to off, TypingAid will only offer suggestions that already exist in the loaded Wordlist. Leave the option turned on to have TypingAid learn new words that you type.
 * **Minimum length of word to learn** restricts which new words TypingAid can "learn", based on their number of characters. If you leave it at the predefined value of**5** , it won't, for example, "learn" the word "fuse", no matter how many times you type it. It will only "learn" words with at least five letters.
@@ -101,7 +109,7 @@ Let's see the essential settings worth tweaking in TypingAid.
 ![TypingAid Settings Wordlist Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-wordlist-box.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Change the number under**Maximum number of results** to show to the number of suggestions you'd like to see.
@@ -109,29 +117,25 @@ Let's see the essential settings worth tweaking in TypingAid.
 * It's best if you leave**Show learned words first** to On, as it will ensure the words TypingAid learned from you will appear before the words that already existed in its generic Wordlist.
 * The rest of the options affect the appearance of the suggestion box that pops up as you're typing. You can tweak them to change where the box appears (**List appears X pixels below cursor**), its font, its opacity, and so on. You can leave them as they are since their effects are primarily aesthetic.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Programs
 
  The**Programs** page lets you choose the apps and windows where TypingAid will be active.
 
 ![TypingAid Settings Programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-programs.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There are separate fields for defining where TypingAid will be either enabled or disabled.
 
 ![TypingAid Settings Programs Selecting an App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-programs-selecting-an-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It's easy to include or exclude any app or window by clicking on**Edit** next to the appropriate enabled or disabled field, and selecting one of the active windows from the pull-down menu, or typing its name yourself.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Advanced
 
@@ -152,10 +156,6 @@ Let's see the essential settings worth tweaking in TypingAid.
  You can press one of the**Auto Complete Keys** (like Tab or Enter) to choose the pre-selected word and have it replace the characters you've typed, just like your smartphone's autocomplete.
 
  Or, if you're also using the**Number (Auto Complete) Keys** , press a number from the top row of your keyboard to directly select that word from TypingAid's suggestion list without having to click on it with your mouse.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## TypingAid: The Mind-Reading Typing Assistant for Windows
 
@@ -180,21 +180,22 @@ Let's see the essential settings worth tweaking in TypingAid.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-transforming-creativity-into-a-sustainable-livelihood-for-2024/"><u>[New] Transforming Creativity Into a Sustainable Livelihood for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-core-concepts-of-story-making/"><u>[Updated] 2024 Approved Core Concepts of Story Making</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cultivating-the-culture-of-creativity-within-youtube-shorts/"><u>[Updated] 2024 Approved Cultivating the Culture of Creativity Within YouTube Shorts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-methods-for-a-no-ads-experience-on-social-platforms/"><u>[Updated] Methods for a No-Ads Experience on Social Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/a-beginners-guide-to-microsoft-family-safety/"><u>A Beginner's Guide to Microsoft Family Safety</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-windows-iscsi-initiator-for-it-professionals/"><u>Deciphering Windows iSCSI Initiator for IT Professionals</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/efficient-snap-catch-strategies/"><u>Efficient Snap Catch Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-working-state-for-ccleaner-in-windows-1011-systems/"><u>Enabling Working State for CCleaner in Windows 10/11 Systems</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-canon-printer-mp250-drivers-latest-software-updates-available/"><u>Free Canon Printer MP250 Drivers - Latest Software Updates Available</u></a></li>
-<li><a href="https://win11.techidaily.com/how-regular-windows-backup-prolongs-peace-of-mind/"><u>How Regular Windows Backup Prolongs Peace of Mind</u></a></li>
-<li><a href="https://win11.techidaily.com/launch-into-productivity-must-have-ms-store-picks/"><u>Launch Into Productivity: Must-Have MS Store Picks</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-hello-fingerprint-malfunctions-easily/"><u>Navigating Windows Hello Fingerprint Malfunctions Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-windows-11-taskbar-performance/"><u>Optimizing Windows 11 Taskbar Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-legacy-windows-photo-viewer-features-in-win11/"><u>Restoring Legacy Windows Photo Viewer Features in Win11</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/thoroughly-reviewed-chilled-treats-screenshot-capture/"><u>Thoroughly Reviewed Chilled Treats Screenshot Capture</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-m34-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy M34 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-present-trends-in-drone-technology-for-the-future/"><u>[New] 2024 Approved Present Trends in Drone Technology for the Future</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-started-with-youtube-video-ad-building-without-spending-for-2024/"><u>[New] Get Started with YouTube Video Ad Building Without Spending for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-banishing-unwanted-green-in-mac-recorded-youtube-content/"><u>[Updated] 2024 Approved Banishing Unwanted Green in Mac-Recorded YouTube Content</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-revitalize-your-routine-with-these-top-10-yoga-streams-of-note/"><u>[Updated] In 2024, Revitalize Your Routine with These Top 10 Yoga Streams of Note</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-the-workings-of-runtime-brokers-in-computing/"><u>Delving Into the Workings of Runtime Brokers in Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/executing-a-pristine-windows-11-reboot/"><u>Executing a Pristine Windows 11 Reboot</u></a></li>
+<li><a href="https://win11.techidaily.com/from-chaos-to-order-windows-arrow-restoration-guide/"><u>From Chaos to Order: Windows Arrow Restoration Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-the-exception-breaking-point-message-in-windows/"><u>Handling the Exception Breaking Point Message in Windows</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-can-you-prevent-norton-from-deleting-files-automatically-tips-and-solutions/"><u>How Can You Prevent Norton From Deleting Files Automatically - Tips & Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/initiating-effective-policy-review-the-gpresult-methodology/"><u>Initiating Effective Policy Review: The GPResult Methodology</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-auto-color-management-in-win11/"><u>Navigating Through Auto Color Management in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/resilience-reinstated-the-5-key-repairs-for-family-safe/"><u>Resilience Reinstated: The 5 Key Repairs for Family Safe</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-ultimate-checklist-for-starting-a-live-feed-for-2024/"><u>The Ultimate Checklist for Starting a Live Feed for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-screen-seize-techniques-for-mac-devices-under-156-chars-for-2024/"><u>Top Screen Seize Techniques for Mac Devices (Under 156 Chars) for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tutorial-automating-the-openness-of-emails-in-words-reading-area/"><u>Tutorial: Automating the Openness of Emails in Word's Reading Area</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-your-creative-potential-with-microsofts-innovative-paint-updates/"><u>Unlock Your Creative Potential with Microsoft's Innovative Paint Updates</u></a></li>
 </ul></div>
 

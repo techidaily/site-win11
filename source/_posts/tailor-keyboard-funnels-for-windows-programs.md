@@ -1,7 +1,7 @@
 ---
 title: Tailor Keyboard Funnels for Windows Programs
-date: 2025-01-13T08:57:41.030Z
-updated: 2025-01-19T05:39:15.568Z
+date: 2025-01-18T19:11:13.189Z
+updated: 2025-01-25T05:35:38.860Z
 tags:
   - windows10
   - windows11
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Easily assign keyboard shortcuts to desktop, Start menu, and Taskbar items for improved productivity.
@@ -32,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 * Tweak how and when to deploy keyboard shortcuts by leveraging the strength and depth of PowerToys.
 
  Did you know that you can set a keyboard shortcut for just about any program in Windows? When you want to open a specific program in a hurry, all you need to do is quickly press a few keys and you’re in. Here’s how.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. How to Assign a Keyboard Shortcut to a Shortcut Link on Your Desktop
 
@@ -47,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 2. Under the **Shortcut** tab, in the **Shortcut key** field, simply type the shortcut you want to assign to the program and click the OK button.
 
 ![Add a keyboard shortcut via the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/01-add-keyboard-shortcut-desktop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows shortcuts must take the form:
 
@@ -78,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 3. Add a keyboard shortcut to the **Shortcut key** field.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. How to Remove Previously Assigned Keyboard Shortcuts
@@ -102,25 +98,29 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 ![Remap shortcut in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/04-powertoys-remap-shortcut.jpg)
 5. Then click on the **Add shortcut mapping** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![05-powertoys-shortcut-mapping](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/05-powertoys-shortcut-mapping.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Under **Shortcut**, click on the button with the pen icon. Then press the shortcut key combo you want to set.  
 ![Simple way to creating keyboard shortcuts - PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/06-set-up-keyboard-shortcut.jpg)
 2. Under **Action**, click on the drop-down and select **Run Program**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Microsoft PowerToys keyboard shortcut setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/07-powertoys-shortcut-action.jpg)
 3. Under **App**, either enter the path of the program you want to add to this shortcut, or click the **Select program** button to browse and select an application.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![PowerToys shortcut program path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/08-powertoys-shortcut-program-path.jpg)
 4. If you leave the **Start in** field blank, the shortcut will work throughout the Windows environment. If you select a path here, the shortcut will only work when you are in that environment or program.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. The **If running** field tells Windows how to handle the command if the program is already open and running. You can set this to one of several options: show the open window; open another instance of the program (if possible); close the program; do nothing; or end the entire program task.
 
@@ -140,22 +140,16 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-controlling-youtubes-playback-speed-mobile-and-pc/"><u>[New] Controlling YouTube's Playback Speed - Mobile and PC</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nsuring-authenticity-of-your-youtube-account/"><u>[New] Ensuring Authenticity of Your YouTube Account</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ultimedia-annotator-for-2024/"><u>[New] Multimedia Annotator for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-unveiling-the-capabilities-of-springs-advanced-screenscape/"><u>[Updated] Unveiling the Capabilities of Spring's Advanced Screenscape</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-secure-network-shadows-in-windows/"><u>Crafting Secure Network Shadows in Windows</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-civi-3-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Xiaomi Civi 3 has native MKV support?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-most-recent-firmware-and-drivers-for-your-brother-hl-l2anddw-printer-free-download/"><u>Get the Most Recent Firmware and Drivers for Your Brother HL-L2#&DW Printer - Free Download</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-use-your-smartphone-as-a-windows-microphone/"><u>How to Use Your Smartphone as a Windows Microphone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-14-pro-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 14 Pro Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-system-calls-fails-on-windows-devices/"><u>Overcoming System Calls Fails on Windows Devices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/restore-control-overcoming-the-2023-facebook-breach/"><u>Restore Control Overcoming the 2023 Facebook Breach</u></a></li>
-<li><a href="https://win11.techidaily.com/revamping-text-conversations-emoji-15-installation-guide-for-windows-11/"><u>Revamping Text Conversations: Emoji 15 Installation Guide for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/skirting-persistent-login-prompt-issues-in-windows/"><u>Skirting Persistent Login Prompt Issues in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-windows-11s-6-unusual-visual-cues/"><u>Understanding Windows 11'S 6 Unusual Visual Cues</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/sh-joy-with-9-complete-uncut-films-celebrating-christmas-day-online-for-2024/"><u>Unleash Joy with 9 Complete, Uncut Films Celebrating Christmas Day Online for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/why-ditch-bot-helmed-windows-key-creation/"><u>Why Ditch Bot-Helmed Windows Key Creation?</u></a></li>
-<li><a href="https://win11.techidaily.com/win-1011-customize-your-functional-keys-configuration/"><u>Win 10/11: Customize Your Functional Keys Configuration</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-elevating-your-iphone-with-custom-ringtones/"><u>[New] Elevating Your iPhone with Custom Ringtones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guffaw-guild-robotic-raiders/"><u>[New] Guffaw Guild Robotic Raiders</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-converge-your-viewing-proficiently-using-netflix-pip-mode/"><u>[New] In 2024, Converge Your Viewing Proficiently Using Netflix PIP Mode</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-latest-sound-card-drivers-compatible-with-windows-os/"><u>Download Latest Sound Card Drivers Compatible with Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-address-invalid-profiles-in-win11-devices/"><u>How to Address 'Invalid Profiles' In Win11 Devices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-prevent-thumbnail-absence-in-shorts-uploads/"><u>How to Prevent Thumbnail Absence in Shorts Uploads</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-steam-network-errors-in-win11/"><u>Overcoming Steam Network Errors in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-your-notification-management-skills-on-win-11/"><u>Perfect Your Notification Management Skills on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-updating-windows-without-internet/"><u>Securely Updating Windows Without Internet</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-input-flows-disable-mouse-acceleration-on-win-devices/"><u>Streamline Your Input Flows: Disable Mouse Acceleration on Win Devices</u></a></li>
 </ul></div>
 

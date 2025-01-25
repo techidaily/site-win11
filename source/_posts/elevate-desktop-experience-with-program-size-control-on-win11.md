@@ -1,7 +1,7 @@
 ---
 title: Elevate Desktop Experience with Program Size Control on Win11
-date: 2025-01-15T01:46:46.865Z
-updated: 2025-01-19T07:46:04.959Z
+date: 2025-01-23T18:23:18.259Z
+updated: 2025-01-25T05:47:53.520Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Sizes for Software Windows With AutoSizer
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 2. Select the software in the**Currently open windows** box and click the**AutoSize** button to bring up the window shown directly below.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Action to perform drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/autosize-window.jpg)
@@ -62,13 +62,13 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 
 ![General options for AutoSizer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/general-autosize-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To set a hotkey to restore windows to their preset sizes, click inside the**AutoSize Now! Shortcut key** box. Press a keyboard hotkey to set it. Then you’ll be able to restore windows to their preset dimensions after resizing them by pressing that hotkey.
 
  And if you're a big fan of hotkeys, be sure to check out[how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set Custom Sizes for Software With WinSize2
 
@@ -94,7 +94,7 @@ Now it's time to use WinSize2 to size our windows:
 2. Then open the software window for which to set the size.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Make sure the software window you’ve opened is the selected (active) window.
@@ -105,10 +105,6 @@ Now it's time to use WinSize2 to size our windows:
  The**always** checkbox for width and height will be selected by default, which locks the window's size so you can’t resize it with the cursor. If you prefer that option to be disabled, deselect the**always** box. Press the**Change** button, and click**OK** to apply.
 
 ![The Complete Title of the Window drop-down menu in WinSize2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-wintitle-tab.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The window you set the preset size for will always open with its saved dimensions, so long as WinSize2 is running. Try it out by opening the software, resizing its window, and closing the program. The software’s window will still open at the size set when you launch it again.
 
@@ -121,6 +117,10 @@ Now it's time to use WinSize2 to size our windows:
  To customize WinSize2’s hotkey for saving windows, click the**Extras-1** tab. Click inside the key box, and press the keyboard buttons for an alternative hotkey. Then select the**OK** option to apply.
 
 ![The define a new Hotkey box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-define-a-hotkey-box.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Your Software at Your Preferred Window Sizes
 
@@ -141,17 +141,24 @@ Now it's time to use WinSize2 to size our windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-instant-recording-audio-enriched-screens/"><u>[New] Instant Recording Audio-Enriched Screens</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-recording-revelry-capturing-the-thrill-of-sports-games-for-2024/"><u>[New] Recording Revelry Capturing the Thrill of Sports Games for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-innovative-storytelling-in-book-trails-for-2024/"><u>[Updated] Innovative Storytelling in Book Trails for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-group-policy-intricacies-through-gpresult/"><u>Deciphering Group Policy Intricacies Through GPResult</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-finest-gaming-smartphones-available-as-ranked-expert-picks/"><u>Discover the Finest Gaming Smartphones Available , as Ranked Expert Picks</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-mac-tools-to-tighten-instagram-video-content/"><u>In 2024, Mac Tools to Tighten Instagram Video Content</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/revitalizing-gpos-ensuring-compliance-on-modern-windows/"><u>Revitalizing GPOs: Ensuring Compliance on Modern Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/scrutinizing-password-ingress-windows-pass-and-no-pass-outcomes/"><u>Scrutinizing Password Ingress: Windows Pass & No-Pass Outcomes</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722970767150-the-ultimate-tutorial-for-arduino-nano-setup-on-windows-easy-fixed/"><u>The Ultimate Tutorial for Arduino Nano Setup on Windows - Easy, Fixed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-mac-laptops-and-desktops-expert-reviews/"><u>Top Rated Mac Laptops & Desktops - Expert Reviews</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11-set-default-touch-input-placement/"><u>Win 11: Set Default Touch Input Placement</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-immediate-insta-photo-series-viewing/"><u>[New] Immediate Insta Photo Series Viewing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-discover-the-most-exciting-no-cost-comic-designs-for-2024/"><u>[Updated] Discover the Most Exciting, No-Cost Comic Designs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-clear-out-a-no-logo-screen-in-win1011/"><u>How to Clear Out a No-Logo Screen in Win10/11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-poco-x5-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Poco X5 Pro Quickly? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unblock-and-connect-chrome-in-your-os-firewallantivirus-settings/"><u>How to Unblock and Connect Chrome in Your OS Firewall/Antivirus Settings</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-expert-techniques-for-flipping-and-tilting-iphone-images/"><u>In 2024, Expert Techniques for Flipping & Tilting iPhone Images</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi Note 12 5G</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-top-20-free-unlicensed-pubg-screenshot-compilations/"><u>In 2024, Top 20 Free Unlicensed PUBG Screenshot Compilations</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-microsofts-filter-key-functionality/"><u>Mastering Microsoft's Filter Key Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-frozen-windows-update-issue/"><u>Mastery Over Frozen Windows Update Issue</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-how-to-create-funny-talking-avatars-using-oddcast-text-to-speech-tech/"><u>New In 2024, How to Create Funny Talking Avatars Using Oddcast Text to Speech Tech</u></a></li>
+<li><a href="https://win11.techidaily.com/overhauling-windows-drivers-a-step-by-step-guide/"><u>Overhauling Windows Drivers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-vanishing-steam-icon-graphics/"><u>Reviving Vanishing Steam Icon Graphics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/secure-your-forever-ticket-to-coachella-festivals-with-unique-event-themed-nonfungible-tokens/"><u>Secure Your Forever Ticket to Coachella Festivals with Unique Event-Themed Nonfungible Tokens</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-ai-risks-when-crafting-your-win-11-code/"><u>Sidestep AI Risks When Crafting Your Win 11 Code</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/thrifty-flyers-guide-5-drones-for-under-100-for-2024/"><u>Thrifty Flyers' Guide 5 Drones for Under $100 for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/transformacion-gratuita-de-archivos-wmv-a-formatos-swf-online-con-convertidor-de-movavi/"><u>Transformación Gratuita De Archivos WMV a Formatos SWF Online Con Convertidor De Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/transition-tactics-replacing-older-software-with-windows-11/"><u>Transition Tactics: Replacing Older Software with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-control-panel-errors/"><u>Troubleshooting Windows Control Panel Errors</u></a></li>
 </ul></div>
 

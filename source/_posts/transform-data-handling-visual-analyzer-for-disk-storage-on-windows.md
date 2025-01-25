@@ -1,7 +1,7 @@
 ---
 title: "Transform Data Handling: Visual Analyzer for Disk Storage on Windows"
-date: 2024-08-08T13:20:43.633Z
-updated: 2024-08-09T13:20:43.633Z
+date: 2025-01-21T01:58:47.570Z
+updated: 2025-01-24T19:16:43.477Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
  RidNacs are Disk Savvy are two disk space analyzer tools that integrate with File Explorer’s context menu. They enable you to analyze disk space by right-clicking folders and selecting their scanning options. This is how you can add and utilize those disk analyzers in Windows 11/10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add a Visual Disk Space Analyzer Tool to Explorer’s Context Menu With RidNacs
 
  RidNacs is a freeware disk analyzer app with which you can scan whole drives, folders, or removable storage devices (USB sticks). This tool displays storage usage reports with percentage bars that give users a clear picture of what’s hogging the most space. You can add the RidNacs analyzer tool to Explorer’s context menu like this:
@@ -31,34 +35,29 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 5. Select your preferred language for the software on the drop-down menu and click**OK** .
 6. Click**Next** to view the license terms, and select the**I accept the agreement** option.
 7. Keep clicking**Next** to reach additional task settings. There make sure the**Add RidNacs to Windows Explorer Context Menu** checkbox is selected.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![The RidNacs window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/ridnac-setup-window.jpg)
 8. Select**Next** again, and then press the**Install** button to proceed with the installation.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![The Install button for RidNacs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/setup-ridnac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you start analyzing folder storage space usage on your PC with RidNacs. Open the Explorer file manager window, and right-click a folder to select**Show more options** . Click the**Analyze Disk Space Usage with RidNacs** option on the classic context menu to start the scan.
 
  RidNacs will open and display drive storage usage for all subfolders and files within the directory, as shown in the snapshot directly below. The graphical bars there show you the percentage volume of all the subfolders and files within the selected directory. That window also shows the number of files in each subfolder along with standard size details.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The RidNacs window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/ridnacs-window.jpg)
 
  You can select other directories or a whole drive to scan within the RidNacs window. To do so, click**File** and the**Choose Directory** option. Then choose another folder or an entire drive to scan and click**OK** .
 
  RidNacs doesn’t have lots of customization settings. However, you can change the percentage bar style. To do so, click the**Preferences** button. Then select a different color option on the Percentage bar style. Select**Apply** \>**OK** to save the new bar style setting.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Preferences window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/preferences-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a Visual Disk Space Analyzer Tool to Explorer’s Context Menu With Disk Savvy
 
@@ -68,9 +67,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Click the Win 64-Bit**Download** option for the Disk Savvy v14.7.26 product version.
 3. Double-click**disksavvy\_setup\_v14.7.26\_x64.exe** .
 4. Select**Next** and**I Agree** **to confirm acceptance** of the end user agreement.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Disk Savvy setup wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-savvy-window.jpg)
 5. Then press**Install** to add the Disk Savvy tool to the Windows context menu.
 6. Select**Next** when installation is complete.
@@ -82,10 +78,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  The Disk Savvy window that opens displays similar disk usage info to RidNacs. It includes columns that tell you how many files are in the subfolders, the byte size of each folder and file, and the percentage of their root directory’s total size they amount to. However, Disk Savvy also includes a**Categorize by** submenu that includes various options for viewing categorized file info.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Disk Saavy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-savvy-window2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What sets Disk Savvy apart from RidNacs are its bar and pie graph options for viewing disk space usage info. Click the**Charts** button to access those options. Then you can select an option like**Disk Space Per File Type** ,**Disk Space Per Directory** , and**Disk Space Per Extension** to view a pie chart like the one below.
 
@@ -101,6 +98,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Disk space analyzis report options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-report-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get a Visual Overview of Folder and File Disk Usage in Windows
 
  RidNics and Disk Savvy are useful tools that enable users to quickly analyze disk space usage in selected folders or entire drives. Those context menu utilities give you a comprehensive visual overview of what files and folders are taking up the most space on your hard drive. They’ll come in handy for freeing up drive space through manual user file deletion.
@@ -111,8 +112,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +119,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-comprehensive-list-of-non-udemy-e-learning-success-stories/"><u>[New] 2024 Approved Comprehensive List of Non-Udemy E-Learning Success Stories</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-from-beginner-to-pro-the-top-tips-for-instagram-stories/"><u>[New] From Beginner to Pro The Top Tips for Instagram Stories</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elite-selections-5-fast-screen-recorders-for-2024/"><u>[Updated] Elite Selections 5 Fast Screen Recorders for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-companion-apps-for-androidiphone-slow-motion-shooting/"><u>2024 Approved Best Companion Apps for Android/iPhone Slow Motion Shooting</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-excellent-choice-7-premium-mac-videos/"><u>2024 Approved Excellent Choice 7 Premium Mac Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-divide-restoring-your-remote-network-connection/"><u>Bridging The Divide: Restoring Your Remote Network Connection</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-back-broadband-speed-top-7-windows-11-solutions/"><u>Bring Back Broadband Speed: Top 7 Windows 11 Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-boundaries-instantly-access-windows-terminal-admin-mode/"><u>Bypass Boundaries: Instantly Access Windows Terminal, Admin Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/capturing-your-windows-world-tool-tally-of-the-capture-titans/"><u>Capturing Your Windows World: Tool Tally of the Capture Titans</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insights-on-the-chargetech-27000mah-portable-charger-unveiled/"><u>Expert Insights on the ChargeTech 27000mAh Portable Charger – Unveiled</u></a></li>
+</ul></div>
 

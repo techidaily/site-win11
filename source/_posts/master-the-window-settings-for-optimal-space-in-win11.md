@@ -1,7 +1,7 @@
 ---
 title: Master the Window Settings for Optimal Space in Win11
-date: 2024-08-08T13:20:09.332Z
-updated: 2024-08-09T13:20:09.332Z
+date: 2025-01-19T03:21:42.718Z
+updated: 2025-01-25T06:34:07.918Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,15 @@ thumbnail: https://thmb.techidaily.com/235c9a836def3af64d14d9406f5da36fac525d1a6
 5. Then click**Finish** and**Yes** to bring up the AutoSizer window.
 
 1. Next, open the software you want to set the preset window size for. You should then see that software listed in the**Currently open windows** box.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The AutoSizer window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/autosizer-window.jpg)
 2. Select the software in the**Currently open windows** box and click the**AutoSize** button to bring up the window shown directly below.  
 ![The Action to perform drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/autosize-window.jpg)
 3. Then select the**Resize** /**Position** option on the**Action to perform** drop-down menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the**Set size** checkbox.
 5. Input the window width and height values in the two text boxes. The left box sets the width and the right one is for height.
 6. Click the**OK** button. The software window you set a size for will then be resized to the values entered.
@@ -48,18 +50,12 @@ thumbnail: https://thmb.techidaily.com/235c9a836def3af64d14d9406f5da36fac525d1a6
 
  AutoSizer has an Options window that includes some general settings for the program. Click the**Options** button to view the app’s miscellaneous settings. You can enable or disable the app for the Windows startup by selecting or deselecting the**Load AutoSizer automatically** option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![General options for AutoSizer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/general-autosize-settings.jpg)
 
  To set a hotkey to restore windows to their preset sizes, click inside the**AutoSize Now! Shortcut key** box. Press a keyboard hotkey to set it. Then you’ll be able to restore windows to their preset dimensions after resizing them by pressing that hotkey.
 
  And if you're a big fan of hotkeys, be sure to check out[how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Set Custom Sizes for Software With WinSize2
 
  WinSize2 is another free tool for setting preset window sizes. This one is a portable app, which means it can run with no installation needed.
@@ -79,11 +75,13 @@ thumbnail: https://thmb.techidaily.com/235c9a836def3af64d14d9406f5da36fac525d1a6
 Now it's time to use WinSize2 to size our windows:
 
 1. Double-click the**WinSize2.exe** file to launch WinSize2.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The WinSize2 window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winsize2-window.jpg)
 2. Then open the software window for which to set the size.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Make sure the software window you’ve opened is the selected (active) window.
 4. Resize the window to a size you want to save.
 5. Press the**Ctrl** +**Alt** +**Z** hotkey to save the window’s size.
@@ -91,10 +89,11 @@ Now it's time to use WinSize2 to size our windows:
 
  The**always** checkbox for width and height will be selected by default, which locks the window's size so you can’t resize it with the cursor. If you prefer that option to be disabled, deselect the**always** box. Press the**Change** button, and click**OK** to apply.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Complete Title of the Window drop-down menu in WinSize2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-wintitle-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The window you set the preset size for will always open with its saved dimensions, so long as WinSize2 is running. Try it out by opening the software, resizing its window, and closing the program. The software’s window will still open at the size set when you launch it again.
 
@@ -106,10 +105,15 @@ Now it's time to use WinSize2 to size our windows:
 
  To customize WinSize2’s hotkey for saving windows, click the**Extras-1** tab. Click inside the key box, and press the keyboard buttons for an alternative hotkey. Then select the**OK** option to apply.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![The define a new Hotkey box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-define-a-hotkey-box.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Your Software at Your Preferred Window Sizes
 
@@ -121,8 +125,6 @@ Now it's time to use WinSize2 to size our windows:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +132,22 @@ Now it's time to use WinSize2 to size our windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-mastering-pip-activatedeactivate-in-safari-on-apple-devices/"><u>[New] Mastering PIP Activate/Deactivate in Safari on Apple Devices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-core-principles-youtubes-social-contract-for-2024/"><u>[Updated] Core Principles YouTube's Social Contract for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/capture-the-oceans-majesty-best-action-cameras-reviewed-for-2024/"><u>Capture the Ocean's Majesty Best Action Cameras Reviewed for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-windows-pink-screens-an-essential-skill/"><u>Disabling Windows Pink Screens: An Essential Skill</u></a></li>
+<li><a href="https://win11.techidaily.com/fixed-positioning-of-windows-tasks-a-guide/"><u>Fixed Positioning of Windows Tasks: A Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-portaudio-problems-in-audacity-for-windows-1111-devices/"><u>Fixing PortAudio Problems in Audacity for Windows 11/11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208971806-how-to-fix-your-game-requires-a-system-restart-to-play-valorant/"><u>How to Fix “Your Game Requires a System Restart to Play” Valorant</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-your-electronics-tips-and-tricks-from-tomwartzs-hardware-reviews/"><u>Master Your Electronics: Tips and Tricks From Tom'wartz's Hardware Reviews</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-write-access-blockage-in-windows-11/"><u>Remedying Write Access Blockage in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-recycle-icon-inactivity-issue-in-win11/"><u>Removing Recycle Icon Inactivity Issue in Win11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/sky-high-storages-expert-recommendations/"><u>Sky-High Storages Expert Recommendations</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-copy-and-paste-on-edge-within-windows-11s-app-guard/"><u>Unlock Copy & Paste on Edge Within Windows 11'S App Guard</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcoming-compatibility-how-your-ipad-can-connect-to-usb-enabled-webcams-and-cameras/"><u>Upcoming Compatibility: How Your iPad Can Connect to USB-Enabled Webcams & Cameras</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-record-your-gameplay-3-beginner-friendly-options/"><u>Updated Record Your Gameplay 3 Beginner-Friendly Options</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-web-woes-7-simple-solutions-for-site-shutdown-syndrome/"><u>Windows Web Woes? 7 Simple Solutions for Site Shutdown Syndrome</u></a></li>
+</ul></div>
 

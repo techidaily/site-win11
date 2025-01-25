@@ -1,7 +1,7 @@
 ---
 title: Remedying Directories Not Empty Error on Win11 with #0X80070091
-date: 2024-08-08T13:20:10.288Z
-updated: 2024-08-09T13:20:10.288Z
+date: 2025-01-21T02:12:20.385Z
+updated: 2025-01-24T17:17:27.508Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/6eaf9b365a6361451b5795d958332fe971bf3b2af
 
  The 0x80070091 message suggests that the error occurs because a folder isn’t empty. Yet, you should be able to erase directories that contain files without any issues. Furthermore, that error can also arise for empty folders. If you’re seeing the same folder error 0x80070091 in Windows, try applying these potential fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Try Erasing the Folder With the Command Prompt
 
  The Command Prompt gives users another way to delete folders in Windows 11/10\. So, you might be able to erase an affected folder without issues by using the Command Prompt. Using the Command Prompt might be more of a workaround, but at least you’ll get the folder deleted if works.
@@ -34,25 +38,31 @@ thumbnail: https://thmb.techidaily.com/6eaf9b365a6361451b5795d958332fe971bf3b2af
 
 ![The delete folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-folder-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Restart Windows File Explorer
 
  Restarting File Explorer can resolve issues that occur with that file manager. However, closing and reopening the Explorer window doesn’t restart the file manager. You’ll need to restart the Explorer process via Task Manager like this:
 
 1. To view Task Manager, press**Ctrl** +**Shift** +**Esc** simultaneously.
 2. Select File Explorer on the**Processes** tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![The Restart option for File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restart-options-for-file-explorer.jpg)
 3. Press the**Restart** button for the selected Explorer process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Scan System Files With an SFC Scan
 
  Error 0x80070091 can be caused by some corrupted system files that need repairing. Running an SFC scan might both detect and repair corrupted system files and fix error 0x80070091 in the process. You can scan with SFC as instructed in our post for[running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-scannow-command.jpg)
 
 ## 4\. Check for Errors With a Disk Scan
@@ -63,11 +73,12 @@ thumbnail: https://thmb.techidaily.com/6eaf9b365a6361451b5795d958332fe971bf3b2af
 2. Type in this Check Disk command and press**Enter:**  
 `chkdsk /f /r C:`
 3. Press**Y** to schedule the scan for a restart.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![The chkdsk scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk-scan-command.jpg)
 4. Click**Start** and select**Power** \>**Restart** to reboot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the folder the 0x80070091 error occurs for isn’t on the C: drive, you’ll need to modify the above command. Replace**C:** with the letter of the storage drive that includes the affected folder.
 
@@ -76,21 +87,20 @@ thumbnail: https://thmb.techidaily.com/6eaf9b365a6361451b5795d958332fe971bf3b2af
  Error 0x80070091 can arise because of insufficient folder permission. You might need to set an affected folder to full permission to resolve error 0x80070091\. To do that, change the folder’s permission settings as follows:
 
 1. Open Explorer and right-click the affected folder to select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/properties-option.jpg)
 2. Click the window’s**Security** tab.
 3. Next, press the**Advanced** button.  
 ![The Security tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/security-tab.jpg)
 4. Click**Change** beside the owner’s name.  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Advanced Security Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/advanced-security-settings-window.jpg)
 5. Enter your Windows user account name inside the object name text box.  
 ![The Select a User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/select-a-user-or-group.jpg)
 6. Then select the**Check Names** option and**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click**Replace owner on subcontainers and objects** to select that setting.
 8. Press the Advanced Security Settings window’s**Apply** and**OK** buttons.
 
@@ -100,22 +110,13 @@ thumbnail: https://thmb.techidaily.com/6eaf9b365a6361451b5795d958332fe971bf3b2af
 
 1. Double-click a**Windows Security** (shield) icon in the system tray part of the taskbar.
 2. Click**Virus & threat protection** \>**Scan options** to view all options for scanning.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![The Scan options navigation link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-scan-options-link.jpg)
 3. Select the most thorough**Full Scan** option, which could take more than an hour to finish.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![The Full scan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-scan-option.jpg)
 4. Press**Scan now** to start the antivirus scanning.
 5. Then wait to see if the scan detects anything, and select**Remove** if it does.
 6. Click**Start actions** to apply.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Delete Your Folders in File Explorer Again With These Fixes
 
  You’ll probably be able to delete the folders for which error 0x80070091 occurred after applying those potential solutions. If that error persists, the Windows registry on your PC could be corrupted. To resolve such registry issues, you might need to perform a system restore or even reset Windows 11/10.
@@ -126,8 +127,6 @@ thumbnail: https://thmb.techidaily.com/6eaf9b365a6361451b5795d958332fe971bf3b2af
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +134,24 @@ thumbnail: https://thmb.techidaily.com/6eaf9b365a6361451b5795d958332fe971bf3b2af
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-integrating-royalty-free-songs-into-video-projects/"><u>[New] 2024 Approved Integrating Royalty-Free Songs Into Video Projects</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-top-tips-to-nail-every-green-screen-scene/"><u>[New] 2024 Approved Top Tips to Nail Every Green Screen Scene</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-the-art-of-logging-digital-sound-from-computers/"><u>[Updated] Mastering the Art of Logging Digital Sound From Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/brighten-up-your-windows-11-interface-pointer/"><u>Brighten Up Your Windows 11 Interface Pointer</u></a></li>
+<li><a href="https://win11.techidaily.com/clarifying-differences-how-exes-stack-up-against-msis/"><u>Clarifying Differences: How EXEs Stack Up Against MSIs</u></a></li>
+<li><a href="https://win11.techidaily.com/combatant-guide-for-the-windows-updater-error-0x80070003/"><u>Combatant Guide for the Windows Updater Error 0X80070003</u></a></li>
+<li><a href="https://win11.techidaily.com/combating-darkened-windows-display-during-remote-workspace-access/"><u>Combating Darkened Windows Display During Remote Workspace Access</u></a></li>
+<li><a href="https://win11.techidaily.com/develop-a-custom-speech-to-text-app-for-windows-step-by-step-guide/"><u>Develop a Custom Speech-to-Text App for Windows: Step by Step Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/zero-to-hero-in-youtube-traffic-for-2024/"><u>From Zero to Hero in YouTube Traffic for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-z50-70-seamless-software-tweaks/"><u>Lenovo Z50-70: Seamless Software Tweaks</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/locating-your-gpu-can-you-find-it-using-device-manager-insights-from-yl-computing/"><u>Locating Your GPU: Can You Find It Using Device Manager - Insights From YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-forgotten-windows-key-logon-message/"><u>Mending Forgotten Windows Key Logon Message</u></a></li>
+<li><a href="https://win11.techidaily.com/pinpointing-problems-smooth-your-pcs-cpu-flow-with-rm/"><u>Pinpointing Problems: Smooth Your PC's CPU Flow With RM</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ltimate-12-camera-guide-for-effortless-screen-swivel-use-for-2024/"><u>The Ultimate 12 Camera Guide for Effortless Screen Swivel Use for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-solutions-for-windows-color-synchronization/"><u>Unveiling Solutions for Windows Color Synchronization</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722886308949-yahoo-users-heres-how-you-can-erase-your-email-account-forever/"><u>Yahoo Users, Here's How You Can Erase Your Email Account Forever!</u></a></li>
+</ul></div>
 

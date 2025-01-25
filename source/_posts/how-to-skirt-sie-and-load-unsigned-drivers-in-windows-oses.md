@@ -1,7 +1,7 @@
 ---
 title: How to Skirt SIE & Load Unsigned Drivers in Windows OSes
-date: 2024-08-08T13:23:14.712Z
-updated: 2024-08-09T13:23:14.712Z
+date: 2025-01-20T04:11:13.718Z
+updated: 2025-01-24T20:42:10.893Z
 tags:
   - windows10
   - windows11
@@ -20,21 +20,19 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 
  In this guide, we're going to show you several ways to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Disable Driver Signature Enforcement in the Startup Settings
 
  A temporary way to disable driver signature enforcement is through Startup Settings, allowing you to install the unsigned drivers. However, the moment you restart your PC, Windows will re-enable driver signature enforcement. The unsigned drivers you've installed will still work, but you may not be able to install new ones.
 
  To disable driver signature enforcement this way, you'll have to [access the Startup Settings screen](https://www.makeuseof.com/windows-startup-settings/). The **Disable driver signature enforcement** option will be the seventh one, so press **F7** or **7** on your keyboard to select it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
 
  Your computer will then restart, and when it reboots, you'll be able to install those unsigned drivers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Disable Driver Signature Enforcement in the Local Group Policy Editor
 
@@ -48,13 +46,14 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 3. Right-click **Code signing for driver packages** and select **Edit**.  
 ![editing the Code signing for driver packages policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/editing-the-code-signing-for-driver-packages-policy.jpg)
 4. Click the **Enabled** radio button, and then, in the **Options** section, click on the dropdown and select **Ignore**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![enabling the Code signing for driver packages policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/enabling-the-code-signing-for-driver-packages-policy.jpg)
 5. Click on **OK**.
 
  If you want to enable driver signature enforcement again, go back to step #4 and set the radio button to **Not configured**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Disable Driver Signature Enforcement in PowerShell
 
@@ -67,17 +66,22 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 1. Right-click **Start** and select **Terminal (Admin)** on Windows 11 or **Windows PowerShell (Admin)** on Windows 10\.
 2. Click **Yes** on the UAC prompt.
 3. Copy **bcdedit /set nointegritychecks on** and paste it into PowerShell.  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turning off driver signature enforcement in Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/turning-off-driver-signature-enforcement-in-terminal.jpg)
 4. Hit **Enter** to run the command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To turn on driver signature enforcement again, replace the command in step #3 with **bcdedit /set nointegritychecks off**.
 
  One potential problem you can run into when trying to turn off driver signature enforcement this way is an error stating **The value is protected by Secure Boot policy and cannot be modified or deleted**.
 
 ![Secure Boot error in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/secure-boot-error-powershell.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If that is the case, you can try [turning off Secure Boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) and trying again. But if you don't want to do this, using Startup Settings and the Local Group Policy Editor is perfectly okay.
 
@@ -86,24 +90,20 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 1. Right-click **Start** and select **Terminal (Admin)** on Windows 11 or **Windows PowerShell (Admin)** on Windows 10\.
 2. Click **Yes** on the UAC prompt.
 3. Copy **bcdedit /set testsigning on** and paste it into PowerShell.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turning on Test Mode in Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/turning-on-test-mode-in-terminal.jpg)
 4. Hit **Enter** to run the command.
 
  Now restart your computer, and when it boots back up, it will be in test mode. After you're done installing those drivers, don't forget to disable test mode. The command to do that is **bcdedit /set testsigning off**.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Now You Can Install Unsigned Drivers on Windows
 
  Installing unsigned drivers on Windows is not recommended, since they can lead to unexpected behavior. However, if you trust the driver, there's no reason why the OS should block you from installing it. Just use one of the methods mentioned above, and you should be able to install and use unsigned drivers on your Windows PC.
 
  In this guide, we're going to show you several ways to do it.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -111,3 +111,23 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-immediate-countermeasures-for-the-w10-photos-crash-dilemnas/"><u>[New] Immediate Countermeasures for the W10 Photos Crash Dilemnas</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-animating-elegance-self-designed-tricks-and-effects-for-2024/"><u>[Updated] Animating Elegance Self-Designed Tricks & Effects for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-top-10-vr-apps-for-iphoneandroid/"><u>2024 Approved Top 10 VR Apps for iPhone/Android</u></a></li>
+<li><a href="https://win11.techidaily.com/8-ways-to-boost-your-studying-on-windows/"><u>8 Ways to Boost Your Studying on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-guide-to-fixing-your-windows-photo-app/"><u>A Comprehensive Guide to Fixing Your Windows Photo App</u></a></li>
+<li><a href="https://win11.techidaily.com/a-scholarly-approach-to-embracing-hdr-in-windows-11-workflows/"><u>A Scholarly Approach to Embracing HDR in Windows 11 Workflows</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-disrupted-audio-playback-on-windows/"><u>Addressing Disrupted Audio Playback on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-utorrent-setup-problems-on-microsoft-windows/"><u>Addressing uTorrent Setup Problems on Microsoft Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/break-through-windows-barriers-be-an-admin-now/"><u>Break Through Windows Barriers - Be an Admin Now</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-12plus-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Realme 12+ 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-to-find-out-if-you-can-upgrade-your-iphone/"><u>How to Find Out if You Can Upgrade Your iPhone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/prime-lenses-for-stop-motion-visuals/"><u>Prime Lenses for Stop Motion Visuals</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/quick-tips-for-seamlessly-shifting-your-windows-installation-across-drives/"><u>Quick Tips for Seamlessly Shifting Your Windows Installation Across Drives</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/seamless-transitions-shooting-smooth-time-lapse-with-hero5-for-2024/"><u>Seamless Transitions Shooting Smooth Time-Lapse with Hero5 for 2024</u></a></li>
+</ul></div>
+

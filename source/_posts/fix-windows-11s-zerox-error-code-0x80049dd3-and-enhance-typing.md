@@ -1,7 +1,7 @@
 ---
 title: "Fix Windows 11'S Zerox Error (Code: 0X80049DD3) and Enhance Typing"
-date: 2024-08-16T00:42:21.203Z
-updated: 2024-08-17T00:42:21.203Z
+date: 2025-01-17T16:40:19.157Z
+updated: 2025-01-24T18:00:19.342Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
  The voice typing feature in Windows 11 usually enables users to input text (word process) by speaking into their PCs’ microphones. However, some users have reported a 0x80049dd3 voice typing error during 2022\. Those users see this error message when they try to utilize voice typing, “Something went wrong: 0x80049dd3.”
 
  As a result, users can’t input text with voice typing. Sure, you can always use your keyboard for word processing; but those who need to fix this issue no doubt prefer speech-to-text dictation. This is how you can fix the 0x80049dd Voice Typing error in Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Run the Recording Audio and Speech Troubleshooters
 
@@ -57,10 +61,11 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 4. Click the**Download and install** buttons for any available Windows 11 updates. That includes the Windows 11 22H2 build update if it is available for you.
 5. Select**Advanced options** \>**Optional updates** to view other patches.  
 ![The Download & install button for optional updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-download--install-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Then select the checkboxes for updates listed there, and click the**Download and install** options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check the Settings for Your Microphone
 
@@ -70,14 +75,13 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 2. Then select**Privacy & security** in Settings.
 3. Next, click the**Microphone** navigation option.  
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microphone-navigation-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Toggle on the**Microphone access** option if it is disabled.  
-![The microphone access settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microphone-access-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The microphone access settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microphone-access-settings.jpg)
 5. Turn on the**Let apps access your microphone** setting.
 6. Make sure the microphone access options for all apps you need to utilize the mic with are turned on.
 
@@ -90,13 +94,15 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
  If Driver Booster, or alternative software, shows your microphone’s driver needs updating, you can select to update it from there. Our[guide to updating drivers with Driver Booster 8](https://www.makeuseof.com/update-windows-drivers-driver-booster-8/) (now version 10) tells you how to update device drivers with that software.
 
 ![The Driver Booster software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-driver-booster-software.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Set Up a New User Account
 
  Creating a new user account is among the most widely confirmed solutions for error 0x80049dd3\. Thus, this error is seemingly often a user account issue. Try setting up and switching to a new user account in the following steps:
@@ -106,14 +112,13 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 3. Select the**Family & other users** navigation option.
 4. Click**Add account** for the**Add other user** option.  
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-add-account-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 5. Select the **I don’t have this person’s sign-in information** option on the Microsoft account window.  
-![The I don't have this person's sign-in information option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-i-dont-have-sign-in-information-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The I don't have this person's sign-in information option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-i-dont-have-sign-in-information-option.jpg)
 
 1. Next, click**Add a user** without a Microsoft account.
 2. Fill in the user account name and password boxes.  
@@ -123,6 +128,11 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 5. Press the**Change account type** button for your new account.  
 ![The Change account type button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-change-account-type-option.jpg)
 6. Select the**Administrator** option on the Change account type window, and click**OK** to save.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-administrator-option.jpg)
 7. Sign out of Windows 11 and log in to the newly created user account.
 8. Try using voice typing in your new user account.
@@ -131,9 +141,6 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 
 `C:\Users\<Old_Username>\nC:\Users\<New_Username>`
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Reset Your Network Connection
 
  Network connectivity issues are another potential cause for error 0x80049dd3\. So, resetting network components could help some users resolve this issue. You can reset your network adapter via Settings in the following steps:
@@ -146,6 +153,10 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 5. Restart Windows 11 after resetting the network.
 6. Then you’ll need to reconnect your PC to the internet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get Voice Typing Again on Windows 11
 
  You’ll probably be able to resolve error 0x80049dd3 in Windows 11 with the potential fixes above. In many cases, this is a Windows user account issue that changing accounts will resolve. However, you can also try fixing a corruption error for an existing user account with the DISM, SFC, and System Restore tools. With error 0x80049dd3, resolved, you can then resume speech-to-text voice typing again.
@@ -156,8 +167,6 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +174,24 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-a-comprehensive-walkthrough-setting-up-your-first-wirecast-livestream-to-youtube/"><u>[New] 2024 Approved A Comprehensive Walkthrough Setting Up Your First WireCast Livestream to Youtube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-copycat-cinema-steps-for-satirical-video-making/"><u>[New] 2024 Approved Copycat Cinema Steps for Satirical Video Making</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-custom-youtube-video-speed-control-desktopmobile/"><u>[New] In 2024, Custom YouTube Video Speed Control (Desktop/Mobile)</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/1-rapid-solutions-fixing-error-code-0xc000005-instantly/"><u>1. Rapid Solutions: Fixing Error Code 0xC000005 Instantly</u></a></li>
+<li><a href="https://win11.techidaily.com/5-ways-to-open-the-startup-repair-tool-on-windows/"><u>5 Ways to Open the Startup Repair Tool on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/9-ways-to-fix-keyboard-shortcuts-not-working-in-windows/"><u>9 Ways to Fix Keyboard Shortcuts Not Working in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/activating-windows-11-spatial-audio-setup-guide/"><u>Activating Windows 11: Spatial Audio Setup Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-no-supported-issue-during-os-setup-and-update/"><u>Addressing 'No Supported' Issue During OS Setup and Update</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-system-index-for-optimization/"><u>Altering System Index for Optimization</u></a></li>
+<li><a href="https://win11.techidaily.com/automate-app-colors-with-the-help-of-windows-11-features/"><u>Automate App Colors with the Help of Windows 11 Features</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-windows-notepad-system-disruptions/"><u>Avoiding Windows Notepad System Disruptions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-apple-device-orientation-issues-landscape-mode-not-responding/"><u>Fix Apple Device Orientation Issues - Landscape Mode Not Responding?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/how-to-perfectly-record-and-preserve-your-ps3-games-for-2024/"><u>How to Perfectly Record and Preserve Your PS3 Games for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-c12-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Nokia C12 support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://win11.techidaily.com/1719254323833-overcome-shift-key-stickiness-in-windows-os/"><u>Overcome Shift Key Stickiness in Windows OS.</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722962208767-the-ratio-of-wood-to-plastic-in-wpcs-can-be-adjusted-to-tailor-properties-such-as-stiffness-strength-and-impact-resistance-for-different-applications/"><u>The Ratio of Wood to Plastic in WPCs Can Be Adjusted to Tailor Properties Such as Stiffness, Strength, and Impact Resistance for Different Applications</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-tecno-pova-5-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Tecno Pova 5 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

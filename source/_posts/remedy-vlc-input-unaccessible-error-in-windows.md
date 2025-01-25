@@ -1,7 +1,7 @@
 ---
 title: Remedy VLC Input Unaccessible Error in Windows
-date: 2025-01-13T21:37:53.565Z
-updated: 2025-01-19T00:53:26.876Z
+date: 2025-01-19T03:44:49.904Z
+updated: 2025-01-24T18:08:00.514Z
 tags:
   - windows10
   - windows11
@@ -27,13 +27,13 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Change the File/Folder Path
 
 ![copy folder file move windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/copy-folder-file-move-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The "your input can’t be opened" error can occur if the folder path for the saved media is too long. For example, if your file is saved in D:\\Users\\Downloads\\Media\\New\\Files, moving it to a main folder such as**D:\\Users** can fix the issue.
 
@@ -61,6 +61,10 @@ To rename the folder:
 5. Rename the folder or file to a small name than the current folder name. Avoid using any special characters.
 6. Once renamed, open the folder and play any media file with the error to see if the problem is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Reset VLC Media Player Preference
 
  VLC offers tons of customization options. If the error is triggered after making a change to the VLC media player, you can reset the preferences to fix the issue.
@@ -72,14 +76,14 @@ To rename the folder:
 ![vlc media player preferences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/vlc-media-player-preferences.jpg)
 3. In the**Interface** tab, scroll down and click on**Reset Preferences.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![reset preferences vlc media player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-preferences-vlc-media-player.jpg)
 4. Click**OK** when the **Are you sure you want to reset your VLC media player preferences** dialog appears.
 
 5. Relaunch the VLC media player and try to play the media file to see if the error is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Modify the Youtube.luac VLC File to Fix Issues With YouTube Video Steaming
 
@@ -102,6 +106,10 @@ To rename the folder:
 ![youtube luac script save](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/youtube-luac-script-save.jpg)
 5. When the file opens, press**Ctrl + A** to select all the contents of the file. Then, press**Ctrl + V** to paste the script copied from the GitHub page for VLC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Press**Ctrl + S** and click**Yes** to confirm the action.
 
  Once the file is saved, launch VLC and check if the error is resolved. If not, try to create a new text file with the above script and save it as**youtube.lua** . Next, delete the**youtube.luac** file in**VLC\\lua\\playlist** and then move the**youtube.lua** file to the same folder. Try to stream any YouTube video via VLC to check if the error is resolved.
@@ -117,6 +125,10 @@ To take ownership of a media file:
 ![properties media](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/properties-media.jpg)
 3. In the**Properties** dialog, open the**Security** tab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Next, click the**Advanced** button.  
 ![file properties advanced security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-properties-advanced-security.jpg)
 5. Click the**Change** button for**Owner** .  
@@ -125,7 +137,7 @@ To take ownership of a media file:
 6. Next, type your user account name in the**Enter** t**he object name to select the** field and click**Check Names.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![file properties advanced security change owner select user group](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-properties-advanced-security-change-owner-select-user-group.jpg)
@@ -134,7 +146,7 @@ To take ownership of a media file:
 8. Click**Apply** and**OK** on all the open dialogs to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Reinstall VLC Media Player
@@ -148,22 +160,10 @@ To uninstall the VLC media player:
 ![windows 11 view installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-view-installed-apps.jpg)
 3. Click on**Installed apps** and then search for VLC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![uninstall vlc media player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-vlc-media-player.jpg)
 4. Click the**three-dots menu** for the VLC media player and select**Uninstall** . Click**Uninstall** once again to confirm the action.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Once uninstalled, open the[VLC media player page](https://www.videolan.org/vlc/) and download the installer. Install the app and check for any improvements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Invalid File Name and Long File Path Triggers This Error
 
@@ -184,22 +184,22 @@ To uninstall the VLC media player:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-videographers-playbook-for-sims-games/"><u>[New] In 2024, The Videographer's Playbook for Sims Games</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-superior-free-lut-options/"><u>[New] The Ultimate Guide to Superior, Free LUT Options</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-transform-your-live-streaming-best-practices-in-obs-studio/"><u>[Updated] 2024 Approved Transform Your Live Streaming Best Practices in OBS Studio</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-snapseed-101-easy-steps-to-photo-perfection/"><u>2024 Approved Snapseed 101 Easy Steps to Photo Perfection</u></a></li>
-<li><a href="https://win11.techidaily.com/analyzing-windows-credential-entry-attempts/"><u>Analyzing Windows Credential Entry Attempts</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-and-fixing-error-code-0xc0000001-on-windows/"><u>Decoding and Fixing Error Code 0XC0000001 on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-4-password-guardians-elevating-windows-11-security/"><u>Essential 4 Password Guardians Elevating Windows 11 Security</u></a></li>
-<li><a href="https://win-able.techidaily.com/fallout-3-stability-improvements-for-windows-11-users-no-more-crashes/"><u>Fallout 3 Stability Improvements for Windows 11 Users - No More Crashes!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-camon-20-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Camon 20</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-scripting-sci-fi-elements-time-and-space-in-action/"><u>In 2024, Scripting Sci-Fi Elements Time & Space in Action</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/real-time-broadcasting-pro-manycam-live-streaming-app-with-virtual-camera-capabilities/"><u>Real-Time Broadcasting Pro: ManyCam Live Streaming App with Virtual Camera Capabilities</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-error-x0001-with-nvidia-experience-w11/"><u>Remedying Error X0001 with Nvidia Experience, W11</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-enduring-appeal-of-the-samsung-galaxy-tab-s3-our-latest-assessment/"><u>The Enduring Appeal of the Samsung Galaxy Tab S3: Our Latest Assessment</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-non-responsive-alt-codes-in-windows/"><u>Troubleshooting Non-Responsive ALT Codes in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tweaking-the-lockout-threshold-post-failed-access-on-w10w11/"><u>Tweaking the Lockout Threshold Post-Failed Access on W10/W11</u></a></li>
-<li><a href="https://win11.techidaily.com/1719380495510-unravel-and-solve-your-windows-update-puzzle-fast/"><u>Unravel and Solve Your Windows Update Puzzle Fast</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-advanced-taskbar-attachments/"><u>Windows 11: Advanced Taskbar Attachments</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-cut-to-perfection-an-in-depth-look-at-vivacut-for-24/"><u>[New] In 2024, Cut to Perfection An In-Depth Look at VivaCut for '24</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-video-editing-fixing-youtube-short-fails/"><u>[New] Video Editing Fixing YouTube Short Fails</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-slow-motion-a-guide-to-photo-editing-tools/"><u>[Updated] Mastering Slow-Motion A Guide to Photo Editing Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-rising-stars-choices-top-5-hmds-for-drone-enthusiasts/"><u>[Updated] Rising Stars' Choices Top 5 HMDs for Drone Enthusiasts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtubes-finest-unveiling-the-best-reaction-tricks-for-2024/"><u>[Updated] YouTube's Finest Unveiling the Best Reaction Tricks for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-effortlessly-convert-spoken-language-into-written-content-using-microsoft-word/"><u>2024 Approved How to Effortlessly Convert Spoken Language Into Written Content Using Microsoft Word</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-essential-minecraft-video-tutorials/"><u>2024 Approved The Essential Minecraft Video Tutorials</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-phantom-hardware-listings-on-windows-system/"><u>Correcting Phantom Hardware Listings on Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/dial-down-windows-intense-contrast-level/"><u>Dial Down Windows' Intense Contrast Level</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-taskbar-functionality-on-windows-11/"><u>Elevate Taskbar Functionality on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-11s-discord-javascript-crisis-a-step-by-step-approach/"><u>Fixing Windows 11'S Discord JavaScript Crisis: A Step-by-Step Approach</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-m6-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Poco M6 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-light-up-the-screen-tips-and-steps-for-adding-gifs-to-snapchats/"><u>In 2024, Light Up the Screen Tips and Steps for Adding GIFs to Snapchats</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-techniques-to-purge-image-borders/"><u>Simplified Techniques to Purge Image Borders</u></a></li>
+<li><a href="https://win11.techidaily.com/starting-storytelling-voice-commands-in-windows-11/"><u>Starting Storytelling: Voice Commands in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-fix-disk-read-error-in-windows/"><u>Strategies to Fix Disk Read Error in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solutions-for-xps-xffffffff-printer-failure/"><u>Swift Solutions for XP's XFFFFFFFF Printer Failure</u></a></li>
 </ul></div>
 

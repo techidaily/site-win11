@@ -1,7 +1,7 @@
 ---
 title: Does File Explorer Keep Crashing on Windows 11? Try These Fixes
-date: 2024-08-08T13:21:27.731Z
-updated: 2024-08-09T13:21:27.731Z
+date: 2025-01-20T21:52:41.088Z
+updated: 2025-01-25T06:46:42.462Z
 tags:
   - windows10
   - windows11
@@ -26,12 +26,13 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 
 1. Right-click on the**Start icon** and select**Task Manager** from the list.
 2. In the**Processes** tab, locate**Windows Explorer** . Right-click on it and select**Restart** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![Restart Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Restart-Windows-Explorer.jpg)
 
  Your taskbar will disappear for a split second before reappearing, indicating the Windows Explorer process has rebooted. After that, File Explorer should work fine on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Clear File Explorer Cache
 
@@ -39,14 +40,16 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 
 1. Open the**Start menu** , search for**file explorer options** , and select the first result that appears.
 2. Under the**General** tab, click the**Clear** button next to**Clear File Explorer history** .  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![File Explorer Options Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Clear-File-Explorer-History.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Configure File Explorer Options
 
 [Issues with Quick Access in Windows 11](https://www.makeuseof.com/windows-11-fix-quick-access-not-showing-recent-files/) can also cause File Explorer to malfunction at times. If that's the case, you can configure File Explorer to open on This PC page to resolve the issue. Here are the steps you can follow.
@@ -57,13 +60,18 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 4. Hit**Apply** followed by**OK** .  
 ![Configure File Explorer to Open to This PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-file-explorer-to-open-to-this-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Disable Your Antivirus Program
 
  It’s always a good idea to protect your system with an antivirus program. However, not all antivirus programs are equally reliable. It’s possible that your third-party antivirus program is conflicting with File Explorer processes, resulting in abrupt crashes. To check for this possibility, you can temporarily disable your antivirus program by clicking its icon on the taskbar and selecting**Disable > Disable until the next restart** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Launch Folder Windows in a Separate Process
 
  By default, all instances of File Explorer operate within a single explorer.exe process. As a result, when one of the File Explorer windows experiences issues, it affects all the active windows. To avoid this, you can configure Windows to open each File Explorer window in a separate process. Here's how to do it.
@@ -81,16 +89,10 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 
  Press**Win + R** to open the Run dialog box. Type**mdsched** in the box and press**Enter** . Click**Restart now and check for problems** in the Windows Memory Diagnostic window.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run Windows Memory Diagnostic Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-windows-memory-diagnostic-tool.jpg)
 
  Wait for the Windows Memory Diagnostic tool to scan your PC's RAM for errors. If it discovers any issues, take appropriate steps to troubleshoot those problems.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Troubleshoot in Clean Boot Mode
 
  When you boot Windows in a clean boot state, it only runs essential programs and processes. This can help you determine if the File Explorer crashes are caused by a faulty third-party app or program.
@@ -106,23 +108,17 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 * **Clear Temporary Files:** Having an excessive number of temporary files on your PC can have a negative impact on your system's performance. Hence, it’s a good idea to[delete temporary files in Windows 11](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
 * **Install Windows Updates:** Such issues can also occur due to a buggy or outdated Windows build. You can try[installing all the pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) and see if that solves your problem.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use File Explorer Again Without Any Interruptions
 
  So, this is how you can stop File Explorer from crashing on your Windows computer. In most cases, temporary glitches or an outdated File Explorer cache are the main culprits behind the issue. If not, you may have to resort to the other methods mentioned above to resolve the underlying issue.
 
  Not a fan of the default File Explorer in Windows 11? There are plenty of File Explorer alternatives worth trying out.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,4 +127,18 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-ultimate-guide-to-using-hashtags-for-youtube-gaming-videos/"><u>[New] 2024 Approved The Ultimate Guide To Using Hashtags For YouTube Gaming Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-do-reviewers-receive-payments-online/"><u>2024 Approved Do Reviewers Receive Payments Online?</u></a></li>
+<li><a href="https://win11.techidaily.com/a-deep-dive-into-keygen-malware-and-its-destructive-path-in-windows/"><u>A Deep Dive Into Keygen Malware & Its Destructive Path in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-your-excel-pace-on-a-windows-system/"><u>Boosting Your Excel Pace on a Windows System</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/easy-steps-for-effective-ez-grabber-implementation-for-2024/"><u>Easy Steps for Effective EZ Grabber Implementation for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719366255245-functional-failures-cure-win10-key-issues-now/"><u>Functional Failures? Cure Win10 Key Issues Now!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-access-your-in-depth-look-at-fcp/"><u>In 2024, Full Access Your In-Depth Look at FCP</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1719347815778-resolve-dormant-shift-key-issue-on-windows/"><u>Resolve Dormant Shift Key Issue on Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-elite-choice-in-drones-unveiling-dji-mavic-air-2/"><u>The Elite Choice in Drones: Unveiling DJI Mavic Air 지어 2쓰</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2213959-9780008138141-the-goat-in-2016-your-chinese-horoscope/"><u>The Goat in 2016: Your Chinese Horoscope | Free Book</u></a></li>
+</ul></div>
 

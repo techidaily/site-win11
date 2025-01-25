@@ -1,7 +1,7 @@
 ---
 title: Fixing the Inability to Reach MB Services in Windows 11 Devices
-date: 2024-08-08T13:21:43.087Z
-updated: 2024-08-09T13:21:43.087Z
+date: 2025-01-21T17:41:54.056Z
+updated: 2025-01-25T08:55:37.493Z
 tags:
   - windows10
   - windows11
@@ -20,19 +20,17 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
  Users who’ve purchased the premium version of Malwarebytes will be particularly annoyed by this issue. Are you also stumped by Malwarebytes’ "unable to connect" error? If you are, this is how you can fix the "unable to connect the service" error for MalwareBytes in Windows 10 and 11.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Set Malwarebytes to Run as an Administrator
 
  First, try applying simpler potential solutions, such as running Malwarebytes as an administrator. This will at least ensure the software has full system permissions when you start it.
 
  Our guide for[always running apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) explains how you can apply this potential fix.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-this-program-as-an-administrator-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check That the Malwarebytes Service Is Enabled and Running
 
@@ -41,22 +39,15 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 1. Activate the Run command box with the**Win + R** hotkey.
 2. Type**services.msc** in the**Open** box and select**OK** to launch Services.
 3. Double-click**Malwarebytes Services** to access that service’s properties window.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/malwarebytes-service.jpg)
 4. Then click on the**Startup type** drop-down menu to open it and select**Automatic** from there.
 5. Select**Start** to run the Malwarebytes Services.  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Malwarebytes Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/malwarebytes-service-window.jpg)
 6. Click the service’s**Apply** and**OK** options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check That the Windows Management Instrumentation Is Enabled and Running
 
@@ -65,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
  Open Services (see[how to open Services on Windows](https://www.makeuseof.com/windows-11-open-services-app/) ). double-click**Windows Management Instrumentation** , and select its**Automatic** and**Start** option from there as outlined for the second resolution.
 
 ![The Windows Management Instrumentation service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-management-instrumentation-service.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Repair Malwarebytes With Its Dedicated Support Tool
 
@@ -78,17 +73,16 @@ Here is how you can repair Malwarebytes with its support tool:
 4. Double-click the**mb-support-1.8.7.918.exe** file for the Malwarebytes Support Tool.
 5. Select the**Accept License Agreement** checkbox and**Next** to bring up the support tool.
 6. Click the**Advanced** tab.  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Repair System button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-system-option.jpg)
 7. Select all four checkboxes for the**Repair System** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Press the**Repair System** button.
 9. Restart your PC when prompted.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Run a Malware Scan With Windows Security
 
  Malwarebytes is a common target for malware because it’s an antivirus utility. So, there’s a possibility of malware causing this Malwarebytes startup issue. You can purge malware by running a manual Microsoft Defender scan within the Windows Security app like this:
@@ -101,8 +95,9 @@ Here is how you can repair Malwarebytes with its support tool:
 4. Press**Scan now** to start a Microsoft Defender scan.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reinstall Malwarebytes
 
  Users have also resolved the "unable to connect to service" error by reinstalling Malwarebytes. The Malwarebytes Support Tool includes a Clean option for uninstalling and reinstalling the software. This is how you can reinstall Malwarebytes with its support tool:
@@ -129,8 +124,6 @@ Here is how you can repair Malwarebytes with its support tool:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +131,22 @@ Here is how you can repair Malwarebytes with its support tool:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-essential-guidelines-for-creating-emotional-connection-in-client-spots-for-2024/"><u>[Updated] Essential Guidelines for Creating Emotional Connection in Client Spots for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-enhancing-meeting-success-with-microsoft-teams-snap-camera/"><u>[Updated] In 2024, Enhancing Meeting Success with Microsoft Teams Snap Camera</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-understanding-youtubes-ad-free-experience-with-a-plan/"><u>[Updated] Understanding YouTube's Ad-Free Experience with a Plan</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-overview-using-nearby-share-effectively/"><u>A Comprehensive Overview: Using Nearby Share Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-premium-surround-sound-with-dolby-atmos-in-windows-11/"><u>Achieving Premium Surround Sound with Dolby Atmos in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/asuss-steam-deck-challenger-the-rog-ally/"><u>ASUS's Steam Deck Challenger: The ROG Ally?</u></a></li>
+<li><a href="https://win11.techidaily.com/beat-the-sluggish-pace-of-win-based-outlook/"><u>Beat the Sluggish Pace of Win-Based Outlook</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-windows-monitors-brightness-with-top-software-select/"><u>Boosting Windows Monitors' Brightness with Top Software Select</u></a></li>
+<li><a href="https://win11.techidaily.com/boot-into-admin-powershell-for-system-administration-in-windows-11/"><u>Boot Into Admin PowerShell for System Administration in Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cognitive-clash-ultimate-gk-video-quizzes-for-2024/"><u>Cognitive Clash - Ultimate GK Video Quizzes for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/elite-circuit-experiences-best-five-titles-for-2024/"><u>Elite Circuit Experiences Best Five Titles for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-camguard-elite-mesh-patch/"><u>In 2024, CamGuard Elite Mesh Patch</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-s17-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo S17 Phone Network-Ready</u></a></li>
+</ul></div>
 

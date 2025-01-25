@@ -1,7 +1,7 @@
 ---
 title: Insider Tips to Propel Property Exploration
-date: 2025-01-17T10:01:30.080Z
-updated: 2025-01-18T21:08:56.965Z
+date: 2025-01-23T07:09:33.686Z
+updated: 2025-01-25T08:38:28.065Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Open File or Folder Properties in Windows
 
  Here are some easy ways to view the file or folder properties on a Windows PC. These methods will work for Windows 11 and older versions of Windows OS too.
@@ -42,20 +38,12 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 3. Then press**Alt + Enter** keys at once to open the file properties window.  
 ![View File Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Using the Mouse and Keyboard Shortcut
 
  This method eliminates the usage of the enter key to open the file properties windows. Repeat the following steps to open the properties window:
 
 1. Open the File Explorer app and navigate to the folder location.
 2. Now, hold the**Alt** key and**double-click** on the file to display its properties.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Using the Context Menu
 
@@ -68,10 +56,14 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 4. The file properties window will launch on your system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Keep in mind that the right-click context menu will look a bit different from the older versions of Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Using the File Explorer
 
@@ -85,7 +77,11 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 5. The Properties window will launch on your system. Press**Alt + F4** to close it after you no longer need it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Using the CMD Tool
@@ -98,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 4. Replace the “**File Path** ” with the actual location of your file. We have a text file saved on the desktop. So, the command to display its properties will be: **wmic datafile where "name='C:\\\\Users\\\\Test\\\\Desktop\\\\rr.txt'" list full**  
 ![View File Properties using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-cmd.jpg)
 5. Scroll down to check the file properties such as size, creation date, and more attributes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Using PowerShell
 
@@ -128,19 +128,15 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-designing-a-personalized-youtube-subscribe-link/"><u>[New] 2024 Approved Designing a Personalized YouTube Subscribe Link</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-earning-potential-unleashed-monetizing-fb-pages-effectively/"><u>[New] 2024 Approved Earning Potential Unleashed Monetizing FB Pages Effectively</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-top-10-live-streamers-an-analytical-comparison-review-for-2024/"><u>[New] Top 10 Live Streamers An Analytical Comparison Review for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-6-figure-views-prime-hashtag-strategies-for-success/"><u>[Updated] In 2024, 6-Figure Views Prime Hashtag Strategies for Success</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-the-next-level-in-monitor-technology-a-deep-dive-into-p2715qs-wonders/"><u>[Updated] In 2024, The Next Level in Monitor Technology - A Deep Dive Into P2715Q's Wonders</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-fresh-conversation-starters-keeping-listeners-hooked/"><u>2024 Approved Fresh Conversation Starters Keeping Listeners Hooked</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-firewall-defenses-in-5-easy-steps/"><u>Customizing Firewall Defenses in 5 Easy Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-update-failure-code-0x80246007-windows-guide/"><u>Disabling Update Failure Code 0X80246007: Windows Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-perfecting-your-reel-integrating-music-on-instagram/"><u>In 2024, Perfecting Your Reel Integrating Music on Instagram</u></a></li>
-<li><a href="https://win11.techidaily.com/in-depth-look-at-overlooked-window-11-styles/"><u>In-Depth Look at Overlooked Window 11 Styles</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-failed-volume-shadow-copy-in-windows-os/"><u>Solving Failed Volume Shadow Copy in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-comic-file-access-in-modern-windows/"><u>Streamlining Comic File Access in Modern Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-phone-link-microsofts-bluetooth-connectivity-app/"><u>Unveiling 'Phone Link': Microsoft’s Bluetooth Connectivity App</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/why-bother-with-reddit-get-the-best-filmora-deals-right-here/"><u>Why Bother with Reddit? Get the Best Filmora Deals Right Here</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-revolutionize-video-closings-exclusive-end-screen-templates/"><u>[New] 2024 Approved Revolutionize Video Closings - Exclusive End Screen Templates</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ecosystems-of-uav-innovations/"><u>[New] In 2024, Ecosystems of UAV Innovations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-best-value-in-cloud-pricing-a-comprehensive-list/"><u>[New] In 2024, The Best Value in Cloud Pricing A Comprehensive List</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-mute-status-in-windows-audiosystem/"><u>Correcting Mute Status in Windows Audiosystem</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unsupported-fingerprint-detector-issue-on-pc/"><u>Fixing Unsupported Fingerprint Detector Issue on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-a-visual-disk-space-analyzer-tool-to-the-context-menu-in-windows-11-and-11/"><u>How to Add a Visual Disk Space Analyzer Tool to the Context Menu in Windows 11 & 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/leveraging-azure-ai-for-audio-to-text-translation/"><u>Leveraging Azure AI for Audio to Text Translation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/master-techniques-for-editing-copious-amounts-of-tiktoks/"><u>Master Techniques for Editing Copious Amounts of TikToks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-software-upgrade-available-for-logitechs-extreme-3d-pro-controller/"><u>New Software Upgrade Available for Logitech's Extreme 3D PRO Controller</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-your-cortana-journey-backup-and-restore-guide/"><u>Secure Your Cortana Journey: Backup and Restore Guide</u></a></li>
 </ul></div>
 

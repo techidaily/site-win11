@@ -1,7 +1,7 @@
 ---
 title: "The Voice of Efficiency: Unleashing the Full Potential of Windows Accessibility Tools"
-date: 2024-08-08T13:19:43.766Z
-updated: 2024-08-09T13:19:43.766Z
+date: 2025-01-19T09:44:47.222Z
+updated: 2025-01-24T16:11:16.301Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
  In this article, we've put together a complete list of legacy keyboard shortcuts that you can use to make your Narrator experience more seamless.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do I Switch Between Legacy and Standard Keyboard Layouts?
 
  There are two popular keyboard layouts for Narrator: Legacy and Standard. The Legacy keyboard layout was traditionally used on computers before the widespread adoption of the Standard layout. It's still in use today and offers advantages at certain times.
@@ -32,18 +33,20 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 1. Press**Win + Ctrl + N** on your keyboard.
 2. Scroll down to the**Mouse and keyboard** section.
 3. Select**Keyboard layout** from the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Change Narrator Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-narrator-keyboard-layout.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This way, you can switch between the Legacy and Standard layouts.
 
  While this piece just covers the shortcuts, be sure to check out[the beginner's guide to Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) for more general tips.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## All the Narrator Legacy Keyboard Shortcuts
 
  Here is a list of keyboard shortcuts that you can use in Narrator to maximize your productivity.
@@ -168,20 +171,18 @@ This way, you can switch between the Legacy and Standard layouts.
 | Narrator + Q                                | Move to last item in containing area                                  |
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get More Out of Windows Narrator
 
  Windows Narrator is an incredible tool for people with low vision or blindness, but its features can be used by anyone. Whether you need to quickly find a file or hear today’s news summary, Narrator can help you get the job done. You will find here a list of keyboard shortcuts to help you get more done with Narrator.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -190,4 +191,18 @@ This way, you can switch between the Legacy and Standard layouts.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-autoplay-youtube-on-phones-without-interruption-for-2024/"><u>[New] Autoplay YouTube on Phones without Interruption for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-text-to-youtube-video-before-or-after-uploading-for-2024/"><u>[New] How to Add Text to YouTube Video Before or After Uploading for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-how-to-elevate-your-social-influence-the-six-step-guide-to-instagram-verified-status/"><u>[New] In 2024, How to Elevate Your Social Influence The Six-Step Guide to Instagram Verified Status</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-step-by-step-igtv-translation-guide-for-2024/"><u>A Step-By-Step IGTV Translation Guide for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/eliminate-lockscreen-ads-from-your-android-device-with-ease-a-step-by-step-guide/"><u>Eliminate Lockscreen Ads From Your Android Device with Ease: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-your-file-security-routine-with-powertoys/"><u>Enhancing Your File Security Routine with PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-users-through-windows-search-failure-issues/"><u>Guiding Users Through Windows Search Failure Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-onedrive-unsuccessful-cloud-issues/"><u>How to Rectify OneDrive Unsuccessful Cloud Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-file-management-windows-folders-restricted-mode-setup/"><u>Secure File Management: Windows Folders Restricted Mode Setup</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/top-5-funnier-call-enhancements-exciting-ways-to-transform-your-speech-patterns/"><u>Top 5 Funnier Call Enhancements Exciting Ways to Transform Your Speech Patterns</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-shorts-revenue-sharing-explained-how-much-will-i-make-for-2024/"><u>YouTube Shorts Revenue Sharing Explained How Much Will I Make for 2024</u></a></li>
+</ul></div>
 

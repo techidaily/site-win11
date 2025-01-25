@@ -1,7 +1,7 @@
 ---
 title: Solutions for Unresponsive Disk Optimization Utility
-date: 2024-08-08T13:22:09.506Z
-updated: 2024-08-09T13:22:09.506Z
+date: 2025-01-20T22:30:07.299Z
+updated: 2025-01-25T01:07:04.278Z
 tags:
   - windows10
   - windows11
@@ -33,9 +33,9 @@ thumbnail: https://thmb.techidaily.com/423415d175d6eec024525c4afdad758a2e4f56118
  Now we know what causes the Disk Defragmenter to stop working, it's time to look at some solutions that may help you fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Check Disk Defragmenter's Status
 
  If your computer is running slowly, one potential reason could be that the Disk Defragmenter service is not running properly. This service helps to optimize your hard drive by rearranging files so that they can be read more quickly and efficiently.
@@ -46,18 +46,11 @@ thumbnail: https://thmb.techidaily.com/423415d175d6eec024525c4afdad758a2e4f56118
 2. Scroll down to the "Optimise drives" service and double-click on it.
 3. Click on the drop-down menu and set the Start type to "Manual."
 4. Make sure the Service status is "Running." If it is not, then click on**Start** to run it.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![Set Optimise drives Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Set-Optimise-drives-Properties.jpg)
 5. Click**Apply > OK** to save it.
 
  After making the above changes, check if it solves the problem. If not, move on to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Run the System File Checker tool
 
  Another way to fix your disk defragmenter is to run the System File Checker tool. This tool will scan all of your system files and replace any that are corrupt or missing.
@@ -80,6 +73,10 @@ To run the System File Checker, follow these steps:
 
  Once the scan is complete, restart your computer and try defragmenting again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Run the CHKDSK Utility
 
  If your computer's Disk Defragmenter is still not working, you can try[running the CHKDSK utility](http://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) . This is a computer program designed to check the integrity of your hard drive, identify errors, and fix them.
@@ -89,11 +86,13 @@ To run the CHKDSK utility, follow the below steps:
 1. Press the Windows key and search for "Command Prompt".
 2. Right-click on the search result and select**Run as administrator** .
 3. Click**Yes** if UAC prompts on your computer screen. This will open a Command Prompt with admin access.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![Run chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-chkdsk-command.jpg)
 4. When you're in Command Prompt, type the following command and press Enter:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `chkdsk C: /f`
 
  In the command above,**"C:"** represents your drive, so you should replace it with the letter that refers to your drive.
@@ -102,9 +101,6 @@ To run the CHKDSK utility, follow the below steps:
 
  As it turns out, it may take several minutes for the scan to complete, depending on the size of your partition and sometimes it seems to get stuck. However, you should let it complete its task uninterrupted.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Close All Third-Party Applications
 
  Some third-party applications may interfere with Disk Defragmenter if they are running. In such a case, close all third-party programs and see if that helps the defragmenter to run properly.
@@ -114,25 +110,27 @@ To run the CHKDSK utility, follow the below steps:
 1. Press**Ctrl + Shift + Esc** on your keyboard to open the Task Manager.
 2. On the Processes tab, find a non-essential third-party service and right-click on it.
 3. Then select**End task** from the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![Close Programs Via Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Close-Programs-Via-Task-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After closing one, check if the disk defragmenter works again. If it does, the service you just closed is the culprit. Now you can either update, re-install, or even uninstall the problematic app so it stops interfering with Disk Defragmenter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing Windows Disk Defragmenter's Opening Issues
 
  Disk defragmentation can improve the situation by rearranging files so that they can be evenly distributed throughout the drive. However, sometimes the Disk Defragmenter tool doesn't work as expected. If you encounter this problem, the methods described above should help you resolve it.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -141,4 +139,18 @@ To run the CHKDSK utility, follow the below steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/addressing-breakpoint-failed-on-your-windows-system/"><u>Addressing 'Breakpoint Failed' On Your Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-techniques-for-capturing-uac-alerts/"><u>Advanced Techniques for Capturing UAC Alerts</u></a></li>
+<li><a href="https://win11.techidaily.com/aspire-to-win-11s-trials-joining-the-insider-brigade/"><u>Aspire to Win 11'S Trials: Joining the Insider Brigade</u></a></li>
+<li><a href="https://win11.techidaily.com/best-browsing-on-three-oses-minimal-resource-browser-choices/"><u>Best Browsing on Three OSes: Minimal Resource Browser Choices</u></a></li>
+<li><a href="https://win11.techidaily.com/bootable-windows-11-usb-setup-a-quick-easy-guide-to-3-methods/"><u>Bootable Windows 11 USB Setup: A Quick, Easy Guide to 3 Methods</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-plus-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 Plus To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone XS Max?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quintessential-5-photo-background-changer-apps-iphone-xplus/"><u>In 2024, Quintessential 5 Photo Background Changer Apps (iPhone X+)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/newly-launched-ipad-air-and-ipad-pro-available-for-purchase-get-your-hands-on-them-now/"><u>Newly Launched iPad Air and iPad Pro Available for Purchase - Get Your Hands On Them Now!</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-a78-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo A78 5G | Dr.fone</u></a></li>
+</ul></div>
 

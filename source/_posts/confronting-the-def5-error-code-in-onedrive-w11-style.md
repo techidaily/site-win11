@@ -1,7 +1,7 @@
 ---
 title: Confronting the Def5 Error Code in OneDrive, W11 Style
-date: 2024-08-08T13:22:56.986Z
-updated: 2024-08-09T13:22:56.986Z
+date: 2025-01-22T16:40:20.398Z
+updated: 2025-01-24T16:28:59.829Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 2. Go to the top search bar and type**OneDrive** .
 3. Switch to the**Details** tab. Right-click on the**OneDrive.exe** process and select the**End process tree** option from the context menu.
 4. A popup window will launch. Click on the**End process tree** option.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Terminate OneDrive and Restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/terminate-onedrive-and-restart.jpg)
 5. Open the Start menu and type OneDrive. Click on the**Open** option and check if the error pops up.
 
@@ -50,16 +47,10 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 
 1. Press**Win + R** to open the Run command box. Type**cmd** and press**Ctrl + Shift + Enter** keys to open the command prompt with administrator privileges.
 2. Now, type the following command and press the enter key:**shutdown /s /f /t 0**  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Perform a complete system shutdown](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perform-a-complete-system-shutdown.jpg)
 3. A complete shutdown will take longer than usual. Wait for the system to Restart and boot to the desktop.
 4. Now, launch OneDrive and check if you can access your files.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## 4\. Switch Network Connections
 
  It is possible that your current ISP, or the network you are connected to, blocks Microsoft's servers. Many users shared they were able to fix the issue when they switched to another network. You can simply create a wireless hotspot from your phone or use USB tethering to share the internet with your Windows computer.
@@ -67,8 +58,9 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
  After that, relaunch the OneDrive app and check if you can access your files on the network. You can also request your ISP to remove the block on your connection to access the OneDrive servers seamlessly in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Clear OneDrive Logs
 
  You can try clearing OneDrive telemetry log files in the app data folder. Here's how to do it:
@@ -83,9 +75,6 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 6. Close the File Explorer and restart your system.
 7. Launch OneDrive and then check if it encounters the same error code.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Reset OneDrive
 
  You can reset some Windows apps by accessing their advanced settings. But OneDrive doesn't have an advanced settings option in the Settings app. So, you need to reset it manually using the command prompt. Here's how:
@@ -94,15 +83,13 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 2. Type the following command and press the enter key:  
 %localappdata%\Microsoft\OneDrive\onedrive.exe /reset
 3. Wait for the command to reset OneDrive. You will see the OneDrive window popup informing you that the reset is underway.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![Reset OneDrive 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-onedrive-1.jpg)
 4. Close the app after you see the "Reset completed" message. Restart your system.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reinstall OneDrive Using Winget
 
  If resetting the app didn't work, consider a complete reinstall. It will fix any underlying corruption with the app files and install the latest version on your system. Here's how to do it with the Winget tool:
@@ -114,20 +101,34 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 5. You will see that no package named OneDrive is not present on your system.  
 ![Reinstall OneDrive 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reinstall-onedrive-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Type**cls** to clear the command prompt window.
 2. Now, input the following command and press the enter key:**winget install Microsoft.OneDrive**  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Reinstall OneDrive 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reinstall-onedrive-2.jpg)
 3. Wait for the tool to download and install OneDrive on your system. You don't need to interact with the installer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Close** the command prompt window after seeing the "**Successfully installed** " message.
 5. Launch OneDrive. You will have to**sign in** with your account.
 6. Check if you can connect and browse your files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Rollback Windows Updates
 
  New Windows updates can sometimes wreck your system and break app compatibility. If OneDrive runs fine before installing a new update,[roll back the Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) . It could take longer if the update file is too big and not all Windows updates can be undone. After that, restart your system and try running the OneDrive app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Restore or Reset the PC
 
@@ -143,8 +144,6 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +151,21 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-crafting-conversational-slides-with-powerpoints-speech-features/"><u>[New] In 2024, Crafting Conversational Slides with PowerPoint's Speech Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-stealthy-sound-extinction-in-audacity/"><u>2024 Approved Mastering the Art of Stealthy Sound Extinction in Audacity</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-shielding-game-data/"><u>A Step-by-Step Guide to Shielding Game Data</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-no-network-reachability-windows/"><u>Addressing No Network Reachability (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-win11-crashes-with-exception-handlers/"><u>Addressing WIN11 Crashes with Exception Handlers</u></a></li>
+<li><a href="https://win11.techidaily.com/ai-driven-windows-11-an-inevitable-shift/"><u>AI-Driven Windows 11: An Inevitable Shift</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-display-output-clarity-with-high-dpi-adjustments/"><u>Boost Display Output Clarity with High-DPI Adjustments</u></a></li>
+<li><a href="https://win11.techidaily.com/1719313088233-break-free-from-windows-update-problems-quickly/"><u>Break Free From Windows Update Problems Quickly!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-nokia-g22-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Nokia G22 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-how-to-live-stream-on-twitter/"><u>In 2024, How to Live Stream on Twitter</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/obs-studio-and-skype-a-perfect-duo-explained/"><u>OBS Studio & Skype A Perfect Duo Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-unrecognized-razers-by-synapse-in-latest-windows-os/"><u>Remedy Unrecognized Razers by Synapse in Latest Windows OS</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/troubleshooting-guide-what-to-do-with-a-malfunctioning-device-insights-by-yl-software-experts/"><u>Troubleshooting Guide: What to Do with a Malfunctioning Device? Insights by YL Software Experts</u></a></li>
+</ul></div>
 

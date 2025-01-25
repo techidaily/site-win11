@@ -1,7 +1,7 @@
 ---
 title: Transitioning to VirtualBox 7.0 on Windows 11 – Your Ultimate Walkthrough
-date: 2024-08-16T00:42:19.050Z
-updated: 2024-08-17T00:42:19.050Z
+date: 2025-01-21T18:49:55.162Z
+updated: 2025-01-25T00:13:32.239Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/e1c802d034de253a949204241dbf65a06fa99afd9
 
  But that’s not all! If you connect USB devices to VirtualBox virtual machines, you will have to remove the old extension pack and install the latest one released for the new build. Lastly, you will have to install the new guest additions pack for VirtualBox 7.0\. So, let’s begin.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### 1\. Download the VirtualBox 7.0 Installer File and the Extension Pack
 
  Repeat the following steps to download all the necessary files for VirtualBox 7.0.
@@ -57,18 +54,17 @@ To install VirtualBox 7.0, repeat the following steps:
 4. UAC will pop up. Click on the**Yes** button to continue.
 5. VirtualBox 7.0 installer will launch. Pick the installation destination and click on the**Yes** button.  
 ![Install VirtualBox 7.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-virtualbox-7-0.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. VirtualBox will warn you about temporarily shutting the network interfaces. It means you will lose internet connectivity for some time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click on the**Yes** button. The installer will notify you about the missing dependencies. Click on the**Yes** button to install them as well.
 8. Wait for the installation to complete. Click on the**Finish** button to close the installer window.
 
  VirtualBox 7.0 will launch on your system. But wait! Don’t close the app yet.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Install the New Extension Pack
 
  Even after you upgrade the VirtualBox app to the newest version, the extension pack doesn’t upgrade along with it. So, it will have the older version of the extension pack which worked with the older VirtualBox version. You need to remove it and install the new extension pack that you download in the second method.
@@ -85,9 +81,6 @@ To install the VirtualBox 7.0 extension pack, do as follows:
 1. Now, click on the**Install Extension Pack** button located at the top. Locate the extension pack file you downloaded previously and select it. Click on the**Open** button.
 2. VirtualBox extension pack installer will pop up. Click on the**Install** button.  
 ![Install the New Extension Pack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-the-new-extension-pack.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Accept the**EULA** by scrolling down. Click on the**I Agree** button.
 4. UAC will pop up. Click on the**Yes** button to begin the extension pack installation.
 5. Once the extension pack installs, it will appear in the list of installed extension packs.
@@ -95,9 +88,9 @@ To install the VirtualBox 7.0 extension pack, do as follows:
  Now, you can easily connect the USB devices to one or many virtual machines that you created using VirtualBox. Check out our guide on[how to add a USB device to VirtualBox on Windows](https://www.makeuseof.com/windows-virtualbox-add-usb/) for more information.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Install the Guest Additions
 
  VirtualBox Guest Additions offers all the necessary drivers for a virtual machine. Since VirtualBox supports DirectX 11, it is advisable to install Guest Additions as it will offer drivers for all the components.
@@ -110,15 +103,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. Open the**File Explorer** app on your Windows virtual machine. You will see the guest additions CD image mounted there.
 5. Double-click to open the CD image directory. Scroll down and right-click on the**VBoxWindowsAdditions–amd64.exe** file. Select**Run as administrator** from the context menu.  
 ![Install the Guest Additions 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-the-guest-additions-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. UAC will pop up. Click on**Yes** to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Install the Guest Additions 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-the-guest-additions-2.jpg)
 7. Follows the on-screen prompts to install the Guest Additions on your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click on the**Reboot now** option to apply changes to the Windows virtual machine.
 
  It may take a while to install the guest additions. Once done, you can change the resolution of the virtual machine to match the display resolution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will the Old Virtual Machines Work With VirtualBox 7.0?
 
@@ -128,14 +132,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  VirtualBox 7.0 is the first third-party hypervisor to introduce emulation of TPM 2.0 chips. Microsoft still impedes Windows 11 installation as a virtual machine if the hypervisor cannot emulate the chip. But VirtualBox 7.0 can now install Windows 11 after enabling the passthrough of the TPM 2.0 chip for a virtual machine.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,4 +145,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-youtube-clips-captured-a-no-cost-screencasting-tutorial/"><u>[New] 2024 Approved YouTube Clips, Captured A No-Cost Screencasting Tutorial</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-bring-your-clips-to-life-a-compreenased-way-to-post-on-youtube-for-2024/"><u>[New] Bring Your Clips to Life A Compreenased Way to Post on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastery-in-media-download-from-facebook-platforms/"><u>[New] Mastery in Media Download From Facebook Platforms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-learn-to-record-and-save-your-watching-experience-on-youtube-with-zero-costs/"><u>[Updated] 2024 Approved Learn to Record and Save Your Watching Experience on YouTube with Zero Costs</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-full-compatibility-with-ios-events-in-windows/"><u>Achieving Full Compatibility with iOS Events in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/activating-and-utilizing-end-task-option-in-windows-11-interface/"><u>Activating and Utilizing End Task Option in Windows 11 Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/atlasos-reboot-transform-your-old-game-machine/"><u>AtlasOS Reboot: Transform Your Old Game Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/beyond-limits-why-16gb-ram-is-key-for-modern-pcs/"><u>Beyond Limits: Why 16GB RAM Is Key for Modern PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-media-stream-efficiency-taming-vlc-lags/"><u>Boosting Media Stream Efficiency: Taming VLC Lags</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/engaging-visual-narrative-your-guide-to-making-gifs-from-vimeo/"><u>Engaging Visual Narrative Your Guide to Making GIFs From Vimeo</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-the-leading-rechargeable-battery-chargers-our-comprehensive-review/"><u>Explore the Leading Rechargeable Battery Chargers - Our Comprehensive Review</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1719288445449-overcoming-wwin-plus-printer-not-responding-issue-in-windows/"><u>Overcoming WWin + Printer Not Responding Issue in Windows.</u></a></li>
+</ul></div>
 

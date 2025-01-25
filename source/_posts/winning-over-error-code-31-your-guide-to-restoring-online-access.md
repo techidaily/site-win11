@@ -1,7 +1,7 @@
 ---
 title: "Winning Over Error Code 31: Your Guide to Restoring Online Access"
-date: 2024-08-08T13:22:23.391Z
-updated: 2024-08-09T13:22:23.391Z
+date: 2025-01-22T02:38:13.631Z
+updated: 2025-01-25T00:19:40.952Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/3fc14c15f73df5f4c8b19f8291c51668294576df8
  As such, let's explore all the ways to fix the network adapter error code 31 on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Check for Any Pending Network Driver Updates
 
  First off, check to see if your network driver has any pending updates. While you can update the drivers for the device connected to your computer using Device Manager, we don't recommend it, as Device Manager often fails to find the most recent updates for the driver.
@@ -40,12 +41,13 @@ To perform a network driver rollback:
 1. Press**Win + R** to open Run.
 2. Type**devmgmt** .**msc** and click**OK** to open Device Manager.
 3. In Device Manager, expand the**Network Adapters** section.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![device manager network adapter properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/device-manager-network-adapter-properties.jpg)
 4. Right-click on your network device and select**Properties** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the**Properties** dialog, open the**Driver** tab.  
 ![device manager network driver roll back driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/device-manager-network-driver-roll-back-driver-1.jpg)
 6. Click the**Roll Back Driver** button. If the option is**greyed out** , your computer doesn't have an older driver to perform a rollback. Check your manufacturer's website to see if they have older drivers in an archive.
@@ -61,11 +63,13 @@ To perform a network reset:
 1. Press**Win + I** to open**Settings** .
 2. Open the**Network & internet** tab in the left pane.
 3. Click on**Advanced network settings** .
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. ![advanced network settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11.jpg)  
  Next, click on**Network reset** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. ![advanced network settings windows 11 network reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-network-reset.jpg)  
  Click on**Reset now** and click**Yes** to rest your network settings.  
 ![advanced network settings windows 11 network reset reset now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-network-reset-reset-now.jpg)
@@ -73,9 +77,6 @@ To perform a network reset:
 
 ## 3\. Delete the Corrupted Network Config File on Older Machines
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![delete config value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/delete-config-value-registry-editor.jpg)
 
  On an older Windows Vista or XP computer, you can resolve the issue by tweaking a registry entry. You need to delete a corrupt config key in Registry Editor and then uninstall the device from Device Manager to fix the error.
@@ -95,8 +96,9 @@ To perform a network reset:
  Note that modifications to some registry entries may fail due to insufficient permission issues. If you get an error when deleting the Config value, take full ownership of the registry key and then try again. Our guide on[how to take full ownership of registry keys on Windows 10](https://www.makeuseof.com/windows-10-full-ownership-registry/) will work on older systems too.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Reinstall Your Network Adapter Driver
 
  You can manually uninstall your network adapter device and driver to perform a network reset on older Windows versions. You can use the reliable Device Manager to uninstall your network devices.
@@ -106,9 +108,6 @@ To perform a network reset:
 3. Right-click on the network adapter and select**Uninstall Device.**  
 ![uninstall network device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-network-device-device-manager.jpg)
 4. In the confirmation dialog, check the**Attempt to remove the driver for this device** option.  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![uninstall network driver device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-network-driver-device-device-manager.jpg)
 5. Click**Uninstall** to confirm the action.
 
@@ -117,8 +116,9 @@ To perform a network reset:
  If Windows fails to install the driver, open**Device Manager** , right-click on your network adapter and select**Update driver** . You can also download the latest drivers from your computer manufacturer's website, as shown in step one.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Perform a System Restore
 
  This error can occur if Windows modifies your network adapter settings during an update. You can use a restore point to undo the changes and restore the computer to its earlier state. Since Windows automatically creates a new restore point before installing an update, you should be able to find a recent restore point to undo the changes.
@@ -131,14 +131,15 @@ To perform a restore point:
 ![system properties system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-properties-system-restore.jpg)
 4. In the**System Restore** dialog, click**Next** to view all the available restore points. Additionally, check the**Show more restore points** option to view older restore points.
 5. Select the most recent restore point and click**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![system properties system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-properties-system-restore.jpg)
 6. Confirm your restore point and read the description to understand what apps and data on your PC are affected.
 7. Click**Finish** to initialize the system restore process. Your PC will restart and may take some time to finish. Your PC will restart and show a system restore success or failure message.
 
  If the restore process fails, try it again. At times, it may take more than one attempt to get it right. If the computer is restored, it should hopefully restore the old network driver configuration and fix the error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix the Network Adapter Code 31 Error on Windows
 
@@ -150,8 +151,6 @@ To perform a restore point:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +158,26 @@ To perform a restore point:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-best-15-video-cameras-to-elevate-your-vlogging-game/"><u>[New] Best 15 Video Cameras to Elevate Your Vlogging Game</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-optimized-obs-options-for-low-end-systems/"><u>[New] Optimized OBS Options for Low-End Systems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-windows-wizardry-for-swift-image-editing/"><u>[New] Window's Wizardry for Swift Image Editing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mp4-reimagined-effortlessly-adding-srt-for-2024/"><u>[Updated] MP4 Reimagined Effortlessly Adding SRT for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-complete-guide-to-captivating-your-audience-on-snapchat-for-2024/"><u>[Updated] The Complete Guide to Captivating Your Audience on Snapchat for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/10-substitutes-for-bitlocker-in-winxp-systems/"><u>10 Substitutes for BitLocker in WinXP Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/10-trusted-secure-windows-software-download-spots/"><u>10 Trusted, Secure Windows Software Download Spots</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-utorrents-non-functionality-on-pc-systems/"><u>Addressing uTorrent's Non-Functionality on PC Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-sam-mismanagement/"><u>Addressing Windows SAM Mismanagement</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-network-settings-with-precision-win11/"><u>Adjusting Network Settings with Precision (Win11)</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-tactics-in-managing-windows-startup-procedures/"><u>Advanced Tactics in Managing Windows Startup Procedures</u></a></li>
+<li><a href="https://win11.techidaily.com/alleviating-high-cpu-demands-in-setups/"><u>Alleviating High CPU Demands in Setups</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-samsung-galaxy-a34-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Samsung Galaxy A34 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/beat-the-slowness-essential-tricks-for-windows-11s-pace/"><u>Beat the Slowness: Essential Tricks for Windows 11'S Pace</u></a></li>
+<li><a href="https://win11.techidaily.com/beware-the-traps-in-budget-friendly-windows-license-purchases/"><u>Beware the Traps in Budget-Friendly Windows License Purchases</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932920-9781855842915-on-epidemics/"><u>On Epidemics | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-the-beats-try-these-free-web-scanners/"><u>Unleash the Beats Try These Free Web Scanners</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/your-trusted-resource-for-all-things-computing-toms-hardware/"><u>Your Trusted Resource for All Things Computing - Tom's Hardware</u></a></li>
+</ul></div>
 

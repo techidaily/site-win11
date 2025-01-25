@@ -1,7 +1,7 @@
 ---
 title: Disable Tracking of Application Commands in Windows
-date: 2025-01-12T06:31:28.379Z
-updated: 2025-01-19T11:02:39.283Z
+date: 2025-01-20T03:38:07.762Z
+updated: 2025-01-24T21:05:44.401Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Disable App Launch Tracking Through Windows Settings
@@ -37,12 +37,16 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 
 ![Disable App Launch Tracking through Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-app-launch-tracking-through-windows-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After making the changes, Windows will stop tracking and recording your app launches.
 
  If you ever need to re-enable the feature, repeat the same steps and toggle the switch back on. This will enable Windows to start tracking and recording your app launches.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Disable App Launch Tracking Using the Group Policy Editor
@@ -59,19 +63,11 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 ![Disable App Launch Tracking using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-app-launch-tracking-using-group-policy-editor.jpg)
 5. On the next page, check the **Enabled** box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click **Apply** \> **OK** to save your changes.
 
  This way, you can disable app launch tracking using the group policy editor.
 
  To enable the feature again, follow the same steps and navigate to _User Configuration > Administrative Templates > Windows Components > Edge UI_. Then double-click on **Turn off tracking of app usage** and check the **Not Configured** or **Disabled** option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. How to Disable App Launch Tracking Through the Registry Editor
 
@@ -92,12 +88,16 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 9. Double-click on the **Start\_TrackProgs** DWORD and set its value to **0**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you're done, close the Registry Editor and restart your computer. Now, Windows won't track or record app launches.
 
  If you ever want to turn back on app launch tracking, double-click on the **Start\_TrackProgs** DWORD in Registry Editor and set its value to **1**. After that, restart your system for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows Won’t Track or Monitor the Apps You Use
 
@@ -115,18 +115,24 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-pro-video-essentials-the-finest-portable-laptop-brands/"><u>[New] In 2024, Pro Video Essentials The Finest Portable Laptop Brands</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-swift-and-secure-video-shipment-sending-oversized-content-from-ios/"><u>2024 Approved Swift & Secure Video Shipment Sending Oversized Content From iOS</u></a></li>
-<li><a href="https://win11.techidaily.com/4-easy-ways-to-create-a-new-folder-in-windows-11/"><u>4 Easy Ways to Create a New Folder in Windows 11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/inners-guide-to-elevating-auditory-experiences-on-youtube/"><u>A Beginner's Guide to Elevating Auditory Experiences on YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-common-windows-11-pitfalls/"><u>Addressing Common Windows 11 Pitfalls</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-luminosity-boost-for-low-light-mobile-video/"><u>In 2024, Luminosity Boost for Low-Light Mobile Video</u></a></li>
-<li><a href="https://win11.techidaily.com/regaining-normalcy-in-corporate-governed-chromium-and-microsoft-edge-browsing/"><u>Regaining Normalcy in Corporate-Governed Chromium & Microsoft Edge Browsing</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-deletion-with-windows-context-add-ons/"><u>Streamlining Deletion with Windows Context Add-Ons</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/transforming-social-media-nostalgia-how-to-edit-lookback/"><u>Transforming Social Media Nostalgia How to Edit Lookback</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-mystery-of-w11s-0x8004def5-onedrive-malfunction/"><u>Unraveling the Mystery of W11's 0X8004def5 OneDrive Malfunction</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unlock-your-creativity-top-10-animation-tools-for-beginners-and-experts/"><u>Updated Unlock Your Creativity Top 10 Animation Tools for Beginners and Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/what-is-the-difference-between-chkdsk-sfc-and-dism-in-windows/"><u>What Is the Difference Between CHKDSK, SFC, and DISM in Windows?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-listenguide-review/"><u>[New] In 2024, ListenGuide Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-amplify-your-audience-engagement-with-strategic-instagram-videos/"><u>[Updated] 2024 Approved Amplify Your Audience Engagement with Strategic Instagram Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-integrating-zoom-into-your-inbox-experience/"><u>[Updated] 2024 Approved Integrating Zoom Into Your Inbox Experience</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-prime-graphic-hubs-offered-free-with-unmatched-quality-and-design-tools/"><u>[Updated] 2024 Approved Prime Graphic Hubs Offered Free, With Unmatched Quality & Design Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-grasping-the-greener-side-of-valheim-top-seeds-list/"><u>2024 Approved Grasping the Greener Side of Valheim Top Seeds List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-memory-management-via-mematic/"><u>2024 Approved Streamline Memory Management via Mematic</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/behebe-den-geratedefekt-kann-nicht-starten-tipps-and-tricks-zu-fehlercode-10/"><u>Behebe Den Gerätedefekt 'Kann Nicht Starten' - Tipps & Tricks Zu Fehlercode 10</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/deciding-on-itop-recorder-an-indispensable-tool-for-2024/"><u>Deciding on ITop Recorder - An Indispensable Tool for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-non-windows-tools-for-quick-and-precise-screen-sniping-techniques/"><u>Essential Non-Windows Tools For Quick and Precise Screen Sniping Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-windows-cmd-shortcuts-for-streamlined-workflow/"><u>Essential Windows Cmd Shortcuts for Streamlined Workflow</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-correct-the-non-operational-windows-search-error/"><u>How to Correct the Non-Operational Windows Search Error</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-apple-iphone-11-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The Apple iPhone 11 SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/rejuvenate-old-pcs-with-windows-11-to-go-and-rufus-tutorial/"><u>Rejuvenate Old PCs with Windows 11, To Go & Rufus Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-multi-zip-operations-on-windows-systems/"><u>Seamless Multi-Zip Operations on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-function-keys-not-adjusting-display-brighness-on-win-11/"><u>Solutions for Function Keys Not Adjusting Display Brighness on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-salvaging-deleted-files-from-your-system/"><u>Swiftly Salvaging Deleted Files From Your System</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-buying-windows-11-keys/"><u>The Ultimate Guide to Buying Windows 11 Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-windows-11-select-6-must-install-android-apps/"><u>Transforming Windows 11: Select 6 Must-Install Android Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/unlocking-the-art-of-engaging-with-tweets-in-videos-for-2024/"><u>Unlocking the Art of Engaging with Tweets in Videos for 2024</u></a></li>
 </ul></div>
 

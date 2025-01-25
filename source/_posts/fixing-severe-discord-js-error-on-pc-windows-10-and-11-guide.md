@@ -1,7 +1,7 @@
 ---
 title: "Fixing Severe Discord JS Error on PC: Windows 10 & 11 Guide"
-date: 2024-08-08T13:19:49.693Z
-updated: 2024-08-09T13:19:49.693Z
+date: 2025-01-22T02:34:58.897Z
+updated: 2025-01-24T23:10:29.784Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,14 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-this-program-as-administrator-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Uninstall BetterDiscord
 
  BetterDiscord is an extension for customizing the Discord app. However, some BetterDiscord custom scripts can cause Discord issues like the fatal JavaScript error. Furthermore, using that app doesn’t fall within Discord’s terms of service. If you have installed BetterDiscord, try removing that app as follows:
@@ -38,6 +46,11 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 6. Select the**Uninstall BetterDiscord** option, and click**Next** again.  
 ![The Uninstall BetterDiscord option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-betterdiscord-option.jpg)
 7. Choose a**Discord** version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click**Uninstall** to finish.
 
 ## 3\. Delete Discord’s Data Folders
@@ -50,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 2. Click**Processes** if that tab doesn’t open with Task Manager.
 3. Then look for any Discord-related processes.
 4. Terminate all Discord-related processes by selecting them and clicking their**End task** options.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![A Discord-related processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-related-process.jpg)
 5. Open Windows Explorer with**Win + E** .
 6. Type**%appdata%** inside Explorer’s address bar and press**Return** .
@@ -61,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 8. Input**%LocalAppData%** in Explorer’s address bar and press**Enter** .
 9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Reinstall Discord
 
  The Javascript error can be due to missing or corrupted Discord modules. If the error message lists specific modules as the culprit for this error, reinstalling Discord will restore all its modules. You can reinstall Discord via Settings like this:
@@ -73,12 +80,14 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 3. Then select**Uninstall** when prompted for app removal confirmation.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-option2.jpg)
 4. Delete leftover Discord app data subfolders as outlined for the third resolution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Reboot your Windows PC before reinstalling the Discord software.
 6. Open up the[download page for Discord](https://discord.com/download) .
 7. Click**Download** **for Windows** to get the Discord setup wizard.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Download for Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-for-windows-button.jpg)
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
 9. Go through Discord’s installation wizard to reinstall the software.
@@ -95,20 +104,15 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 
 1. To access Windows Security, double-click its shield icon on the system tray.
 2. Select**Virus & threat protection** on Windows Security’s**Home** tab.  
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![The Virus & threat protection tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/virus-threat-protection.jpg)
 3. Click**Manage Settings** to view the options.
 4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Check the Quality Windows Audio Video Experience Service is Enabled
 
  Quality Windows Audio Video Experience is a service for improving audio and video streaming performance. That’s an important service to have enabled and running for Discord. So, check that qWave is turned on and running as follows:
@@ -116,18 +120,17 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 1. To access the app launcher in Windows, right-click**Start** (on the taskbar) and select the**Run** accessory shortcut.
 2. Input**services.msc** inside Run’s**Open** command box.
 3. Select**OK** to launch the Services app.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Services app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-app.jpg)
 4. Then double-click**Quality Windows Audio Video Experience** inside the Services window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If Quality Windows Audio Video Experience is disabled, select the**Automatic** startup option.  
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-startup-type-drop-down-menu.jpg)
 6. Press the service’s**Start** button.
 7. Select**Log On** at the top of the service’s properties window.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/this-account-radio-button.jpg)
 8. Click**Browse** for the**This account** radio button.
 9. Input your user account within the**Enter** object name box.
@@ -135,9 +138,6 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 11. To save the service’s new settings, select its**Apply** option.
 12. Then exit the window by selecting**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Start Chatting in Discord Again on Windows
 
  So, you don’t have to ditch Discord because of the fatal Javascript error. One of the above fatal Javascript error resolutions will likely resolve that issue on your PC since they’ve worked for many users. Yet, seldom is anything guaranteed, and you can get in touch with Discord’s help service on the[submit a request](https://support.discord.com/hc/en-us/requests/new) page if more potential fixes for this issue are required.
@@ -148,8 +148,6 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +155,16 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-affordable-aerial-cameras-top-picks-under-100/"><u>[New] Affordable Aerial Cameras Top Picks Under $100</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-chroma-lens-reimagined-embracing-the-power-of-4k/"><u>[New] Chroma Lens Reimagined Embracing the Power of 4K</u></a></li>
+<li><a href="https://win11.techidaily.com/decreasing-resource-consumption-handling-unrealcefsubprocess-in-windows/"><u>Decreasing Resource Consumption: Handling UnrealCEFSubprocess in Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-apple-iphone-14-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your Apple iPhone 14 Pro and iPad?</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-wi-fi-prompt-shortcomings-completing-missing-steps-in-windows/"><u>Overcoming Wi-Fi Prompt Shortcomings: Completing Missing Steps in Windows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/premiere-cameras-to-document-the-next-wave-of-concert-videos/"><u>Premiere Cameras to Document the Next Wave of Concert Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/prime-audio-gear-for-hdtv-experience/"><u>Prime Audio Gear for HDTV Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-win-efficiency-selecting-the-best-apps-for-window-11-users/"><u>Pro-Win Efficiency: Selecting the Best Apps for Window 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/self-sufficient-windows-patch-application/"><u>Self-Sufficient Windows Patch Application</u></a></li>
+</ul></div>
 

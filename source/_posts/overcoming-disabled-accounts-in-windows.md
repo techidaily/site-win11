@@ -1,7 +1,7 @@
 ---
 title: Overcoming Disabled Accounts in Windows
-date: 2025-01-15T01:33:31.667Z
-updated: 2025-01-19T12:12:33.635Z
+date: 2025-01-24T01:37:30.449Z
+updated: 2025-01-24T21:53:35.541Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the "Sign-In Option Is Disabled Because of Failed Sign-In Attempts" Error?
 
  The error message indicates the possible causes for the error are multiple failed sign-in attempts or repeated shutdowns. However, in most instances, the error pops up without reason, even when you are using the correct PIN.
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 
  Fortunately, you can fix this error by resetting the login PIN and a registry tweak to disable the account lockout option. Follow all the steps in the given order, and you should be able to fix the error and log in to your Windows computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Keep Your Device Powered On for Two Hours
 
  If you don't have an alternate sign-in option enabled or have forgotten the password, you'll need to wait for two hours and then try to sign in again with the sign-in PIN. Make sure your PC remains turned on for two hours for it to work.
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
  The two-hour cooling period seemingly comes with strings attached. Once you see the wait for two hours message after entering the PIN, reboot your computer. When the login screen appears, don't sign in immediately. Wait for two hours and then put in your PIN to sign in.
 
  That said, if you can't wait for two hours, try to log in using an alternate sign-in option, such as a password or biometric authentication. To use the alternate sign-in option, click the dotted icon under the Sign-in options in the error screen to log in with your password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Reset the Account Password from the Sign-In Screen
 
@@ -62,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 ![reset account password security question windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-account-password-security-question-windows.jpg)
 3. Now, you must answer the three security questions and press **Enter**. If the password is correct, a password reset option will appear.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![reset account password windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-account-password-windows.jpg)
 4. Enter your new password and then re-enter the password to confirm the same.
 
@@ -79,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 
  Once you can sign in, follow these steps to check your account status.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Check Your Account Status Using Local Users and Groups
 
  Windows system administrators can manage user accounts and groups on a local computer using the Microsoft Management Console (MMC) snap-in, Local User, and Groups. To fix the problem, check if the account is configured as locked or disabled in the account properties.
@@ -91,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 4. Locate and right-click on your user account name.  
 ![local users and groups account properties windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-users-and-groups-account-peroperties-windows.jpg)
 5. Next, select **Properties**.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![local users and groups unselect account is disabled account is locked out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-users-and-groups-unselect-account-is-disabled-account-is-locked-out.jpg)
 6. In the **Properties** dialog, open the **General** tab.
@@ -135,7 +135,7 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
  Upon execution, the script will PIN for all the user accounts on your computer. Once done, you can [set up a new PIN for your user account on Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Change the Account Lockout Threshold Policy
@@ -158,7 +158,7 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 6. Click **Apply** and **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Edit the Account Lockout Policy Using Registry Editor
@@ -180,15 +180,15 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 ![modify Maxdenials registry DWORD value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor.jpg)
 6. Type **0** in the **Value data** field and click **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Close Registry Editor and reboot your computer to apply the changes.
 
  After the restart, you can sign in without receiving the sign-in is disabled notification. If the issue persists, [try to clear the TPM on Windows](https://www.makeuseof.com/clear-tpm-windows-11/). This can be a tricky solution depending on how your account is set up. Clearing TPM may lock you out of your computer. Attempt this only if you have a password-based sign-in option enabled.
 
  If all else fails, try third-party recovery tools like the Trinity Rescue Kit. It is a useful little utility that can help you reset your password.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Resolving the "Disabled Sign-In Options Due to Failed Attempts" Error on Windows
 
@@ -206,22 +206,24 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-beam-your-best-achieving-hd-quality-with-fb-live/"><u>[Updated] In 2024, Beam Your Best Achieving HD Quality with FB Live</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-music-copyright-rules/"><u>[Updated] In 2024, Instagram Music Copyright Rules</u></a></li>
-<li><a href="https://win11.techidaily.com/adding-command-tab-to-taskmanager-in-windows-11-pro/"><u>Adding Command Tab to TaskManager in Windows 11 Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-jvm-not-created-a-windows-solution/"><u>Addressing JVM Not Created: A Windows Solution</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/behind-the-wheel-exploring-the-power-and-precision-of-galaxys-miniaturized-ford-f-1-remote-control-masterpiece/"><u>Behind the Wheel: Exploring the Power and Precision of Galaxy's Miniaturized Ford F-1# Remote Control Masterpiece</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-speed-identifying-your-gpu-on-windows-11-os/"><u>Boost Speed: Identifying Your GPU on Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-functionality-of-taskbar-in-modern-win11/"><u>Boosting Functionality of Taskbar in Modern Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-internet-performance-with-intels-ethernet-driver-on-debian/"><u>Boosting Internet Performance with Intel's Ethernet Driver on Debian</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-screen-legibility-win11-scaling-guide/"><u>Boosting Screen Legibility: Win11 Scaling Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-the-file-explorer-performance/"><u>Boosting the File Explorer Performance</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-tackle-windows-no-write-file-saving-problems/"><u>How to Tackle Windows No Write File Saving Problems</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-staying-unseen-in-the-world-of-instagram-live-broadcasts/"><u>In 2024, Staying Unseen in the World of Instagram Live Broadcasts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-youtube-potential-with-perpetual-creative-commons-membership/"><u>In 2024, Unlocking YouTube Potential with Perpetual Creative Commons Membership</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-upgrade-how-teamgroups-newly-magnetized-t-force-siren-line-revolutionizes-easy-custom-pc-construction/"><u>Innovative Upgrade: How TeamGroup's Newly Magnetized T-Force Siren Line Revolutionizes Easy Custom PC Construction</u></a></li>
-<li><a href="https://win11.techidaily.com/1719350786682-operas-plight-unleash-it-from-windows-freeze/"><u>Opera's Plight? Unleash It From Windows Freeze</u></a></li>
-<li><a href="https://extra-information.techidaily.com/podcast-perfection-for-the-modern-iphone-user/"><u>Podcast Perfection for the Modern iPhone User</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fixing-stutter-and-freezing-problems-in-forza-horizon-5/"><u>Resolved: Fixing Stutter and Freezing Problems in Forza Horizon 5</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-navigating-twitter-video-submission-protocols/"><u>[New] In 2024, Navigating Twitter Video Submission Protocols</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-cloud-price-wars-2024s-comprehensive-guide/"><u>[New] Mastering Cloud Price Wars - 2024'S Comprehensive Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-securely-transferring-camera-photos-to-snapchat-correctly/"><u>[Updated] 2024 Approved Securely Transferring Camera Photos to Snapchat Correctly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-beginners-guide-to-professional-gif-creation/"><u>A Beginner's Guide to Professional GIF Creation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/counteracting-drone-interference-tackling-the-rise-of-gps-jammers-in-aerial-security-measures/"><u>Counteracting Drone Interference: Tackling the Rise of GPS Jammers in Aerial Security Measures</u></a></li>
+<li><a href="https://win11.techidaily.com/customize-winterral-backdrop/"><u>Customize WinTerral Backdrop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-predictive-ai-its-operational-wizardry/"><u>Decoding Predictive AI: Its Operational Wizardry</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-smooth-play-fixing-saving-problems-in-pubg-windows-edition/"><u>Ensuring Smooth Play: Fixing Saving Problems in PUBG (Windows Edition)</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-evolution-of-security-shifting-from-pin-to-password-on-windows-11/"><u>Exploring the Evolution of Security: Shifting From PIN to Password on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-tackle-windows-activation-failure-code-0x803f700f/"><u>Guide to Tackle Windows Activation Failure: Code 0X803F700f</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-plowing-pathways-selecting-superb-simulation-titles/"><u>In 2024, Plowing Pathways Selecting Superb Simulation Titles</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-to-control-battery-saver-settings-on-windows-pcs/"><u>Learn to Control Battery Saver Settings on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-downloads-woes-in-win-1011-ecosystems/"><u>Navigating Downloads Woes in Win 10/11 Ecosystems</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-to-address-unsuccessful-message-load/"><u>Quick Fixes to Address Unsuccessful Message Load</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-limited-usb-controller-space-on-pcs/"><u>Resolving Limited USB Controller Space on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-wows-critical-crash-win11-edition/"><u>Resolving WoW's Critical Crash: Win11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-revive-batch-files-in-windows-environment/"><u>Steps to Revive Batch Files in Windows Environment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-clear-choice-between-projectors-and-televisions-for-4k-quality-for-2024/"><u>The Clear Choice Between Projectors and Televisions for 4K Quality for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/winning-the-battle-against-asus-pce-ac56-driver-errors-for-windows-10-8-and-7-your-step-by-step-fix/"><u>Winning the Battle Against ASUS PCE-AC56 Driver Errors for Windows 10, 8 & 7 – Your Step-by-Step Fix</u></a></li>
 </ul></div>
 

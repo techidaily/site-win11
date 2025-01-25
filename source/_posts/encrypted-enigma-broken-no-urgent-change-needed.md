@@ -1,7 +1,7 @@
 ---
 title: Encrypted Enigma Broken? No Urgent Change Needed
-date: 2025-01-15T06:22:24.678Z
-updated: 2025-01-19T02:45:05.581Z
+date: 2025-01-18T18:30:41.267Z
+updated: 2025-01-25T04:27:29.447Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 * [Is It Time to Ditch BitLocker?](#is-it-time-to-ditch-bitlocker)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
  Microsoft's BitLocker is one of the most popular full-disk encryption tools, and is built into Windows 10 and 11 Pro providing an easy encryption option for millions of Windows users worldwide. But BitLocker's reputation as a leading encryption tool could be under threat after a YouTuber successfully stole encryption keys and decrypted private data in just 43 seconds—using a Raspberry Pi Pico costing $6\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Was BitLocker's Encryption Broken?
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
  Tools like the [Raspberry Pi Pico, the minute $6 single-board computer](https://www.makeuseof.com/raspberry-pi-pico-projects/) that has a bunch of uses. In this case, Stacksmashing connected a Raspberry Pi Pico to unused connectors on a test laptop and managed to read the binary data as the machine booted. The resulting data contained the Volume Master Key stored on the TPM, which he could then use to decrypt other data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is It Time to Ditch BitLocker?
@@ -84,24 +84,18 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-from-playground-to-pro-how-mavic-air-challenges-the-spark-dominance/"><u>[New] From Playground to Pro How Mavic Air Challenges the Spark Dominance</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/astering-youtube-google-meet-live-broadcast-steps/"><u>[New] Mastering YouTube Google Meet Live Broadcast Steps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-masterclass-in-ai-image-processing/"><u>[Updated] 2024 Approved Masterclass in AI Image Processing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-funnyframe-generator/"><u>2024 Approved FunnyFrame Generator</u></a></li>
-<li><a href="https://win11.techidaily.com/a-guide-to-rectifying-mmc-snap-in-failures/"><u>A Guide to Rectifying MMC Snap-In Failures</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-windows-access-denial-mysteries/"><u>Deciphering Windows Access Denial Mysteries</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/dissecting-cyberpunk-2ebsonsons-flaws-and-unfinished-brilliance/"><u>Dissecting Cyberpunk 2Ebsonson's Flaws and Unfinished Brilliance</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-grammarly-disabled-status-on-windows-pcs/"><u>Fixing Grammarly Disabled Status on Windows PCs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-kinetic-study-2023/"><u>In 2024, Comprehensive Kinetic Study 2023</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/innovative-watermarks-for-impactful-insta-imagery/"><u>Innovative Watermarks for Impactful Insta Imagery</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-faster-windows-11-boots-a-triad-of-tips/"><u>Mastering Faster Windows 11 Boots: A Triad of Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-removing-false-device-notifications/"><u>Mastering the Art of Removing False Device Notifications</u></a></li>
-<li><a href="https://win11.techidaily.com/smoothing-windows-11-update-combat-error-0x30017/"><u>Smoothing Windows 11 Update: Combat Error 0X30017</u></a></li>
-<li><a href="https://win11.techidaily.com/tech-tango-dancing-devices-androidwindows-synchro/"><u>Tech Tango: Dancing Devices - Android/Windows Synchro</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-choosing-the-best-software-for-fixing-broken-pictures/"><u>Ultimate Guide: Choosing the Best Software for Fixing Broken Pictures</u></a></li>
-<li><a href="https://win11.techidaily.com/unclouding-your-display-secrets-to-a-sharp-windows-11-screen/"><u>Unclouding Your Display: Secrets to a Sharp Windows 11 Screen</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/viral-visionaries-most-favored-instagram-filters-for-2024/"><u>Viral Visionaries Most Favored Instagram Filters for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/win1110-nat-transition-altering-type-effectively/"><u>Win11/10 NAT Transition: Altering Type Effectively</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ultimate-campaigns-selecting-the-best-7-total-war-victories/"><u>[New] In 2024, Ultimate Campaigns Selecting the Best 7 Total War Victories</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-discovering-the-best-top-hexa-copters/"><u>2024 Approved Discovering the Best Top Hexa-Copters</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-high-quality-hd-4k-3d-videos-with-ultimate-360-video-grabber/"><u>Download High-Quality HD 4K 3D Videos with Ultimate 360° Video Grabber</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-how-mixed-reality-transforms-experience-for-2024/"><u>Exploring How Mixed Reality Transforms Experience for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-decoding-youtubes-strategic-approach-to-short-form-video-promotion/"><u>In 2024, Decoding YouTube's Strategic Approach to Short-Form Video Promotion</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-folders-not-open-glitch-in-windows-outlook/"><u>Steps to Overcome 'Folders Not Open' Glitch in Windows Outlook</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-tactics-for-shifting-between-windows-terminals-zones-of-attention-and-rest/"><u>Streamlined Tactics for Shifting Between Windows Terminal’s Zones of Attention and Rest</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-collection-of-ps5-adornments/"><u>The Ultimate Collection of PS5 Adornments</u></a></li>
+<li><a href="https://win11.techidaily.com/the-underrated-world-of-windows-11-what-youre-missing-out-on/"><u>The Underrated World of Windows 11 - What You're Missing Out On</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-rectifying-disk-read-issues/"><u>Understanding and Rectifying Disk Read Issues</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/windows-10-meeting-mastery-with-zoom-tools-for-2024/"><u>Windows 10 Meeting Mastery with Zoom Tools for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-how-to-restore-missing-desktop-icons-effectively/"><u>Windows 11: How to Restore Missing Desktop Icons Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-know-how-6-pathways-for-prop-discovery/"><u>Windows Know-How: 6 Pathways for Prop Discovery</u></a></li>
 </ul></div>
 

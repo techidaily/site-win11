@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Fixing Windows 11 ISDone.dll Problems
-date: 2025-01-14T16:51:52.740Z
-updated: 2025-01-18T16:54:12.535Z
+date: 2025-01-19T02:19:48.462Z
+updated: 2025-01-25T06:35:25.210Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Game’s Installer With Admin Rights
 
  First, run the game’s setup file with elevated rights to ensure admin restrictions can’t cause the issue. As you’ll only need to install the game once, it’s not necessary to set the installer to[always run as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) . Open the folder that includes the game’s setup.exe. Right-click the game’s installer (setup) file and select its**Run as administrator** context menu option.
@@ -48,10 +44,14 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 ![The Run this program in compatibility mode for option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-run-this-program-in-compatibility-mode-setting.jpg)
 7. Click**Apply** to save the compatibility settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select**OK** to close the setup properties window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set the Game’s Setup Wizard at High Priority
@@ -59,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
  Increasing the priority for a game’s setup wizard will raise the system resources allocated to its process. Our article about[setting a priority level for a program](https://www.makeuseof.com/windows-11-set-program-priority/) includes step-by-step instructions for how to apply this potential fix. Open the game’s setup wizard and set its priority level to High in Task Manager as outlined within that guide.
 
 ![The Set priority option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-set-priority-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run System File and Image Scans
 
@@ -80,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 
  For example, a PC with four GB RAM would have 4096 megabytes of memory. Then you would need to multiply 1.5 by 4096 to input a value of 6144 in the**Initial** box. Three times 4096 amounts to 12288, which would be the value to enter the**Maximum size** box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Install Any Missing Visual C++ Redistributables
 
  The ISDone.dll error could be occurring because some required Visual C++ Redistributable runtimes are missing on your PC. The solution in such a scenario is to install the required C++ runtime libraries that are missing. You can install missing Visual C++ runtimes in the following steps:
@@ -97,15 +97,7 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 ![The Microsoft Visual C++ 2015-2022 runtime installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-visual-c-installer-window.jpg)
 5. Click the Visual C++**Install** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the ISDone.dll installation issue arises for an old game, you might need to install missing Visual C++ runtimes that predate 2015\. In this case, you’ll need to repeat the above steps for older Visual C++ packs. Try downloading the 64-bit Visual Studio 2013 and 2012 packs from the same Microsoft page to install older missing runtime libraries.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Re-Register the Referenced ISDone DLL File
 
@@ -118,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 `regsvr32 isdone.dll`  
 ![The regsvr32 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-regsvr-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Temporarily Switch Off Your PC’s Antivirus Shield
 
  It’s not entirely unusual for antivirus apps to cause installation issues like the ISDone.dll error. You can ensure your antivirus tool isn’t interfering with the installation process by temporarily disabling its shield before attempting to install the game. Our[guide to disabling Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) explains how to turn off the antivirus shield for the default Windows Security app.
@@ -125,12 +121,16 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 ![The Real-time protection option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-real-time-protection-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Users who’ve installed alternative security software packages on PCs will need to disable the third-party antivirus shields. To do that, click a system tray icon for an antivirus app to bring up its context menu. Then, select an option for turning off (or disabling) the antivirus shield.
 
  However, don’t leave your antivirus software disabled. Instead, turn it off and then try to install whatever game the ISDone.dll error occurs for. Then make sure you re-enable the antivirus shield afterward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Clean Boot the Windows PC
 
@@ -138,11 +138,11 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-services-tab.jpg)
 
- Our guide to[configuring a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to disable third-party startup apps and services with Task Manager and MSConfig. When you’ve set the clean boot and restarted Windows, try installing the game the ISDone.dll error occurs for. Then you can restore the original boot configuration afterward.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Our guide to[configuring a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to disable third-party startup apps and services with Task Manager and MSConfig. When you’ve set the clean boot and restarted Windows, try installing the game the ISDone.dll error occurs for. Then you can restore the original boot configuration afterward.
 
 ## Enjoy Your Windows Games Again
 
@@ -163,22 +163,20 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-unleash-the-full-potential-of-youtube-with-variable-playback-rates/"><u>[New] In 2024, Unleash the Full Potential of YouTube With Variable Playback Rates</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-seamless-transformation-top-tools-for-youtube-videos/"><u>[Updated] 2024 Approved Seamless Transformation Top Tools for YouTube Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-top-5-web-video-recorders/"><u>[Updated] Top 5 Web Video Recorders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-tips-for-creating-instagrammable-unboxing-highlights/"><u>[Updated] Top Tips for Creating Instagrammable Unboxing Highlights</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/windows-11-3/"><u>[Windows 11] ロックされる前の状態でパソコンを回復する方法:3つの有効な手段</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-d3d11-compatible-gpu-faults-in-w11-and-w10/"><u>Addressing D3D11-Compatible GPU Faults in W11 & W10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/desktop-configuration-mastery-embedding-this-pc-symbols/"><u>Desktop Configuration Mastery: Embedding 'This PC' Symbols</u></a></li>
-<li><a href="https://win11.techidaily.com/error-handling-strategies/"><u>Error Handling Strategies:</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-best-news-curators-of-2024-the-ultimate-list/"><u>Exploring the Best News Curators of 2024 – The Ultimate List!</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tuning-reset-account-lockout-counter-after-failed-logins-win-11-edition/"><u>Fine-Tuning Reset Account Lockout Counter After Failed Logins, Win 11 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/hiding-or-showing-windows-11s-time-and-date/"><u>Hiding or Showing Windows 11'S Time and Date</u></a></li>
-<li><a href="https://win11.techidaily.com/improve-cs-global-offensive-speed-and-precision/"><u>Improve CS Global Offensive Speed and Precision</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-hues-harmony-crafting-colorful-artistry/"><u>In 2024, Hues Harmony Crafting Colorful Artistry</u></a></li>
-<li><a href="https://win11.techidaily.com/index-management-in-windows-1011/"><u>Index Management in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/keygen-virus-threat-assessment-causes-consequences-and-system-protection/"><u>Keygen Virus Threat Assessment: Causes, Consequences, & System Protection</u></a></li>
-<li><a href="https://win-blog.techidaily.com/master-the-fix-troubleshooting-guide-for-playstation-7-exclusive-game-available-on-pc-days-gone/"><u>Master the Fix: Troubleshooting Guide for PlayStation 7 Exclusive Game Available on PC (Days Gone)</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-photo-perfection-troubleshooting-made-simple/"><u>Windows Photo Perfection: Troubleshooting Made Simple</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-saving-facebook-gifs-on-computer-phone-and-tablet-for-2024/"><u>[Updated] Saving Facebook GIFs on Computer, Phone & Tablet for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-oppo-a79-5g-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Oppo A79 5G.</u></a></li>
+<li><a href="https://win11.techidaily.com/deciph-written-by-your-name/"><u>Deciph Written by [Your Name]</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-strategies-for-adjusting-windows-file-attributes/"><u>Expert Strategies for Adjusting Windows File Attributes</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-eradicate-partitioned-units-on-your-disk-in-a-flash/"><u>How to Eradicate Partitioned Units on Your Disk in a Flash</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-seamlessly-export-repaired-edb-archives-into-current-exchange-server-infrastructure-video-guide/"><u>How To Seamlessly Export Repaired EDB Archives Into Current Exchange Server Infrastructure - Video Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/hush-the-language-indicator-on-win11s-status-ui/"><u>Hush the Language Indicator on Win11’s Status UI</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-masterpiece-episodes-for-airwaves/"><u>In 2024, Masterpiece Episodes for Airwaves</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-precise-aural-link-the-casters-toolkit/"><u>In 2024, Precise Aural Link The Caster's Toolkit</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-java-install-process-on-your-windows-pc/"><u>Mastering Java Install Process on Your Windows PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-cloud-sync-linking-dropbox-and-google-drive-on-your-pc/"><u>Seamless Cloud Sync: Linking Dropbox & Google Drive on Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-rise-of-claude-ai-empowering-tomorrows-industries-today/"><u>The Rise of Claude AI: Empowering Tomorrow's Industries Today</u></a></li>
+<li><a href="https://win11.techidaily.com/unfreeze-windows-hibernate-with-simple-steps/"><u>Unfreeze Windows Hibernate with Simple Steps</u></a></li>
 </ul></div>
 

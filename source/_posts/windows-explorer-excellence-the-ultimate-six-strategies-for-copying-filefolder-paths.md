@@ -1,7 +1,7 @@
 ---
 title: "Windows Explorer Excellence: The Ultimate Six Strategies for Copying File/Folder Paths"
-date: 2024-08-08T13:21:44.014Z
-updated: 2024-08-09T13:21:44.014Z
+date: 2025-01-18T16:19:03.464Z
+updated: 2025-01-24T18:50:18.873Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 
  Today, users can navigate through folders within Windows File Explorer without inputting change directory commands. However, it can still be useful to copy file and folder paths so you can paste it into documents, the Command Prompt, or when opening something within an app. Here are some ways you can copy file and folder paths in Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Copy Paths With Explorer’s "See More" Menu
 
  File Explorer’s **See more menu** includes a **Copy path** option that you can select. Clicking that option for a selected file or folder will copy its path to the clipboard. This is how you can select the **Copy path** option in Windows 11 File Explorer:
@@ -36,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 ![A copied path with inverted commas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-copied-path.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Select the Default Context Menu Option for Copying Paths
 
  Alternatively, you can select a **Copy as path** option via Explorer’s context menu. To do so, open up a directory that includes a file or folder path to copy. Then right-click the file or folder and select **Copy as path**.
@@ -46,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 
  You can also copy multiple paths. To do so, select multiple files and folders by holding the **Ctrl** key. Then right-click one to select **Copy as path**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## 3\. How to Copy Paths With a Hotkey
 
  More recent Windows 11 build versions from 22463 up include a convenient hotkey for copying paths. You can copy paths with that keyboard shortcut by selecting folders or files in Explorer and pressing the **Ctrl** \+ **Shift** \+ **C** key combination.
@@ -58,37 +60,33 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
  If your Windows 11 version doesn’t have that hotkey, you’ll need to update the platform. You can do that with one of the methods in our guide about [manually updating Windows 11](https://www.makeuseof.com/update-windows-manually/#:~:text=Press%20the%20Win%20%2B%20I%20hotkeys,the%20Check%20for%20updates%20button.). Select to install the latest build of the platform if you’re utilizing an older version.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to Copy Paths With File Explorer’s Address Bar Options
 
  File Explorer’s address bar includes the paths of folders you open. You can copy paths from there by selecting an option on the address bar’s context menu. Open a folder for which to copy the location. Then right-click in the address bar and select **Copy address as text**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![The Copy address as text option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/copy-address-as-plain-text-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **Copy address as text** option copies the folder path in the address bar as plain text. The pasted copied path will not include any inverted commas (quote marks).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. How to Copy Target Paths for Shortcuts
 
  This method will be useful if you ever need to open the source folder for a desktop shortcut. The properties windows for desktop paths have **Target** boxes that include the paths of the application files they launch. You can copy the paths for desktop shortcuts from those boxes.
 
 ![The Target box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/target-box.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To copy a target path, right-click a desktop shortcut and select **Properties**; click inside the **Target** box on the **Shortcut** tab to select the path’s text. Press the standard **Ctrl** \+ **C** hotkey to copy the selected path text. Then paste that copied path into File Explorer’s address bar with **Ctrl** \+ **V**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 6\. How to Copy Paths With the Path Copy Copy Software
 
  Path Copy Copy is third-party software that adds new context menu options for copying paths to File Explorer’s context menu. Users can then select alternative options for copying locations differently on the **Path Copy** submenu. You can copy full paths with that software’s context menu submenu as follows:
@@ -107,40 +105,27 @@ No advertising on the website.
 ![The Path Copy submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/path-copy-submenu.jpg)
 5. Select the **Long path** option to copy the full location. Now you’ve copied a long path for pasting anywhere you need.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The great thing about Path Copy Copy is that it provides many more options for copying folders and file paths. However, only a few of them are on the **Copy Path** submenu to default. To add all options, click **Settings** on the **Path Copy** submenu. Then select all the submenu checkboxes in the window and click **Apply** \> **OK**.
 
 ![The Path Copy Copy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/path-copy-copy-window.jpg)
 
  Now right-click a file or folder to have another look at the Path Copy submenu, which will include many more options. You can select the **Short** option to copy the location with a shortened folder or file name. Or select **Name** to copy just a title for a file or folder. Try out the different copy path options by selecting them and pasting them into Notepad.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![All Path Copy options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/all-path-copy-options.jpg)
 
  You can configure how the paths get copied by changing settings within Path Copy Copy’s **Options** tab. For example, your copied paths will include quote marks around them if you select the **Add quotes around copied paths** checkbox. Select the **Add < and > around copied paths** option to include brackets around copied brackets.
 
 ![The Options tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/options-tab.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Copy Paths on Windows Whichever Way You Like Best
 
  Copying and pasting folder and file paths with the methods above will save you from manually typing them whenever needed. File Explorer’s default options for copying paths will probably be sufficient for most users. However, the Path Copy Copy software gives you more options for copying folder and file locations.
 
  Today, users can navigate through folders within Windows File Explorer without inputting change directory commands. However, it can still be useful to copy file and folder paths so you can paste it into documents, the Command Prompt, or when opening something within an app. Here are some ways you can copy file and folder paths in Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -148,3 +133,21 @@ No advertising on the website.
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-hooking-audience-early-with-smart-intros/"><u>[Updated] Hooking Audience Early with Smart Intros</u></a></li>
+<li><a href="https://win11.techidaily.com/8-strategies-to-solve-vmware-booting-woes-on-win11/"><u>8 Strategies to Solve VMware Booting Woes on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-steam-transfers-avoiding-sudden-speed-slumps/"><u>Accelerating Steam Transfers: Avoiding Sudden Speed Slumps</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-non-functioning-windows-conditional-filters/"><u>Addressing Non-Functioning Windows Conditional Filters</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-windows-troubleshooting-locating-and-fixing-system-error-messages-using-commands/"><u>Advanced Windows Troubleshooting: Locating & Fixing System Error Messages Using Commands</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-critical-windows-11-service-shutdowns/"><u>Avoiding Critical Windows 11 Service Shutdowns</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/iphonescreen-recording-a-straightforward-guide-for-2024/"><u>IPhonescreen Recording A Straightforward Guide for 2024</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/methoden-zur-wiederherstellung-beschadigter-ntfs-partitionen-auf-windows/"><u>Methoden Zur Wiederherstellung Beschädigter NTFS-Partitionen Auf Windows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/realizing-dreamscapes-picks-of-the-best-tools-for-animation-artists-for-2024/"><u>Realizing Dreamscapes Picks of the Best Tools for Animation Artists for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-tutorial-on-retrieving-data-from-silicon-power-external-memory-sticks/"><u>Step-by-Step Tutorial on Retrieving Data From Silicon Power External Memory Sticks</u></a></li>
+<li><a href="https://win11.techidaily.com/1719231160491-streamline-your-desktop-no-overlaps/"><u>Streamline Your Desktop: No Overlaps!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/triple-threat-in-language-acquisition-easy-pathways-to-fluency/"><u>Triple Threat in Language Acquisition: Easy Pathways to Fluency!</u></a></li>
+</ul></div>
+

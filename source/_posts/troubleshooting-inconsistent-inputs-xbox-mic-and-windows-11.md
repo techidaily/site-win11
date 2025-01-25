@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Inconsistent Inputs: Xbox Mic & Windows 11"
-date: 2025-01-16T21:53:27.929Z
-updated: 2025-01-19T09:51:50.395Z
+date: 2025-01-19T03:49:53.229Z
+updated: 2025-01-25T09:58:30.947Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the Windows Troubleshooter for Recording Audio
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 4. Select**Troubleshooting** to open that applet in the Control Panel.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**View** **all** to see a list of troubleshooters.  
@@ -67,23 +67,19 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microphone-navigation-option.jpg)
 4. Turn on the**Microphone access** setting if necessary.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. If**Let apps access your microphone is** disabled, turn on that setting.  
 ![The Let apps access your microphone setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/let-apps-access-microphone-setting.jpg)
 6. Then scroll down and click the toggle switch for the Xbox app to turn on its mic access.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The microphone permission setting for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-app.jpg)
 7. Restart Windows before opening the Xbox app to check if the issue persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Change the Default Format Output Option
@@ -97,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 5. Right-click the input microphone you try to utilize with the Xbox app and select**Properties** .  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/device-manager-window.jpg)
 6. Click**Advanced** in the properties window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Then select the**2-channel, 16-bit, 48000 Hz (DVD Quality)** option in the drop-down menu.  
 ![The Default Format setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/default-format-setting.jpg)
@@ -123,15 +115,19 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 
  If you set the**Default** input option, you’ll need to make sure you’re using your PC’s default microphone. To do that, go to the**Recording** tab as instructed in steps one to four of the previous resolution. Then select the microphone to utilize with the Xbox app there and click**Set Default** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Reset the Xbox App
 
  The Xbox app, like others, has a**Reset** troubleshooting option you can select in Settings. That option clears the app’s data to fix issues. You can select that option to apply this potential solution by following the instructions in our[how to reset apps on Windows](https://www.makeuseof.com/windows-reset-app/) article.
 
 ![The Reset app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-app-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Driver for the Audio Input Device
 
@@ -151,10 +147,14 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 
 ![The Uninstall option for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-uninstall-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After uninstalling the Xbox app, open its[Microsoft Store page](https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z) ; select the**Get in Store** **app** option to bring up the Microsoft Store; then click**Get** on the Xbox app page.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Utilize Your Microphone in the Xbox App Again
@@ -176,20 +176,19 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/approved-timing-of-youtube-earnings-a-closer-insight/"><u>2024 Approved Timing of YouTube Earnings A Closer Insight</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/adonit-nest-usb-hub-unbeatable-price-at-just-65-for-remote-professionals-exclusive-insight-by-zdnet/"><u>Adonit Nest USB Hub - Unbeatable Price at Just $65 for Remote Professionals! Exclusive Insight by ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-disabling-directives-essential-4-fixes-to-windows-ps-load-issue/"><u>Bypassing Disabling Directives: Essential 4 Fixes to Windows PS Load Issue</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/classpnpsys-in-windows-107-solved/"><u>CLASSPNP.SYS in Windows 10/7 [SOLVED]</u></a></li>
-<li><a href="https://win11.techidaily.com/handling-unable-to-open-file-for-writing-error-in-win-11/"><u>Handling Unable to Open File for Writing Error in Win 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Itel S23+? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-resolve-downloads-not-working-on-win-devices/"><u>How to Resolve Downloads Not Working on Win Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-google-pixel-8-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Google Pixel 8 Pro to Another | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-your-mac-preview-experience-step-by-step/"><u>In 2024, Maximizing Your Mac Preview Experience Step-by-Step</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-file-safety-turning-on-folder-controls-in-windows/"><u>Mastering File Safety: Turning On Folder Controls in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-fix-of-0xc000003e-error-on-pcs/"><u>Mastering the Fix of 0xC000003E Error on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/perfect-note-apps-for-the-modern-windows-slates/"><u>Perfect Note Apps for the Modern Windows Slates</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/six-easy-steps-to-enhance-your-videos-with-music-without-expense-for-2024/"><u>Six Easy Steps to Enhance Your Videos with Music Without Expense for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/top-6-windows-11-task-managers-perfect-for-organizing-daily-chores/"><u>Top 6 Windows 11 Task Managers Perfect for Organizing Daily Chores</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-free-windows-11-dvd-authoring-software-in-202n4-burn-faster-better-quality-discs/"><u>Ultimate Guide to Free Windows 11 DVD Authoring Software in 202N4 – Burn Faster, Better Quality Discs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-rapid-diy-filming-tips-for-the-budding-director/"><u>[New] In 2024, Rapid DIY Filming Tips for the Budding Director</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-youtube-video-submission-your-detailed-walkthrough/"><u>[New] Mastering YouTube Video Submission Your Detailed Walkthrough</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unraveling-the-best-free-srt-translators-your-essential-guidebook/"><u>[New] Unraveling the Best Free SRT Translators Your Essential Guidebook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-subtle-sounds-clear-vision-audio-cleanup-methods-reviewed/"><u>[Updated] In 2024, Subtle Sounds, Clear Vision Audio Cleanup Methods Reviewed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-pro-tools-for-pc-gamers-screen-record-windows-10/"><u>2024 Approved Pro Tools for PC Gamers Screen Record Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-ad-ds-printing-woes-on-win-10-and-11-devices/"><u>Conquering AD DS Printing Woes on WIN 10 & 11 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/embellish-your-windows-11-display-lively-and-animated-walls/"><u>Embellish Your Windows 11 Display: Lively and Animated Walls</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-14-plus-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 14 Plus Passcode not Working?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-mastery-of-digital-recording-step-by-step-insight/"><u>In 2024, Mastery of Digital Recording - Step-by-Step Insight</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-to-default-search-settings-in-windows-11-version-11/"><u>Navigate to Default Search Settings in Windows 11, Version 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-stubborn-software-glitches-ps-and-windows-guide/"><u>Navigating Stubborn Software Glitches: PS & Windows Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-mastering-the-denoise-feature-in-adobe-lightroom-classic-v123plus/"><u>Step-by-Step Guide: Mastering the Denoise Feature in Adobe Lightroom Classic (V12.3+)</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-visual-composition-with-backdrop-blur-on-windows-11/"><u>Streamlining Visual Composition with Backdrop Blur on Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-your-exercise-routine-with-airpods-pros-innovative-heart-rate-sensor-the-ultimate-workout-partner-you-can-wear-on-the-go-gizmochatter/"><u>Transform Your Exercise Routine with AirPods Pro's Innovative Heart Rate Sensor - The Ultimate Workout Partner You Can Wear on the Go | GizmoChatter</u></a></li>
 </ul></div>
 

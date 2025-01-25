@@ -1,7 +1,7 @@
 ---
 title: "Maximize File Selection: Activating Windows 11 Checkboxes"
-date: 2025-01-15T21:27:34.161Z
-updated: 2025-01-19T00:43:03.504Z
+date: 2025-01-22T01:58:50.027Z
+updated: 2025-01-25T01:18:41.831Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Enable Checkboxes Using the Command Bar
 
  The quickest way to enable checkboxes in File Explorer is through the command bar. Here's how:
@@ -40,13 +36,13 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 ![Item check boxes in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/item-check-boxes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it. You might need to restart your computer to see the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable Checkboxes Using the Folder Option
@@ -61,6 +57,10 @@ Here's how to use the Folder Option to enable the checkboxes:
 4. Check the**Use check boxes to select items** option. It'll be under the**Files and Folders** section.  
 ![Use check boxes to select items in Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/use-check-boxes-to-select-items.jpg)
 5. Click**Apply** and then**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable Checkboxes by Editing the Registry
 
@@ -77,13 +77,13 @@ Here's how to use the Folder Option to enable the checkboxes:
 ![AutoCheckSelect Option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/autocheckselect-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to disable checkboxes, type**0** in AutoCheckSelect Value data and save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enabling Checkboxes in the File Explorer
@@ -105,24 +105,24 @@ Here's how to use the Folder Option to enable the checkboxes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-the-essence-of-interactive-virtuality/"><u>[Updated] The Essence of Interactive Virtuality</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unlock-funimates-downloading-magic/"><u>[Updated] Unlock Funimate's Downloading Magic</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1-unlocking-the-power-of-saved-energy-activating-energy-saver-mode-in-google-chrome-the-essential-guide/"><u>1. Unlocking the Power of Saved Energy: Activating Energy Saver Mode in Google Chrome - The Essential Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/7-affordable-solutions-to-skyrocket-your-pcs-hard-drive-size/"><u>7 Affordable Solutions to Skyrocket Your PC's Hard Drive Size</u></a></li>
-<li><a href="https://win11.techidaily.com/familiarize-yourself-with-microsoft-family-safety/"><u>Familiarize Yourself With Microsoft Family Safety</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratuita-conversione-rapida-da-vob-a-mp4-opzioni-codificate-e-non-codificate/"><u>Gratuita Conversione Rapida Da VOB a MP4: Opzioni Codificate E Non Codificate</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-s17-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo S17 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-check-your-public-ip-address-using-command-prompt-in-windows-1110/"><u>How to Check Your Public IP Address Using Command Prompt in Windows 11/10</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-y28-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y28 5G Fingerprint Lock</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-secret-behind-crafting-mesmerizing-slow-motion-media-for-instagram/"><u>In 2024, The Secret Behind Crafting Mesmerizing Slow Motion Media for Instagram</u></a></li>
-<li><a href="https://win11.techidaily.com/proven-strategy-batch-convert-heic-to-jpeg-in-windows-11/"><u>Proven Strategy: Batch Convert HEIC to JPEG in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-microsofts-zero-error-in-windows-11-shop/"><u>Rectifying Microsoft's Zero-Error in Windows 11 Shop</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/retrospective-viewing-inventive-approaches-for-backward-youtube-content-for-2024/"><u>Retrospective Viewing Inventive Approaches for Backward YouTube Content for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/setting-up-learning-visuals-in-win-11/"><u>Setting Up Learning Visuals in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-resolve-windows-high-dpi-screen-scaling/"><u>Strategies to Resolve Windows High DPI Screen Scaling</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-your-search-tracing-programs-settlement-in-windows/"><u>Streamlining Your Search: Tracing Programs' Settlement in Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-a25-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-7-phone-number-locators-to-track-apple-iphone-14-plus-location-drfone-by-drfone-virtual-ios/"><u>Top 7 Phone Number Locators To Track Apple iPhone 14 Plus Location | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshoot-closed-captions-a-windows-10-experts-method/"><u>Troubleshoot Closed Captions: A Windows 10 Expert's Method</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-depth-look-at-razers-hd-webcam-experience/"><u>[New] In-Depth Look at Razer's HD Webcam Experience</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-entry-level-insights-navigating-hd-and-uhd-video-standards/"><u>[Updated] Entry-Level Insights Navigating HD & UHD Video Standards</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-from-storyboards-to-shortcuts-instra-to-tiksync-guide/"><u>[Updated] In 2024, From Storyboards to Shortcuts Instra-to-TikSync Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-swift-skim-windows-file-compilation/"><u>[Updated] In 2024, Swift Skim Windows File Compilation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-top-10-fearful-video-blogs-overcoming-each-challenge/"><u>[Updated] In 2024, Top 10 Fearful Video Blogs Overcoming Each Challenge</u></a></li>
+<li><a href="https://win11.techidaily.com/connectivity-compass-navigating-through-4-ways-of-net-speed-check/"><u>Connectivity Compass: Navigating Through 4 Ways of Net Speed Check</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-tseries-monetary-strategies-on-youtube-video-platforms/"><u>Decoding TSeries’ Monetary Strategies on YouTube Video Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-reducing-sound-boost-in-windows/"><u>Guide to Reducing Sound Boost in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-windows-11-secures-your-files-understanding-the-backup-feature/"><u>How Windows 11 Secures Your Files: Understanding the Backup Feature</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/optimize-your-playstation-5-for-maximum-fluidity-a-tutorial-on-attaining-120fps/"><u>Optimize Your PlayStation 5 for Maximum Fluidity: A Tutorial on Attaining 120Fps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-zte-nubia-z60-ultra-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best ZTE Nubia Z60 Ultra Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/proven-solutions-for-keeping-fortnite-running-smoothly-on-your-pc-this-year/"><u>Proven Solutions for Keeping Fortnite Running Smoothly on Your PC This Year</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-uninstalled-hdd-in-windows-11-a-step-by-step-guide/"><u>Resolving Uninstalled HDD in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-recognize-absconded-drive-issues/"><u>Solutions to Recognize Absconded Drive Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-alleviate-full-capacity-error-windows/"><u>Steps to Alleviate Full-Capacity Error Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-and-revitalize-windows-timer-functions/"><u>Streamline and Revitalize Windows Timer Functions</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-reserve-a-detailed-look-at-memory-management/"><u>Windows Reserve: A Detailed Look at Memory Management</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-strategies-to-identify-your-intel-processor-gen/"><u>Windows Strategies to Identify Your Intel Processor Gen</u></a></li>
 </ul></div>
 

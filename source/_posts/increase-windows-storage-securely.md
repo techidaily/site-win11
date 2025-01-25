@@ -1,7 +1,7 @@
 ---
 title: Increase Windows Storage Securely
-date: 2024-08-08T13:22:52.982Z
-updated: 2024-08-09T13:22:52.982Z
+date: 2025-01-20T19:11:29.048Z
+updated: 2025-01-25T03:31:23.746Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
  Here's how you can fix that issue and bring back the grayed-out "Extend Volume" option without erasing your precious data.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Is the Extend Volume Option Grayed Out?
 
  There are many reasons why the "Extend Volume" option in Disk Management is grayed out, but the common ones include:
@@ -38,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
  However, if your partition uses a supported file system, let's discuss how you can bring back the option to extend volumes on Windows without erasing your data.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Shrink a Volume to Create Unallocated Space
 
  If you don't have unallocated space on any of your drives to extend a volume, you can simply shrink one of the existing volumes to create it. This can also help if the unallocated space on one drive is not large enough for volume extension since it will shrink the other volumes to create more unallocated space.
@@ -57,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
 ![selecting the option to shrink a volume in Disk Management on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/selecting-the-option-to-shrink-volume-in-disk-management-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Enter the amount of space you want to shrink (keeping in mind that you cannot exceed the amount that is available to shrink) and then click on **Shrink**.
 
 ![the dialog box to shrink a volume on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/dialog-box-shrink-volume-on-windows.jpg)
@@ -64,8 +66,9 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
  It will take a few seconds to shrink the volume, but when it's done, you should have some unallocated space. Now, check to see if the option is available when you right-click the volume you want to extend.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Delete the Recovery Partition
 
  If the unallocated space you need is small, you can also try deleting the recovery partition. This will free up some room and allow you to extend your current partition without losing any of your personal data.
@@ -84,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
  From here, you can select the disk you want using the numbers in the **Disk ###** column.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![selecting a disk in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/selecting-a-disk-in-command-prompt.jpg)
 
  So, if you want to select disk drive #1, you'd run the below command:
@@ -108,8 +108,9 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
  Once the command completes running, the Recovery partition will be gone and there should be some unallocated space you can use to extend the volume.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use Third-Party Software to Extend the Drive
 
  You can use other tools besides Disk Management to shrink and delete volumes on Windows. To use one of these third-party disk management programs, start by downloading [IM-Magic Partition Resizer Free](https://www.resize-c.com/), extract the ZIP file in the download location, and install it.
@@ -122,18 +123,17 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
 ![choosing how much of the volume to resize in Magic Partition Resizer on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/choosing-how-much-of-the-volume-to-resize-in-magic-partition-resizer-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It should take a few seconds to resize the volume, and when it finishes, you should be able to see some unallocated space, allowing you to extend the volume you want to in the first place.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Regain Your Ability to Extend Volumes on Windows
 
  Extending a volume is a great way to give it more space to store items. However, the option to extend that volume might not always be available. Luckily, you can bring back the option by shrinking a volume, deleting the recovery portion, making sure the volume is using a file system that is extendable, and using third-party software to resize existing volumes.
 
  Here's how you can fix that issue and bring back the grayed-out "Extend Volume" option without erasing your precious data.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -141,3 +141,25 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-11-keys-to-unlock-the-power-of-grading-precision-for-2024/"><u>[New] 11 Keys to Unlock the Power of Grading Precision for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/hannel-boosting-mastery-unveiling-the-best-5-video-marketing-strategies/"><u>[New] Channel Boosting Mastery Unveiling the Best 5 Video Marketing Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-boosting-your-windows-photos-feed-incorporating-audio-elements/"><u>[Updated] Boosting Your Windows Photos Feed Incorporating Audio Elements</u></a></li>
+<li><a href="https://win11.techidaily.com/22h2-windows-fixes-for-recurring-issues/"><u>22H2 Windows Fixes for Recurring Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/a-photographers-companion-fixing-your-windows-camera/"><u>A Photographer’s Companion: Fixing Your Window's Camera</u></a></li>
+<li><a href="https://win11.techidaily.com/access-from-afar-zero-password-connectivity-on-win-11/"><u>Access From Afar: Zero-Password Connectivity on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-and-fixing-the-call-not-invoked-issue-in-malwarebytes/"><u>Addressing and Fixing the Call Not Invoked Issue in Malwarebytes</u></a></li>
+<li><a href="https://win11.techidaily.com/anonymizing-file-transfer-methods-for-ws11w10-enthusiasts/"><u>Anonymizing File Transfer: Methods for WS11/W10 Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/bluescreenview-explained-with-ease-and-clarity/"><u>BlueScreenView Explained with Ease and Clarity</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-and-repairing-windows-charmap-issues/"><u>Breaking Down and Repairing Windows' CharMap Issues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/clear-the-clutter-erasing-stickers-from-your-tiktoks-for-2024/"><u>Clear the Clutter Erasing Stickers From Your TikToks for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-pluses-vs-perplexities-ais-top-contenders/"><u>GPT Pluses Vs. Perplexities: AI's Top Contenders</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-gt-neo-5-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Realme GT Neo 5 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-f54-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy F54 5G Phone FRP Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/1719218745181-panels-in-peril-bring-them-back-with-these-hacks/"><u>Panels in Peril? Bring Them Back with These Hacks!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-5-features-explored-in-the-durable-fujitsu-scansnap-ix1600-desk-scanner/"><u>Top 5 Features Explored in The Durable Fujitsu ScanSnap iX1600 Desk Scanner</u></a></li>
+</ul></div>
+

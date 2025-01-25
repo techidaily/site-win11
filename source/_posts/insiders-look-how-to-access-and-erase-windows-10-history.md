@@ -1,7 +1,7 @@
 ---
 title: "Insider's Look: How to Access and Erase Windows 10 History"
-date: 2025-01-13T05:23:08.641Z
-updated: 2025-01-18T18:21:10.049Z
+date: 2025-01-21T23:13:59.825Z
+updated: 2025-01-25T04:07:47.008Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Data Does Windows Track?
 
  The data that Windows collects includes:
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
  Any activity collected through that service is also stored if you use Microsoft's HealthVault or the Microsoft Band device. Microsoft says it collects this data to provide you with more relevant results and useful content.
 
  There are plenty of [ways to disable Windows' tracking services](https://www.makeuseof.com/disable-windows-11-tracking-features/), but even after you've done that, Microsoft will still have the data you've already given it. As such, you'll need to scrub that data away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Delete Your Windows Activity History
 
@@ -54,30 +62,18 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 2. Then, click **Privacy**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Windows 10 Privacy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-privacy.png)
 3. On the left bar, select **Activity History**.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Windows 10 Activity Sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-sidebar.png)
 4. Under Clear Activity History, click the **Clear** button.  
 
 ![Windows 10 clear activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-clear.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This will clear the activity history for the account you're currently using.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Delete Your Windows Activity History via Settings on Windows 11
 
@@ -87,10 +83,14 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 ![navigating to activity history in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history.jpg)
 2. Click the **Clear** button under the **Clear activity history** section, and you're done.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![clearing activity history in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history-disable.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Delete Your Windows Activity History via Your Microsoft Account
@@ -98,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
  You should also clear data from the cloud. To do that, click on **Manage my Microsoft account activity data**. Log into your Microsoft account and delete all types of activity data on the cloud. You'll need to do this separately for each section. For example, if you want to clear your Search history, you'll need to expand the section and click on **Clear all search history**.
 
 ![deleting activity history from the cloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/delete-ms-activity-history.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Disable Activity Tracking on the Windows 10 Timeline
 
@@ -112,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 ![Checking the options in Windows 10's activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-checkboxes.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to View All Windows 10 Activity History
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 ### The Windows 10 Activity History Categories
 
 ![The categories on the activity history website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-categories.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Browsing history** handles the data you've stored via browsing Microsoft's browser, Edge. As such, if you only use Edge to download Firefox or Chrome, you probably won't find much data here. If Edge is your primary browser, take a look to see what browsing habits are stored here.
 
@@ -169,19 +169,21 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/chuckles-and-chortles-reviewing-the-goofy-movie-on-vhs/"><u>'Chuckles and Chortles' - Reviewing The Goofy Movie on VHS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/boost-your-farming-simulator-22-performance-solving-pc-frame-rate-problems/"><u>Boost Your Farming Simulator 22 Performance: Solving PC Frame Rate Problems</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/guia-paso-a-paso-para-actualizar-una-placa-base-y-cpu-en-sistema-operativo-windows-existente/"><u>Guía Paso a Paso Para Actualizar Una Placa Base Y CPU en Sistema Operativo Windows Existente</u></a></li>
-<li><a href="https://win11.techidaily.com/harnessing-intel-unison-power-for-effective-pc-phone-calls/"><u>Harnessing Intel Unison Power for Effective PC Phone Calls</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-virtual-realities-ios-and-androids-best-apps/"><u>In 2024, Top Virtual Realities IOS & Android's Best Apps</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-youtubes-hidden-gems-the-comment-space/"><u>In 2024, Unveiling YouTube's Hidden Gems The Comment Space</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 13 Pro Max?</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-highlight-and-search-features-in-windows-11-os/"><u>Mastering Highlight & Search Features in Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-password-storage-windows-text-file-security-tips/"><u>Mastering Password Storage: Windows Text File Security Tips</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/maximizing-twitter-video-quality-full-hd-tips-for-2024/"><u>Maximizing Twitter Video Quality Full HD Tips for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-your-computers-visual-experience-with-enhanced-vram/"><u>Optimize Your Computer's Visual Experience with Enhanced VRAM</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-media-makers-code-0x8007043c-issue/"><u>Overcoming Windows Media Maker's Code 0X8007043C Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/supercharge-windows-based-counter-strike-play/"><u>Supercharge Windows-Based Counter-Strike Play</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/top-10-innovative-nano-drones-this-year/"><u>Top 10 Innovative Nano Drones This Year</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-leverage-youtube-insights-for-sustainable-channel-development/"><u>[Updated] 2024 Approved Leverage YouTube Insights for Sustainable Channel Development</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028514717-pcmdsd/"><u>「高解像度PCMフォーマットへの変換：DSD音源を最適化するための手引き」</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-harmonizing-your-tunes-step-by-step-playlist-crafting-for-web-and-mobile-users/"><u>2024 Approved Harmonizing Your Tunes Step-by-Step Playlist Crafting for Web & Mobile Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-triller-demystified-a-comparative-look-at-unique-online-platforms/"><u>2024 Approved Triller Demystified A Comparative Look at Unique Online Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-windows-11-display-visibility-quick-fix-guide/"><u>Enhance Windows 11 Display Visibility: Quick Fix Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/flashscreen-snapshot-evaluation-and-alternates-for-2024/"><u>FlashScreen Snapshot Evaluation & Alternates for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-another-user-on-this-device-uses-this-microsoft-account-error-on-windows/"><u>How to Fix the Another User on This Device Uses This Microsoft Account Error on Windows</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-how-to-make-reels-on-facebook/"><u>In 2024, How to Make Reels on Facebook?</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-directdraw-resolutions-in-modern-windows-versions/"><u>Mastering DirectDraw Resolutions in Modern Windows Versions</u></a></li>
+<li><a href="https://win11.techidaily.com/modify-monitor-angle-using-windows-tools/"><u>Modify Monitor Angle Using Windows Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-failed-screensaver-on-windows-4-strategies/"><u>Resetting Failed Screensaver On Windows: 4 Strategies</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-tutorial-on-using-the-best-flv-video-recorder-for-smooth-playback/"><u>Step-by-Step Tutorial on Using the Best FLV Video Recorder for Smooth Playback</u></a></li>
+<li><a href="https://win11.techidaily.com/switchingnotepadvisualswin-darkmode/"><u>SwitchingNotepadVisuals:Win-DarkMode</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-interactions-through-ai-learn-about-the-power-of-chatgpt-vision-with-these-8-tips/"><u>Transforming Interactions Through AI: Learn About the Power of ChatGPT Vision with These 8 Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-football-manager-2019-sudden-shutdowns/"><u>Troubleshooting Steps: Resolving Football Manager 2019 Sudden Shutdowns</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-locks-halted-master-autolock-settings/"><u>Windows Locks Halted: Master Autolock Settings</u></a></li>
 </ul></div>
 

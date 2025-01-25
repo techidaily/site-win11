@@ -1,7 +1,7 @@
 ---
 title: How to Reactivate Windows' Disabled Discord Overlay
-date: 2024-08-08T13:21:28.678Z
-updated: 2024-08-09T13:21:28.678Z
+date: 2025-01-22T02:08:59.003Z
+updated: 2025-01-24T22:12:03.652Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b2
 
  If you are unable to enable the Discord overlay while playing the game, here are some checks and fixes that may assist you in resolving the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 1\. Perform Basic Checks and Fixes
 
  Start the troubleshooting process by performing the following basic checks and fixes, which may resolve the issue right away:
@@ -34,9 +27,6 @@ No advertising on the website.
 * Close the game where the overlay feature stopped working, close the Discord app, and relaunch them both.
 * If you use any other overlays in your game, disable them. In addition, turn off any graphics card software concurrently running with the game and Discord.
 * Run both Discord and the game as an administrator. Right-click on Discord and the game each, and select **Run as administrator**.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run Discord as Administrator in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-run-discord-as-administrator-in-windows-1.jpg)
 * Whitelist Discord and the game in Windows Defender. If you're not familiar with the process, check out our guide on [how to allow apps through the firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/).
 * Turn off VPN or proxy servers currently enabled on your device.
@@ -56,16 +46,14 @@ No advertising on the website.
 4. Ensure that the toggle next to **Enable in-game overlay** is turned on. If it is off, turn it back on.  
 ![Turn On the Toggle Next to Enable in-game Overlay Option in Discord's Game Overlay Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-turn-on-the-toggle-next-to-enable-in-game-overlay-option-in-discord-s-game-overlay-settings.jpg)
 5. After that, navigate to the **Registered Games** tab and see whether the game you're playing is listed under **Added Games**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![Ensure the Game is Listed in the Added Games Section of the Registered Games Tab in Discord Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/4-ensure-the-game-is-listed-in-the-added-games-section-of-the-registered-games-tab-in-discord-settings.jpg)
 6. If the game is already added there, skip this step. If it isn't added, run the game again while Discord is open, and the app will automatically recognize it.
-7. If Discord fails to detect the game automatically, click **Add it!**, select the game from the dropdown, and click **Add Game**.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. If Discord fails to detect the game automatically, click **Add it!**, select the game from the dropdown, and click **Add Game**.  
 ![Click on Add It And Select the Game From the Dropdown Menu in Discord Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/5-click-on-add-game-button-and-select-the-game-from-the-dropdown-menu-in-discord-settings.jpg)
 8. Upon seeing the game in the **Added Games** list, turn on its overlay. You can do that by clicking the **monitor icon** next to the game.  
 ![Turn On the Overlay Option for the Game in the Added Games List in Discord Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-turn-on-the-overlay-option-for-the-game-in-the-added-games-list-in-discord-settings.jpg)
@@ -84,18 +72,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  When changing it, make sure the hotkey you choose isn't already assigned to another function in the game. If you assign the same hotkey, the game will execute the in-game process instead of enabling the Discord overlay.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Select the Recommended Display Scaling
 
  Discord users have reported that over-scaling the display can affect the Discord overlay's functionality. If you've changed display scaling or layout recently and the overlay has stopped working since then, you should revert these changes.
@@ -112,10 +88,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  To disable hardware acceleration, launch Discord, open **User Settings**, select **Advanced** under **App Settings**, and toggle **Hardware Acceleration** off.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![Turn Off the Toggle Next to Hardware Acceleration in Advanced Tab of App Settings in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/9-turn-off-the-toggle-next-to-hardware-acceleration-in-advanced-tab-of-app-settings-in-discord.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset the Overlay Position
 
@@ -127,17 +104,20 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Navigate to the following location after typing your username:  
 `C:\Users\<username>\AppData\Roaming\discord`
 3. Right-click on the **settings.json** file, select **Open With** and choose **Notepad**.  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Settings.json File with Notepad in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/10-open-settings-json-file-with-notepad-in-windows.jpg)
 4. Go to the second last line of the file and enter the following:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `"DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true`
 5. Then, simply press **CTRL+S** to save the document and close the file.  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Save and Close the File After Making Certain Changes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/11-save-and-close-the-file-after-making-certain-changes-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the developer tools have been enabled, follow these steps:
 
@@ -145,21 +125,27 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Press **Ctrl+Shift+I** to open the developer console.  
 ![Open the Developer Console in Discord App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/12-open-the-developer-console-in-discord-app-on-windows.jpg)
 3. Click the **double arrow icon (>>)** and select **Application**.  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Select Application by Clicking the Double Arrow Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/13-select-application-by-clicking-the-double-arrow-icon.jpg)
 4. Expand the **Local Storage** category under **Storage**.
 5. Look for the **"OverlayStoreV2"** or **"OverlayStore"** keys. Most likely, you will find only one of these keys.
 6. Right-click the key and select **Delete.**  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![Delete the OverlayStore Key by Right-clicking on It](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/14-delete-the-overlaystore-key-by-right-clicking-on-it.jpg)
 7. Then, restart Discord.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hopefully, the overlay position will be reset, and the overlay will begin working correctly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get the Discord Overlay Back on Track
 
@@ -167,11 +153,33 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  If you are unable to enable the Discord overlay while playing the game, here are some checks and fixes that may assist you in resolving the issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-transitioning-shadows-a-minute-later/"><u>[New] 2024 Approved Transitioning Shadows A Minute Later</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-perfecting-the-live-broadcast-4-tips-for-fb-enthusiasts-for-2024/"><u>[New] Perfecting the Live Broadcast 4 Tips for FB Enthusiasts for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-winning-video-player-list-top-16-freebies/"><u>[Updated] 2024 Approved Winning Video Player List Top 16 Freebies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-instant-freeze-capture-feature-guide/"><u>[Updated] Instant Freeze Capture Feature Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/9-essential-steps-for-windows-hello-fingerprint-woes/"><u>9 Essential Steps for Windows Hello Fingerprint Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-walkthrough-for-installing-apps-via-wpm-on-windows-11/"><u>A Step-by-Step Walkthrough for Installing Apps via WPM on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/adding-animated-backgrounds-to-windows-11-pcs-effortlessly/"><u>Adding Animated Backgrounds to Windows 11 PCs Effortlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-issues-with-windows-alt-code-operations-53-characters/"><u>Addressing Issues with Windows Alt Code Operations (53 Characters)</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-failure-starting-services-on-windows-efficiently/"><u>Avoiding Failure: Starting Services on Windows Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/banish-old-wallpaper-memories-triple-approach/"><u>Banish Old Wallpaper Memories: Triple Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/beyond-novelties-the-next-gen-of-windows-11/"><u>Beyond Novelties: The Next Gen of Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-audio-5-ways-for-above-100-output-on-pcs/"><u>Boosting Audio: 5 Ways for Above-100% Output on PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevating-nvme-drive-efficiency-in-depth-look-at-the-best-coolers-with-a-closer-look-at-id-cooling-zero-m15-and-m05/"><u>Elevating NVMe Drive Efficiency: In-Depth Look At The Best Coolers With A Closer Look At ID-Cooling Zero M15 & M05</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/expert-tips-reviving-broken-front-headphonemicrophone-jacks-on-electronics/"><u>Expert Tips: Reviving Broken Front Headphone/Microphone Jacks on Electronics</u></a></li>
+<li><a href="https://driver-error.techidaily.com/healed-touchpad-drive-6-fixes-for-a-smooth-experience/"><u>Healed Touchpad Drive - 6 Fixes for a Smooth Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-repair-your-soundscape-addressing-dying-lights-sound-malfunction/"><u>How to Repair Your Soundscape: Addressing Dying Light’s Sound Malfunction</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-effortless-online-video-access-via-vimeo/"><u>In 2024, Effortless Online Video Access via Vimeo</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/iphone-ka-taraha-pc-ma-aayajata-fita-ka-canata-tha-gaii-sathata-ka-kasa-alga-kara/"><u>IPhone की तरह PC में आयोजित फ़ोटो को चुनौती दी गई स्थिति को कैसे अलग करें?</u></a></li>
+<li><a href="https://win11.techidaily.com/1719347188756-overcoming-chrome-hurdles-in-w11-effective-steps-herein/"><u>Overcoming Chrome Hurdles in W11 – Effective Steps Herein.</u></a></li>
+</ul></div>
+

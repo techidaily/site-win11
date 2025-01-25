@@ -1,7 +1,7 @@
 ---
 title: Unlock Personalized Clock Settings, Bypass Automatic Windows Change
-date: 2025-01-18T08:18:15.177Z
-updated: 2025-01-18T23:16:16.166Z
+date: 2025-01-20T02:55:34.119Z
+updated: 2025-01-24T19:25:28.943Z
 tags:
   - windows10
   - windows11
@@ -41,14 +41,10 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 4. Make sure the **Location services** option is enabled. If it's not, switch the toggle to turn it on.  
 ![Enable Location Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-location-services.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now restart your computer and check if Windows can set the time zone automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set the Windows Time Service to Automatic
@@ -66,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 5. In the Properties window, set the **Startup type** to **Automatic**.  
 ![Windows Time Service Status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-time-service-status.jpg)
 6. Now check the **Service status**. If it reads **Stopped**, click the **Start** button to start the service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Click **Apply** and **OK** to save the changes.
 
@@ -88,20 +88,12 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 ![Modify Registry to change the Set time zone automatically setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modify-registry-to-change-the-set-time-zone-automatically-setting.jpg)
 6. When the Edit DWORD Value window pops up, set the Value data to **3** and click **OK**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. After doing this, you must change the location setting. To do this, navigate to the following key:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\location`  
  You can also copy and paste the path into the Registry Editor address bar. Now press Enter and this directs you to the Location key.
 8. Move to the right pane and double-click the **Value** (REG\_SZ) value.  
 ![Edit Registry to change the location setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/edit-registry-to-change-the-location-setting.jpg)
 9. In the Edit String window, type **Allow** in the **Value data** field and click OK.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After that, close the Registry Editor and restart your PC. Windows should detect the time zone automatically and set it correctly.
 
@@ -117,9 +109,17 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 ![Turn off Windows Location Provider](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-off-windows-location-provider.jpg)
 5. In the pop-up window, check the **Not Configured** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click **Apply** and **OK** to save the changes.
 
  Now close the Group Policy Editor and restart your PC. After restarts check if your Windows detects the time zone automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset the Windows Time Service
 
@@ -135,10 +135,6 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 
  Once done, close the Command Prompt and restart your computer to check if it solves the problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Try Some Generic Windows Fixes
 
  There are also generic fixes you can try:
@@ -146,6 +142,10 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 1. **Run the System File Checker tool:**[running System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) scans for corrupted system files and replaces them if necessary.
 2. **Perform a Clean Boot:** If that didn't work, [try a Windows clean boot](https://www.makeuseof.com/clean-boot-windows-11/). This determines if third-party applications interfere with Windows Time Service.
 3. **Update Windows:** Finally, [update Windows to the latest version](https://www.makeuseof.com/update-windows-manually/) to ensure you have all the latest fixes and security patches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows Can Now Automatically Set the Time Zone
 
@@ -161,21 +161,15 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-evaluating-djis-phantom-3-features/"><u>[Updated] 2024 Approved Evaluating DJI's Phantom 3 Features</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-smooth-transition-altering-snapchat-videos-tempo/"><u>[Updated] Smooth Transition Altering Snapchat Videos' Tempo</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-12-sign-bio-blueprints-on-whatsapp-for-2024/"><u>[Updated] The Ultimate 12-Sign Bio Blueprints on WhatsApp for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-zipping-with-command-prompt-step-by-step/"><u>Advanced Zipping with Command Prompt, Step by Step</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-use-of-windows-explorer-over-traditional-ls/"><u>Effective Use of Windows Explorer Over Traditional LS</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/high-quality-australia-day-themed-backgrounds-by-yl-computing-official-software-solutions/"><u>High-Quality Australia Day Themed Backgrounds by YL Computing - Official Software Solutions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-pause-life360-location-sharing-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-unveiling-the-upgraded-2023-samsung-bd-j5900/"><u>In 2024, Unveiling the Upgraded 2023 Samsung BD-J5900</u></a></li>
-<li><a href="https://win-blog.techidaily.com/insufficient-cpu-specs-how-to-update-for-optimal-vanguard-performance/"><u>Insufficient CPU Specs: How to Update for Optimal Vanguard Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-to-public-ip-using-windows-command-window/"><u>Navigate to Public IP Using Windows Command Window</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-system-maintenance-tips-for-setting-active-windows-11-times/"><u>Navigating System Maintenance: Tips for Setting Active Windows 11 Times</u></a></li>
-<li><a href="https://win11.techidaily.com/optimal-tech-habits-dont-disable-win-11-alerts/"><u>Optimal Tech Habits: Don't Disable Win 11 Alerts</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-microsofts-error-code-0x8007251d-for-users/"><u>Simplifying Microsoft's Error Code 0X8007251D for Users</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-windows-auditory-interference-mystery/"><u>Unraveling Windows' Auditory Interference Mystery</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-at-toms-technology-review/"><u>Unveiling the Latest in Computing at Tom's Technology Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/watch-nfl-games-online-in-real-time-with-easy-tips-and-tricks/"><u>Watch NFL Games Online in Real Time with Easy Tips and Tricks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-chip-synchrony-the-new-era-of-fluid-video-editing-experience-for-2024/"><u>[New] Chip Synchrony The New Era of Fluid Video Editing Experience for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unlocking-the-power-of-preview-a-complete-user-guide-for-mac-for-2024/"><u>[Updated] Unlocking the Power of Preview A Complete User Guide for Mac for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-iphone-13-pro-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About iPhone 13 Pro Activation Lock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-the-cutting-edge-of-ar-navigating-apples-latest-update-to-vision-pros-spatial-personas-insights/"><u>Experience the Cutting-Edge of AR: Navigating Apple's Latest Update to Vision Pro's Spatial Personas Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-check-successful-or-failed-login-attempts-on-your-windows-computer/"><u>How to Check Successful or Failed Login Attempts on Your Windows Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-c51-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme C51 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-rectify-game-pass-issues-on-windows-os/"><u>Methods to Rectify Game Pass Issues on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-unexpected-command-prompt-displays/"><u>Stopping Unexpected Command Prompt Displays</u></a></li>
+<li><a href="https://win11.techidaily.com/win11s-comprehensive-navshortcut-compendium/"><u>Win11's Comprehensive NavShortcut Compendium</u></a></li>
 </ul></div>
 

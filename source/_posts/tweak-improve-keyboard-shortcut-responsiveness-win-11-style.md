@@ -1,7 +1,7 @@
 ---
 title: "Tweak: Improve Keyboard Shortcut Responsiveness, Win 11 Style"
-date: 2024-08-08T13:22:47.925Z
-updated: 2024-08-09T13:22:47.925Z
+date: 2025-01-19T16:46:44.183Z
+updated: 2025-01-25T10:08:43.726Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
  But sometimes these stop working and now you have to open Action Center or Settings every time you need to adjust your computer settings. If this happens to you, our guide will help you fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Make Sure the Fn Keys Are Not Locked
 
  Most of the time, the Fn keys stopped working because someone accidentally pressed the **Fn lock** key. The **Fn lock** key also impacts other toggle keys such as **Caps Lock** or **Num Lock** so it’s easy to find out if the Fn keys are locked.
@@ -31,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
  Then, try to use one of the Function keys.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check Your Keyboard for Dirt and Grime
 
  If specific Fn keys are still working, it might be a sign to [clean your keyboard](https://www.makeuseof.com/tag/how-to-clean-keyboard/). If it’s been long enough since the last cleaning, there could be enough dust in your keyboard to stop it from functioning as usual. If you are knowledgeable enough, you can clean your laptop by yourself as long as you have the right tools.
@@ -43,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 1. Disconnect and reconnect the keyboard.
 2. For a Bluetooth keyboard, remove the battery, wait a few minutes, and reconnect it.
 3. Connect your keyboard to a different computer and check if the Fn keys are now working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the Hardware and Devices Troubleshooter
 
@@ -54,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
 ![Hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/hardware-devices-1-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run the Keyboard Troubleshooter
 
  If the Hardware and Devices troubleshooter wasn’t enough to fix your problem and get the Fn keys working again, there is another Windows tool you can use. This time, you can access it through Settings.
@@ -63,10 +69,11 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 3. Click **Additional troubleshooters**.
 4. From **Find and fix other problems**, click **Keyboard > Run the troubleshooter**.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Keyboard troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-troubleshooter-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Turn Off Filter Keys
 
@@ -85,16 +92,11 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 3. Right-click the driver and select **Update driver**.
 4. Choose the **Search automatically for drivers** **\> Search for updated drivers on Windows Update**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![Device manager menu in Windows 10.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-driver-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to download the keyboard driver from the producer’s website, make sure you get the correct driver for your Windows version and processor type.
 
@@ -104,16 +106,10 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
  In the Start menu search bar, search for **services** and select **Run as administrator**. Then, double-click on the **Human Interface Device** service. Set **Startup type** to **Manual** and click **Apply > OK** to save the new system changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![Restart the Human Interface Device service in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/services-fn-1.jpg)
 
  Then, restart your computer and check if the problem is now fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Bring Back the Convenience of Fn Keys
 
  There you have it—a list of quick and easy solutions to fix your computer Fn keys. However, there's a chance the default Fn keys functionality doesn't work for you. In this case, you should know that you can change what the Fn keys do on your Windows computer.
@@ -122,11 +118,26 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
  But sometimes these stop working and now you have to open Action Center or Settings every time you need to adjust your computer settings. If this happens to you, our guide will help you fix it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/updated-mastering-discord-pfps-crafting-impressive-virtual-portraits-for-2024/"><u>[Updated] Mastering Discord PFPs Crafting Impressive Virtual Portraits for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/5-precise-steps-to-rectify-your-screen-res-in-windows/"><u>5 Precise Steps to Rectify Your Screen Res in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/a-compreran-guide-resolving-source-disk-errors-in-microsoft-oses/"><u>A Compreran Guide: Resolving Source Disk Errors in Microsoft OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-error-sevenzeronine-in-windows/"><u>Addressing Error SevenZeroNine in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-wsl-2s-error-4294967295-on-a-win-os/"><u>Addressing WSL 2'S ERROR 4294967295 on a Win OS</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211219112-9798890611291-awakening-the-healing-power-within-holistic-nutrition-and-natural-therapies/"><u>Awakening The Healing Power Within Holistic Nutrition And Natural Therapies | Free Book</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-create-a-windows-11-bootable-image-for-another-computer/"><u>How To Create a Windows 11 Bootable Image for Another Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-visuals-and-minimize-space-transform-dvd-to-h265-for-stellar-quality-and-smaller-files/"><u>Maximize Visuals & Minimize Space - Transform DVD to H.265 For Stellar Quality and Smaller Files</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-most-reliable-mac-vpns-in-depth-analysis-and-comparisons-techradar-insights/"><u>Ultimate Guide to the Most Reliable Mac VPNs - In Depth Analysis & Comparisons | TechRadar Insights</u></a></li>
+<li><a href="https://win-docs.techidaily.com/unlocking-the-secrets-of-serp-snippets-for-superior-search-engine-optimization-techniques/"><u>Unlocking the Secrets of SERP Snippets for Superior Search Engine Optimization Techniques</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/world-transformed-youtubes-immersive-vr-collection-for-2024/"><u>Your World Transformed Youtube's Immersive VR Collection for 2024</u></a></li>
+</ul></div>
+

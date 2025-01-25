@@ -1,7 +1,7 @@
 ---
 title: Navigating Windows 11 with Microsoft's PowerToys
-date: 2025-01-16T19:22:43.866Z
-updated: 2025-01-19T03:05:18.266Z
+date: 2025-01-18T19:33:50.181Z
+updated: 2025-01-25T02:34:43.581Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Install Microsoft PowerToys From the Microsoft Store
 
  Microsoft Store is an online marketplace pre-installed on Windows. It offers a diverse array of free and paid apps, games, and even device updates, all in one place. This gives Windows users access to everything they need under one roof.
@@ -42,13 +38,13 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 ![Installing PowerToys Through Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/installing-powertoys-through-microsoft-store.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once installation is complete, open the Microsoft PowerToys app from the Start menu. All features are ready to use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Install Microsoft PowerToys From the GitHub Page
@@ -62,14 +58,14 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 ![Installing PowerToys From the GitHub Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/installing-powertoys-from-the-github-page.jpg)
 3. Now look for a file that is named something like **PowerToysSetup-0.##.#-x64.exe**. Here, the **#** represents the version number. Click on this file to start the download. After that, navigate to your downloads folder and double-click on it. This will start the installation process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. A window might pop up asking for permission to change your device. Click **Yes** to continue. The setup wizard will then open. Here, follow the installation prompts. Typically, you just need to click **Next** a few times and then **Install**.
 5. Once the installation process is completed, you'll be prompted to finish and exit the setup. Click **Finish**. You might be asked to agree to terms and conditions, choose an installation location, and decide whether you want a shortcut created.
 
  After performing the above procedure, you can access Microsoft PowerToys from the Start menu or the shortcut if you created one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Install Microsoft PowerToys Through the Command Prompt
 
@@ -85,10 +81,14 @@ winget install --id Microsoft.PowerToys
 ![Installing PowerToys Through Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/installing-powertoys-through-command-prompt.jpg)
 5. Now hit Enter to execute the command. This will download and install Microsoft PowerToys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The process might take a few minutes, so be patient. Once it's finished, you'll find Microsoft PowerToys in your Start Menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Download Microsoft PowerToys Easily on Windows
@@ -109,22 +109,20 @@ winget install --id Microsoft.PowerToys
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-diy-youtube-intros-and-ends-without-breaking-the-bank/"><u>[Updated] DIY YouTube Intros & Ends Without Breaking the Bank</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-youtubes-power-for-profit-mastering-short-video-earnings-for-2024/"><u>[Updated] Harnessing YouTube's Power for Profit Mastering Short Video Earnings for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-maximizing-audio-capture-essential-techniques-for-facetime/"><u>[Updated] In 2024, Maximizing Audio Capture Essential Techniques for FaceTime</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-top-10-hidden-functions-to-enhance-your-canva-artistry/"><u>[Updated] In 2024, Top 10 Hidden Functions to Enhance Your Canva Artistry</u></a></li>
-<li><a href="https://win11.techidaily.com/decode-widows-code-to-unfreeze-handbrake/"><u>Decode Widows' Code to Unfreeze HandBrake</u></a></li>
-<li><a href="https://win11.techidaily.com/from-basic-to-winning-converting-batch-to-executable/"><u>From Basic to Winning: Converting Batch to Executable</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-decrease-extras-in-win-11-context-list/"><u>How to Decrease Extras in Win 11 Context List</u></a></li>
-<li><a href="https://win-guides.techidaily.com/losungsweg-seagate-discwizard-lasst-sich-nicht-mit-einer-festplatte-verbinden-anleitung-zum-losen-des-problems/"><u>Lösungsweg: Seagate DiscWizard Lässt Sich Nicht Mit Einer Festplatte Verbinden - Anleitung Zum Lösen Des Problems</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/mastering-youtube-channel-names-a-complete-list-for-vloggers-keep-it-at-or-below-156-characters/"><u>Mastering YouTube Channel Names A Complete List for Vloggers (Keep It at or Below 156 Characters)</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-disconnected-google-drive-windows-filesystem/"><u>Mending Disconnected Google Drive Windows Filesystem</u></a></li>
-<li><a href="https://win11.techidaily.com/the-blueprint-how-to-enhance-your-workflow-via-menus/"><u>The Blueprint: How to Enhance Your Workflow via Menus</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essential-guide-to-file-compression-via-cli/"><u>The Essential Guide to File Compression via CLI</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-hidden-world-of-your-online-footprint-unveiling-facebooks-secrets/"><u>The Hidden World of Your Online Footprint - Unveiling Facebook’s Secrets</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-assembling-a-taskbar-on-windows-11-slate/"><u>The Ultimate Guide to Assembling a Taskbar on Windows 11 Slate</u></a></li>
-<li><a href="https://fox-links.techidaily.com/top-strategies-for-changing-song-pace-on-spotify-app/"><u>Top Strategies for Changing Song Pace on Spotify App</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-is-chatgpt-revealing-ais-creative-potential/"><u>What Is ChatGPT? Revealing AI's Creative Potential</u></a></li>
-<li><a href="https://win11.techidaily.com/window-terminal-design-your-own-palette/"><u>Window Terminal: Design Your Own Palette</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-sky-cameras-battle-dji-pro-versus-gopro-fury/"><u>[Updated] Sky Cameras Battle DJI Pro Versus GoPro Fury</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-iphone-se-2020-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the iPhone SE (2020) iCloud Lock</u></a></li>
+<li><a href="https://video-capture.techidaily.com/discover-every-aspect-of-io-visual-logging-for-2024/"><u>Discover Every Aspect of IO Visual Logging for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/easily-arrange-spreadsheet-cells-based-on-shade-with-excels-color-feature/"><u>Easily Arrange Spreadsheet Cells Based on Shade with Excel's Color Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/excel-tips-and-tricks-effectively-displaying-data-with-icon-sets-for-clarity-and-impact/"><u>Excel Tips & Tricks: Effectively Displaying Data with Icon Sets for Clarity and Impact</u></a></li>
+<li><a href="https://win11.techidaily.com/excel-tricks-writing-your-own-function-to-count-business-days/"><u>Excel Tricks: Writing Your Own Function to Count Business Days</u></a></li>
+<li><a href="https://win11.techidaily.com/excel-the-perfect-alternative-for-non-wearable-tech-enthusiasts-to-monitor-their-wellness/"><u>Excel: The Perfect Alternative for Non-Wearable Tech Enthusiasts to Monitor Their Wellness</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-cleaning-up-smart-tags-in-your-excel-spreadsheets/"><u>Expert Tips for Cleaning Up Smart Tags in Your Excel Spreadsheets</u></a></li>
+<li><a href="https://video-capture.techidaily.com/framemaker-hd-recorder-tips-for-2024/"><u>FrameMaker HD Recorder Tips for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/genuine-deal-alert-claim-your-50-savings-on-microsoft/"><u>Genuine Deal Alert: Claim Your 50% Savings on Microsoft</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-highlighting-incorrect-values-using-circular-boundaries-in-excel-spreadsheets/"><u>Guide to Highlighting Incorrect Values Using Circular Boundaries in Excel Spreadsheets</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-y200e-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo Y200e 5G</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-economical-cloud-options/"><u>In 2024, The Ultimate Guide to Economical Cloud Options</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ipad-pro-vs-macbook-pro-a-comprehensive-feature-analysis/"><u>IPad Pro vs MacBook Pro: A Comprehensive Feature Analysis</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rclass-in-time-the-top-10-youtube-channels-for-history-students/"><u>Masterclass in Time The Top 10 YouTube Channels For History Students</u></a></li>
 </ul></div>
 

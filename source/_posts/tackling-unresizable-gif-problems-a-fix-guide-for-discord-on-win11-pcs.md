@@ -1,7 +1,7 @@
 ---
 title: "Tackling Unresizable GIF Problems: A Fix Guide for Discord on Win11 PCs"
-date: 2025-01-01T20:24:47.877Z
-updated: 2025-01-06T20:52:38.519Z
+date: 2025-01-22T17:32:36.788Z
+updated: 2025-01-24T19:25:43.842Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Optimize the GIF
 
  On Discord, file uploads are limited to a maximum of 8 MB. However, GIF emotes must not be more than 256 KB and should have dimensions of 128x128 pixels or less. If you try to upload a GIF that surpasses these size restrictions, you will encounter the "cannot resize GIF" error.
@@ -36,20 +40,12 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 ![Choose File on Ezgif website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/choose-file.jpg)
 3. Click the **Upload** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Use the **Compression level slider** to manually adjust the amount of compression. If your GIF is large in size, set the slider at a higher level.  
 ![Compression slider on Ezgif website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/compression-slider.jpg)
 5. Click the **Optimize GIF** button.
 
 6. Click the **Save** button.  
 ![Save icon on Ezgif wesbite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/save-icon.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now, check if you can upload the GIF. If not, probably the resolution is more than 128\*128 pixels. To reduce the resolution, follow the below steps:
 
@@ -58,6 +54,14 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 3. Type **128** in both the **Width** and **Height** fields. Then, click the **Resize image** button.  
 ![Resize image option in Ezgif wesbite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/resize-image.jpg)
 4. Click the **Save** icon.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Log Out and Back Into the Discord App
 
@@ -76,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 
  To fix this issue, you will have to [clear the Discord cache](https://www.makeuseof.com/tag/discord-users-free-up-disk-space/) on your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Reinstall Discord
 
  The error message can also occur due to an issue in the Discord installation files. You can fix this by reinstalling Discord.
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
  To do that, first [uninstall the app on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and restart your computer. Then, visit the [Discord download page](https://discord.com/download) and install it on your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Contact Discord Support
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
  Are you still facing the issue? If yes, that means this is probably an issue with your Discord account. In this case, the only solution is to reach out to the [Discord support](https://support.discord.com/hc/en-us) team and ask them to resolve the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make Your Conversations Interesting With GIF Emotes on Discord
@@ -114,22 +114,24 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-secure-vimeo-to-local-downloaders/"><u>[New] Secure Vimeo to Local Downloaders</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-guide-to-macs-image-file-transformation/"><u>[New] The Ultimate Guide to Mac's Image File Transformation</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mastery-of-transferring-multitudes-of-tiktok-videos/"><u>[Updated] 2024 Approved Mastery of Transferring Multitudes of TikTok Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-guide-on-turning-dynamic-hdr-on-in-windows-11-for-2024/"><u>[Updated] Guide on Turning Dynamic HDR on in Windows 11 for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-assessment-of-the-lihan-lhfm1/"><u>Comprehensive Assessment of the LIHAN LHFM1</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-x80131500-windows-store-breakdown/"><u>Correcting X80131500: Windows Store Breakdown</u></a></li>
-<li><a href="https://win11.techidaily.com/create-a-window-showcase-customizing-with-spotlight-picture-inspired-backgrounds/"><u>Create a Window Showcase: Customizing with Spotlight Picture-Inspired Backgrounds</u></a></li>
-<li><a href="https://win11.techidaily.com/discerning-safe-from-risky-windows-11-features/"><u>Discerning Safe From Risky Windows 11 Features</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-methods-for-syncing-and-downloading-icloud-images-on-various-gadgets/"><u>Effortless Methods for Syncing and Downloading iCloud Images on Various Gadgets</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-guide-to-sticky-notes-in-win11win10-apps/"><u>Expert Guide to Sticky Notes in Win11/Win10 Apps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-gt-s50-printer-drivers-compatible-with-windows-7-8-and-10/"><u>Get the Latest Epson GT-S50 Printer Drivers Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://win11.techidaily.com/implementing-windows-1011-update-reminder-feature/"><u>Implementing Windows 10/11 Update Reminder Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-self-updating-windows/"><u>Mastering the Art of Self-Updating Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-tips-reinstalling-uninstalled-hdd-in-windows-11/"><u>Quick Tips: Reinstalling Uninstalled HDD in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quit-juxtaposing-voices-of-ai-siri-and-chatgpt-unveiled/"><u>Quit Juxtaposing Voices of AI: Siri and ChatGPT Unveiled</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-guide-transferring-your-current-windows-setup-to-virtualbox/"><u>Step-by-Step Guide: Transferring Your Current Windows Setup to VirtualBox</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-overcoming-code-0x800700e1-on-windows-11/"><u>Troubleshooting: Overcoming Code 0X800700E1 on Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-decoding-dimensions-the-key-to-perfect-aspect-ratios-in-video/"><u>[New] 2024 Approved Decoding Dimensions The Key to Perfect Aspect Ratios in Video</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-evaluating-vegaspros-progressive-changes-2019/"><u>[Updated] In 2024, Evaluating VegasPro's Progressive Changes (2019)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-insiders-guide-to-capturing-crisp-vr-games/"><u>[Updated] In 2024, The Insider's Guide to Capturing Crisp VR Games</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-fixing-nvidia-opengl-issue-in-windows-11/"><u>Comprehensive Guide to Fixing NVIDIA OpenGL Issue in Windows 11</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/cookiebot-enhanced-personalization-tailor-your-user-experience/"><u>Cookiebot-Enhanced Personalization: Tailor Your User Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-windows-error-0xc0000001-expert-tips/"><u>Correcting Windows Error 0xC0000001: Expert Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-underappreciated-office-gem-in-our-top-pick-for-best-2-in-1-devices-of-the-year-exclusive-review/"><u>Discover the Underappreciated Office Gem in Our Top Pick for Best 2-in-1 Devices of the Year - Exclusive Review !</u></a></li>
+<li><a href="https://win11.techidaily.com/from-blank-screen-to-focused-workspace-reviving-hidden-panes-with-these-6-effortless-methods/"><u>From Blank Screen to Focused Workspace: Reviving Hidden Panes with These 6 Effortless Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/guidance-to-rectify-microsoft-store-error-0x80072efd/"><u>Guidance to Rectify Microsoft Store Error 0X80072EFD</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-apples-recent-payout-resolves-long-standing-macbook-dispute-unveiling-the-details-of-the-class-action-deal-gadgetdigest/"><u>How Apple's Recent Payout Resolves Long-Standing MacBook Dispute: Unveiling the Details of the Class Action Deal - GadgetDigest</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ipad-vs-ipad-air-a-comprehensive-comparison-determining-the-ideal-device-for-your-needs-zdnet/"><u>IPad Vs. IPad Air: A Comprehensive Comparison – Determining the Ideal Device for Your Needs | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-windows-taskbar-showing-internet-speed/"><u>Maximizing Windows Taskbar: Showing Internet Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-system-load-visualizers/"><u>Optimal System Load Visualizers</u></a></li>
+<li><a href="https://win11.techidaily.com/reveal-and-recognize-six-ways-to-discover-your-pc-model/"><u>Reveal & Recognize - Six Ways To Discover Your PC Model</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/speedy-conversion-techniques-transforming-3gp-files-into-superior-mp4-format/"><u>Speedy Conversion Techniques: Transforming 3GP Files Into Superior MP4 Format</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-gaining-windows-high-level-control/"><u>Steps for Gaining Windows' High-Level Control</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-memory-couldnt-be-written-in-windows/"><u>Tackling 'Memory Couldn’t Be Written' In Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlock-better-listening-the-ultimate-tutorial-to-deactivate-windows-10-sound-enhancements/"><u>Unlock Better Listening: The Ultimate Tutorial to Deactivate Windows 10 Sound Enhancements</u></a></li>
 </ul></div>
 

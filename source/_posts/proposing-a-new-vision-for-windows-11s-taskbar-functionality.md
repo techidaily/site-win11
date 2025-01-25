@@ -1,7 +1,7 @@
 ---
 title: Proposing a New Vision for Windows 11'S Taskbar Functionality
-date: 2024-08-08T13:19:21.027Z
-updated: 2024-08-09T13:19:21.027Z
+date: 2025-01-22T17:04:40.438Z
+updated: 2025-01-24T20:05:02.333Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 
 ## 2\. Bring Back the Combine Taskbar Buttons Setting
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Combine taskbar buttons drop-down menu in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/combine-taskbar-settings-windows-10.jpg)
 
  One of the biggest criticisms of Windows 11 is that it does not allow users to ungroup taskbar icons. If you have multiple windows open, they are clubbed into one single icon in the taskbar, thus making it super difficult for you to find and switch to the one you want quickly.
@@ -40,32 +37,28 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
  When you set the "Combine taskbar buttons" to**Never** in Windows 10, it shows all the taskbar buttons individually for the same app on the taskbar, thus helping you to know which window is what and switch to the one you want quickly. You can enable the feature from the taskbar setting page in Windows 10 but not Windows 11\. We hope Microsoft will re-introduce it to Windows 11 in future "Moment" updates.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Enabling Users to Move the Start Button in Taskbar
 
  The Start Button is always placed on the left of every other icon in the taskbar, and you can not change it in Windows 11\. A movable Start Menu button was never a customization option since Windows existed. To give users more options to customize the taskbar, Microsoft should allow users to quickly move the Start button in the taskbar, just like the app icons.
 
  It may not be available in Windows 11 anytime soon, but we would like to see it in future versions of Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Add Better Drag And Drop Support
 
  If you are running Windows 11, version 22H2, you can drag files onto apps in the taskbar to open them directly in specific apps. This way, you can open files faster than by double-clicking the app icon with your mouse and then opening files. However, there is still room for improvement. For example, unlike in macOS Dock, you can not simply drag a file or folder to Windows 11 taskbar.
 
  Windows 11 taskbar will be much more functional if Microsoft adds the ability to drag and drop files and folders onto it. That said, you can[pin almost anything to the Windows 11 taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/) .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Integrate Events Into the Calendar Flyout in the Taskbar
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows 10 calendar flyout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-10-calendar-flyout.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image credit:[Microsoft](https://blogs.windows.com/windows-insider/2016/04/22/announcing-windows-10-insider-preview-build-14328-for-pc-and-mobile/)
 
@@ -73,18 +66,27 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 
  Microsoft can improve the taskbar by bringing back the ability to view upcoming events as well as create new ones from the Calendar flyout.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. What More Can Microsoft Do to Improve the Taskbar?
 
  Apart from the changes mentioned above, Microsoft can also make the Windows taskbar more modern and more consistent with the design of Windows 11\. For example, one of the changes the software company can make is implementing a rounded-corner design to the taskbar.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Floating taskar in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/floating-taskar-in-windows-11.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image credit: Albacore/[Twitter](https://twitter.com/thebookisclosed/status/1580287591890329601)
 
  The rounded corner design in the Windows 11 taskbar will make it look more like ChromeOS' "Shelf" (taskbar equivalent of ChromeOS) and macOS Dock. However, we don't mind if Microsoft brings a rounded corner design as a customization option on top of what we already have.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Did Microsoft Remove Certain Taskbar Features in Windows 11?
 
@@ -94,14 +96,6 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 
 ## The Recent Changes Microsoft Introduced in the Windows 11 Taskbar
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Tablet optimized taskbar in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/tablet-optimized-taskbar-in-windows-11.jpg)
 
  Image credit:[Microsoft](https://blogs.windows.com/windows-insider/2022/09/08/announcing-windows-11-insider-preview-build-25197/)
@@ -116,14 +110,11 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 
  If not in upcoming Windows 11 Moments updates, we would love to see Microsoft making the taskbar more functional in Windows 12 with all the aforementioned features.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,4 +123,19 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-fine-tuning-virtual-presence-in-ms-teams-for-2024/"><u>[New] Fine-Tuning Virtual Presence in MS Teams for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-becoming-a-zoom-pro-the-comprehensive-tutorial-for-professional-audio-recordings/"><u>[Updated] 2024 Approved Becoming a Zoom Pro The Comprehensive Tutorial for Professional Audio Recordings</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enhance-visibility-11-must-know-youtube-video-seo-tactics/"><u>2024 Approved Enhance Visibility 11 Must-Know YouTube Video SEO Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-reasons-why-generative-ai-security-issues-will-only-worsen/"><u>8 Reasons Why Generative AI Security Issues Will Only Worsen</u></a></li>
+<li><a href="https://win11.techidaily.com/decreasing-cpu-temperatures-on-windows-11-machines/"><u>Decreasing CPU Temperatures on Windows 11 Machines</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-managing-directx-on-your-system/"><u>Efficiently Managing DirectX on Your System</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-driving-experience-the-most-effective-5-free-tools-for-pcs/"><u>Enhance Driving Experience: The Most Effective 5 Free Tools for PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/fourfold-path-to-permanently-delete-a-disk-partition-on-windows/"><u>Fourfold Path to Permanently Delete a Disk Partition on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-honor-x7b-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Honor X7b Quickly? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-devices-wi-fi-connectivity-when-its-not-working/"><u>How to Restore Your Device's Wi-Fi Connectivity When It's Not Working</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-repeat-revelry-televised-looping-of-online-media-content/"><u>In 2024, Repeat Revelry Televised Looping of Online Media Content</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-unresponsive-disk-optimization-utility/"><u>Solutions for Unresponsive Disk Optimization Utility</u></a></li>
+</ul></div>
 

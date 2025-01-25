@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Healing Defective Windows Registry Entries"
-date: 2024-08-08T13:19:22.968Z
-updated: 2024-08-09T13:19:22.968Z
+date: 2025-01-18T08:51:13.214Z
+updated: 2025-01-24T20:52:15.770Z
 tags:
   - windows10
   - windows11
@@ -21,10 +21,9 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
  Broken registry items can lead to system errors and hamper your system’s normal functioning. But don’t worry! We will explain the importance of the Windows Registry and list out multiple methods to fix the issue and avoid them in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Windows Registry?
 
  The Windows Registry stores the necessary configuration settings which a Windows system component or a program needs to run properly. Tweaking enthusiasts can tinker with registry entries and even create new ones to modify the behavior of a program. You can[activate hidden Windows 11 themes](https://www.makeuseof.com/windows-11-secret-themes-registry/) by altering the registry values.
@@ -33,16 +32,10 @@ The powerful video editing program for your Windows PC</a>
 
  However, the Windows Registry isn’t impervious to errors. These errors can arise due to malware infestations, unexpected power failures, and corrupt or outdated entries.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix Broken Registry Items in Windows 11
 
  Try out the following methods to fix the broken registry items on your Windows 11 system:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Use the Disk Cleanup Tool
 
  Rather than installing a third-party cleanup tool, try the Windows Disk Cleanup utility. It is an old yet trustworthy utility included with every copy of Windows OS. You can use it to clear system clutter which also clears registry associations of some apps. Repeat the following steps:
@@ -50,17 +43,16 @@ The powerful video editing program for your Windows PC</a>
 1. Press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cleanmgr** in the text input box and press the enter key.
 2. Disk Cleanup tool will launch. Select the**C drive** and click on the**OK** button.
 3. Navigate down and click on the**Clean up system files** button.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run Disk Cleanup tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-disk-cleanup-tool-in-windows-11.jpg)
 4. The Disk Cleanup tool will launch again. Keep the Drive selection as**OS (C:)** and click on the**OK** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Wait for the utility to scan the system. Then, click on the**OK** button.
 6. Disk Cleanup will reconfirm your decision. Click on the**Delete files** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### 2\. Try the Automatic Repair Tool
 
  Microsoft offers an automatic repair tool that can fix system boot issues and even core system registry files. Here’s how to use the tool:
@@ -72,9 +64,6 @@ The powerful video editing program for your Windows PC</a>
 ![Using Startup Repair in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/using-startup-repair-in-windows-11.jpg)
 5. The utility will begin diagnosing your system and attempt repairs. After that,**restart** your system.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Run an SFC Scan
 
  SFC is an inbuilt windows utility that can scan your system for corrupt or missing system files. It will then replace all the corrupt or missing files with a fresh copy. Here’s how you can scan your system with SFC:
@@ -84,6 +73,11 @@ The powerful video editing program for your Windows PC</a>
 3. Now, type**sfc /scannow** and press**enter** to execute the command.  
 ![Run the SFC Utility in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-the-sfc-utility-in-windows-11.jpg)
 4. Patiently wait for the utility to scan and replace files on your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. **Close** the command prompt window and restart your computer.
 
 ### 4\. Try a DISM Scan
@@ -94,11 +88,13 @@ The powerful video editing program for your Windows PC</a>
 2. Once CMD launches with elevated permissions, type**DISM /Online /Cleanup-Image /RestoreHealth** command and press the**enter** key.  
 ![Run a DISM Scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-a-dism-scan-in-windows-11.jpg)
 3. Wait for the tools to scan and repair the problems with the system image.
-4. Finally,**close** the command prompt and restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Finally,**close** the command prompt and restart your PC.
+
 ### 5\. Import an Old Registry Backup
 
  If you have a habit of[creating registry backups on Windows](https://www.makeuseof.com/tag/backup-restore-windows-registry/) , it could solve the broken registry items issue with your system. When you encounter issues, you can import the old registry backup when the system was working fine.
@@ -111,6 +107,10 @@ Here’s how you can import an old backup in Windows Registry:
 3. Navigate to the registry backup file location on your system.**Select** the registry file and click on the**Open** button to begin importing the file.
 4. Wait for a few minutes for the import to complete.**Restart** your system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Check for Malware on Your System
 
  Malware can create and modify the registry items, and can even break or corrupt existing registry entries. You must perform a thorough scan of your Windows computer using Windows defender.
@@ -122,6 +122,10 @@ Here’s how you can import an old backup in Windows Registry:
 3. Navigate to**Virus and threat protection > Scan options** .
 4. Select the**Full Scan** radio button and then click on the**Scan Now** button.
 5. Windows Security will execute a deep scan of all the files on your disk. If it finds any traces of malware, manually remove them from your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Do a System Restore
 
@@ -138,9 +142,6 @@ Repeat the following steps to perform a system restore:
 6. Confirm your restore point selection and click on the**Finish** button.
 7. Your system will restart automatically to apply the restore point. It will then automatically boot to the desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 8\. Reset Your PC
 
  If System Restore fails to do the trick, you are left with the last arrow in your troubleshooting quiver:[performing a factory reset on Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . It will wipe all the drivers and programs and revert the system to a clean state. However, you can save your files and documents if you pick the**Keep my files** option while resetting your Windows 11 computer.
@@ -149,14 +150,11 @@ Repeat the following steps to perform a system restore:
 
  If your Windows Registry has seen better days, start by running disk cleanup and SFC and DISM scans. Then scan your system for malware infestation and import an old registry backup (if you have one). Lastly, leverage the system restore utility or reset your Windows PC.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -165,4 +163,20 @@ Repeat the following steps to perform a system restore:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-from-playtime-to-profits-ryan-kajis-youtube-cash-crusade/"><u>[Updated] 2024 Approved From Playtime to Profits Ryan Kaji's YouTube Cash Crusade</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-innovating-tiktok-posts-for-twitters-platform/"><u>[Updated] Innovating TikTok Posts for Twitter's Platform</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-infinix-hot-30-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Infinix Hot 30 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/diverse-collection-of-hachishakusama-designs-stunning-wallpapers-and-backgrounds-by-yl-computing/"><u>Diverse Collection of Hachishakusama Designs: Stunning Wallpapers & Backgrounds by YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-modification-of-nat-type-on-windows-win11-and-10-guide/"><u>Effective Modification of NAT Type on Windows: Win11 & 10 Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-note-12-pro-4g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Xiaomi Redmi Note 12 Pro 4G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-fn-key-for-brightness-adjustment-in-windows-11/"><u>How to Reactivate Fn Key for Brightness Adjustment in Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-in-depth-instructions-installing-countdown-clocks-in-obs/"><u>In 2024, In-Depth Instructions Installing Countdown Clocks in OBS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-movavi-screencapture-pro-detailed-review-analysis/"><u>In 2024, Movavi ScreenCapture Pro Detailed Review Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-visual-efficiency-top-5-ideal-windows-pc-clock-themed-screen-saver-creation-apps/"><u>Maximize Visual Efficiency: Top 5 Ideal Windows PC Clock-Themed Screen Saver Creation Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimal-video-player-windows-ios-android-for-2024/"><u>Optimal Video Player Windows, iOS, Android for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-remedies-starting-fresh-with-explore-ui/"><u>Quick Remedies: Starting Fresh with Explore UI</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-fixing-microsoft-store-error-0x87e00017/"><u>Tips for Fixing Microsoft Store Error 0X87e00017</u></a></li>
+</ul></div>
 

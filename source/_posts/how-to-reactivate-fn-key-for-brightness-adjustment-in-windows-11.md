@@ -1,7 +1,7 @@
 ---
 title: How to Reactivate Fn Key for Brightness Adjustment in Windows 11
-date: 2024-08-08T13:21:53.131Z
-updated: 2024-08-09T13:21:53.131Z
+date: 2025-01-22T08:14:53.843Z
+updated: 2025-01-25T02:15:36.727Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/09bf8f46c612c175c9c1b70882f85f23e4a357208
 
  However, things get tricky if this key does not work anymore or has stopped functioning. In such cases, you may need to take a few steps in order to fix the brightness function key not working on Windows PC.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Restart Your Computer
 
  Keyboard issues can sometimes be fixed with a simple restart. Restarting your computer will reset the keyboard settings and may make the brightness key work again.
@@ -30,9 +27,9 @@ thumbnail: https://thmb.techidaily.com/09bf8f46c612c175c9c1b70882f85f23e4a357208
  If you need, then open this guide and learn[different methods of restarting your Windows computer](https://www.makeuseof.com/windows-restart-methods/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Clean Your Keyboard to Remove Dirt and Grime
 
  Over time, dirt and debris can build up on and between the keys of your keyboard. This especially happens if you use your laptop in a dusty environment. Cleaning the keys can make them more responsive and help fix any problem with the brightness function key not working.
@@ -40,9 +37,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If you don't know exactly how to clean the keyboard, you can see our guide on[how to clean your keyboard and sterilize viruses and bacteria](https://www.makeuseof.com/tag/how-to-clean-keyboard/) . You can also read[a simple trick for cleaning under your keyboard's keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Make Sure the Function Key Is Enabled
 
  The function key may not work if it is disabled on your keyboard. To make sure it is enabled, press the**Fn + Esc** keys simultaneously. Doing this will toggle the function lock on and off. If it was disabled, enabling it should help fix the brightness key not working issue.
@@ -52,9 +49,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  The Hardware and Devices Troubleshooter is the next step to try if the above solutions weren't enough. This tool can detect and fix any hardware and device issues on your computer, including the problem with the keyboard. To run the troubleshooter, do the following:
 
 1. Open the Command Prompt window with admin access. If you need help, see our guide on[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
 2. Once you're in the Command Prompt window, type and execute the command below:  
 `msdt.exe -id DeviceDiagnostic`
@@ -68,9 +62,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Press**Win + I** on your keyboard to open the Settings window. To learn more, read our guide on how to open the System Settings.
 2. In the Settings menu, click**System > Troubleshoot** .
 3. Click**Other troubleshooters** on the next page.  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
 4. Scroll down to locate the Keyboard and then click**Run** .
 
@@ -87,10 +78,11 @@ To update the keyboard driver, follow these steps:
 3. Expand**Keyboards** , then right-click on your current keyboard driver and select**Update driver** .  
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 4. Next, click**Search automatically for drivers** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Follow the on-screen instructions to complete the process. Once you've done this, restart your computer and check if the issue is resolved.
 
@@ -98,17 +90,18 @@ To update the keyboard driver, follow these steps:
 
 1. Open Device Manager and expand the**Keyboards** section.
 2. Right-click on your keyboard driver and select**Uninstall device** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![Uninstall device in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-device-in-device-manager.jpg)
 3. Click**Uninstall** again to confirm and follow the on-screen instructions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After performing the above steps, restart your computer to reinstall the drivers. Once you power up again, check if the function key works now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Turn Off the Filter Keys
 
@@ -120,11 +113,12 @@ No advertising on the website.
 2. Click on the drop-down menu next to**View by** and select**Large icons** .
 3. Then click**Ease of Access Center** and select**Make the keyboard easier to use** .
 4. Uncheck the box next to**Turn on Filter Keys** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn on Filter Keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-on-filter-keys.jpg)
 5. Click**Apply** and then**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now check if your keyboard is working properly.
 
@@ -148,14 +142,11 @@ Now check if your keyboard is working properly.
 
  It's important to keep your device's brightness settings adjusted to a comfortable level. However, if your brightness function key is not working, here are some quick solutions to make your computer's function keys work again. All in all, these are simple yet powerful tricks for restoring malfunctioning function keys.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +155,20 @@ Now check if your keyboard is working properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-artistic-anomaly-top-10-unique-affordable-mac-drawers-free/"><u>[New] Artistic Anomaly Top 10 Unique, Affordable Mac Drawers (Free)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-from-footage-to-narrative-the-essential-guide-to-instagram-descriptive-texts-for-2024/"><u>[New] From Footage to Narrative The Essential Guide to Instagram Descriptive Texts for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/riumph-in-the-digital-arena-discovering-youtubes-top-five-tactics-for-2024/"><u>[New] Triumph in the Digital Arena - Discovering YouTube’s Top Five Tactics for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-guide-to-music-copyright-etiquette-on-ig/"><u>[Updated] 2024 Approved The Ultimate Guide to Music Copyright Etiquette on IG</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-avoiding-objections-to-autoplay-videos-on-fb/"><u>[Updated] In 2024, Avoiding Objections to Autoplay Videos on FB</u></a></li>
+<li><a href="https://win11.techidaily.com/4-fixes-to-try-if-you-cant-enable-the-windows-firewall/"><u>4 Fixes to Try if You Can’t Enable the Windows Firewall</u></a></li>
+<li><a href="https://win11.techidaily.com/4-ways-to-find-the-mac-address-on-windows-11/"><u>4 Ways to Find the MAC Address on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-windows-11s-visual-keyboard-assistant/"><u>Accessing Windows 11'S Visual Keyboard Assistant</u></a></li>
+<li><a href="https://win11.techidaily.com/aim-for-zero-error-windows-1011-bin-repair-guide/"><u>Aim for Zero-Error: Windows 10/11 Bin Repair Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-your-pcs-cooling-system-with-the-mighty-moora-iv-600-nine-200mm-fans-and-a-bulky-35lbs-radiator-for-under-600/"><u>Enhance Your PC's Cooling System with the Mighty MOORA IV 600: Nine 200Mm Fans and a Bulky 35Lbs Radiator for Under $600</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/extracting-images-from-videos-a-comprehensive-guide-6-alternative-methods/"><u>Extracting Images From Videos - A Comprehensive Guide (6 Alternative Methods)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y200-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y200 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-enhance-your-mobile-data-connection-step-by-step-solutions-for-faster-browsing/"><u>Troubleshoot and Enhance Your Mobile Data Connection: Step-by-Step Solutions for Faster Browsing</u></a></li>
+</ul></div>
 

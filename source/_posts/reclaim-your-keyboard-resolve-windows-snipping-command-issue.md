@@ -1,7 +1,7 @@
 ---
 title: "Reclaim Your Keyboard: Resolve Windows Snipping Command Issue"
-date: 2025-01-14T18:18:44.774Z
-updated: 2025-01-19T07:18:53.922Z
+date: 2025-01-23T07:34:02.126Z
+updated: 2025-01-24T16:04:34.353Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart the Computer
 
  It might sound simple, but restarting your computer often solves minor problems. This can help clear out any glitches that may prevent the shortcut from working correctly.
@@ -39,15 +35,27 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 
  Check the keyboard for any dirt or debris that may obstruct the keys. Clean off dust, crumbs, and other particles with compressed air. Ensure that all the keys are working correctly and that none are stuck or pressed down. If the keys have been damaged or worn down, consider replacing your keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Enable the Clipboard History
 
  If keyboard dirt and debris are not the issues, you may need to enable the clipboard history feature. This will help you restore any screenshots taken with Win + Shift + S that have been lost.
 
 ![Enable the Clipboard History](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-the-clipboard-history.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To enable it, open Settings and navigate to **System** \> **Clipboard**. There, you'll find the toggle for **Clipboard history** – turn it on.
 
  You can also use the Windows search bar to type in **Clipboard settings** and open it directly. If you prefer shortcuts, hit **Win + R** or type **ms-settings:clipboard** into Run.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn on Snipping Tool Notification Toggle
 
@@ -59,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 2. In the Settings window, navigate to **System** \> **Notifications**.
 3. Under **Notifications from apps and other senders**, scroll down to the bottom and turn on the Snipping Tool notification toggle.  
 ![Turn on Snipping Tool Notification Toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-on-snipping-tool-notification-toggle.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you have enabled this option, press **Win + Shift + S** to take a screenshot. If the shortcut works, you will see a notification that the screenshot is saved to the clipboard.
 
@@ -78,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 
  On the next page, scroll down to the **Reset** section. Select **Reset** and then click on **Reset** again in the confirmation popup. After resetting the Snipping Tool, check if the Win + Shift + S shortcut works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Reinstall the Snipping Tool
 
  If resetting doesn't solve the problem, try reinstalling the Snipping Tool. It will resolve any issues you may have with your current installation.
@@ -89,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
  To reinstall the Snipping Tool, open the System Settings. Select **Apps** \> **Installed apps**, then find and select **Snipping Tool** from the list of installed programs.
 
 ![Reset the Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-the-snipping-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click the three dots and select **Uninstall**. Now follow the on-screen instructions to complete the process. Once done, download and install a new version of the Snipping Tool from the Microsoft Store app.
 
@@ -124,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
  After that, exit the registry editor and restart your computer. Once the system reboots, check if the issue has been resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Perform Some Generic Fixes
@@ -136,10 +140,6 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 3. Make sure you are [running the latest version of Windows](https://www.makeuseof.com/update-windows-manually/).
 4. [Run a full scan with your antivirus program](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/) and see if it solves the issue.
 5. If the issue still persists, there's a chance that third-party applications are interfering with the Snipping Tool shortcut. In such a case, [try performing a clean boot](https://www.makeuseof.com/clean-boot-windows-11/). This will temporarily disable all the third-party applications and allow you to check if they were causing the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Taking Screenshots Is Easy With Shortcut Keys
 
@@ -157,22 +157,22 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-youtube-free-convert-your-fb-videos-into-720p1080p-mp4-online-guide-for-2024/"><u>[Updated] YouTube-Free Convert Your FB Videos Into 720P/1080p MP4 Online Guide for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cant-get-into-doom-eternal-master-the-techniques-to-resolve-launch-errors/"><u>Can't Get Into DOOM Eternal? Master the Techniques to Resolve Launch Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-the-role-and-usage-of-windows-component-services/"><u>Deciphering the Role & Usage of Windows Component Services</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-track-tips-for-discovering-computer-gpu-make/"><u>Fast-Track Tips for Discovering Computer GPU Make</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Vivo Y27 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reset-vmware-errors-on-windows-11/"><u>How to Reset VMware Errors on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/immerse-in-vividness-adding-life-like-wallpapers-on-windows-11/"><u>Immerse in Vividness: Adding Life-Like Wallpapers on Windows 11</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-iphone-music-video-production-basics/"><u>In 2024, Step-by-Step IPhone Music Video Production Basics</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-update-failure-0x800f0845-error/"><u>Resolving Windows Update Failure: 0X800F0845 Error</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-windows-11-defenses-adding-firewall-to-the-context-menu/"><u>Streamlining Windows 11 Defenses: Adding Firewall to the Context Menu</u></a></li>
-<li><a href="https://win11.techidaily.com/ten-strategies-to-keep-windows-safe-without-bitlocker-support/"><u>Ten Strategies to Keep Windows Safe without Bitlocker Support</u></a></li>
-<li><a href="https://win11.techidaily.com/the-unmatched-features-in-windows-10-why-its-superior-to-win11/"><u>The Unmatched Features in Windows 10: Why It's Superior to Win11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-meizu-21-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-12-unique-presents-ideal-for-tech-savvy-individuals-a-guide-by-zdnet/"><u>Top 12 Unique Presents Ideal for Tech Savvy Individuals: A Guide by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-server-errors-is-battlenet-down-or-personal-connection-problems/"><u>Understanding Server Errors: Is Battle.net Down or Personal Connection Problems?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/unveiling-advanced-greenscreen-techniques-a-complete-guide-to-chroma-key-kinemaster/"><u>Unveiling Advanced Greenscreen Techniques A Complete Guide to Chroma Key (KineMaster)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/windows-10-enthusiasts-rejoice-learn-how-to-modify-taskbar-shades-for-a-fresh-new-look/"><u>Windows 10 Enthusiasts Rejoice! Learn How to Modify Taskbar Shades for a Fresh New Look</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-indoor-brightness-boosted-by-external-radiance/"><u>[New] 2024 Approved Indoor Brightness Boosted by External Radiance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-dynamics-of-dialing-up-digital-devotees/"><u>[New] The Dynamics of Dialing Up Digital Devotees</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-behind-the-scenes-a-tech-savvy-approach-to-messenger-downloads-for-2024/"><u>[Updated] Behind the Scenes A Tech-Savvy Approach to Messenger Downloads for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-streamlined-approach-to-capturing-youtube-content/"><u>2024 Approved Streamlined Approach to Capturing YouTube Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-views-top-14-gaming-video-ideas-that-work/"><u>Boosting Views Top 14 Gaming Video Ideas That Work</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-zero-error-win11s-onedrive-sign-in-woes-eliminated/"><u>Conquering Zero-Error: Win11's OneDrive Sign-In Woes Eliminated</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-successfully-fix-windows-update-error-xc004f050/"><u>How to Successfully Fix Windows Update Error XC004F050</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-steady-silence-decreasing-volume-in-logic-pro-projects/"><u>In 2024, Steady Silence Decreasing Volume in Logic Pro Projects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/lerne-hier-wie-du-eine-dvd-erfolgreich-auf-deinem-google-drive-speichern-kannst/"><u>Lerne Hier, Wie Du Eine DVD Erfolgreich Auf Deinem Google Drive Speichern Kannst!</u></a></li>
+<li><a href="https://win11.techidaily.com/probing-windows-entry-status-victory-or-defeat-stories/"><u>Probing Windows Entry Status: Victory or Defeat Stories</u></a></li>
+<li><a href="https://win11.techidaily.com/retuning-windows-11-energy-settings-from-loss/"><u>Retuning Windows 11 Energy Settings From Loss</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-verifying-your-windows-11-temp-files/"><u>Steps for Verifying Your Windows 11 Temp Files</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamline-your-content-google-podcast-upload/"><u>Streamline Your Content Google Podcast Upload</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-failed-connections-between-win10win11-and-nvidia/"><u>Tackling Failed Connections Between Win10/Win11 and Nvidia</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essence-of-windows-n-versions-decision-making-factors/"><u>The Essence of Windows N Versions: Decision-Making Factors</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-high-resource-consumption-due-to-unrealcefsubprocess/"><u>Troubleshooting Windows' High Resource Consumption Due to UnrealCEFSubprocess</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726027513863-usbdvd/"><u>USBメモリに保存されたビデオをDVDプレイヤー上で正常に再生する方法</u></a></li>
 </ul></div>
 

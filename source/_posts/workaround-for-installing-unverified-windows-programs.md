@@ -1,7 +1,7 @@
 ---
 title: Workaround for Installing Unverified Windows Programs
-date: 2025-01-15T21:22:12.211Z
-updated: 2025-01-19T00:01:13.007Z
+date: 2025-01-20T22:43:19.075Z
+updated: 2025-01-25T01:32:11.266Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Install the App From the Microsoft Store
 
  Considering you get the error when downloading apps outside the Microsoft Store, it makes sense to first check if the same app is available there. If the app is available, you can download it from there, and there won't be any need to go through advanced troubleshooting.
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
  Therefore, [open the Microsoft Store](https://www.makeuseof.com/windows-open-microsoft-store/) and search for the app. If you find the app in the store, click the **Get** button to install it. However, if the app isn't available in the store and can only be downloaded from another source, ensure it is safe to download.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Make Sure the App You're Downloading Is Safe
@@ -66,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 ![Go to Advanced Apps Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-go-to-advanced-apps-settings-in-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select **Anywhere** from the dropdown menu next to **Choose where to get apps**.
@@ -87,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 4. Select **Disabled** to turn off this feature.  
 ![Disable the Policy for Configure App Install Control in Windows Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/5-disable-the-policy-for-configure-app-install-control-in-windows-local-group-policy-editor.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Change the App Install Control Permission in the Registry Editor
 
  To modify the App Install Control permissions via the Registry Editor, follow the below steps:
@@ -103,14 +95,22 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 ![Create New String Value in Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-create-new-string-value-in-windows-registry-editor.jpg)
 4. Name this new value **"AicEnabled."**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Name the Newly Created String Value AicEnabled in Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/8-name-the-newly-created-string-value-aicenabled-in-windows-registry-editor.jpg)
 5. Double-click on the newly created string and type "**Anywhere"** in the **Value data** field.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Type Anywhere in the Value Data Field of Newly Created String in Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/9-type-anywhere-in-the-value-data-field-of-newly-created-string-in-windows-registry-editor.jpg)
 6. Restart the computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the above Registry tweak does not resolve the issue, turn off S mode.
@@ -139,7 +139,7 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
  If you've never run the troubleshooter before, refer to our guide on [how to run a troubleshooter on Windows 10 or 11](https://www.makeuseof.com/run-troubleshooter-windows-10-11/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Successfully Install Third-Party Applications Again on Windows
@@ -160,21 +160,18 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/2-top-tier-cameras-that-will-transform-your-vlogging-experience/"><u>[New] 12 Top-Tier Cameras That Will Transform Your Vlogging Experience</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-ultimate-windows-11-hacks-and-tips/"><u>[New] 2024 Approved Ultimate Windows 11 Hacks and Tips</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-art-of-capture-and-storage-managing-snapshots-like-a-pro/"><u>[New] In 2024, The Art of Capture and Storage Managing Snapshots Like a Pro</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-demystifying-mukbang-a-comprehensive-production-guide/"><u>[Updated] In 2024, Demystifying Mukbang A Comprehensive Production Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-foundations-of-a-youtube-venture-a-comprehensive-guide/"><u>[Updated] In 2024, The Foundations of a YouTube Venture A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-windowsmacos-visual-enhancement-a-guide-to-text-embellishments-in-photos/"><u>[Updated] Windows/MacOS Visual Enhancement A Guide to Text Embellishments in Photos</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-approach-to-windows-11-shortcuts/"><u>A Step-by-Step Approach to Windows 11 Shortcuts</u></a></li>
-<li><a href="https://win11.techidaily.com/achieve-a-pristine-windows-11-workspace/"><u>Achieve a Pristine Windows 11 Workspace</u></a></li>
-<li><a href="https://win11.techidaily.com/achieving-3d-audio-with-dolby-atmos-on-windows/"><u>Achieving 3D Audio with Dolby Atmos on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-malfunctions-in-windows-batch-file-systems/"><u>Addressing Malfunctions in Windows Batch File Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/advanced-chat-features-6-applications-to-talk-through-your-files/"><u>Advanced Chat Features: 6 Applications to Talk Through Your Files</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-tactics-make-windows-11-search-invisible/"><u>Advanced Tactics: Make Windows 11 Search Invisible</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-chat-speed-enable-bing-ai-in-windows-11-menu-bar/"><u>Boost Chat Speed: Enable Bing AI in Windows 11 Menu Bar</u></a></li>
-<li><a href="https://win11.techidaily.com/boot-barriers-busted-5-proven-steps-for-secure-boot-fixes/"><u>Boot Barriers Busted: 5 Proven Steps for Secure Boot Fixes</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/top-10-terraria-game-boosters-for-2024/"><u>Top 10 Terraria Game Boosters for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/topo-das-5-criadoras-de-letreiros-mais-influentes-do-youtube-acesse-online/"><u>Topo Das 5 Criadoras De Letreiros Mais Influentes Do YouTube: Acesse Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nsights-into-average-gain-from-each-watched-online-content/"><u>[New] Insights Into Average Gain From Each Watched Online Content</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-what-to-expect-from-your-instagram-experience-now/"><u>[New] What to Expect From Your Instagram Experience Now</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-your-creativity-with-these-under-1k-4k-cameras/"><u>[Updated] Unlock Your Creativity with These Under-$1k 4K Cameras</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehending-the-basics-of-whatsapp-calls/"><u>2024 Approved Comprehending the Basics of WhatsApp Calls</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-nokia-g42-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Nokia G42 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/cut-the-cost-boost-quality-wins-finest-players/"><u>Cut the Cost, Boost Quality: Win's Finest Players</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-fixing-common-issues-in-windows-camera/"><u>Decoding and Fixing Common Issues in Windows Camera</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-download-vimeo-video-to-mp4/"><u>How To Download Vimeo Video to MP4</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-eliminate-obs-studio-error-windows-edition-strategy/"><u>How to Eliminate OBS Studio Error: Windows Edition Strategy</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-insight-are-you-ready-for-windows-11/"><u>Quick Insight: Are You Ready for Windows 11?</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-1011-nvidia-connectivity-flaws/"><u>Resolving Windows 10/11 NVIDIA Connectivity Flaws</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-your-life-a-compreehers-handbook-to-creating-multiple-directories-in-windows-1011/"><u>Simplify Your Life: A Compreeher's Handbook to Creating Multiple Directories in Windows 10/11</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-14-ultra-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi 14 Ultra Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
 

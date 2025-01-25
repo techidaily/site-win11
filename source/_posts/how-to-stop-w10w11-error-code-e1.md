@@ -1,7 +1,7 @@
 ---
 title: How to Stop W10/W11 Error Code E1
-date: 2025-01-14T04:10:28.638Z
-updated: 2025-01-18T19:35:37.000Z
+date: 2025-01-18T09:05:07.099Z
+updated: 2025-01-25T08:08:07.040Z
 tags:
   - windows10
   - windows11
@@ -37,15 +37,15 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![The Install button for Malwarebytes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/install-option.jpg)
 6. Select **Done** to finish and launch Malwarebytes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click Malwarebytes’ **Scan** option.  
 ![The Scan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/scan-option.png)
 8. Select **Quarantine** if anything is detected.
 
  If error 0x800700E1 occurs when you try to transfer some files from a USB drive, scan the folder that includes the files you’re trying to move or copy. To do that, you’ll need to connect the drive to your PC. Then right-click the folder on the external drive within Explorer and select **Scan with Malwarebytes**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Turn Off Microsoft Defender (or Any Active Third-Party Antivirus Apps)
 
@@ -54,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/real-time-protection-option.jpg)
 
  If you’ve installed an alternative third-party antivirus app, you must disable that software’s real-time protection instead. Most antivirus apps have context menu settings for disabling antivirus shields. So, look in the system tray area, right-click your antivirus app, and select an option that will temporarily disable its antivirus shield for an hour or two.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Repair File Explorer
 
@@ -70,20 +66,16 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![The sfc scanfile command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-scannow-command-for-file-explorer.jpg)
 4. Then input this SFC command text and hit **Enter**:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `sfc /SCANFILE=C:WindowsSysWow64explorer.exe`  
 ![An SFC scanfile command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-explorer-command.jpg)
 5. Wait for both scans to finish and show a Windows Resource Protection message.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Clear Browsing Data
@@ -101,13 +93,13 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
  If you utilize Chrome, Edge, Firefox, Opera, or another alternative, clear the browsing data with your browser’s built-in settings. All browsers include a tool or options for clearing cookies, history, and cached data. Look through your browser’s settings tab and menus to find its tool for clearing browser data.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Try Some Generic Windows Fixes
 
  If nothing has worked so far, here are some general Windows fixes you can try:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Add the File to Your Antivirus' Exclusion List
 
@@ -117,15 +109,15 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
  If you have a third-party antivirus app, you’ll need to select the folder within that software’s exclusion or exceptions list. You should be able to find such a feature within the settings tab of an antivirus utility. Check out your antivirus utility’s online manual on the publisher’s website for details about how to set folder exclusions in it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Run SFC and DISM File Scans
 
  If the above potential solutions don’t work for you, try running an SFC scan to check for and repair system file corruption. The System File Checker utility is one you can run by executing a CMD command. We have a guide that tells you [how to run a System File Checker scan](https://www.makeuseof.com/system-file-checker-sfc-windows/).
 
 ![A general sfc scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-scannow.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In addition, run a Deployment Image Servicing and Management (DISM) scan to address system image issues. You can run that utility much the same as SFC by inputting a command for it within the Command Prompt. Execute this DISM command:
 
@@ -137,7 +129,15 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 ![The Startup tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/startup-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We have a guide about [how to clean boot Windows](https://www.makeuseof.com/clean-boot-windows-11/) that includes step-by-step instructions for applying this potential fix. You can disable all non-essential third-party startup apps and services with the Task Manager and MSConfig tools. Then restart Windows to see if error 0x800700E1 persists after clean booting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Error 0x800700E1 Sorted in Windows
 
@@ -155,22 +155,17 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-edit-masters-seamless-text-insertion-for-photos-for-2024/"><u>[New] Edit Masters Seamless Text Insertion for Photos for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-by-step-setting-up-your-smartphone-as-a-webcam-device/"><u>[New] Step-by-Step Setting Up Your Smartphone as a Webcam Device</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-advanced-guide-to-excellence-full-screen-preview-in-premiere/"><u>[Updated] Advanced Guide to Excellence Full Screen Preview in Premiere</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-top-8-iphone-selfie-stick-choices-revealed/"><u>2024 Approved Top 8 iPhone Selfie Stick Choices Revealed</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-down-and-correcting-not-working-error-in-windows/"><u>Breaking Down and Correcting 'Not Working' Error in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-server-stumbled-glitches-win-1111-store-correction-guide/"><u>Bypassing 'Server Stumbled' Glitches: Win 11/11 Store Correction Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-reasons-why-pcs-outshine-macs-9/"><u>Essential Reasons Why PCs Outshine Macs (#9)</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-formidable-stanley-j5c09-a-blend-of-size-and-functionality/"><u>Evaluating the Formidable Stanley J5C09 - A Blend of Size and Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/five-smart-choices-of-windows-devices/"><u>Five Smart Choices of Windows Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Lava Yuva 3? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-upscale-your-old-videos-with-madvr-for-windows/"><u>How to Upscale Your Old Videos With MadVR for Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-yuva-2-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Lava Yuva 2 Pro Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-and-enhance-your-pcs-performance-with-updated-pl2303pl2303hx-usb-to-serial-chip-drivers-on-windows/"><u>Install and Enhance Your PC's Performance with Updated PL2303/PL2303HX USB to Serial Chip Drivers on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-settings-managing-device-permissions/"><u>Navigating Windows Settings: Managing Device Permissions</u></a></li>
-<li><a href="https://win11.techidaily.com/reversing-error-code-0x80070570-repair-corrupted-filesdirectories/"><u>Reversing Error Code 0X80070570: Repair Corrupted Files/Directories</u></a></li>
-<li><a href="https://win11.techidaily.com/risks-and-precautions-deleting-windows-bt-folder/"><u>Risks & Precautions: Deleting Windows ~BT Folder</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-crafting-a-powerful-earnings-strategy-on-the-vimeo-platform/"><u>[New] 2024 Approved Crafting a Powerful Earnings Strategy on the Vimeo Platform</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-selective-sights-best-macos-sierra-video-editors/"><u>[New] In 2024, Selective Sights Best macOS Sierra Video Editors</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-soundtracking-dreams-an-overview-of-magix-fx/"><u>[New] In 2024, Soundtracking Dreams An Overview of Magix FX</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-system-restore-to-revert-windows/"><u>How to Use System Restore to Revert Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-oppo-a79-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Oppo A79 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-honor-play-8t-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Honor Play 8T to New Phone | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-oneplus-nord-ce-3-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on OnePlus Nord CE 3 5G online without jailbreak</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-upgrade-your-view-enabling-youtubes-high-quality-av1-option/"><u>In 2024, Upgrade Your View Enabling YouTube's High-Quality AV1 Option</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-league-disconnects-in-windows-os/"><u>Resolving League Disconnects in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-the-steam-lag-in-windows-11-gaming-environment/"><u>Solutions to the Steam Lag in Windows 11 Gaming Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-clearing-black-pixels-in-winsteam/"><u>Techniques for Clearing Black Pixels in WinSteam</u></a></li>
+<li><a href="https://win11.techidaily.com/unplugging-issues-keeping-usbs-active-on-windows-11/"><u>Unplugging Issues: Keeping USBs Active on Windows 11</u></a></li>
 </ul></div>
 

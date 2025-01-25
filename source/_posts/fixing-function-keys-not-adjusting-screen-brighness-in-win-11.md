@@ -1,7 +1,7 @@
 ---
 title: Fixing Function Keys Not Adjusting Screen Brighness in Win 11
-date: 2025-01-15T20:03:27.384Z
-updated: 2025-01-19T07:43:30.585Z
+date: 2025-01-23T20:40:41.333Z
+updated: 2025-01-24T19:47:54.889Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  Keyboard issues can sometimes be fixed with a simple restart. Restarting your computer will reset the keyboard settings and may make the brightness key work again.
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
  Over time, dirt and debris can build up on and between the keys of your keyboard. This especially happens if you use your laptop in a dusty environment. Cleaning the keys can make them more responsive and help fix any problem with the brightness function key not working.
 
  If you don't know exactly how to clean the keyboard, you can see our guide on[how to clean your keyboard and sterilize viruses and bacteria](https://www.makeuseof.com/tag/how-to-clean-keyboard/) . You can also read[a simple trick for cleaning under your keyboard's keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Make Sure the Function Key Is Enabled
 
@@ -49,12 +57,16 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
 2. Once you're in the Command Prompt window, type and execute the command below:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `msdt.exe -id DeviceDiagnostic`
 
  This will open the Hardware and Devices Troubleshooter window. Follow the on-screen instructions and complete the process to detect and fix any problems related to your keyboard and function keys. Once done, you can try using the brightness function key to adjust the screen's brightness.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Run the Keyboard Troubleshooter
@@ -66,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
 3. Click**Other troubleshooters** on the next page.  
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
 4. Scroll down to locate the Keyboard and then click**Run** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you complete the above steps, try using the brightness function key again to see if the issue is resolved.
 
@@ -87,10 +95,6 @@ To update the keyboard driver, follow these steps:
 
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Follow the on-screen instructions to complete the process. Once you've done this, restart your computer and check if the issue is resolved.
 
  If the Fn key is still unresponsive even with a driver update, there may be problems with your keyboard's driver. In that case, uninstall the problematic driver and install it again. Here's how to do it:
@@ -101,10 +105,6 @@ To update the keyboard driver, follow these steps:
 3. Click**Uninstall** again to confirm and follow the on-screen instructions.
 
  After performing the above steps, restart your computer to reinstall the drivers. Once you power up again, check if the function key works now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Turn Off the Filter Keys
 
@@ -119,11 +119,11 @@ To update the keyboard driver, follow these steps:
 ![Turn on Filter Keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-on-filter-keys.jpg)
 5. Click**Apply** and then**OK** .
 
-Now check if your keyboard is working properly.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Now check if your keyboard is working properly.
 
 ## 8\. Scan for Malicious Programs
 
@@ -135,15 +135,15 @@ Now check if your keyboard is working properly.
 
  This should help you fix the issue of your keyboard not functioning properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Switch to a Different Keyboard
 
  Sometimes the problem is not others but the keyboard itself. It could have defective keys or some other hardware issue preventing it from functioning correctly; in that case, try using your device on another computer or laptop to be sure that the problem is not the operating system or software.
 
  If you find that your keyboard is the issue, then it’s time to replace it with a new one or get it repaired.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Make Use of the Function Key Again on Windows
 
@@ -164,17 +164,22 @@ Now check if your keyboard is working properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-mastering-youtubes-networking-finding-and-creating-video-co-ops/"><u>[Updated] 2024 Approved Mastering YouTube's Networking Finding and Creating Video Co-Ops</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-seamlessly-stream-and-save-youtube-lives-from-every-device/"><u>[Updated] Seamlessly Stream and Save YouTube Lives From Every Device</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-app-migration-tips-to-fix-windows-task-manager-positions/"><u>Avoid App Migration: Tips to Fix Windows Task Manager Positions</u></a></li>
-<li><a href="https://win11.techidaily.com/curb-the-constant-reopening-of-windows-file-explorer/"><u>Curb the Constant Reopening of Windows' File Explorer</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-mend-windows-11s-system-settings-problems/"><u>How to Mend Windows 11'S System Settings Problems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-lava-yuva-2-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Lava Yuva 2 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-14-pro-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone 14 Pro Safe and Legal</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/perfectly-pivoted-videos-the-ultimate-android-editing-guide-for-2024/"><u>Perfectly Pivoted Videos The Ultimate Android Editing Guide for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-rectify-write-operation-failures-in-winos/"><u>Steps to Rectify Write Operation Failures in WINOS</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-quest-for-perfection-in-key-locators-exploring-the-best-picks-of-2024/"><u>The Quest for Perfection in Key Locators: Exploring the Best Picks of 2024!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-nokia-c12-plus-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Nokia C12 Plus Phones</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726026909481-4/"><u>パソコンに最適な4つのスムーズな動画高負荷配信手順</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-30-powerful-freegame-hashtags-for-dominating-youtube/"><u>[New] In 2024, 30 Powerful FreeGame Hashtags for Dominating YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-five-fantastic-iphones-for-podcast-fans/"><u>[New] In 2024, Five Fantastic iPhones for Podcast Fans</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-path-to-windows-support-center-revealed-here/"><u>Direct Path to Windows' Support Center Revealed Here</u></a></li>
+<li><a href="https://win11.techidaily.com/expanding-context-menu-adding-folders-to-w11/"><u>Expanding Context Menu: Adding Folders to W11</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-linuxs-interface-a-guide-to-android-resource-efficiency/"><u>Fine-Tuning Linux's Interface: A Guide to Android Resource Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-invalid-onedrive-tags-steps-for-windows-users/"><u>Fixing Invalid OneDrive Tags: Steps for Windows Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-11-pro-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and Apple iPhone 11 Pro without Apple Account</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-motorola-razr-40-ultra-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Motorola Razr 40 Ultra Data? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/identifying-ai-delusions-recognizing-fake-data-interpretations/"><u>Identifying AI Delusions: Recognizing Fake Data Interpretations</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-wakeable-assets-during-system-slumber/"><u>Managing Wakeable Assets During System Slumber</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-temporary-profiles-for-effortless-windows-access/"><u>Mastering Temporary Profiles for Effortless Windows Access</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-audio-control-with-windows-11-volume-mixer/"><u>Streamlining Audio Control with Windows 11 Volume Mixer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-genesis-of-smart-machines-diving-into-when-ai-was-first-conceived/"><u>The Genesis of Smart Machines: Diving Into When AI Was First Conceived</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-social-media-roadmap-for-business-growth/"><u>The Social Media Roadmap for Business Growth</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-error-0x800f0831-in-windows-os/"><u>Troubleshooting Error 0X800F0831 in Windows OS</u></a></li>
 </ul></div>
 

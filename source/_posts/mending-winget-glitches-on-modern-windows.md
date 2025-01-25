@@ -1,7 +1,7 @@
 ---
 title: Mending Winget Glitches on Modern Windows
-date: 2025-01-17T16:20:16.190Z
-updated: 2025-01-18T19:00:10.863Z
+date: 2025-01-18T03:17:36.039Z
+updated: 2025-01-25T00:00:10.835Z
 tags:
   - windows10
   - windows11
@@ -36,15 +36,15 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
  Now, you know the reasons behind Winget not working issue. Try out these eight methods to resolve the issue and use your favorite package manager again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Close and Reopen Winget in the Terminal App
 
  Before moving on to advanced fixes, completely close the Command Prompt or PowerShell instance you are running on the PC. You can use the Task Manager to stop an unresponsive instance of either of these command-line tools.
 
  After that, open Command Prompt or PowerShell with administrator privileges on your system. Type Winget and press the **Enter** key to check if Winget works now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check if the Winget Servers Are Down
 
@@ -61,7 +61,15 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 ![Completely Shutdown your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/completely-shutdown-your-pc.jpg)
 3. Your system will shut down. It will take longer than a usual shutdown because Windows will close everything.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Power on your system and try to run Winget using the Terminal app to check if it works now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Update App Installer
 
@@ -69,11 +77,11 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 ![Update App Installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-app-installer.jpg)
 
- So, open Microsoft Store and check the library section for any pending updates for the App Installer. Manually search and install the update and check if Winget works now.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ So, open Microsoft Store and check the library section for any pending updates for the App Installer. Manually search and install the update and check if Winget works now.
 
 ## 5\. Enable the App Execution Alias
 
@@ -86,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 ![Enable the App Execution Alias-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-the-app-execution-alias-1.jpg)
 5. Close the Settings app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Manually Add the Path Environment Variable
 
  Ae wrongly configured Winget path can also produce errors. So, you must manually add the correct path in Environment Variables using the Advanced System Properties window. Repeat the following steps:
@@ -100,15 +104,7 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 ![Manually Add the Path Environment Variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manually-add-the-path-environment-variable.jpg)
 4. Click on the **OK** button. Restart your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Open the Terminal app and check if Winget works or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Re-register Winget Using PowerShell
 
@@ -119,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 `Add-AppxPackage -DisableDevelopmentMode -Register "C:\Program Files\WindowsApps\Microsoft.Winget.Source_2021.718.1322.843_neutral__8wekyb3d8bbwe\AppXManifest.xml" -Verbose`
 3. You won’t see any confirmation message after the command executes successfully. Close the PowerShell window and restart your PC.  
 ![Re-register Winget Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/re-register-winget-using-powershell.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Try Some Generic Windows Fixes
 
@@ -142,18 +142,19 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-top-ios-pro-and-plus-free-film-apps-unveiled-for-2024/"><u>[Updated] Top iOS Pro & Plus-Free Film Apps - Unveiled for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-zippyzoom-pauseframe-playback/"><u>[Updated] ZippyZoom PauseFrame Playback</u></a></li>
-<li><a href="https://techtrends.techidaily.com/chromebook-frozen-8-ways-to-fix-that/"><u>Chromebook Frozen? 8 Ways to Fix That</u></a></li>
-<li><a href="https://win11.techidaily.com/from-blank-canvases-to-dynamic-displays-on-win-1011/"><u>From Blank Canvases to Dynamic Displays on Win 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/from-start-menu-to-control-panel-a-guide/"><u>From Start Menu to Control Panel: A Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro with a Mask On</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-unmatched-clarity-the-ultimate-mic-guide/"><u>In 2024, Unmatched Clarity The Ultimate Mic Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/maximizing-gaming-performance-when-and-how-to-update-your-gpu/"><u>Maximizing Gaming Performance: When and How to Update Your GPU</u></a></li>
-<li><a href="https://win11.techidaily.com/pro-tips-for-maximizing-speed-and-efficiency-in-3d-painting/"><u>Pro Tips for Maximizing Speed and Efficiency in 3D Painting</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-functioning-automated-rules-in-microsoft-outlook/"><u>Restoring Functioning Automated Rules in Microsoft Outlook</u></a></li>
-<li><a href="https://win11.techidaily.com/utilizing-the-fn-key-operations-and-tips/"><u>Utilizing the FN Key: Operations and Tips</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/win11/"><u>Win11快速解決: 無法存取資料夾的故障及其簡單修正方式</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-cab-files-explained-formatting-and-implementation/"><u>Windows CAB Files Explained: Formatting and Implementation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-essential-guide-to-4-premium-fullscreen-software/"><u>[New] 2024 Approved The Essential Guide to 4 Premium Fullscreen Software</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-comparing-gopro-and-yi-4k-cams-new-insights-on-high-speed-cameras-for-2024/"><u>[New] Comparing GoPro and Yi 4K Cams New Insights on High-Speed Cameras for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unleash-your-potential-with-top-igtv-creators/"><u>[New] In 2024, Unleash Your Potential with Top IGTV Creators</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/olvedhow-to-blur-faces-or-objects-in-youtube-videos-for-2024/"><u>[New] Solved How to Blur Faces or Objects in YouTube Videos for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-exploring-advanced-features-of-zoom-on-windows-11-systems/"><u>[Updated] In 2024, Exploring Advanced Features of Zoom on Windows 11 Systems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-twittersphere-treasure-trove-for-2024/"><u>[Updated] The Twittersphere Treasure Trove for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-productivity-with-ai-assistance-how-to-make-the-most-of-chatgpt-during-virtual-team-sessions/"><u>Boosting Productivity with AI Assistance: How to Make the Most of ChatGPT During Virtual Team Sessions</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-microsoft-office-glitch-error-30015-26/"><u>Fixing Microsoft Office Glitch: Error 30015-26</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-best-8-linux-platforms-for-video-mastery/"><u>In 2024, Best 8 Linux Platforms for Video Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/lost-voice-troubleshoot-microphone-errors-in-google-meet-windows/"><u>Lost Voice? Troubleshoot Microphone Errors in Google Meet (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-nvidia-cp-access-issues-on-ws1110-systems/"><u>Resolving Nvidia CP Access Issues on WS11/10 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/succeed-without-upgrading-to-windows-11-heres-how/"><u>Succeed without Upgrading to Windows 11, Here's How</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-0x800736cc-windows-update-hurdle/"><u>Tackling the 0X800736CC Windows Update Hurdle</u></a></li>
+<li><a href="https://win11.techidaily.com/utilizing-windows-blue-screen-data-for-precise-repairs/"><u>Utilizing Windows Blue Screen Data for Precise Repairs</u></a></li>
 </ul></div>
 

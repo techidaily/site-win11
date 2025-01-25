@@ -1,7 +1,7 @@
 ---
 title: How to Get Audible Feedback in OS X/Windows
-date: 2025-01-15T20:57:22.804Z
-updated: 2025-01-18T22:08:00.723Z
+date: 2025-01-20T19:42:34.587Z
+updated: 2025-01-25T00:27:18.839Z
 tags:
   - windows10
   - windows11
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  If the test tone isn't playing, restart your computer first. This often refreshes the system and solves small glitches that may have developed. It's a simple workaround but sometimes effective.
 
 ![A Windows PC Getting Started](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restarting-a-windows-pc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To restart your computer, close any running applications. After that, press **Alt + F4**, or right-click the **Start** menu and select **Shut down or sign out** \> **Shut down**.
 
@@ -47,11 +47,11 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 4. Next to the **Playing Audio** troubleshooter, click the **Run** button.  
 ![Run the Audio Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-the-audio-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for a while until Windows scans and fixes the issue. After this, see if the test tone is working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Restart the Windows Audio Service
 
@@ -62,18 +62,22 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 ![Open Windows Audio Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-windows-audio-service.jpg)
 3. Once found, double-click it to open its Properties window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. In the General tab, click on the **Start type** drop down menu and select **Automatic**.  
 ![Restart Windows Audio Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-windows-audio-service.jpg)
 5. Now go to the **Service status** section and click on **Stop**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Wait for a few moments, then press **Start** to restart the service.
 7. Click **Apply** \> **OK** to save the changes.
 
  After doing this, close the Services window and open any audio application to check if the test tone is playing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn Off Audio Enhancements
 
@@ -105,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 ![Update Audio driver Via Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-audio-driver-via-device-manager.jpg)
 4. Find your audio device. Note the manufacturer and model name.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Search online for drivers for your device. Usually, these will be on the manufacturer's website.
 
  These drivers usually install with a double-click, but if it doesn't, go back to Device Manager and do this:
@@ -118,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 ![Search automatically for drivers-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-automatically-for-drivers-1.jpg)
 
  Wait until Windows downloads and installs the latest driver version. Once done, restart your device and check if the test tone is now playing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reinstall the Audio Drivers
 
@@ -139,10 +135,6 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 
  After this, close the window and restart your computer. Once your system is up, Windows will automatically detect the audio device and install its driver. This will fix the issue if the driver was corrupted.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Try Different Audio Formats
 
  Sample rate and a bit depth are two important settings that affect the sound quality on your computer. If these settings are not configured correctly, audio glitches may occur, causing the test tone to fail. Based on your device specs, you can change the sample rate and see if it helps.
@@ -159,6 +151,10 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 
  If this solution works, you should leave the settings at their current values. If it doesn't work, go back and select a different sample rate. Once you find the correct settings, click **Apply** \> **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Perform a Few General Fixes
 
  Besides the methods mentioned above, you can try a few general fixes that may help you get the test tone working.
@@ -167,6 +163,10 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 * [Updating Windows to the latest version](https://www.makeuseof.com/update-windows-manually/).
 * You can also [perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/). It disables unnecessary third-party software running in the background, which may cause the issue. I
 * If the problem persists, [use the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/). This utility scans all protected system files and replaces them if they are corrupted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Playing the Test Tone Again on Windows
 
@@ -184,24 +184,18 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-quick-clicks-big-grins-the-kinemaster-way-for-2024/"><u>[New] Quick Clicks, Big Grins The KineMaster Way for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-unmatched-subtitle-expertise-top-10-leaders-in-video-caption-manipulation/"><u>[New] Unmatched Subtitle Expertise – Top 10 Leaders in Video Caption Manipulation</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-is-insta-snap-verification-worth-it/"><u>[Updated] 2024 Approved Is Insta-Snap Verification Worth It?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-maximizing-tv-reach-with-fb-live-streaming/"><u>[Updated] 2024 Approved Maximizing TV Reach with FB Live Streaming</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-elevate-video-calls-browse-through-our-top-5-hd-webcams-and-mics/"><u>2024 Approved Elevate Video Calls - Browse Through Our Top 5 HD Webcams & Mics</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-read-only-on-windows-folders-amidst-issues/"><u>Bypassing Read-Only on Windows Folders Amidst Issues</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/comprehensive-macos-x-hd-desktop-icons-by-yl-computing-your-ultimate-icon-selection/"><u>Comprehensive MacOS X HD Desktop Icons by YL Computing - Your Ultimate Icon Selection</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tuning-file-properties-a-windowayers-manual/"><u>Fine-Tuning File Properties: A Window'ayer's Manual</u></a></li>
-<li><a href="https://win11.techidaily.com/from-sealed-boxes-to-digital-realm-unlocking-windows-11-with-a-window-7-key/"><u>From Sealed Boxes to Digital Realm: Unlocking Windows 11 With a Window 7 Key</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-seamless-backgrounds-in-teamconferences-via-microsoft-teams/"><u>In 2024, Seamless Backgrounds in TeamConferences via Microsoft Teams</u></a></li>
-<li><a href="https://article-helps.techidaily.com/prime-pioneering-1980s-techniques-in-film-making-for-2024/"><u>Prime Pioneering 1980S Techniques in Film Making for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/resolve-shrinking-windows-11-icons-quickly/"><u>Resolve Shrinking Windows 11 Icons Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-email-alert-issues-in-windows-desktop-environment/"><u>Resolving Email Alert Issues in Windows Desktop Environment</u></a></li>
-<li><a href="https://win11.techidaily.com/secret-start-screen-tactics-vanish-power-buttons-from-windows-11/"><u>Secret Start Screen Tactics: Vanish Power Buttons From Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silence-expert-tips-for-restoring-sound-on-your-pclaptop/"><u>Solving the Silence: Expert Tips for Restoring Sound on Your PC/Laptop</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-reinstate-lunar-client-after-launch-failed/"><u>Strategies to Reinstate Lunar Client After Launch Failed</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-linux-vm-setup-with-windows-and-hyper-v-integration/"><u>Streamlining Linux VM Setup with Windows and Hyper-V Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-widget-guide-top-7-methods/"><u>Windows 11 Widget Guide: Top 7 Methods</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-record-gameplay-and-webcam/"><u>[Updated] How to Record Gameplay and Webcam</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-is-sns-hdr-pro-the-gold-standard-for-hdr-editors/"><u>[Updated] In 2024, Is SNS HDR Pro the Gold Standard for HDR Editors?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-perfecting-high-resolution-views-on-tweet-vids/"><u>[Updated] In 2024, Perfecting High-Resolution Views on Tweet Vids</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-plain-story-formulation-for-2024/"><u>[Updated] Plain Story Formulation for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtubes-virality-secrets-effective-hashtag-strategies/"><u>[Updated] YouTube's Virality Secrets Effective Hashtag Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/core-libraries-dll-deficiency-on-computer/"><u>Core Libraries: DLL Deficiency on Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/cure-your-consoles-crashing-wow-problems-quickly/"><u>Cure Your Console's Crashing WoW Problems Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-tap-your-way-through-win11s-print-settings-max-48-chars/"><u>Quick Guide: Tap Your Way Through Win11's Print Settings (Max 48 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-non-selectable-text-within-windows-pdf-files/"><u>Rectify Non-Selectable Text Within Windows PDF Files</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-techniques-for-batch-installing-windows-11-apps-via-winstall/"><u>Simplified Techniques for Batch Installing Windows 11 Apps via Winstall</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-plan-for-your-epic-games-files/"><u>The Ultimate Plan for Your Epic Games Files</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-enhance-game-stability-top-e-fixes-for-dreamlight-valley-pc-glitches/"><u>Troubleshoot and Enhance Game Stability: Top E Fixes for Dreamlight Valley PC Glitches</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-steps-to-purge-unnecessary-steam-dns-data/"><u>Windows Steps to Purge Unnecessary Steam DNS Data</u></a></li>
 </ul></div>
 

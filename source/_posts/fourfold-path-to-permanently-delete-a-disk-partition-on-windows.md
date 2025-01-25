@@ -1,7 +1,7 @@
 ---
 title: Fourfold Path to Permanently Delete a Disk Partition on Windows
-date: 2024-08-08T13:22:08.590Z
-updated: 2024-08-09T13:22:08.590Z
+date: 2025-01-21T20:46:22.376Z
+updated: 2025-01-24T17:05:50.651Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 
  This guide will show you how to delete a drive partition using the Settings app, Disk Management tool, Command Prompt, and PowerShell.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 1\. How to Delete a Drive Partition on Windows Using the Settings App
 
  The Windows Settings app makes it easy to manage drive partitions and perform advanced storage-related tasks. It also provides the most straightforward way to delete a drive partition on Windows.To delete a drive partition via the Settings app:
@@ -33,12 +30,17 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 4. Click the **Properties** button next to the drive you wish to delete.
 5. Under the **Format** section, click the **Delete** button.
 6. Select **Delete volume** to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Delete a Drive Partition Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-a-drive-partition-using-the-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you complete the steps, the partition and everything on it will be gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Delete a Drive Partition on Windows Using the Disk Management Utility
 
@@ -53,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
  Don't want to get rid of a drive altogether? You can also choose to [hide the drive on Windows](https://www.makeuseof.com/how-to-hide-a-drive-in-windows/) using the Disk Management tool.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Delete a Drive Partition on Windows With the Command Prompt
 
  Not a fan of GUI? No problem. Windows also lets you delete a drive partition using the Command Prompt. Here are the steps for the same.
@@ -69,12 +72,13 @@ list volume`
 `select volume N`
 6. Copy and paste the following command and press **Enter** to delete the partition.  
 `delete volume`  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Delete a Drive Partition Using the Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-a-drive-partition-using-the-command-prompt.jpg)
 
  Enjoy working with the Command Prompt? If so, you will surely love our guide on [customizing the Command Prompt on Windows](https://www.makeuseof.com/windows-customize-command-prompt/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Delete a Drive Partition on Windows via PowerShell
 
@@ -89,28 +93,19 @@ list volume`
 6. Copy and paste the following command to delete the partition. Replace **X** in the command with the actual drive letter noted in the previous step.  
 `Remove-Partition -DriveLetter X`
 7. Type **Y** and press **Enter** to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Delete a Drive Partition Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-a-drive-partition-using-powershell.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you run the above commands, PowerShell will delete the specified partition.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## There Are Many Ways to Delete Drive Partitions on Windows
 
  As we just saw, deleting a drive partition on Windows is a simple process, regardless of the method you use. Once you delete a partition, the space on that drive will be unallocated. You can then create a new partition on the empty space or use the space to expand an existing partition.
 
  This guide will show you how to delete a drive partition using the Settings app, Disk Management tool, Command Prompt, and PowerShell.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -118,3 +113,25 @@ list volume`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-football-vids-premier-insights-into-youtube-tracks/"><u>[New] 2024 Approved Football Vids Premier Insights Into YouTube Tracks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unveiling-the-science-of-quantum-hdr-enhancement/"><u>[Updated] Unveiling the Science of Quantum HDR Enhancement</u></a></li>
+<li><a href="https://win-docs.techidaily.com/44cm44ow44o844oi6kit5a6a44ov44kh44kk44or44ks6zal44gp44gu44ks5psv5oplus044gz44kl6kmz57sw44gq6kej5rg65oml6acg44cn/"><u>「ブート設定ファイルを開くのを支援する詳細な解決手順」</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-ensure-video-perfection-before-sharing-on-instagram/"><u>2024 Approved Ensure Video Perfection Before Sharing on Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/5-tactics-to-turn-windows-into-a-mac-like-interface/"><u>5 Tactics to Turn Windows Into a Mac-Like Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/a-detailed-walkthrough-to-activate-notepad-dark-mode-on-windows-11/"><u>A Detailed Walkthrough to Activate Notepad Dark Mode on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/a-new-era-for-deletion-on-your-pcs-photo-gallery/"><u>A New Era for Deletion on Your PC's Photo Gallery</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-support-tasks-map-windows-troubleshooting-tools/"><u>Accelerate Support Tasks: Map Windows Troubleshooting Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/activate-enhanced-browser-protection-with-microsofts-defender-on-windows-11s-edge/"><u>Activate Enhanced Browser Protection with Microsoft's Defender on Windows 11'S Edge</u></a></li>
+<li><a href="https://win11.techidaily.com/audioscape-refresh-on-windows-the-driver-upgrade-path/"><u>Audioscape Refresh on Windows: The Driver Upgrade Path</u></a></li>
+<li><a href="https://win11.techidaily.com/basking-in-low-light-the-art-of-dark-modes-in-paint/"><u>Basking in Low Light: The Art of Dark Modes in Paint</u></a></li>
+<li><a href="https://win11.techidaily.com/beating-back-blue-screens-in-your-daily-computing-life/"><u>Beating Back Blue Screens in Your Daily Computing Life</u></a></li>
+<li><a href="https://facebook.techidaily.com/bridging-platforms-instagrams-new-whatsapp-2fa-strategy/"><u>Bridging Platforms: Instagram's New WhatsApp 2FA Strategy</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/learn-to-convert-youtube-videos-on-twitter-downloads/"><u>Learn to Convert YouTube Videos on Twitter Downloads</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/securing-cash-through-youtube-content-sales-for-2024/"><u>Securing Cash Through YouTube Content Sales for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/security-patch-applied-reinforce-devices-internal-identity-validation-protocols/"><u>Security Patch Applied: Reinforce Device's Internal Identity Validation Protocols</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/standing-youtubes-rating-mechanism-nuances-for-2024/"><u>Understanding YouTube's Rating Mechanism Nuances for 2024</u></a></li>
+</ul></div>
+

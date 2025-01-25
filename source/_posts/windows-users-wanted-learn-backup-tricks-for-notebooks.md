@@ -1,7 +1,7 @@
 ---
 title: "Windows Users Wanted: Learn Backup Tricks for Notebooks"
-date: 2024-08-08T13:22:11.444Z
-updated: 2024-08-09T13:22:11.444Z
+date: 2025-01-23T05:21:51.458Z
+updated: 2025-01-25T06:49:11.874Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
 
  In this guide, we're going to show you a couple of ways to back up your sticky notes on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Back Up and Restore YourSticky Notes Using a Microsoft Account
 
  The easiest way to back up your sticky notes is to use a Microsoft account, which stores the notes on the cloud. If you don't have one already, then you can [learn how to create a Microsoft account](https://www.makeuseof.com/your-microsoft-account-things-windows-user-should-know/) or skip to the next section to learn how to back up the notes manually.
@@ -38,17 +35,18 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
 5. Click **Continue** and follow the instructions to complete the sign-in process.
 6. Once you're signed in, click on **Settings** again in the top right corner.
 7. Scroll down and click **Sync now**.  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the Sync Now button in Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/sync-now-button-in-sticky-notes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To restore the notes on another computer, open the Sticky Notes app (make sure the PC is connected to the internet) and sign in with your Microsoft account. Once signed in, the app will load all the notes you previously synced. Furthermore, every time you finish writing a Sticky Note or edit one, the app will automatically back it up to the cloud.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Manually Back Up and Restore Your Sticky Notes
 
  If you don't want to use a Microsoft account or want to have an extra backup of your sticky notes, then you can manually back them up yourself. While it's not as easy as just syncing them to the cloud, it can definitely come in handy when you don't have internet access and want to restore the notes.
@@ -57,16 +55,19 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 1. Copy the following file path: **%LocalAppData%\\Packages\\Microsoft.MicrosoftStickyNotes\_8wekyb3d8bbwe\\LocalState**.
 2. Press **Win + R** to open Windows Run, paste the file path in the text box, and hit the **Enter** key.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![opening tne Local State folder in Windows Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/opening-local-state-folder-in-windows-run.jpg)
 3. In the **LocalState** folder, copy the **plum.sqlite** file.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![the plum database for Sticky Notes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/the-plum-database-for-sticky-notes-on-windows.jpg)
 4. Paste the **plum.sqlite** file to an external drive, such as a flash drive or external SDD, or upload it to cloud storage, such as OneDrive or Google Drive, for safekeeping.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To manually restore your sticky notes on another Windows computer, follow the steps below:
 
@@ -79,15 +80,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Now when you open Sticky Notes, it will load the **plum.sqlite** file, and you should see all your notes appear in the app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Never Lose Your Sticky Notes Again
 
  Losing your sticky notes means you could lose potentially important information. So it makes sense to always have a copy stored somewhere in case you need to restore them. We recommend using your Microsoft account to back up the notes, considering it's convenient to both sync and restore them later on, but it's also a good idea to know that there's a manual option available.
 
  In this guide, we're going to show you a couple of ways to back up your sticky notes on Windows.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -95,3 +95,25 @@ DbSchema database designer for all databases, schema design in the team, schema 
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-quitvideo-on-the-go-quickaction-tips/"><u>[New] 2024 Approved QuitVideo On-the-Go QuickAction Tips</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-complete-manual-for-background-banishment-in-figma/"><u>[New] The Complete Manual for Background Banishment in Figma</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-exploring-video-realm-mirrorless-challenges-to-dslrs/"><u>[Updated] In 2024, Exploring Video Realm Mirrorless Challenges to DSLRs</u></a></li>
+<li><a href="https://win11.techidaily.com/7-annoying-wins-windows-11s-design-dissonance/"><u>7 Annoying Wins: Windows 11'S Design Dissonance</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-the-install-net-application-complaint/"><u>Addressing the Install .NET Application Complaint</u></a></li>
+<li><a href="https://win11.techidaily.com/beat-the-wait-winning-strategies-to-fasten-upstart-in-win11/"><u>Beat The Wait: Winning Strategies to Fasten Upstart in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/blackview-minipc-ample-storage-average-speed/"><u>Blackview MiniPC: Ample Storage, Average Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-pc-life-after-declining-windows-11-upgrade/"><u>Boost Your PC Life After Declining Windows 11 Upgrade</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-vram-maximizing-graphics-power-on-windows-os/"><u>Boosting VRAM: Maximizing Graphics Power on Windows OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965043920-free-guide-step-by-step-download-of-updated-geforce-rtx-3070-drivers-for-win11win10/"><u>Free Guide: Step-by-Step Download of Updated GeForce RTX 3070 Drivers for Win11/Win10!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-g35-headset-drivers-compatible-with-windows-7-8-and-10-download-here/"><u>Free Logitech G35 Headset Drivers Compatible with Windows 7, 8 & 10 - Download Here!</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-pick-a-winner-top-5-features-in-next-gen-game-mice/"><u>How to Pick a Winner: Top 5 Features in Next-Gen Game Mice</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-lenovo-thinkphone-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Lenovo ThinkPhone Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-v27-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo V27 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1719367006018-need-windows-help-find-support-tips-and-solutions/"><u>Need Windows Help? Find Support Tips & Solutions!</u></a></li>
+<li><a href="https://win11.techidaily.com/1719299925084-understanding-and-correcting-windows-error-0xc00000f/"><u>Understanding & Correcting Windows Error: 0Xc00000f</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-meizu-21-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Meizu 21 Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Surgical Tweaks to the Android Resource Management System
-date: 2024-08-08T13:21:45.983Z
-updated: 2024-08-09T13:21:45.983Z
+date: 2025-01-20T20:29:55.600Z
+updated: 2025-01-25T08:51:50.078Z
 tags:
   - windows10
   - windows11
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
  When running Windows Subsystem for Android (WSA) on your Windows 11 PC, you might not like how the virtual machine for Android apps uses resources. These resources include memory, CPU, and GPU. Luckily, you can manage that pretty easily, and we’re going to show you how.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## "As Needed" or "Continuous?" Which One to Choose
 
  You have two choices when it comes to the way WSA uses your computer’s resources:**As needed** or**Continuous** .
@@ -32,43 +33,44 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 **Continuous** , on the other hand, keeps WSA running in the background. The benefit is that Android apps will fire up much quicker at the cost of using more of your computer’s resources. You can choose this option if your Windows 11 PC has the resources to spare.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do I Manage the Way Windows Subsystem for Android Uses Its Resources?
 
  To change the way the Windows Subsystem for Android utilizes resources on Windows 11, start by pressing**Win + S** to bring up Windows Search. In the search box, type**windows subsystem for android** . In the results click on**Windows Subsystem for Android Settings** to launch the program.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![searching for WSA on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-search-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the left side menu of Windows Subsystem for Android, make sure you have selected**System** . On the right side, click on the**Subsystem resources** to expand the section. Then, select either**As needed** or**Continuous** by clicking on the appropriate radio button.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the Subsystems resources section of WSA settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-windows-subsystem-resources.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now Windows Subsystem for Android will use resources depending on the option you have chosen.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Best Way For Windows Subsystem for Android to Use Resources
 
  Whether you pick**As needed** or**Continuous** depends on how many resources your Windows 11 computer has. To recap, choose**As needed** if you’re low on resources and pick**Continuous** if you have enough so WSA doesn’t negatively impact performance.
 
  Furthermore, If you’re looking for where to get Android apps to run, you can install Google Play on Windows 11.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -77,4 +79,18 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/fixed-how-do-i-convert-zip-file-into-srt-file/"><u>[Fixed!] How Do I Convert Zip File Into Srt File?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-modify-twitter-clip-visuals/"><u>[New] Modify Twitter Clip Visuals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-dichotomy-of-digital-immersion-in-vr/"><u>[New] The Dichotomy of Digital Immersion in VR</u></a></li>
+<li><a href="https://win11.techidaily.com/4-fixes-to-try-if-the-windows-snip-and-sketch-tool-wont-screenshot-the-entire-screen/"><u>4 Fixes to Try if the Windows Snip & Sketch Tool Won’t Screenshot the Entire Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/a-compreran-guide-to-install-and-configure-microsoft-pc-manager/"><u>A Compreran Guide to Install and Configure Microsoft PC Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/a-guide-to-permanently-vanish-language-sign-on-win11-ui/"><u>A Guide to Permanently Vanish Language Sign on Win11 UI</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-error-0x8007000f-on-task-sequences/"><u>Addressing Windows Error 0X8007000f on Task Sequences</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-grayed-out-delete-pin-option-in-windows-11/"><u>Breaking Grayed-Out Delete PIN Option in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-ready-for-nothing-phone-projected-price-points-scheduled-arrival-tech-specs-and-hidden-insights/"><u>Get Ready for Nothing Phone Ⓦ: Projected Price Points, Scheduled Arrival, Tech Specs & Hidden Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/get-your-hands-on-wonderfox-dvd-ripper-pro-with-our-special-discounted-short-term-sale-event/"><u>Get Your Hands-On WonderFox DVD Ripper Pro with Our Special Discounted, Short-Term Sale Event!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oneplus-nord-ce-3-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing OnePlus Nord CE 3 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+</ul></div>
 

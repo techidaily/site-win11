@@ -1,7 +1,7 @@
 ---
 title: Maximizing Windows Gaming with Playnite and Emulators
-date: 2024-08-08T13:20:59.396Z
-updated: 2024-08-09T13:20:59.396Z
+date: 2025-01-17T23:35:30.570Z
+updated: 2025-01-25T04:21:51.290Z
 tags:
   - windows10
   - windows11
@@ -23,8 +23,9 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
  Let's see how you can have Playnite detect them, scan your emulated games, and include them in your unified game library.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Playnite Extensions
 
  We saw how you can [use Playnite to unify and make sense of your games collections](https://www.makeuseof.com/windows-playnite-guide/). And yet, you might have even more games, thanks to the magic of emulation. What about those?
@@ -34,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
  To do that, click **Playnite's icon** on the top left of its window to access its main menu. From there, select **Add-ons**. Alternatively, press **F9** on your keyboard to move directly to that spot.
 
 ![Playnite Menu Add Ons Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-menu-add-ons-entry.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Metadata Sources
 
@@ -47,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 
  To install one of them, click on its entry and then the **install** button on the details pane on the right of Playnite's add-ons window.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![Playnite Add Ons Browse For More Metadata Sources Wikipedia Selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-add-ons-browse-for-more-metadata-sources-wikipedia-selected.jpg)
 
  Since we are dealing with emulated content and retro games, we suggest you install the following metadata sources:
@@ -63,9 +64,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  You can click on each one in Playnite and check the details pane to learn more about them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### The "Generic" Page
 
  Although we won't use them for this article, Playnite has some emulation-related add-ons, making your retro-gaming life easier.
@@ -82,10 +80,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  With Playnite ready to play nice with emulated content, we are prepared to add some retro games to its library.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Configure Emulators With Playnite
 
  Almost all emulators allow you to launch them from the terminal using a command and some flags. Those flags can change the emulator's options and define a game to launch. Usually, one of those flags allows directly launching the emulator and a chosen game in full screen, skipping the emulator's interface.
@@ -96,9 +90,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  That's useful for a seamless gaming experience, especially if you're also using your PC as a media center/console alternative, and want to keep it joypad-friendly. If you're in the opposite camp, you might prefer multitasking on your ultrawide monitor and keeping multiple windows in view. For that, check our guide on [how you can force all your games into windowed mode in Windows 10 & 11](https://www.makeuseof.com/windows-10-11-windowed-mode-games/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### How to Prevent Automatic ROM Scans
 
  Are you often adding or removing titles to your emulated games collection or otherwise fiddling with it? You might want to avoid including your emulated games in Playnite's regular library updates. Having Playnite rescan huge ROM libraries with thousands of files could make the app crawl.
@@ -115,11 +106,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Click on **Playnite's icon** on the top left of its window again to access its menu, and select **Library** \> **Configure Emulators**. It's probably quicker if you press Ctrl + T on your keyboard, though.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![Playnite Menu Library Configure Emulators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-menu-library-configure-emulators.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Download Emulators in Playnite
 
@@ -132,22 +123,28 @@ DbSchema database designer for all databases, schema design in the team, schema 
  So, that's where we will take a short break while you check that list, choose the ones you want, visit their sites, download, and install them. After doing that, you are ready to move to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Making Sense Of Emulation Profiles
 
  Choose one of the emulators you've downloaded and installed from the list on the left, and click on the **button with the folder icon** on the right of Installation Folder. Then, select the path where you installed that emulator.
 
 ![Playnite Configure Emulators RPCS3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-configure-emulators-rpcs3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to customize how an emulator launches your titles, click on its **Default built-in profile**. Then, check the launch arguments and update them as you wish, according to the emulator's specifications.
 
  With those flags, and depending on the emulator, you can, for example, set a specific resolution for launching your games, change the input device you'll use for playing, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Playnite Configure Emulators Duckstation Default Profile Arguments](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-configure-emulators-duckstation-default-profile-arguments.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also create more profiles with alternative configurations for each emulator. Still, we won't go over this in this article.
 
@@ -157,6 +154,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Depending on how you keep your game ROMs stored and the chosen emulator, you can also select if you want to import those titles using a relative path, scan the chosen platform's folder for more games within subfolders, scan inside archives, and if all files related to a title should be presented individually or "merged" into a single library entry.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Importing ROMs With Auto-Scan Configuration
 
  With your emulators and Auto-scan Configurations set up, you can now add your emulated games to your Playnite library. This painfully complicated process consists of the following steps:
@@ -164,19 +165,12 @@ DbSchema database designer for all databases, schema design in the team, schema 
 * Click on **Playnite's icon** on the top left of its window, and select **Update Game Library** \> **Update Emulated Folders** \> **Update All**.
 * Wait.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Playnite Menu Update Game Library Update Emulated Folders Update All](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-menu-update-game-library-update-emulated-folders-update-all.jpg)
 
  Playnite might ask you from which metadata source to "pull" details for a title. The app may also ask you to ensure it identified some games correctly, presenting a list of titles for them it deems similar.
 
  After a while, your Playnite library should present all your emulated titles for all the emulators and platforms you've added among your "native" PC games.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Navigating Your Emulated Games in Playnite
 
  You can treat your emulated games through Playnite like your installed "native" PC games. You can use Playnite's **Search** functionality, accessible from the field on the top left of its interface, to seek a particular title based on its name.
@@ -189,12 +183,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  To play a game, since thanks to your actions above Playnite knows which emulator to use to launch it, you can simply click on its **play icon**.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Playnite Seeking God Of With God Of War III Selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-seeking-god-of-with-god-of-war-iii-selected.jpg)
 
  If, even after you have access to every single game on your PC through Playnite, it still doesn't cut it for you, there are alternatives worth trying. Check [our list of the best game launchers to launch and organize PC games](https://www.makeuseof.com/tag/pc-game-launchers/), but keep in mind that many of them are less emulation-friendly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Retro Gaming Made Easier With Playnite
 
@@ -204,11 +199,30 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Let's see how you can have Playnite detect them, scan your emulated games, and include them in your unified game library.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-motion-control-in-vr-keeping-nausea-at-bay/"><u>[Updated] 2024 Approved Motion Control in VR Keeping Nausea at Bay</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-codec-clash-determining-the-leader-in-video-quality/"><u>[Updated] Codec Clash Determining the Leader in Video Quality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hasty-methods-for-mixed-up-youtube-playback-sequence-for-2024/"><u>[Updated] Hasty Methods for Mixed-Up YouTube Playback Sequence for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-savory-showlines-top-30-engaging-recipe-broadcast-names/"><u>2024 Approved Savory Showlines Top 30 Engaging Recipe Broadcast Names</u></a></li>
+<li><a href="https://win11.techidaily.com/brighten-up-the-grayed-extend-volume-buttons/"><u>Brighten Up the Grayed Extend Volume Buttons</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-life-to-monitors-with-custom-spotlight-backdrops/"><u>Bring Life to Monitors with Custom Spotlight Backdrops</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-slack-notifications-back-from-the-dead-in-windows-11/"><u>Bring Slack Notifications Back From the Dead in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/bringing-forth-hidden-windows-drive/"><u>Bringing Forth Hidden Windows Drive</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-stranded-status-a-quick-guide-for-xbox-users/"><u>Bypassing ‘Stranded’ Status: A Quick Guide for Xbox Users</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-microsofts-store-crash-code-x800704cf/"><u>Bypassing Microsoft's Store Crash Code X800704CF</u></a></li>
+<li><a href="https://win11.techidaily.com/combat-code-confusion-skyrim-sse-troubleshoot/"><u>Combat Code Confusion: Skyrim SSE Troubleshoot</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-unlocking-team-potential-harnessing-the-power-of-snap-camera/"><u>In 2024, Unlocking Team Potential Harnessing the Power of Snap Camera</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-update-brother-printer-driver-software-for-windows-computers/"><u>Latest Update: Brother Printer Driver Software for Windows Computers</u></a></li>
+<li><a href="https://techidaily.com/remove-tecno-lock-screen-without-password-tecno-by-drfone-android-unlock-android-unlock/"><u>Remove Tecno Lock Screen without Password(Tecno )</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/simplify-zoom-a-comprehensive-guide-to-blurry-borders/"><u>Simplify Zoom A Comprehensive Guide to Blurry Borders</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-ensuring-compatibility-of-your-hardware-with-windows/"><u>Troubleshooting Guide: Ensuring Compatibility of Your Hardware with Windows</u></a></li>
+</ul></div>
+

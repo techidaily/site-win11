@@ -1,7 +1,7 @@
 ---
 title: Strategies to Combat Windows Camera Loss of Media
-date: 2024-08-08T13:20:45.544Z
-updated: 2024-08-09T13:20:45.544Z
+date: 2025-01-18T05:00:38.509Z
+updated: 2025-01-24T23:09:46.786Z
 tags:
   - windows10
   - windows11
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  The Windows Camera app is known for its simplicity and user-friendliness, making it a go-to choice for capturing and preserving memories. However, there are occasions when you encounter problems with the app, like the inability to save photos or videos on your device. This can be particularly frustrating, especially if you intend to share or edit these media files later. Below, we walk you through the steps to resolve issues with the Camera app when it fails to save photos or videos in Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Check the Storage Permissions
 
  If your laptop or computer’s camera doesn’t save photos or videos, we recommend starting your troubleshooting journey by ensuring it has sufficient permissions to store data on your device.
@@ -31,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 2. Choose **Privacy & security** from the left pane.
 3. Head over to the App permissions section and choose **Camera** from the list of options available.
 4. Turn the toggle on for **Camera access**. You can now close the Settings app and check if the problem is resolved.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Enable the Camera Access in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/3-enable-the-camera-access-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
 
  While you are at it, you can also re-add your saved location for storing data and see if that makes a difference.
@@ -41,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 1. Open the Settings app and navigate to **System** \> **Storage** \> **Where new content is saved**.
 2. Expand the dropdown for "New videos and photos will save to:" and pick another location. For instance, if you have a USB device, pick that.  
 ![Pick a different location to save photos and videos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/choose-a-different-location.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here is an alternate way of changing the location:
 
@@ -50,11 +48,13 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 4. In the following dialog, click on the **Add** button.  
 ![Change where the camera will save photos and videos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/change-location-for-camera.jpg)
 5. Now, add your new preferred location and choose **Set Default Save Location**.
-6. Hit **Apply** \> **OK** to save the changes and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Hit **Apply** \> **OK** to save the changes and check if the issue is resolved.
+
 ## 2\. Update the Camera Drivers
 
  Another reason why your camera app might be acting is because of outdated or corrupt drivers. Such issues can be resolved by updating the drivers using either the Device Manager utility or the Windows Update option.
@@ -65,13 +65,14 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 2. Type "Device Manager" in the search bar and click **Open**.
 3. In the following window, expand the Cameras section and right-click on your camera driver.
 4. Choose **Update driver** \> **Search automatically for drivers**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![Update the Relevant Camera Driver From Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/4-update-the-relevant-camera-driver-from-windows-device-manager.jpg)
 5. The utility will now start scanning for an updated version of your driver in the system. If it finds any, follow the on-screen instructions to install it. If it does not, you can click on **Search for updated drivers on Windows Update** to see if an update is available.
 
  You can also head over to your manufacturer’s website, download an updated version from there, and then install it manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Repair the Camera App
 
@@ -90,13 +91,14 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 3. Head over to the App list section and click on the three dots associated with the Camera app.
 4. Choose **Advanced options** from the context menu.
 5. In the Reset section, click on the **Repair** button.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![Repair Camera app from Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Repair-Camera.jpg)
 6. Wait for the process to complete. This may take a while, depending upon the complexity of the underlying problems.
 
  Once the app is successfully repaired, check if the issue is fixed. If the app fails to repair, you should see a “We couldn’t repair this app. Try again in a bit.” In that case, you can try using the System File Checker for a more detailed check of the system, or move to the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Check Your Antivirus and Firewall Settings
 
@@ -121,13 +123,12 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
  Once the command executes, launch Microsoft Store and install the Camera app again.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Capture and Save Your Moments Again on Windows
 
  A malfunctioning Camera app that can't save your photos or videos can be a real inconvenience, but it is not impossible to fix. Hopefully, the methods above will help you restore your Camera app's functionality and continue capturing life's moments with confidence. To prevent this issue from occurring in the future, it is best to keep your camera drivers up-to-date at all times.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -135,3 +136,23 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeo-tribute-spotlight/"><u>[New] 2024 Approved Vimeo Tribute Spotlight</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhance-audio-quality-get-high-quality-fx/"><u>[Updated] In 2024, Enhance Audio Quality, Get High-Quality FX</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-capturing-attention-from-content-creation-to-commerce/"><u>2024 Approved Capturing Attention From Content Creation to Commerce</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-wireless-divide-quick-fixes-for-windows-usb-adapter-issues/"><u>Bridging Wireless Divide – Quick Fixes for Windows' USB Adapter Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-0x80246007-flaw-in-windows-11-updates/"><u>Bypassing 0X80246007 Flaw in Windows 11 Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-forced-closure-errors-from-roblox-on-pcs/"><u>Bypassing Forced Closure Errors From Roblox on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/capturing-sound-simultaneously-with-video-in-snipping-tool-max-156/"><u>Capturing Sound Simultaneously with Video in Snipping Tool (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/circumventing-the-nvidia-cant-connect-error-in-windows-11/"><u>Circumventing the NVIDIA Can't Connect Error in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/clarify-display-issues-windows-11-gpu-guide/"><u>Clarify Display Issues: Windows 11 GPU Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-directdraw-confusion-on-newer-windows-editions/"><u>Clearing Up DirectDraw Confusion on Newer Windows Editions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-14-pro-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 14 Pro Passcode without a Computer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-and-testing-of-netgears-orbi-rbs50y-smart-wifi-system-perfectly-suited-for-your-backyard-needs/"><u>In-Depth Evaluation and Testing of Netgear's Orbi RBS50Y Smart WiFi System: Perfectly Suited for Your Backyard Needs</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/resolving-itunes-error-9006-during-ios-17-update-across-mac-and-windows/"><u>Resolving 'iTunes Error 9006' During iOS 17 Update Across Mac and Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/starting-fresh-top-5-tactics-for-an-unforgettable-debut-in-your-new-role-zdnet/"><u>Starting Fresh: Top 5 Tactics for an Unforgettable Debut in Your New Role | ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-mobile-experience-apple-android-and-youtube/"><u>The Ultimate Mobile Experience Apple, Android and YouTube</u></a></li>
+</ul></div>
+

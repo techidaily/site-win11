@@ -1,7 +1,7 @@
 ---
 title: Muting File Explorer Tabs in Windows 11 Guide
-date: 2024-08-08T13:21:14.752Z
-updated: 2024-08-09T13:21:14.752Z
+date: 2025-01-19T04:39:32.623Z
+updated: 2025-01-25T04:43:12.756Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,18 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 
  But what if you want to turn the File Explorer Tabs feature off? An immediate idea would be to uninstall the update, but that is a temporary workaround. You can use ViVeTool to enable or disable the tabs feature or any other new feature of Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is ViVeTool?
 
  ViVeTool is an open-source command line tool that can enable or disable Windows operating system features. Microsoft continuously works on many experimental features and does a lot of testing before rolling out a stable version of a feature. But if you are impatient, you can use ViVeTool to enable an otherwise hidden feature. It is free and the developers recently launched a GUI version of the tool as well.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Disable File Explorer Tabs In Windows 11
 
  You can disable the File Explorer Tabs by either using the ViVeTool or the ViVeTool GUI version. The latter is much simpler to use because you can search for a feature and activate or deactivate it in one click. But before doing that, download and install both of these tools on your system. Also,[create a system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) for added precaution, in case the tool wrecks something on your Windows 11 computer.
@@ -35,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 
 **Download:** [ViVeTool GUI](https://github.com/PeterStrick/ViVeTool-GUI/releases)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Disable File Explorer Tabs Using the ViVeTool
 
  Since it is a command line tool, you can access it from a terminal window. Here’s how to do it:
@@ -46,19 +48,18 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 2. Type**CMD** in the text input area and press**Ctrl + Shift + Enter** key to launch the command prompt with administrator privileges.
 3. Type**cd Drive Name:\\path** . Here, you need to enter the exact location where you extracted the tool after downloading it. For example, we extracted it to a folder name Vive in C drive. So, our command is**cd C:\\Vive** .
 4. Now, you will be in the directory where ViVeTool exists. Type**vivetool** and press the**Enter** key. You will see a bunch of parameters you can use with the tool.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable File Explorer Tabs Using the ViVeTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-file-explorer-tabs-using-the-vivetool.jpg)
 5. Type the following two commands, one by one in the CMD and press the**Enter** key.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 vivetool /disable /id:37634385  
 vivetool /disable /id:36354489
 6. You will see the “**Successfully set feature configuration(s)** ” if the command executes successfully.
 7. Now,**restart** your system for the changes to take effect. The File Explorer Tabs feature will no longer be active on your system.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Disable File Explorer Tabs Using the ViVeTool GUI version
 
  The GUI version of ViVeTool works similarly. You can manually enter the feature ID or use the search function to find a feature in the list. Repeat the following steps to disable File Explorer Tabs using the ViVeTool GUI.
@@ -66,29 +67,29 @@ vivetool /disable /id:36354489
 1. Launch the ViVeTool GUI with admin privileges.
 2. Click on the drop-down list and select the latest Windows build number. Wait for the tool to list all the feature IDs available for the Windows build.
 3. Type**37634385** in the search bar. Select the highlighted feature and click on the**Perform Action** button.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable File Explorer Tabs Using the ViVeTool GUI version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-file-explorer-tabs-using-the-vivetool-gui-version.jpg)
 4. Select the**Deactivate Feature** option. Similarly, find the feature ID**36354489** and deactivate it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Now, close the ViVeTool GUI and**restart** your system.
 6. Open the File Explorer and you won’t see the tabs feature anymore.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Disable Any Windows 11 Feature Using ViVeTool
 
  File Explorer tabs are more useful than you think. But if you use another File Explorer program or can make do without it, ViVeTool is a great utility to disable/enable it. Moreover, it is completely free, and you can even enable other experimental features of Windows 11.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -97,4 +98,20 @@ vivetool /disable /id:36354489
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-unleash-creativity-your-comprehensible-guide-to-sharing-animated-messages-in-snapchat-for-2024/"><u>[New] Unleash Creativity Your Comprehensible Guide to Sharing Animated Messages in Snapchat for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-discovering-free-online-tools-for-tiktop-to-mp3-conversion/"><u>[Updated] Discovering Free, Online Tools for TikTop to MP3 Conversion</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-photoshop-insider-tips-for-novice-editors/"><u>[Updated] Photoshop Insider Tips for Novice Editors</u></a></li>
+<li><a href="https://win11.techidaily.com/a-tri-method-approach-to-understanding-and-applying-windows-policies/"><u>A Tri-Method Approach to Understanding and Applying Windows Policies</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-inoperative-fault-finders-in-windows/"><u>Addressing Inoperative Fault Finders in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-overview-and-reviews-by-toms-hardware-experts/"><u>Comprehensive Overview and Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-beginners-guide-to-video-capture-with-logitech-cam/"><u>In 2024, Beginner's Guide to Video Capture with Logitech Cam</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-ignite-imagination-crafting-engaging-content-themes/"><u>In 2024, Ignite Imagination Crafting Engaging Content Themes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/introductory-walkthrough-how-to-employ-mobizen-screensaver-tools/"><u>Introductory Walkthrough How to Employ Mobizen Screensaver Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/1719319611800-overcoming-challenges-in-full-screen-snip-and-sketch-capturing/"><u>Overcoming Challenges in Full-Screen Snip & Sketch Capturing.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/realtek-rtl8188cu-wi-fi-card-drivers-for-windows-download-the-most-recent-version-compatible-with-windows-11-and-7/"><u>Realtek RTL8188CU Wi-Fi Card Drivers for Windows: Download the Most Recent Version Compatible with Windows 11 & 7</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/scriptwriting-101-decoding-and-writing-slug-lines-for-2024/"><u>Scriptwriting 101 Decoding and Writing Slug Lines for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719347016533-unlock-your-computers-print-command-solutions-for-faulty-wwinplusp-operations/"><u>Unlock Your Computer's Print Command: Solutions for Faulty WWin+P Operations.</u></a></li>
+</ul></div>
 

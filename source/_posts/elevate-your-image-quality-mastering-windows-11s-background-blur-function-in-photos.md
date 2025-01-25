@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Image Quality: Mastering Windows 11'S Background Blur Function in Photos"
-date: 2024-08-16T00:42:31.328Z
-updated: 2024-08-17T00:42:31.328Z
+date: 2025-01-23T21:08:50.106Z
+updated: 2025-01-25T06:50:28.066Z
 tags:
   - windows10
   - windows11
@@ -37,58 +37,59 @@ thumbnail: https://thmb.techidaily.com/8dec14c118d7ee81f46eabd3dcf3a5188bbf56bf8
 1. Press the **Win** key, type **Photos**, and press **Enter** to launch the app.
 2. Scroll down and locate the image you want to edit. Double-click on it to open the image in the new preview window.  
 ![Select image in the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/select-image-in-the-photos-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Go to the top bar and click on the **Edit image** icon. Alternatively, you can press the **Ctrl + E** to open the Edit window.
 4. Click on the **Background Blur** option. The feature will try to identify the background in the image and then apply the blur effect to that area. It can take a few seconds to do so.  
 ![Selecting the background blur feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/selecting-the-background-blur-feature.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. If you are not satisfied with the blur effect, go to the **Blur intensity** option in the right-hand side section. Adjust the slider to increase or decrease the blur effect on the selected background area.
 
 1. To blur more parts of the image, click on the toggle next to the **Selection brush** tool. By default, it is set to **Select area**.  
 ![Automatic blur effect in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/automatic-blur-effect-in-photos-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click and drag the mouse on the area to select it for applying the blur effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Use the adjustment sliders to tweak the brush size and softness of the blur as per your preference.
 4. If you want to deselect a part of the image from the blur effect, click on the **Deselect area** option.  
 ![Deselecting area in background blur effect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/deselecting-area-in-background-blur-effect.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 5. Then click and drag the brush on the area of the image to deselect it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. After making all the changes, click on the **Apply** button to finalize the blur effect.
 7. Now, click on the **Save a copy** button.
 8. Type a name and click on the **Save** button.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is the Photos Background Blur Feature Any Good?
 
  We tried it with multiple images and the feature did a good job of identifying the background area to blur. You get control over the blur intensity and can also select more areas or deselect some of them to exclude from the effect. The automatic selection feature is enough in most cases.
 
 ![Background blur effect in action in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/background-blur-effect-in-action-in-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, the feature focuses on blurring the background and not just any part of the image. You can deselect the area, but what if you only want to blur a tiny area that contains a personal detail and not blur the background? In that case, the background blur effect isn’t of much help. It is very difficult to deselect the identified background area.
 
  You cannot use the tool to only blur a portion of the image and will first have to apply the background blur effect. So, it is effective for background blurring and not precision blurring a small portion of an image.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Easily Blur the Backgrounds in Your Photos
 
  The Background Blur feature will be a handy addition to the Photos app. However, the lack of options to apply the blur effect to a small portion of the image is an issue that needs to be addressed by Microsoft.
 
  However, Microsoft eventually added a new feature to the Photos app called “Background Blur” which automatically adds a blur effect to the background. Let’s explore it in detail.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -96,3 +97,25 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-end-scene-excellence-your-guide-to-yt-outro-mastery-for-2024/"><u>[Updated] End Scene Excellence Your Guide to YT Outro Mastery for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/a-complete-guide-on-using-w11s-automated-hdr-feature/"><u>A Complete Guide on Using W11's Automated HDR Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-disconnected-files-in-steam-library/"><u>Addressing Disconnected Files in Steam Library</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-tips-for-isolating-subjects-in-photography/"><u>Advanced Tips for Isolating Subjects in Photography</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-unauthorized-user-error-on-windows-11-and-11/"><u>Avoiding Unauthorized User Error on Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/boot-security-errors-squashed-in-5-easy-steps-for-windows-users/"><u>Boot Security Errors Squashed in 5 Easy Steps for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-wi-fi-setup-barriers-filling-action-voids-on-pc/"><u>Breaking Down Wi-Fi Setup Barriers: Filling Action Voids on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-free-adjusting-immovable-gif-sizes-for-windows-users-of-discord/"><u>Breaking Free: Adjusting Immovable GIF Sizes for Windows Users of Discord</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/dissecting-the-capabilities-of-free2x-recording-software-for-2024/"><u>Dissecting the Capabilities of Free2X Recording Software for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-androids-creative-collage-software-haven-for-2024/"><u>Explore Android’s Creative Collage Software Haven for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-nokia-c110-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-realme-11x-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Realme 11X 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://win11.techidaily.com/1719224494525-revive-w11s-chrome-immediate-troubleshooting-advice/"><u>Revive W11's Chrome - Immediate Troubleshooting Advice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-capturing-images-with-your-hp-notebook/"><u>Step-by-Step Guide: Capturing Images with Your HP Notebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleash-high-speed-potential-with-these-7-pc-optimization-tricks/"><u>Unleash High-Speed Potential with These 7 PC Optimization Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-oneplus-10-release-info-preliminary-specs-pricing-forecasts-and-industry-chatter/"><u>Upcoming OnePlus 10 Release Info - Preliminary Specs, Pricing Forecasts & Industry Chatter</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/z270-gaming-pro-carbon-mobo-download-and-enhance-your-pc-performance/"><u>Z270 Gaming Pro Carbon Mobo: Download and Enhance Your PC Performance</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Strategies for Correcting Network Access Error
-date: 2025-01-02T19:35:25.404Z
-updated: 2025-01-06T20:32:14.939Z
+date: 2025-01-22T01:06:20.399Z
+updated: 2025-01-24T23:51:36.645Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 ![Drive properties in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-properties.jpg)
 2. In the following dialog, head over to the **Sharing tab** and check the status of Network Path.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. If it says Not Shared, then click on the **Advanced Sharing** button.  
 ![Advanced sharing button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-properties-advanced-sharing.jpg)
 4. Checkmark the box associated with **Share this folder** and note the Share name of the drive.  
@@ -56,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 
  You can also try [disabling Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) if you are using it and see if that helps. However, once you are done sharing the files, make sure you enable the antivirus back immediately since keeping it disabled for a long period can expose your PC to threats.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Try to Connect Using an IP Address
 
  You can also connect to the remote computer using the IP address. In this method, we will be using Command Prompt to make this work.
@@ -68,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 `ipconfig /all​​​`  
 ![ipconfig all command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ipconfig-all.jpg)
 4. Scroll down and bit and note down the address for IPv4 Address.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![ipv4 address in cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ipconfig-all-ipv4-address.jpg)
 5. Now, open a Run dialog again and paste the IPv4 Address you noted in the text field here.  
@@ -87,6 +99,11 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 4. Choose **Properties** from the context menu.  
 ![Properties of TCP/IP helper service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/services-tcp-ip-netbios-helper-properties.jpg)
 5. In the following dialog, click on the **Stop** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Stop button in Properties dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/services-tcp-ip-netbios-helper-stop.jpg)
 6. Wait for a few seconds and then click **Start**.
 
@@ -110,25 +127,17 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 3. Choose **Turn Windows features on or off** from the left pane.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn Windows feature on or off option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/turn-windows-features-on-or-off.jpg)
 4. Now, look for "SMB 1.0/CIFS File Sharing Support" and checkmark the box associated with it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![SMB 1.0 option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/smb-cifs-file-sharing-support.jpg)
 5. Click **OK** to save the changes and check if the error is now fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Modify Network Security Settings
@@ -144,11 +153,7 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
 5. Click **Apply** \> **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reset TCP/IP
@@ -156,10 +161,6 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
  Finally, if the methods above have not worked for you, then you can consider [resetting TCP/IP](https://www.makeuseof.com/windows-connection-failed-error-651-fix/#:~:text=next%20method%20below.-,3.%20Reset%20TCP/IP,-You%20might%20also), which will revert all the IP protocols and DNS entries to their default state.
 
  This fix is known to fix almost all the network-related issues that pop up in Windows now and then, and will hopefully fix the error at hand for you as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Windows Network Path Error, Resolved
 
@@ -177,21 +178,24 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-intricacies-of-networked-livestream-with-vlc/"><u>2024 Approved Navigating the Intricacies of Networked Livestream with VLC</u></a></li>
-<li><a href="https://article-posts.techidaily.com/editorxperience-deep-dive-complete-look-at-androvids-features-for-2024/"><u>EditorXperience Deep Dive – Complete Look at AndroVid's Features for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-optimize-windows-11-taskbar/"><u>How to Optimize Windows 11 Taskbar</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-to-rescue-missing-data-in-windows-11-a-step-by-step-file-restoration-tutorial/"><u>How to Rescue Missing Data in Windows 11: A Step-by-Step File Restoration Tutorial</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/make-your-window-interface-unforgettable-using-winbubble-tips/"><u>Make Your Window Interface Unforgettable Using WinBubble Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-your-pc-with-these-4-win11-god-mode-tricks/"><u>Maximize Your PC with These 4 Win11 God Mode Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-start-how-to-set-up-outlook-preview-on-windows-1011/"><u>Quick Start: How to Set Up Outlook Preview on Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-blue-screen-code-0xc0000142/"><u>Rectifying Blue Screen Code 0XC0000142</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-click-no-open-windows-folder-troubles/"><u>Remedying Click, No Open: Windows Folder Troubles</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/skype-groups-setting-up-windowsmac-conversations/"><u>Skype Groups Setting Up Windows/Mac Conversations</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unmasking-the-avengers-is-it-a-marvel-masterpiece-or-merely-meh/"><u>Unmasking The Avengers: Is It a Marvel Masterpiece or Merely Meh?</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-fcpx-not-responding-dont-panic-learn-how-to-reset-and-recover-for-2024/"><u>Updated FCPX Not Responding? Dont Panic! Learn How to Reset and Recover for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>Updated In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
-<li><a href="https://win11.techidaily.com/win11s-best-matches-8-superb-video-editing-apps/"><u>Win11’s Best Matches: 8 Superb Video Editing Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-strategy-customizing-amd-settings-for-games/"><u>Winning Strategy: Customizing AMD Settings for Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-ffpm-a-guide-to-firefoxs-pip-feature/"><u>[New] Mastering FFPM A Guide to Firefox's PIP Feature</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-myvidhub-testing-a-quest-for-more-features/"><u>[New] MyVidHub Testing A Quest for More Features?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ransforming-viewership-into-viewer-funds-on-youtube-for-2024/"><u>[New] Transforming Viewership Into Viewer Funds on YouTube for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-capturing-moments-on-facebook-beyond-the-screen/"><u>[Updated] In 2024, Capturing Moments on Facebook Beyond the Screen</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-access-immediate-professional-results-free-plus-purchased-luts-for-canon/"><u>2024 Approved Access Immediate Professional Results - FREE + Purchased LUTs for Canon</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unleash-your-potential-on-facebook-keyword-strategies-reviewed/"><u>2024 Approved Unleash Your Potential on Facebook Keyword Strategies Reviewed</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-7-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 7 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-lenovo-thinkphone-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Lenovo ThinkPhone</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-pc-conflicts-with-pct-guide/"><u>Conquer PC Conflicts with PCT Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-disabling-the-mystery-of-0x8007045d-on-windows-11/"><u>Decoding and Disabling the Mystery of 0X8007045d on Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fallout-76-update-brings-an-end-to-troublesome-gameplay-hiccups-and-freezes/"><u>Fallout 76 Update Brings an End to Troublesome Gameplay Hiccups and Freezes</u></a></li>
+<li><a href="https://win11.techidaily.com/family-fortification-the-top-5-corrections-for-safe-haven/"><u>Family Fortification: The Top 5 Corrections for Safe Haven</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-steams-unauthorized-files-problem-in-win11/"><u>Fixing Steam's Unauthorized Files Problem in Win11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-6-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-round-corners-on-windows-11/"><u>Rectify Round Corners on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-stream-disconnection-in-remote-pc-mode/"><u>Resolving Stream Disconnection in Remote PC Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/shake-off-frozen-clicks-top-6-tips-for-windows-users/"><u>Shake Off Frozen Clicks: Top 6 Tips for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocketing-output-5-essential-windows-productivity-hacks/"><u>Skyrocketing Output: 5 Essential Windows Productivity Hacks</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-adjusting-creation-and-modification-dates-in-windows/"><u>Understanding and Adjusting Creation & Modification Dates in Windows</u></a></li>
 </ul></div>
 

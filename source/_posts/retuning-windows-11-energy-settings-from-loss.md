@@ -1,7 +1,7 @@
 ---
 title: Retuning Windows 11 Energy Settings From Loss
-date: 2024-08-16T00:42:51.746Z
-updated: 2024-08-17T00:42:51.746Z
+date: 2025-01-19T05:57:55.388Z
+updated: 2025-01-25T04:12:54.873Z
 tags:
   - windows10
   - windows11
@@ -37,16 +37,16 @@ thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241
 5. Expand the**Show additional plans** section.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Change Power Mode From the Settings Panel
 
 ![change power mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-power-mode-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [On Windows 11, you can change the power mode from the Settings app](https://www.makeuseof.com/windows-11-change-power-plan/) . You can choose between the Best power efficiency, Balanced, and Best performance power modes in the Power & battery settings.
 
@@ -58,12 +58,13 @@ To change power mode on Windows 11:
 
  If the Power Mode doesn’t show any or some power schemes, you’ll need to restore it using the powercfg command-line utility.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Reset the Default Power Plan Settings Using Power PowerShell
 
 ![](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-default-power-plans-windows-11-powershell.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Before you try to restore the power plans, reset all the power plan settings to factory default. A reset will only fix issues that occurred due to incorrect configuration.
 
@@ -77,10 +78,9 @@ To reset Windows default power plans:
 ## 3\. Restore the Missing Power Plan Using the Command Prompt
 
 ![restore default power plan windows 11 command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-default-power-plan-windows-1-command-prompt.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can restore the missing default power plans on Windows using the Command Prompt. We’ll use the**powercfg** command-line feature to duplicate the existing but missing power plans.
@@ -102,9 +102,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
 
  Next, open**Control Panel** and go to**Power Options** to check if the missing power plans are restored on your Windows computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Enable the High Performance Power Plan Using Command Prompt
 
 ![enable high performance plan windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-high-performance-plan-windows-command-prompt.jpg)
@@ -128,8 +125,9 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
  Conversely, you may encounter BSOD and other critical errors after disabling Modern Standby (S0). If yes, enable Modern Standby again to fix the issues.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Manually Create the Power Plans
 
  If you don’t want to use the preset power plans, you can create your own power plans on Windows. This should work irrespective of the Modern Standby state of your computer.
@@ -144,32 +142,28 @@ To create a custom Power Plan on Windows:
 5. In the left pane, click on**Create a Power Plan.**  
 ![control panel create power plan power saver windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-power-saver-windows-11.jpg)
 6. Next, select the power plan you want to restore and enter a name for the plan under the**Plan name field.**  
-![control panel create power plan configure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-configure.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![control panel create power plan configure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-configure.jpg)
 7. Next, configure the settings for the new power plan.
 8. Click**Create** .\`
 
  Your new custom power plan will appear in Power Options. To remove the power plan, unselect the plan and click on**Change plan** settings. Next, click on**Delete this plan** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Restore the Missing Default Power Plans on Windows
 
  Power plans on your Windows laptops help you manage how your device uses power. If you don’t see the power schemes on Windows, try to reset the default power plans using PowerShell. Similarly, you can also use PowerShell to duplicate and restore the existing power plans.
 
  That said, not seeing the Ultimate Performance power plan in Power Options is not unusual. By default, it is only available on high-end Windows hardware and disabled to prevent battery draining. But you can still enable it using a PowerShell cmdlet. For most users, however, the balanced power plan offers a great balance between performance and battery life.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -178,4 +172,26 @@ To create a custom Power Plan on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-unlock-enhanced-video-playback-and-app-functionality-with-chromes-pip/"><u>[New] 2024 Approved Unlock Enhanced Video Playback and App Functionality with Chrome’s PIP</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-perfect-your-game-with-these-top-7-stardew-valley-modifications/"><u>[New] Perfect Your Game with These Top 7 Stardew Valley Modifications</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-affordable-cameras-for-effective-vloggers-for-2024/"><u>[Updated] Affordable Cameras for Effective Vloggers for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-instantly-access-all-episodes-premium-downloader-tools-reviewed/"><u>[Updated] Instantly Access All Episodes Premium Downloader Tools Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/3-ways-to-factory-reset-your-windows-computer/"><u>3 Ways to Factory Reset Your Windows Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-entering-your-folder-of-apps-in-windows-11/"><u>A Step-by-Step Guide to Entering Your Folder of Apps in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/access-denied-tips-and-fixes-for-onedrive-on-windows-pcs/"><u>Access Denied? Tips and Fixes for OneDrive on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/achieve-optimal-efficiency-nircmd-tips-for-mastering-windows-11/"><u>Achieve Optimal Efficiency: NirCmd Tips for Mastering Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-disappearances-in-file-explorer/"><u>Addressing Disappearances in File Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-printer-disconnection-on-windows-11-devices/"><u>Addressing Printer Disconnection on Windows 11 Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-performance-in-plain-sight-a-guide-to-windows-11s-in-place-upgrade/"><u>Boosting Performance in Plain Sight: A Guide to Windows 11'S In-Place Upgrade</u></a></li>
+<li><a href="https://win11.techidaily.com/1719303345531-dealing-with-dysfunctional-print-via-wwin-command-on-windows/"><u>Dealing with Dysfunctional Print via WWin Command on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-oppo-find-x6-pro-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Oppo Find X6 Pro to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/logitech-g502-gaming-mouse-troubleshooting-and-updating-drivers-made-simple/"><u>Logitech G502 Gaming Mouse: Troubleshooting & Updating Drivers Made Simple</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-the-art-optimizing-testimonial-creation-for-2024/"><u>Mastering the Art Optimizing Testimonial Creation for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/streamlining-your-browser-experience-eliminating-non-essential-elements-in-microsoft-edge/"><u>Streamlining Your Browser Experience: Eliminating Non-Essential Elements in Microsoft Edge</u></a></li>
+<li><a href="https://win11.techidaily.com/1719369400663-unleash-the-true-power-of-windows-screen-capture-toolkit/"><u>Unleash the True Power of Windows' Screen Capture Toolkit</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-create-stunning-loops-best-free-gif-software/"><u>Updated In 2024, Create Stunning Loops Best Free GIF Software</u></a></li>
+</ul></div>
 

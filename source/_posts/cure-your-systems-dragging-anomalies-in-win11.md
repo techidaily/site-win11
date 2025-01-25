@@ -1,7 +1,7 @@
 ---
 title: Cure Your System's Dragging Anomalies in Win11
-date: 2025-01-13T12:44:16.608Z
-updated: 2025-01-18T21:35:08.696Z
+date: 2025-01-19T09:26:28.875Z
+updated: 2025-01-24T23:33:46.014Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Start With Some Generic Fixes
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
  Left-click and hold the file or folder you want to drag and click the **Esc** key. Then, release the left click on your mouse, and check if you can drag and drop items after that.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Restart the Problematic App
 
  If the drag and drop feature is not working only in a specific app, such as Chrome or Outlook, there may be an issue with that app. You can try restarting the problematic app or program to fix the problem.
@@ -53,15 +57,7 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ![Close Programs Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-programs-using-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Reopen your app and check if the issue still occurs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run the Hardware and Devices Troubleshooter
 
@@ -91,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
  If the issue remains even after this, you can try uninstalling the mouse driver from your PC. If you need help with that, check our guide on [how to uninstall drivers in Windows 11](https://www.makeuseof.com/windows-11-uninstall-drivers/). After removing the driver, restart your PC, and Windows will automatically reinstall the missing driver during the boot process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Check Your Mouse for Issues
 
  Issues with your mouse can also make it seem like the drag and drop feature is not working on Windows 11\. Try disconnecting your mouse and reconnecting it to see if that works. If you’re using a wireless mouse, swap the old batteries or charge it.
@@ -102,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
  For more help, refer to our guide on [fixing the left-click mouse button not working issue on Windows](https://www.makeuseof.com/tag/fix-left-mouse-button/) and follow the tips mentioned there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Edit Registry Files
@@ -122,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 6. Similarly, set the value of the **DragWidth** entry value to **4**.  
 ![Drag and Drop Registry Entries on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/drag-and-drop-registry-entries-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart your PC after making the above changes and see if the drag and drop feature works after that.
 
 ## Effortlessly Move Your Files With Drag and Drop Functionality on Windows
@@ -136,13 +124,25 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q: How Do You Drag Maximized Windows in Windows 11?
 
  You drag maximized Windows in Windows 11 by pressing and holding down the Windows key and pressing an arrow key (right, left, up, or down arrow key). This changes your current window's position on your screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q: How Do You Change Drag and Drop From Copy to Move in Windows 11?
 
  You can change drag-and-drops's action from copy to move by holding down the Shift key while dragging and dropping your files. This makes Windows move your files instead of copying them to a folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q: How Do You Drag and Drop From One Computer to Another?
 
@@ -160,20 +160,17 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/iy-guide-zero-cost-youtube-intros-and-template-usage/"><u>[New] DIY Guide Zero Cost YouTube Intros & Template Usage</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-check-who-unfollowed-me-on-instagram-in-2024/"><u>[New] How to Check Who Unfollowed Me on Instagram, In 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unleash-potential-access-premium-sound-effects/"><u>[Updated] In 2024, Unleash Potential Access Premium Sound Effects!</u></a></li>
-<li><a href="https://win11.techidaily.com/8-ways-to-restore-missing-desktop-icons-on-windows-11/"><u>8 Ways to Restore Missing Desktop Icons on Windows 11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/deciphering-and-resolving-intel-dynamic-platform-thermal-framework-driver-issues-a-comprehensive-solution/"><u>Deciphering and Resolving Intel Dynamic Platform Thermal Framework Driver Issues - A Comprehensive Solution</u></a></li>
-<li><a href="https://win11.techidaily.com/dissecting-the-role-of-windows-cab-files-in-system-setup/"><u>Dissecting the Role of Windows CAB Files in System Setup</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expedite-your-file-format-journey-from-srt-to-txt-for-2024/"><u>Expedite Your File Format Journey From SRT to TXT for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/how-to-use-movie-maker-on-windows-11/"><u>How to Use Movie Maker on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-windows-color-management-glitches/"><u>Navigating Through Windows' Color Management Glitches</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-to-optimal-windows-11-search-performance/"><u>Navigating to Optimal Window's 11 Search Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-11s-operational-challenges-with-error-740/"><u>Navigating Windows 11'S Operational Challenges with Error #740</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-fixing-failed-file-creation-by-camera-app/"><u>Solutions for Fixing Failed File Creation by Camera App</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-solution-ensuring-your-nintendo-switch-reads-the-sd-card-correctly/"><u>Step-by-Step Solution: Ensuring Your Nintendo Switch Reads the SD Card Correctly</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-the-username-switch-on-windows-11/"><u>Streamlining the UserName Switch on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-classic-gaming-journey-add-trophy-features-through-retroarch/"><u>Transform Your Classic Gaming Journey - Add Trophy Features Through Retroarch</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-get-your-digital-dough-worthy-with-these-50-no-cost-youtube-promo-tools/"><u>[Updated] 2024 Approved Get Your Digital Dough Worthy With These 50 No-Cost YouTube Promo Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-pro-tips-for-power-users-expert-whatsapp-techniques/"><u>[Updated] 2024 Approved Pro Tips for Power Users Expert WhatsApp Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-uncovering-ustream-plus-other-live-streamers/"><u>[Updated] Uncovering Ustream + Other Live Streamers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/avoidance-techniques-no-more-fb-vlogs-for-2024/"><u>Avoidance Techniques No More FB Vlogs for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-z50s-pro-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Z50S Pro.</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-navigating-the-youtube-numbers-views-and-earnings-unpacked/"><u>In 2024, Navigating the Youtube Numbers Views & Earnings Unpacked</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimal-plug-ins-for-unmatched-gpt-and-vs-code-performance/"><u>Optimal Plug-Ins for Unmatched GPT & VS Code Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-duplicate-and-share-spreadsheet-tables-in-excel-with-ease/"><u>Quick Guide: Duplicate and Share Spreadsheet Tables in Excel with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-adding-images-and-objects-into-your-microsoft-office-documents/"><u>Step-by-Step Guide: Adding Images and Objects Into Your Microsoft Office Documents</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-concealing-data-sections-within-microsoft-excel/"><u>Step-by-Step Guide: Concealing Data Sections Within Microsoft Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-creating-a-workday-function-in-ms-excel/"><u>Step-by-Step Guide: Creating a Workday Function in MS Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-effective-naming-strategies-for-your-microsoft-excel-tables/"><u>Step-by-Step Guide: Effective Naming Strategies for Your Microsoft Excel Tables</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Activation Failures in Office Suite
-date: 2024-08-08T13:23:11.312Z
-updated: 2024-08-09T13:23:11.312Z
+date: 2025-01-23T18:06:20.602Z
+updated: 2025-01-25T05:41:21.076Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 
  Why does this issue occur? This article will discuss the causes of this error on Windows and how to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## What Causes the "Product Activation Failed" Error in Microsoft Office Apps?
 
  Here are a few reasons why you might see a "Product Activation Failed" error on any Microsoft Office app:
@@ -42,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 
  Now let's see how to check the above settings and apply the solutions to prevent this error from occurring again.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Apply Some Preliminary Fixes
 
 First, perform the following preliminary checks:
@@ -52,6 +45,10 @@ First, perform the following preliminary checks:
 * Run the Office application as an administrator. Type the app name in Windows Search, right-click its icon, and click**Run as administrator** .  
 ![Running the Microsoft Word App As an Administrator From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/1-running-the-microsoft-word-app-as-an-administrator-from-windows-search.jpg)
 * Ensure Microsoft Word, Microsoft Excel, or any other app you're using is up-to-date. For that, open the app, navigate to the**File** tab, and select**Account** on the left sidebar. Then, click on the**Update Options** dropdown and select**Update Now** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If the above steps don't help, try applying the remaining fixes.
 
@@ -68,6 +65,10 @@ If the above steps don't help, try applying the remaining fixes.
  Consequently, your legitimate Office subscription may not work on illegally activated Windows. So, if you're using a pirated copy of Windows, consider buying a license.
 
  However, if you are already subscribed to Microsoft 365 and Windows is registered, ensure it hasn't expired.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Ensure Your Subscription Hasn't Expired
 
@@ -86,13 +87,18 @@ To ensure that's not the case, follow the below steps:
 3. Under**User Information** , you can find the account information. If you see a different account there, click on**Sign out** . Then, sign in again using the account that has an active subscription.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6\. Ensure the Date Is Set Correctly
 
  The "Product Activation Failed" error can also be caused by an incorrectly set date on your device. If your subscription is going to expire in a specific month of the year, which is yet to come, but the date you set on your device goes past the day when the subscription will actually expire, you may encounter this error.
 
  Look at your screen's lower-right end and check the set date. If it isn't set correctly, follow our guide on[how to change the date and time on Windows 11](https://www.makeuseof.com/windows-11-change-date-time/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Reset the Problematic Office Application
 
@@ -101,9 +107,9 @@ To ensure that's not the case, follow the below steps:
  If you want to reset the app but aren't familiar with the process, check out our guide on[how to reset any Windows app](https://www.makeuseof.com/windows-reset-app/) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 8\. Run the OSPREARM.exe File
 
  If you have not been successful in fixing this error, you can try running a .exe file named OSPREARM. This is an activation verifier which is known to fix most activation errors. Here's how to access and run this file:
@@ -113,28 +119,19 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 C:\Program Files\Microsoft Office\Office16
 3. Locate the**OSPREARM.EXE** file.
 4. Right-click on it and hit**Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Running the OSPREARM Executable File as an Administrator in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/4-running-the-osprearm-executable-file-as-an-administrator-in-windows-file-explorer.jpg)
 
  It is important to note that the name of the Office folder in the path above may differ depending on which version of Office you are using. Therefore, if you use a different version than Office16, change the last part of the above path accordingly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Fix the "Product Activation Failed" Error on Windows
 
  Running into the "Product Activation Failed" error and finding most of the features of Office apps restricted isn't a great experience. Hopefully, the solutions covered above will help you resolve the issue. In case they don't work, try the workaround. If that does not work as well, reinstall the Office application.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -143,4 +140,24 @@ C:\Program Files\Microsoft Office\Office16
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-layering-youtube-songs-onto-video-plays/"><u>[New] 2024 Approved Layering YouTube Songs Onto Video Plays</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/chieving-financial-freedom-joshis-youtube-tactics/"><u>[New] Achieving Financial Freedom Joshi’s YouTube Tactics</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-understanding-and-proficiently-implementing-cc-copyrights/"><u>[New] In 2024, Understanding and Proficiently Implementing CC Copyrights</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-spark-interest-on-snapchat-15-innovative-strategies/"><u>[Updated] Spark Interest on Snapchat 15 Innovative Strategies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-art-of-creating-shareable-content-on-fb/"><u>[Updated] The Art of Creating Shareable Content on Fb</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-walkthrough-activate-windows-calculator/"><u>A Step-by-Step Walkthrough: Activate Window's Calculator</u></a></li>
+<li><a href="https://win11.techidaily.com/access-denied-top-7-fixes-for-browser-blockades-on-win-os/"><u>Access Denied? Top 7 Fixes for Browser Blockades on Win OS</u></a></li>
+<li><a href="https://win11.techidaily.com/achieve-a-perfect-hover-over-experience-win11-mouse-guide/"><u>Achieve a Perfect Hover Over Experience: Win11 Mouse Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/awakening-obscured-windows-11-query-engine/"><u>Awakening Obscured Windows 11 Query Engine</u></a></li>
+<li><a href="https://discover-great.techidaily.com/beste-toshiba-externe-festplatten-backupsoftware-fur-windows-top-2-empfehlungen/"><u>Beste Toshiba Externe Festplatten-Backupsoftware Für Windows: Top 2 Empfehlungen</u></a></li>
+<li><a href="https://win11.techidaily.com/bolster-window-app-interactions-via-efficient-internet-accessing-methods/"><u>Bolster Window App Interactions via Efficient Internet Accessing Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-productivity-mastering-the-search-function-of-windows-11/"><u>Boost Productivity: Mastering the Search Function of Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-windows-administration-local-groups-and-users/"><u>Boosting Windows Administration: Local Groups and Users</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-windows-update-autopilot-hurdles/"><u>Breaking Down Windows Update Autopilot Hurdles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-breakdown-of-wi-fi-technologies-be-ac-ax-bgn-specifications-unveiled/"><u>Comprehensive Breakdown of Wi-Fi Technologies: Be, Ac, AX, B/G/N Specifications Unveiled</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-oppo-find-x7-ultra-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Oppo Find X7 Ultra to iPod | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-get-rid-of-tiktok-watermarks-top-rated-online-removers/"><u>Updated In 2024, Get Rid of TikTok Watermarks Top-Rated Online Removers</u></a></li>
+</ul></div>
 

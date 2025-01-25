@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Custom Shortcut for Safe Hardware Disconnect"
-date: 2024-08-08T13:21:10.963Z
-updated: 2024-08-09T13:21:10.963Z
+date: 2025-01-24T01:38:08.993Z
+updated: 2025-01-24T17:31:07.849Z
 tags:
   - windows10
   - windows11
@@ -20,17 +20,22 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
 
  The Safely Remove Hardware dialog is a window that displays all connected USB devices and enables you to stop them for safe ejection. That dialog is accessible with a Run command, but you can set up shortcuts for opening it with the methods below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Set Up a "Safely Remove Hardware" Desktop Shortcut
 
  The Safely Remove Hardware dialog has a long Run command that’s not easy to remember. To make that feature more directly accessible, you can create a desktop shortcut based on its command. Then you can also turn that shortcut into a taskbar, Start menu, or keyboard one. This is how to set up a Safely Remove Hardware dialog desktop shortcut in Windows 11:
 
 1. Click anywhere on the desktop wallpaper with the mouse’s right button to select**New** and**Shortcut** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![The New and Shortcut options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/new-shortcut-options.jpg)
 2. Input this command within the location box:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `rundll32.exe shell32.dll,Control_RunDLL hotplug.dll`
 3. Select**Next** to view the shortcut name box.
 4. Delete the text in the box, and input**Safely Remove Hardware** to replace it.
@@ -42,23 +47,16 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
 
  That**Stop** option is not entirely the same as an ejection one. Selecting**Eject Portable** in the system tray will merely tell you if the device is still in use or safe to remove. Clicking**Stop** will stop what’s using the drive to make the device free for removal.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![The Eject Portable option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/eject-portable-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Safely Remove Hardware window also enables you to view properties for listed devices. To do so, select a device and click the**Properties** button. That will bring up a window that includes general, event, and driver details for the device.
 
  The Safely Remove Hardware desktop shortcut will be blank by default. However, you can add an icon to it by following the instructions in our[guide for customizing Windows 11/10 icons](https://www.makeuseof.com/tag/customize-icon-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Set Up "Safely Remove Hardware" Taskbar and Start Menu Shortcuts
 
  Setting up a Safely Remove Hardware desktop shortcut will enable you to pin it to the taskbar or Start menu. To do so, right-click the Safely Remove Hardware icon on the desktop and select**Show more options** . The classic context menu in Windows 11 includes**Pin to taskbar** and**Pin to Start** menu options. So, select one of those options to create an alternative Safely Remove Hardware taskbar or Start menu shortcut.
@@ -67,21 +65,18 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
 
  Adding Safely Remove Hardware to the taskbar or Start menu will make its desktop shortcut redundant. You can remove that desktop shortcut by right-clicking its icon and selecting**Delete** (the trash can icon).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Set Up a "Safely Remove Hardware" Hotkey
 
  There’s no quicker way to open anything in Windows 11 than pressing a hotkey. A keyboard shortcut enables you to open anything without having to minimize windows to reach the desktop, bring up the Start menu, or move the mouse at all. You can set up a hotkey that opens the Safely Remove Hardware dialog as instructed for method one in our[how to assign keyboard shortcuts to programs on Windows](https://www.makeuseof.com/windows-keyboard-shortcuts-programs/) guide.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/shortcut-key-box.jpg)
 
  Creating such a hotkey doesn’t make the Safely Remove Hardware desktop shortcut redundant. The hotkey activates the desktop shortcut you assigned it to. So, erasing the Safely Remove Hardware desktop shortcut will delete the shortcut key.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to a Set Up a "Safely Remove Hardware" Context Menu Shortcut
 
  The context menu is an out-of-the-way place to stick shortcuts for opening things. Adding a Safely Remove Hardware option there will enable you to access that dialog by right-clicking the desktop area. Such a shortcut will probably be preferable for users who prefer to minimize desktop and taskbar clutter.
@@ -107,11 +102,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![The Safely Remove Hardware context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/safely-remove-hardware-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That option can be easily removed from the context menu if you decide not to keep it there. To remove it, return to the registry key specified in step three above; right-click the**Safely Remove Hardware** key you added and select**Delete** . Then select**Yes** to delete the key.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Utilize the Safely Remove Hardware Dialog Faster on Windows
 
  Creating a Safely Remove Hardware shortcut with any method above will make that dialog window more accessible whenever you need to remove a device. That dialog provides a handy alternative way for users to safely remove USB drives with additional options for viewing device details. You can use that dialog to view properties for connected drives and select to stop them so they can be removed without corrupting data.
@@ -122,8 +118,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +125,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-unveiling-the-future-of-gaming-an-in-depth-look-at-lg-27ud68/"><u>[New] 2024 Approved Unveiling the Future of Gaming An In-Depth Look at LG 27UD68</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m4a-mpeg-movavi/"><u>「オンラインで気軽にM4A MPEGファイルを無料変換 - Movavi」</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-clarifying-gap-between-full-view-and-immersive-videos/"><u>2024 Approved Clarifying Gap Between Full View & Immersive Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-the-breakdown-rehabilitating-win11s-ccleaner/"><u>Breaking the Breakdown: Rehabilitating Win11's CCleaner</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-platforms-windows-now-on-apples-ios-and-microsoft-devices/"><u>Bridging Platforms: Windows Now on Apple's iOS and Microsoft Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-obstacles-quick-fixes-for-stuck-windows-apps/"><u>Bypass Obstacles: Quick Fixes for Stuck Windows Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-httptoomanyreq-error-quick-fixes-for-app-overloads/"><u>Bypassing HTTP_TOO_MANY_REQ Error: Quick Fixes for App Overloads</u></a></li>
+<li><a href="https://win11.techidaily.com/character-inspection-the-win11-way/"><u>Character Inspection: The Win11 Way</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-temporary-files-and-cache-from-spotify-app/"><u>Clearing Temporary Files and Cache From Spotify App</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-failed-to-launch-errors-with-your-pcs-display/"><u>Clearing Up “Failed to Launch” Errors with Your PC’s Display</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-dual-windows-devices-with-ms-error/"><u>Clearing Up Dual Windows Devices with MS Error</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-the-stuck-gpsvc-delay-mystery/"><u>Clearing Up the Stuck GPSVC Delay Mystery</u></a></li>
+<li><a href="https://fox-where.techidaily.com/detailed-product-information-and-specifications/"><u>Detailed Product Information & Specifications</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/effortless-transfer-of-images-to-ios-device-for-2024/"><u>Effortless Transfer of Images to iOS Device for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-canva-collages/"><u>How to Make Canva Collages</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-exploring-the-high-quality-edge-max-360-vs-hero-11/"><u>In 2024, Exploring the High-Quality Edge Max 360 vs Hero 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-dilemma-resolve-wmvcoredll-missing-error-effectively/"><u>Solving the Dilemma: Resolve 'Wmvcore.dll' Missing Error Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-of-tech-unveiled-google-event-preview-rumors-and-releases/"><u>The Future of Tech Unveiled: Google Event Preview, Rumors & Releases</u></a></li>
+</ul></div>
 

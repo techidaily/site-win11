@@ -1,7 +1,7 @@
 ---
 title: "Mastering Aliases: Enhancing Developer Efficiency"
-date: 2025-01-18T11:54:03.110Z
-updated: 2025-01-19T02:26:07.018Z
+date: 2025-01-22T20:37:25.175Z
+updated: 2025-01-24T16:46:57.867Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are App Execution Aliases?
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
  Windows 10 and 11 both allow aliases to be declared for some apps by default. The available apps vary but are often those commonly associated with command line tools. Giving an app an alias allows it to be executed using a shorter title rather than the full name or path.
 
  App aliases can be used in several[Windows Command Line Interfaces](https://www.makeuseof.com/what-is-cli-what-does-it-stand-for/) (CLI), including the Run Dialog, Command Prompt, and[PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . If you use these tools with any regularity, app aliases can help to streamline entering commands.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable App Execution Aliases in Settings
 
@@ -48,7 +52,7 @@ In Windows 11:
 ![app aliases in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-alias-win11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In Windows 10:
@@ -60,14 +64,10 @@ In Windows 10:
 ![app aliases in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-alias-win10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By default, in both Windows 10 and 11, you can only enable or disable existing app aliases. But if you don't mind editing the Registry, you can create new aliases for many other apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Create App Execution Aliases in Registry Editor
 
@@ -83,13 +83,13 @@ In Windows 10:
 ![editing app aliases in registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-alias-regedit.jpg)
 6. In the Value data field, you will need to enter the full path to the app executable file. For example**C:\\Program Files (x86)\\Calendar.exe** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Right-click in the right pane and select**New > String value** . Name the string**path** . The change the Value data to the same path as above, but without the app filename.
 
  You can now close the Registry Editor. The new App Execution Alias will now be available to use in the Windows CLIs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Using and Creating App Execution Aliases
 
@@ -110,20 +110,19 @@ In Windows 10:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-weaving-external-pages-into-your-insta-narrative/"><u>[New] In 2024, Weaving External Pages Into Your Insta Narrative</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-instagrams-hidden-pathway-extract-more-filters-for-free-effortlessly-for-2024/"><u>[New] Instagram’s Hidden Pathway Extract More Filters for Free Effortlessly for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-lightrooms-favorite-color-grads-and-luts-compilation/"><u>[Updated] LightRoom's Favorite Color Grads and LUTs Compilation</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapstrategy-101-crafting-effective-ads-for-biz/"><u>[Updated] SnapStrategy 101 Crafting Effective Ads for Biz</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-straightforward-strategies-for-iphones-screen-recording/"><u>[Updated] Straightforward Strategies for iPhone's Screen Recording</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-windows-bluetooth-headphones-playing-sound-without-volume-control/"><u>Addressing Windows Bluetooth Headphones Playing Sound Without Volume Control</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-admins-rights-issue-in-win-os/"><u>Bypassing Admins Rights Issue in Win OS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-infinix-hot-40i-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Infinix Hot 40i</u></a></li>
-<li><a href="https://win11.techidaily.com/redefining-admin-control-in-windows-os-security/"><u>Redefining Admin Control in Windows OS Security</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-mend-media-player-server-faults/"><u>Steps to Mend Media Player Server Faults</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-tackling-windows-security-anomalies/"><u>Strategies for Tackling Windows Security Anomalies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-8-best-chatgpt-prompts-to-eliminate-digital-distractions/"><u>The 8 Best ChatGPT Prompts to Eliminate Digital Distractions</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-spending-habits-with-premium-windows-11-pro-key/"><u>Transform Spending Habits with Premium Windows 11 Pro Key</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transforming-images-via-look-up-table-techniques-in-adobes-image-editor/"><u>Transforming Images via Look-Up Table Techniques in Adobe's Image Editor</u></a></li>
-<li><a href="https://win11.techidaily.com/transitioning-heic-pictures-to-jpeg-in-w10w11/"><u>Transitioning HEIC Pictures to JPEG in W10/W11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-all-time-highest-chart-youtubes-premier-video-list/"><u>[Updated] 2024 Approved All-Time Highest Chart YouTube's Premier Video List</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-review-spotlight-on-yuneecs-aerodrone-typhoon-h-for-2024/"><u>[Updated] Review Spotlight on Yuneec’s AeroDrone Typhoon H for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-epson-wf-372n0-printer-driver-installation-files-here/"><u>Get the Newest Epson WF 372N0 Printer Driver Installation Files Here!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/googles-guide-to-seamless-podcast-submission-for-2024/"><u>Google's Guide to Seamless Podcast Submission for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reclaim-your-spot-in-epic-launcher-windows-style/"><u>How to Reclaim Your Spot in Epic Launcher, Windows-Style</u></a></li>
+<li><a href="https://win11.techidaily.com/identifying-hard-drive-type-hddssd/"><u>Identifying Hard Drive Type: HDD/SSD</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-13-pro-max-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 13 Pro Max? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-the-complexities-of-high-dpi-settings/"><u>Navigating Through the Complexities of High-DPI Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-a-swaying-cursor-in-windows-os/"><u>Resolving a Swaying Cursor in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-severe-javascript-crashes-in-discord-on-pcs-running-win-1011/"><u>Sidestep Severe JavaScript Crashes in Discord on PCs Running Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-path-to-harmonized-workspaces-in-win1011/"><u>The Path to Harmonized Workspaces in WIN10/11</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-sony-xperia-10-v-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Sony Xperia 10 V Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-mobile-split-screen-mastery-top-video-apps/"><u>Updated In 2024, Mobile Split Screen Mastery Top Video Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-gold-strategies-for-financial-flourishing-for-2024/"><u>YouTube Gold Strategies for Financial Flourishing for 2024</u></a></li>
 </ul></div>
 

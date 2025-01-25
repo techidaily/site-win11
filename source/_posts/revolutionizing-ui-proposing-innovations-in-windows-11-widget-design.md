@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing UI: Proposing Innovations in Windows 11 Widget Design"
-date: 2024-08-08T13:23:09.424Z
-updated: 2024-08-09T13:23:09.424Z
+date: 2025-01-21T07:26:46.970Z
+updated: 2025-01-25T06:41:55.092Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
 
 ## 1\. Allow Users to Open the Widgets Panel From the Right Side
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows 11 widgets sliding-in from the left of the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-11-Widgets-Screen.jpg)
 
  If you have Widgets enabled on Windows 11 taskbar, you will notice that the panel opens from the left side of your screen. This should not be the only option. It would be nice to see Windows 11 showing Widgets on the right side of the display, just like in macOS. However, Microsoft should keep both left and right-opening options and not replace one with the other.
@@ -44,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
  Again, Microsoft should keep the mouse hover and click option for the Widgets icon to give users more control over the functionality.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Allow Windows 11 Users to Turn Off the News Section in Widgets Panel
 
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
@@ -54,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
 
  However, not everyone wants to be a news junkie. And even if you are someone who keeps a close eye on what's happening around the world, you may not always want the panel to fill with news content. Either way, Microsoft should add the ability to turn off the news article section. If it is not possible to permanently turn off the news section, there needs to be a way to disable it for a few minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Add More Widgets to the Widgets Board
 
 ![Screenshot showing Windows 11 Widgets panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-11-widgets.jpg)
@@ -65,15 +60,16 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
 
  However, Windows 11 Widgets panel is still missing useful first-party widgets like Sticky Notes and Calculator (here are the[steps for keeping Sticky Notes always on top on Windows 10 and 11](https://www.makeuseof.com/sticky-notes-always-on-top-windows/) ). Microsoft can't force third-party developers to bring their widgets to Windows 11, but it can play its part in making the panel more "widget-rich."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Bring the Ability to Pin Widgets to the Desktop and Lockscreen
 
  To view widgets, you have to open the Widgets board. Unfortunately, there is no other way. Microsoft can fix this by adding the ability to pin widgets to the desktop or lock screen. This way, you can always stay updated with timely information from your favorite apps at a glance on your desktop and lock screen.
 
  Meanwhile, you can[pin your favorite widgets to your desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) using a third-party app called Widget Launcher.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## 6\. Add Multi-Account Support to the Widgets Panel
 
  You can use widgets with or without signing into the Widgets Panel with your Microsoft account. However, it does not support multi-account.
@@ -81,8 +77,9 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
  A Widgets Panel with support for multi-account would mean that you can seamlessly switch between different accounts in the Widgets board whenever you like. Each account will offer you a unique Widgets panel, as you can personalize each differently.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Allow Users to Change the Default Browser for Widgets
 
  You might want to read the full story when you come across an interesting news headline in the Widgets panel. And the link to that story should ideally open on your default internet browser. However, the Widgets capability in Windows 11 doesn't allow that. It will keep opening links on Microsoft Edge even after you set any other browser as default.
@@ -90,22 +87,18 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
  To offer greater flexibility, Microsoft should allow users to change the default browser for Widgets. Here is our guide on[changing the default browser on Windows 11](https://www.makeuseof.com/windows-11-change-default-browser/) if you are unfamiliar with the steps.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Fixing Bugs And Improving Reliability
 
  The Widgets experience in Windows 11 won't be satisfactory if it is buggy and unreliable. All the efforts Microsoft puts into making Widgets more customizable and feature-rich will go in vain if the company does not address bugs promptly. The software giant must address bugs in Widgets as early as possible besides continuing its work towards adding new features, thus ensuring a more reliable experience.
 
  Meanwhile, you can quickly[fix Windows 11 Widgets when they stop working](https://www.makeuseof.com/windows-11-widgets-not-working/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will Microsoft Improve the Widgets Experience in Windows 11?
 
@@ -115,14 +108,11 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
 
  However, all the improvements should not come at the expense of increased background activity, thus lowering performance. New features in Widgets should not impact the fluidity and smoothness of the experience.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,4 +121,21 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-streamlined-templates-the-essential-ae-text-list/"><u>[Updated] In 2024, Streamlined Templates The Essential AE Text List</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-evaluating-video-space-on-a-64gb-card/"><u>2024 Approved Evaluating Video Space on a 64GB Card</u></a></li>
+<li><a href="https://win11.techidaily.com/6-fixes-if-the-c-drive-keeps-filling-up-for-no-reason-on-windows/"><u>6 Fixes if the C: Drive Keeps Filling Up for No Reason on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/8-tactics-to-unlock-windows-with-persistent-pin-problems/"><u>8 Tactics to Unlock Windows with Persistent PIN Problems</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/a-deeper-dive-into-documenting-gaming-sessions-on-the-ps3-for-2024/"><u>A Deeper Dive Into Documenting Gaming Sessions on the PS3 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/address-keyboard-malfunction-fixing-unresponsive-function-keys-on-windows-11/"><u>Address: Keyboard Malfunction - Fixing Unresponsive Function Keys on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-self-shutting-windows-11-units/"><u>Addressing Self-Shutting Windows 11 Units</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-windows-10-and-11s-vital-parts-missing-alert/"><u>Avoiding Windows 10 & 11'S Vital Parts Missing Alert</u></a></li>
+<li><a href="https://discover-able.techidaily.com/comprehensive-tutorial-on-converting-secured-digital-rights-management-drm-books-into-readable-format/"><u>Comprehensive Tutorial on Converting Secured Digital Rights Management (DRM) Books Into Readable Format</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/dell-g5-5090-test-drive-unmatched-performance-and-flexibility-for-savvy-gamers-on-a-budget/"><u>Dell G5 5090 Test Drive: Unmatched Performance & Flexibility for Savvy Gamers on a Budget</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-locating-and-displaying-every-named-range-within-your-excel-spreadsheet/"><u>Guide: Locating and Displaying Every Named Range Within Your Excel Spreadsheet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-realme-11-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Realme 11 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-15-web-based-editing-platforms-reviewed-all-free/"><u>In 2024, Prime 15 Web-Based Editing Platforms Reviewed, All FREE</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-t420-driver-download-and-installation-guide-for-windows-users/"><u>Lenovo T420 Driver Download and Installation Guide for Windows Users</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Explore Overlooked Windows 11 Elements That Can Help
-date: 2025-01-15T01:50:30.273Z
-updated: 2025-01-18T16:54:37.315Z
+date: 2025-01-21T22:12:30.423Z
+updated: 2025-01-25T01:15:34.140Z
 tags:
   - windows10
   - windows11
@@ -35,11 +35,11 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 
 ![windows 11 snap layouts three windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/windows-11-snap-layouts-three-windows.jpg)
 
- We’ve covered[how to use Snap Layouts in Windows 11](https://www.makeuseof.com/how-to-use-snap-layouts-in-windows-11/) in a separate article that also explains customizing them to best suit how you work.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ We’ve covered[how to use Snap Layouts in Windows 11](https://www.makeuseof.com/how-to-use-snap-layouts-in-windows-11/) in a separate article that also explains customizing them to best suit how you work.
 
 ### 2\. Use Widgets to Your Advantage
 
@@ -49,21 +49,17 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 
  They are so easy to use and so terribly useful, that we suggest[getting started with Windows 11 widgets](https://www.makeuseof.com/windows-11-widgets-starter-tips/) right away. And there’s an easy fix if your[Windows 11 widgets are not working](https://www.makeuseof.com/windows-11-widgets-not-working/) —a frustrating situation indeed to find yourself in.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Get More Productive With Focus Sessions
 
  Windows 11’s Focus Sessions feature aims to boost your productivity, cutting out distractions and helping you set goals for work. The tool can be found in the clock app and allows you to set the tasks you want to focus on in each session. You can even link your Spotify account to have music playing in the background if that’s what helps you stay focused.
 
 ![windows 11 focus sessions clock app home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/windows-11-focus-sessions-clock-app-home-page.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We’ve got a comprehensive article on[how to use the new Windows 11 Focus Sessions](https://www.makeuseof.com/how-to-use-windows-11-focus-sessions/) , which explains what they are and guides you to set things up so you can get the most out of your time at your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Leverage the Clipboard Manager
 
@@ -79,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 
 [Microsoft’s voice typing tool on Windows](https://www.makeuseof.com/how-to-start-voice-typing-on-windows-11/) can be powerful if used correctly, and it is not difficult to[set up voice access on Windows 11](https://www.makeuseof.com/windows-11-enable-voice-access/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use Taskbar Hotkeys for Fast Switching
 
  The Windows 11 taskbar automatically sets up hotkeys when you pin items to it. Not sure what a hotkey is? We’ve got more about them and[how to make your own hotkeys](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) .
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
  You can quickly switch to a specific window or application by using the Windows key in conjunction with a number key that corresponds to the position of the pinned item. Especially for lower numbers, this shaves off seconds when switching between windows and apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Android / Linux Emulators
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
  The process to[install Windows Subsystem for Android](https://www.makeuseof.com/windows-11-sideload-android-apps/) and[for Linux](https://www.makeuseof.com/windows-11-install-run-bash/) isn’t all that straightforward, so it might keep the everyday Windows 11 user away. But keep in mind that[running Android apps on Windows](https://www.makeuseof.com/windows-11-android-system-requirements/) will need a PC with top-notch specs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It Would Be Best to Familiarize Yourself With These Windows 11 Features
@@ -120,22 +120,22 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-meme-ology-the-science-of-popularizing-video-laughs-on-social-platforms-for-2024/"><u>[New] Meme-Ology The Science of Popularizing Video Laughs on Social Platforms for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-eyes-on-the-digital-winners-top-channels-for-2024/"><u>[Updated] Eyes on the Digital Winners Top Channels for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-integrating-social-video-platforms-with-hdtv-for-2024/"><u>[Updated] Integrating Social Video Platforms with HDTV for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-advancing-zoom-clarity-in-online-gatherings-google-meet/"><u>2024 Approved Advancing Zoom Clarity in Online Gatherings (Google Meet)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/exploring-yeedi-cubes-capabilities-evaluating-if-this-dual-function-automatic-vacuuming-and-mopping-unit-lives-up-to-its-price-tag/"><u>Exploring Yeedi Cube's Capabilities: Evaluating if This Dual-Function Automatic Vacuuming and Mopping Unit Lives Up to Its Price Tag</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-league-of-legends-disconnecting-on-windows/"><u>How to Fix League of Legends Disconnecting on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-install-dolby-atmos-in-windows-11-pro/"><u>How to Install Dolby Atmos in Windows 11 Pro</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-samsung-galaxy-s24-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Samsung Galaxy S24? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-6s-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone 6s to your Windows PC | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-landscape-of-winapp-and-browser-mastery/"><u>Navigating the Landscape of WinApp and Browser Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/regaining-control-over-malfunctioning-windows-snippers/"><u>Regaining Control Over Malfunctioning Windows Snippers</u></a></li>
-<li><a href="https://win11.techidaily.com/sidestepping-error-0x80070522-on-windows-by-accessing-client-rights/"><u>Sidestepping Error 0X80070522 on Windows by Accessing Client Rights</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-recover-lost-access-to-ubisofts-launcher/"><u>Steps to Recover Lost Access to Ubisoft's Launcher</u></a></li>
-<li><a href="https://win11.techidaily.com/timeless-windows-syncing-the-digital-second-hand/"><u>Timeless Windows: Syncing the Digital Second Hand</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transcoding-excellence-from-xml-ssa-to-srt-mastery-for-2024/"><u>Transcoding Excellence From XML, SSA to SRT Mastery for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/unexpected-glitch-what-happened-to-instagram/"><u>Unexpected Glitch: What Happened to Instagram?</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-full-power-of-task-manager-with-admin-rights-in-win11/"><u>Unleash Full Power of Task Manager with Admin Rights in Win11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-navigating-personal-brand-identity-high-engagement/"><u>[New] Navigating Personal Brand Identity [High Engagement]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-spicing-up-videos-with-youtube-music-linking-techniques-for-2024/"><u>[Updated] Spicing Up Videos with YouTube Music Linking Techniques for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-your-disappearing-wordle-streak-quickly/"><u>Bring Back Your Disappearing Wordle Streak Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-user-biometrics-in-windows-11-for-domains/"><u>Configuring User Biometrics in Windows 11 for Domains</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-6-tools-for-video-language-shift/"><u>Cutting-Edge 6 Tools for Video Language Shift</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-disabled-warning-unverified-adobe-in-windows/"><u>Eliminate Disabled Warning: Unverified Adobe in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-and-change-keyboard-layouts-in-windows-11/"><u>How to Add and Change Keyboard Layouts in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/identify-screenshot-storage-in-windows/"><u>Identify Screenshot Storage in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/immerse-yourself-in-sound-the-ultimate-selection-of-best-dolby-atmos-movies-at-home/"><u>Immerse Yourself in Sound: The Ultimate Selection of Best Dolby Atmos Movies at Home</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-mythos-makers-circle-top-ten-tales/"><u>In 2024, Mythos Makers Circle – Top Ten Tales</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-memory-diagnostic-failures/"><u>Navigating Through Memory Diagnostic Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/new-laptops-that-will-take-your-breath-away-ifa-2023/"><u>New Laptops That Will Take Your Breath Away - IFA 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-radeon-driver-transitions-on-new-windows-11-laptops/"><u>Smooth Radeon Driver Transitions on New Windows 11 Laptops</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-invisible-gadget-issue-in-windows-os/"><u>Tackling Invisible Gadget Issue in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/top-bargain-alert-lifetime-win10-starting-at-612/"><u>Top Bargain Alert: Lifetime Win10, Starting at $6.12</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-se-2022-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone SE (2022)</u></a></li>
 </ul></div>
 

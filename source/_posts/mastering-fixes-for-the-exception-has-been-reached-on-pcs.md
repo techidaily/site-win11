@@ -1,7 +1,7 @@
 ---
 title: Mastering Fixes for The Exception Has Been Reached on PCs
-date: 2024-08-08T13:20:17.958Z
-updated: 2024-08-09T13:20:17.958Z
+date: 2025-01-17T19:27:29.605Z
+updated: 2025-01-25T02:24:00.424Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ To disable startup apps on Windows:
 
  Once done, restart your PC and check if the error persists. If not, enable the apps again one by one until you find the problematic application. Depending on the use, you can update, uninstall or find an alternative for the app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Run the System File Checker and the DISM Tools
 
  The Deployment Image Service Management (DISM) tool is a command-line utility that can find and fix issues with your Windows image. If your error is triggered by a corrupt system image, the DISM command can help you fix the error.
@@ -46,9 +50,6 @@ Follow these steps to run the DISM and System File Checker tools:
 1. Open Command Prompt as an administrator (see[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) if you need help).
 2. In the Command Prompt window, type the following command to check your system health:  
 `Dism /Online /Cleanup-Image /CheckHealth`
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dism-scan-health-restore-health-command-prompt-1.jpg)  
  Next, type the following command and press**Enter** to scan your PC's health:  
 `Dism /Online /Cleanup-Image /ScanHealth`
@@ -61,8 +62,9 @@ Follow these steps to run the DISM and System File Checker tools:
 8. Type**exit** and press**Enter** to close Command Prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Check Your Hard Drive for Errors With CHKDSK
 
  Check Disk (CHKDSK) is a Windows command-line utility to find and fix issues on your hard drive due to bad sectors. You can run the tool on your traditional mechanical hard drive and Solid State Drives (SSDs).
@@ -79,9 +81,6 @@ To run the CHKDSK tool:
 
  When executed, it will scan and check your system drive (C:/) for bad sectors. Wait for the scan to finish and close the Command Prompt window.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Turn Off Any GPU Overclocking
 
  If the error is triggered while performing a graphic-intensive task (such as playing a game or rendering 3D models), it can be due to an overclocked GPU.
@@ -89,6 +88,10 @@ To run the CHKDSK tool:
  While an overclocked GPU offers performance benefits, it can cause your system to crash and trigger multiple errors if not done correctly. Whether you have used a third-party GPU overclocking tool or a proprietary app from your GPU manufacturer, undo all the recent instances of GPU overclocking to see if that helps fix this error.
 
  If you need help with overclocking, check out[the best GPU overclocking tools](https://www.makeuseof.com/best-gpu-overclocking-tools/) to get the best results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Check for Memory Leaks
 
@@ -98,16 +101,15 @@ To run the CHKDSK tool:
 2. Press**Win + R** to open**Run** .
 3. Type**mdsched.exe** and click**OK** .
 4. In the**Windows Memory Diagnostic** dialog, click**Restart now and check for problems (recommended)** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Windows memory diagnostic tool restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tool-restart.jpg)
 5. Your computer will restart and boot into the Windows Memory Diagnostic Tool menu, and the system will start a test automatically.  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![Windows memory diagnostic tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tooljpg.jpg)
 6. You can also perform**Basic, Standard, or Extended** test manually. To do this, press**F1** to access the**Options** menu and select from the**Basic, Standard, and Extended** option under the**Test Mix** section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. If a problem is detected, you can view it under the Status section. Even if the test appears inactive or stuck, do not shut down your computer until testing is complete.
 8. Once done, the PC will start, and the Windows Memory Diagnostic Tool will display the test result after you log on.
 
@@ -115,9 +117,6 @@ To run the CHKDSK tool:
 
  A corrupted user profile may cause the "the exception breakpoint has been reached" error. To fix the error, you can[create a new user local user profile on Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) and give it administrator privilege. Sign into your new user profile and launch the app to see if the error is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 7\. Update or Uninstall the Problematic App
 
  If specific apps trigger the error, such as the Origin launcher or the Steam client, consider reinstalling the app to solve the issue.
@@ -131,9 +130,11 @@ To uninstall an application on Windows:
 3. Click on**Install** **apps** .  
 ![windows 11 settings installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-installed-apps.jpg)
 4. Type the name of your app in the search bar.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-apps-windows-11.jpg)
 5. Next, click**the three-dots menu** next to the app name and**Uninstall** .
 6. Click on**Uninstall** again to confirm the action.
@@ -151,8 +152,6 @@ To uninstall an application on Windows:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +159,22 @@ To uninstall an application on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-experience-the-virtual-reality-frontier-on-youtube-for-2024/"><u>[New] Experience the Virtual Reality Frontier on Youtube for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/eamless-transitions-in-vlogs-with-jump-cuts-magic-for-2024/"><u>[New] Seamless Transitions in Vlogs with Jump Cuts Magic for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premier-band-live-streams/"><u>[Updated] Premier Band Live Streams</u></a></li>
+<li><a href="https://solve-news.techidaily.com/abbyys-pioneering-digital-intelligence-boost-inside-scoop-on-hosted-content-iq-summit-latest-news-by-abbyy-media/"><u>ABBYY's Pioneering Digital Intelligence Boost: Inside Scoop on Hosted Content IQ Summit - Latest News by ABBYY Media</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-gaps-between-windows-and-wsl-with-post-update-strategies/"><u>Bridging Gaps Between Windows & WSL With Post-Update Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-local-libraries-and-online-oceans-dropbox-googledrive-on-c/"><u>Bridging Local Libraries & Online Oceans: Dropbox, GoogleDrive on C:/</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-gap-to-recovered-network-access/"><u>Bridging the Gap to Recovered Network Access</u></a></li>
+<li><a href="https://win11.techidaily.com/bsod-fix-tips-counteracting-issues-with-vmware-on-windows-11/"><u>BSOD Fix Tips: Counteracting Issues with VMware on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-11-alerts-fast-track/"><u>Bypassing Windows 11 Alerts Fast-Track</u></a></li>
+<li><a href="https://win11.techidaily.com/change-windows-11-taskbar-size/"><u>Change Windows 11 Taskbar Size</u></a></li>
+<li><a href="https://win11.techidaily.com/chrome-stuck-unlock-windows-11s-quick-fixes-now/"><u>Chrome Stuck? Unlock Windows 11'S Quick Fixes Now</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/free-cross-platform-4k-playback-tools-for-win-and-os-x-devices/"><u>Free, Cross-Platform 4K Playback Tools for Win & OS X Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/put-an-end-to-junk-text-alerts-a-tri-step-guide-for-iphone-users-insights/"><u>Put an End to Junk Text Alerts: A Tri-Step Guide for iPhone Users - Insights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-videographers-playbook-for-game-coverage-excellence-for-2024/"><u>The Videographer’s Playbook for Game Coverage Excellence for 2024</u></a></li>
+</ul></div>
 

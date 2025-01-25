@@ -1,7 +1,7 @@
 ---
 title: "Elevated Note Management: Smarter Strategies for Windows Users"
-date: 2025-01-13T06:51:52.057Z
-updated: 2025-01-19T12:36:25.185Z
+date: 2025-01-23T09:41:05.710Z
+updated: 2025-01-25T00:25:19.980Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
 ![power toys always on top](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top.jpg)
 4. Next, toggle the**Enable Always on Top** switch and set it to**On** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Next, under**Activation** , note down the**Activation shortcut** . By default, it is set to**Win + Ctrl + T** . To change the shortcut combo, click the**Edit** button (Pencil icon) and make changes.  
 ![power toys always on top border off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top-border-off.jpg)
 6. Under**Appearances & behavior** , toggle the**Shows a border around the Pinned window** to disable the highlighted border for the pinned app.
@@ -57,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
  Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use DeskPins to Pin Sticky Notes
@@ -75,14 +71,14 @@ To pin Sticky Notes using DeskPins:
 4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
 5. Next, click on the**Sticky Note** app window to keep it always on top.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click the**Pin** icon to unpin the window.
@@ -90,10 +86,14 @@ To pin Sticky Notes using DeskPins:
 ![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Keep Sticky Notes Always on Top in Windows 10 and 11
 
@@ -114,14 +114,22 @@ To pin Sticky Notes using DeskPins:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-bargain-hunting-to-video-glamour-editing-insights-for-hauls/"><u>[New] From Bargain Hunting to Video Glamour Editing Insights for Hauls</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-cutting-edge-transitions-for-kinemaster-users/"><u>[New] In 2024, Cutting Edge Transitions for Kinemaster Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-photo-quality-for-commercial-use/"><u>2024 Approved Maximizing Photo Quality for Commercial Use</u></a></li>
-<li><a href="https://win11.techidaily.com/device-agnostic-operating-system-windows-for-iphonesipads-macs-pcs-launched/"><u>Device-Agnostic Operating System: Windows for iPhones/iPads, Macs, PCs Launched</u></a></li>
-<li><a href="https://win11.techidaily.com/full-method-to-turn-off-wsl-in-windows-1011/"><u>Full Method to Turn Off WSL in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-setting-up-google-play-on-w11-os/"><u>Guide: Setting Up Google Play on W11 OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-ensure-smooth-performance-the-necessity-of-a-d3d11-compatible-graphics-card-for-running-our-engine/"><u>How to Ensure Smooth Performance: The Necessity of a D3D11-Compatible Graphics Card for Running Our Engine</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-7-fps-experiences-of-the-decade/"><u>Top 7 FPS Experiences of the Decade</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-storage-potential-with-windows-iscsi-initiator/"><u>Unlocking Storage Potential with Windows iSCSI Initiator</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-open-world-originals-titles-similar-to-gta-v/"><u>[New] 2024 Approved Open World Originals Titles Similar To GTA V</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-expert-strategies-for-vocal-identity-on-instagram-for-2024/"><u>[New] Expert Strategies for Vocal Identity on Instagram for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-facebook-broadcast-keepers-2023-for-2024/"><u>[New] Facebook Broadcast Keepers 2023 for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-nokia-130-music-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Nokia 130 Music Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensively-manage-app-packages-with-winget-on-win11/"><u>Comprehensively Manage App Packages with Winget on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-error-0x800700e1-in-windows-11-os/"><u>How to Overcome Error 0X800700E1 in Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-show-or-hide-folders-in-this-pc-on-windows-11/"><u>How to Show or Hide Folders in This PC on Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leveraging-cookiebots-capabilities-for-superior-website-analytics/"><u>Leveraging Cookiebot's Capabilities for Superior Website Analytics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-error-code-0xc00185-insightful-strategies-for-troubleshooting-and-repair/"><u>Mastering Error Code 0xC00#185: Insightful Strategies for Troubleshooting and Repair</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-auto-updates-and-change-amd-gpu-drives-in-win10/"><u>Navigate Auto-Updates & Change AMD GPU Drives in Win10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-lost-sounds-fixing-the-no-sound-problem-in-windows-devices-with-ease/"><u>Reviving Lost Sounds: Fixing the 'No Sound' Problem in Windows Devices with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-clear-vac-failed-windows-error/"><u>Solutions to Clear VAC Failed Windows Error</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-group-policies-in-windows-environments/"><u>Streamlining Group Policies in Windows Environments</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-8-economical-video-call-applications-cross-system-compatibility-for-2024/"><u>Top 8 Economical Video Call Applications Cross-System Compatibility for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unifying-computing-windows-adapts-to-iphones-ipads-macs-and-desktops/"><u>Unifying Computing: Windows Adapts to iPhones, iPads, Macs, and Desktops</u></a></li>
+<li><a href="https://win11.techidaily.com/where-windows-keeps-your-image-snaps/"><u>Where Windows Keeps Your Image Snaps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Revive Invisible Controls in Your Windows 11 System Panel
-date: 2025-01-16T07:51:20.171Z
-updated: 2025-01-19T03:20:44.870Z
+date: 2025-01-18T22:08:08.104Z
+updated: 2025-01-24T17:25:20.181Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/eaa498618a30b7449a5127779e22901025842c318
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Control Panel Is Likely Going Away
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/eaa498618a30b7449a5127779e22901025842c318
  While Microsoft hasn’t said that it plans to do away with the Control Panel app, and plenty of [old apps remain in Windows 11](https://www.makeuseof.com/ancient-windows-features-still-in-windows-11/). Still, the rate at which the company is moving settings says that Microsoft is at least considering it. Of course, this isn’t necessarily a bad thing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft's New Home For Settings
@@ -48,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/eaa498618a30b7449a5127779e22901025842c318
 ![The Windows 11 Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/the-windows-11-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Eventually, this decision will likely make even more sense. For the moment, however, it can be tough to find the settings you’re looking for, especially if they’re no longer located where they had been for years.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Finding a Setting's New Home
@@ -75,17 +75,18 @@ thumbnail: https://thmb.techidaily.com/eaa498618a30b7449a5127779e22901025842c318
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-10-memetic-design-innovators-choices/"><u>[New] 10 Memetic Design Innovators' Choices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-elevate-your-igtv-presence-strategies-for-perfecting-video-lengths-and-widths/"><u>[New] Elevate Your IGTV Presence Strategies for Perfecting Video Lengths and Widths</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-screen-captures-galore-expert-techniques-for-twitter-visuals-for-2024/"><u>[New] Screen Captures Galore Expert Techniques for Twitter Visuals for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mastering-past-facebook-feed-exploration-for-laptops-and-phones/"><u>[Updated] 2024 Approved Mastering Past Facebook Feed Exploration for Laptops and Phones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-choosing-ideal-youtube-thumbnail-shapes-for-2024/"><u>[Updated] Guide to Choosing Ideal Youtube Thumbnail Shapes for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-all-you-need-to-know-about-the-youtube-shorts-fund/"><u>[Updated] In 2024, All You Need to Know About the YouTube Shorts Fund</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/craft-visuals-with-ease-essential-techniques-for-generating-images-using-midjourney/"><u>Craft Visuals with Ease: Essential Techniques for Generating Images Using Midjourney</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-no-server-errors-a-windows-guide-to-apex-success-(156-chars/"><u>Eliminating No-Server Errors: A Windows Guide to Apex Success (<156 Chars)</u></a></li>
-<li><a href="https://win11.techidaily.com/improving-the-effectiveness-of-win-based-discord-queries/"><u>Improving the Effectiveness of Win-Based Discord Queries</u></a></li>
-<li><a href="https://win11.techidaily.com/in-depth-analysis-of-windows-11-settings/"><u>In-Depth Analysis of Windows 11 Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/master-plan-to-fix-rpc-fails-on-your-pc/"><u>Master Plan to Fix RPC Fails on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/windows-11-and-the-dark-side-effective-tips-for-overcoming-black-screen-woes/"><u>Windows 11 and the Dark Side: Effective Tips for Overcoming Black Screen Woes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-high-end-psd-lighting-tweaks/"><u>[New] 2024 Approved High-End PSD Lighting Tweaks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-live-from-anywhere-reach-anyone-streaming-techniques-for-iphonesipads/"><u>[New] 2024 Approved Live From Anywhere, Reach Anyone Streaming Techniques for iPhones/iPads</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-a-childs-fortune-the-wealthy-world-of-youtubes-youngest-star/"><u>[Updated] 2024 Approved A Child’s Fortune The Wealthy World of YouTube’s Youngest Star</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfecting-zoom-on-snapchat-for-better-snaps/"><u>[Updated] Perfecting Zoom on Snapchat for Better Snaps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-resolved-inaccessible-full-screen-obs-for-2024/"><u>[Updated] Resolved Inaccessible Full Screen OBS for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-global-communication-chatgpts-role/"><u>Enhancing Global Communication: ChatGPT's Role</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-interaction-failures-in-new-windows-11-os/"><u>Fixing Interaction Failures in New Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-xbox-subscription-issue-with-error-code-0x00000001/"><u>Fixing Xbox Subscription Issue with Error Code 0X00000001</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-accessing-windows-11s-file-journey/"><u>Step-by-Step: Accessing Windows 11'S File Journey</u></a></li>
+<li><a href="https://win11.techidaily.com/the-clever-way-to-compress-streamlined-windows-explorer/"><u>The Clever Way to Compress: Streamlined Windows Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/the-forgotten-features-windows-evolution/"><u>The Forgotten Features: Windows Evolution</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-error-code-0xc0000005-on-windows-pcs/"><u>Troubleshooting Error Code 0xC0000005 on Windows PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-civilization-6-issues-on-windows-11/"><u>Troubleshooting Steps for Civilization 6 Issues on Windows 11</u></a></li>
 </ul></div>
 

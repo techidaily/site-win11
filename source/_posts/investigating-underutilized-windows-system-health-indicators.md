@@ -1,7 +1,7 @@
 ---
 title: Investigating Underutilized Windows' System Health Indicators
-date: 2025-01-02T16:04:19.048Z
-updated: 2025-01-06T21:19:30.690Z
+date: 2025-01-18T21:56:13.391Z
+updated: 2025-01-24T16:03:57.734Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/98381f75da9e421b6eb855209185ef7a1fbf0a3e4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are the Reliability and Performance Monitors on Windows?
 
  The Reliability Monitor and Performance Monitor are built-in Windows tools that help you find problems with your system's performance or reliability.
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/98381f75da9e421b6eb855209185ef7a1fbf0a3e4
  Suppose you are experiencing sudden system freezes and want to identify the root cause; you can get help using the Reliability Monitor. You can view the exact reason behind the system freeze inside the reliability history.
 
  On the other hand, the Performance Monitor is another in-built[Windows diagnostics tool](http://www.makeuseof.com/tag/13-windows-diagnostics-tools-check-pcs-health/) that provides detailed information about your computer's performance. You can view real-time performance metrics like CPU usage, disk, and memory usage through the app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Reliability Monitor's Key Features
 
@@ -61,10 +61,14 @@ Here are some of the noticeable features of the Performance Monitor:
 
 ![Resource Monitor Overview In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/resource-monitor-overview-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  So, what's the bottom line of using the Performance Monitor? Though it is not for everyone, it still caters to the needs of some who love playing with technical statistics and numerical data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Advanced Functions of the Reliability and Performance Monitors
@@ -81,10 +85,6 @@ Here are some of the noticeable features of the Performance Monitor:
 
  The best part is, you can also configure alerts in the Performance Monitor. By doing so, you can record the moments when specific performance metrics exceed certain thresholds. For example, you can set an alert to notify you when CPU usage exceeds 90% for more than 15 minutes. This ultimately helps you to take proactive measures to prevent system downtime.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Different Use Cases for the Reliability and Performance Monitors
 
  The main goal of the Reliability Monitor is to find potential problems in your system before they cause major issues.
@@ -93,11 +93,11 @@ Here are some of the noticeable features of the Performance Monitor:
 
 ![Reliability Monitor Chart Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reliability-monitor-chart-overview.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Performance Monitor can help you monitor how your system is running and find problems related to its performance. You can even use it to[speed up Windows](http://www.makeuseof.com/windows-11-speed-up-tricks/) by analyzing the performance trends of your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use the Reliability and Performance Monitor
 
@@ -109,6 +109,11 @@ Here are some of the noticeable features of the Performance Monitor:
 2. Type**Reliability Monitor** in the search bar. Click**View reliability history** to open Reliability Monitor on Windows. Please wait a few seconds to let it generate the required results.  
 ![Reliability Monitor In Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reliability-monitor-in-search-bar.jpg)
 3. Click the date for which you want to view the results. Under**Source** , click**View technical details** next to your desired event to view its complete description.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Reliability Monitor Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reliability-monitor-overview.jpg)
 4. If you're an advanced user, type**Performance Monitor** in the search bar to open it.
 
@@ -116,10 +121,6 @@ Here are some of the noticeable features of the Performance Monitor:
 ![Performance Monitor Overview In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/performance-monitor-overview-in-windows.jpg)
 
  Besides these tools, Windows is bloated with many other useful utilities to improve your experience. If you are interested in such things, check out our guide on some[useful Windows administrative tools](https://www.makeuseof.com/windows-administrative-tools-guide/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Say Goodbye to Unreliable Windows Systems
 
@@ -142,24 +143,22 @@ Here are some of the noticeable features of the Performance Monitor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-prime-alternatives-to-gopro-selecting-the-ultimate-camera/"><u>[New] 2024 Approved Prime Alternatives to GoPro Selecting the Ultimate Camera</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-lightning-fast-windows-evaluation-path/"><u>[New] In 2024, Lightning-Fast Windows Evaluation Path</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-aspect-ratio-insights-for-engaging-youtube-thumbnails/"><u>[Updated] 2024 Approved Aspect Ratio Insights for Engaging YouTube Thumbnails</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-inside-their-secrets-top-10-youtube-beauty-gurus-you-need-to-see/"><u>[Updated] 2024 Approved Inside Their Secrets Top 10 YouTube Beauty Gurus You Need to See</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-typography-and-layout-the-top-10-for-ae/"><u>[Updated] Mastering Typography & Layout The Top 10 For AE</u></a></li>
-<li><a href="https://win11.techidaily.com/combatting-common-media-errors-on-windows-11-os/"><u>Combatting Common Media Errors on Windows 11 OS</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/echo-dot-vs-homepod-mini-which-smart-speaker-wins/"><u>Echo Dot Vs HomePod Mini – Which Smart Speaker Wins?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/educational-entertainment-with-latin-flair/"><u>Educational Entertainment with Latin Flair</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-defragmenter-not-activating-problems/"><u>Overcoming Windows Defragmenter Not Activating Problems</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/periscope-presentation-outline-width-height-time/"><u>Periscope Presentation Outline Width, Height, Time</u></a></li>
-<li><a href="https://win11.techidaily.com/reimagine-renaming-the-powerrename-experience/"><u>Reimagine Renaming: The PowerRename Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-error-code-0x80004004-on-windows-defender-a-guide/"><u>Solving Error Code 0X80004004 on Windows Defender: A Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-win-11s-wi-fi-settings/"><u>Streamlining Win 11'S Wi-Fi Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-blend-taskview-into-win-11-ui/"><u>Techniques to Blend TaskView Into Win 11 UI</u></a></li>
-<li><a href="https://win11.techidaily.com/the-transformative-power-of-microsofts-copilot-key-for-windows-11-users/"><u>The Transformative Power of Microsoft's Copilot Key for Windows 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-current-login-failed-window-error/"><u>Troubleshooting Current Login Failed Window Error</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-roblox-error-262-quickly/"><u>Troubleshooting Roblox Error 262 Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-mouse-gesture-controls-in-microsofts-edge-browser/"><u>Unlocking Mouse Gesture Controls in Microsoft's Edge Browser</u></a></li>
-<li><a href="https://techidaily.com/will-mov-files-play-on-galaxy-a14-4g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Galaxy A14 4G ?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-innovative-approaches-to-iptv-video-logging-for-2024/"><u>[New] Innovative Approaches to IPTV Video Logging for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-streamline-and-stand-out-twitters-video-directive/"><u>[New] Streamline and Stand Out Twitter's Video Directive</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-harmonizing-scores-with-cinematic-vision-in-film-trailers/"><u>[Updated] Harmonizing Scores with Cinematic Vision in Film Trailers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-tunefab-vs-competitors-screen-recorder-showdown/"><u>[Updated] In 2024, Tunefab vs Competitors Screen Recorder Showdown</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-your-windows-snipping-experience-with-proven-fixes/"><u>Enhancing Your Windows Snipping Experience with Proven Fixes.</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-index-settings-on-windows/"><u>Fine-Tuning Index Settings on Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-s23plus-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Itel S23+ to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-hot-30-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix Hot 30 5G Phones with/without a PC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-premium-top-10-screen-recorders-for-mac/"><u>In 2024, Premium Top 10 Screen Recorders for Mac</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-poco-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Poco Device</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-no-mistakes-top-10-windows-11-errors-to-evade/"><u>Navigating No Mistakes: Top 10 Windows 11 Errors to Evade</u></a></li>
+<li><a href="https://win11.techidaily.com/prime-time-deal-black-friday-612-endless-windows-10/"><u>Prime Time Deal: Black Friday - $6.12, Endless Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-failures-in-windows-defrag-process/"><u>Remedying Failures in Windows Defrag Process</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-adding-bespoke-pattern-loops-for-windows-pin/"><u>Step-by-Step: Adding Bespoke Pattern Loops for Windows PIN</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-guide-boost-your-pcs-speed-and-efficiency-with-yl-computing-tips/"><u>Ultimate Guide: Boost Your PC's Speed & Efficiency with YL Computing Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windows-11s-web-interface-controls/"><u>Unveiling Windows 11'S Web Interface Controls</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-beta-access-the-insider-program-guide/"><u>Windows 11'S Beta Access: The Insider Program Guide</u></a></li>
 </ul></div>
 

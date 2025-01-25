@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Workflow: PowerRename Feature"
-date: 2025-01-16T09:43:33.764Z
-updated: 2025-01-18T16:04:05.603Z
+date: 2025-01-20T23:19:29.141Z
+updated: 2025-01-24T20:01:32.002Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is PowerToys PowerRename?
 
  PowerRenamer is one of the "toys" in Microsoft's PowerToys collection and works as an excellent replacement for most full-blown third-party batch-renaming tools.
@@ -40,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
  If this sounds interesting, it's worth taking the time to learn more about PowerToys and what it can do. For instance,[how to do more with Windows 10 and 11 using PowerToys](https://www.makeuseof.com/tag/windows-10-powertoys/) works as a nice general overview of Microsoft's extra tools collection.
 
  You can also[find any color anywhere on your screen with PowerToys Color Picker](https://www.makeuseof.com/powertoys-color-picker-guide/) , or[bring one of Windows 11's best features to Windows 10 with PowerToys FancyZones](https://www.makeuseof.com/control-your-windows-and-organize-your-desktop-with-powertools-fancyzones/) , for better organizing multiple windows on your monitors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Install PowerToys & Enable PowerRename
 
@@ -54,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
  To use the Microsoft Store version, visit Windows' Start menu, search for the**Microsoft Store** , and launch it. Then, look for "powertoys" using the window's top search field.
 
 ![Microsoft Store Searching For PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microsoft-store-searching-for-powertoys.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When you find the**Microsoft PowerToys** entry, click on it to visit its page. There, click on**Install** on the left to bring PowerToys onboard.
 
@@ -102,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 
  You'll see a preview of the new filenames on the right of the affected files. If you're happy with the results, click Apply to perform the actual rename process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Filenames & Extensions
 
  By default, PowerRename will act on the actual name of each file, skipping its extension. There are cases where you might want to batch-rename extensions instead.
@@ -116,15 +108,23 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 
 ![PowerRename Changing File Extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-changing-file-extensions.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To do that, check the setting under**Apply to** , right below the "target string" field.
 
 ![PowerRename Apply To Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-apply-to-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From there, you can choose if PowerRename will affect only the selected files**Filenames** , their**Extensions** , or both**Filenames + Extensions** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Text Formatting
 
@@ -133,7 +133,7 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 ![PowerRename Text Formatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-text-formatting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The final icon, separated from the others and on the right, is the numbering toggle. Click on it, and PowerRename will add numbers inside parentheses to the filenames so that "filename.jpg" may become "filename (1).jpg".
@@ -150,10 +150,6 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 
 ![PowerRename Regex Any Three Characters From The Beginning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-regex-any-three-characters-from-the-beginning.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To use RegEx instead of "simple" string replacement, place a checkmark before**Use regular expressions** .
 
  Quite helpfully, PowerRenamer offers a "cheat sheet" with a few standard RegEx syntax examples. You can find it by clicking on the little**circular icon with the i** (for "information") inside, right next to the "source field".
@@ -161,6 +157,10 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 ![PowerRename Regex Help](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-regex-help.jpg)
 
  Still, that mini-guide is short, restricted, and only covers basic RegEx syntax. Find out more about RegEx in[our beginner's guide to Regular Expressions with Python](https://www.makeuseof.com/regular-expressions-python/) . However, note that there might be variations in Python RegEx syntax compared to PowerRename's implementation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Quick, Effortless, and Powerful File Organization With PowerRename
 
@@ -185,16 +185,17 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-step-by-step-guide-to-crafting-twitreacts/"><u>[Updated] In 2024, Step-by-Step Guide to Crafting TwitReacts</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-adjust-metric-tracking-features-for-a-wi-fi-network-in-windows-11/"><u>How to Adjust Metric Tracking Features for a Wi-Fi Network in Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-tecno-spark-10-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Tecno Spark 10 Pro to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-gt-10-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix GT 10 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/is-your-mouse-lagging-in-star-wars-battlefront-2-on-windows-try-these-8-fixes/"><u>Is Your Mouse Lagging in Star Wars Battlefront 2 on Windows? Try These 8 Fixes</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-system-check-ensuring-your-computer-meets-premiere-pros-requirements/"><u>New 2024 Approved System Check Ensuring Your Computer Meets Premiere Pros Requirements</u></a></li>
-<li><a href="https://win11.techidaily.com/security-essentials-pre-upgrade-activation-of-tpm-and-secure-boot/"><u>Security Essentials: Pre-Upgrade Activation of TPM & Secure Boot</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-a-stopped-netflix-window-program/"><u>Solutions for a Stopped Netflix Window Program</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-the-look-of-windows-11s-basic-text-editor/"><u>Transforming the Look of Windows 11'S Basic Text Editor</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1126213-9781609251703-your-guardian-angel-and-you/"><u>Your Guardian Angel and You | Free Book</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnets-complete-guide-to-the-april-2024-lunar-eclipse-tips-for-viewing-essential-gear-and-key-facts-you-should-be-aware-of/"><u>ZDNet's Complete Guide to the April 2024 Lunar Eclipse: Tips for Viewing, Essential Gear & Key Facts You Should Be Aware Of</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-fundamental-codex-for-online-video-communities/"><u>[New] In 2024, Fundamental Codex for Online Video Communities</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-detailed-breakdown-of-fbm-transcription-techniques/"><u>[New] The Detailed Breakdown of FBM Transcription Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlimited-choice-in-free-personalized-outro-sounds/"><u>[New] Unlimited Choice in Free, Personalized Outro Sounds</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-art-of-refining-published-videos-on-youtube/"><u>2024 Approved The Art of Refining Published Videos on YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-via-messages-a-guide-to-using-messenger-without-a-facebook-profile/"><u>Connecting via Messages: A Guide to Using Messenger without a Facebook Profile</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-microsoft-teams-video-glitch/"><u>Fix Microsoft Teams Video Glitch</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/insignia-printer-drivers-update-optimized-support-for-windows-7-10-and-11-download-now/"><u>Insignia Printer Drivers Update: Optimized Support for Windows 7, 10 & 11 – Download Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/no-number-no-problem-begin-your-journey-on-ai-chat-services-like-gpt-and-messaging-apps-today/"><u>No Number? No Problem! Begin Your Journey on AI Chat Services Like GPT and Messaging Apps Today</u></a></li>
+<li><a href="https://win11.techidaily.com/synching-your-way-to-digital-unity-android-plus-windows/"><u>Synching Your Way to Digital Unity: Android + Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/win10win11-restoring-write-access-to-corrupted-folders/"><u>Win10/Win11: Restoring Write Access to Corrupted Folders</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-updates-lead-to-laptop-gpu-functionality/"><u>Windows Updates Lead to Laptop GPU Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/winupdates-troubleshooting-guide-for-error-x80246007/"><u>WinUpdates Troubleshooting Guide for Error X80246007</u></a></li>
 </ul></div>
 

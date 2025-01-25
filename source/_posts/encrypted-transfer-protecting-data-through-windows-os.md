@@ -1,7 +1,7 @@
 ---
 title: "Encrypted Transfer: Protecting Data Through Windows OS"
-date: 2025-01-12T20:42:09.536Z
-updated: 2025-01-18T23:41:03.607Z
+date: 2025-01-21T23:00:04.888Z
+updated: 2025-01-25T02:55:53.276Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 5. Choose**Yes** when the warning message appears.  
 ![Hide a Drive Using Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-using-disk-management.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you complete the above steps, your drive will no longer appear in File Explorer.
 
 ## 2\. Hide a Drive in Windows With Diskpart Command
@@ -56,11 +52,19 @@ To hide a drive in Windows with Command Prompt, follow these steps:
 ![List of Drives in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/list-of-drives-in-command-prompt.jpg)
 5. Note down the letter of the drive you want to hide from the**Ltr** column.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Type the following command to select your drive. Make sure you replace**X** in the command with the drive letter noted in the last step.  
 `select volume X`
 7. Lastly, run the following command to remove the drive letter and hide the volume.  
 `remove letter X`  
 ![Hide a Drive Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-using-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should see a message that reads **Diskpart successfully removed the drive letter or mount point** . Following that, the drive will no longer appear on your PC.
 
@@ -83,7 +87,7 @@ Here's what you need to do:
 6. Select the**Enabled** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Under**Options** , select the drive you want to hide.
@@ -92,7 +96,7 @@ Here's what you need to do:
  Once you complete the above steps, Windows will hide the specified drive from File Explorer. If you want to unhide the drive later, use the same steps and set the**Hide these specified drives in My Computer policy** to**Not configured** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Hide a Drive in Windows via the Registry Editor
@@ -115,14 +119,10 @@ Here's what you need to do:
 9. Enter a number corresponding to the drive you want to hide in the**Value data** field and click**OK** . Refer to the table below to determine which number to use.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Drive Letter Refrence for Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-letter-refrence-for-registry-editor.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  For instance, if you were to hide the**E:** drive from your computer, you'd enter**16** in the Value data field.
 
@@ -151,24 +151,17 @@ Here's what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boosting-your-youtube-presence-key-tips-for-popularity/"><u>[Updated] In 2024, Boosting Your YouTube Presence Key Tips for Popularity</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unveiling-the-path-to-your-facebook-status-video-archive-for-2024/"><u>[Updated] Unveiling the Path to Your Facebook Status Video Archive for 2024</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/1-solving-downloads-folder-unresponsive-issues-proven-strategies/"><u>1. Solving 'Downloads Folder Unresponsive' Issues: Proven Strategies</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-tunefab-revolutionizing-the-art-of-video-capture/"><u>2024 Approved Tunefab Revolutionizing the Art of Video Capture</u></a></li>
-<li><a href="https://win11.techidaily.com/a-guide-to-essential-windows-saver-techniques/"><u>A Guide to Essential Windows Saver Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-and-correcting-window-based-roblox-error-403/"><u>Addressing and Correcting Window-Based Roblox Error 403</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-zeroxc000003e-problem-in-pc-application-startup/"><u>Addressing ZeroXc000003e Problem in PC Application Startup</u></a></li>
-<li><a href="https://win11.techidaily.com/automatic-program-management-in-windows-os/"><u>Automatic Program Management in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-accessibility-of-grandparents-pre-ultimate-pcs/"><u>Boosting Accessibility of Grandparents' Pre-Ultimate PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-wired-internet-overcoming-100mbps-limit-in-windows/"><u>Boosting Wired Internet: Overcoming 100Mbps Limit in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-your-pc-how-to-turn-on-hyper-v-in-win11/"><u>Boosting Your PC: How To Turn On Hyper-V in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/break-free-how-to-disable-the-pesky-epic-games-hub/"><u>Break Free: How to Disable the Pesky Epic Games Hub</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/capture-your-moments-seamless-recording-of-screens-cameras-and-sound-using-winxvideos-advanced-ai-technology/"><u>Capture Your Moments: Seamless Recording of Screens, Cameras, and Sound Using Winxvideo's Advanced AI Technology</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-killer-e2500-gigabit-nic-drivers-installed-now-free-downloads-available/"><u>Get Your Killer E2500 Gigabit NIC Drivers Installed Now - Free Downloads Available</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-maximize-your-anthropics-ai-experience/"><u>How to Maximize Your Anthropic's AI Experience</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Tecno Camon 20? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/maximizing-engagement-in-post-facebook-algorithm-world-for-2024/"><u>Maximizing Engagement in Post-Facebook Algorithm World for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/1719271419179-navigate-through-windows-woes-with-simple-fixes/"><u>Navigate Through Windows Woes with Simple Fixes!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-iphone-flashlight-issues-with-these-12-simple-fixes/"><u>Solve Your iPhone Flashlight Issues with These 12 Simple Fixes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-optimizing-images-with-ae-luts-step-by-step-for-2024/"><u>[New] Optimizing Images with AE LUTs Step-by-Step for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-step-by-step-guide-to-full-periscope-capabilities-for-2024/"><u>[New] Step-by-Step Guide to Full Periscope Capabilities for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-chromium-connection-pixel-phone-rhythms/"><u>[New] The Chromium Connection Pixel Phone Rhythms</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-visual-prodigies-top-4k-monitors-for-cutting-edge-work-for-2024/"><u>[New] Visual Prodigies Top 4K Monitors for Cutting-Edge Work for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-printer-software-model-1102w-downloader-for-pcs/"><u>HP Printer Software Model 1102W - Downloader for PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/illuminated-ideas-a-guide-to-organizing-notes-via-obsidian/"><u>Illuminated Ideas: A Guide to Organizing Notes via Obsidian</u></a></li>
+<li><a href="https://win11.techidaily.com/screen-splendor-series-designing-distinct-displays-on-win-1011-per-monitor/"><u>Screen Splendor Series: Designing Distinct Displays on WIN 10/11 Per Monitor</u></a></li>
+<li><a href="https://win11.techidaily.com/the-project-pro-essential-ms-project-keys-explained/"><u>The Project Pro: Essential MS Project Keys Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/the-roadmap-to-unblemished-wallpaper-clarity-in-w11/"><u>The Roadmap to Unblemished Wallpaper Clarity in W11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95774167-9781515415503-three-paths-to-god/"><u>Three Paths to God | Free Book</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-picks-the-most-advanced-online-mic-recorders-of-23-for-2024/"><u>Top Picks The Most Advanced Online Mic Recorders of '23 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/uncovering-game-files-three-windows-techniques/"><u>Uncovering Game Files: Three Windows Techniques</u></a></li>
 </ul></div>
 

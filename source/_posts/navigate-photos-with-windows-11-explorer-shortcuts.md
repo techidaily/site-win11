@@ -1,7 +1,7 @@
 ---
 title: Navigate Photos with Windows 11 Explorer Shortcuts
-date: 2025-01-13T06:33:40.148Z
-updated: 2025-01-18T20:36:41.846Z
+date: 2025-01-19T02:51:31.357Z
+updated: 2025-01-24T23:51:30.511Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the Gallery Feature in Windows File Explorer?
 
  File Explorer’s Gallery feature works exactly like it sounds. It categorically lists all the images on your system in a separate section, so you can find and view all the images in one tab. Android File Explorers have had this feature for quite a long, but Windows seems to care about it now.
@@ -41,12 +37,16 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 
  Repeat the following steps to enable the new Gallery section in File Explorer:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Update to the Appropriate Windows Insider Build
 
  The Gallery section is hidden in Insider builds 25300 and above. If you are a Windows Insider program participant, open and check for the latest Insider builds on your system. Make sure to be in the Dev or Canary channel because this experimental feature is exclusive to these channels only. Or, you can use[UUP Dump to download Windows Insider builds without participating in Microsoft’s Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Download ViVeTool
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 5. Now, type the following command and press the enter key:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 vivetool /enable /id:41040327
@@ -84,10 +84,6 @@ vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id
 ![Gallery in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gallery-in-windows-file-explorer.jpg)
 
  The gallery app allows you to adjust the view of the image tiles to accommodate more or less in a single window. You can use the View option in the menu bar of File Explorer to change the image tile size. If you click on any image, it will open in a separate app window (Photos app or any other app that you use).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add or Remove Locations From Gallery in Windows File Explorer
 
@@ -109,7 +105,7 @@ To remove a folder from Gallery, repeat the following steps:
 4. Lastly, click on the**OK** button to finalize the changes. The Gallery section won’t display any images from the excluded folder from now onwards.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Problems With the Gallery Section in Windows File Explorer
@@ -117,6 +113,10 @@ To remove a folder from Gallery, repeat the following steps:
  The current preview of the Gallery feature is far from perfect. Firstly, the section works well in finding and categorically listing all the images from the included folders. But the images, despite being big, appear hazy. What’s the point of including a section if the images aren’t visible clearly?
 
  There is also the issue of images opening in a separate tab rather than in the same File Explorer window. If you plan to open the image in another window, you can do it from the image folder as well. So, future builds should include an option to preview the image in the File Explorer window. Otherwise, you are opening two apps to achieve the same thing. The Gallery section cannot list any videos as well and just ignores all the video files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Find All Your Images in One Place on Windows With Galleries
 
@@ -137,18 +137,20 @@ To remove a folder from Gallery, repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-detailed-study-exploring-the-capabilities-of-android-lightroom/"><u>[New] 2024 Approved Detailed Study Exploring the Capabilities of Android Lightroom</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-innovative-tech-trends-leading-online-screen-capture-apps/"><u>[New] 2024 Approved Innovative Tech Trends Leading Online Screen Capture Apps</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-updated-sony-s3700-bd-review-2023/"><u>[New] 2024 Approved Updated Sony S3700 BD REVIEW 2023</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-compilation-top-5-android-platforms-for-ps2-gaming/"><u>[New] Compilation Top 5 Android Platforms for PS2 Gaming</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-enhancements-in-vegaspro-with-its-2019-release/"><u>[New] In 2024, The Enhancements in VegasPro with Its 2019 Release</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-highlight-trail-from-skatescape-2022/"><u>[New] The Ultimate Highlight Trail From Skatescape 2022</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-rapid-reach-videos-that-immediately-amass-views/"><u>[Updated] 2024 Approved Rapid Reach Videos that Immediately Amass Views</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-read-only-folders-without-compromise-in-windows/"><u>Correcting Read-Only Folders Without Compromise in Windows</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/how-to-resolve-my-scanner-error-code-for-smooth-operation-with-yl-software-assistance/"><u>How to Resolve My Scanner Error Code for Smooth Operation with YL Software Assistance</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-androids-top-gaming-app-kinemaster-unveiled/"><u>In 2024, Android's Top Gaming App KineMaster Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/resurrecting-your-pcs-dead-hub-a-windows-fix-guide/"><u>Resurrecting Your PC's Dead Hub: A Windows Fix Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-microsoft-offices-0x80041015-problematic-error/"><u>Solutions to Microsoft Office's 0X80041015 Problematic Error</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-game-access-issues-windows-and-xbox-edition/"><u>Tackling Game Access Issues - Windows and Xbox Edition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-customizing-youtube-viewing-policies-for-your-content/"><u>2024 Approved Customizing YouTube Viewing Policies for Your Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-how-to-utilize-snap-camera-effectively-for-real-time-collaboration-in-meet/"><u>2024 Approved How to Utilize Snap Camera Effectively for Real-Time Collaboration in Meet</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/echoes-of-files-past-navigating-windows-11-history/"><u>Echoes of Files Past: Navigating Windows 11 History</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhancing-nerf-creations-with-3d-tech-how-additive-manufacturing-is-shaping-a-new-era-for-enthusiasts/"><u>Enhancing Nerf Creations with 3D Tech: How Additive Manufacturing Is Shaping a New Era for Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-through-the-uninstalling-and-restoring-process-of-windows-apps/"><u>Guiding Through the Uninstalling & Restoring Process of Windows Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/hidden-actions-for-context-menus-on-windows-editions/"><u>Hidden Actions for Context Menus on Windows Editions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-on-azure-speech-transcription-services/"><u>In 2024, Step-by-Step on Azure Speech Transcription Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-apple-pay-usage-a-guide-for-in-store-and-e-commerce-transactions-expert-tips/"><u>Mastering Apple Pay Usage: A Guide for In-Store and E-Commerce Transactions - Expert Tips</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-your-windows-11-ui-master-end-task-options/"><u>Securing Your Windows 11 UI: Master End Task Options</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-accelerate-microsoft-edge-in-windows-10-and-11/"><u>Tips to Accelerate Microsoft Edge in Windows 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-windows-11-adding-the-jdk-efficiently/"><u>Unlock Windows 11: Adding the JDK Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-iphones-calendar-data-on-windows-10/"><u>Unlocking Your iPhone's Calendar Data on Windows 10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/win11s-top-5-no-cost-screen-recorders-updated-guide/"><u>Win11's Top 5 No-Cost Screen Recorders - Updated Guide</u></a></li>
 </ul></div>
 

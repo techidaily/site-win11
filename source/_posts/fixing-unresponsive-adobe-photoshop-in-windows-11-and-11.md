@@ -1,7 +1,7 @@
 ---
 title: Fixing Unresponsive Adobe Photoshop in Windows 11 & 11
-date: 2024-08-08T13:21:04.243Z
-updated: 2024-08-09T13:21:04.243Z
+date: 2025-01-23T05:57:16.744Z
+updated: 2025-01-24T21:49:14.858Z
 tags:
   - windows10
   - windows11
@@ -21,26 +21,25 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
  Either way, users can’t utilize Photoshop when it doesn’t open in Windows 10 or 110\. Are you among those users who need to kick-start Photoshop? If you are, try applying these potential fixes for Adobe Photoshop 2021-2023 not launching on Windows 10 and 11 PCs.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Run the Adobe Photoshop App as an Administrator
 
  Some Photoshop users have said running that app with admin rights fixed it not opening. To do that, you’ll either need to temporarily select Photoshop to run with admin rights or set the app to always run as administrator.
 
  You can permanently set admin rights for your Adobe Photoshop shortcut as instructed within our guide to [always running apps as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-this-program-as-administrator3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Start Photoshop Without Plugins
 
  Third-party plugins can generate Photoshop startup issues. If you utilize Photoshop with plugins, try disabling them. To do so, hold the **Shift** when you click to run Photoshop. Then select **Yes** to skip the loading of optional plugins.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Terminate Background Adobe Processes
 
  Sometimes Photoshop doesn’t start because of Adobe processes running in the background. Such processes need to be restarted for Photoshop to start. To remedy that, terminate background Adobe processes like this:
@@ -49,9 +48,11 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
 2. If Adobe Photoshop is within the **Apps** section of the **Processes** tab, right-click on it and select **End task**.  
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/end-task-context-menu-option.png)
 3. Then scroll down through the **Background processes** section to see if there are any Adobe Photoshop processes there.  
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Adobe Photoshop processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-processes.jpg)
 4. Select Adobe Photoshop background processes and click **End task** to terminate them. Disable all Photoshop processes you can find.
 
@@ -60,24 +61,18 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
  If controlled access is enabled on your PC, Photoshop might not be able to start because it can’t access certain protected folders. So, check if controlled folder access is on and disable it as follows:
 
 1. Double-click on the Windows Security shield icon inside the system tray area of the taskbar. If you can’t see it, click the small **Show hidden icons** arrow.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Windows Security icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-security-icon.jpg)
 2. Select the **Virus & threat** (shield) tab on Windows Security’s sidebar.
 3. Next, click **Manage ransomware protection** to reach Windows Security’s Controlled folder access setting.  
 ![The Manage ransomware protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-ransomware-option.jpg)
 4. Click the switch for the **Controlled folder access** option to disable that setting if it’s turned on.  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![The Controlled Folder Access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/controlled-folder-access-option.jpg)
 5. Then try launching Adobe Photoshop with controlled folder access disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Disable Your PC’s Display Adapter
 
  This is a slightly strange fix that has worked for many users. That highlights graphics card driver incompatibility can cause Photoshop startup issues. You can disable your PC’s graphics card as follows:
@@ -88,6 +83,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 4. Right-click your graphics adapter to select **Disable device**.  
 ![The Disable device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-device-option.jpg)
 5. Select **Yes** to disable the device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Launch Photoshop with the graphics adapter disabled.
 
  You can always re-enable the graphics adapter when you’re not utilizing Photoshop. To do so, right-click your graphics card in Device Manager and select Enable device.
@@ -98,15 +98,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 1. To [start the Run app](https://www.makeuseof.com/windows-open-run-command-dialog-box/), press **Win + R**.
 2. Then type **%AppData%** into Run and press **Enter** to open a Roaming directory.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Roaming subfolder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-roaming-subfolder.jpg)
 3. Open the Adobe > Photoshop subfolders from the Roaming directory.
 4. Right-click the CT Font Cache subfolder and select **Delete** (the trash can on Windows 11's context menu).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-delete-option4.jpg)
 5. Double-click the Recycle Bin desktop shortcut and select **Empty Recycle Bin**.
 
@@ -118,13 +112,15 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  When you’ve uninstalled Photoshop, restart your PC. Then open the Adobe Creative Cloud app. Install Adobe Photoshop from the Creative Cloud app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Edit Your Images in Adobe Photoshop Again
 
  The potential resolutions covered in this guide are widely confirmed to fix Adobe Photoshop not opening on Windows 11/10\. That doesn’t mean they will fix all cases of Photoshop not opening, but one of them will probably kick-start that image editor on your PC. Then you can get back to editing your photographs with the best image editor in the world.
 
  Either way, users can’t utilize Photoshop when it doesn’t open in Windows 10 or 110\. Are you among those users who need to kick-start Photoshop? If you are, try applying these potential fixes for Adobe Photoshop 2021-2023 not launching on Windows 10 and 11 PCs.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -132,3 +128,27 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-innovative-ideas-for-snapad-success-in-business/"><u>[Updated] 2024 Approved Innovative Ideas for SnapAd Success in Business</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-exclusive-charger-kits-for-gopro-hero5-official-and-alternative-models/"><u>[Updated] Exclusive Charger Kits for GoPro Hero5 – Official & Alternative Models</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-transform-concepts-to-successful-youtube-titles/"><u>[Updated] In 2024, Transform Concepts to Successful YouTube Titles</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-ai-and-windows-with-vivetool-steps/"><u>Bridging AI and Windows with ViveTool Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-common-steam-connectivity-issues/"><u>Bypassing Common Steam Connectivity Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-initial-load-issues-in-lotr-lol-game/"><u>Bypassing Initial Load Issues in LOTR (LOL) Game</u></a></li>
+<li><a href="https://win11.techidaily.com/capture-your-gameplay-utilizing-windows-and-intel-graphics-tools/"><u>Capture Your Gameplay: Utilizing Windows & Intel Graphics Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/classic-computers-for-a-modern-world-running-windows-11-through-to-go-and-rufus/"><u>Classic Computers for a Modern World: Running Windows 11 Through To Go and Rufus</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-access-issues-fixing-files-not-displayed-on-windows-pc/"><u>Clearing Up Access Issues: Fixing Files Not Displayed on Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-windows-1011-xbox-game-pass-connection-glitch/"><u>Clearing Windows 10/11: Xbox Game Pass Connection Glitch</u></a></li>
+<li><a href="https://win11.techidaily.com/clone-without-cutting-corners-windows-edition/"><u>Clone Without Cutting Corners: Windows Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/cmd-magic-show-unraveling-5-mesmerizing-maneuvers/"><u>CMD Magic Show: Unraveling 5 Mesmerizing Maneuvers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-instructions-to-upgrade-epson-xp-310-printer-drivers/"><u>Easy Instructions to Upgrade Epson XP 310 Printer Drivers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/expert-analysis-top-10-sports-streaming-tools-for-soccer-enthusiasts/"><u>Expert Analysis Top 10 Sports Streaming Tools for Soccer Enthusiasts</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-upgrade-your-video-playback-activating-av1-on-youtube/"><u>In 2024, Upgrade Your Video Playback Activating AV1 on YouTube</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-honor-90-pro-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Honor 90 Pro Phone Network-Ready</u></a></li>
+<li><a href="https://common-error.techidaily.com/successful-troubleshooting-fixing-kb4056892-installation-issues-on-windows-11/"><u>Successful Troubleshooting: Fixing KB4056892 Installation Issues on Windows 11</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1728493197133-windows-10windows-11/"><u>Windows 10でのWindows 11への無償アップグレード手順</u></a></li>
+</ul></div>
+

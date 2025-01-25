@@ -1,7 +1,7 @@
 ---
 title: Why Keeping Track With Wins 11 Alerts Matters
-date: 2025-01-14T09:51:58.810Z
-updated: 2025-01-18T18:09:16.240Z
+date: 2025-01-20T04:15:00.969Z
+updated: 2025-01-24T17:11:22.804Z
 tags:
   - windows10
   - windows11
@@ -25,12 +25,16 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Notifications Help You Stay Informed About the Latest News, Emails, Messages, and More
 
 ![Windows 11 Desktop on an Ultrawide Monitor With App Tray, System Status, and Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-11-desktop-on-an-ultrawide-monitor-with-app-tray-system-status-and-notifications.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We often underestimate the importance of notifications in keeping us updated about the latest news, emails, messages, and much more. We get an idea about who sent a message without bothering to open the app. Notifications also brief you about what might be causing problems in your system.
@@ -40,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
  To turn on Notifications, open the Settings app, click **Notifications,** and then enable the **Notifications** toggle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. You Can Perform Quick Actions Without Opening the App
@@ -59,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 
  Imagine a situation where you keep opening an app to stay updated with everything latest. It will be even worse if the app provides you with news — you will have to open it every time you want to check for what's happening. So, you are better off with Notifications enabled on your Windows 11 PC, as they save you time and keep you organized.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. You Can Control Which Apps Can Send You Notifications
 
 ![Disable the Toggle Next to Specific Apps in the Notifications From Apps and Other Senders Section in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-the-toggle-next-to-specific-apps-in-the-notifications-from-apps-and-other-senders-section-in-windows-settings-app.jpg)
@@ -75,15 +75,15 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 
 ![Snipping-tool-notification-in-Windows-11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-08-111356.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Windows 11 has a handy keyboard shortcut for taking screenshots on your PC. You can press the **Win key** \+ **Shift** \+ **S** on your keyboard to launch the Snipping tool and capture a window, the entire screen, or a portion of the screen.
 
  However, if you turn off the Notifications from the Settings app, you wouldn't know if the screenshot was captured. You will need to open the Snipping Tool app to check out and save the screenshot. This can be a massive pain point if you take screenshots regularly. Y
 
  ou can avoid all of this and get notified when a screenshot is captured and get an option to save it from the notification itself. It is also important to note that you may not be able to take screenshots with Notifications turned on. If that is the case, you can [fix the Snipping Tool not working on Windows 11](https://www.makeuseof.com/windows-11-fix-snipping-tool-not-working/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Notifications Can Help You Stay Secure in Windows 11
 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
  To ensure your PC is less vulnerable to malware and other threats, you should learn [how to beef up Windows 11 security](https://www.makeuseof.com/windows-11-improve-security/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make Windows 11's Notifications a Help, Not a Hinder
@@ -113,24 +113,18 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-stream-video-freely-on-any-os-no-cost-video-player/"><u>[New] Stream Video Freely on Any OS No-Cost VIDEO Player</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-swiftly-adjust-video-speeds-a-users-guide-to-youtube-features/"><u>2024 Approved Swiftly Adjust Video Speeds A User's Guide to YouTube Features</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-realme-gt-neo-5-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Realme GT Neo 5 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/algorithmic-love-scams-exposed/"><u>Algorithmic Love Scams Exposed</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-and-dismantling-a-blocked-update/"><u>Deciphering and Dismantling a Blocked Update</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-function-key-modifications-in-windows-1011/"><u>Effortless Function Key Modifications in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-blank-spaces-in-windows-explorer/"><u>Eliminating Blank Spaces in Windows Explorer</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/evaluating-a-64gb-drive-writable-by-videos/"><u>Evaluating a 64GB Drive' Writable by Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-link-laptop-and-tv-using-hdmi-an-easy-to-follow-manual/"><u>How To Seamlessly Link Laptop and TV Using HDMI - An Easy-To-Follow Manual</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-the-era-of-traditional-student-writing-over-with-chatgpts-rise/"><u>Is the Era of Traditional Student Writing Over with ChatGPT's Rise?</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-glass-idleness-techniques-guide/"><u>Mastering Windows Glass Idleness Techniques Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/meilleur-transcodificateur-de-videos-en-h265hevc-pour-windows-11-et-macos-comparatif-des-encodeurs/"><u>Meilleur Transcodificateur De Vidéos en H.265/HEVC Pour Windows 11 Et macOS - Comparatif Des Encodeurs</u></a></li>
-<li><a href="https://win11.techidaily.com/precision-steps-restoring-your-windows-11-search-efficiency/"><u>Precision Steps: Restoring Your Window's 11 Search Efficiency</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-device-unreachable-errors/"><u>Resolving Windows Device Unreachable Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-your-gameplay-preventing-minecraft-freezes/"><u>Secure Your Gameplay: Preventing Minecraft Freezes</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-not-empty-directory-problem-in-windows-os/"><u>Steps to Overcome Not Empty Directory Problem in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-fixing-failed-onedrive-cloud-sync/"><u>Strategies for Fixing Failed OneDrive Cloud Sync</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-process-of-android-video-u-turns-for-2024/"><u>The Process of Android Video U-Turns for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-detecting-my-follower-flight-on-insta/"><u>[New] In 2024, Detecting My Follower Flight on Insta</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-movavi-video-editor-plus-2024-review/"><u>[New] Movavi Video Editor Plus 2024 Review</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ffline-replay-select-playlist-extractors-reviewed-for-2024/"><u>[New] Offline Replay Select Playlist Extractors Reviewed for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-achieving-broadcast-excellence-from-recordings-to-livestreams-on-obs/"><u>[Updated] 2024 Approved Achieving Broadcast Excellence From Recordings to Livestreams on OBS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-eight-video-recording-apps-reviewed/"><u>[Updated] 2024 Approved Top Eight Video Recording Apps Reviewed</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/how-to-say-hello-in-different-languages/"><u>How To Say Hello In Different Languages</u></a></li>
+<li><a href="https://win11.techidaily.com/making-oculus-quest-compatible-with-windows-vr-systems/"><u>Making Oculus Quest Compatible with Windows VR Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-the-maze-of-blue-screen-errors/"><u>Navigating Through the Maze of Blue Screen Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/reconciling-microphone-and-xbox-app-on-1011-pcs/"><u>Reconciling Microphone and Xbox App on 10/11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-list-of-non-procreate-sketchers-for-pc-users/"><u>The Ultimate List of Non-Procreate Sketchers for PC Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-12-best-tycoon-games-to-kill-time-for-2024/"><u>Top 12 Best Tycoon Games to Kill Time for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-enigma-of-windows-security-errors/"><u>Unraveling the Enigma of Windows Security Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-efficiency-pro-tips-for-scanning-qr-codes-via-windows/"><u>Unveiling Efficiency: Pro Tips for Scanning QR Codes via Windows</u></a></li>
 </ul></div>
 

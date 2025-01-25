@@ -1,7 +1,7 @@
 ---
 title: Overcoming Disk Read/Write Errors in Win11
-date: 2025-01-18T08:34:46.833Z
-updated: 2025-01-18T18:55:48.693Z
+date: 2025-01-18T16:39:22.758Z
+updated: 2025-01-24T18:55:28.304Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the SFC and DISM Command Line Tools
@@ -49,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk.jpg)
 5. Exit the Command Prompt window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**Start > Power** to select**Restart** . The CHKDSK scan will start after the restart.
 
 ## 3\. Run the Windows Store App Troubleshooter
@@ -67,10 +63,18 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 5. Apply any suggestions the troubleshooter provides.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-app-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Check That the Windows License Manager Service Is Running
 
@@ -85,12 +89,12 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![The Windows License Manager server window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-license-service-manager.jpg)
 5. If the service isn’t running, press**Start** within the properties window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Select**Apply** to save settings for the Windows License Manager Service.
 7. Click**OK** to close the Windows License Manager Service Properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall Any Affected App
 
@@ -103,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
  When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Set Up a New Local User Account on Windows
@@ -123,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-window.jpg)
 
  However, restoring Windows to a previous time removes software not installed on the restoration point’s date. So, it’s likely you’ll have to reinstall some apps after rolling back Windows. Clicking**Scan for affected programs** in System Restore provides an overview of software that will be removed for a restore point.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Reset Windows
 
@@ -153,16 +153,17 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-quickflips-how-tweets-jumpstart-video-fame-for-2024/"><u>[New] QuickFlips How Tweets Jumpstart Video Fame for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-enhancing-webcam-video-quality-on-macbook/"><u>[Updated] In 2024, Enhancing Webcam Video Quality on MacBook</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-linksys-wrt1900acs-an-open-source-router-analysis/"><u>Comprehensive Evaluation of the Linksys WRT1900ACS - An Open Source Router Analysis</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-visuals-in-ae-selecting-excellent-plugin-choices-for-2024/"><u>Crafting Visuals in AE Selecting Excellent Plugin Choices for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-xfffeeee-error-on-your-office-printer/"><u>Eliminating XFFFEEEE Error on Your Office Printer</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/express-your-gratitude-essential-phrases-for-travelers/"><u>Express Your Gratitude: Essential Phrases for Travelers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-iphone-13-mini-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From iPhone 13 mini Online</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-find-x6-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo Find X6 Pro Device</u></a></li>
-<li><a href="https://win11.techidaily.com/optimal-pomodoro-strategies-best-windows-timer-selections/"><u>Optimal Pomodoro Strategies - Best Windows Timer Selections</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-vscode-errors-in-latest-windows-update/"><u>Preventing VSCode Errors in Latest Windows Update</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-address-the-application-was-unable-to-start-xc000003e-on-win11-and-11/"><u>Strategies to Address The Application Was Unable to Start Xc000003e on Win11 & 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/outube-profitability-blueprint-determining-key-view-counts-for-2024/"><u>[New] YouTube Profitability Blueprint Determining Key View Counts for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-a-successful-mukbang-video-journey/"><u>[Updated] In 2024, Crafting a Successful Mukbang Video Journey</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-reloading-the-dead-ranking-eminent-zombie-games/"><u>2024 Approved Reloading the Dead Ranking Eminent Zombie Games</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-stepwise-approach-for-professional-screen-recordings-in-adobe-captive/"><u>2024 Approved Stepwise Approach for Professional Screen Recordings in Adobe Captive</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/checking-the-current-status-of-xbox-live-servers-is-everything-running-smoothly/"><u>Checking the Current Status of Xbox Live Servers: Is Everything Running Smoothly?</u></a></li>
+<li><a href="https://win11.techidaily.com/decode-delay-quick-fixes-for-overcoming-windows-setup-stalls/"><u>Decode Delay: Quick Fixes for Overcoming Windows Setup Stalls</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortlessly-switch-between-formats-top-methods-for-mp4-to-m4v-conversion-on-pc-and-mac-no-cost-involved/"><u>Effortlessly Switch Between Formats: Top Methods for MP4 to M4V Conversion on PC and MAC - No Cost Involved</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/get-free-kid-friendly-song-downloads-from-youtube-easily/"><u>Get Free Kid-Friendly Song Downloads From YouTube Easily</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-m34-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy M34 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reconnect-and-revive-windows-11-bt-audio-devices/"><u>Reconnect and Revive Windows 11 BT Audio Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-prevent-taskbar-hiding-on-max-display/"><u>Strategies to Prevent Taskbar Hiding on Max Display</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-an-applications-path-in-windows-marketplace/"><u>Unblocking an Application's Path in Windows Marketplace</u></a></li>
 </ul></div>
 

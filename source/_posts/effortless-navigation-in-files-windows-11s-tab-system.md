@@ -1,7 +1,7 @@
 ---
 title: "Effortless Navigation in Files: Windows 11'S Tab System"
-date: 2024-08-08T13:20:33.711Z
-updated: 2024-08-09T13:20:33.711Z
+date: 2025-01-24T01:57:27.209Z
+updated: 2025-01-25T02:31:20.556Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 
  This feature is available in many browsers, but Microsoft took notice and is now testing the file drag feature in Windows 11 Insider builds. Here’s how to enable the feature on your system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Dragging File Explorer Tabs Out Really That Useful?
 
  If you recall your experience with using a web browser, you know that using a split screen has its advantages. If you want to stack two tabs side by side, you can just open two browser tabs, drag one out, and use snap layouts to arrange them. It is very easy to drag out a tab in a browser, but that feature is missing in the current version of File Explorer.
@@ -35,17 +39,15 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
  This feature is exclusive to Windows 11 Insider builds and is in the testing phase. So, you will have to download and install the build version 25290 and then use the ViveTool to enable the feature.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Update to the Latest Insider Build
 
  To update to the latest insider build, head over to the Settings page and[check for Windows updates](https://www.makeuseof.com/tag/update-windows-software-guide/) . After that, install the latest 25920 build or newer on your system. You will have to restart your system for the changes to take effect.
 
  If you haven’t enrolled in the Windows Insider program and still want to try out this new feature, take the help of UUP Dump. You can easily[download the latest Windows Insider builds using UUP Dump](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) . Install the build and then proceed to the next step.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### 2\. Enable the Feature Using ViveTool
 
  Now, you have the Insider build running on your system. You will have to use the ViveTool to enable the hidden experimental feature to drag tabs out of the File Explorer. But first,[download ViveTool from GitHub](https://github.com/thebookisclosed/ViVe/releases) and install the ViveTool on your system. After that, repeat the following steps:
@@ -55,22 +57,22 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 3. Now, locate the ViveTool directory using the**cd** command. We placed the ViveTool in a folder named Vive on C drive, So the command to change to that directory will be**cd\\** .
 4. Once you are in the C directory, type**cd Vive** and press the**Enter** key.
 5. After that, type**vivetool /enable /id:39661369** command and press the**Enter** key.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Enabling Tabs Dragging Feature In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enabling-tabs-dragging-feature-in-file-explorer.jpg)
 6. **Exit** the command prompt window after the ViveTool command executes successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Restart your system to apply the changes.
 8. Log into Windows and press**Win + E** to launch File Explorer. Now, open two tabs and click and hold on any of the open tabs.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Tabs Dragging Feature in Action in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tabs-dragging-feature-in-action-in-file-explorer.jpg)
 9. Try to drag the tabs out of File Explorer. It will open in a second window. You can stack them on each side if you like.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can You Restore the Tab to the File Explorer Window?
 
  Yes, you can indeed restore the dragged tab back to a File Explorer window. But the process is very clunky. You have to drag and hold the tab onto another open tab in a different File Explorer window.
@@ -78,29 +80,18 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
  If you aren’t able to accurately position the tab, it will not merge with the File Explorer tab bar. In Chrome browser, dragging out and restoring them to the same window is pretty easy. You can even hover the tab and position it between two open tabs.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Drag Tabs Out Like a Pro in File Explorer
 
  Microsoft is trying to make File Explorer more useful. But we cannot expect File Explorer to exactly work like a browser. After, it happens to be a means to access different types of files and open them with a compatible app or program in a new window. Still, dragging tabs out is a slick feature, and we hope Microsoft fixes the kinks and adds it in future updates.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,4 +100,24 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/xpert-tips-for-streamlining-youtube-audio-into-imovie-for-2024/"><u>[New] Expert Tips for Streamlining YouTube Audio Into iMovie for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-final-thoughts-in-journalistic-styling/"><u>[Updated] 2024 Approved Final Thoughts in Journalistic Styling</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-mastering-video-acquisition-top-10-vimeo-downloader-software/"><u>[Updated] In 2024, Mastering Video Acquisition Top 10 Vimeo Downloader Software</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-through-windows-block-essential-5-step-solutions/"><u>Breaking Through Windows Block: Essential 5-Step Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/breathe-life-back-into-your-windows-11-media-player/"><u>Breathe Life Back Into Your Windows 11 Media Player</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-languages-font-downloads-for-windows-enthusiasts/"><u>Bridging Languages: Font Downloads for Windows Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-the-mandatory-component-fault-windows-1011/"><u>Bypassing the Mandatory Component Fault Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/cease-unwanted-windows-update-restarts/"><u>Cease Unwanted Windows Update Restarts</u></a></li>
+<li><a href="https://win11.techidaily.com/chronicles-unveiled-diving-into-windows-11-history/"><u>Chronicles Unveiled: Diving Into Windows 11 History</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-chatgpts-overloaded-windows-alert/"><u>Clearing ChatGPT's Overloaded Windows Alert</u></a></li>
+<li><a href="https://win11.techidaily.com/clockwise-controls-6-image-rotation-strategies-for-w11-phones/"><u>Clockwise Controls: 6 Image Rotation Strategies for W11 Phones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-psd-shadow-play/"><u>Expert PSD Shadow Play</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-vivo-s18e-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo S18e Face Lock?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/l-giga-viewers-worlds-favorite-youtube-stars-for-2024/"><u>Global Giga-Viewers World's Favorite YouTube Stars for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-facile-pour-gerer-et-reparer-la-compatibilite-hevc-sous-les-systemes-dexploitation-windows-varies/"><u>Guide Facile Pour Gérer Et Réparer La Compatibilité HEVC Sous Les Systèmes D'Exploitation Windows Variés</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-monetizing-your-blog-utilizing-buyselladscom-platforms/"><u>The Ultimate Guide to Monetizing Your Blog: Utilizing BuySellAds.com Platforms</u></a></li>
+</ul></div>
 

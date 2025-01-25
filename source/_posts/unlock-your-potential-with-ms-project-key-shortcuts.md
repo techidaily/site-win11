@@ -1,7 +1,7 @@
 ---
 title: Unlock Your Potential with MS Project Key Shortcuts
-date: 2025-01-17T22:34:16.697Z
-updated: 2025-01-18T21:03:01.181Z
+date: 2025-01-21T06:19:23.005Z
+updated: 2025-01-25T10:06:02.615Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
  Here are some shortcuts that you may need frequently to use in Microsoft Project:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Open a Project File
 
 **Ctrl + O:** It is important to keep track of all projects that are being worked.
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
 **Ctrl + S:** It is essential to save all changes made to a project often as it helps to keep track of and prevent data loss.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Create a Task
 
 **Ctrl + T:** This will open up a new task window and allow you to enter the necessary information for their project.
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 ### 4\. Close the Program Window
 
 **Alt + F4:** This will instantly close the Microsoft Project window and end the current session.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Open a New Window
 
@@ -58,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 **Alt + Spacebar:** This will open up the project control menu, which can be used to manage the various aspects of a project.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Show Task Information
@@ -69,43 +73,35 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
 **Ctrl + F** **:** This will enable or disable the auto-calculate feature, which automatically updates any changes made to a project.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 10\. Clear or Reset the Selected Field
 
 **Ctrl + Del:** This will clear any data that is currently entered in the selected field and reset it to its default value.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 11\. Copy the Selected Data
 
 **Ctrl + C:** This will automatically copy the data that is currently selected and allow it to be pasted into any other location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 12\. Cut the Selected Data
 
 **Ctrl + X:** This will remove the data from its current location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 13\. Set the Task to Auto Schedule
 
 **Ctrl + Shift + Alt:** This will enable the auto-schedule feature for any selected tasks, which automatically updates the schedule based on any changes that are made.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 14\. Set the Task To Manually Schedule
 
 **Ctrl + Alt + M:** This will enable the manual schedule feature for any selected tasks, which requires users to manually update the schedule.
 
  If you like using your keyboard to get around your productivity suite, check out[what KeyTips in Microsoft Office are and what they do](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Overview of All the Microsoft Project Shortcuts
 
@@ -209,6 +205,10 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 | Extend the selection to the start of the text        | Shift + Home                  |
 | Turn on or off Overtype mode                         | Insert                        |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get the Most Out of Microsoft Project
 
  Here you will find a comprehensive overview of the most common Project keyboard shortcuts to help you get more done. These shortcuts can help you save time while using Microsoft Project and focus on the relevant tasks at hand.
@@ -228,20 +228,24 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-groundbreaking-photo-editor-photonshift-tech/"><u>[New] Groundbreaking Photo Editor PhotonShift Tech</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-7-epic-strategy-battles-unveiling-ultimate-total-wars/"><u>[Updated] 2024 Approved Top 7 Epic Strategy Battles Unveiling Ultimate Total Wars</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-discovering-perfection-an-in-depth-look-at-lgs-4k-screen/"><u>[Updated] In 2024, Discovering Perfection An In-Depth Look at LG's 4K Screen</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-illuminate-your-videos-with-17-lighting-hacks/"><u>2024 Approved Illuminate Your Videos with #17 Lighting Hacks</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-editing-the-win11-list-of-premier-video-scripts/"><u>Elevate Editing: The Win11 List of Premier Video Scripts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/enhancing-video-engagement-with-correctly-uploaded-srt-files/"><u>Enhancing Video Engagement with Correctly Uploaded SRT Files</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-art-of-fixing-black-screens-and-blank-cursors-on-win11/"><u>Master the Art of Fixing Black Screens & Blank Cursors on Win11</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-fix-when-your-witcher-3-wild-hunt-game-wont-start/"><u>Mastering the Fix: When Your Witcher 3: Wild Hunt Game Won't Start</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-safaris-picture-in-picture-for-mobiledesktop-for-2024/"><u>Navigating Safari’s Picture in Picture for Mobile/Desktop for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-failed-office-activation-setbacks/"><u>Navigating Through Failed Office Activation Setbacks</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-process-unterminate-obstacles-in-windows/"><u>Overcoming 'Process Unterminate' Obstacles in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-11s-camera-app-glitch-afc-error/"><u>Resolving Windows 11'S Camera App Glitch: AFC Error</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-surge-troubleshoot-for-a-swift-windows-11/"><u>Speedy Surge: Troubleshoot for a Swift Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722998514311-troubleshooting-tips-stop-left-amo-2-from-frequent-crashes-and-enjoy-uninterrupted-gaming/"><u>Troubleshooting Tips: Stop Left Amo 2 From Frequent Crashes & Enjoy Uninterrupted Gaming</u></a></li>
-<li><a href="https://win11.techidaily.com/unshackle-resuming-windows-shared-space-visit/"><u>Unshackle: Resuming Windows Shared Space Visit</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-getting-the-most-out-of-your-youtube-videos-thumbnails-extraction/"><u>[New] 2024 Approved Getting the Most Out of Your Youtube Videos Thumbnails Extraction</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-visual-mastery-redefined-the-z32x-dreamcolor-edition-for-2024/"><u>[New] Visual Mastery Redefined The Z32X DreamColor Edition for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-typing-precision-in-windows-11-sidestep-key-lag-pitfalls/"><u>Enhance Typing Precision in Windows 11: Sidestep Key Lag Pitfalls</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-privilege-access-denial-error-error-0x80070522-on-modern-windows-pcs/"><u>Fixing Privilege Access Denial Error (Error 0X80070522) on Modern Windows PCs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-realme-gt-neo-5-se-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Realme GT Neo 5 SE FRP Without Computer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-motorola-g24-power-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Motorola G24 Power FRP Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/maintaining-windows-volume-control-configuration/"><u>Maintaining Windows Volume Control Configuration</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-file-attributes-on-windows-a-practical-guide/"><u>Mastering File Attributes on Windows: A Practical Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-motion-graphics-with-funimate-in-depth-analysis-for-top-notch-video-production-techniques/"><u>Mastering Motion Graphics with Funimate: In-Depth Analysis for Top-Notch Video Production Techniques</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-mastering-video-editing-on-mac-a-step-by-step-guide-for-yosemite-users/"><u>New 2024 Approved Mastering Video Editing on Mac A Step-by-Step Guide for Yosemite Users</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-naming-schemes-for-windows-files-max-156/"><u>Pro Naming Schemes for Windows Files (Max 156)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-realme-c67-4g-by-fonelab-android-recover-data/"><u>Recover lost data from Realme C67 4G</u></a></li>
+<li><a href="https://win11.techidaily.com/the-conquerors-guide-taking-back-control-over-windows-11-themes/"><u>The Conquerors Guide: Taking Back Control over Windows 11 Themes</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-solving-virtualbox-usb-attachment-failures/"><u>Understanding and Solving VirtualBox USB Attachment Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/unpacking-the-mystery-fixing-missing-updates-on-windows-os-code-0x80070003/"><u>Unpacking the Mystery: Fixing Missing Updates on Windows OS (Code: 0X80070003)</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-elevate-audio-output-simple-gratis-methods-to-increase-volume-on-windows/"><u>Updated In 2024, Elevate Audio Output Simple, Gratis Methods to Increase Volume on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-and-11-a-comprehensive-directdraw-troubleshooting-manual/"><u>Win11 & 11: A Comprehensive DirectDraw Troubleshooting Manual</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigate Your Files Like a Pro with Win 11’S Auto-Transfer
-date: 2025-01-12T04:28:54.181Z
-updated: 2025-01-19T00:34:23.353Z
+date: 2025-01-22T07:47:42.583Z
+updated: 2025-01-24T20:53:13.832Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Place Selected Files Into a New Folder With Files 2 Folder
 
  Files 2 Folder is little more than a shell extension that adds a new option to Windows 11’s classic context menu. Selecting **Files 2 Folder** on the context menu brings up a window with four options for moving the selected files into a new directory.
@@ -37,24 +41,28 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 ![The register shell extension prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/register-shell-extension-prompt.jpg)
 4. Now bring up a directory that includes some files with which to create a new folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select files to include in your new folder.
 6. Then right-click a selected file and select **Show more options** and **Files 2 Folder** on the classic context menu.  
 ![The Files 2 Folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/files-2-folder-option.jpg)
 7. Input a folder name within the text for the **Move all selected items into a subfolder named** option.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Files 2 Folders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/files2folder-window.jpg)
 8. Click **OK** to create the new folder with the files selected moved into it. The new folder will be in the directory where you selected the files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also select one of three alternative folder creation options within the Files 2 Folder window. The **Move each file to individual subfolders based on their names** option does what its label says. Or create a dated directory by selecting **Move all selected files to a date folder**.
 
  If you need to organize selected files according to format, select **Move each file to subfolders based on their file extensions**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Place Selected Files Into a New Folder With TeraCopy
@@ -70,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 ![The Teracopy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/teracopy-window.jpg)
 5. Make sure the **Add to Explorer context menu** option is selected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click **OK** to exit the preferences and close the TeraCopy window.  
 ![The Add to Explorer context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-to-explorer-context-menu.jpg)
 
@@ -84,16 +88,12 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 ![The New folder with selection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-folder-with-selection-option.jpg)
 3. Then input a title for your new folder and press **Enter**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. The new folder is created as a subfolder within the directory that included your original file selection. Open the new folder to view and access the files you selected to move into it.
 
  TeraCopy also provides us with another way to move more files into your new folder. To do so, select **Menu** \> **Add files** in the TeraCopy window. Select the files you want to move and click **Open**. Then click **Move** \> **Browse** to choose the directory and press the **Select Folder** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Add a Handy New Folder Creation Option to Windows 11’s Context Menu
@@ -112,20 +112,15 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-dynamic-duo-shots-perfecting-youtube-video-splitting-for-2024/"><u>[Updated] Dynamic Duo Shots Perfecting YouTube Video Splitting for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-plunge-into-the-magic-9-premium-full-length-christmas-movies-for-free/"><u>[Updated] In 2024, Plunge Into the Magic 9 Premium Full-Length Christmas Movies for Free</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-quick-realignment-youtube-on-mac-display-ratio/"><u>[Updated] Quick Realignment YouTube on Mac Display Ratio</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-recommendation-best-websites-to-download-funny-ringtones/"><u>2024 Approved Recommendation Best Websites to Download Funny Ringtones</u></a></li>
-<li><a href="https://win11.techidaily.com/creating-a-win-11-boot-drive-essential-tips-for-3-techniques/"><u>Creating a Win 11 Boot Drive – Essential Tips for 3 Techniques</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723262305495-discover-a-steal-amds-ryzen-5-7600x-now-for-under-180-on-newegg-shop-now/"><u>Discover a Steal: AMD's Ryzen 5 7600X Now for Under $180 on Newegg - Shop Now</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-shared-connectivity-options-google-versus-windows/"><u>Exploring Shared Connectivity Options: Google Versus Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/handling-normalizdll-absence-effective-techniques-for-restoration-and-recovery/"><u>Handling Normaliz.dll Absence: Effective Techniques for Restoration and Recovery</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixed-overcoming-application-crash-error/"><u>Mastering the Art of Fixed: Overcoming 'Application Crash' Error</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-unwanted-keystrokes-during-typing/"><u>Preventing Unwanted Keystrokes During Typing</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-spacing-out-sounds-fixes-to-unmute-keyboard-volume/"><u>Stop Spacing Out Sounds: Fixes to Unmute Keyboard Volume</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-overcoming-a-non-functional-search-in-windows-11s-environment/"><u>Tips for Overcoming a Non-Functional Search in Windows 11’S Environment</u></a></li>
-<li><a href="https://fox-access.techidaily.com/unlock-creative-potential-with-xps-movie-creation-toolkit-for-2024/"><u>Unlock Creative Potential with XP’s Movie Creation Toolkit for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unravel-windows-mysteries-get-the-support-you-need/"><u>Unravel Windows Mysteries: Get the Support You Need!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-pick-your-favorite-top-ios-apps-for-facebook-video-loading-for-2024/"><u>[New] Pick Your Favorite Top iOS Apps for Facebook Video Loading for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-skyrocket-your-e-commerce-game-with-these-essential-15-social-media-insights/"><u>[Updated] Skyrocket Your E-Commerce Game with These Essential 15 Social Media Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/749-apple-macbook-air-with-m2-chip-exclusive-offer-during-amazons-october-prime-day-dont-miss-out-zdnet-news/"><u>$749 Apple MacBook Air with M2 Chip: Exclusive Offer During Amazon's October Prime Day – Don't Miss Out! [ZDNet News]</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-voice-interpretation-without-a-price-tag/"><u>2024 Approved Voice Interpretation Without a Price Tag</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-code-0xa00f4289-webcam-glitches-on-win1011/"><u>Correcting Code 0xA00F4289: Webcam Glitches on Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/hacking-the-lock-screen-windows-11-edition/"><u>Hacking the Lock Screen: Windows 11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/stripping-decorative-elements-from-window-search-ui/"><u>Stripping Decorative Elements From Window Search UI</u></a></li>
+<li><a href="https://win11.techidaily.com/the-5-best-apps-to-skyrocket-your-productivity-on-windows-11-or-11/"><u>The 5 Best Apps to Skyrocket Your Productivity on Windows 11 or 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/uncovering-your-youtube-remarks-across-os-platforms-for-2024/"><u>Uncovering Your YouTube Remarks Across OS Platforms for 2024</u></a></li>
+<li><a href="https://discover-best.techidaily.com/1726028138502-1080p/"><u>アマゾンプライム・スクリーンよりも安価な1080p映画配信サービスの応用法！</u></a></li>
 </ul></div>
 

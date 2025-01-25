@@ -1,7 +1,7 @@
 ---
 title: Five Effective Strategies for Firewall Management
-date: 2025-01-16T23:22:01.279Z
-updated: 2025-01-19T04:35:47.442Z
+date: 2025-01-18T22:23:57.788Z
+updated: 2025-01-24T20:17:39.661Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Control Panel
 
  The Control Panel is an incredible tool that allows you to troubleshoot system issues or tweak PC settings. Now, let’s check out how this tool can help you reset the firewall settings:
@@ -39,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 ![Clicking the Restore defaults option on the Windows Defender Firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-defaults-option-on-the-windows-defender-firewall-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use the Command Prompt
@@ -59,7 +63,7 @@ netsh advfirewall reset
  Wait for the process to complete. From there, restart your device to save these changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use Windows PowerShell
@@ -78,10 +82,6 @@ netsh advfirewall reset
 
  Wait for the process to complete, and then restart your device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Use the Windows Security App
 
  The Windows Security app is a tool that helps you scan and fix system bugs. Interestingly, you can also use this tool to reset the firewall settings.
@@ -97,7 +97,7 @@ netsh advfirewall reset
 ![Clicking the Restore firewalls to default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-firewalls-to-default-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use the "Firewall with Advanced Security" Tool
@@ -126,7 +126,7 @@ netsh advfirewall reset
  From there, right-click on the **Windows Defender Firewall with Advanced Security on Local Computer** option and select the **Restore Default Policy** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Restoring the Firewall Settings to Their Default Settings
@@ -150,19 +150,17 @@ netsh advfirewall reset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-influence-unleashed-5-crucial-steps-to-thriving-on-instagram-marketing/"><u>[Updated] Influence Unleashed 5 Crucial Steps to Thriving on Instagram Marketing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionizing-classic-images-a-guide-to-enhancing-vhs-photos-on-pcs/"><u>2024 Approved Revolutionizing Classic Images A Guide to Enhancing VHS Photos on PCs</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/windows11top5/"><u>特定フォルダーを安全に保存する - Windows11対応完全手引き(Top5選択肢)</u></a></li>
-<li><a href="https://win11.techidaily.com/declutter-your-computer-finding-and-purging-windows-empties/"><u>Declutter Your Computer: Finding & Purging Windows' Empties</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209560209-9781631584442-dreams-interpreted/"><u>Dreams Interpreted | Free Book</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Realme C53? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-behind-the-screen-samsung-ue590-4k-freesync-analysis/"><u>In 2024, Behind the Screen Samsung UE590 4K, FreeSync Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/learn-how-to-enable-screen-reflection-from-mobile-to-lg-smart-televisions-easily/"><u>Learn How To Enable Screen Reflection From Mobile to LG Smart Televisions Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-to-do-management-in-the-microsoft-ecosystem/"><u>Mastering To-Do Management in the Microsoft Ecosystem</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-regain-windows-11-help-application-use/"><u>Steps to Regain Windows 11 Help Application Use</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essence-of-devhome-transforming-your-w11-experience/"><u>The Essence of DevHome: Transforming Your W11 Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-no-powershell-on-windows-system/"><u>Troubleshooting: No PowerShell on Windows System</u></a></li>
-<li><a href="https://win-info.techidaily.com/ultimate-guide-5-methods-for-creating-a-disk-imaging-iso-file/"><u>Ultimate Guide: 5 Methods for Creating a Disk Imaging ISO File</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-update-halted-by-error-2e-solutions-here/"><u>Windows Update Halted by Error 2E? Solutions Here</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-your-daily-dose-of-delightful-and-distressing-memes-from-ig-for-2024/"><u>[New] Your Daily Dose of Delightful & Distressing Memes From IG for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-social-media-momentum-linking-igtv-and-fb/"><u>[Updated] In 2024, Social Media Momentum Linking IGTV and FB</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-executables-from-batch-files-in-windows/"><u>Crafting Executables From Batch Files in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-resolving-elevation-needed-errors/"><u>Decoding and Resolving 'Elevation Needed' Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-timely-updates-adding-an-efficient-checkup-toolbar-to-win11/"><u>Ensuring Timely Updates: Adding an Efficient Checkup Toolbar to Win11</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/gifify-your-tweet-a-costless-how-to-guide/"><u>Gifify Your Tweet A Costless How-To Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correct-the-isdonedll-error-in-windows-11/"><u>How to Correct the ISDone.dll Error in Windows 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/htc-vive-comfort-top-strategies-to-prevent-discomfort-for-2024/"><u>HTC Vive Comfort Top Strategies to Prevent Discomfort for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-folder-descriptions-in-windows-11-explorer/"><u>Mastering Folder Descriptions in Windows 11 Explorer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-realme-gt-5-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Realme GT 5 Pro</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-sailing-how-to-stop-your-borderlands-3-from-freezing-up-again/"><u>Smooth Sailing: How to Stop Your Borderlands 3 From Freezing Up Again!</u></a></li>
+<li><a href="https://win11.techidaily.com/the-sunsetting-of-windows-7-and-81-by-microsoft/"><u>The Sunsetting of Windows 7 and 8.1 by Microsoft</u></a></li>
 </ul></div>
 

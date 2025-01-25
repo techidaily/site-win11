@@ -1,7 +1,7 @@
 ---
 title: "Unblocking Launch Failed: Lunar Client Error on PC"
-date: 2025-01-13T02:25:38.721Z
-updated: 2025-01-19T12:31:52.926Z
+date: 2025-01-24T06:34:26.994Z
+updated: 2025-01-25T02:01:24.578Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apply Some Preliminary Checks
@@ -38,10 +38,6 @@ First off, carry out the following preliminary checks:
 * Ensure that your device is connected to the internet and the network connection is stable.
 
  If the above checks do not solve the problem, apply the remaining fixes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run Lunar Client as an Administrator
 
@@ -56,10 +52,6 @@ Follow these steps to run Lunar Client as an administrator:
 
  If launching Lunar Client as an administrator fixes the problem, this indicates that operating system restrictions are causing this error. So, you should[configure the application to always run as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Delete Lunar Client's Cache Folders
 
  Like most gaming launchers, lunar Client caches some game data in its cache folders. This helps the client to fetch the required information faster from these locations, which ultimately improves the client's performance.
@@ -72,6 +64,10 @@ C:\Users\<username>\AppData\Roaming
 3. Here, you have to delete three folders:**Cache** ,**Code Cache** , and**GPUCache** .
 4. Select the folders, right-click on them, and hit**Delete** .  
 ![Delete Lunar Client's Cache Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-delete-lunar-client-s-cache-folders.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run Lunar Client again after deleting the cache folders. If you encounter the same error again, proceed to the next step.
 
@@ -102,6 +98,14 @@ To change Lunar Client's memory allocation, follow these steps:
 4. Right-click on the**Renderer.old** file and click on the**Delete** icon.  
 ![Delete the Old Renderer Log File in Lunar Client's Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-delete-the-old-renderer-log-file-in-lunar-client-s-installation-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Whitelist Lunar Client in Windows Defender and Your Antivirus
 
  Lunar Client is a third-party software application. So, Windows Defender and other antivirus programs installed on your device can interfere with the client's processing. To prevent this, whitelisting the lunar client from security software is necessary.
@@ -120,12 +124,12 @@ To change Lunar Client's memory allocation, follow these steps:
 ![Download Java Runtime Environment From the Java Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-download-java-runtime-environment-from-the-java-website.jpg)
 4. Run the file once it has been downloaded and click**Yes** in the**UAC** window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Then click on the**Install** button.  
 ![Install Java Runtime Environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-install-java-runtime-environment.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you encounter any problems during installation, uninstall the existing installation. To do that, open the**Settings** app and go to the**Apps** tab on the left. Then, find the**Java**  package from the list of installed programs, click on the**three horizontal dots** next to it, and click**Uninstall** .
 
@@ -136,11 +140,7 @@ To change Lunar Client's memory allocation, follow these steps:
 ![Uninstalling the Older Java Version From Java Setup Wizard on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstalling-the-older-java-version-from-java-setup-wizard-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Play Minecraft Smoothly Again on Windows
@@ -162,16 +162,20 @@ To change Lunar Client's memory allocation, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-bypassing-common-drone-mistakes-with-this-essential-checklist/"><u>[New] Bypassing Common Drone Mistakes with This Essential Checklist</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-ultimate-list-hashtags-for-maximum-video-engagement-in-games/"><u>[Updated] Ultimate List Hashtags for Maximum Video Engagement in Games</u></a></li>
-<li><a href="https://techtrends.techidaily.com/as-principais-17-aplicativos-de-captura-de-tela-do-windows-comanalizados-por-usos-finais-e-recomendacoes-de-especialistas-movavi/"><u>As Principais 17 Aplicativos De Captura De Tela Do Windows Comanalizados Por Usos Finais E Recomendações De Especialistas – Movavi</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/from-backstage-to-center-stage-mastering-twitter-livestreaming/"><u>From Backstage to Center Stage Mastering Twitter Livestreaming</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-nokia-c32-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Nokia C32 to Protect Your Individual Information</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-unwanted-windows-start-up-in-bios-landing/"><u>Overcoming Unwanted Windows Start-Up in BIOS Landing</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-unable-to-open-error-in-geforce-experience-windows/"><u>Resolving Unable to Open Error in GeForce Experience Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/restarting-routine-efficiently-installing-windows-11/"><u>Restarting Routine: Efficiently Installing Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-future-is-now-microsofts-new-ai-enhanced-taskbar-for-windows-11-users/"><u>The Future Is Now: Microsoft’s New AI-Enhanced Taskbar for Windows 11 Users</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/transform-your-footage-effective-strategies-for-cropping-and-export-on-instagram-for-2024/"><u>Transform Your Footage Effective Strategies for Cropping & Export on Instagram for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-flv-editor-for-windows-8-easily-edit-flv-videos-on-pc/"><u>Updated 2024 Approved FLV Editor for Windows 8 Easily Edit FLV Videos on PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-integrating-instagram-effects-into-pre-existing-content/"><u>[Updated] 2024 Approved Integrating Instagram Effects Into Pre-Existing Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-livechat-recorder-pro-hd/"><u>[Updated] In 2024, LiveChat Recorder Pro HD</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-start-at-vectors-beginning-a-short-overview-of-forms-and-tools/"><u>[Updated] Start at Vector's Beginning A Short Overview of Forms & Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-data-handling-enabledisable-ntfs-compression-in-win11/"><u>Efficient Data Handling: Enable/Disable NTFS Compression in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-restoring-lost-wifi-connections-on-windows/"><u>Guidelines for Restoring Lost WiFi Connections on Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-garmins-innovative-ultra-30-review-full-capabilities-examined/"><u>In 2024, Garmin's Innovative Ultra 30 Review Full Capabilities Examined</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/installation-procedures-windows-11-and-vmware-workstation-17/"><u>Installation Procedures: Windows 11 & VMWare Workstation 17</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-prime-viewing-fixing-windows-11-audio-subtitle-discrepancies/"><u>Seamless Prime Viewing: Fixing Windows 11 Audio-Subtitle Discrepancies</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-solutions-for-overcoming-hypervisorbsod-in-windows/"><u>Top 5 Solutions for Overcoming HYPERVISOR_BSOD in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-pc-potential-top-tips-to-troubleshoot-broken-keyboard-commands-in-windows/"><u>Unlocking PC Potential: Top Tips to Troubleshoot Broken Keyboard Commands in Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo Y100A? | Dr.fone</u></a></li>
 </ul></div>
 

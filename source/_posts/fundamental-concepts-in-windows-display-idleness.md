@@ -1,7 +1,7 @@
 ---
 title: Fundamental Concepts in Windows Display Idleness
-date: 2024-08-08T13:21:00.378Z
-updated: 2024-08-09T13:21:00.378Z
+date: 2025-01-18T02:41:35.185Z
+updated: 2025-01-25T06:42:58.101Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 
  Are Windows screen savers still here for your entertainment? And if yes, how do you set up and customize one on Windows?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## What Are Windows Screen Savers?
 
  Fundamentally, a screen saver is a display program that gets triggered when a system is left idle for a specific duration. It gets rid of the static screen by displaying either a blank screen or dynamic, animated patterns. Some of the most popular Windows screen savers are the Maze, flying Windows Logo, 3D Pipes, 3D Text Bubbles, Mystify, Ribbons, etc.
@@ -35,15 +32,16 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 
 ![crt monitor screen burn in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/crt-monitor-screen-burn-in.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5Famber.JPG)
 
  Shutting down the system to prevent the burn-in wasn't an efficient solution given the time it took a computer and the CRT monitor to power on again.
 
  Screen savers came to the rescue by displaying moving elements on the screen whenever the system was left idle for a specific duration. But it was all back in the day and now, [most of us don't even need screen savers](https://www.makeuseof.com/tag/screensavers-2015-need-dont/) to save the day, due to the fast boot times and technological advancements in the display industry.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Set Up a Screen Saver on Windows 11
 
  If you want to get nostalgic every now and then, setting up a screen saver on your Windows machine is a good idea.
@@ -52,18 +50,23 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
 ![lock screen settings in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lock-screen-settings-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Under the **Related settings** header, choose **Screen saver**. Alternatively, just search for "**Change screen saver settings**" in the Start menu and select the first result.
 
  With the Screen saver dialog box opened, click on the dropdown menu and select any screen saver option other than **(None)**. In Windows 11, the following options are available: 3D Text, Blank, Bubbles, Mystify, Photos, and Ribbons.
 
  Furthermore, you can click the **Settings** button to configure and customize the selected screen saver. You can also hit **Preview** to check out the screen saver in action.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![set a screen saver on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-a-screen-saver-on-windows.jpg)
 
  When you've decided on the screen saver, select a duration (in minutes) the system will wait for before triggering the screen saver. Also, check off the box next to **On resume, display logon screen** if you want. Finally, click **Apply > Ok**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Customize Screen Savers on Windows 11
 
@@ -75,18 +78,16 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
  Inside the folder, you'll find an SCR file, which you can install by right-clicking and selecting **Install**. If you aren't already redirected to the screen saver settings, launch it manually by heading over to **Settings > Personalization > Lock screen** and clicking **Screen saver** under the **Related settings** header.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![customize windows screen saver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/customize-windows-screen-saver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select Fliqlo from the dropdown menu and hit **Apply > Ok** to save the changes. Also, preview the screen saver to ensure it's working correctly.
 
  You can also [make your own screen saver for Windows](https://www.makeuseof.com/tag/5-ways-to-make-your-own-screensavers-windows/) if you like.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Have Screen Savers Changed?
 
  The first ever screen saver was developed by a programmer named John Socha-Leialoha and it was a simple program that displayed a blank screen whenever a computer was left idle for three minutes.
@@ -98,8 +99,9 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
  Fast forward to today, screen savers have "almost" vanished, with Microsoft hiding them deep inside Windows settings. But still, people use them as they prefer watching visually appealing animations fill up their screen rather than glaring at a static, dead desktop.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bringing Back the Old Days With Windows Screen Savers
 
  Although they are now obsolete, you can still choose to set up a screen saver on your Windows machine. LED and LCDs are more prevalent nowadays and outperform the old CRT monitors, but this doesn't mean screen savers won't help them.
@@ -112,11 +114,33 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
  Are Windows screen savers still here for your entertainment? And if yes, how do you set up and customize one on Windows?
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-essential-tips-for-iphone-360-videography/"><u>[Updated] Essential Tips for iPhone 360 Videography</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-ultimate-non-timebound-screen-recording-selection/"><u>[Updated] In 2024, Ultimate Non-Timebound Screen Recording Selection</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-skyrocket-your-youtube-speed-with-effective-render-techniques-for-2024/"><u>[Updated] Skyrocket Your YouTube Speed with Effective Render Techniques for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/1-how-to-recover-unintentionally-erased-images-from-your-cameras-memory-card/"><u>1. How to Recover Unintentionally Erased Images From Your Camera's Memory Card</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-4-photo-and-video-slideshow-maker-for-macos-sierra/"><u>2024 Approved 4 Photo and Video Slideshow Maker for macOS Sierra</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-cosmic-comforts-top-10-starry-night-accessories-for-sj4000/"><u>2024 Approved Cosmic Comforts Top 10 Starry Night Accessories for SJ4000</u></a></li>
+<li><a href="https://win11.techidaily.com/breath-of-life-for-outdated-bios-features/"><u>Breath of Life for Outdated BIOS Features</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-gaps-in-winvpn-fixed-remote-access-errors/"><u>Bridging Gaps in WinVPN: Fixed Remote Access Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-technology-divide-with-winpc-galaxy-flow-link/"><u>Bridging Technology Divide with WinPC-Galaxy Flow Link</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-connection-issues-0x00000001-resolution-guide/"><u>Bypassing Connection Issues - 0X00000001 Resolution Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-11s-operation-failure-error-code-0x0000011b/"><u>Bypassing Windows 11'S Operation Failure (Error Code: 0X0000011B)</u></a></li>
+<li><a href="https://win11.techidaily.com/camouflaging-keyboard-actions-on-windows-platforms/"><u>Camouflaging Keyboard Actions on Windows Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/can-pressing-print-screen-start-snip-in-windows-11-block-it/"><u>Can Pressing Print Screen Start Snip in Windows 11? Block It</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-your-script-crisis-essential-solutions-for-windows-errors/"><u>Clear Your Script Crisis: Essential Solutions for Windows Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-not-written-memory-problems-on-windows/"><u>Clearing Up Not Written Memory Problems on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-keyboards-that-fail-to-respond/"><u>Diagnosing and Repairing Keyboards That Fail to Respond</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-canon-imageclass-dr-c225-printer-drivers-compatible-with-windows-11-10-and-8/"><u>Download Canon ImageCLASS DR-C225 Printer Drivers: Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-13-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone 13 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-restoring-your-pc-with-a-windows-10-factory-reset/"><u>Step-by-Step Guide: Restoring Your PC with a Windows 10 Factory Reset</u></a></li>
+</ul></div>
+

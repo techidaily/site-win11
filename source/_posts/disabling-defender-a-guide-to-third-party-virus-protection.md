@@ -1,7 +1,7 @@
 ---
 title: "Disabling Defender: A Guide to Third-Party Virus Protection"
-date: 2025-01-12T16:30:44.399Z
-updated: 2025-01-18T23:24:24.507Z
+date: 2025-01-20T21:52:55.325Z
+updated: 2025-01-25T02:55:57.077Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Microsoft Defender Blocking Third-Party Antivirus Software
 
  When you install a third-party antivirus program, Windows Defender may get automatically disabled. However, if you receive a notification or prompt stating that Microsoft Defender is blocking your third-party antivirus software, it means that both security solutions are active.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
  This may result in conflicts and compromise the overall protection of your system. If you encounter such an issue, here is what to do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Disable Tamper Protection
@@ -46,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 4. Next, toggle off the **Tamper Protection** switch. If prompted for confirmation, click **Yes**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable Tamper Protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/disable-tamper-protection.jpg)
@@ -69,12 +73,12 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 ![Open Virus & threat protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-virus-threat-protection.jpg)
 4. Under **Virus & threat protection settings**, click on **Manage settings**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
 5. Scroll down and you'll find the **Exclusions** option. Click on **Add or remove exclusions**.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Add or remove exclusions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-or-remove-exclusions.jpg)
 6. If the UAC prompts you for permission, click **Yes**.
@@ -84,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 8. Select the file and click on **Select Folder**. You'll see the folder added under the Exclusions section.
 
  After adding the exclusion, close the settings window and restart your computer. Once the computer restarts, Microsoft Defender should stop blocking third-party antivirus programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Reinstall Your Third-Party Antivirus Software
 
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
  Next, navigate to the official website and download the latest version. Once installed, restart your computer again. This should resolve any conflicts between Microsoft Defender and the third-party antivirus software.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix Microsoft Defender Blocking Your Third-Party Antivirus
@@ -119,19 +119,24 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-13-mini-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 13 mini without the Previous Owner?</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tuning-interactions-between-devices-and-windows-snooze/"><u>Fine-Tuning Interactions Between Devices and Windows Snooze</u></a></li>
-<li><a href="https://win11.techidaily.com/greatest-non-microsoft-options-easy-screen-captures-without-windows/"><u>Greatest Non-Microsoft Options: Easy Screen Captures Without Windows</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-storyboard-to-screenplay-filmmaking-essentials/"><u>In 2024, From Storyboard to Screenplay Filmmaking Essentials</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-10c-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 10C PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-split-view-failures-in-os/"><u>Overcoming Split View Failures in OS</u></a></li>
-<li><a href="https://win11.techidaily.com/precision-configurations-for-an-excellent-windows-11-experience/"><u>Precision Configurations for an Excellent Windows 11 Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-read-only-mode-on-windows-folders/"><u>Preventing Read-Only Mode on Windows Folders</u></a></li>
-<li><a href="https://win11.techidaily.com/reimagine-your-web-experience-implementing-mouse-gestures-in-ms-edge-win-11/"><u>Reimagine Your Web Experience: Implementing Mouse Gestures in MS Edge (Win 11)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/secure-your-digital-footprint-how-to-safeguard-against-data-leaks-in-mobile-applications/"><u>Secure Your Digital Footprint: How to Safeguard Against Data Leaks in Mobile Applications</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-selection-the-finest-wide-mouse-pads/"><u>Ultimate Selection: The Finest Wide Mouse Pads</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unlock-hidden-potential-top-10-enhancing-plug-ins/"><u>Unlock Hidden Potential Top 10 Enhancing Plug-Ins</u></a></li>
-<li><a href="https://win-blog.techidaily.com/untangling-superhero-clashes-in-pc-gaming-adventures/"><u>Untangling Superhero Clashes in PC Gaming Adventures</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-comprehensively-understanding-azure-speech-to-text/"><u>[Updated] Comprehensively Understanding Azure Speech to Text</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-revolutionizing-iphone-photography-with-hdr-techniques/"><u>[Updated] In 2024, Revolutionizing iPhone Photography with HDR Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-footage-a-step-by-step-guide-to-gopros-timelapse/"><u>2024 Approved Transforming Footage A Step-by-Step Guide to GoPro's Timelapse</u></a></li>
+<li><a href="https://win11.techidaily.com/a-deep-dive-into-optical-character-recognition-ocr-understanding-image-based-text-capture-with-copernic-software/"><u>A Deep Dive Into Optical Character Recognition (OCR): Understanding Image-Based Text Capture with Copernic Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/achieving-smaller-file-sizes-without-sacrificing-quality-transition-from-h264-to-h265/"><u>Achieving Smaller File Sizes Without Sacrificing Quality: Transition From H.264 To H.265</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-effective-power-indicators-in-windows/"><u>Crafting Effective Power Indicators in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-windows-11s-spotify-connectivity-fails/"><u>Eliminating Windows 11'S Spotify Connectivity Fails</u></a></li>
+<li><a href="https://win11.techidaily.com/find-your-inbox-efficiency-discover-faster-email-recovery-with-outlook-and-copernics-lightning-quick-search/"><u>Find Your Inbox Efficiency: Discover Faster Email Recovery with Outlook and Copernic's Lightning-Quick Search</u></a></li>
+<li><a href="https://win11.techidaily.com/1723809008305-find-your-inbox-efficiency-discover-faster-email-recovery-with-outlook-and-copernics-lightning-quick-search/"><u>Find Your Inbox Efficiency: Discover Faster Email Recovery with Outlook and Copernic's Lightning-Quick Search!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003799909-fixing-chromes-sluggishness-fast-and-simple-solutions/"><u>Fixing Chrome's Sluggishness: Fast and Simple Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-majestic-celestial-images-at-your-command/"><u>In 2024, Majestic Celestial Images at Your Command</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-x8b-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor X8b</u></a></li>
+<li><a href="https://win11.techidaily.com/1723809006534-mastering-social-media-growth-with-seamless-menu-expand-functions-on-fb-li-yt-top-level-navigation-essentials/"><u>Mastering Social Media Growth with Seamless Menu Expand Functions on FB, LI, YT - Top-Level Navigation Essentials!</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-windows-inactive-session-limit/"><u>Personalizing Windows Inactive Session Limit</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaim-original-look-for-discoloured-extend-volume/"><u>Reclaim Original Look for Discoloured Extend Volume</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/secure-your-crypto-investments-with-expert-tips-from-yl-computings-software-solutions/"><u>Secure Your Crypto Investments with Expert Tips From YL Computing's Software Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-document-discovery-using-copernics-expert-text-search-features-for-professionals/"><u>Streamline Document Discovery Using Copernic's Expert Text Search Features for Professionals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essentials-for-successful-intel-lan-setup-on-vista/"><u>The Essentials for Successful Intel LAN Setup on Vista</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-of-hugging-face-in-machine-learning-explained/"><u>The Role of Hugging Face in Machine Learning - Explained</u></a></li>
 </ul></div>
 

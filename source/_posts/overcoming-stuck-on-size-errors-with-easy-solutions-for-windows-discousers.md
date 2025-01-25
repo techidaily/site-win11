@@ -1,7 +1,7 @@
 ---
 title: Overcoming Stuck-On-Size Errors with Easy Solutions for Windows DiscoUsers
-date: 2024-08-08T13:21:45.020Z
-updated: 2024-08-09T13:21:45.020Z
+date: 2025-01-23T00:55:29.263Z
+updated: 2025-01-25T03:33:35.609Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 
  This error typically occurs when the GIF size exceeds Discord's supported limits. Fortunately, it's very easy to troubleshoot this error. Below, we'll look at various solutions to fix the Discord "cannot resize GIF" error on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Optimize the GIF
 
  On Discord, file uploads are limited to a maximum of 8 MB. However, GIF emotes must not be more than 256 KB and should have dimensions of 128x128 pixels or less. If you try to upload a GIF that surpasses these size restrictions, you will encounter the "cannot resize GIF" error.
@@ -31,19 +35,9 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 ![Choose File on Ezgif website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/choose-file.jpg)
 3. Click the **Upload** button.
 4. Use the **Compression level slider** to manually adjust the amount of compression. If your GIF is large in size, set the slider at a higher level.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Compression slider on Ezgif website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/compression-slider.jpg)
 5. Click the **Optimize GIF** button.
 6. Click the **Save** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![Save icon on Ezgif wesbite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/save-icon.jpg)
 
  Now, check if you can upload the GIF. If not, probably the resolution is more than 128\*128 pixels. To reduce the resolution, follow the below steps:
@@ -55,8 +49,9 @@ No advertising on the website.
 4. Click the **Save** icon.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Log Out and Back Into the Discord App
 
  Discord's "cannot resize GIF" error can also occur due to a temporary glitch or bug with your Discord account. In this case, the best solution is to log out and in on your Discord app. Here's how to do that:
@@ -75,8 +70,9 @@ No advertising on the website.
  To fix this issue, you will have to [clear the Discord cache](https://www.makeuseof.com/tag/discord-users-free-up-disk-space/) on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Reinstall Discord
 
  The error message can also occur due to an issue in the Discord installation files. You can fix this by reinstalling Discord.
@@ -84,22 +80,22 @@ No advertising on the website.
  To do that, first [uninstall the app on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and restart your computer. Then, visit the [Discord download page](https://discord.com/download) and install it on your device.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Contact Discord Support
 
  Are you still facing the issue? If yes, that means this is probably an issue with your Discord account. In this case, the only solution is to reach out to the [Discord support](https://support.discord.com/hc/en-us) team and ask them to resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make Your Conversations Interesting With GIF Emotes on Discord
 
  It's very easy to upload and post GIF emotes on Discord. But sometimes you might encounter the "cannot resize GIF" error when you try to upload one.. Luckily, you can quickly solve the issue by following the above solutions.
 
  This error typically occurs when the GIF size exceeds Discord's supported limits. Fortunately, it's very easy to troubleshoot this error. Below, we'll look at various solutions to fix the Discord "cannot resize GIF" error on Windows.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -107,3 +103,20 @@ No advertising on the website.
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-appreciation-roundup-premiumfree-outro-templates-for-2024/"><u>[Updated] Appreciation Roundup Premium/Free Outro Templates for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-mastering-background-replacement-get-cost-free-lessons-in-green-screen-effects-from-youtubes-best/"><u>2024 Approved Mastering Background Replacement Get Cost-Free Lessons in Green Screen Effects From YouTube's Best</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tailored-audio-connector-for-podcasting-pros/"><u>2024 Approved Tailored Audio Connector for Podcasting Pros</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-walkthrough-windows-11-calendar/"><u>A Comprehensive Walkthrough: Windows 11 Calendar</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-performance-swapping-outdated-windows-drivers/"><u>Accelerating Performance: Swapping Outdated Windows Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-faulty-timed-lock-screen-issue-windows/"><u>Addressing Faulty Timed Lock Screen Issue Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-the-help-function-breakdown-on-windows-11/"><u>Addressing the Help Function Breakdown on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/auto-displaying-images-craft-your-windows-11-slide-show-7-ways/"><u>Auto-Displaying Images: Craft Your Windows 11 Slide Show (7 Ways)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/discover-the-most-reliable-no-cost-online-voip-recorders-for-efficient-meetings-and-podcasts-ranked/"><u>Discover the Most Reliable No-Cost Online VOIP Recorders for Efficient Meetings & Podcasts - Ranked!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-in-built-fm-radio-functionality-on-smartphones/"><u>Mastering the Art of In-Built FM Radio Functionality on Smartphones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/revolutionize-your-room-strategies-to-record-clear-sound-for-2024/"><u>Revolutionize Your Room Strategies to Record Clear Sound for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-top-gif-accelerators-online-ios-and-android-tools/"><u>Updated 2024 Approved Top GIF Accelerators Online, iOS, and Android Tools</u></a></li>
+</ul></div>
+

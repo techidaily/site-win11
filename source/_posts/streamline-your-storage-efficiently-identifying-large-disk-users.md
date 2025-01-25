@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Storage: Efficiently Identifying Large Disk Users"
-date: 2024-08-08T13:21:15.749Z
-updated: 2024-08-09T13:21:15.749Z
+date: 2025-01-19T03:47:27.275Z
+updated: 2025-01-24T21:17:33.175Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 
  Thanks to Microsoft, finding the apps, documents, and files taking up most of your disk space on Windows and cleaning that space by removing extraneous clutter is now easier than ever. If that's your goal, read on to find out how to get there.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## First, Locate the Overpopulated Disk Drive
 
  Have you partitioned your hard disk into several drives? If you have, check which drive(s) consumes the most space. Do not let the percentage of occupied space fool you; instead, look at the size of the filled territory in GBs. The partition containing more GB of data is more crowded. However, how can you find out which drives are overloaded?
@@ -31,11 +28,12 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 
 ![Viewing Storage Space Filled in Different Drives on File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/viewing-storage-space-filled-in-different-drives-on-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Having found that, let's look at how to find the data type that occupies the most space.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Identify the Data Type Occupying the Most Space on Your Crowded Drive
 
  Applications and games, system and temporary files, garbage on the desktop, and other data do not take up the same amount of disk space. While some consume hardly any space, others occupy a considerable amount.
@@ -47,10 +45,11 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 3. In the right pane, click**Storage** .
 4. In this section, you can see what type of data occupies the most space on your currently crowded and other drives.
 5. Click on**Show more categories** to view other categories that occupy the most real estate.  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Opening the Show More Categories Option in the Storage Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/2-opening-the-show-more-categories-option-in-the-storage-tab-of-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Ideally, you should start clearing space from the category that consumes the most space on your hard drive. For instance, if apps and features occupy the bulk of your storage, you should free that up first.
 
@@ -58,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 
  Typically, three data types take up most of your drive space: apps and features, system and reserved files, and temporary files. Hence, reducing the burden of these data types can effectively free up your drive space. Let's see how you can accomplish that.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### 1\. Manage Your Apps and Features
 
 Follow these steps to remove extra apps and features:
@@ -70,14 +66,15 @@ Follow these steps to remove extra apps and features:
 3. Click on**Show more categories** .
 4. Then click on**Apps and Features** .
 5. Select**Size (Large to small)** from the dropdown menu next to**Sort by** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Sorting the Installed Apps by Size in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/3-sorting-the-installed-apps-by-size-in-windows-settings-app.jpg)
 6. Determine which apps are redundant and taking up the most disk space.
 7. Click the**three vertical dots** next to each app and click**Uninstall** .  
 ![Uninstalling the App by Clicking on Three Vertical Dots Next to it in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/4-uninstalling-the-app-by-clicking-on-three-vertical-dots-next-to-it-in-windows-settings.jpg)
 8. Repeat the above step for all apps you find hefty, and you should be able to free up quite a bit of space.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your operating system lives on the same overcrowded disk, the system and reserved files could be the next big space eater.
 
@@ -93,9 +90,6 @@ Follow these steps to remove extra apps and features:
 
  Likewise, restore points consume a considerable amount of storage, but it is worth it since it allows you to restore your device to a previous point in time if something goes wrong. However, having multiple restore points would be a waste of space on the hard drive. Therefore, it is recommended to[delete any extra restore points on Windows](https://www.makeuseof.com/ways-delete-system-restore-points-in-windows/) you created.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Manage Temporary Files Storage
 
  Temporary files usually consume the most space on your drives after system files and installed applications. As their name implies, they are temporary files that only speed up Windows processes. Does that mean you can safely delete them? Yes, but you'll need to be careful. Here are some tips for clearing temporary files wisely:
@@ -107,9 +101,17 @@ Follow these steps to remove extra apps and features:
 
 ![Managing the Temporary File Storage in Storage Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/6-managing-the-temporary-file-storage-in-storage-tab-of-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With these tips, you'll hopefully be able to free up a significant amount of space that was previously unnecessarily occupied. Are you still running low on disk space? If so, then your device's storage drive is not large enough. So, upgrade it to accommodate your data more effectively.
 
  If you decide to go this route, check out our roundup of[best NVMe SSDs for faster performance](https://www.makeuseof.com/tag/best-nvme-ssds/) first.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Avoid Cluttering Up Your Precious Disk Space
 
@@ -117,14 +119,11 @@ Follow these steps to remove extra apps and features:
 
  If they are safe to delete, wipe them out. If not, move them to a different drive with more disk space left and relieve some of the pressure from an overfilled drive.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,4 +132,26 @@ Follow these steps to remove extra apps and features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-youtube-shorts-key-facts/"><u>[New] Mastering YouTube Shorts Key Facts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-skyline-success-on-iphone-top-landscape-shots-techniques/"><u>[New] Skyline Success on iPhone Top Landscape Shots Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-your-ultimate-guide-to-best-free-game-recording-apps/"><u>[New] Your Ultimate Guide to Best Free Game Recording Apps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unlocking-the-full-potential-of-windows-11s-video-production-suite/"><u>2024 Approved Unlocking the Full Potential of Windows 11'S Video Production Suite</u></a></li>
+<li><a href="https://win11.techidaily.com/5-fun-tricks-you-can-do-in-command-prompt/"><u>5 Fun Tricks You Can Do in Command Prompt</u></a></li>
+<li><a href="https://win11.techidaily.com/a-compreenas-for-navigating-windows-11s-troubleshooter/"><u>A Compreenas for Navigating Windows 11'S Troubleshooter</u></a></li>
+<li><a href="https://win11.techidaily.com/achieve-success-reinstalling-microsofts-pc-manager-in-winxp/"><u>Achieve Success: Reinstalling Microsoft's PC Manager in WinXP</u></a></li>
+<li><a href="https://win11.techidaily.com/ad-free-experience-just-for-you-with-win-11/"><u>Ad-Free Experience, Just for You with Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-failed-downloads-in-windows-environments/"><u>Addressing Failed Downloads in Windows Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-disk-read-failures-on-your-pc/"><u>Avoiding Disk Read Failures on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-keyboard-efficiency-top-strategies-for-speed-on-windows-devices/"><u>Boost Keyboard Efficiency: Top Strategies for Speed on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-barriers-fixing-steam-problems-on-windows-11-os/"><u>Breaking Down Barriers: Fixing Steam Problems on Windows 11 OS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-xiaomi-redmi-note-12t-pro-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Xiaomi Redmi Note 12T Pro Phone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-advanced-editing-text-insertion-tips-on-images-in-microsofts-photos/"><u>In 2024, Unlock Advanced Editing Text Insertion Tips on Images in Microsoft's Photos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-lava-blaze-2-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Lava Blaze 2 Pro Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pacific-drive-not-launching-how-to-fix/"><u>Pacific Drive Not Launching: How to Fix?</u></a></li>
+<li><a href="https://win11.techidaily.com/1719333062146-resolve-windows-scheduler-glitches-now/"><u>Resolve Windows Scheduler Glitches Now</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-art-of-plotting-success-on-youtube-for-2024/"><u>The Art of Plotting Success on YouTube for 2024</u></a></li>
+</ul></div>
 

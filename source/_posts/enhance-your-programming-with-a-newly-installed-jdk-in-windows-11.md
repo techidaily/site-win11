@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Programming with a Newly Installed JDK in Windows 11
-date: 2024-08-08T13:21:16.729Z
-updated: 2024-08-09T13:21:16.729Z
+date: 2025-01-18T21:24:57.080Z
+updated: 2025-01-24T21:26:48.335Z
 tags:
   - windows10
   - windows11
@@ -21,10 +21,9 @@ thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8
  Therefore, it makes sense for anyone interested in programming—and the larger software development world in general—to get their hand dirty with Java. In this article, we’ll look at the exact method to install JDK, or the Java Development Environment, a software development environment necessary for running Java on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Run a Check for Java JDK on Your PC
 
  Before we move to the installation, though, it’s useful to see if JDK is already present in your system. To do that, go to the **Start menu** search bar, type in ‘cmd,’ and select the Best match.
@@ -35,10 +34,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  As soon as you do that the Command prompt will check your PC for JDK. If your Windows 11 doesn’t have the JDK installed, you should see something like this on your cmd screen:
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![cmd command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cmd-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatively, you can also check for the JDK through the Control Panel as well. Here's how:
 
@@ -48,8 +48,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  If you cannot find the JDK section through either method, jump to the section below for the installation instructions.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Installing Java JDK in Windows 11
 
  To install the JDK installer, we need to head to Oracle’s website first. Here’s how:
@@ -60,28 +61,25 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 4. On the next screen, you’ll be asked for the location of your file. Click on **Next**.
 5. Once the JDK installation is complete, click on **Close**.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![downloading the java installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/downloading-the-java-installer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![java development kit installation menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/java-development-kit-installation-menu.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  By the end of this process the Java development kit will be successfully installed on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Installing and Running Java in Windows 11
 
  And that’s all, folks. Follow the steps above, and the Java environment will be successfully set up on your PC. Being one of the more popular programming languages out there, installing and learning Java is your first step in growing in this handy, object-oriented language.
 
  Therefore, it makes sense for anyone interested in programming—and the larger software development world in general—to get their hand dirty with Java. In this article, we’ll look at the exact method to install JDK, or the Java Development Environment, a software development environment necessary for running Java on your PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -89,3 +87,27 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-social-media-strategists-guide-to-adjustable-video-sizes-on-fb/"><u>[New] 2024 Approved The Social Media Strategist's Guide to Adjustable Video Sizes on FB</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-3-ways-add-captions-to-instagram-videos/"><u>[Updated] 2024 Approved [3 Ways] Add Captions to Instagram Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-leading-17-lights-and-stands-reviewed/"><u>[Updated] The Leading 17 Lights & Stands Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/webwav-movavi/"><u>「Web上で自由にWAV形式への変換 - Movavi」</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-rectify-a-wrongly-setup-temp-folder-in-win11/"><u>A Step-by-Step Guide to Rectify a Wrongly Setup Temp Folder in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/address-windows-missing-camera-mystery-in-device-manager/"><u>Address Windows' Missing Camera Mystery in Device Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-installation-access-violation-on-win1011/"><u>Addressing Installation Access Violation on Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-techniques-removing-restrictions-in-windows/"><u>Advanced Techniques: Removing Restrictions in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/backup-basics-protecting-your-digital-adventures-in-epic-games/"><u>Backup Basics: Protecting Your Digital Adventures in Epic Games</u></a></li>
+<li><a href="https://win11.techidaily.com/begin-your-windows-journey-with-a-voice-guide/"><u>Begin Your Windows Journey with a Voice Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/biometric-breach-are-windows-fingerprint-scanners-safe/"><u>Biometric Breach: Are Windows Fingerprint Scanners Safe?</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-playnites-capabilities-with-windows-compatible-emulators/"><u>Boost Playnite's Capabilities with Windows-Compatible Emulators</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-efficiency-using-keyboard-shortcuts-for-windows-taskbar-management/"><u>Boosting Efficiency: Using Keyboard Shortcuts for Windows Taskbar Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gaining-insight-into-your-gpus-potential-using-these-6-essential-windows-apps/"><u>Gaining Insight Into Your GPU's Potential Using These 6 Essential Windows Apps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/master-tailor-your-taskbar-with-microsofts-windows-control-panel-simple-instructions-for-a-custom-user-experience/"><u>Master Tailor Your Taskbar with Microsoft's Windows Control Panel: Simple Instructions for a Custom User Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-printing-fixed-hp-laserjet-on-windows/"><u>Smooth Printing: Fixed HP LaserJet on Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-charging-companion-a-closer-look-at-the-anker-powercoreplus-26800-portable-charger-bundle/"><u>The Ultimate Charging Companion: A Closer Look at the Anker PowerCore+ 26800 Portable Charger Bundle</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-embrace-apple-pay-a-comprehensive-tutorial-for-effortless-purchases-in-store-and-online/"><u>Why Embrace Apple Pay? A Comprehensive Tutorial for Effortless Purchases In-Store and Online</u></a></li>
+</ul></div>
+

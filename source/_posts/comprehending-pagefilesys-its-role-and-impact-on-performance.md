@@ -1,7 +1,7 @@
 ---
 title: "Comprehending Pagefile.sys: Its Role and Impact on Performance"
-date: 2024-08-08T13:19:37.837Z
-updated: 2024-08-09T13:19:37.837Z
+date: 2025-01-22T22:13:49.889Z
+updated: 2025-01-24T23:41:03.075Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,10 @@ Here's what you need to know.
 
  Reading an app’s program files from Pagefile.sys is slower than reading them from RAM. The process is even slower when you're using a hard disk drive (HDD)[instead of a solid-state drive (SDD)](https://www.makeuseof.com/choose-ssd-or-hdd-storage/) . However, It’s faster than closing the app and then relaunching it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Check the Size of Pagefile.sys
 
  To prevent tampering with Pagefile.sys, Windows will hide it by default. If you want to see it, here’s what you should do.
@@ -45,9 +49,11 @@ Here's what you need to know.
 3. Now you need to open Folder Options. On Windows 11, click the**three vertical dots** in the top menu and select**Options** . On Windows 10, click**View** in the top menu and then on**Options** .  
 ![selecting options in the top menu of file explorer in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/file-explorer-options.jpg)
 4. Select the**View** tab in Folder Options and uncheck**Hide protected operating system files (Recommended)** .  
+
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The unhide protected os files option in folder options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/folder-options-unhide-protected-os-files.jpg)
 5. In the warning that pops up, click**Yes** .
 6. A bit further up, you see**Hidden files and folders** . Inside it, check the**Show hidden files, folders, and drives** radio button.
@@ -56,6 +62,10 @@ Here's what you need to know.
 ![the pagefile.sys file in the root folder of the local drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/pagefile-sys-file.jpg)
 
  As you can see, the Pagefile.sys file is quite large, which makes many people think deleting it is a good idea when they're running out of storage space.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should You Delete Pagefile.sys?
 
@@ -67,16 +77,10 @@ Here's what you need to know.
 
  So unless your physical memory needs aren’t greater than your installed RAM’s capacity, we recommend leaving Pagefile.sys alone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Delete Pagefile.sys
 
  Since Windows is constantly using Pagefile.sys, it will not allow you to delete it in File Explorer directly. In fact, if you selected the file and hit the**Delete** key, you will see the following message: "The action can't be completed because the file is open in another program."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![deleting-pagefile-error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deleting-pagefile-error.jpg)
 
  However, there’s another method you can use to delete the file and save some disk space. To do that, follow the steps below.
@@ -87,12 +91,14 @@ Here's what you need to know.
 3. Select the**Advanced** tab, and in the**Performance** section, click the**Settings** button.  
 ![the system properties dialog box in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/system-properties-advanced.jpg)
 4. In the Performance Options window, select the**Advanced** tab and click**Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![the Perfomance Options window on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/performance-options-advanced.jpg)
 5. In the Virtual Memory window, uncheck the**Automatically manage paging file size for all drives** checkbox at the top.
 6. Click on the radio button for**No paging file** , and click the**Set** button on the right.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![the Virtual Memory window on Windows with the No paging radio button ticked](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-no-paging-windows.jpg)
 7. You’ll get a warning from Windows. Click**Yes** to bypass it.
 8. Click on**OK** to close the Virtual Memory window and apply the changes.
@@ -100,9 +106,6 @@ Here's what you need to know.
 
  When Windows boots back up, the OS will have no use for Pagefile.sys, and it will delete it from your local drive. It will also delete the Swapfile.sys along with it. If you don't know what that file is and its importance, please read our guide on[what Swapfile.sys is and if you can delete it](https://www.makeuseof.com/windows-swapfile-sys-guide/) .
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Restore Pagefile.sys
 
  If you deleted Pagefile.sys and discovered that you're experiencing problems because of it, you can easily restore it. However, if the problems are so severe that Windows is constantly freezing or can't even boot up properly, you should try entering Safe Mode first. To do that, please check out guides on[ways to boot into Safe Mode on Windows 11](https://www.makeuseof.com/windows-11-boot-safe-mode/) and[what is Safe Mode on Windows 10](https://www.makeuseof.com/windows-11-boot-safe-mode/) .
@@ -111,9 +114,6 @@ Now, to bring back Pagefile.sys, follow the steps below:
 
 1. Press**Win + R** to open Windows Run.
 2. In the text box, enter**sysdm.cpl** and then hit the**Enter** key to launch the System Properties window.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![opening the System Properties window using Windows Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-system-properties-windows-run.jpg)
 3. Select the**Advanced** tab, and in the**Performance** section, click the**Settings** button.
 4. In the Performance Options window, select the**Advanced** tab and click**Change** .
@@ -124,8 +124,9 @@ Now, to bring back Pagefile.sys, follow the steps below:
  Once your computer boots up, and you go to the folder where Pagefile.sys is located, you will see that the file has returned, along with Swapfile.sys.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Resize Pagefile.sys
 
  If deleting Pagefile.sys isn’t an option for you, consider resizing it instead. Here’s how to do that:
@@ -133,20 +134,19 @@ Now, to bring back Pagefile.sys, follow the steps below:
 1. Press**Win + E** to open File Explorer.
 2. In the Navigation Pane, right-click**This PC** and select**Properties** . On Windows 11, you will have to select**Show more options** first before you can see the**Properties** option.
 3. Click on the**Advanced system settings** link to open the System Properties window. On Windows 11, you will find the link on the right panel, while, on Windows 10, it will be on the left side menu.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the About page of the System window in the Settings app on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-about-windows-11.jpg)
 4. Select the**Advanced** tab, and in the**Performance** section, click the**Settings** button.
 5. In the Performance Options window, select the**Advanced** tab and click**Change** .
 6. In the Virtual Memory window, uncheck the**Automatically manage paging file size for all drives** checkbox at the top.
 7. Click on the radio button for**Custom size** . Immediately, you’ll see that the two text boxes below it (**Initial size** and**Maximum size**) are no longer grayed out.
 8. Enter the appropriate page file sizes in megabytes (MB) in both text boxes and then click**Set** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the virtual memory dialog box on windows with the custom page file size set to 4096](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/virtual-memory-custom-size.jpg)
 9. Click**OK** to close the Virtual Memory window and apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Restart your Windows computer for the changes to take effect.
 
 ## Pagefile.sys, Demystified
@@ -161,8 +161,6 @@ Now, to bring back Pagefile.sys, follow the steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +168,24 @@ Now, to bring back Pagefile.sys, follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-amplify-your-videos-the-best-text-effects-guide/"><u>[Updated] Amplify Your Videos The Best Text Effects Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-shadow-scribes-compendium-best-kept-voice-apps-iosandroid/"><u>[Updated] In 2024, Shadow Scribes' Compendium Best-Kept Voice Apps (iOS/Android)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-techniques-for-stronger-video-content-with-b-clips/"><u>[Updated] Techniques for Stronger Video Content with B-Clips</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-time-saving-strategies-for-efficient-content-engagement-on-tiktok/"><u>2024 Approved Time-Saving Strategies for Efficient Content Engagement on TikTok</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/demystifying-unintended-pc-turn-offs-in-mid-game-sessions/"><u>Demystifying Unintended PC Turn-Offs in Mid-Game Sessions</u></a></li>
+<li><a href="https://win11.techidaily.com/ditch-the-focus-spotlight-icon-on-win11-desktop/"><u>Ditch the Focus: Spotlight Icon on Win11 Desktop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-ultimate-grass-cutting-joy-with-our-remote-controlled-lawn-mower-a-revelation-from-tech-review-at-zdnet/"><u>Experience Ultimate Grass-Cutting Joy with Our Remote-Controlled Lawn Mower - A Revelation From Tech Review at ZDNet!</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-setup-failures-windows-10-and-11-edition/"><u>Fixing Windows Setup Failures: Windows 10 & 11 Edition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-inside-facetune-an-authoritative-review-for-improved-images/"><u>In 2024, Inside Facetune An Authoritative Review for Improved Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-photo-excellence-simple-tips-and-tricks-for-2024/"><u>IPhone Photo Excellence Simple Tips & Tricks for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fixes-for-the-exception-has-been-reached-on-pcs/"><u>Mastering Fixes for The Exception Has Been Reached on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-the-managerial-maze-free-old-championship-soccer-management-guide/"><u>Navigate the Managerial Maze: Free Old Championship Soccer Management Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/redefining-usability-ai-transformations-in-windows/"><u>Redefining Usability: AI Transformations in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-a-dormant-tab-key-for-seamless-typing/"><u>Reviving a Dormant Tab Key for Seamless Typing</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-windows-interface-with-alignment/"><u>Streamline Windows Interface with Alignment</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/thermal-management-in-electric-vehicles-how-heat-influences-performance-and-longenity/"><u>Thermal Management in Electric Vehicles: How Heat Influences Performance & Longenity</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-not-found-in-windows-environments/"><u>Unraveling 'Not Found' In Windows Environments</u></a></li>
+</ul></div>
 

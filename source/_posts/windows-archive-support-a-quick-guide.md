@@ -1,7 +1,7 @@
 ---
 title: "Windows Archive Support: A Quick Guide"
-date: 2024-08-08T13:22:24.401Z
-updated: 2024-08-09T13:22:24.401Z
+date: 2025-01-22T07:23:14.841Z
+updated: 2025-01-24T16:18:21.058Z
 tags:
   - windows10
   - windows11
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
  Some archive formats like ZIP files can be viewed and extracted using File Explorer. But that still leaves a lot of archive formats inaccessible without a third-party archive manager tool.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Lack of support for other archive formats in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/lack-of-support-for-other-archive-formats-in-windows-11.jpg)
 
  However, Microsoft changed that in the Insider Dev build 23493\. This update allowed users to try out the inbuilt support to handle a variety of archive formats. So, you won’t need your trusty WinRar or 7-Zip apps to open archives in Windows 11\.
@@ -52,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
  The update also introduced [Dynamic Lighting to Windows 11](https://www.makeuseof.com/enable-dynamic-lighting-windows-11/). This feature lets you control all your RGB lighting devices connected to your Windows PC without a third-party app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable and Use Archive Support in Windows 11
 
  At the time of writing, the archive support feature is only available in Windows Insider build 23493 of the Dev channel.
@@ -64,25 +62,27 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
  After installing the latest Insider build, we downloaded three archive files (.rar, .7z., and .tar) and removed any archive manager program from the PC. Now, File Explorer reads these archive formats like ZIP format. You can double-click on the archive file to open it in a new window. From there, you can either drag and drop the contents to another location on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![Easily view rar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/easily-view-rar-files-in-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or, you can **right-click** on the archive file and then click on the **Extract all** option from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Extract .tar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, pick an appropriate location to extract the file and click on the **Extract** button. Voila! You can now easily access the archive contents without any third-party archive manager tool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Extract .tar files in Windows 11 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  But this doesn't spell the end for third-party apps You will still need tools like WinRar if you want to compress files or folders into a format other than ZIP, as Windows can only compress files and folders into the ZIP format.
 
@@ -91,15 +91,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
  You may experience performance issues while extracting the contents of the newly supported archive formats. It is because the feature is still in the experimental phase and will be gradually polished before it reaches the Release Preview and stable channels.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Easily Handle Other Archive Formats on Windows
 
  The support for many commonly used archive formats is a welcome addition to the Windows OS. It will surely trim down the dependence on WinRar and other tools to some extent. But there are still plenty of use cases for archive manager software, like compressing files to other formats, adding passwords, and choosing compression methods and other options.
 
  But Microsoft seems to want to reduce the dependence on these archive managing tools. Windows 11 now contains the option to manage other archive formats like RAR and TAR without needing a third-party app. Here's how to enable and use it on Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -107,3 +106,24 @@ DbSchema database designer for all databases, schema design in the team, schema 
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-adding-visual-variety-to-instagram-stories-step-by-step/"><u>[New] In 2024, Adding Visual Variety to Instagram Stories Step-by-Step</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tart-with-strategy-launching-an-online-dominant-gaming-channel/"><u>[New] Start with Strategy Launching an Online Dominant Gaming Channel</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-pioneering-methods-to-log-lol-gaming-sessions/"><u>[Updated] 2024 Approved Pioneering Methods to Log LOL Gaming Sessions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-seamless-integration-of-obs-and-zoom-services-for-2024/"><u>[Updated] Seamless Integration of OBS and Zoom Services for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/10-quick-tips-recognizing-your-xbox-controller-in-windows/"><u>10 Quick Tips: Recognizing Your Xbox Controller in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/a-practical-approach-to-revamping-group-policy-settings/"><u>A Practical Approach to Revamping Group Policy Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-windows-tasks-with-top-5-car-drivers/"><u>Accelerate Windows Tasks with Top 5 Car Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/adding-a-functional-system-update-alert-in-win11-pro/"><u>Adding a Functional System Update Alert in Win11 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-no-more-space-on-windows-oses/"><u>Avoiding 'No More Space' On Windows OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/block-unwanted-startup-stop-snipping-tool-from-prtscan-on-win-11/"><u>Block Unwanted Startup: Stop Snipping Tool From PrtScan on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-gratuit-en-ligne-de-fichiers-mp4-vers-mpeg-avec-movavi-guide-simple-et-rapide/"><u>Conversion Gratuit en Ligne De Fichiers MP4 Vers MPEG Avec Movavi - Guide Simple Et Rapide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-from-vision-to-visuals-craft-your-story-with-youtube-editor/"><u>In 2024, From Vision to Visuals Craft Your Story with YouTube Editor</u></a></li>
+<li><a href="https://win11.techidaily.com/1719251209823-overcome-wwinplusprint-hurdles-for-seamless-operations-in-windows/"><u>Overcome WWin+Print Hurdles for Seamless Operations in Windows.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-innocn-27c1u-a-stunning-4k-display-with-fast-connection-time-insights-from-zdnet/"><u>Review of Innocn 27C1U: A Stunning 4K Display with Fast Connection Time - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-comctl32dll-errors-effective-strategies-and-solutions/"><u>Troubleshooting Comctl32.dll Errors: Effective Strategies and Solutions</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-soundless-streamlining-techniques-for-audio-extraction-in-mp4-mkv-avi-mov-wmv-videos-for-2024/"><u>Updated Soundless Streamlining Techniques for Audio Extraction in MP4, MKV, AVI, MOV, WMV Videos for 2024</u></a></li>
+</ul></div>
+

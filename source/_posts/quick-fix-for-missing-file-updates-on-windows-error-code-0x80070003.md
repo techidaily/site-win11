@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix for Missing File Updates on Windows (Error Code: 0X80070003)"
-date: 2024-08-08T13:20:47.468Z
-updated: 2024-08-09T13:20:47.468Z
+date: 2025-01-22T07:41:46.552Z
+updated: 2025-01-25T04:33:50.426Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 
  A common error that users run into when trying to update their system is 0x80070003\. This error is accompanied by a message stating "Some update files are missing." Let's explore the reasons behind this issue and the solutions you can try to resolve it.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Why Are Update Files Missing From Your PC?
 
  One or more of the following reasons might explain why you are experiencing the problem on your computer:
@@ -33,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 4. The Windows Update service and other relevant services required by the system to install the pending updates are disabled or have become corrupt. In this case, you can simply restart the services to resolve the issue.
 
  Now that you know what might be causing the problem let’s see how to resolve this case of missing update files in Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Delete the Contents of the DataStore Folder
 
@@ -47,13 +48,18 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 ![Software distribution](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/win11-software-distribution.jpg)
 2. Locate the**DataStore** folder in the SoftwareDistribution folder and right-click on it.
 3. Choose**Delete** from the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![Delete the DataStore folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/software-distribution-datastore-delete-1.jpg)
 4. Click**Yes** in the confirmation prompt to proceed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the folder is deleted, open the Settings app and try installing the updates again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run System Scans
 
@@ -69,21 +75,12 @@ Here is all that you need to do:
 2. Click**Yes** in the User Account Control prompt.
 3. In the Command Prompt window, type the command mentioned below and hit**Enter** .  
 `sfc /scannow`  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/sfc-scannow.jpg)
 4. Wait for the command to execute, and then execute the following command:  
 `Dism /Online /Cleanup-Image /ScanHealth`  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![DISM scanhealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/scanhealth.jpg)
 5. Next, proceed with the following command:  
 `Dism /Online /Cleanup-Image /RestoreHealth`  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![DISM restorehealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/restorehealth.jpg)
 6. Once this command is executed, close the Command Prompt window and check if you can now download the targeted updates.
 
@@ -116,24 +113,26 @@ net start bits
 net start cryptsvc  
 net start trustedinstaller  
 net start appidsvc`  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Restart the update services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-the-services.jpg)
 7. After the commands are executed, restart your computer. Hopefully, you will be able to install the pending updates on reboot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get the Missing Update Files Back on Windows
 
  Hopefully, by now, you should have successfully resolved the annoying update error. In case you are still facing the issue, you can use the Microsoft update catalog to install the updates manually. It may also be a good idea to report this issue to the Microsoft support team so they can launch an official fix for the problem.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +141,21 @@ net start appidsvc`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-elevating-speech-understanding-via-google-translate/"><u>[New] 2024 Approved Elevating Speech Understanding via Google Translate</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-fb-video-marketing-made-simple-free-toolkit-unlocks-potential/"><u>[New] 2024 Approved FB Video Marketing Made Simple Free Toolkit Unlocks Potential</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-cool-climates-cozy-cinematics-selecting-winter-backgrounds/"><u>[Updated] In 2024, Cool Climates, Cozy Cinematics Selecting Winter Backgrounds</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-mastering-smooth-volume-changes-in-fl-studio/"><u>[Updated] Mastering Smooth Volume Changes in FL Studio</u></a></li>
+<li><a href="https://win11.techidaily.com/breakthrough-restoring-access-to-shared-windows-data/"><u>Breakthrough: Restoring Access to Shared Windows Data</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-limited-it-administrator-power-error-on-windows/"><u>Bypassing Limited IT Administrator Power Error on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-signature-checks-for-easy-updates/"><u>Bypassing Windows' Signature Checks for Easy Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/circumventing-intel-graphic-spec-limitations-a-guide-to-improvement/"><u>Circumventing Intel Graphic Spec Limitations: A Guide to Improvement</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-and-clean-automating-your-files-end-of-life-in-windows/"><u>Clear and Clean: Automating Your Files' End of Life in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/combat-strategies-for-operational-error-740-in-windows-devices/"><u>Combat Strategies for Operational Error #740 in Windows Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/detailed-analysis-and-overview-of-du-recorders-capabilities-for-2024/"><u>Detailed Analysis and Overview of Du Recorder’s Capabilities for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480610243-iphone-keeps-photos-in-secret-cache-discover-the-top-8-ways-to-clear-it/"><u>IPhone Keeps Photos in Secret Cache? Discover the Top 8 Ways to Clear It</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-15-sostituti-di-obs-studio-per-la-registrazione-e-lo-streaming/"><u>Top 15 Sostituti Di OBS Studio per La Registrazione E Lo Streaming</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-overcoming-voice-communication-problems-in-destiny-2/"><u>Troubleshooting Guide: Overcoming Voice Communication Problems in Destiny 2</u></a></li>
+</ul></div>
 

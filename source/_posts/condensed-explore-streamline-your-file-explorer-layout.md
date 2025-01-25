@@ -1,7 +1,7 @@
 ---
 title: "Condensed Explore: Streamline Your File Explorer Layout"
-date: 2025-01-17T11:51:47.687Z
-updated: 2025-01-18T18:07:51.121Z
+date: 2025-01-20T08:33:25.272Z
+updated: 2025-01-25T07:56:59.839Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Enable Compact View in File Explorer Using the Command Bar
 
  The easiest way to enable or disable the compact view in File Explorer is to use the command bar. Here's what you need to do:
@@ -38,10 +34,14 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 ![Compact view option in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/comapct-view-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it. You might need to restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Enable Compact View in File Explorer Using Folder Options
 
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 ![Control folders command in the Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-folders-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the Folder option, switch to the **View** tab and check the **Decrease space between item (compact view)** box. Then, click **Apply** \> **OK** to save the changes.
@@ -66,14 +66,10 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 ![Decrease space between item (compact view) option in the Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/decrease-space-between-item-compact-view-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With that, you should have less space between your files in File Explorer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Enable Compact View in File Explorer Using the Registry Editor
 
@@ -90,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 5. Search for and double-click on the **UseCompactMode** entry in the right pane.
 6. Type **1** in **Value data** and click OK. This will enable the Compact View. To disable, type **0** in the **Value data** and click **OK.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Change the File Explorer Look Anytime
 
@@ -112,20 +112,18 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-handheld-panorama-peacekeeper-360-stabilizer/"><u>[New] Handheld Panorama Peacekeeper 360° Stabilizer</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-hands-on-approach-to-ios-audio-capture/"><u>[Updated] In 2024, Hands-On Approach to iOS Audio Capture</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oppo-a78-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Oppo A78 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/eal-time-follower-analysis/"><u>24/7 Real-Time Follower Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-unique-snap-configurations-in-win-os/"><u>Crafting Unique Snap Configurations in Win OS</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/crafting-visually-striking-fb-ad-videos/"><u>Crafting Visually Striking FB Ad Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/getting-the-most-out-of-google-meet-for-free-for-2024/"><u>Getting the Most Out of Google Meet (For Free) for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/high-res-quests-ultimate-guide-to-playing-adventures-in-hd-using-scummvm/"><u>High-Res Quests: Ultimate Guide to Playing Adventures in HD Using ScummVM</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-open-the-volume-mixer-in-windows-11/"><u>How to Open the Volume Mixer in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/microsoft-teams-screen-share-issues-quick-fixes/"><u>Microsoft Teams Screen Share Issues: Quick Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-external-monitor-not-responding-in-windows-os/"><u>Resolving External Monitor Not Responding in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/transition-to-open-source-enable-linux-subsystem-for-windows/"><u>Transition to Open Source: Enable Linux Subsystem for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/typingpros-guide-to-swift-typing-using-typingaid/"><u>TypingPros Guide to Swift Typing Using TypingAid</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unconventnial-joy-in-reviewing-the-ddpai-mini3-dash-cam-model/"><u>Unconventnial Joy in Reviewing the Ddpai Mini3 Dash Cam Model</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-new-browsing-potential-with-gesture-controls-in-microsoft-written-by-ai/"><u>Unlocking New Browsing Potential with Gesture Controls in Microsoft' Written by AI</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-tech-tools-for-distance-podcasting/"><u>[New] 2024 Approved Tech Tools for Distance Podcasting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-endorsed-ae-text-tools/"><u>[Updated] Expert-Endorsed AE Text Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sony-a6400-fixing-the-invisible-video-playback/"><u>[Updated] Sony A6400 Fixing the Invisible Video Playback</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-interface-with-three-column-widgets-in-win11/"><u>Elevate Your Interface with Three-Column Widgets in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicating-glare-methods-to-stop-monitor-flashing/"><u>Eradicating Glare: Methods to Stop Monitor Flashing</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-get-the-outlook-preview-app-on-windows-11-and-11/"><u>How to Get the Outlook Preview App on Windows 11 and 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-motorola-defy-2-lock-screen-password-by-drfone-android/"><u>How to Reset your Motorola Defy 2 Lock Screen Password</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-the-trick-for-swift-folder-reorganization-on-windows-11/"><u>Learn the Trick for Swift Folder Reorganization on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-fixing-fallout-76-on-your-computer-comprehensive-guide/"><u>Master the Art of Fixing Fallout 76 on Your Computer: Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-savings-on-windows-11-keys/"><u>Maximizing Savings on Windows 11 Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/reignite-the-joy-of-win-11-gaming-master-these-seven-game-changing-tweaks/"><u>Reignite the Joy of Win 11 Gaming: Master These Seven Game-Changing Tweaks</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-integrating-alternate-antivirus-without-defenders-restrictions/"><u>Tips for Integrating Alternate Antivirus without Defender’s Restrictions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-apple-watch-solving-issues-with-cellular-connectivity/"><u>Troubleshooting Apple Watch: Solving Issues with Cellular Connectivity</u></a></li>
 </ul></div>
 

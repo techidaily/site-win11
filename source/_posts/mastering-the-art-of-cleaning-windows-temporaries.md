@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Cleaning Windows' Temporaries
-date: 2025-01-16T20:46:03.950Z
-updated: 2025-01-19T07:30:58.193Z
+date: 2025-01-21T18:03:29.151Z
+updated: 2025-01-25T01:24:48.746Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Use the Disk Cleanup Tool
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 
  Wait for a few moments until the Disk Cleanup tool clears all the temporary files.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Use Command Prompt
 
  If the Disk Cleanup utility fails to delete some or all of the temporary files on Windows, you can try using the Command Prompt instead. Don’t worry, the process isn’t as complex as it might sound.
@@ -63,6 +59,10 @@ del /q /f /s %temp%\* && del /s /q C:\Windows\temp\*
 ![Delete Temp Files Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-temp-files-using-command-prompt.jpg)
 
  Wait for the above command to run and delete the temporary files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Empty the SoftwareDistribution Folder
 
@@ -81,10 +81,14 @@ C:\Windows\SoftwareDistribution\Download
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clear-softwaredistribution-folder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you run into issues while emptying the SoftwareDistribution folder, you can [force delete files in Windows](https://www.makeuseof.com/windows-11-delete-stubborn-files/) using Command Prompt or a third-party tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Edit Registry Files
 
@@ -104,7 +108,7 @@ C:\Windows\SoftwareDistribution\Download
  Restart your PC after this and try to delete temporary files once again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Boot Into Safe Mode
@@ -112,10 +116,6 @@ C:\Windows\SoftwareDistribution\Download
  It's possible that a third-party program or background service is preventing Windows from erasing temporary files on your system. Booting your PC in safe mode can help you avoid any interference, as Windows will only run with essential drivers and services.
 
  Use one of the many ways to [boot into safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) and try to delete temporary files one more time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Rid of Temporary Files on Windows
 
@@ -135,24 +135,19 @@ C:\Windows\SoftwareDistribution\Download
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-turn-off-a-discord-server-device-wise/"><u>[Updated] 2024 Approved How to Turn Off a Discord Server Device-Wise</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-eye-catching-text-top-10-photo-writing-tools-for-smartphones/"><u>[Updated] Eye-Catching Text Top 10 Photo Writing Tools for Smartphones</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-navigating-the-future-vrs-role-in-business-strategy/"><u>[Updated] Navigating the Future VR's Role in Business Strategy</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-revolutionize-your-facebook-experience-with-auto-play-videos/"><u>[Updated] Revolutionize Your Facebook Experience with Auto-Play Videos</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-lava-blaze-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-fix-restoring-functionality-to-windows-charmap/"><u>Comprehensive Fix: Restoring Functionality to Windows CharMap</u></a></li>
-<li><a href="https://win11.techidaily.com/dissecting-the-downfalls-of-modern-standby-in-windows-os/"><u>Dissecting the Downfalls of Modern Standby in Windows OS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exclusive-offer-alert-get-an-apple-watch-series-10-at-only-99-with-a-preorder-from-best-buy-the-step-by-step-tutorial/"><u>Exclusive Offer Alert! Get an Apple Watch Series 10 at Only $99 with a Preorder From Best Buy – The Step-by-Step Tutorial</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-nubia-red-magic-8s-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Nubia Red Magic 8S Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-15-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone 15 Pro? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-macbook-cam-tutorial-for-smooth-video-capture/"><u>In 2024, MacBook Cam Tutorial for Smooth Video Capture</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-tier-business-data-haven-selection/"><u>In 2024, Top-Tier Business Data Haven Selection</u></a></li>
-<li><a href="https://win11.techidaily.com/interfacing-with-the-core-of-windows-print-system/"><u>Interfacing with the Core of Windows Print System</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-ethernet-connection-fixes/"><u>Navigating Through Ethernet Connection Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-run-as-admin-errors-a-guide/"><u>Overcoming Run as Admin Errors: A Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/reconnect-steam-friends-list-step-by-step-guide-windows-11/"><u>Reconnect Steam Friends List: Step-by-Step Guide, Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/tactics-to-transition-from-stuck-in-windows-1011-s-mode/"><u>Tactics to Transition From Stuck in Windows 10/11 S Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/uncomplicated-transformation-of-heic-files-into-jpeg/"><u>Uncomplicated Transformation of HEIC Files Into JPEG</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-joy-essential-list-of-free-media-players-for-windows/"><u>Unleash Joy: Essential List of Free Media Players for Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transform-your-channels-with-any-of-the-top-11-budget-friendly-naming-solutions/"><u>[New] Transform Your Channels With Any of the Top 11 Budget-Friendly Naming Solutions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-jumpstarting-video-communication-a-3-step-guide-for-snapchat-users/"><u>[Updated] 2024 Approved Jumpstarting Video Communication A 3-Step Guide for Snapchat Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unmasking-instagrams-unnoticed-capabilities-for-2024/"><u>[Updated] Unmasking Instagram’s Unnoticed Capabilities for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-adaptability-and-agility-key-attributes-for-thriving-in-a-changing-market-landscape/"><u>2024 Approved Adaptability & Agility Key Attributes for Thriving in a Changing Market Landscape</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-dots-top-8-window-friendly-note-apps/"><u>Digital Dots: Top 8 Window-Friendly Note Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-microsoft-store-on-your-pc/"><u>How to Fix a Non-Responsive Microsoft Store on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-vmware-bsod-error-on-windows-11/"><u>How to Fix VMware BSOD Error on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hp-laptop-usb-port-not-working-solved/"><u>HP Laptop USB Port Not Working [SOLVED]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-13t-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi 13T Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/introducing-ed-inspired-visuals-to-windows/"><u>Introducing Ed-Inspired Visuals to Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/lightning-fast-retrieval-of-vanished-reddit-discussions-for-2024/"><u>Lightning-Fast Retrieval of Vanished Reddit Discussions for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-your-desktop-icon-order/"><u>Reclaiming Your Desktop Icon Order</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-access-fixing-frozen-windows-terminals-quickly/"><u>Regaining Access: Fixing Frozen Windows Terminals Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-tweak-indexer-in-windows/"><u>Steps to Tweak Indexer in Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Maximizing Disk Space with Compression in Windows 11
-date: 2024-08-08T13:22:32.083Z
-updated: 2024-08-09T13:22:32.083Z
+date: 2025-01-19T21:48:32.727Z
+updated: 2025-01-24T19:39:15.772Z
 tags:
   - windows10
   - windows11
@@ -20,16 +20,21 @@ thumbnail: https://thmb.techidaily.com/1566f2e12245a235c67dc60282357da8be7ca7e87
 
  But Microsoft seems to want to reduce the dependence on these archive managing tools. Windows 11 now contains the option to manage other archive formats like RAR and TAR without needing a third-party app. Here's how to enable and use it on Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does Windows Need Built-In Support for Archive Formats?
 
  For a long time, if you download an archive file (RAR, 7Z, TAR, or any other format) on Windows 11 or older versions, you simply couldn't double-click to open the archive. Moreover, it was impossible to extract the files using File Explorer.
 
  Some archive formats like ZIP files can be viewed and extracted using File Explorer. But that still leaves a lot of archive formats inaccessible without a third-party archive manager tool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Lack of support for other archive formats in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/lack-of-support-for-other-archive-formats-in-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, Microsoft changed that in the Insider Dev build 23493\. This update allowed users to try out the inbuilt support to handle a variety of archive formats. So, you won’t need your trusty WinRar or 7-Zip apps to open archives in Windows 11\.
 
@@ -52,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/1566f2e12245a235c67dc60282357da8be7ca7e87
  The update also introduced [Dynamic Lighting to Windows 11](https://www.makeuseof.com/enable-dynamic-lighting-windows-11/). This feature lets you control all your RGB lighting devices connected to your Windows PC without a third-party app.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable and Use Archive Support in Windows 11
 
  At the time of writing, the archive support feature is only available in Windows Insider build 23493 of the Dev channel.
@@ -66,39 +72,33 @@ thumbnail: https://thmb.techidaily.com/1566f2e12245a235c67dc60282357da8be7ca7e87
 
 ![Easily view rar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/easily-view-rar-files-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or, you can **right-click** on the archive file and then click on the **Extract all** option from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Extract .tar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, pick an appropriate location to extract the file and click on the **Extract** button. Voila! You can now easily access the archive contents without any third-party archive manager tool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Extract .tar files in Windows 11 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11-2.jpg)
 
  But this doesn't spell the end for third-party apps You will still need tools like WinRar if you want to compress files or folders into a format other than ZIP, as Windows can only compress files and folders into the ZIP format.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Winrar customization while compressing a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/winrar-customization-while-compressing-a-file.jpg)
 
  You may experience performance issues while extracting the contents of the newly supported archive formats. It is because the feature is still in the experimental phase and will be gradually polished before it reaches the Release Preview and stable channels.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Easily Handle Other Archive Formats on Windows
 
  The support for many commonly used archive formats is a welcome addition to the Windows OS. It will surely trim down the dependence on WinRar and other tools to some extent. But there are still plenty of use cases for archive manager software, like compressing files to other formats, adding passwords, and choosing compression methods and other options.
 
  But Microsoft seems to want to reduce the dependence on these archive managing tools. Windows 11 now contains the option to manage other archive formats like RAR and TAR without needing a third-party app. Here's how to enable and use it on Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -106,3 +106,22 @@ thumbnail: https://thmb.techidaily.com/1566f2e12245a235c67dc60282357da8be7ca7e87
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-taking-control-advanced-techniques-for-gaming-capture-on-windows-11/"><u>[New] In 2024, Taking Control Advanced Techniques for Gaming Capture on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-explore-the-finest-movie-series-youtubes-10-pack-no-cost/"><u>[Updated] 2024 Approved Explore the Finest Movie Series YouTube's 10-Pack, No Cost</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-streamline-live-tv-capture-in-windows-free-methods/"><u>[Updated] In 2024, Streamline Live TV Capture in Windows (Free Methods)</u></a></li>
+<li><a href="https://win11.techidaily.com/5-ways-to-fix-the-local-device-name-is-already-in-use-error-on-windows/"><u>5 Ways to Fix the Local Device Name Is Already in Use Error on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/ace-the-art-of-completing-a-perfect-windows-update/"><u>Ace the Art of Completing a Perfect Window's Update</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-gameplay-recording-harnessing-intel-graphics-hub/"><u>Advanced Gameplay Recording: Harnessing Intel Graphics Hub</u></a></li>
+<li><a href="https://win11.techidaily.com/advancing-classic-games-in-hd-best-practices-with-scummvm-and-windows-os/"><u>Advancing Classic Games in HD: Best Practices with ScummVM and Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-compatibility-woes-with-surface-firmware-upgrade-tips/"><u>Avoid Compatibility Woes with Surface Firmware Upgrade Tips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/vering-popular-video-threads/"><u>Discovering Popular Video Threads</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-htc-u23-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock HTC U23 Pro Bootloader Easily</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsungs-latest-smartphone-unveiling-what-you-need-to-know/"><u>Samsung's Latest Smartphone Unveiling: What You Need to Know</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-resolution-of-poor-sound-quality-on-a-windows-10-machine/"><u>Step-by-Step Resolution of Poor Sound Quality on a Windows 10 Machine</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the MMC Could Not Create the Snap-In Error in Windows
-date: 2025-01-14T16:52:49.503Z
-updated: 2025-01-19T05:01:45.487Z
+date: 2025-01-19T22:54:53.760Z
+updated: 2025-01-25T06:08:59.190Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Fix the Broken Registry Configuration for the Snap-In
 
 ![delete-registry-key-mmc-snap-in-windows-registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-registry-key-mmc-snap-in-windows-registry.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the registry configuration for the affected snap-in is broken, it may trigger the "MMC could not create the snap-in" error. To fix the issue, you’ll need to delete the corrupt registry entry associated with the snap-in. Here’s how to do it.
 
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 5. After the restart, open the administrative tool snap-in to see if the error is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable .NET Framework
@@ -71,16 +71,12 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 5. Once installed, you’ll be prompted to restart the computer. Restart your system, and the MMC snap-in should work now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check for and Repair Corrupt System Files
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan-health-restore-health-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have one or more corrupt system files, it may cause issues with the system apps. You can run the System File Checker tool to determine if the problem is due to system file issues. It will scan and check the integrity of systems files and automatically repair them to fix the problem.
 
@@ -89,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
  If you're not sure how to run either of these tools, we cover both in our guide on [how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Remove and Reinstall the Microsoft Visual C++ Redistributable
@@ -110,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
  If the issue persists, reinstalling the Visual C++ Redistributable package may be required. To reinstall the package:
 
 ![uninstall microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/uninstall-microsoft-visual-c-plus-plus-distributable-package.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Select the **Microsoft Visual C++ package** in Control Panel and click on **Uninstall**.
 2. Click **Uninstall** in the **Modify Setup** dialog.
@@ -137,24 +137,19 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-sound-recorder-quality-overview/"><u>[Updated] 2024 Approved Sound Recorder Quality Overview</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-transforming-your-footage-into-shareable-youtube-stories/"><u>[Updated] Transforming Your Footage Into Shareable YouTube Stories</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/15-best-luts-to-enhance-gopro-action-camera-footage-for-2024/"><u>15 Best LUTs To Enhance GoPro Action Camera Footage for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/activating-windows-11-writable-driver-verifier/"><u>Activating Windows 11' Writable Driver Verifier</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-iphone-14-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On iPhone 14 - 4 Easy Ways</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-vpn-network-disconnection-on-a-remote-work-pc/"><u>Fixing VPN Network Disconnection on a Remote Work PC</u></a></li>
-<li><a href="https://win11.techidaily.com/from-iphone-to-desktop-syncing-ios-calendar-with-windows-1011/"><u>From iPhone to Desktop: Syncing iOS Calendar with Windows 10/11</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/high-resolution-toucan-wallpaper-downloads-stunning-hd-backgrounds-and-imagery-by-yl-computing/"><u>High-Resolution Toucan Wallpaper Downloads: Stunning HD Backgrounds & Imagery by YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-windows-11-and-11-desktop-context-menu-not-working/"><u>How to Fix the Windows 11 & 11 Desktop Context Menu Not Working</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-detailed-review-optimal-screen-recorders-for-live-broadcasts/"><u>In 2024, Detailed Review Optimal Screen Recorders for Live Broadcasts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-accelerate-your-videos-top-10-free-speed-changer-apps-for-ios-and-android/"><u>New Accelerate Your Videos Top 10 Free Speed Changer Apps for iOS and Android</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/professional-insights-enhancing-digital-videos-and-photos-online/"><u>Professional Insights Enhancing Digital Videos & Photos Online</u></a></li>
-<li><a href="https://win11.techidaily.com/separate-onedrive-and-microsoft-accounts-on-desktop-windows/"><u>Separate OneDrive & Microsoft Accounts on Desktop Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-troubleshooting-xbox-audio-failures-in-pcs/"><u>Steps for Troubleshooting Xbox Audio Failures in PCs</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/streamline-your-mixes-a-curated-list-of-the-top-5-dynamic-audio-ducking-tools-for-producers-for-2024/"><u>Streamline Your Mixes A Curated List of the Top 5 Dynamic Audio Ducking Tools for Producers for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-supercharge-video-memory-on-windows-devices/"><u>Tips to Supercharge Video Memory on Windows Devices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-xiaomi-redmi-note-12-pro-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Xiaomi Redmi Note 12 Pro 5G Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-remedying-windows-11-app-error-afc/"><u>Understanding and Remedying Windows 11 APP Error AFC</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-eliminate-auto-change-backgrounds/"><u>Windows 11: Eliminate Auto-Change Backgrounds</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-superior-console-emulation-best-ps1-games-for-your-pc/"><u>[New] In 2024, Superior Console Emulation Best PS1 Games for Your PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-groundbreaking-companies-at-the-vr-content-frontier/"><u>2024 Approved Groundbreaking Companies at the VR Content Frontier</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prestige-choices-top-rated-sites-for-securing-snapalert-music/"><u>2024 Approved Prestige Choices Top-Rated Sites for Securing SnapAlert Music</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unlocking-earning-potential-with-youtube-shorts-crucial-elements-possible-returns/"><u>2024 Approved Unlocking Earning Potential with Youtube Shorts Crucial Elements, Possible Returns</u></a></li>
+<li><a href="https://win11.techidaily.com/confronting-the-def5-error-code-in-onedrive-w11-style/"><u>Confronting the Def5 Error Code in OneDrive, W11 Style</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/crafting-compact-comforts-essential-mc-abodes-for-beginners-for-2024/"><u>Crafting Compact Comforts Essential MC Abodes for Beginners for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/hush-your-background-processes-in-win11/"><u>Hush Your Background Processes in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-actions-against-windows-11-search-failures/"><u>Immediate Actions Against Windows 11 Search Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/increase-windows-storage-securely/"><u>Increase Windows Storage Securely</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211373526-9798990783232-liberandote-de-libro-de-ejercicio/"><u>Liberándote de... libro de ejercicio | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/reconstructed-windows-log-a-guide-to-clearing-defender-data/"><u>Reconstructed Windows Log: A Guide to Clearing Defender Data</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/securing-yourself-from-motion-sickness-in-vr/"><u>Securing Yourself From Motion Sickness in VR</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/selecting-the-best-ai-therapist-chatgpts-role-considerations/"><u>Selecting the Best AI Therapist - ChatGPT's Role Considerations</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/top-list-best-5-tools-for-creating-talking-avatars/"><u>Top List Best 5 Tools for Creating Talking Avatars</u></a></li>
 </ul></div>
 

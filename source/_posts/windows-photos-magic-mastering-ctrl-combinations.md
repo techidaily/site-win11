@@ -1,7 +1,7 @@
 ---
 title: "Windows Photos Magic: Mastering Ctrl Combinations"
-date: 2024-08-08T13:23:00.778Z
-updated: 2024-08-09T13:23:00.778Z
+date: 2025-01-17T20:42:24.940Z
+updated: 2025-01-24T21:57:11.852Z
 tags:
   - windows10
   - windows11
@@ -20,16 +20,10 @@ thumbnail: https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db
 
  In this article, we'll list and explain some of the most useful keyboard shortcuts in Windows Photos, so you can get the most out of them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## All the Keyboard Shortcuts for Windows Photos
 
  The following keyboard shortcuts will help you use Photos more efficiently:
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Play or Pause the Video
 
  The shortcut to play or pause the video in the Photos app is the**Spacebar** . Pressing this key will either start or stop a currently playing video, depending on its current state.
@@ -39,30 +33,32 @@ thumbnail: https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db
  To rotate an image in the Photos app, press the**Ctrl + R** key. This will rotate the image 90 degrees clockwise with each press.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Show or Hide Commands
 
  The shortcut to show or hide commands in the Photos app is the**Spacebar** while viewing a photo. Keep in mind that it only works while viewing a photo.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Scroll Up, Down, Left, or Right
 
  The shortcut to scroll up, down, left, or right in the Photos app is the**Arrow** key. The up and down arrow keys will scroll vertically and the left and right arrow keys will scroll horizontally.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### 5\. Zoom in or Out of an Image
 
  The shortcut to zoom in or out of an image in the Photos app is the**Ctrl** +**plus (+)** or**minus (-)** keys. Pressing the plus key will zoom in and pressing the minus key will zoom out.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 6\. Reset Zoom on a Photo
 
  In the Photos app, the shortcut to reset zoom is the**Ctrl + 0** (zero) key. This will reset the zoom level to its default settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Return to the Previous Screen
 
@@ -76,6 +72,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  In the Photos app, the shortcut to print is the**Ctrl + P** key. This will open up a print dialogue box, allowing you to select the printer, paper size, quality, and other options before printing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 10\. Copy
 
  The shortcut to copy in the Photos app is the**Ctrl + C** key. This will copy the current photo or video to the clipboard, so it can be pasted into another location.
@@ -88,6 +88,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  In the Photos app, the shortcut to undo changes is the**Ctrl + Z** key. This will undo any changes made to the currently selected photo or video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 13\. Redo Changes
 
  The shortcut to redo changes in the Photos app is the**Ctrl + Y** key. This will redo any changes that were undone with the Ctrl + Z key.
@@ -97,29 +101,25 @@ DbSchema database designer for all databases, schema design in the team, schema 
  The shortcut to view the original version of a photo or video in the Photos app is the**Ctrl + /** key. This will show the image or video as it was before any edits were made.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 15\. Start a Slide Show
 
  The shortcut to start a slide show in the Photos app is the**F5** key. This will open up a full-screen slideshow of all the images and videos in the current folder.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 16\. Stop a Slide Show
 
  In the Photos app, the shortcut to stop a slide show is the**Esc** key. This will close the full-screen slideshow and return you to the main Photos app window.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 17\. View File Info
 
  The shortcut to view file info in the Photos app is the**Alt + Enter** key. This will open up a window with detailed information about the selected photo or video, such as its size, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 18\. Set As Lock Screen
 
  The shortcut to set a photo or video as the lock screen in the Photos app is the**Ctrl + L** key. This will open up a window where you can select the image or video to be used as your lock screen.
@@ -132,9 +132,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  The shortcut to remove an album in the Photos app is the**Ctrl + R** key. This will delete the selected album and all of its contents.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 21\. Move Within the Photo
 
  The shortcut to move within a photo in the Photos app is the**Arrow** key. Using the left and right arrow keys will allow you to quickly scroll through the photo, while the up and down arrows will zoom in and out.
@@ -143,39 +140,35 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  The shortcut to select an item and enter Selection mode in the Photos app is the**Spacebar** key.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 23\. Show the Next or Previous Item
 
  In the Photos app, the shortcut to show the next or previous item is the Left or right arrow keys. It is only possible to do this with a single item or slide show.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 24\. Resize Crop or Selective Focus Area
 
  The shortcut to resize, crop or adjust the selective focus area in the Photos app is the**Shift + Arrow** keys. Holding down the Shift key while using the arrow keys will allow you to resize, crop, or adjust the selective focus area.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 25\. Move Crop or Selective Focus Area
 
  The shortcut to move the crop or selective focus area in the Photos app is the**Ctrl + Arrow** keys. Holding down the Ctrl key while using the arrow keys will allow you to move the crop or selective focus area.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Photos App Has More to Offer
 
  These are the keyboard shortcuts for the Photos app on Windows. Using these shortcuts can make it easier and faster to navigate, edit, and manage photos in the app. Try them out when you use the Photos app next time on your computer.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -184,4 +177,24 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-revolutionary-date-insertion-methods-for-digital-artifacts/"><u>[New] 2024 Approved Revolutionary Date Insertion Methods for Digital Artifacts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-getting-real-broadcast-your-life-on-youtube-using-obs/"><u>[New] In 2024, Getting Real Broadcast Your Life on Youtube Using OBS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-how-to-seamlessly-observe-the-most-praised-youtube-comments/"><u>[New] In 2024, How to Seamlessly Observe the Most Praised YouTube Comments</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-masterpiece-on-your-screen-iphones-free-photoshop-alternatives/"><u>[Updated] In 2024, Masterpiece on Your Screen – iPhone’s Free Photoshop Alternatives</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-selecting-the-ultimate-gear-for-stellar-4k-production/"><u>[Updated] Selecting the Ultimate Gear for Stellar 4K Production</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-visual-upgrade-mastery-of-video-enhancer-version-22/"><u>2024 Approved Ultimate Visual Upgrade Mastery of Video Enhancer Version 2.2</u></a></li>
+<li><a href="https://win11.techidaily.com/5-actionable-steps-to-solve-gpeditmsc-disappearance/"><u>5 Actionable Steps to Solve Gpedit.msc Disappearance</u></a></li>
+<li><a href="https://win11.techidaily.com/8-essential-techniques-for-improved-cs-go-play/"><u>8 Essential Techniques for Improved CS Go Play</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/jpeg-bmp-movavi/"><u>無需付錢 - 網路上 JPEG 到 BMP 自由改編器 - Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/a-compreayers-guide-accessing-windows-web-services-manager/"><u>A Compreayer's Guide: Accessing Windows Web Services Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/a-deep-dive-into-the-negative-side-of-low-end-windows-licenses/"><u>A Deep Dive Into the Negative Side of Low-End Windows Licenses</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-open-failed-error-on-ges-sharing-feature/"><u>Addressing Open Failed Error on GE's Sharing Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-the-cost-monitor-functionality-of-your-wifi-network/"><u>Adjusting the Cost Monitor Functionality of Your Wifi Network</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-missed-opportunities-top-9-outlook-enhancements-in-windows/"><u>Avoid Missed Opportunities: Top 9 Outlook Enhancements in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-computer-skills-keyboard-shortcuts-for-success/"><u>Boost Your Computer Skills: Keyboard Shortcuts for Success</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-edge-40-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Motorola Edge 40 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+</ul></div>
 

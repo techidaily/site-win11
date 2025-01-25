@@ -1,7 +1,7 @@
 ---
 title: Eliminating 0X800713F Halt in Windows 11 Mail
-date: 2025-01-18T10:56:01.384Z
-updated: 2025-01-19T12:41:45.947Z
+date: 2025-01-18T05:21:28.472Z
+updated: 2025-01-25T04:55:42.592Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Windows Store Apps Troubleshooter
 
  The Windows Store Apps troubleshooter doesn’t fix every app error that occurs. However, that troubleshooting tool is always worth a try whenever a UWP app like Mail throws up an error code. You can give the Windows Store Apps troubleshooter a whirl as follows:
@@ -37,15 +41,7 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 5. Go through the troubleshooter and apply all suggestions it makes.  
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-store-apps-troubleshooter2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The same troubleshooter is available in Windows 10, but the steps for accessing it in Settings are a little different. You’ll need to select the**Update & Security** category in Windows 10’s Settings app. Then select the**Troubleshoot** tab and**Additional troubleshooters** to view the list of troubleshooting tools.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Change the Privacy Settings for the Mail App
 
@@ -66,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
  If you find those settings are already turned on, try re-enabling them. Turn off the**Allows apps to access your email** and**Mail and Calendar** options, and click**Restart** on the Start menu. Then return to Settings to turn those settings back on after the restart.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Reset and Repair the Mail App
@@ -74,14 +70,6 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
  Windows 11 includes**Reset** and**Repair** options that can often fix buggy UWP apps showing error codes. Resetting the Mail app can eradicate corrupted data. Our guide to[resetting apps in Windows](https://www.makeuseof.com/windows-reset-app/) provides further details on how to do that. You can also select an alternative**Repair** option for Mail just above its**Reset** button.
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Allow Mail and Calendar Through Windows Defender Firewall
 
@@ -92,8 +80,17 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![The Windows Defender Firewall applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-windows-defender-firewall-option.jpg)
 3. Select the two**Turn off Windows Defender Firewall** settings available for public and private networks.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-windows-defender-firewall-options.jpg)
 4. Next, press the**OK** button below the firewall settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Then bring up Mail and try adding an email account to it.
 
  If disabling the firewall resolves error 0x800713f, WDF was probably blocking Mail when it was on. We don’t recommend leaving the firewall off. Allow Mail through WDF as outlined within our guide for[allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Then turn the firewall back on.
@@ -103,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
  Do you have a third-party firewall on your desktop or laptop? If you do, that software could also be causing Mail app issues. Try disabling third-party firewall software to see if that makes a difference. If it does, check the firewall’s permission settings to ensure Mail is allowed through.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Log in to Windows With a Local User Account
@@ -121,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 2. Then fill out the local account boxes, and select the**Next** option.  
 ![Local account info boxes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enter-your-local-account-info.jpg)
 3. Press the**Sign out** **and** **Finish** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The Sign out and finish button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-sign-out-and-finish-button.jpg)
 4. Log in to your local user account.
@@ -142,13 +143,13 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![The Get in Store app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-get-in-store-app-button.jpg)
 7. Click Open in Microsoft Store to bring up a**Get** option for the app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Select**Get** to reinstall Mail.
 
  The steps for reinstalling Mail in Windows 10 Settings are similar. You’ll need to select the**Apps** category in Settings. Then select Mail and Calendar in Apps & features, and press its**Uninstall** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Send More Emails With the Mail App
 
@@ -169,20 +170,16 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/slr-or-mirrorless-for-high-quality-video-recording-in-2024/"><u>[New] DSLR or Mirrorless for High-Quality Video Recording, In 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-mastering-ease-inease-out-techniques-in-camtasa-9/"><u>[Updated] Mastering Ease In/Ease Out Techniques in Camtasa 9</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-price-tag-shooting-your-next-music-video/"><u>[Updated] Price Tag Shooting Your Next Music Video</u></a></li>
-<li><a href="https://windows11.techidaily.com/becoming-an-admin-in-pc-command-console/"><u>Becoming an Admin in PC Command Console</u></a></li>
-<li><a href="https://facebook.techidaily.com/curating-personalized-reflections-on-facebook/"><u>Curating Personalized Reflections on Facebook</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-low-memory-warning-in-vmware-hosted-windows-environments/"><u>Fixing Low Memory Warning in VmWare-Hosted Windows Environments</u></a></li>
-<li><a href="https://win11.techidaily.com/lowering-edges-cpu-load-a-user-guide/"><u>Lowering Edge's CPU Load: A User Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/navigating-through-technology-insights-with-tom-a-hardware-exploration/"><u>Navigating Through Technology Insights with Tom - A Hardware Exploration</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-10-animated-text-makers-you-need-to-try-this-year/"><u>New In 2024, Top 10 Animated Text Makers You Need to Try This Year</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-your-workflow-dragging-tabs-in-windows-11/"><u>Simplifying Your Workflow: Dragging Tabs in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-window-resolution-on-windows-11/"><u>Tailoring Window Resolution on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-link-between-edge-and-irrelevant-taskers/"><u>The Link Between Edge and Irrelevant Taskers</u></a></li>
-<li><a href="https://discover-great.techidaily.com/troubleshooting-tips-resolving-power-issues-with-your-scanner-solutions-by-yl-computing/"><u>Troubleshooting Tips: Resolving Power Issues with Your Scanner - Solutions by YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/turn-on-wsl-a-guide-to-windows-linux-integration/"><u>Turn on WSL: A Guide to Windows' Linux Integration</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/unveiling-blockchain-innovation-a-deep-dive-into-how-it-works-and-its-wide-ranging-applications-with-yl-software-expertise/"><u>Unveiling Blockchain Innovation: A Deep Dive Into How It Works & Its Wide-Ranging Applications with YL Software Expertise</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ollaborative-listening-made-simple-on-youtube-for-2024/"><u>[New] Collaborative Listening Made Simple on YouTube for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-portable-cinematic-vibration-reliever-kit/"><u>[New] In 2024, Portable Cinematic Vibration Reliever Kit</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-missteps-an-ongoing-cybersecurity-scare/"><u>AI Missteps: An Ongoing Cybersecurity Scare</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-troubleshooting-for-ping-not-detected-in-halo-infinite-connections/"><u>Comprehensive Troubleshooting for 'Ping Not Detected' In Halo Infinite Connections</u></a></li>
+<li><a href="https://win11.techidaily.com/diagnosing-and-repairing-windows-11-wireless-network-failure/"><u>Diagnosing and Repairing Windows 11 Wireless Network Failure</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-distinguished-audible-collection-for-filmmakers/"><u>In 2024, Distinguished Audible Collection for Filmmakers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/omega-series-high-definition-full-touch-workstations/"><u>Omega Series High Definition Full Touch Workstations</u></a></li>
+<li><a href="https://win11.techidaily.com/reliable-solutions-to-end-file-explorer-crashes-in-win11/"><u>Reliable Solutions to End File Explorer Crashes in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-steps-to-access-windows-11s-printer-features-max-48-chars/"><u>Simplified Steps to Access Windows 11’S Printer Features (Max 48 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/the-farewell-of-windows-features-whats-gone/"><u>The Farewell of Windows Features: What's Gone?</u></a></li>
+<li><a href="https://win11.techidaily.com/the-innovations-that-define-ai-pcs-and-beyond/"><u>The Innovations That Define AI PCs and Beyond</u></a></li>
 </ul></div>
 

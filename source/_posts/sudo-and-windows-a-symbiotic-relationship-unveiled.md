@@ -1,7 +1,7 @@
 ---
 title: "Sudo and Windows: A Symbiotic Relationship Unveiled"
-date: 2025-01-16T19:18:28.330Z
-updated: 2025-01-18T18:51:03.241Z
+date: 2025-01-20T06:10:21.064Z
+updated: 2025-01-24T17:02:02.753Z
 tags:
   - windows10
   - windows11
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The sudo command on Windows lets you run commands with elevated privileges.
@@ -28,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 * Enable sudo via Settings, the Command Prompt, or PowerShell.
 
  If you're a fan of tweaking your Windows setup, you often need to run "elevated" or Administrator-level commands. You're probably used to doing this by running a Command Prompt as administrator, but it's about to get a lot easier with sudo on Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Does the sudo Command Do?
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  This means that the sudo command is roughly equivalent to right-clicking on the Command Prompt app, selecting **Run as administrator**, and running a command, like `do_something`. With the help of the sudo command, you don't need to worry about remembering to run the Command Prompt as administrator. Instead, simply type `sudo do_something`, and the command will work in exactly the same way.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Windows Versions Can Run the sudo Command?
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  Microsoft is adding the sudo command to Windows 11, and considering that support for Windows 10 is winding down, we don't expect to see the command coming there anytime soon. At the time of writing, the sudo command is only available for Windows Insider participants (builds 26045 and later), specifically those on the Developer and [Windows Canary channels](https://www.makeuseof.com/what-is-windows-insider-canary-channel/).
 
  Unlike some features that Microsoft tests in these versions, it seems fairly likely that sudo is going to arrive on the operating system soon.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable the sudo Command on Windows
 
@@ -64,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 ![Enabling sudo on Window in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/enabling-sudo-on-window-in-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Enable sudo via the Command Prompt
@@ -78,11 +82,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 ![Enabling sudo on Windows via PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/enabling-sudo-on-windows-via-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the sudo Command on Windows
@@ -112,18 +112,19 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-gopro-vs-garmin-hero5-black-vs-virb-ultra-gadget-showdown/"><u>[New] In 2024, GoPro Vs. Garmin Hero5 Black Vs. VIRB Ultra - Gadget Showdown</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-spicing-up-chats-with-gifs-a-complete-snapchat-tutorial/"><u>[Updated] In 2024, Spicing Up Chats with GIFs A Complete Snapchat Tutorial</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-visual-perfection-select-the-best-monitors-for-creative-work/"><u>[Updated] Visual Perfection Select the Best Monitors for Creative Work</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-windows-usefulness-of-pagefilesys-backup-storage/"><u>Decoding Windows’ Usefulness of Pagefile.sys Backup Storage</u></a></li>
-<li><a href="https://blog-min.techidaily.com/discover-the-best-free-media-player-options-for-pc-windows-1087-edition/"><u>Discover the Best Free Media Player Options for PC: Windows 10/8/7 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/end-hibernation-hurdles-with-easy-fixes-for-win/"><u>End Hibernation Hurdles with Easy Fixes for Win</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-se-2020-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone SE (2020) when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-2022-beijing-games-a-chilly-snapshot/"><u>In 2024, 2022 Beijing Games A Chilly Snapshot</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-package-open-failures-in-win11win10-systems/"><u>Navigating Package Open Failures in Win11/Win10 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/regain-control-fixing-wi-fi-mouse-malfunctions-in-windows/"><u>Regain Control: Fixing Wi-Fi Mouse Malfunctions in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-network-link-disruptions-in-winmc-minecraft/"><u>Tackling Network Link Disruptions in WinMC Minecraft</u></a></li>
-<li><a href="https://win-studio.techidaily.com/troubleshooting-your-dead-screen-a-step-by-step-solution-by-yl-software-for-when-your-monitor-wont-turn-on/"><u>Troubleshooting Your Dead Screen: A Step-by-Step Solution by YL Software for When Your Monitor Won’t Turn On</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unleashing-potential-in-slow-motion-video-capture-with-gopro-hero-10/"><u>Unleashing Potential in Slow-Motion Video Capture with GoPro Hero 10</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-rapid-fire-creation-of-google-collage-photos/"><u>[Updated] Rapid-Fire Creation of Google Collage Photos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-cameras-top-15-picks-innovation/"><u>Cutting-Edge Cameras Top 15 Picks Innovation</u></a></li>
+<li><a href="https://win11.techidaily.com/does-your-system-qualify-for-next-gen-windows-11/"><u>Does Your System Qualify for Next-Gen Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-users-to-restore-window-11-search-functions/"><u>Guiding Users to Restore Window 11 Search Functions</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-erroneous-cpu-usage-displayed-by-windows-pc/"><u>How to Rectify Erroneous CPU Usage Displayed by Windows PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-when-your-iphone-displays-sos-on-the-status-bar-top-solutions/"><u>How to Troubleshoot When Your iPhone Displays 'SOS' On the Status Bar - Top Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/htc-vive-a-gateway-to-extraordinary-virtual-realms-for-2024/"><u>HTC Vive A Gateway to Extraordinary Virtual Realms for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-poco-x6-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Poco X6 Phones with/without a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-display-problem-w11-error-code-x0001/"><u>Mending Display Problem: W11 Error Code X0001</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-fatal-0xf0831-problem-with-ease/"><u>Overcoming Windows' Fatal 0XF0831 Problem with Ease</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unpacking-the-pioneer-bdr-xd05b-key-drawbacks-in-its-blue-ray-burning-system-revealed/"><u>Unpacking the Pioneer BDR-XD05B - Key Drawbacks in Its Blue-Ray Burning System Revealed!</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-device-checkup-the-essential-five-ways-to-monitor-availability/"><u>Windows 11 Device Checkup: The Essential Five Ways to Monitor Availability</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Guide to Resolve Hypothetical Device Mistake in Win 11
-date: 2025-01-18T03:26:23.259Z
-updated: 2025-01-19T06:59:32.235Z
+date: 2025-01-19T06:42:24.667Z
+updated: 2025-01-24T20:21:46.775Z
 tags:
   - windows10
   - windows11
@@ -31,15 +31,15 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 
  If you need to resolve this error for an internal drive, check the drive’s internal connections. To do that, you’ll need to open the case for a desktop PC. Then make sure none of the drive’s connection cables are in any way loose.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Run the SFC Tool
 
  Users have confirmed the System File Checker tool can resolve this drive error. That highlights system file corruption can cause this issue, which an SFC scan will likely resolve. Our guide to[running a System File Checker scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) tells you how to execute the SFC command in Windows.
 
 ![The sfc /scannow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sfc-scannow.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run a Check Disk Scan for the Drive
 
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 
 `chkdsk D: /f /r`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Try Changing the Drive’s Letter
 
  Changing the affected drive’s letter is a potential fix that users have confirmed to work. You can change the drive’s letter with the Disk Management tool like this:
@@ -72,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 4. Press the**Change** button.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Change Drive Letter window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-drive-letter-window.jpg)
@@ -80,12 +76,12 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 ![The Assign the following drive letter option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/assign-the-following-drive-letter.jpg)
 6. Select a drive letter that you’ve never used.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Click**OK** on the Change Drive Letter or Path window.
 8. Select**Yes** on the Disk Management confirmation dialog.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Rescan a Drive
 
@@ -99,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 5. Select**Rescan Disks** on the menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Select the Full Control Option for a Drive Location
@@ -128,14 +124,15 @@ Insert the affected drive into one of your PC’s USB ports.
 3. Right-click your drive and select**Uninstall device** .  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-device2.jpg)
 4. Then select the**Uninstall** option on the dialog box prompt.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-option3.jpg)
 5. Disconnect the drive plugged into the PC.
 
 6. Plug the drive back into the computer to reinstall its driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Update Your Motherboard’s Chipset Driver
 
@@ -152,12 +149,16 @@ Insert the affected drive into one of your PC’s USB ports.
 ![The baseboard command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/baseboard-command.jpg)
 6. Copy and paste the serial number for the motherboard shown within the Command Prompt into Notepad or another text editor.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then open the download section of your motherboard manufacturer’s website. Select your motherboard model and download its latest chipset driver from there. You can install the new driver for your motherboard with the downloaded driver (setup.exe) package file.
 
  The driver package might be included within a ZIP archive, which you’ll need to extract as outlined within this guide to[unzipping files in Windows](https://www.makeuseof.com/unzip-files-windows-10/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Access Your Drive Again on Windows
@@ -179,17 +180,19 @@ Insert the affected drive into one of your PC’s USB ports.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-direct-to-video-best-5-online-gif-to-video-services/"><u>[New] Direct to Video Best 5 Online GIF to Video Services</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unparalleled-production-choosing-the-top-webcam-for-podcasts/"><u>[New] Unparalleled Production Choosing the Top Webcam for Podcasts</u></a></li>
-<li><a href="https://win11.techidaily.com/averting-unwanted-windows-store-automatization/"><u>Averting Unwanted Windows Store Automatization</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/avoid-overspending-how-to-choose-a-phone-without-breaking-the-bank-at-over-1000/"><u>Avoid Overspending: How to Choose a Phone Without Breaking the Bank at Over $1,000</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-data-breaches-proper-password-addition-in-windows/"><u>Avoiding Data Breaches: Proper Password Addition in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-disruptions-to-wsl-after-installing-windows-11/"><u>Avoiding Disruptions to WSL After Installing Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/beyond-cortana-four-visionary-windows-updates/"><u>Beyond Cortana: Four Visionary Windows Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-firewall-restrictions-allow-chrome-network-entry-in-windows/"><u>Breaking Firewall Restrictions: Allow Chrome Network Entry in Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/explore-the-impact-of-meta-quests-recent-improvement-overhaul-with-a-single-trade-off-in-depth-coverage-by-zdnet/"><u>Explore the Impact of Meta Quest's Recent Improvement Overhaul with a Single Trade-Off | In-Depth Coverage by ZDNet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-key-top-5-ultra-light-action-recording-models/"><u>In 2024, Key Top 5 Ultra-Light Action Recording Models</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/spotlight-innovation-alert-apple-music-experimenting-with-groundbreaking-feature-to-import-your-favorite-spotify-playlists/"><u>Spotlight Innovation Alert: Apple Music Experimenting with Groundbreaking Feature to Import Your Favorite Spotify Playlists</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-and-complying-with-instagrams-audio-ownership-laws-for-2024/"><u>Understanding and Complying with Instagram's Audio Ownership Laws for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unveiling-time-saving-shortcuts-for-efficient-mac-screenshots-for-2024/"><u>[New] Unveiling Time-Saving Shortcuts for Efficient Mac Screenshots for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-youtube-end-screen-templates-for-content-makers/"><u>[Updated] In 2024, Essential YouTube End Screen Templates for Content Makers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-complete-guide-to-soundtracking-vimeo-content/"><u>2024 Approved The Complete Guide to Soundtracking Vimeo Content</u></a></li>
+<li><a href="https://fox-where.techidaily.com/boost-your-computers-precision-essential-windows-11-mouse-drivers-upgrade-guide/"><u>Boost Your Computer's Precision: Essential Windows 11 Mouse Drivers Upgrade Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-pc-experience-win11-narrator-keybindings/"><u>Elevate Your PC Experience: Win11 Narrator Keybindings</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-graphics-glitches-on-windows-11-now/"><u>Fix Graphics Glitches on Windows 11 Now</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-xs-max-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone XS Max to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-s18-pro-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo S18 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-proxies-for-windows-11-users/"><u>Optimizing Proxies for Windows 11 Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/pure-summer-pleasures-our-top-10-holiday-flicks-for-2024/"><u>Pure Summer Pleasures Our Top 10 Holiday Flicks for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-common-photo-errors-with-windows-1011-tips/"><u>Resolving Common Photo Errors with Windows 10/11 Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/tutorial-achieving-a-trio-of-widget-grids-on-windows-11/"><u>Tutorial: Achieving a Trio of Widget Grids on Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/video-trouble-on-sony-a6400-solutions/"><u>Video Trouble on Sony A6400 Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-arm-instalation-simplified-through-iso-file-processing/"><u>Windows 11 ARM Instalation Simplified Through ISO File Processing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Techniques to Reduce Resource Bottlenecks on Android WSL
-date: 2025-01-11T16:37:52.147Z
-updated: 2025-01-18T21:08:34.205Z
+date: 2025-01-18T07:02:37.886Z
+updated: 2025-01-24T19:29:36.277Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## "As Needed" or "Continuous?" Which One to Choose
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 **Continuous** , on the other hand, keeps WSA running in the background. The benefit is that Android apps will fire up much quicker at the cost of using more of your computer’s resources. You can choose this option if your Windows 11 PC has the resources to spare.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Manage the Way Windows Subsystem for Android Uses Its Resources?
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![searching for WSA on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-search-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the left side menu of Windows Subsystem for Android, make sure you have selected**System** . On the right side, click on the**Subsystem resources** to expand the section. Then, select either**As needed** or**Continuous** by clicking on the appropriate radio button.
@@ -56,13 +56,13 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![the Subsystems resources section of WSA settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-windows-subsystem-resources.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now Windows Subsystem for Android will use resources depending on the option you have chosen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best Way For Windows Subsystem for Android to Use Resources
@@ -86,14 +86,22 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-get-the-most-out-of-instagram-photos-with-these-apps-for-2024/"><u>[New] Get the Most Out of Instagram Photos with These Apps for 2024</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-poco-c50-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Poco C50 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-side-by-side-configuration-is-incorrect-error-on-windows/"><u>How to Fix the “Side-by-Side Configuration Is Incorrect” Error on Windows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-iphone-tricks-adjusting-picture-size-efficiently/"><u>In 2024, IPhone Tricks Adjusting Picture Size Efficiently</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-pip-feature-in-microsoft-edge/"><u>In 2024, Mastering PIP Feature in Microsoft Edge</u></a></li>
-<li><a href="https://win11.techidaily.com/setting-up-windows-for-contactless-entry-methods/"><u>Setting Up Windows For Contactless Entry Methods</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-how-can-you-play-apples-gaming-services-on-a-windows-machine/"><u>Step-by-Step Tutorial: How Can You Play Apple's Gaming Services On a Windows Machine?</u></a></li>
-<li><a href="https://win11.techidaily.com/supercharge-batch-jobs-leveraging-task-scheduler/"><u>Supercharge Batch Jobs: Leveraging Task Scheduler</u></a></li>
-<li><a href="https://win11.techidaily.com/top-5-command-prompt-gimmicks-unleashed/"><u>Top 5 Command Prompt Gimmicks Unleashed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-innovative-snapchat-strategies-the-ultimate-list/"><u>[New] 2024 Approved Innovative Snapchat Strategies The Ultimate List</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-illuminate-your-images-adding-life-with-illustrator-motion-for-2024/"><u>[Updated] Illuminate Your Images Adding Life with Illustrator Motion for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy XCover 6 Pro Tactical Edition to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-remedy-for-audio-pause-in-obs-streams/"><u>2024 Approved Remedy for Audio Pause in OBS Streams</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-official-acer-touchpad-driver-for-windows-10-compatible-and-updated-version/"><u>Download Official Acer Touchpad Driver for Windows 10 - Compatible and Updated Version</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-up-microsoft-store-accessibility-in-windows-11/"><u>Easing Up Microsoft Store Accessibility in Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/effective-methods-for-capturing-youtube-live-broadcasts/"><u>Effective Methods for Capturing YouTube Live Broadcasts</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-pc-performance-for-faster-steam-content-loading/"><u>Enhancing PC Performance for Faster Steam Content Loading</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-cost-effective-screen-recording-tools-for-2024/"><u>Essential Cost-Effective Screen Recording Tools for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/find-the-premier-ssd-data-protection-options-using-aomei-backupper-strategies/"><u>Find the Premier SSD Data Protection Options Using AOMEI Backupper Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-chromes-failed-virus-detected-error-on-windows/"><u>How to Fix Chrome's Failed - Virus Detected Error on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-zoom-in-online/"><u>How to Zoom in Online</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-reset-lost-pin-after-a-software-glitch-in-windows-11/"><u>Solutions to Reset Lost PIN After a Software Glitch in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-cmd-appearance-without-prior-notice/"><u>Stopping CMD Appearance Without Prior Notice</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-workflow-with-outlook-preview-on-windows-11/"><u>Streamlining Workflow with Outlook Preview on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-eradicating-onedrive-from-explorer-window/"><u>Techniques for Eradicating OneDrive From Explorer Window</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ins-and-outs-of-socket-programming-with-python-servers-on-pcs/"><u>The Ins and Outs of Socket Programming with Python Servers on PCs</u></a></li>
 </ul></div>
 

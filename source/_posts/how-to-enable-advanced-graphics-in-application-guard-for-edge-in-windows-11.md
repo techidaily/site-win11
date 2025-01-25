@@ -1,7 +1,7 @@
 ---
 title: How to Enable Advanced Graphics in Application Guard for Edge in Windows 11
-date: 2025-01-17T23:21:19.620Z
-updated: 2025-01-19T01:29:03.238Z
+date: 2025-01-18T03:50:10.723Z
+updated: 2025-01-24T19:57:48.822Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Enable Advanced Graphics via Windows Settings
 
  The Settings app is a great way to quickly enable advanced graphics for your Application Guard in Microsoft Edge. To do this, follow these steps:
@@ -40,18 +36,22 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 ![Change Application Guard Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-application-guard-settings.jpg)
 5. Select**Change Applications Guard settings** from the Isolated browsing section.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Then, on the Application Guard settings page, toggle**Advanced graphics** on.  
 ![Enable Advanced Graphics in Application Guard Using Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-advanced-graphics-in-application-guard-using-settings.jpg)
 7. If you see a UAC prompt, click**Yes** to continue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you follow the above steps, close the Settings window and restart your computer. Application Guard will now be enabled with advanced graphics support. If you ever want to turn off this feature, just follow the same steps and turn off Advanced graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Enable Advanced Graphics via Registry Editor
@@ -70,13 +70,13 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 6. In the Value data field, type**1** and click**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After completing the above steps, close the Registry window and restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Application Guard for Edge Now Works With Advanced Graphics
@@ -98,24 +98,19 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-best-5-ios-backdrop-swappers-x87-edition/"><u>[New] 2024 Approved Best 5 iOS Backdrop Swappers X/8/7 Edition</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-unveiling-the-secrets-of-successful-voiceover-integration/"><u>[New] 2024 Approved Unveiling the Secrets of Successful Voiceover Integration</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-metaverse-contrasted-with-multimetaverse-a-detailed-breakdown-in-depth-guide/"><u>[Updated] Metaverse Contrasted with MultiMetaverse A Detailed Breakdown (In-Depth Guide)</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-update-checks-with-these-9-fixes-on-windows-setup/"><u>Accelerate Update Checks with These 9 Fixes on Windows Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-barriers-easily-uninstall-applications-in-win-11/"><u>Breaking Barriers: Easily Uninstall Applications in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-non-persistent-nvidia-panel-changes/"><u>Correcting Non-Persistent Nvidia Panel Changes</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-processor-limits-in-power-options-menu/"><u>Demystifying Processor Limits in Power Options Menu</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-enable-and-set-up-windows-sandbox-in-windows-11/"><u>How to Enable and Set Up Windows Sandbox in Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v29e-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V29e to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-itel-a60-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Itel A60 by Name | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-honor-x9b-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Honor X9b Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-the-finest-places-to-source-high-quality-vectors/"><u>In 2024, The Finest Places to Source High-Quality Vectors</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-microsoft-outlook-glitches-on-windows-devices/"><u>Mending Microsoft Outlook Glitches on Windows Devices</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210755195-9791028515096-mon-bref-passage-dans-lautre-monde/"><u>Mon bref passage dans l'autre monde | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/opening-editing-and-personalizing-your-win11-fax-cover-page/"><u>Opening, Editing & Personalizing Your Win11 Fax Cover Page</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-disruptive-discord-js-error-in-windows-environments/"><u>Overcoming Disruptive Discord JS Error in Windows Environments</u></a></li>
-<li><a href="https://facebook.techidaily.com/personalize-your-social-space-setting-up-an-avatar-themed-fb-cover/"><u>Personalize Your Social Space: Setting Up an Avatar-Themed FB Cover</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-should-you-buy-videopad-video-editor-our-honest-review-and-verdict/"><u>Updated Should You Buy Videopad Video Editor? Our Honest Review and Verdict</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11-unlinking-saved-wi-fi/"><u>Win 11: Unlinking Saved Wi-Fi</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-breaking-into-livestrances-a-gamers-guide-to-youtube-success/"><u>[New] 2024 Approved Breaking Into Livestrances A Gamers' Guide to YouTube Success</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-fiscal-picture-for-content-makers-on-youtube-shorts-platform/"><u>[Updated] In 2024, The Fiscal Picture for Content Makers on YouTube Shorts Platform</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-optimized-text-designs-for-after-effects/"><u>[Updated] Optimized Text Designs for After Effects</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-thx-audio-malfunction-in-windows/"><u>Correcting THX Audio Malfunction in Windows</u></a></li>
+<li><a href="https://article-tips.techidaily.com/filmoras-pathway-to-convert-video-avi-files-into-image-gif/"><u>Filmora’s Pathway to Convert Video (AVI) Files Into Image (GIF)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guida-completa-convertire-h265hevc-in-formato-h2/"><u>Guida Completa: Convertire H.265/HEVC in Formato H.2</u></a></li>
+<li><a href="https://win11.techidaily.com/halt-windows-application-tracking-feature/"><u>Halt Windows Application Tracking Feature</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-creativity-essential-green-screen-techniques/"><u>In 2024, Unlock Creativity Essential Green Screen Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-savings-tap-into-w11-pro-offers/"><u>Optimize Savings: Tap Into W11 Pro Offers</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-your-pc-with-windows-visual-treasures-in-backgrounds/"><u>Personalizing Your PC with Windows' Visual Treasures in Backgrounds</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-network-not-available-in-windows-os/"><u>Resolving Network Not Available in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/skirt-sie-on-windows-installing-and-updating-unsigned-drivers/"><u>Skirt SIE on Windows: Installing and Updating Unsigned Drivers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-to-earning-on-reddit-no-skills-required-for-2024/"><u>Step-by-Step Guide to Earning on Reddit - No Skills Required for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows' No Access Error: Securing File Viewer Rights"
-date: 2025-01-17T23:44:49.742Z
-updated: 2025-01-19T02:32:09.042Z
+date: 2025-01-23T05:01:40.777Z
+updated: 2025-01-25T05:27:25.352Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
  Now you know what causes this error, let's explore the solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Grant Full Control Permissions
 
  It looks like the main issue causing this error is that Windows doesn’t have sufficient permissions to access the file. To fix this, you must grant full control permissions to the account or user accessing the file. Here are the steps to follow:
@@ -57,18 +61,23 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
 ![Enter the object name to select user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enter-the-object-name-to-select-user.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. If it seems correct, click **OK**.
 2. Check the box next to **Replace owner on subcontainers and objects**.  
 ![Take Ownership of the Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/take-ownership-of-the-folder.jpg)
 3. Now click Apply. A pop-up appears and asks you to confirm the ownership change.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **Yes** and wait for the process to finish.
 5. Once done, click **OK** and close the window.
 
  After that, restart your computer and try accessing the folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reset the Photos App
 
@@ -80,22 +89,14 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 ![Microsoft Photos App in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-photos-app-in-settings.jpg)
 4. Click on the three dots and select **Advanced options**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Under the **Reset** section, click the **Reset** button.  
 ![Reset Microsoft Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-microsoft-photos-app.jpg)
 6. If a pop-up appears, click **Reset** again to confirm your action.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After that, try to open photos on your external hard drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Disable UAC Temporarily
@@ -103,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
  You may often find that you don’t have enough permissions to perform specific tasks. In such cases, [disabling UAC](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) may do the trick. So, disable it temporarily and see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Run the Program Compatibility Troubleshooter
@@ -126,24 +127,24 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-building-your-youtube-empire-kit-overview/"><u>[New] In 2024, Building Your YouTube Empire Kit Overview</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snapchats-artistic-palette-the-anime-filter-experience/"><u>[New] Snapchat’s Artistic Palette The Anime Filter Experience</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-enhancing-your-adventures-through-immersive-gopro-time-lapse/"><u>[Updated] Enhancing Your Adventures Through Immersive GoPro Time Lapse</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-cmd-skills-with-these-20-must-learn-commands/"><u>Boost Your CMD Skills with These 20 Must-Learn Commands</u></a></li>
-<li><a href="https://win11.techidaily.com/creating-harmony-between-android-tablets-and-windows-11-desktops/"><u>Creating Harmony Between Android Tablets and Windows 11 Desktops</u></a></li>
-<li><a href="https://discover-help.techidaily.com/dive-into-hyrule-high-res-ganondorfs-waterblight-scenes-images-and-desktop-pictures-from-yl-software/"><u>Dive Into Hyrule: High-Res Ganondorf’s Waterblight Scenes - Images and Desktop Pictures From YL Software</u></a></li>
-<li><a href="https://win11.techidaily.com/from-here-to-innovation-the-post-11-windows-journey/"><u>From Here to Innovation: The Post-11 Windows Journey</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-grab-free-and-safe-vlc-with-minimal-risk-for-macos-users-for-2024/"><u>How to Grab Free and Safe VLC with Minimal Risk for macOS Users for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-perfecting-your-winning-game-recording-strategy-on-w11/"><u>In 2024, Perfecting Your Winning Game Recording Strategy on W11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/maximizing-your-work-potential-with-the-latest-generation-of-apples-102-inch-ipados-tablet/"><u>Maximizing Your Work Potential with the Latest Generation of Apple's 10.2-Inch IPadOS Tablet</u></a></li>
-<li><a href="https://win11.techidaily.com/modifying-the-primary-web-portal-on-w11/"><u>Modifying the Primary Web Portal on W11</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-audio-tranquility-in-action-fading-and-pulsating-sounds-made-easy-in-adobe-after-effects/"><u>New In 2024, Audio Tranquility in Action Fading and Pulsating Sounds Made Easy in Adobe After Effects</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-your-windows-photo-workflow-with-keys/"><u>Optimizing Your Windows Photo Workflow with Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/perfect-your-hover-over-sensitivity-and-trail-in-windows-11/"><u>Perfect Your Hover Over Sensitivity and Trail in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/prevent-non-genuine-adobe-app-warning/"><u>Prevent Non-Genuine Adobe App Warning</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-external-access-to-insider-developer-sets/"><u>Preventing External Access to Insider Developer Sets</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-download-hp-envy-5055-printer-drivers/"><u>Quick Download: HP ENVY 5055 Printer Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-add-on-of-portable-software-to-windows-oses/"><u>Seamless Add-On of Portable Software to Windows OSes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-10-best-high-security-androidios-video-calling-tools-available-for-free/"><u>[New] 10 Best High-Security Android/iOS Video Calling Tools Available for Free</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-unlock-words-full-potential-with-easy-speech-to-text-features/"><u>2024 Approved Unlock Word's Full Potential with Easy Speech-to-Text Features</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-motorola-edge-40-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Motorola Edge 40 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/best-tips-to-resolve-rockstar-games-launcher-problems-as-of-2024/"><u>Best Tips to Resolve Rockstar Games Launcher Problems as of 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/customize-win11-optimal-predefined-window-sizes/"><u>Customize Win11: Optimal Predefined Window Sizes</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-dismantling-error-0x80246007-in-w10w11/"><u>Deciphering and Dismantling Error 0X80246007 in W10/W11</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-ui-quality-with-dpi-tuning/"><u>Elevating UI Quality with DPI Tuning</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/guide-facile-pour-configurer-un-formatage-de-cle-usb-en-mode-de-lecture-unique/"><u>Guide Facile Pour Configurer Un Formatage De Clé USB en Mode De Lecture Unique</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-adopt-educational-aesthetics-in-win-11/"><u>How to Adopt Educational Aesthetics in Win 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-15-pro-max-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone 15 Pro Max The Right Way</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-common-rainmeter-issues-on-windows/"><u>How to Fix Common Rainmeter Issues on Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-cineblend-app-seamless-video-mashups-for-instagram/"><u>In 2024, CineBlend App Seamless Video Mashups for Instagram</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-free-translation-top-8-choices-revealed/"><u>Mastering Free Translation Top 8 Choices Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/recovering-from-frozen-windows-itunes-a-step-by-step-approach/"><u>Recovering From Frozen Windows iTunes: A Step-by-Step Approach</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211322957-9798989482269-threads-of-the-father/"><u>Threads of the Father | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/top-7-strategies-for-successful-folders-management-in-win-11/"><u>Top 7 Strategies for Successful Folders Management in Win 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-ai-visual-effects-system-for-2024/"><u>Ultimate AI Visual Effects System for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-ai-in-windows-11-the-co-pilot-effect/"><u>Understanding AI in Windows 11: The Co-Pilot Effect</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-roblox-error-403-on-windows/"><u>Unraveling Roblox Error 403 on Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering 90-Degree Display Flip: Techniques & Benefits"
-date: 2024-08-08T13:21:58.967Z
-updated: 2024-08-09T13:21:58.967Z
+date: 2025-01-21T10:23:54.011Z
+updated: 2025-01-25T02:35:46.233Z
 tags:
   - windows10
   - windows11
@@ -21,27 +21,32 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
  This is, however, useful only if you can actually physically turn your screen by 90 degrees. So if you have a laptop with a screen that rotates, or you have an external monitor on a mount that allows rotation, this method will work wonders for you. It's particularly useful if you have multiple external monitors.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Rotate the Orientation of a Windows Display
 
  Whether or not you have[multiple monitors set up on Windows 10](https://www.makeuseof.com/tag/multiple-displays-windows-10-guide/) , you can use this method:
 
 1. To change the orientation of your external display, right-click anywhere on your desktop and click**Display Settings.**  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![opening display settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/display-settings.png)
 2. Look for**Display Orientation** and select**Portrait** from the dropdown menu next to it.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![selecting portrait option from the downdown menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/select-portrait.png)
 3. Your monitor should now be displayed in portrait mode. Click**Keep changes** to maintain the portrait mode.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Does Orientation Rotation Come in Handy?
 
  If you have two external displays, there may be certain programs you always keep open in one of those displays. Here are a couple of examples of when you might get more out of using portrait mode:
@@ -50,20 +55,18 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 * If you're designing a lengthy infographic using a program like Photoshop or Illustrator, turning your screen 90 degrees, allows you to see more of the entire design in one go. (You can keep reference material open on the other screen.)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Turning Your Monitor Has Its Uses
 
  Not everyone will find a "sideways" monitor to be handy, but some people will. Now you know how, and why, you can turn your screen by 90 degrees.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -72,4 +75,26 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-crafting-life-into-photos-motion-blur-on-face-images/"><u>[New] Crafting Life Into Photos Motion Blur on Face Images</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-ultimate-xbox-one-shutterbug-techniques/"><u>[Updated] In 2024, The Ultimate Xbox One Shutterbug Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/3-ways-to-view-the-applied-group-policies-on-windows/"><u>3 Ways to View the Applied Group Policies on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-chatgpt-plugins-that-arent-worth-your-time/"><u>6 ChatGPT Plugins That Aren't Worth Your Time</u></a></li>
+<li><a href="https://win11.techidaily.com/7-pivotal-points-for-reconnecting-your-obs-studio-link-win-compatible/"><u>7 Pivotal Points for Reconnecting Your OBS Studio Link (Win-Compatible)</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-steam-download-rates-overcoming-sluggish-pace/"><u>Accelerate Steam Download Rates: Overcoming Sluggish Pace</u></a></li>
+<li><a href="https://win11.techidaily.com/activating-emoji-15-support-in-windows-11/"><u>Activating Emoji 15 Support in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-non-operational-nvidia-cp-in-w11-environments/"><u>Addressing Non-Operational NVidia CP in W11 Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-lockout-interval-after-multiple-login-failures/"><u>Adjusting Lockout Interval After Multiple Login Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/aesthetic-alchemy-how-to-seamlessly-change-windows-11-themes-and-enrich-your-workspace/"><u>Aesthetic Alchemy: How to Seamlessly Change Windows 11 Themes and Enrich Your Workspace</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-overuse-steps-for-efficient-wlanextexe/"><u>Avoiding Overuse: Steps for Efficient Wlanext.exe</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/conquer-video-lengths-your-ultimate-guide-to-auto-resizing-on-mac/"><u>Conquer Video Lengths Your Ultimate Guide to Auto-Resizing on Mac</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-narrow-your-focus-on-elite-hdr-camera-systems/"><u>In 2024, Narrow Your Focus on Elite HDR Camera Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862812641-steal-the-show-with-the-low-cost-240hz-acer-nitro-gaming-monitor-just-pay-a-sweet-159/"><u>Steal the Show with the Low-Cost 240Hz Acer Nitro Gaming Monitor – Just Pay a Sweet $159</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/step-by-step-enhancing-photos-with-cropping-tools/"><u>Step-by-Step Enhancing Photos with Cropping Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/1719298121554-troubleshoot-windows-update-hurdles-quick-solutions/"><u>Troubleshoot: Windows Update Hurdles - Quick Solutions</u></a></li>
+<li><a href="https://win-latest.techidaily.com/understanding-google-friend-connect-is-it-a-plugin-or-an-online-platform/"><u>Understanding Google Friend Connect: Is It a Plugin or an Online Platform?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-follow-the-steps-we-are-about-to-outline-and-you-will-have-no-issues-with-your-3gp-video-cutting-experience-for-2024/"><u>Updated Follow the Steps We Are About to Outline and You Will Have No Issues with Your 3GP Video Cutting Experience for 2024</u></a></li>
+</ul></div>
 

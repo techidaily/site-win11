@@ -1,7 +1,7 @@
 ---
 title: Make Office Automatically Open Attached Files as Text Only
-date: 2025-01-12T17:06:08.769Z
-updated: 2025-01-18T18:36:52.774Z
+date: 2025-01-23T16:40:44.975Z
+updated: 2025-01-24T18:48:41.503Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Change Microsoft Word Startup Settings to Always Open Email Attachments in Reading View
@@ -41,13 +41,13 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 ![Word Startup Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Word-Startup-Options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, Word will open email attachments in reading view by default.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Change the Local Group Policy to Open Email Attachments in Reading View in Microsoft Word
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 ![Configure Word to Open Email Attachments in Reading View Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Group-Policy-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Tweak the Windows Registry to Open Email Attachments in Reading View in Microsoft Word
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 ![Configure Word to Open Email Attachments in Reading View Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Registry-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your PC for the changes to take effect. Following that, Word will open all your email attachments in reading view.
@@ -108,20 +108,16 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-hassle-free-techniques-record-your-dell-screen-easily-for-2024/"><u>[New] Hassle-Free Techniques Record Your Dell Screen Easily for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-essential-tips-for-navigating-telegram-web/"><u>[Updated] In 2024, Essential Tips for Navigating Telegram Web</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-mac-snapshot-strategies-revealed-the-top-5-innovative-approaches/"><u>[Updated] Mac Snapshot Strategies Revealed The Top 5 Innovative Approaches</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-meerkat-experts-live-at-snapchat-spotlight-for-2024/"><u>[Updated] Meerkat Experts Live at Snapchat Spotlight for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-ultimate-film-cameras-buyers-guide-for-all-skills/"><u>[Updated] The Ultimate Film Cameras Buyers Guide for All Skills</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apples-latest-timepieces-the-return-of-the-apple-watch-series-9-and-ultra-amidst-legal-hurdles/"><u>Apple's Latest Timepieces: The Return of the Apple Watch Series 9 & Ultra Amidst Legal Hurdles</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-developer-setup-5-core-wsl-2-best-practices/"><u>Elevate Your Developer Setup: 5 Core WSL 2 Best Practices</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-comic-archives-with-windows-11-interface/"><u>Exploring Comic Archives with Windows 11 Interface</u></a></li>
-<li><a href="https://win11.techidaily.com/from-iso-to-reality-how-to-install-windows-11-arm/"><u>From ISO to Reality - How to Install Windows 11 ARM</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-vivid-visuals-brush-up-your-youtube-beauty-videos/"><u>In 2024, Vivid Visuals Brush up Your YouTube Beauty Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-lenovo-thinkphone-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Lenovo ThinkPhone? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/in-depth-look-at-windows-11-admin-interface/"><u>In-Depth Look at Windows 11 Admin Interface</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-the-web-with-ease-using-ms-edge-gestures-windows-11/"><u>Navigate the Web with Ease Using MS Edge Gestures (Windows 11)</u></a></li>
-<li><a href="https://win11.techidaily.com/raising-volume-on-disconnected-bt-headphonesspeakers/"><u>Raising Volume on Disconnected BT Headphones/Speakers</u></a></li>
-<li><a href="https://win11.techidaily.com/tech-convergence-ios-ipados-mac-and-windows-operating-systems-tie/"><u>Tech Convergence: IOS, iPadOS, Mac & Windows Operating Systems Tie</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-craft-your-own-multitasking-masterpiece-with-these-15-tips/"><u>[New] Craft Your Own Multitasking Masterpiece with These 15 Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-background-elimination-in-graphic-designs/"><u>2024 Approved The Art of Background Elimination in Graphic Designs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/choosing-between-the-latest-flagships-iphone-15-pro-max-and-samsung-s24-ultra-reviewed/"><u>Choosing Between the Latest Flagships: IPhone 15 Pro Max and Samsung S24 Ultra Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/customize-your-context-menu-for-a-cleaner-win-11-experience/"><u>Customize Your Context Menu for a Cleaner Win 11 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/differences-spotlighted-microsoft-account-vs-non-microsoft-windows-logins/"><u>Differences Spotlighted: Microsoft Account vs Non-Microsoft Windows Logins</u></a></li>
+<li><a href="https://win-online.techidaily.com/guide-complet-pour-transferer-and-recreer-votre-image-windows-11-sur-un-disque-solide-ssd-migration-du-sys-op/"><u>Guide Complet Pour Transférer & Recréer Votre Image Windows 11 Sur Un Disque Solide (SSD) : Migration Du Sys Op</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-inclusion-of-emoji-15-in-windows-11-systems/"><u>Seamless Inclusion of Emoji 15 in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-prevent-autostarted-microsoft-marketplace/"><u>Techniques to Prevent Autostarted Microsoft Marketplace</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transforming-ultra-hd-footage-into-high-definition-a-step-by-step-guide/"><u>Transforming Ultra-HD Footage Into High Definition: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-update-failure-code-0x80246007-on-1011/"><u>Troubleshooting: Windows Update Failure Code 0X80246007 on 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/virtual-box-upgrade-unleashed-migrating-to-version-70-on-windows-11-pcs/"><u>Virtual Box Upgrade Unleashed: Migrating to Version 7.0 on Windows 11 PCs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Lockout Logic: How to Swiftly Disable a Win11 User Account"
-date: 2025-01-15T19:13:45.257Z
-updated: 2025-01-19T09:22:24.954Z
+date: 2025-01-22T16:38:31.994Z
+updated: 2025-01-25T06:07:57.341Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,10 @@ To disable user accounts via Settings:
 ![windows 11 settings account family block sign in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-account-family-block-sign-in-1.jpg)
 5. Next, click the**Block sign in** button and click**Block** in the confirmation dialog.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![windows 11 settings account family allow sign in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-account-family-allow-sign-in-1.jpg)
 6. If you need to enable the user account again, click the**Allow sign in** button and click**Allow** to confirm the action.
 
@@ -71,10 +75,6 @@ To disable a user account using PowerShell:
 
  When disabled, the user account will be hidden from your lock screen. To verify the same, press**Win + L** to[lock your Windows 11 computer](https://www.makeuseof.com/windows-11-ways-to-lock/) . Next, double-click on the lock screen to view the login screen. If disabled, the user account will appear on the lower left side of your screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Disable a User Account Using the Command Prompt
 
  Another way to disable a local user account is via the Command Prompt. It is a command-line utility that you can use to disable Microsoft or local user accounts.
@@ -89,10 +89,6 @@ To disable a user account using Command Prompt:
 ![command prompt net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/command-prompt-net-user.jpg)
 5. Next, type the following command to disable the specified user account:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `net user NewUser /active:no`
 6. In the above command, replace**NewUser** with the user account name you want to disable.  
 ![command prompt net user disable account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/command-prompt-net-user-disable-account.jpg)
@@ -101,6 +97,10 @@ To disable a user account using Command Prompt:
 8. If you need to enable the account again, execute the following command:  
 `net user NewUser /Active:yes`
 9. Make sure to replace NewUser with the account name you want to enable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable a User Account From the Computer Management Console
 
@@ -117,7 +117,7 @@ To disable a user account using Command Prompt:
 4. Next, locate and select**Local Users and Groups.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Select the**Users** folder**.**
@@ -127,12 +127,12 @@ To disable a user account using Command Prompt:
 ![computer management local users groups users account is disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/computer-managemnet-local-users-groups-users-account-is-disabled.jpg)
 3. In the**Properties** dialog, select the**Account is disabled** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click**Apply** and**OK** to save the changes.
 5. To enable the account gain, uncheck the**Account is disabled** option and click**Apply** and**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Disable User Account Using Local Users and Groups on Windows 11 Home
 
@@ -146,16 +146,16 @@ To disable a user account using Command Prompt:
 ![run lusrmgr exe file edit account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-lusrmgr-exe-file-edit-account.jpg)
 4. Next, open the**Account** tab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select the**Account is disabled** option.  
 ![run lusrmgr exe file edit account disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-lusrmgr-exe-file-edit-account-disabled.jpg)
 6. Click**Apply** and**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## There Are Many Ways to Disable a User Account on Windows 11
@@ -179,21 +179,14 @@ To disable a user account using Command Prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-art-of-steady-selfies-and-photos/"><u>[New] 2024 Approved The Art of Steady Selfies & Photos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-turbo-charge-your-playlist-exposure-youtube-style/"><u>[New] 2024 Approved Turbo-Charge Your Playlist Exposure, YouTube Style</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-free-guide-perfecting-your-youtube-audio-to-text-conversion/"><u>[New] In 2024, Free Guide Perfecting Your YouTube Audio-to-Text Conversion</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-pushing-the-boundaries-animated-fb-ads-that-increase-return-on-investment-for-2024/"><u>[Updated] Pushing the Boundaries Animated FB Ads That Increase Return on Investment for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-drafting-a-powerful-post-for-online-fundraising/"><u>2024 Approved Drafting a Powerful Post for Online Fundraising</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-masterclass-uploading-without-complications-on-social-media/"><u>2024 Approved Masterclass Uploading Without Complications on Social Media</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-static-speakers-after-disabling-default-sounds/"><u>Fix Static Speakers After Disabling Default Sounds</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-mcuicntexe-entry-point-not-found-error-on-windows/"><u>How to Fix the “McUICnt.exe Entry Point Not Found” Error on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/key-steps-for-efficiently-engaging-recovery-tool/"><u>Key Steps for Efficiently Engaging Recovery Tool</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-solutions-overcoming-the-bf-heroes-and-villains-warzone-disc-error-5031-on-your-computer/"><u>Quick Solutions: Overcoming the BF Heroes and Villains ™ Warzone Disc Error (5.0/3.1) on Your Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-strategies-for-windows-11-cc-issues/"><u>Quick-Fix Strategies for Windows 11 CC Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/quicker-battlenet-file-syncing-on-windows-devices/"><u>Quicker Battle.net File Syncing on Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/refinement-of-visuals-windows-11-dpi-tweaks/"><u>Refinement of Visuals: Windows 11 DPI Tweaks</u></a></li>
-<li><a href="https://win-latest.techidaily.com/streaming-battle-royale-analyzing-deezers-edge-over-spotify-in-the-digital-age/"><u>Streaming Battle Royale: Analyzing Deezer's Edge Over Spotify in the Digital Age</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/supreme-creation-studio-test/"><u>Supreme Creation Studio Test</u></a></li>
-<li><a href="https://win11.techidaily.com/uncluttered-windows-desktop-at-a-glance/"><u>Uncluttered Windows Desktop at a Glance</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-negative-playback-on-your-instagram-feed/"><u>[New] 2024 Approved Mastering Negative Playback on Your Instagram Feed</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-image-quality-mastering-windows-11s-background-blur-function-in-photos/"><u>Elevate Your Image Quality: Mastering Windows 11'S Background Blur Function in Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-network-configurations-in-win11/"><u>Navigating Network Configurations in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-your-workspace-learning-to-use-windows-11s-taskbar-search/"><u>Optimizing Your Workspace: Learning to Use Windows 11'S Taskbar Search</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-fn-button-actions-in-windows-11/"><u>Personalizing FN Button Actions in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/preventing-auto-play-on-apple-music-a-step-by-step-guide/"><u>Preventing Auto-Play on Apple Music: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-persistent-edge-toolbar-items/"><u>Removing Persistent Edge Toolbar Items</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/share-it-all-video-watchlist-for-2024/"><u>Share-It-All Video Watchlist for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-lost-at-sea-xbox-error-in-windows-11-systems/"><u>Unlocking Lost at Sea Xbox Error in Windows 11 Systems</u></a></li>
 </ul></div>
 

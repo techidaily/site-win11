@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Beginner's Guide to Microsoft Copilot
-date: 2024-08-08T13:21:39.220Z
-updated: 2024-08-09T13:21:39.220Z
+date: 2025-01-23T01:22:43.980Z
+updated: 2025-01-24T20:12:34.015Z
 tags:
   - windows10
   - windows11
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 
 ## The Ultimate Beginner's Guide to Microsoft Copilot
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Microsoft Copilot?](#what-is-microsoft-copilot)
@@ -27,9 +24,9 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 * [How to Use Microsoft Copilot](#how-to-use-microsoft-copilot)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Microsoft Copilot is an AI assistant available on Windows 11, Microsoft Office, and Microsoft Edge, offering various functionalities across these.
@@ -37,6 +34,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 * Copilot can be used for providing cited research sources, generating images with DALL-E 3, assisting with coding projects, and integrating with Microsoft Office apps for various tasks.
 
  A lot of big tech companies have their own AI model, and Microsoft is no different. Its AI model is called "Copilot," and you might have already seen it on Windows 11 or in Microsoft Office. But what is Copilot, and what can you do with it?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is Microsoft Copilot?
 
@@ -62,9 +63,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Enabling the Copilot taskbar icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-taskbar-enable.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### How to Open Microsoft Copilot on Edge
 
  If you're not on Windows 11, you can still use Copilot through Microsoft Edge. Open Edge, then look for the sidebar on the right. Click the Copilot icon; it's the one right at the top. If you can't find it, you can also use its **Ctrl + Shift + Period** keyboard shortcut.
@@ -72,26 +70,21 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![The Copilot icon in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-edge-icon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Open Microsoft Copilot on the Web
 
  If you don't have access to Windows 11 or Edge, you can still use Copilot on the web. Just head over to [copilot.microsoft.com](https://copilot.microsoft.com/) and you'll be ready to go.
 
  You'll notice that if you go to Bing and try to open Bing Chat, it will open Copilot instead because [Microsoft rebranded Bing Chat to Copilot](https://www.makeuseof.com/microsoft-rebrand-bing-chat-copilot-compete-chatgpt/). It should work the same way as the prior service.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### How to Open Microsoft Copilot in Microsoft 365 (Office)
 
  Opening Copilot in Microsoft 365 depends on which app you open. However, you do need an active Microsoft 365 subscription for Copilot to work.
 
  Some apps will have Copilot open the instant you boot it up. For example, if you open a new document on Word, Copilot will pop up and ask you if you want to generate a draft. In other apps, you need to poke it out of hiding from the ribbon.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Are the Copilot Conversation Styles?
 
  When you open Copilot in an app other than Office, it will ask what conversational style you'd like Copilot to talk in. Choosing the right option depends on what kind of answer you'd like Copilot to give you:
@@ -107,11 +100,16 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  Now that you've got Copilot open, it's time to check out what you can do with it.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Perform Research With Copilot
 
 ![An example of Copilot citing sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-source-example.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Something I love about Copilot over other AI models is how it cites its sources. It's always good to see an AI chatbot demonstrate where it's getting its knowledge from, but it also allows you to follow those citations when performing research.
 
@@ -119,9 +117,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ### Generate Images With DALL-E 3
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![An image of a corgi generated by Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-dalle-example.jpg)
 
  If you want to generate images for free, Copilot is a great choice. Copilot supports the powerful DALL-E 3 image generator; just ask it to draw something for you. If you're not pleased with the result, you can guide Copilot through further prompts to get the best possible picture.
@@ -130,19 +125,21 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ### Ask Copilot to Write Code for You
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Copilot creating a FizzBuzz test in C#](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-coding-example.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're stuck on your next coding project, why not let Copilot give it a shot? You can ask it how it would program something, or you can give it some of your code and ask it why it's not working. It supports all the major coding languages, so give Copilot a try if you're struggling to code something.
 
 ### Use Copilot's Integration With Microsoft Office
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Close Up Microsoft Office Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/close-up-cell-microsoft-icons.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  [Unsplash](https://unsplash.com/photos/N3TVYJ6Wr1I)
 
@@ -157,11 +154,28 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  If you use any of these apps in your work, give Copilot a try and see what it can do for you.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-sketch-serious-snickers-for-2024/"><u>[New] Sketch Serious Snickers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-telegrams-launchpad-for-aspiring-advertisers-a-starters-handbook/"><u>[New] Telegram's Launchpad for Aspiring Advertisers A Starter's Handbook</u></a></li>
+<li><a href="https://win11.techidaily.com/a-guide-to-quickly-opens-sticky-notes-in-windows-11/"><u>A Guide to Quickly Opens Sticky Notes in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/audio-enhancement-for-windows-step-by-step-driver-instructions/"><u>Audio Enhancement for Windows: Step-by-Step Driver Instructions</u></a></li>
+<li><a href="https://win11.techidaily.com/augmenting-app-guard-features-with-graphical-upgrades-on-edge/"><u>Augmenting App Guard Features with Graphical Upgrades on Edge</u></a></li>
+<li><a href="https://win11.techidaily.com/best-6-to-do-list-programs-tailored-for-windows-11-enthusiasts/"><u>Best 6 To-Do List Programs Tailored for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/capturing-the-moment-leading-tools-to-record-webinars-and-more-for-2024/"><u>Capturing the Moment - Leading Tools to Record Webinars & More for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719355296197-dimming-windows-11-brightness-simple-fixes-unveiled/"><u>Dimming Windows 11 Brightness - Simple Fixes Unveiled</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-fun-filled-world-of-educational-toys-the-wonder-workshop-dash/"><u>Exploring the Fun-Filled World of Educational Toys: The Wonder Workshop Dash!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s, Apples New iPhone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-complete-guide-to-transitioning-sound-elements-in-video-content/"><u>New 2024 Approved Complete Guide to Transitioning Sound Elements in Video Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/revolutionize-your-laptop-experience-innovative-methods-for-screen-capture-for-2024/"><u>Revolutionize Your Laptop Experience Innovative Methods for Screen Capture for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719334307866-skip-wsl-save-time/"><u>Skip WSL, Save Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/xmas-joy-gifting-apps-on-microsoft-store-platform/"><u>Xmas Joy: Gifting Apps on Microsoft Store Platform</u></a></li>
+</ul></div>
+

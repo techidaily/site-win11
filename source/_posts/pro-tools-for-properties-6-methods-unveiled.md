@@ -1,7 +1,7 @@
 ---
 title: "Pro Tools for Properties: 6 Methods Unveiled"
-date: 2025-01-16T17:34:59.618Z
-updated: 2025-01-18T22:59:26.091Z
+date: 2025-01-19T17:07:46.089Z
+updated: 2025-01-25T09:27:38.683Z
 tags:
   - windows10
   - windows11
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 ![View File Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using the Mouse and Keyboard Shortcut
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
 1. Open the File Explorer app and navigate to the folder location.
 2. Now, hold the**Alt** key and**double-click** on the file to display its properties.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Using the Context Menu
 
@@ -66,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
  Keep in mind that the right-click context menu will look a bit different from the older versions of Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Using the File Explorer
@@ -80,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 ![View File Properties using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-file-explorer.jpg)
 5. The Properties window will launch on your system. Press**Alt + F4** to close it after you no longer need it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Using the CMD Tool
 
  The above-mentioned shortcuts launch the Properties window which shows the GUI version of File Properties. But, you can also view the properties of a folder or file using the command prompt on Windows. Repeat the following steps to view file properties using the command prompt utility:
@@ -96,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 5. Scroll down to check the file properties such as size, creation date, and more attributes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Using PowerShell
@@ -108,6 +100,14 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 3. Replace “**File Path** ” with the actual storage location like you did in the fifth method.  
 ![View File Properties using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-powershell.jpg)
 4. Press the**Enter** key to execute the command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Quickly View File or Folder Properties on Windows
 
@@ -128,22 +128,22 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-premier-tool-for-perfect-openings-anywhere-you-go/"><u>[New] In 2024, Premier Tool for Perfect Openings, Anywhere You Go</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-10-best-zoom-alternatives-for-2024/"><u>[Updated] 10 Best Zoom Alternatives for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-print-saturation-with-windows-11/"><u>Avoiding Print Saturation with Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-productivity-top-30-mouse-control-wizards/"><u>Elevate Productivity: Top 30 Mouse Control Wizards</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-honor-80-pro-straight-screen-edition-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Honor 80 Pro Straight Screen Edition Quickly? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-premium-lineup-essential-bd-software-free-to-pay-on-windows-macos/"><u>In 2024, Premium Lineup Essential BD Software (Free to Pay) on Windows, macOS</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-ultimate-cinematic-trailer-collection/"><u>In 2024, Ultimate Cinematic Trailer Collection</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-ai-for-flawless-computer-fixes/"><u>Leveraging AI for Flawless Computer Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-overprint-how-to-reactivate-the-missing-windows-functionality/"><u>Mastery Overprint: How to Reactivate the Missing Windows Functionality.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/relaunching-nvidia-software-on-pcs/"><u>Relaunching NVIDIA Software on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/relish-in-unmatched-windows-software-sweepstakes/"><u>Relish In Unmatched Windows Software Sweepstakes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722889357118-step-by-step-guide-capturing-your-screen-on-windows-and-mac/"><u>Step-by-Step Guide: Capturing Your Screen on Windows & Mac</u></a></li>
-<li><a href="https://win11.techidaily.com/the-blueprint-for-reviving-your-windows-system/"><u>The Blueprint for Reviving Your Windows System</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-unable-to-access-your-windows-start-icon/"><u>Troubleshooting: Unable to Access Your Windows Start Icon</u></a></li>
-<li><a href="https://win11.techidaily.com/turning-oculus-quest-into-a-windows-based-vr-device/"><u>Turning Oculus Quest Into a Windows-Based VR Device</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-create-lip-sync-tiktok-videos-without-installing-any-app/"><u>Updated 2024 Approved Create Lip Sync TikTok Videos Without Installing Any App</u></a></li>
-<li><a href="https://win11.techidaily.com/verifying-your-version-three-ways-for-windows-11/"><u>Verifying Your Version: Three Ways for Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-engaging-emojis-boost-your-videos-appeal-without-payments/"><u>[New] 2024 Approved Engaging Emojis Boost Your Video's Appeal Without Payments</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-ultimate-playbook-for-podcast-titling-success-and-50plus-name-suggestions/"><u>[Updated] 2024 Approved The Ultimate Playbook for Podcast Titling Success & 50+ Name Suggestions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-privacy-preservation-how-to-make-faces-invisible-online/"><u>[Updated] In 2024, Privacy Preservation How to Make Faces Invisible Online</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-terrain-trove-top-maps-for-treasure-seeking/"><u>2024 Approved Terrain Trove Top Maps for Treasure Seeking</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/android-moba-gems-discovering-the-classics-for-2024/"><u>Android MOBA Gems Discovering the Classics for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-errors-with-enex-driver-not-loading-in-win11/"><u>Correcting Errors with eNEX Driver Not Loading in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-app-blocks-system-function-problem-on-your-pc/"><u>Fixing the App Blocks System Function Problem on Your PC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-discovering-premium-free-srt-translation-services-and-how-to-choose/"><u>In 2024, Discovering Premium Free SRT Translation Services and How to Choose</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Watch Hulu Outside US On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-window-11-lock-pattern-designing-techniques/"><u>Innovative Window 11 Lock Pattern Designing Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-audio-record-functionality/"><u>Navigating Windows' Audio Record Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-integrated-graphics-a-step-by-step-guide/"><u>Overcoming Integrated Graphics: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/peering-into-win11s-data-harvest-routines/"><u>Peering Into Win11’s Data Harvest Routines</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-windows-lockscreen-enabledisable-image-display/"><u>Personalizing Windows Lockscreen: Enable/Disable Image Display</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-using-onedrive-offline-in-windows/"><u>Step-by-Step Guide to Using OneDrive Offline in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-separating-concentrated-pc-icons/"><u>Techniques for Separating Concentrated PC Icons</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-tools-for-crafting-unforgettable-highlight-reels/"><u>The Best Tools for Crafting Unforgettable Highlight Reels</u></a></li>
 </ul></div>
 

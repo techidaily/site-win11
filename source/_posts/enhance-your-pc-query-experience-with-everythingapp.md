@@ -1,7 +1,7 @@
 ---
 title: Enhance Your PC Query Experience with EverythingApp
-date: 2025-01-02T18:29:42.117Z
-updated: 2025-01-06T21:22:47.821Z
+date: 2025-01-23T09:56:53.560Z
+updated: 2025-01-24T23:15:50.596Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 ![Everything app install options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installing-everything-on-windows-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, click**Yes** on the**User Account Control** prompt and tap**Finish** to close the installer and launch Everything.
@@ -52,11 +52,11 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 ![Everything search indexed database](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-search-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Perform Basic Everything Configuration
@@ -64,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
  Everything works just fine out of the box. However, there are some settings and options, which you should modify to get more out of the program. Head over to**Everything Options** by clicking on**Tools > Options** or pressing the**Ctrl + P** keyboard shortcut, and you'll see a bunch of these options.
 
 ![Everything search options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-search-app-options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 We recommend enabling the following options from here:
 
@@ -78,9 +74,17 @@ We recommend enabling the following options from here:
 
  Finally, click**Apply** to apply the settings and click**OK** to close the window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Find Files and Folders on Windows With Everything
 
  Finding files and folders with Everything is easy. Here are all the different kinds of searches and operations you can perform in Everything.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Search for a File or Folder
 
@@ -93,7 +97,7 @@ We recommend enabling the following options from here:
  Similarly, you can specify a folder name to tell Everything to find a file or folder inside that specific folder. For instance, if you'd like to search files inside the**Music** directory in**D** drive, your query would look like this:**d:\\music.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Get More Information and Perform Operations on Search Results
@@ -105,10 +109,6 @@ We recommend enabling the following options from here:
  Similarly, you can double-click on a file or folder to open it in File Explorer. Or right-click on it to bring up the context menu.
 
  Depending on what file or folder you're doing this on, you'll see a range of options in this menu, like rename, copy full path, open path, cut, copy, delete, and more. Most of the actions you perform here will apply directly to the file/folder on the file system and reflect in the File Explorer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Sort Your Results
 
@@ -124,6 +124,10 @@ We recommend enabling the following options from here:
 
 ![filter results by type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/filter-everything-results-by-type.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Everything will filter the results and only show you files and folders that match the specified type.
 
 ### 5\. Match Case to Find Accurate Results
@@ -133,10 +137,6 @@ We recommend enabling the following options from here:
  To avoid this, you can try matching the case style with the original file or folder name. Simply type the name of the file or folder as it's actually styled in the search box and select**Search > Match Case** .
 
 ![match case option in Everything](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/match-case-in-everything-search.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Everything will then return only those files and folders that match the specified case style.
 
@@ -189,15 +189,17 @@ We recommend enabling the following options from here:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-efficient-editing-for-quick-youtube-content/"><u>[New] 2024 Approved Efficient Editing for Quick YouTube Content</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-vr-the-creation-gap/"><u>[New] Unveiling VR The Creation Gap</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/brighten-and-balance-photos-with-easy-ps-tips/"><u>Brighten and Balance Photos with Easy PS Tips</u></a></li>
-<li><a href="https://win-tips.techidaily.com/guide-pratique-migration-os-ssd-a-ssd-dans-windows-11-10-8-ou-7-en-seulement-trois-etapes/"><u>Guide Pratique : Migration OS SSD À SSD Dans Windows 11, 10, 8 Ou 7 en Seulement Trois Étapes</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-scan-qr-codes-on-windows/"><u>How to Scan QR Codes on Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-presentation-perfection-9-essential-tips-for-winning-at-powerpoint-prints/"><u>Mastering Presentation Perfection: 9 Essential Tips for Winning at PowerPoint Prints</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-the-non-responder-service-error-on-windows/"><u>Remedying the Non-Responder Service Error on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723002963931-resolve-steams-error-code-130-with-these-proven-solutions/"><u>Resolve Steam's Error Code 130 with These Proven Solutions!</u></a></li>
-<li><a href="https://win11.techidaily.com/win-users-top-6-video-to-flv-editors/"><u>Win Users: Top 6 Video To FLV Editors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-first-steps-in-gamified-editing-software-selection/"><u>[New] 2024 Approved First Steps in Gamified Editing Software Selection</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-leading-gallery-archive-services/"><u>[New] Leading Gallery Archive Services</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-secrets-of-earning-big-reddits-13-money-makers/"><u>[New] Secrets of Earning Big Reddit's 13 Money Makers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-depth-analysis-logitechs-4k-professional-cam-for-2024/"><u>[Updated] In-Depth Analysis Logitech's 4K Professional Cam for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-from-concept-to-completion-crafting-your-youtube-masterpiece/"><u>2024 Approved From Concept to Completion Crafting Your YouTube Masterpiece</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-deep-how-to-navigate-the-mspcm-bar-in-win11-systems/"><u>Dive Deep: How to Navigate the MSPCM Bar in Win11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-get-help-app-not-working-on-windows-11/"><u>How to Fix the Get Help App Not Working on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-camon-20-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Camon 20</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-essential-features-of-a-mac-compatible-sound-editing-software/"><u>In 2024, Essential Features of a Mac-Compatible Sound Editing Software</u></a></li>
+<li><a href="https://win11.techidaily.com/instructions-to-launch-google-play-on-w11/"><u>Instructions to Launch Google Play on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/legacy-software-understanding/"><u>Legacy Software Understanding</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-list-of-uninstall-routes-in-windows-11-118-chars/"><u>The Ultimate List of Uninstall Routes in Windows 11 (118 Chars)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing Windows Setup Failures: Windows 10 & 11 Edition"
-date: 2024-08-08T13:20:17.014Z
-updated: 2024-08-09T13:20:17.014Z
+date: 2025-01-19T07:39:15.732Z
+updated: 2025-01-25T05:08:53.953Z
 tags:
   - windows10
   - windows11
@@ -20,23 +20,29 @@ thumbnail: https://thmb.techidaily.com/1fcdc6cbb778104aee870cc96ea727883cbb745be
 
  Lots of users have reported the “problem with this Windows installer package” error occurs when trying to install iTunes. However, this issue can affect the installation of many other Windows programs. This is how you can fix the “problem with his Windows installer package” error.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Download the Affected Installer Package File Again
 
  The setup file you’ve downloaded could be damaged in some way. So, try downloading a fresh setup file for the software you can’t install. Select to download the installer file to a different folder on your hard drive and then have another go at installing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Set Admin Rights on Your User Account
 
  Make sure you’re using an administrative user account. You can set admin rights for a user account with one of the methods in this guide to [changing your user account type in Windows](https://www.makeuseof.com/ways-to-change-user-account-windows-10/). Then sign out of your account and log back in.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![The Account type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/administrator-account.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Also, select to run the setup file with admin rights. To do that, right-click the installer file for the software you can’t install and select **Run as administrator**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the Program Install Troubleshooter
 
@@ -47,21 +53,16 @@ thumbnail: https://thmb.techidaily.com/1fcdc6cbb778104aee870cc96ea727883cbb745be
 1. Open this [Microsoft webpage](https://support.microsoft.com/en-gb/topic/fix-problems-that-block-programs-from-being-installed-or-removed-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d) from which you can download the Program Install and Uninstall troubleshooter.
 2. Click **Download troubleshooter** to save the **MicrosoftProgram\_Install\_and\_Uninstall.meta** file.
 3. Go to the folder in which your browser usually downloads and double-click **MicrosoftProgram\_Install\_and\_Uninstall.meta.diagcab**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![The Program Install and Uninstall troubleshooter window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-program-install-and-uninstall-option.jpg)
 4. Then select the troubleshooter’s **Next** button.
 5. Click **Installing** to view a list of programs.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Installing option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/installing-option.jpg)
 6. Select either the software you cannot install or **Not listed** and click **Next**.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Tweak the Registry
 
  Users widely confirm that adding a new **runas** key to the registry can fix the “problem with this Windows installer package” error. So, that could be the solution you need for resolving this installation issue.
@@ -75,11 +76,11 @@ thumbnail: https://thmb.techidaily.com/1fcdc6cbb778104aee870cc96ea727883cbb745be
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-new-key-option.jpg)
 4. Type **runas** inside the key’s text box.
 5. Select **runas** and double-click on its **(Default)** string.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![The runas key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-runas-key.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Input **Install as &administrator** inside the **Value data** box and select **OK**.  
 ![The Edit String window for the runas key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/an-edit-string-window.jpg)
@@ -89,6 +90,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 5. Input **msiexec /i "%1"** within the **Value data** box and click **OK**.  
 ![The Edit String window for the command key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/command-key-edit-string-window.jpg)
 6. Close Registry Editor and click **Power** \> **Restart** on the Windows Start menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Set Full Control for the Temp Folder
 
@@ -100,6 +105,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Select **Security** on the Temp Properties window.  
 ![The Security tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/security-tab-1.jpg)
 4. Press **Edit** to bring up a Permissions for Temp window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select **Add** to view a groups window.
 
 1. Input **everyone** in the object names box.
@@ -110,10 +120,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![The Permissions for Temp window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-permissions-for-temp-window.jpg)
 5. Select **Apply** to set new permission settings then OK out of all windows.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## 6\. Repair the Apple Software Update App
 
  This potential resolution is only related if the error occurs when installing iTunes. Users of iTunes confirm they were able to fix that error by repairing the Apple Software Update program. This is how you can repair Apple Software Update:
@@ -121,15 +127,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. [Open the Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/) and click **Uninstall a program** in the category view.
 2. Select Apple Software Update in the programs list.
 3. Then click the **Repair** option for Apple Software Update.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![The Repair option for Apple Software Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-apple-software-update-window.jpg)
 4. Try installing iTunes after repairing Apple Software Update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## 7\. Restart the Windows Installer Service
 
  Windows Installer is a service for handling the installation of software with MSI packages. It's a service you can try restarting to resolve the “problem with the Windows installer package” error. If it's not running, you can fix this problem by starting it back up again.
@@ -139,6 +139,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. To open Services, you will need to press **Win + R** to type in a **services.msc** Run command and press **Enter**.
 2. Right-click the Windows Installer service and click **Restart** if it’s running, or select the **Start** option if the Windows Installer service is stopped.  
 ![The Start option for the Windows Installer service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-windows-installer-service-context-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Re-Register the Windows Installer Service
 
@@ -153,24 +157,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![The unregister service command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-unregister-command.jpg)
 4. Execute this command for re-registering Windows Installer:  
 `msiexec.exe /regserver`  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The register service command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-register-windows-installer-command.jpg)
 5. Check the Windows Installer service is running and start it again if necessary, as covered in the earlier resolution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Perform a Windows Clean Boot
 
  Disabling all third-party software and services that start with Windows is called "clean booting". Clean booting might disable some startup items that were conflicting with the installation process. Security programs are the most likely software packages to cause installation issues.
 
  You can disable startup services and apps via MSConfig and Task Manager, as instructed in our article about [how to clean boot Windows](https://www.makeuseof.com/clean-boot-windows-11/). Restart your PC after setting up the clean boot. Then have another go at installing the affected software packages.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-tab2.jpg)
 
  If this resolution solves the issue, you can install the software you currently need and restore the standard boot configuration afterward. However, the error might reoccur in the future when you try to install more software. So, it’s better to try and identify what app or service was causing the issue and keep it disabled.
@@ -181,11 +180,27 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Lots of users have reported the “problem with this Windows installer package” error occurs when trying to install iTunes. However, this issue can affect the installation of many other Windows programs. This is how you can fix the “problem with his Windows installer package” error.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/aste-the-thrill-crafting-engaging-food-network-names-for-2024/"><u>[New] Taste the Thrill Crafting Engaging Food Network Names for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-mastering-instagram-increasingdecreasing-stories-frame-rate/"><u>[Updated] In 2024, Mastering Instagram Increasing/Decreasing Stories' Frame Rate</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-revolutionize-your-content-creation-the-mi-11s-screen-record-capabilities/"><u>[Updated] In 2024, Revolutionize Your Content Creation The Mi 11'S Screen Record Capabilities</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-ultimate-selection-top-10-vimeo-download-tools-unveiled-for-2024/"><u>[Updated] The Ultimate Selection Top 10 Vimeo Download Tools Unveiled for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/2024apple-wechat/"><u>如何在2024年妙用技巧：从Apple WeChat中挽回聊天稿件</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-generations-old-games-to-your-my-pictures-on-w11/"><u>Bridging Generations: Old Games to Your My Pictures on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-insufficient-access-on-windows-for-removal-tasks/"><u>Bypassing Insufficient Access on Windows for Removal Tasks</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-outdated-files-with-confidence-using-windows-1011s-feature/"><u>Clear Outdated Files with Confidence Using Windows 10/11'S Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-screen-glitches-via-windows-11-driver-reset/"><u>Clear Screen Glitches via Windows 11 Driver Reset</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-headphone-connection-errors-in-windows/"><u>Clearing Up Headphone Connection Errors in Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-note-taking-experience-mematic/"><u>Elevate Note-Taking - Experience Mematic</u></a></li>
+<li><a href="https://extra-support.techidaily.com/insightful-selection-elite-free-srt-translation-services-for-2024/"><u>Insightful Selection Elite Free SRT Translation Services for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-the-challenges-of-iphone-photography-tips-and-fixes-for-better-results/"><u>Navigating the Challenges of iPhone Photography: Tips & Fixes for Better Results</u></a></li>
+</ul></div>
+

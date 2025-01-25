@@ -1,7 +1,7 @@
 ---
 title: "Skyrockets Ethernet Speeds: Bypassing Windows' 100Mbps Cap"
-date: 2025-01-16T11:10:24.923Z
-updated: 2025-01-18T22:17:49.362Z
+date: 2025-01-20T19:30:41.227Z
+updated: 2025-01-24T20:39:43.755Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check Your Internet Plan
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 ![Speed and Duplex Settings in the Network Adapter Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/speed-and-duplex-settings-in-the-network-adapter-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If **1.0 Gbps Full Duplex** is listed, your card supports gigabit connectivity. Your card does not support gigabit connections if **100 Mbps Full Duplex** is the highest value listed. In any case, select **Auto Negotiation** from the **Value** dropdown in the network adapter settings if any other value is selected.
@@ -70,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 ## 4\. Ensure Your Router Supports Gigabit Connection
 
 ![a close up shot of router ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/modern-wifi-router-ports.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Like your network card, your router should also be capable of delivering 100Mbps+ speeds. You can check that by looking at the router's documentation or description on the manufacturer's website. If the router manufacturer claims this specific model is a gigabit router, it can likely deliver gigabit speeds.
 
@@ -85,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
  Cat5e and Cat5 cables have identical physical appearances, but don't let that fool you. Instead, look at the cable's label to determine its category. If it's low bandwidth, replace it with Cat5e or higher.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Remove Restrictions in the Router Settings
 
  Most routers allow users to limit the connection speed. Therefore, log into the router's admin interface to ensure speed isn't constrained there. Here's how you can do it:
@@ -98,17 +98,9 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 ![Check the Default Gateway IP Address in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-the-default-gateway-ip-address-in-windows-command-prompt.jpg)
 3. Paste this address into any internet browser to access your router's admin interface. Then, log in with your username and password.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Go to the **Ethernet** settings and check if there are any restrictions on your internet speed. Remove any constraints you find here.
 
  Some routers allow users to switch between gigabit and 100Mbps speeds. If your router offers this option, opt for the 1Gbps connection.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Rule Out Any Hardware Issues
 
@@ -116,11 +108,19 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
 ![image of ethernet cables connected to router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ethernet-router-connection.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Start the hardware inspection by checking both ends of the Ethernet cable where cable connectors are installed. Ensure both connectors are in good condition and all internal wires/conductors are pushed to the end and aren't falling off.
 
  Once you have confirmed that, inspect the Ethernet cable from one end and go through the entire length. If the cable shows any physical damage, especially areas that remain bent all the time, you may need to replace it.
 
  If the cable is intact, examine the Ethernet ports on your router and laptop. If any of the ports appears damaged, you should switch to another one (if available).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get the Most Out of Your Ethernet Connection on Windows
 
@@ -140,18 +140,22 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-digestible-vid-info-quick-start/"><u>[New] 2024 Approved Digestible Vid Info Quick Start</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expand-your-online-realm-harnessing-youtube-insights-powerfully/"><u>[New] In 2024, Expand Your Online Realm Harnessing YouTube Insights Powerfully</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-optimizing-footage-variety-in-your-video-production/"><u>[New] Optimizing Footage Variety in Your Video Production</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-discover-top-ios-video-downloads-facebook-edition/"><u>[Updated] Discover Top iOS Video Downloads Facebook Edition</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-unveiling-the-best-free-video-player-vlc-versus-mpc/"><u>[Updated] In 2024, Unveiling the Best Free Video Player VLC versus MPC</u></a></li>
-<li><a href="https://win11.techidaily.com/combatting-security-account-manager-failures/"><u>Combatting Security Account Manager Failures</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/feature-by-feature-review-of-the-onetastic-plugin-for-microsofts-onenote-application/"><u>Feature-by-Feature Review of the Onetastic Plugin for Microsoft's OneNote Application</u></a></li>
-<li><a href="https://win11.techidaily.com/holiday-harmony-delightful-wrapped-apps-through-ms-store/"><u>Holiday Harmony: Delightful Wrapped Apps Through MS Store</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-application-was-unable-to-start-0xc000003e-error-in-windows-10-and-11/"><u>How to Fix “The Application Was Unable to Start” 0Xc000003e Error in Windows 10 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/making-vintage-windows-computers-more-elderly-friendly/"><u>Making Vintage Windows Computers More Elderly Friendly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-a-steal-on-hp-victus-section-1-advanced-problem-theme-question/"><u>Score a Steal on HP Victus # Section 1: Advanced Problem (Theme Question)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/streamline-your-home-makeover-using-our-selection-of-the-best-4-painting-apps-for-diyers/"><u>Streamline Your Home Makeover Using Our Selection of the Best 4 Painting Apps for DIYers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unraveling-the-world-of-electronics-with-toms-equipment-insights/"><u>Unraveling the World of Electronics with Tom's Equipment Insights</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-premium-audio-modification-solutions-magically-effective/"><u>[New] In 2024, Premium Audio Modification Solutions Magically Effective</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-quickcapture-ultimate-scan/"><u>[New] QuickCapture Ultimate Scan</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-earths-richest-digital-content-wizard/"><u>[Updated] In 2024, Earth's Richest Digital Content Wizard</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-audio-issue-in-win11-error-0xc00d36b4/"><u>Correcting Audio Issue in Win11, Error 0xC00D36B4</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-how-to-swiftly-engage-windows-support-services/"><u>Discover How to Swiftly Engage Windows' Support Services</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-mystery-of-not-found-in-windows-pc/"><u>Fixing the Mystery of 'Not Found' In Windows PC</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-motorola-edge-40-neo-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Motorola Edge 40 Neo in Minutes | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/imperator-rome-a-critical-analysis-of-building-an-empire-in-turbulent-times/"><u>Imperator: Rome - A Critical Analysis of Building an Empire in Turbulent Times</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-enhancing-gameplay-with-amd-tweaks/"><u>Mastering the Art of Enhancing Gameplay with AMD Tweaks</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-regulation-of-biometrics-by-windows-11-users/"><u>Mastering the Regulation of Biometrics by Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-direct-image-access-with-windows-11/"><u>Maximizing Direct Image Access with Windows 11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigate-through-green-screen-muddle-on-mac-for-smooth-youtubing-for-2024/"><u>Navigate Through Green Screen Muddle on Mac for Smooth YouTubing for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/record-setting-stories-a-list-of-the-most-popular-reddit-threads/"><u>Record-Setting Stories A List of the Most Popular Reddit Threads</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-lost-slack-notification-functionality/"><u>Restoring Lost Slack Notification Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-way-inout-of-terminals-focused-mode/"><u>Streamlining Your Way In/Out of Terminal’s Focused Mode</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-affordable-asmr-experience-awaits/"><u>The Ultimate Affordable ASMR Experience Awaits</u></a></li>
 </ul></div>
 

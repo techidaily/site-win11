@@ -1,7 +1,7 @@
 ---
 title: Tackling Unsuccessful File Transfers in Windows
-date: 2025-01-17T17:21:00.473Z
-updated: 2025-01-18T17:52:26.598Z
+date: 2025-01-20T08:56:43.726Z
+updated: 2025-01-24T18:00:53.678Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Free Up Drive Storage Space
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
 ![The Disk Clean-up window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-clean-up-tool.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Run the SFC and DISM Command-Line Tools
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sfc-scannow.jpg)
@@ -46,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
  The SFC tool patches up corrupted files and DISM addresses system image issues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Select a Different Download Location in Your Browser
@@ -56,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
  Our article about [changing the default download location in browsers](https://www.makeuseof.com/change-default-download-location-popular-browsers/) tells you how to apply this potential resolution with Firefox, Chrome, Edge, Opera, and Vivaldi.
 
 ![The Downloads location setting in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-location-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Change the Current Location in the Website Data Settings
 
@@ -72,16 +72,16 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 ![The General tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/general-tab.jpg)
 5. If the current location is not set to your local C: drive, click on the **Move folder** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Website Data Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/current-location.jpg)
 6. Select a folder on your PC’s C: drive and click **OK**.
 
 7. Then click **Yes** on the logoff prompt.
 
  We also recommend checking some security settings in Internet Properties. Click **Custom level** on the **Security** tab. Make sure the **File download** and **Font download** options are enabled there. If they’re not, select the **Enable** radio buttons for those settings and click **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Run an Antivirus Scan
 
@@ -97,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 5. Select **Start actions** to eradicate detected malware.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Disable Any Active Third-Party Antivirus Utilities
@@ -105,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
  Third-party antivirus apps shouldn't stop you from downloading any files. However, they can interfere with downloads when set to the highest protection settings. To check if a third-party security app is causing this issue, right-click on its antivirus system tray icon and select an option for temporarily disabling its shield. Then try to download a file in your browser again.
 
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
 
@@ -115,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 ![The Turn off Windows Defender Firewall (not recommended) radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-firewall-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If disabling Windows Defender Firewall works, it’s not a good idea to leave it off. Resetting that firewall to its default configuration will likely disable the rules causing the issue. To do that, click the **Restore defaults** in the Windows Defender Firewall Control Panel applet. Then click the **Restore defaults** button.
@@ -134,10 +138,6 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 3. Press the **Restore settings** button.
 
 4. Click **Reset** inside the confirmation prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Factory Reset Window
 
@@ -165,20 +165,19 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-inquiring-into-the-benefit-of-verified-online-self-portraits/"><u>[New] 2024 Approved Inquiring Into the Benefit of Verified Online Self-Portraits</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-rights-overload-immediate-content-scrapping/"><u>[New] Rights Overload Immediate Content Scrapping</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-tech-savvy-strategies-recording-gotomeeting-on-any-gear-for-2024/"><u>[New] Tech-Savvy Strategies Recording GoToMeeting on Any Gear for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-ultimate-tutorial-for-iphone-voice-memo/"><u>[Updated] In 2024, The Ultimate Tutorial for iPhone Voice Memo</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-what-to-do-when-youtube-shorts-thumbnails-fail-to-appear-in-2024/"><u>[Updated] What to Do When YouTube Shorts Thumbnails Fail to Appear, In 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-ultimate-cartoony-transformation-tools-for-pcs-and-macs/"><u>2024 Approved Ultimate Cartoony Transformation Tools for PCs & Macs</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-windows-issue-code-0x80071a90/"><u>Decoding Windows Issue: Code 0X80071a90</u></a></li>
-<li><a href="https://win11.techidaily.com/exclusive-non-ad-focused-start-menu-win-11/"><u>Exclusive, Non-Ad Focused Start Menu Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/file-compression-excellence-utilizing-cli-commands-in-windows/"><u>File Compression Excellence: Utilizing CLI Commands in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-rectify-paste-issues-across-popular-browsers/"><u>How to Rectify Paste Issues Across Popular Browsers</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-revive-vanishing-steam-game-images/"><u>How to Revive Vanishing Steam Game Images</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-mail-service-halt-fixing-0x800713f-in-win11/"><u>Overcoming Mail Service Halt: Fixing 0X800713F in Win11</u></a></li>
-<li><a href="https://fox-http.techidaily.com/taking-flight-in-video-editing-a-drone-perspective/"><u>Taking Flight in Video Editing A Drone Perspective</u></a></li>
-<li><a href="https://win11.techidaily.com/top-desk-features-add-your-favorite-apps-to-the-taskbar/"><u>Top Desk Features: Add Your Favorite Apps to the Taskbar</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-enhance-your-online-presence-with-these-50-complimentary-banners/"><u>[Updated] In 2024, Enhance Your Online Presence with These 50 Complimentary Banners</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-metaverse-chronicles-a-list-of-the-most-unforgettable-sci-fi-adventures-on-screen/"><u>[Updated] Metaverse Chronicles A List of the Most Unforgettable Sci-Fi Adventures on Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028596410-mp4hevc/"><u>「高品質保持: MP4からHEVCへの最良変換法」</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-secrets-to-efficient-itunes-video-capturing/"><u>2024 Approved Secrets to Efficient iTunes Video Capturing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-thrilling-space-adventure-the-outer-worlds-video-game-an-engaging-sci-fi-action-experience/"><u>A Thrilling Space Adventure: The 'Outer Worlds' Video Game - An Engaging Sci-Fi Action Experience</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/detaillierte-ubersicht-und-anleitung-zu-atlas-os-fur-windows-11/"><u>Detaillierte Übersicht Und Anleitung Zu Atlas OS Für Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/evaluate-your-needs-best-windows-11-choice-between-home-and-pro/"><u>Evaluate Your Needs: Best Windows 11 Choice Between Home and Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-unclog-printer-usage-jams-in-win11/"><u>Guide to Unclog Printer Usage Jams in Win11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-wsl-the-4294967295-error-explained/"><u>Resolving WSL: The 4294967295 Error Explained</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/reviving-your-accidentally-deleted-data-on-windows-10-a-step-by-step-guide-to-recovery/"><u>Reviving Your Accidentally Deleted Data on Windows 10: A Step-by-Step Guide to Recovery</u></a></li>
+<li><a href="https://win11.techidaily.com/the-stealth-attacker-uncovered-defending-windows-against-wacatacbml/"><u>The Stealth Attacker Uncovered: Defending Windows Against Wacatac.B!ml</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-ultimate-guide-to-integrating-emojis-with-discord-statuses-for-2024/"><u>The Ultimate Guide to Integrating Emojis with Discord Statuses for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-resolving-system-call-failures-in-windows-11/"><u>Troubleshooting: Resolving System Call Failures in Windows 11</u></a></li>
 </ul></div>
 

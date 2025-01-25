@@ -1,7 +1,7 @@
 ---
 title: "Upgrading Your Computer: Embracing the Power of 16GB"
-date: 2024-08-08T13:20:07.405Z
-updated: 2024-08-09T13:20:07.405Z
+date: 2025-01-22T05:45:29.898Z
+updated: 2025-01-24T22:44:58.748Z
 tags:
   - windows10
   - windows11
@@ -17,14 +17,19 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 ## Upgrading Your Computer: Embracing the Power of 16GB
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is RAM?](#what-is-ram)
 * [What Is Happening With RAM in Windows Computers?](#what-is-happening-with-ram-in-windows-computers)
 * [Why Is Microsoft Setting a Baseline of 16GB of RAM?](#why-is-microsoft-setting-a-baseline-of-16gb-of-ram)
 * [Is Setting 16GB RAM as the New Standard Good News for You?](#is-setting-16gb-ram-as-the-new-standard-good-news-for-you)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -35,14 +40,11 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
  As operating systems become more complex, the minimum specifications for new PCs rise to meet them. Recent reports claim that Microsoft is pushing to have 16GB of RAM become the minimum amount of memory for new devices. But why would it make that change, and is this good for you?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is RAM?
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Inside of computer with ram sticks and cpu cooler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/inside-of-computer-with-ram-sticks-and-cpu-cooler.jpg)
 
 [Pexels](https://www.pexels.com/photo/interior-of-computer-15109653/)
@@ -50,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
  For anyone unsure what RAM is: it's short for "random access memory." You can imagine it like the size of your computer's work table; the more room it has to work with, the more programs it can run simultaneously without encountering any problems.
 
  Be sure to check out our [explainer on RAM](https://www.makeuseof.com/tag/quick-dirty-guide-ram-need-know/) that everyone can understand.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is Happening With RAM in Windows Computers?
 
@@ -59,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
  Right now, you can purchase a new PC with 8GB of RAM minimum. If this report is accurate, these models will eventually be phased out, and 16GB computers will take their place as the baseline.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Is Microsoft Setting a Baseline of 16GB of RAM?
 
 ![The Microsoft Copilot logo](https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f48662a5ae5f051ec41bdae27.jpg)
@@ -74,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
  An "AI PC" could be a machine where AI powers the operating system itself. It might also be a flashy marketing term for a regular PC with some simple AI tools pre-installed. Regardless of how AI PCs go, those special processing tools will need more memory to run properly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The Potential Set Up for Windows 12
 
  But why is Microsoft the one setting the baselines for AI PCs? The answer may lie within Microsoft's upcoming "Windows 12" project.
@@ -90,8 +90,9 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
  Windows 12 is currently believed to have a 2025 release date, which gives Microsoft a lot of time to work on implementing artificial intelligence into its operating system. And for people to make the most of Windows 12, Microsoft needs new PCs to have enough RAM to support it; hence the 16GB suggestion.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is Setting 16GB RAM as the New Standard Good News for You?
 
  While Microsoft has reasons for upping the minimum amount of RAM, it's easy to be skeptical about its claims. Who's to say this isn't just a move to raise the demand for RAM and force hardware prices up? Is 16GB of RAM really necessary?
@@ -102,11 +103,27 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
  As much as this may sound like Microsoft is making excuses to sell PCs with more RAM, its claims hold a lot of water. We'll have to wait a while and see what it means by "AI PC" before rendering any further judgment.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-device-friendly-tutorial-inserting-your-shorts-into-youtube/"><u>[New] In 2024, Device-Friendly Tutorial Inserting Your Shorts Into YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-deciphering-digital-domination-a-deep-dive-into-directors-videos/"><u>[Updated] In 2024, Deciphering Digital Domination A Deep Dive Into Directors' Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-fixing-the-windows-update-file-absence-issue-error-0x80070003/"><u>Decoding and Fixing the Windows Update File Absence Issue (Error 0X80070003)</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-manage-virtual-machines-tpm-and-secure-boot-on-vbox-70/"><u>How to Manage Virtual Machine's TPM and Secure Boot on VBox 7.0</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-dji-drone-masterpiece-analysis/"><u>In 2024, DJI Drone Masterpiece Analysis</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-skype-recording-guide-top-picks/"><u>In 2024, Skype Recording Guide - Top Picks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-essential-audio-workstation-applications-on-chrome-os-for-aspiring-musicians-for-2024/"><u>New Essential Audio Workstation Applications on Chrome OS for Aspiring Musicians for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-security-4-efficient-actions-to-banish-users-from-win11-systems/"><u>Simplified Security: 4 Efficient Actions to Banish Users From Win11 Systems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/smarter-video-sharing-with-igtv-a-guide-to-flipping-videos-right-for-2024/"><u>Smarter Video Sharing with IGTV A Guide to Flipping Videos Right for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-launching-sticky-notes-in-win11/"><u>Step-by-Step: Launching Sticky Notes in Win11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/tage-des-deutschen-jahreszyklus-lernen/"><u>Tage Des Deutschen Jahreszyklus Lernen</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-responsive-email-alerts-in-windows/"><u>Troubleshooting Non-Responsive Email Alerts in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-dxvks-role-in-linuxwindows-gameplay/"><u>Understanding DXVK's Role in Linux/Windows Gameplay</u></a></li>
+</ul></div>
+

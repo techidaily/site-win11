@@ -1,7 +1,7 @@
 ---
 title: Nexus Controller Down? Regain Control with These Fixes
-date: 2024-08-08T13:20:22.775Z
-updated: 2024-08-09T13:20:22.775Z
+date: 2025-01-21T16:36:47.471Z
+updated: 2025-01-24T20:03:04.502Z
 tags:
   - windows10
   - windows11
@@ -20,19 +20,12 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 
  Don’t worry though, it’s possible to get Steam to detect your controller with a few quick and easy troubleshooting tips. Let’s check them out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 1\. Rule Out Issues With Your Controller
 
  Your first course of action is to rule out any issues with your controller. For that, try disconnecting the controller from your PC and reconnecting it. If it’s a wireless controller, make sure it has sufficient charge.
 
  Another thing you can do is test your controller with another PC and see if it works. If it does, it's time for some more complicated fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Make Sure Windows Recognizes Your Controller
 
  Next, you need to ensure that Windows recognizes your controller. This should help rule out any issues caused by improper setup.
@@ -41,10 +34,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Game Controllers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/game-controllers-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## 3\. Exit and Re-Enter Steam’s Big Picture Mode
 
  Another potential solution to consider is to exit [Steam's Big Picture Mode](https://www.makeuseof.com/what-is-steam-big-picture-mode-explained/) and then re-enter it. If the issue is caused by a temporary glitch, this should do the trick and get Steam to detect your controller on Windows.
@@ -65,9 +54,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  After completing the above steps, unplug your controller and plug it back in to check if Steam recognizes it.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Enable Steam Overlay
 
  Another workaround to get Steam to recognize your controller is to enable Steam Overlay. This feature makes the in-game interface accessible while playing games and helps enhance controller compatibility within Steam.
@@ -78,12 +64,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Click the **Steam** menu in the top left corner and select **Settings**.
 3. Select the **In Game** tab from the left sidebar.
 4. Turn on the toggle next to the **Enable Steam Overlay while in-game** option.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Enable Steam Overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-steam-overlay.jpg)
 
  Restart the Steam client after this and check if the issue is still there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Run Steam as an Administrator
 
@@ -91,11 +78,16 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![Run Steam as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-steam-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If doing this finally allows Steam to detect your controller, you can configure Steam to [always run as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) as a more permanent solution.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Configure the Steam Controller Application Options
 
  If Steam is detecting your controller, but it’s not working in your game, you can try modifying the controller application options in Steam by following the steps below.
@@ -111,8 +103,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![Steam Input Per-Game Setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/steam-input-per-game-setting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Update Your Controller Drivers
 
  Outdated or malfunctioning drivers on your PC can also hinder Steam's ability to recognize your gaming controller. If that’s the case, updating the controller drivers should help. Fortunately, we have a guide on [how to find and replace outdated Windows drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) if you need help.
@@ -126,8 +119,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![Check for Steam Updates on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/check-for-steam-updates-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Opt Out of the Steam Beta
 
  Although participating in Steam’s beta program gives you early access to new and upcoming features, it can also lead to issues. If none of the above solutions prove effective, you can consider leaving Steam’s beta program and switching to the stable version of the app. To do so, use these steps:
@@ -140,9 +138,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Restart Steam after this, and it should automatically install the necessary updates to switch to the stable version of the app.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Navigate the Steam Universe With Your Controller Once Again
 
  Using a gaming controller on Steam offers a more comfortable and familiar gaming experience, especially for those who prefer a traditional console-like setup. Hopefully, one of the above tips has worked out and Steam is able to detect your gaming controller on Windows.
@@ -151,11 +146,31 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Don’t worry though, it’s possible to get Steam to detect your controller with a few quick and easy troubleshooting tips. Let’s check them out.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-retrace-your-steps-flipping-iphone-videography/"><u>[Updated] 2024 Approved Retrace Your Steps Flipping iPhone Videography</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-a-detailed-guide-to-streamlabs-obs/"><u>2024 Approved A Detailed Guide to Streamlabs OBS</u></a></li>
+<li><a href="https://win11.techidaily.com/bridge-the-gap-connecting-your-computer-again/"><u>Bridge the Gap: Connecting Your Computer Again</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-windows-explorer-tab-lapses/"><u>Bridging Windows Explorer Tab Lapses</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-blocked-onedrive-fixes-for-windows-users/"><u>Bypassing Blocked OneDrive: Fixes for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-wsl-smart-choice/"><u>Bypassing WSL - Smart Choice</u></a></li>
+<li><a href="https://win11.techidaily.com/circumventing-constant-pc-startup-in-bios-mode/"><u>Circumventing Constant PC Startup in BIOS Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-errors-successfully-downloading-from-the-ms-store/"><u>Clearing Errors: Successfully Downloading From the MS Store</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-the-path-for-startup-display-in-taskbar/"><u>Clearing the Path for Startup Display in Taskbar</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-dark-screen-with-windows-webcam/"><u>Clearing Up Dark Screen with Windows Webcam</u></a></li>
+<li><a href="https://win-web.techidaily.com/error-404-the-missing-webpage/"><u>Error 404: The Missing Webpage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-conceptualize-entertaining-posts-in-adobe/"><u>In 2024, Conceptualize Entertaining Posts in Adobe</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-xiaomi-redmi-a2plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Xiaomi Redmi A2+ to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/stream-in-style-which-is-superior-apple-tv-atury-or-roku-ultra/"><u>Stream in Style: Which Is Superior, Apple TV Atury or Roku Ultra?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-googles-gemini-its-role-in-shaping-future-ai-landscapes/"><u>Unveiling Google's Gemini: Its Role in Shaping Future AI Landscapes</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Navigate Through Fonts with Win11's Tool
-date: 2025-01-12T20:23:54.929Z
-updated: 2025-01-18T22:08:11.160Z
+date: 2025-01-21T08:36:20.843Z
+updated: 2025-01-24T23:02:09.802Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Open Character Map Using Windows Search
 
  If you need to use special characters in your documents, the Character Map tool can help. This tool is built into Windows and can be opened using the Windows Search tool. Here's how to open it.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 
  Once you've opened Character Map, you can select a font from the drop-down menu at the top of the window. Then, scroll through the list of available characters and click on the one you want to insert. Finally, click the Copy button and paste the character into your document or email.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. How to Open Character Map Using the Run Dialog
 
  The Run command dialog is another way to quickly find the apps and programs you are looking for. In order to open the Character Map using the Run dialog box, follow these steps:
@@ -50,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 1. Open Windows Run Dialog Box (see[how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ).  
 ![Open Character Map Using the Search Tool Using the Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-Using-the-Search-Tool-Using-the-Run-Command.jpg)
 2. Type "charmap" into the text box and press the**Enter** key. The Character Map window will now appear on your screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. How to Open Character Map From the Start Menu
 
@@ -86,10 +74,14 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 3. Type "charmap" into the Create new task window and press Enter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From here, you can choose the character or symbol that you want to insert and then click on the Select button. Now click the Copy button and paste it where you need it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. How to Open Character Map Via File Explorer
 
@@ -99,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 2. Type "charmap" in the address bar and press Enter.
 3. This will open the Character Map window on your computer screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. How to Open Character Map Using a Desktop Shortcut
 
  Creating a desktop shortcut is a great way to save time and energy. You can use it to open your character map so that you can quickly find and insert special characters. Here's how:
@@ -111,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 2. In the "Create Shortcut" window, type "charmap.exe."  
 ![Create Desktop Shortcut of Character Map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-of-Character-Map.jpg)
 3. Click**Next** and then give your shortcut a name.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Name of the desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Name-of-the-desktop-shortcut.jpg)
 4. Finally, click**Finish** to apply the changes.
@@ -125,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 
  If Windows asks you to confirm before creating a shortcut, click**Yes** . The desktop shortcut will be created on your computer screen. The Character Map application will open when you double-click it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. How to Open Character Map Via Command Prompt or Windows PowerShell
 
  If you prefer a command-line interface, you can open the Character Map tool with PowerShell or Command Prompt. To do this, follow these steps:
@@ -135,7 +131,7 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 3. Now press the**Enter** key. The Character Map application will appear on your screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Pin the Command Prompt to the Start menu or Taskbar
@@ -147,6 +143,10 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 ![Pin Character Map to taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Character-Map-to-taskbar.jpg)
 
 This way you can now easily access the tool from the taskbar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open a Character Map in a Snap
 
@@ -167,21 +167,16 @@ This way you can now easily access the tool from the taskbar.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-influencing-now-top-10-hashtags-for-your-next-post-for-2024/"><u>[New] Influencing Now Top 10 Hashtags for Your Next Post for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ind-puzzling-stats-a-graphed-journey-through-yt-17-for-2024/"><u>[New] Mind-Puzzling Stats A Graphed Journey Through YT '17 for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-best-ps1-game-emulation-software-on-your-pc/"><u>[Updated] In 2024, Best PS1 Game Emulation Software on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-windows-failure-codes-0x80072f8f/"><u>Addressing Windows Failure Codes: 0X80072f8f</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-free-srt-translators-online-an-elite-list-of-8-for-2024/"><u>Best FREE SRT Translators Online An Elite List of 8 for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/configuring-metered-connection-for-wifi-networks-on-win11/"><u>Configuring Metered Connection for Wifi Networks on Win11</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/effortlessly-switch-video-formats-with-our-top-picks-for-the-ultimate-free-codec-changer/"><u>Effortlessly Switch Video Formats with Our Top Picks for the Ultimate Free Codec Changer</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-workflow-with-top-windows-to-do-apps/"><u>Enhance Your Workflow with Top Windows To-Do Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-accessing-and-opening-verifier-manager-w11/"><u>Guide: Accessing and Opening Verifier Manager W11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-12-proplus-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 12 Pro+ 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-tips-and-tricks-for-easy-and-effective-xbox-gameplay-capture/"><u>In 2024, Tips & Tricks for Easy and Effective Xbox Gameplay Capture</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-undetermined-status-messages-on-windows/"><u>Remedying 'Undetermined' Status Messages on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-device-integration-using-googles-nearby/"><u>Seamless Device Integration Using Google's Nearby</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/silenced-mic-glitch-cleared-in-discord/"><u>Silenced Mic Glitch Cleared in Discord</u></a></li>
-<li><a href="https://win-blog.techidaily.com/stop-that-minecraft-outdated-drivers-error-easy-fix-inside/"><u>Stop That 'Minecraft Outdated Drivers' Error! Easy Fix Inside.</u></a></li>
-<li><a href="https://win11.techidaily.com/the-future-of-windows-11-is-ai-whether-you-like-it-or-not/"><u>The Future of Windows 11 Is AI, Whether You Like It or Not</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-archive-slideshow-in-high-quality-video-for-2024/"><u>[New] Archive Slideshow in High-Quality Video for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-delving-into-the-world-of-mukbang-videos-for-2024/"><u>[New] Delving Into the World of Mukbang Videos for 2024</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/backup-software-showdown-aomei-backupper-vs-macrium-reflect-which-reigns-supreme/"><u>Backup Software Showdown: AOMEI Backupper Vs. Macrium Reflect - Which Reigns Supreme?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-game-upgrading-acer-predator-helios-300-graphics-drivers/"><u>Enhance Your Game: Upgrading Acer Predator Helios 300 Graphics Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/guaranteeing-smooth-audio-transmission-in-steam/"><u>Guaranteeing Smooth Audio Transmission in Steam</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-13-ultra-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://win11.techidaily.com/prepping-pc-enabling-tpm-secure-boot-with-windows-11/"><u>Prepping PC: Enabling TPM, Secure Boot with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/structure-your-thoughts-visual-notes-in-obsidian/"><u>Structure Your Thoughts: Visual Notes in Obsidian</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-ultimate-guide-to-bigger-head-vfx-for-tiktok-creators-3-ways/"><u>The Ultimate Guide to Bigger-Head VFX for TikTok Creators (3 Ways)</u></a></li>
+<li><a href="https://win11.techidaily.com/the-underrated-tools-comparing-windows-monitoring-systems/"><u>The Underrated Tools: Comparing Windows' Monitoring Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/tweak-improve-keyboard-shortcut-responsiveness-win-11-style/"><u>Tweak: Improve Keyboard Shortcut Responsiveness, Win 11 Style</u></a></li>
 </ul></div>
 

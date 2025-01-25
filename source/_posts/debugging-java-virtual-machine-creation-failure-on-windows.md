@@ -1,7 +1,7 @@
 ---
 title: Debugging Java Virtual Machine Creation Failure on Windows
-date: 2025-01-13T03:26:11.448Z
-updated: 2025-01-19T09:50:10.591Z
+date: 2025-01-23T16:15:15.069Z
+updated: 2025-01-24T20:54:03.234Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/405adc45ebf84824c8425ce7d2ecb9e77863385d3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Verify Your Java Installation
 
 ![verify java installation command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/verify-java-intallation-command-prompt.jpg)
@@ -42,6 +46,10 @@ To check the Java version installed on Windows:
 4. The output will list the JDK version installed on your computer and the installation date.
 5. If you have recently installed an update, check if the information checks out. If not, try to install the latest version available from the[Java website](https://www.oracle.com/in/java/technologies/downloads/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. End the Java Process in Task Manager
 
 ![end java process task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/end-java-process-task-manager.jpg)
@@ -53,7 +61,7 @@ To check the Java version installed on Windows:
 3. Select and click**End Task** to close the process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run Java as an Administrator
@@ -83,14 +91,14 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 ![Windows new system variable java options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-new-system-variable-java-options.jpg)
 5. Type**\-JAVA\_OPTIONS** in the**Variable name** field.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Next, type**\-Xmx512M** in the**Variable value** field. Here,**\-Xmx512M** defines the amount of memory you want to allocate. In this case, it is**512MB** of system memory.
 7. Click**OK** , and**OK** once more to save the changes.
 
  Next, launch the app that shows the error and check if the error is resolved. If not, open**Environmental Variables** again. Select the -**JAVA\_OPTIONS** variable and click**Edit** . In the**Value data** field, type**\-Xmx1024M** to increase the memory size to 1**024 MB (1GB)** . Click**OK** and check for any improvements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Increase Java Heap Size Using the Java Control Panel
 
@@ -106,20 +114,20 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 ![java control panel java tab view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/java-control-panel-java-tab-view.jpg)
 6. Double-click on the**Runtime Parameters** column and type**\-Xmx512m** to assign 512 MB memory for the Java apps.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Java runtime environment settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/java-runtime-environment-settings.jpg)
 7. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall and Reinstall Java
 
 ![uninstall java Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-java.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the issue persists, a reinstall may be necessary. You can uninstall and reinstall Java to fix any issues with the release. These issues may remain even if you install a newer version. To fix the issue, uninstall Java using the Java uninstaller and then reinstall the latest version available.
 
@@ -133,17 +141,9 @@ To clean install Java:
 6. Next, go to the[Java Downloads page](https://www.java.com/en/download/manual.jsp/) and download the latest version available for your operating system. Make sure to download the correct version (32-bit/64-bit), depending on the system architecture.
 7. Run the installer and click**Install** . Follow the on-screen instructions to complete the installation and restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Install Java in a WindowsClean Boot State
 
  In Clean Boot State, Windows starts with only essential Microsoft services and apps. It’s a troubleshooting method to determine and find third-party app conflicts causing system errors. If you continue to see the error when installing Java,[start your Windows computer in a clean boot state](https://www.makeuseof.com/clean-boot-windows-11/) and try installing it again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the "Could Not Create the Java Virtual Machine" Error on Windows
 
@@ -166,17 +166,22 @@ To clean install Java:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-increasing-video-visibility-with-engaging-youtube-images/"><u>[New] 2024 Approved Increasing Video Visibility with Engaging Youtube Images</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-science-behind-time-warp-visuals/"><u>[New] 2024 Approved The Science Behind Time Warp Visuals</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-essential-photo-changers-ultimate-online-upgrade/"><u>[Updated] In 2024, Essential Photo Changers Ultimate Online Upgrade</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-is-itops-feature-set-enough-to-justify-usage-in-2024/"><u>[Updated] Is ITop's Feature Set Enough to Justify Usage, In 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-content-delivery-uploading-and-sharing-videos-on-instagram-desktop/"><u>2024 Approved Mastering Content Delivery Uploading and Sharing Videos on Instagram Desktop</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-image-stabilization-action-recorders/"><u>2024 Approved Premier Image Stabilization Action Recorders</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-14-pro-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 14 Pro Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://win11.techidaily.com/controlling-devices-in-the-dormant-system-state/"><u>Controlling Devices in the Dormant System State</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-win-ratio-valorant-optimization-guide/"><u>Enhancing Win Ratio: Valorant Optimization Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-wwinplusprint-functionality-fixes-for-non-operational-printer-on-pc/"><u>Mastering WWin+Print Functionality: Fixes for Non-Operational Printer on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/mitigating-microsoft-m365-flaw-error-30015-26/"><u>Mitigating Microsoft M365 Flaw: Error 30015-26</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/swift-sharing-twitter-to-whatsapp-videos/"><u>Swift Sharing Twitter to WhatsApp Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-syma-x5c-reviewed-ideal-entry-level-flying-machine/"><u>[Updated] Syma X5C Reviewed Ideal Entry-Level Flying Machine</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-digital-dominion-rise-as-a-youtube-guru/"><u>2024 Approved Digital Dominion Rise as a YouTube Guru</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elevate-your-creative-process-mastering-the-use-of-luts-in-pscc/"><u>2024 Approved Elevate Your Creative Process Mastering the Use of LUTs in PSCC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-obs-mac-integration-step-by-step-installation-walkthrough/"><u>2024 Approved OBS Mac Integration Step-by-Step Installation Walkthrough</u></a></li>
+<li><a href="https://win11.techidaily.com/easily-modify-windows-11-highlight-features/"><u>Easily Modify Windows 11 Highlight Features</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-pcs-space-top-7-free-volume-enhancers-for-windows/"><u>Elevate Your PC's Space: Top 7 Free Volume Enhancers for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-error-code-0x80070522-secure-privilege-protocol-in-windows/"><u>Fixing Error Code 0X80070522: Secure Privilege Protocol in Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-gamers-pathway-to-impeccable-recordings/"><u>In 2024, Gamers' Pathway to Impeccable Recordings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-perfect-your-minecraft-recording-with-these-hacks/"><u>In 2024, Perfect Your Minecraft Recording with These Hacks</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-repair-tool-access-crafting-shortcuts-for-win-1011/"><u>Mastering Repair Tool Access: Crafting Shortcuts for Win 10/11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722997675208-mastering-star-wars-fighter-squadron-collisions-resolved/"><u>Mastering Star Wars: Fighter Squadron Collisions - Resolved!</u></a></li>
+<li><a href="https://win11.techidaily.com/mimicking-macos-layout-in-windows-5-essential-tweaks/"><u>Mimicking macOS Layout in Windows: 5 Essential Tweaks</u></a></li>
+<li><a href="https://win11.techidaily.com/the-hidden-dangers-opting-for-budgeted-windows-auth-keys/"><u>The Hidden Dangers: Opting for Budgeted Windows Auth Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-affordable-drivers-to-elevate-your-windows-system/"><u>Top 5 Affordable Drivers to Elevate Your Windows System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-tablets-comprehensive-reviews-and-testing-by-tech-experts/"><u>Top Rated Tablets : Comprehensive Reviews & Testing by Tech Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-slowdown-beneath-calm-exteriors-lurk-resource-hogging-tools/"><u>Windows 11 Slowdown: Beneath Calm Exteriors Lurk Resource Hogging Tools</u></a></li>
 </ul></div>
 

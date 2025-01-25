@@ -1,7 +1,7 @@
 ---
 title: "Windows 11'S Highlighted Icons: A How-To Guide"
-date: 2024-08-08T13:21:50.770Z
-updated: 2024-08-09T13:21:50.770Z
+date: 2025-01-20T17:01:08.993Z
+updated: 2025-01-25T06:12:03.072Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
  The context menu doesn’t currently have an option for deleting the "Learn about this picture" icon. Maybe Microsoft might add such an option in a future version of Windows 11\. However, you can remove the Spotlight wallpaper icon from the desktop without a delete option with the methods below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Remove the Spotlight Desktop Icon With a Manual Registry Tweak
 
  A relatively simple registry tweak is required to remove the "Learn about this picture" icon from the Windows Spotlight wallpaper. These are the steps for removing the Spotlight desktop icon by manually tweaking the registry:
@@ -32,19 +33,17 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 3. Next, go to this **NewStartPanel** key by inputting its path in the registry address bar:  
 `Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel`
 4. Right-click **NewStartPanel** and select **New** to view a submenu with options for adding new registry entries.  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The New DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-new-dword-option.jpg)
 5. Click **DWORD (32-bit) Value** on the submenu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Copy **{2cc5ca98-6485-489a-920e-b3e88a6ccce3}** to your clipboard by selecting the text and pressing **Ctrl** \+ **C**. Then press **Ctrl** \+ **V** to paste that into the DWORD’s name text box.
 2. Double-click the **{2cc5ca98-6485-489a-920e-b3e88a6ccce3}** DWORD you just added.
 3. Delete **0** in the **Value data** box.
 4. Input **1** in the **Value data** box and click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![The NewStartPanel key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-dword-window.jpg)
 5. Click Registry Editor’s **X** window button.
 6. Right-click any empty part of the desktop and select **Refresh**. The "Learn about this picture icon" will no longer be on the desktop.
@@ -52,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
  If you ever want to restore that Spotlight icon, you can do so by changing the value of the {**2cc5ca98-6485-489a-920e-b3e88a6ccce3}** DWORD you added to the registry. Double-click **{2cc5ca98-6485-489a-920e-b3e88a6ccce3}** in the **NewStartPanel** key to input **0** in that DWORD’s **Value data** box. Refreshing the desktop will then restore the "Learn about this picture" icon.
 
 ![The Learn about this picture desktop icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-learn-about-this-picture-icon.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Remove the Spotlight Desktop Icon With Winaero Tweaker
 
@@ -62,22 +65,22 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 1. Go to this [Winaero Tweaker download page](https://winaero.com/download-winaero-tweaker/) and click the download link there.
 2. Extract the Winaero Tweaker ZIP and install the software with its setup file. Our guide to [customizing Windows with Winaero Tweaker](https://www.makeuseof.com/windows-11-winaero-tweaker-guide/) includes step-by-step installation instructions for that software.
 3. Next, double-click the **Windows 11** category within Winaero Tweaker’s sidebar.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Windows 11 category](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-11-category.jpg)
 4. Click **Remove Windows Spotlight** icon from the desktop.
-5. Select the **Remove Windows Spotlight icon from Desktop** checkbox.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Select the **Remove Windows Spotlight icon from Desktop** checkbox.  
 ![The Remove Windows Spotlight Icon from Desktop option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-remove-windows-spotlight-icon.jpg)
 
  Now the "Learn about this picture" icon will no longer be there. It’s easy to restore that icon with Winaero Tweaker if you ever want to utilize its Spotlight options again. Uncheck the **Remove Windows Spotlight icon from Desktop** checkbox in Winaero Tweaker to bring it back.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Rid of the "Learn About This Picture" Icon on Windows 11
 
  The "Learn about this picture" icon only adds extra Windows 11 desktop clutter for users who never utilize its options. If you don’t want that additional Spotlight icon on your Windows 11 desktop, it’s straightforward to remove it with a manual registry tweak or Winaero Tweaker.
@@ -86,11 +89,29 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 
  The context menu doesn’t currently have an option for deleting the "Learn about this picture" icon. Maybe Microsoft might add such an option in a future version of Windows 11\. However, you can remove the Spotlight wallpaper icon from the desktop without a delete option with the methods below.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-marvelous.techidaily.com/star-wars-squadrons-a-journey-through-the-ranks-of-intense-space-tactics-and-adventure/"><u>'Star Wars: Squadrons' – A Journey Through the Ranks of Intense Space Tactics and Adventure</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-avoid-common-mistakes-mastering-youtube-tags-wisely/"><u>[New] In 2024, Avoid Common Mistakes - Mastering YouTube Tags Wisely</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ultimate-psd-shadow-gradient/"><u>[Updated] Ultimate PSD Shadow Gradient</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-transform-your-igtv-videos-tips-for-impactful-titles-and-summaries/"><u>2024 Approved Transform Your IGTV Videos Tips for Impactful Titles & Summaries</u></a></li>
+<li><a href="https://win11.techidaily.com/7-fixes-to-try-when-waterfox-is-not-loading-webpages-on-windows/"><u>7 Fixes to Try When Waterfox Is Not Loading Webpages on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-stopping-blued-in-windows-10/"><u>A Step-by-Step Guide to Stopping Blued in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/a-tutorial-on-windows-media-player-launching/"><u>A Tutorial on Windows Media Player Launching</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-internal-portaudio-errors-in-audacity-windows-11/"><u>Addressing Internal PortAudio Errors in Audacity (Windows 11)</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-vanished-pc-displays-at-launch/"><u>Addressing Vanished PC Displays at Launch</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-productivity-with-the-new-search-feature-in-windows-11/"><u>Boost Productivity with the New Search Feature in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-the-benefits-of-16gb-windows-memory/"><u>Breaking Down the Benefits of 16GB Windows Memory</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-resolving-usb-port-failures-in-windows-10-and-11-computers-efficiently/"><u>Diagnosing and Resolving USB Port Failures in Windows 10 & 11 Computers Efficiently</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-11-pro-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 11 Pro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-harnessing-new-trends-transmitting-fb-videos-through-whatsapp/"><u>In 2024, Harnessing New Trends Transmitting FB Videos Through WhatsApp</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-2024-fixes-why-does-my-minecraft-game-crash-on-windows-comprehensive-guide/"><u>Top 2024 Fixes: Why Does My Minecraft Game Crash on Windows? Comprehensive Guide</u></a></li>
+</ul></div>
+

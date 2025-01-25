@@ -1,7 +1,7 @@
 ---
 title: Shifting Control Rights for Common Windows Accounts
-date: 2024-12-31T20:41:50.217Z
-updated: 2025-01-06T16:26:43.350Z
+date: 2025-01-18T06:18:34.082Z
+updated: 2025-01-25T07:55:11.535Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The UAC Behaviors Available for Standard User Accounts
 
  Unlike when [changing UAC behaviors for administrator accounts](https://www.makeuseof.com/change-user-access-control-works-administrators-windows/), the behaviors for standard user accounts are a little more limited. According to the [Microsoft Learn](https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/user-account-control-behavior-of-the-elevation-prompt-for-standard-users) website, here are the behaviors you can choose and what they mean:
@@ -50,18 +46,18 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 ![modifying the policy for UAC behavior in Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modifying-policy-for-uac-behavior-in-local-group-policy-editor.jpg)
 3. Expand the dropdown and choose a different UAC behavior.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![editing the policy for UAC behavior in Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/editing-policy-for-uac-behavior-in-local-group-policy-editor.jpg)
 4. Click **OK**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Keep in mind that only administrators can change the behavior of the UAC. If a standard user tried to change it using the Local Group Policy Editor, for example, they'd probably get an **Access denied** error message.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Change the UAC Behavior for Standard Users in the Registry Editor
 
@@ -73,22 +69,26 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 ![the System key in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-key-registry-editor.jpg)
 2. Press **Enter** on your keyboard to go to the **System** key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Right-click the **ConsentPromptBehaviorUser** value in the right panel and select **Modify**.  
 ![modifying the ConsentPromptBehaviorUser value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modifying-consentpromptbehavioruser-in-registry-editor.jpg)
 4. In the **Value data** text box, enter **0** for **Automatically deny elevation requests**, **1** for **Prompt for credentials on the secure desktop**, or **3** for **Prompt for credentials**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![setting Value data for ConsentPromptbehavior Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/setting-value-data-for-consentpromptbehavior-registry-editor.jpg)
 5. Click **OK**.
 
- Now restart your computer to allow the changes to take effect.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Now restart your computer to allow the changes to take effect.
 
 ## Control UAC's Behavior for Standard Users on Windows
 
@@ -106,24 +106,20 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-imovie-soundtracks-made-easy-and-effective/"><u>[New] IMovie Soundtracks Made Easy & Effective</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/urturing-partnerships-with-top-brands-the-famebit-blueprint-for-2024/"><u>[New] Nurturing Partnerships with Top Brands The FameBit Blueprint for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-transformative-audio-techniques-for-media-professionals/"><u>[New] Transformative Audio Techniques for Media Professionals</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-comparative-content-crusade-analyzing-your-videos-against-others/"><u>[Updated] 2024 Approved Comparative Content Crusade Analyzing Your Videos Against Others'</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-top-video-editors-for-youtube-on-the-houseno-cost-included/"><u>[Updated] Top Video Editors for YouTube on the House—No Cost Included</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/access-your-cars-in-dash-entertainment-finding-the-elusive-radio-access-code-explained/"><u>Access Your Car's In-Dash Entertainment: Finding the Elusive Radio Access Code Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-out-windows-11-privacy-invasions/"><u>Cutting Out Windows 11 Privacy Invasions</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-vcplusplus-package-significance/"><u>Deciphering VC++ Package Significance</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-pcs-screen-glow-with-these-fixes/"><u>Enhance Your PC's Screen Glow with These Fixes!</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-add-wordpad-shortcuts-to-windows-11s-context-menu/"><u>How to Add WordPad Shortcuts to Windows 11’S Context Menu</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-uwp-app-shortcut-creation-on-windows-11/"><u>Mastering UWP App Shortcut Creation on Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-motorola-moto-g14-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Motorola Moto G14</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-oculus-winerror-a-step-by-step-guide/"><u>Resolving Oculus WinError: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-11s-systemsettings-error/"><u>Resolving Windows 11'S SystemSettings Error</u></a></li>
-<li><a href="https://win11.techidaily.com/the-artisans-guide-to-transforming-windows-outlook-into-masterpieces/"><u>The Artisan's Guide to Transforming Windows Outlook Into Masterpieces</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-launching-winrm-utility/"><u>The Ultimate Guide to Launching WinRM Utility</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/thing-highlighted-online-dialogue/"><u>Unearthing Highlighted Online Dialogue</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-narzo-60-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-note-50-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-guerrilla-mic-guide-top-chip-selection-on-a-shoestring-for-2024/"><u>[Updated] Guerrilla Mic Guide Top Chip Selection on a Shoestring for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-ultimate-showdown-of-projectors-and-tvs-in-a-4k-setting/"><u>[Updated] The Ultimate Showdown of Projectors & TVs in a 4K Setting</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-video-capturing-essentials-top-8-apps-for-windows-users-for-2024/"><u>[Updated] Video Capturing Essentials Top 8 Apps for Windows Users for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastering-pc-games-screenshots-top-6-methods/"><u>2024 Approved Mastering PC Games Screenshots Top 6 Methods</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/accelerate-creativity-in-photo-editing-using-pixlr/"><u>Accelerate Creativity in Photo Editing Using Pixlr</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-11-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-vivo-t2-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo T2 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/losungsansatze-fur-die-fehlfunktion-der-vorlagen-signatur-in-microsoft-outlook/"><u>Lösungsansätze Für Die Fehlfunktion Der Vorlagen-Signatur in Microsoft Outlook</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-error-correction-windows-11-wow-mishaps/"><u>Mastering Error Correction: Windows 11 WoW Mishaps</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-speech-to-text-the-whisper-desktop-way/"><u>Mastering Speech-to-Text: The Whisper Desktop Way</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-cmd-prompt-lack-of-admin-privileges/"><u>Resolving Cmd Prompt Lack of Admin Privileges</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-installing-kali-into-your-windows-ecosystem/"><u>Step by Step: Installing Kali Into Your Windows Ecosystem</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-setting-up-and-using-microsofts-code-assistant/"><u>Step-by-Step: Setting Up and Using Microsoft's Code Assistant</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-camera-non-storage-feedback/"><u>Tackling Windows Camera Non-Storage Feedback</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-workflow-efficiency-mastering-flow-launcher-basics/"><u>Transform Workflow Efficiency: Mastering Flow Launcher Basics</u></a></li>
 </ul></div>
 

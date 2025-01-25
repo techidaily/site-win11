@@ -1,7 +1,7 @@
 ---
 title: Mastering Telnet Setup in Wins 10 & 11
-date: 2025-01-18T01:06:14.178Z
-updated: 2025-01-18T22:40:12.604Z
+date: 2025-01-19T19:18:48.906Z
+updated: 2025-01-25T06:03:03.285Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/33bb4081d4eeefa2b002761f140e6d8a1ab23c4b8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Enable Telnet on Windows Using Control Panel
@@ -41,12 +41,12 @@ To enable Telnet Client using Control Panel:
 ![turn windows features on or off control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/turn-windows-features-on-or-off-control-panel.jpg)
 4. In the left pane, click on the**Turn Windows feature on or off.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![enable telnet client windows features dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-client-windows-features-dialog.jpg)
 5. In the Windows Features dialog, scroll down and select**Telnet Client.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click**OK** and wait for the feature to install. Once installed, restart your PC to apply the changes and enable the feature.
 
@@ -61,7 +61,7 @@ If you need to disable Telnet:
 ![enable telnet client powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-client-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can use the Enable-WindowsOptionalFeature cmdlet to enable Telnet Client using Windows PowerShell. Useful if you are unable to turn on the feature using the Windows Features dialog and it is also faster than the GUI method.
@@ -81,6 +81,10 @@ To enable Telnet using Windows PowerShell:
 
 ![enable telnet command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you prefer Command Prompt over PowerShell, you can use the DISM /Online command to enable the optional features on your Windows 11 computer.
 
 Follow these steps to install Telnet using Command Prompt:
@@ -95,23 +99,19 @@ Follow these steps to install Telnet using Command Prompt:
 6. Wait for the success message.
 7. Type**exit** and press**Enter** to close Command Prompt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Check the Telnet Client Status on Your PC
 
 ![telnet status enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/telnet-status-enabled.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can check if the Telnet client is enabled on your PC using a Command Prompt command. When enabled, the Telnet command will open a new CMD to connect to remote servers and perform other tasks.
 
 1. Launch Command Prompt as administrator (see[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for in-depth steps).
 2. In the Command Prompt window, type**Telnet** and press**Enter** .
 3. A new CMD with Microsoft Telnet will open.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## All the Ways to Enable Telnet On Your Windows 11 Computer
 
@@ -134,24 +134,21 @@ Follow these steps to install Telnet using Command Prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-time-rewind-mastery-in-media-refreshes/"><u>[New] In 2024, YouTube Time Rewind Mastery in Media Refreshes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/aukey-30-usb-hub-assessment-unadorned-elegance-meets-practicality/"><u>Aukey 3.0 USB Hub Assessment: Unadorned Elegance Meets Practicality</u></a></li>
-<li><a href="https://win11.techidaily.com/best-practices-for-resource-utilization-in-wsl-android/"><u>Best Practices for Resource Utilization in WSL-Android</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-a-successful-online-presence-wirecast-streaming-to-youtube-for-2024/"><u>Building a Successful Online Presence WireCast Streaming to Youtube for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-windows-nvidia-geforce-notaxc0f1103f-error/"><u>Correcting Windows Nvidia GeForce NotaXC0F1103F Error</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Tecno Spark Go (2023)? | Dr.fone</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/identifying-and-troubleshooting-sluggish-pc-performance-a-guide-by-yl-computing/"><u>Identifying and Troubleshooting Sluggish PC Performance: A Guide by YL Computing</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-lava-yuva-3-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Lava Yuva 3? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-honor-magic-5-lite-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Honor Magic 5 Lite Phones</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-turn-off-corner-shaping/"><u>Mastering Windows 11: Turn Off Corner Shaping</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-to-windows-11-search-backup-procedure/"><u>Navigate to Windows 11 Search Backup Procedure</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-unauthorized-user-error-in-windows-1111/"><u>Overcoming Unauthorized User Error in Windows 11/11</u></a></li>
-<li><a href="https://win11.techidaily.com/post-install-windows-heres-how-to-get-online/"><u>Post-Install Windows? Here's How to Get Online</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-address-windows-exception-breakpoint-errors/"><u>Strategies to Address Windows Exception Breakpoint Errors</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-slow-motion-spectrum-top-cams-reviewed-by-experts-for-2024/"><u>The Slow-Motion Spectrum Top Cams Reviewed by Experts for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-rediscovering-missing-panes-top-tips-and-hacks-for-windows-users/"><u>The Ultimate Guide to Rediscovering Missing Panes: Top Tips and Hacks for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-optimizing-windows-lockscreen-with-spotlight/"><u>Tips for Optimizing Windows Lockscreen with Spotlight</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/top-3-free-ssd-cloning-tools-compatible-with-windows-11-10-8-and-7-best-of-the-year/"><u>Top 3 Free SSD Cloning Tools Compatible with Windows 11, 10, 8 & 7 - Best of the Year</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-high-performance-components-a-look-at-toms-hardware-recommendations/"><u>Unveiling High-Performance Components: A Look at Tom's Hardware Recommendations</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-selecting-the-ultimate-5-game-chat-devices/"><u>[New] 2024 Approved Selecting the Ultimate 5 Game Chat Devices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-riches-with-best-hash-tags-tips/"><u>[New] 2024 Approved YouTube Riches with Best Hash Tags Tips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-enhance-youtube-video-speed-fast-render-and-upload-techniques/"><u>[Updated] Enhance YouTube Video Speed - Fast Render and Upload Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-understanding-instagrams-chord-of-musical-law-for-2024/"><u>[Updated] Understanding Instagram’s Chord of Musical Law for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/efficient-setup-obtain-and-install-arduino-mega-2560-drivers-swiftly-online/"><u>Efficient Setup: Obtain & Install Arduino Mega 2560 Drivers Swiftly Online</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-use-of-ram-in-cross-device-service-platforms-windows-tips/"><u>Efficient Use of RAM in Cross-Device Service Platforms: Windows Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-advice-on-navigating-folder-tabs-with-windows-11/"><u>Expert Advice on Navigating Folder Tabs with Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-xiaomi-redmi-note-12-pro-4g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Xiaomi Redmi Note 12 Pro 4G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-iphone-11-pro-by-drfone-ios/"><u>In 2024, How to Unlock Verizon iPhone 11 Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/macbook-air-users-must-know-trick-effortlessly-managing-dual-displays/"><u>Macbook Air Users' Must-Know Trick: Effortlessly Managing Dual Displays</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11s-security-restrictions-with-rufus-expertise/"><u>Navigating Windows 11'S Security Restrictions with Rufus Expertise</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-discretion-in-windows-11-functionality/"><u>The Art of Discretion in Windows 11 Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/the-basics-how-to-use-microsofts-phone-link-app/"><u>The Basics: How to Use Microsoft's ‘Phone Link’ App</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-def5-effective-methods-to-solve-onedrive-error-on-windows-11/"><u>Unlocking DEF5: Effective Methods to Solve OneDrive Error on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-computer-with-microsoft-works-for-windows/"><u>Unlocking Your Computer with Microsoft Works for WIndows</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-animate-like-a-pro-top-10-tools-for-beginners-and-experts-alike/"><u>Updated In 2024, Animate Like a Pro Top 10 Tools for Beginners and Experts Alike</u></a></li>
 </ul></div>
 

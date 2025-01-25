@@ -1,7 +1,7 @@
 ---
 title: Internal Building Controls in Windows 11
-date: 2025-01-17T04:08:58.422Z
-updated: 2025-01-18T17:48:05.113Z
+date: 2025-01-21T10:01:08.275Z
+updated: 2025-01-25T10:33:47.053Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Stop Users From Getting Insider Preview Builds in Windows 11
 
  If you share your computer with others and don't want them to get the newer build, you need to prevent them from getting Insider Preview Builds in Windows 11\. There are basically three ways to achieve this, using System Settings, Group Policy Editor, or Registry Editor. For a detailed explanation of each, please see the following.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Use the System Settings
 
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 3. Then navigate to **Windows Insider Programme** \> **Stop getting preview builds**.  
 ![Stop Getting Preview Builds in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/stop-getting-preview-builds-in-windows.jpg)
 4. Now toggle the **Unenroll this device when the next version of Windows releases** switch to disable it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This will prevent the device from downloading further Insider builds even if someone initiates it manually.
 
@@ -65,19 +61,20 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 5. Then double-click on the **Toggle user control over Insider builds** on the right.  
 ![Block Insider Preview Builds Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Block-Insider-Preview-Builds-Using-Group-Policy.jpg)
 6. Select the **Disabled** radio button in the dialog box that appears.  
-![Toggle user control over Insider builds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Toggle-user-control-over-Insider-builds.jpg)
-7. After you've made your changes, click **Apply** and **OK** to save them
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Toggle user control over Insider builds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Toggle-user-control-over-Insider-builds.jpg)
+7. After you've made your changes, click **Apply** and **OK** to save them
 
  Once you have completed the steps above, you will need to restart your computer to ensure the changes are applied. After doing that, you'll no longer be able to install or receive Insider builds. If you ever need to give users access to Insider builds on your computer, open the Local Group Policy Editor again.
 
  Then, set "Toggle user control over Insider builds" either to the **Not Configured** or **Enabled** option. When you have finished making the changes, click Apply > OK.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Tweak the Registry Editor
@@ -101,11 +98,19 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 ![Block Insider Preview Builds Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Block-Insider-Preview-Builds-Using-Registry-Editor.jpg)
 10. Set the value data to **0** and choose the Hexadecimal base.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 11. Click **OK** to save the changes.
 
  When you're done making these changes, restart your computer. If you ever need to roll back the changes, you can do so whenever you like.
 
  To do this, right-click the AllowBuildPreview key in the Registry Editor and choose **Modify**. You then need to set the Value data to **1** and hit **OK** to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Do I Need to Enroll in the Windows Insider Program?
 
@@ -124,10 +129,6 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 2. It often contains new features that aren't ready for everyone to use, and some prefer the stability of the older versions.
 3. Last but not least, insider builds are often released more frequently. As a result, they are harder to maintain, and some people would prefer a slower update rate for public builds.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Windows Insider Preview Build, Now Disabled
 
  If you want to prevent others from downloading and installing Insider Preview Builds on your Windows 11, you can turn off the Insider Preview feature on your computer. There are two ways to do this, either through the Group Policy Editor or through the Registry Editor. You can learn more about this in the article.
@@ -144,22 +145,24 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-green-thumbs-up-the-best-farming-titles-for-group-playtime/"><u>[New] Green Thumbs Up The Best Farming Titles for Group Playtime</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-superior-5-android-screenshot-and-video-tools-reviewed/"><u>[New] In 2024, Superior 5 Android Screenshot and Video Tools Reviewed</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-streamline-projects-with-free-video-intros/"><u>[Updated] Streamline Projects with Free Video Intros</u></a></li>
-<li><a href="https://win11.techidaily.com/4-ways-to-temporarily-disable-windows-security-in-windows-11/"><u>4 Ways to Temporarily Disable Windows Security in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/9-quick-ways-to-fix-wwe-2k23-crashing-on-windows-11/"><u>9 Quick Ways to Fix WWE 2K23 Crashing on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/a-comprehensive-guide-to-outlook-preview-setup-on-windows-11/"><u>A Comprehensive Guide to Outlook Preview Setup on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/automation-bane-keep-your-windows-backdrop-steady/"><u>Automation Bane: Keep Your Windows Backdrop Steady</u></a></li>
-<li><a href="https://win11.techidaily.com/autonomous-windows-update-an-offline-methodology/"><u>Autonomous Windows Update: An Offline Methodology</u></a></li>
-<li><a href="https://win11.techidaily.com/beautifying-your-pc-adding-a-weather-image-to-the-system-tray/"><u>Beautifying Your PC: Adding a Weather Image to the System Tray</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-productivity-with-these-top-5-file-management-hacks/"><u>Boost Productivity with These Top 5 File Management Hacks</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-poco-c65-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Poco C65 Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oppo-reno-10-proplus-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Oppo Reno 10 Pro+ 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-up-your-iphone-x7s-selfies-with-these-top-free-tools/"><u>In 2024, Step Up Your iPhone X/7's Selfies with These Top Free Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/1719312305473-premium-savings-with-w11-pro-key-dont-miss-out/"><u>Premium Savings with W11 Pro Key - Don't Miss Out!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solve-black-screens-restore-your-laptops-life/"><u>Solve Black Screens, Restore Your Laptop's Life</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/urban-dreams-realized-unveiling-the-magic-behind-cities-skylines-addictive-gameplay/"><u>Urban Dreams Realized: Unveiling the Magic Behind 'Cities: Skylines' Addictive Gameplay</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-background-replacement-get-cost-free-lessons-in-green-screen-effects-from-youtubes-best/"><u>[New] In 2024, Mastering Background Replacement Get Cost-Free Lessons in Green Screen Effects From YouTube's Best</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-pivotal-elements-in-designing-effective-product-praise-videos/"><u>[Updated] In 2024, Pivotal Elements in Designing Effective Product Praise Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-guide-to-scheduling-zoom-events-for-2024/"><u>[Updated] The Ultimate Guide to Scheduling Zoom Events for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/confronting-non-response-issues-in-windows-service-explorer-with-7-methods/"><u>Confronting Non-Response Issues in Windows Service Explorer with 7 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-audio-error-xc00d36b4-in-win10-and-11/"><u>Eliminating Audio Error XC00D36B4 in Win10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-efficiently-undoing-changes-with-system-restore/"><u>Expert Tips for Efficiently Undoing Changes with System Restore</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/expertise-in-visual-communication-a-guide-to-gif-creation-for-2024/"><u>Expertise in Visual Communication A Guide to GIF Creation for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-xs-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone XS Max Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/improve-excel-latency-actions-for-windows-enthusiasts/"><u>Improve Excel Latency: Actions for Windows Enthusiasts</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fixes-for-iomap64sys-blue-screen-in-win108/"><u>Mastering Fixes for IOMap64.sys Blue Screen in Win10/8</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-maze-of-graphics-driver-updates-for-amd-windows-11/"><u>Navigating the Maze of Graphics Driver Updates for AMD, Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-microsoft-teams-experience-navigating-through-windows-error-80080300/"><u>Seamless Microsoft Teams Experience: Navigating Through Windows Error 80080300</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-steam-ui-module-failure-in-steam-client/"><u>Tackling Steam UI Module Failure in Steam Client</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-creativity-in-videos-with-quick-trims-on-windows-11/"><u>Unleash Creativity in Videos with Quick Trims on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-11s-web-control-panel/"><u>Unlocking Windows 11'S Web Control Panel</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unpacking-youtubes-financial-framework-shifts-for-2024/"><u>Unpacking YouTube’s Financial Framework Shifts for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-cut-avi-files-with-ease-top-16-video-cutters-for-windows-mac-and-android/"><u>Updated 2024 Approved Cut AVI Files with Ease Top 16 Video Cutters for Windows, MAC, and Android</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728469387033-windows-11-pc/"><u>Windows 11 移行ガイド: PCへのシームレス転送手順</u></a></li>
 </ul></div>
 

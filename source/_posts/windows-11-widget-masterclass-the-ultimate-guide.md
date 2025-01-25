@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Widget Masterclass: The Ultimate Guide"
-date: 2025-01-13T20:01:10.833Z
-updated: 2025-01-19T12:46:00.940Z
+date: 2025-01-18T01:19:28.867Z
+updated: 2025-01-25T05:49:30.001Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Display the Widgets Button in Taskbar
 
  The only location from where you can launch widgets is the Taskbar. If you just bought a new PC or updated to Windows 11 recently, you should see the**Widgets button** on the left side of the Taskbar because this is usually the default setup.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
  However, if you are not seeing it for some reason, you can quickly enable the ability to launch the Widget panel from the Taskbar by going to the Settings app.
 
 ![Enable Widgets from Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-widgets-from-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can follow the below steps to bring the shortcut to launch the widgets panel to Taskbar:
 
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
  If you do not see the button on the Taskbar even after following the above steps, you need to put some more effort into[fixing the issues and getting widgets up and running on Windows 11](https://www.makeuseof.com/windows-11-widgets-not-working/) . And if it's the Windows 11 Taskbar that is not working as expected, you need to[fix possible issues that may be causing those anomalies in Taskbar](https://www.makeuseof.com/ways-to-fix-malfunctioning-windows-taskbar/) .
 
  If you do not want to see the widgets button on the Taskbar and still want to launch it quickly, press**Win key+W** on your keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Adding Widgets to Windows
 
@@ -62,10 +66,6 @@ Follow the below steps to add widgets:
 
  You can later unpin the widgets that you no longer need from the widget context menu. Also, you can[pin widgets to your desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) by using a third-party app called Widget Launcher.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Change the Size of Widgets
 
  Microsoft allows you to choose the size of widgets. Each widget will display the main information of the app irrespective of which size you choose. However, a large widget will show some additional information that you can not find on a medium or small widget. Windows 11 currently supports three sizes:**Small** ,**Medium** , and**Large** .
@@ -80,7 +80,7 @@ To change the size of widgets, follow the below steps:
  You will see the change immediately after you change the size. But bear in mind that not every widget supports all three sizes. For example, Microsoft Outlook only supports**Medium** and**Large** , whereas the Watchlist widget supports**Small** alongside the other two.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Customize Your News Feed to Get a More Personalized Experience
@@ -103,15 +103,19 @@ To change the size of widgets, follow the below steps:
 
 ![Widgets Settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/widgets-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In**Widgets settings** , you get to tweak the**Widget taskbar behaviors** in three different ways: enabling or disabling**Show notification badges** ,**Show announcements** , and**Open Widgets board on hover** toggles.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Expand the Widgets Panel
 
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The ability to expand the widgets board to take up the entire screen space of your computer screen was not available when Microsoft first launched it. However, the full-screen widgets experience should be available to you if you are running Windows 11 22H2 with Windows Web Experience Pack version (423.2300.0.0).
 
@@ -121,10 +125,6 @@ To expand the widgets panel, follow the below steps:
 2. Click on the**enlarge icon** , located right beside the**user profile logo** .
 
  It is important to note that a full-screen widgets panel will remember its previous state when you close it. If the previous state of the panel was full-screen, it would take the entire screen space when you launch it next time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Use Widgets Without a Microsoft Account
 
@@ -153,17 +153,18 @@ To expand the widgets panel, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-techniques-for-text-overlays-in-video-platforms-vimeo/"><u>2024 Approved Techniques for Text Overlays in Video Platforms (Vimeo)</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-continuous-connection-stop-usb-sleep-in-win-11/"><u>Ensuring Continuous Connection: Stop USB Sleep in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/guides-to-fix-non-opening-photoshop-on-latest-windows-11/"><u>Guides to Fix Non-Opening Photoshop on Latest Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-13t-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi 13T to PC? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/reinvigorating-the-stuck-windows-start-menu-symbol/"><u>Reinvigorating the Stuck Windows Start Menu Symbol</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-your-lenovo-mouse-pad-problems-in-windows-systems-a-step-by-step-fix/"><u>Resolve Your Lenovo Mouse Pad Problems in Windows Systems: A Step-by-Step Fix</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-z-fold-5-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy Z Fold 5 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-tutorial-applying-computer-vhs-filters/"><u>Step-by-Step Tutorial Applying Computer VHS Filters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-digital-doctors-prescription-trustworthy-techniques-for-scrutinizing-ai-powered-health-facts/"><u>The Digital Doctor's Prescription: Trustworthy Techniques for Scrutinizing AI-Powered Health Facts</u></a></li>
-<li><a href="https://driver-install.techidaily.com/uniting-win7-and-10-with-stable-usbasp-support/"><u>Uniting Win7 and 10 with Stable USBasp Support</u></a></li>
-<li><a href="https://win11.techidaily.com/1719338109987-windows-desk-icons-clashing-find-harmony/"><u>Windows Desk Icons Clashing - Find Harmony</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/windows-pc-data-recovery-techniques-reviving-your-usb-flash-drive/"><u>Windows PC Data Recovery Techniques - Reviving Your USB Flash Drive</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-quick-guide-resolving-obs-skipping-problems/"><u>[New] In 2024, Quick Guide Resolving OBS Skipping Problems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-leading-10-models-premier-4k-dslr-shoulder-rigs/"><u>[Updated] 2024 Approved Leading 10 Models Premier 4K DSLR Shoulder Rigs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-from-selfies-to-skies-uncovering-the-intricacies-with-the-dji-spark/"><u>[Updated] From Selfies to Skies Uncovering The Intricacies with the DJI Spark</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/echo-fabricator-bundle/"><u>Echo Fabricator Bundle</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-code-management-on-windows-11-with-github-desktop/"><u>Elevate Your Code Management on Windows 11 with Github Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-already-used-errors-in-windows-1011-152-chars/"><u>Eliminate 'Already Used' Errors in Windows 10/11 (152 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-touchpad-settings-on-windows-11/"><u>Fine-Tuning Touchpad Settings on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-and-when-to-use-file-locksmith-in-powertoys/"><u>How and When to Use File Locksmith in PowerToys</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unfolding-cinema-narratives/"><u>In 2024, Unfolding Cinema Narratives</u></a></li>
+<li><a href="https://facebook.techidaily.com/superior-social-venues-for-senior-citizens/"><u>Superior Social Venues For Senior Citizens</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-sierra-comprehensive-icloud-drives-for-2024/"><u>Unlocking Sierra Comprehensive iCloud Drives for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-distinctions-between-ipad-pro-m4-and-macbook-air-m3-a-comprehensive-guide/"><u>Unveiling Distinctions Between iPad Pro (M4) and MacBook Air (M3): A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/win-1111-guide-solving-audacity-sound-error/"><u>Win 11/11 Guide: Solving Audacity Sound Error</u></a></li>
 </ul></div>
 

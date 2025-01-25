@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Windows 11 Files: How to Correctly Handle Access Denied Errors"
-date: 2024-08-08T13:22:28.219Z
-updated: 2024-08-09T13:22:28.219Z
+date: 2025-01-22T10:14:47.205Z
+updated: 2025-01-25T08:56:25.782Z
 tags:
   - windows10
   - windows11
@@ -16,14 +16,6 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 
 ## Unlocking Windows 11 Files: How to Correctly Handle Access Denied Errors
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Why Are You Getting the "Access Denied" Error?](#why-are-you-getting-the-quot-access-denied-quot-error)
@@ -33,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 * [Take Ownership of the File](#take-ownership-of-the-file)
 * [Disable Your Third-Party Antivirus Software](#disable-your-third-party-antivirus-software)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The "Access Denied" error on Windows 11 indicates a lack of permissions. Check system permissions and grant full control to your user account.
@@ -52,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 
  Below are some common fixes for the Access Denied error on Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the Filesystem's Permissions
 
  This is a simple solution you can try to ensure your account has the proper access to the file or folder you are opening:
@@ -60,14 +53,15 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 2. Go to the **Security** tab and click the **Edit**button.  
 ![The Security tab under Properties of a File on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/file-properties.png)
 3. Choose your username from the list and check the box beside **Full control** in the **Allow** column under the **Permissions for User** section. Then, click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![A screenshot showing the settings for changing permissions for users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/user-settings.png)
 
 **Note:** If your username is not on the list, you have to add it manually and then change its permissions.
 
  You can also try [restoring the default permissions using the icacls command](https://www.makeuseof.com/reset-user-permissions-default-windows/) in Command Prompt. Resetting permissions with **icacls** can help resolve access issues caused by changes to the default permissions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Set Your Account to Administrator
 
@@ -78,16 +72,14 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 ![The users tab displaying users in a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/the-users-tab-displaying-users-in-a-computer.png)
 3. Select your account and click the **Properties** button below it.
 4. Next, go to the **Group Membership** tab. Choose **Administrator** from the menu, then click **Apply** and **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![Group membership tab for selecting standard user or administrator account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/group-membership-tab-for-selecting-standard-user-or-administrator-account.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, restart your computer and see if it resolves the problem. Otherwise, move to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Enable the Hidden Administrator Account
 
  Your Windows 11 system has a hidden administrator account with more privileges than a regular account. You can enable this to access files, folders, and paths restricted to regular users—it's especially helpful if you're [unable to switch your user account from standard to administrator](https://www.makeuseof.com/cannot-change-account-type-administrator-windows/).
@@ -101,29 +93,25 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 
  Switching back to your main account will cause the error to appear again. If you need to constantly access the files, use the hidden Administrator account to make the necessary changes to your system and fix the ownership or access issue. You might also consider copying the items to another location your usual account can access.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Take Ownership of the File
 
  As mentioned previously, the "Access Denied" error sometimes stems from ownership problems. If this is the cause of the error, [taking ownership of the file](https://www.makeuseof.com/windows-10-11-own-folder/) can instantly give you the access you need:
 
 1. Locate the folder or file you want to access and right-click on it. Click **Properties** from the menu.
 2. Go to the **Security** tab and click the **Advanced** button.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![Security tab in the Properties tab of a file in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/security-tab-in-the-properties-tab-of-a-file-in-windows.png)
 3. Next, look for the **Owner** section on the top of the window and click **Change**. This will open a new dialog box.  
 ![Permissions page for a file in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/permissions-page-for-a-file-in-windows-11.png)
 4. In the **Select User or Group** window, type your username or **Administrators** in the **Enter the object name** field.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Select user or group tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/select-user-or-group-tab.png)
 5. Then, click the **Check Names** and **OK** buttons to save your changes.  
 ![Select user or group tab for a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/select-user-or-group-tab-for-a-file.png)
 6. Next, click **Apply.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. You'll see a Windows Security prompt. Click **OK**.
 8. In the main interface, click **OK** to save changes.
 
@@ -139,12 +127,17 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 1. Navigate to the file or folder in question.
 2. Right-click it and select **Copy as path**.
 3. Replace "path\_to\_folder" with the copied path. For instance, **"C:\\Users\\HP\\Downloads\\Literature review sources"**  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Prompt for taking ownership of a file via CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/prompt-for-taking-ownership-of-a-file-via-cmd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your computer once you're done with the steps above to check if the problem is resolved. But usually, after running these commands, you should regain access to the files and folders.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Disable Your Third-Party Antivirus Software
 
@@ -156,11 +149,23 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 
  Resolving the "Access Denied" error is straightforward and does not require a lot of technical steps. You can regain control over your files and system by employing a few key strategies. Simply ensure your user account has the necessary permissions and, if needed, elevate your privileges to an administrator level.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-compliance-with-standards-for-2024/"><u>[New] Compliance with Standards for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/12-unwanted-programs-in-your-windows-environment/"><u>12 Unwanted Programs in Your Windows Environment</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-cost-effective-action-cameras-secure-your-selection-below-100/"><u>2024 Approved Cost-Effective Action Cameras Secure Your Selection Below $100</u></a></li>
+<li><a href="https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-downloads-in-the-ms-store-a-step-by-step-guide/"><u>Accelerating Downloads in the MS Store - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-concealment-for-windows-11-task-view-icon/"><u>Advanced Concealment for Windows 11 Task View Icon</u></a></li>
+<li><a href="https://win11.techidaily.com/beware-ais-role-in-win-11-key-generation-missteps/"><u>Beware: AI's Role in Win 11 Key Generation Missteps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-essential-sd-cards-for-gopro-hero-78-cameras-our-picks/"><u>In 2024, Essential SD Cards for GoPro Hero 7/8 Cameras Our Picks</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Essentials of Windows Glass Hangout Guide
-date: 2024-08-08T13:19:58.357Z
-updated: 2024-08-09T13:19:58.357Z
+date: 2025-01-18T09:40:51.867Z
+updated: 2025-01-25T03:43:56.979Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,11 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
  Compared to today's LCD and LED displays, CRT monitors are more prone to burn-in. If you keep a static image on display for long, the phosphor compounds lose their luminance and produce a sort of ghost-like display of the static image, due to the overuse of certain pixels.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![crt monitor screen burn in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/crt-monitor-screen-burn-in.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5Famber.JPG)
 
@@ -42,17 +43,15 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
  Screen savers came to the rescue by displaying moving elements on the screen whenever the system was left idle for a specific duration. But it was all back in the day and now, [most of us don't even need screen savers](https://www.makeuseof.com/tag/screensavers-2015-need-dont/) to save the day, due to the fast boot times and technological advancements in the display industry.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set Up a Screen Saver on Windows 11
 
  If you want to get nostalgic every now and then, setting up a screen saver on your Windows machine is a good idea.
 
  To begin, open **Settings** by searching for it in the Start menu. Once it opens, switch to the **Personalization** tab from the left sidebar and select **Lock screen**.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lock screen settings in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lock-screen-settings-in-windows-11.jpg)
 
  Under the **Related settings** header, choose **Screen saver**. Alternatively, just search for "**Change screen saver settings**" in the Start menu and select the first result.
@@ -63,11 +62,12 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
 ![set a screen saver on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-a-screen-saver-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you've decided on the screen saver, select a duration (in minutes) the system will wait for before triggering the screen saver. Also, check off the box next to **On resume, display logon screen** if you want. Finally, click **Apply > Ok**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## How to Customize Screen Savers on Windows 11
 
  If you don't fancy Windows screen savers, it's easy to [customize the default screen savers](https://www.makeuseof.com/how-to-customize-windows-11-default-screensavers/) or go for something more technically and aesthetically relevant.
@@ -85,8 +85,9 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
  You can also [make your own screen saver for Windows](https://www.makeuseof.com/tag/5-ways-to-make-your-own-screensavers-windows/) if you like.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Have Screen Savers Changed?
 
  The first ever screen saver was developed by a programmer named John Socha-Leialoha and it was a simple program that displayed a blank screen whenever a computer was left idle for three minutes.
@@ -98,8 +99,9 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
  Fast forward to today, screen savers have "almost" vanished, with Microsoft hiding them deep inside Windows settings. But still, people use them as they prefer watching visually appealing animations fill up their screen rather than glaring at a static, dead desktop.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bringing Back the Old Days With Windows Screen Savers
 
  Although they are now obsolete, you can still choose to set up a screen saver on your Windows machine. LED and LCDs are more prevalent nowadays and outperform the old CRT monitors, but this doesn't mean screen savers won't help them.
@@ -112,11 +114,27 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
  Are Windows screen savers still here for your entertainment? And if yes, how do you set up and customize one on Windows?
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expert-advice-at-your-screen-the-finest-15-stock-channels/"><u>[New] In 2024, Expert Advice at Your Screen The Finest 15 Stock Channels</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-visionaries-inventing-new-marvel-worlds/"><u>[Updated] Visionaries Inventing New Marvel Worlds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-motorola-g54-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Motorola G54 5G Unlock Without Password</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/comparing-untapped-windows-features-reliability-and-performance/"><u>Comparing Untapped Windows Features: Reliability & Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-error-xc0000142-on-win10-11/"><u>Correcting Error XC0000142 on Win10, 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ensuring-a-smooth-gaming-experience-with-snowrunner-fixes-for-common-desktop-issues/"><u>Ensuring a Smooth Gaming Experience with SnowRunner - Fixes for Common Desktop Issues</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-7-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 7 When You Forget the Passcode?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-resolution-of-windows-updates-issue-code-x80246007/"><u>Mastering the Resolution of Windows Updates Issue Code X80246007</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restore-peace-eradicate-windows-crashes-in-f4/"><u>Restore Peace: Eradicate Windows Crashes in F4</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-timely-purge-of-steam-dns-cache-on-pc/"><u>Techniques for Timely Purge of Steam DNS Cache on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/the-end-game-for-windows-xp781-on-microsoft-platforms/"><u>The End Game for Windows XP/7/8.1 on Microsoft Platforms</u></a></li>
+</ul></div>
+

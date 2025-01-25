@@ -1,7 +1,7 @@
 ---
 title: "Strategic Filing: Skillful Steps to Sidestep File Explorer Slip-Ups"
-date: 2025-01-13T20:54:48.298Z
-updated: 2025-01-19T10:56:19.283Z
+date: 2025-01-17T20:04:11.285Z
+updated: 2025-01-24T22:50:31.478Z
 tags:
   - windows10
   - windows11
@@ -25,17 +25,9 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disregarding the Power of Tabs in File Explorer
 
 ![Windows 11 File Explorer with so many tabs open and scroll arrow buttons showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-explorer-title-bar-scroll-buttons.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you're running Windows 11, version 22H2 with Moment 3 update, you can open multiple tabs in File Explorer, just like in a web browser. When you don't use the feature, you have multiple folders that are opened in multiple windows, making switching between folders inconvenient.
 
@@ -46,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 ## 2\. Neglecting Keyboard Shortcuts
 
 ![two people using a windows laptop](https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a055c6f3927bcc9e40cc66cb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From opening the File Explorer to creating folders, keyboard shortcuts can help you work faster, which otherwise would've taken longer. [Keyboard shortcuts in Windows 11](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) are also the only solution when your trackpad or mouse is not working. And if you're facing the same issue, you should learn [how to fix your laptop's trackpad](https://www.makeuseof.com/tag/fix-laptop-touchpad-not-working/).
 
@@ -61,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
 ![Screenshot showing File Explorer Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-home.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  File Explorer shows you recent files or folders you've opened, making them easier for you to quickly jump on later if needed. You shouldn't make the mistake of going to the folder location again to find something if you opened it recently. Instead, check the **Recent** section of File Explorer and get quick access to all the files you've opened recently.
 
  Moreover, you should also mark important files as favorites. File Explorer has a **Favorites** section where it lists everything you labeled as a favorite. By avoiding the **Favorites** section, you could spend more time finding that important file whenever needed. Both **Recent** and **Favorites** items are displayed on the File Explorer Home Page.
@@ -72,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 ## 4\. Not Using Search Syntax While Searching Something in File Explorer
 
 ![Search files using syntax commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/search-files-using-syntax-commands.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you type something in the File Explorer search box, it will show you a complete list of files containing what you typed. Many of us spend more time finding the one on that long list.
 
@@ -96,12 +92,16 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
  You can check out how to [enable checkboxes in File Explorer](https://www.makeuseof.com/how-to-enable-checkboxes-select-files-windows-11/) to select multiple items more easily. This is the easiest way to select multiple files using your mouse or trackpad.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Not Knowing How To Name a File or Folder in File Explorer
 
 ![rename atig6pxx dll file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-atig6pxx-dll-file.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One of the reasons you're facing challenges in finding files or folders could be that you aren't naming them properly. And if you have many of them, it can get messy.
 
@@ -114,7 +114,7 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 ![Screenshot showing File Explorer Download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-view.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows is known for its customizations. You also get a ton of options in File Explorer that enable you to give it a unique touch and be more productive. You're not utilizing some of the handy File Explorer features if you're not customizing it.
@@ -139,19 +139,20 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-extended-review-uncomplicated-hdr-approach/"><u>[New] Extended Review Uncomplicated HDR Approach</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-next-gen-key-smartwatch-opens-your-mac/"><u>[New] Next-Gen Key Smartwatch Opens Your Mac</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-pushing-boundaries-spotlight-on-top-6-digital-innovators/"><u>[New] Pushing Boundaries Spotlight on Top 6 Digital Innovators</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-art-of-changing-meeting-screens-on-microsoft-teams/"><u>[Updated] In 2024, The Art of Changing Meeting Screens on Microsoft Teams</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-which-is-superior-for-screen-recording-obs-studio-or-fraps/"><u>2024 Approved Which Is Superior for Screen Recording – OBS Studio or Fraps?</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/5-fast-methods-to-build-a-booting-windows-11-usb-from-an-iso-file/"><u>5 Fast Methods to Build a Booting Windows 11 USB From an ISO File</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-screen-unresponsive-message-in-windows-1111/"><u>Fixing Screen Unresponsive Message in Windows 11/11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/getting-started-with-the-9-inch-lenovo-nook-tablet-a-comprehensive-guide/"><u>Getting Started with the 9-Inch Lenovo Nook Tablet: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-disabling-laptops-hardware-keys-on-windows-pc/"><u>Guide: Disabling Laptop's Hardware Keys on Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-mend-d3dx939dll-gap-on-windows-11/"><u>How to Mend D3DX9_39.dll Gap on Windows 11</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-organizing-epics-implementing-chapters-in-vimeo-media/"><u>In 2024, Organizing Epics Implementing Chapters in Vimeo Media</u></a></li>
-<li><a href="https://win11.techidaily.com/integrating-update-notifier-into-the-windows-ui-context-of-win11/"><u>Integrating Update Notifier Into the Windows UI Context of Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/overhauling-non-operational-ccleaner-on-win11/"><u>Overhauling Non-Operational CCleaner on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/stepwise-procedure-to-independently-update-windows/"><u>Stepwise Procedure to Independently Update Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-avoiding-disarray-in-frames-for-2024/"><u>[New] Avoiding Disarray in Frames for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ultimate-hook-creation-tool-for-online-titles-for-2024/"><u>[Updated] Ultimate Hook-Creation Tool for Online Titles for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-asus-rog-phone-7-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Asus ROG Phone 7</u></a></li>
+<li><a href="https://win11.techidaily.com/compact-connoisseurs-panasonic-choice/"><u>Compact Connoisseur's Panasonic Choice</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-fixes-restoring-safaris-performance-on-iphones/"><u>Essential Fixes: Restoring Safari's Performance on iPhones</u></a></li>
+<li><a href="https://win11.techidaily.com/flawless-functionality-in-windows-zoom-eliminate-error-1132/"><u>Flawless Functionality in Windows Zoom - Eliminate Error 1132</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/guia-paso-a-paso-para-mejorar-su-clips-de-video-en-mp4-uso-del-editor-de-videos-movipeak/"><u>Guía Paso a Paso Para Mejorar Su Clips De Video en MP4: Uso Del Editor De Videos Movipeak</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-frontier-of-gesture-based-technology-advancements/"><u>In 2024, The Frontier of Gesture-Based Technology Advancements</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-taskbar-organization-in-win-11/"><u>Mastering Taskbar Organization in Win 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-playtime-effective-strategies-to-upgrade-your-xboxs-performance/"><u>Maximizing Playtime: Effective Strategies to Upgrade Your Xbox's Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-network-key-inconsistencies-5-steps-for-windows-users/"><u>Navigating Through Network Key Inconsistencies: 5 Steps for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-limitations-without-moving-to-newest-os/"><u>Overcoming Limitations without Moving to Newest OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-essentials-how-to-achieve-a-smoother-ark-frontiers-experience-with-increased-fps/"><u>PC Gaming Essentials: How to Achieve a Smoother ARK: Frontiers Experience with Increased FPS</u></a></li>
+<li><a href="https://win11.techidaily.com/trimming-up-surplus-graphics-from-windows-search/"><u>Trimming Up Surplus Graphics From Windows Search</u></a></li>
+<li><a href="https://win11.techidaily.com/unveil-top-6-trackers-to-master-your-computerinas-windows-domain/"><u>Unveil Top 6 Trackers to Master Your Computer'inas Windows Domain</u></a></li>
 </ul></div>
 

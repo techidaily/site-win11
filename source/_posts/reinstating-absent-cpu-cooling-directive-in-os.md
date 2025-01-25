@@ -1,7 +1,7 @@
 ---
 title: Reinstating Absent CPU Cooling Directive in OS
-date: 2024-08-08T13:22:12.371Z
-updated: 2024-08-09T13:22:12.371Z
+date: 2025-01-20T09:09:42.137Z
+updated: 2025-01-24T16:33:50.726Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 Here’s how to do that.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix a Missing System Cooling Policy Using PowerShell
 
  For this method, start by pressing**Win + S** to bring up Windows search. Type**powershell** in the search box and click on**Windows PowerShell** in the search results.
@@ -33,11 +34,11 @@ Here’s how to do that.
 
  Now you can go ahead and set the policy. If you need a refresher on how to do that, please read our guide on[what the Windows system cooling policy is and how to set it](https://www.makeuseof.com/what-is-the-system-cooling-policy-on-windows-and-how-do-you-set-it/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Power Options menu on Windows with the System cooling policy expanded](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-options-windows-system-cooling.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to hide it again after you’ve set it, you can enter the following command and then press**Enter** to run it:
 
@@ -46,18 +47,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If you go back to the Power Options menu, you’ll find that it’s gone.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix a Missing System Cooling Policy Using the Windows Registry
 
  Another way to fix the system cooling policy missing from Power Options is by editing the Windows Registry. Before you proceed, please make a copy of it so you have something to restore if something goes wrong. To do that please read our guide on[how to backup and restore the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) .
 
  Next, click on an empty part of the desktop and select**New > Text document** and name it**add-system-cooling-policy.reg** . You’ve basically[created a registry file on Windows](https://www.makeuseof.com/windows-registry-file-guide/) here.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![creating a text document on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creating-text-doc-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In the text document, enter the following code:
 
@@ -65,9 +68,6 @@ In the text document, enter the following code:
 
  Save the file by clicking**File > Save** . Next, double-click on the registry file and then click**Yes** on the UAC prompt. In the pop-up, click**Yes** to merge the keys and values in the registry file with the Windows Registry.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![message to continue merging a registry file with the windows registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/message-continue-merge-reg-gile.jpg)
 
  You should now see the system cooling policy in the Power Options menu.
@@ -79,20 +79,18 @@ In the text document, enter the following code:
  Once you run this file, the system cooling policy will be hidden again in the Power Options menu.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bringing Back the System Cooling Policy on Windows
 
  Now that the system cooling policy has returned you can tweak it to your liking. We have even shown you how to hide it again in case you don’t want others messing with it. If these methods don’t work, you might have another problem with your computer.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -101,4 +99,20 @@ In the text document, enter the following code:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-instant-video-visionary/"><u>[Updated] Instant Video Visionary</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-unconventional-ai-assistants-for-self-programmable-coding/"><u>7 Unconventional AI Assistants for Self-Programmable Coding</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-activating-god-control-on-pcs/"><u>A Step-by-Step Guide to Activating God Control on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-the-calculator-on-windows-11-effortlessly/"><u>Accessing the Calculator on Windows 11 Effortlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-out-of-space-issue-in-windows-oses/"><u>Addressing Out-of-Space Issue in Windows OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/big-hard-drive-in-minipcs-but-below-average-brawn/"><u>Big Hard Drive in Minipcs, But Below Average Brawn</u></a></li>
+<li><a href="https://win11.techidaily.com/1719209276170-essential-windows-store-top-10-crucial-apps/"><u>Essential Windows Store: Top 10 Crucial Apps!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/gimbal-guide-to-pro-video-shooting-with-dslrs-and-mirrorless-for-2024/"><u>Gimbal Guide to Pro Video Shooting with DSLRs & Mirrorless for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719356384376-mastery-over-mute-shift-key-trouble/"><u>Mastery Over Mute Shift Key Trouble</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782781-9781620550762-numerology/"><u>Numerology | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-guide-to-disabling-gpu-aided-process-ordering-in-widno/"><u>The Guide to Disabling GPU-Aided Process Ordering in WIDNO</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/ultimate-tips-on-how-to-deactivate-your-apple-devices-find-my-functionality-by-bypassing-the-lock-screen/"><u>Ultimate Tips on How to Deactivate Your Apple Device's 'Find My' Functionality by Bypassing the Lock Screen</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-free-wmv-video-merger-tools-top-picks-for-2024/"><u>Updated Free WMV Video Merger Tools Top Picks for 2024</u></a></li>
+</ul></div>
 
