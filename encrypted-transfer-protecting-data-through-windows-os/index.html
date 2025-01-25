@@ -32,8 +32,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-with-group-policy-editor.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-via-registry-editor.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-letter-refrence-for-registry-editor.jpg">
-<meta property="article:published_time" content="2025-01-12T12:42:09.536Z">
-<meta property="article:modified_time" content="2025-01-18T15:41:03.607Z">
+<meta property="article:published_time" content="2025-01-21T15:00:04.888Z">
+<meta property="article:modified_time" content="2025-01-24T18:55:53.276Z">
 <meta property="article:author" content="David">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -719,15 +719,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2025-01-12 20:42:09</span>
-        <span class="mobile">2025-01-12 20:42:09</span>
+        <span class="desktop">2025-01-21 23:04</span>
+        <span class="mobile">2025-01-21 23:04</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-01-18 23:41:03</span>
-            <span class="mobile">2025-01-18 23:41:03</span>
+            <span class="desktop">2025-01-25 02:55:53</span>
+            <span class="mobile">2025-01-25 02:55:53</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -810,39 +810,38 @@
                       alt="Hide a Drive Using Disk Management"
                 ></li>
 </ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> Once you complete the above steps, your drive will no longer appear in File Explorer.</p>
 <h2 id="2-Hide-a-Drive-in-Windows-With-Diskpart-Command"><a href="#2-Hide-a-Drive-in-Windows-With-Diskpart-Command" class="headerlink" title="2. Hide a Drive in Windows With Diskpart Command"></a>2. Hide a Drive in Windows With Diskpart Command</h2><p> If you’re a power user who prefers to make changes via the command-line interface, you can use the diskpart command to hide a drive on Windows. Fortunately, this isn’t as intimidating as it might sound.</p>
 <p>To hide a drive in Windows with Command Prompt, follow these steps:</p>
 <ol>
-<li><p>Press<strong>Win + X</strong> and select<strong>Terminal (Admin)</strong> from the menu that appears.</p>
-</li>
-<li><p>Select<strong>Yes</strong> when the User Account Control (UAC) prompt shows up.</p>
-</li>
-<li><p>In the console, type<strong>diskpart</strong> and press<strong>Enter</strong> .</p>
-</li>
-<li><p>Input the following command in the console and press<strong>Enter</strong> to view a list of drives connected to your system:<br><code>list volume</code><br><img  
+<li>Press<strong>Win + X</strong> and select<strong>Terminal (Admin)</strong> from the menu that appears.</li>
+<li>Select<strong>Yes</strong> when the User Account Control (UAC) prompt shows up.</li>
+<li>In the console, type<strong>diskpart</strong> and press<strong>Enter</strong> .</li>
+<li>Input the following command in the console and press<strong>Enter</strong> to view a list of drives connected to your system:<br><code>list volume</code><br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/list-of-drives-in-command-prompt.jpg"
                       alt="List of Drives in Command Prompt"
-                ></p>
-</li>
-<li><p>Note down the letter of the drive you want to hide from the<strong>Ltr</strong> column.</p>
-</li>
-<li><p>Type the following command to select your drive. Make sure you replace<strong>X</strong> in the command with the drive letter noted in the last step.<br><code>select volume X</code></p>
-</li>
-<li><p>Lastly, run the following command to remove the drive letter and hide the volume.<br><code>remove letter X</code><br><img  
+                ></li>
+<li>Note down the letter of the drive you want to hide from the<strong>Ltr</strong> column.</li>
+</ol>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<ol start="6">
+<li>Type the following command to select your drive. Make sure you replace<strong>X</strong> in the command with the drive letter noted in the last step.<br><code>select volume X</code></li>
+<li>Lastly, run the following command to remove the drive letter and hide the volume.<br><code>remove letter X</code><br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-using-command-prompt.jpg"
                       alt="Hide a Drive Using Command Prompt"
-                ></p>
-</li>
+                ></li>
 </ol>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> You should see a message that reads <strong>Diskpart successfully removed the drive letter or mount point</strong> . Following that, the drive will no longer appear on your PC.</p>
 <p> If you like using Command Prompt, why not check our guide on<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/windows-10-command-prompt-tips/" >how to master the Command Prompt in Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> ?</p>
 <h2 id="3-Hide-a-Drive-Using-the-Group-Policy-Editor"><a href="#3-Hide-a-Drive-Using-the-Group-Policy-Editor" class="headerlink" title="3. Hide a Drive Using the Group Policy Editor"></a>3. Hide a Drive Using the Group Policy Editor</h2><p> The Local Group Policy Editor is a tool that allows you to configure a wide range of settings on your computer. You can use it to hide a drive from your Windows computer.</p>
@@ -862,7 +861,7 @@
 <li>Select the<strong>Enabled</strong> option.</li>
 </ol>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ol start="7">
@@ -871,7 +870,7 @@
 </ol>
 <p> Once you complete the above steps, Windows will hide the specified drive from File Explorer. If you want to unhide the drive later, use the same steps and set the<strong>Hide these specified drives in My Computer policy</strong> to<strong>Not configured</strong> .</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="4-Hide-a-Drive-in-Windows-via-the-Registry-Editor"><a href="#4-Hide-a-Drive-in-Windows-via-the-Registry-Editor" class="headerlink" title="4. Hide a Drive in Windows via the Registry Editor"></a>4. Hide a Drive in Windows via the Registry Editor</h2><p> Another brilliant tool that allows you to configure system settings in Windows easily is the Registry Editor. You can use Registry Editor to hide a drive if none of the above methods work. However, you must be careful<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/not-accidentally-mess-windows-registry/" >not to accidentally mess up the Windows Registry <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> in the process.</p>
@@ -894,7 +893,7 @@
 <li>Enter a number corresponding to the drive you want to hide in the<strong>Value data</strong> field and click<strong>OK</strong> . Refer to the table below to determine which number to use.</li>
 </ol>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p><img  
@@ -903,10 +902,6 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-letter-refrence-for-registry-editor.jpg"
                       alt="Drive Letter Refrence for Registry Editor"
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> For instance, if you were to hide the<strong>E:</strong> drive from your computer, you’d enter<strong>16</strong> in the Value data field.</p>
 <p> You can also use this method to hide multiple drives at the same time. To do so, add the decimal numbers for both drives and enter the total in the Value data field. For example, if you’re looking to hide drive<strong>G:</strong> and<strong>H:</strong> from your computer, you should enter<strong>192</strong> (64 + 128) in the Value data field.</p>
 <p> You’ll have to restart your PC to apply the changes. Following that, the drive will not appear in File Explorer. You can undo the above changes at any point by deleting the<strong>NoDrives</strong> DWORD.</p>
@@ -925,25 +920,18 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-footage.techidaily.com/updated-in-2024-boosting-your-youtube-presence-key-tips-for-popularity/"><u>[Updated] In 2024, Boosting Your YouTube Presence Key Tips for Popularity</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-clips.techidaily.com/updated-unveiling-the-path-to-your-facebook-status-video-archive-for-2024/"><u>[Updated] Unveiling the Path to Your Facebook Status Video Archive for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://discover-advanced.techidaily.com/1-solving-downloads-folder-unresponsive-issues-proven-strategies/"><u>1. Solving 'Downloads Folder Unresponsive' Issues: Proven Strategies</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/2024-approved-tunefab-revolutionizing-the-art-of-video-capture/"><u>2024 Approved Tunefab Revolutionizing the Art of Video Capture</u></a></li>
-<li><a href="https://win11.techidaily.com/a-guide-to-essential-windows-saver-techniques/"><u>A Guide to Essential Windows Saver Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-and-correcting-window-based-roblox-error-403/"><u>Addressing and Correcting Window-Based Roblox Error 403</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-zeroxc000003e-problem-in-pc-application-startup/"><u>Addressing ZeroXc000003e Problem in PC Application Startup</u></a></li>
-<li><a href="https://win11.techidaily.com/automatic-program-management-in-windows-os/"><u>Automatic Program Management in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-accessibility-of-grandparents-pre-ultimate-pcs/"><u>Boosting Accessibility of Grandparents' Pre-Ultimate PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-wired-internet-overcoming-100mbps-limit-in-windows/"><u>Boosting Wired Internet: Overcoming 100Mbps Limit in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-your-pc-how-to-turn-on-hyper-v-in-win11/"><u>Boosting Your PC: How To Turn On Hyper-V in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/break-free-how-to-disable-the-pesky-epic-games-hub/"><u>Break Free: How to Disable the Pesky Epic Games Hub</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://discover-extraordinary.techidaily.com/capture-your-moments-seamless-recording-of-screens-cameras-and-sound-using-winxvideos-advanced-ai-technology/"><u>Capture Your Moments: Seamless Recording of Screens, Cameras, and Sound Using Winxvideo's Advanced AI Technology</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-dash.techidaily.com/get-your-killer-e2500-gigabit-nic-drivers-installed-now-free-downloads-available/"><u>Get Your Killer E2500 Gigabit NIC Drivers Installed Now - Free Downloads Available</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tech-savvy.techidaily.com/how-to-maximize-your-anthropics-ai-experience/"><u>How to Maximize Your Anthropic's AI Experience</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Tecno Camon 20? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-clips.techidaily.com/maximizing-engagement-in-post-facebook-algorithm-world-for-2024/"><u>Maximizing Engagement in Post-Facebook Algorithm World for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/1719271419179-navigate-through-windows-woes-with-simple-fixes/"><u>Navigate Through Windows Woes with Simple Fixes!</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-that.techidaily.com/solve-your-iphone-flashlight-issues-with-these-12-simple-fixes/"><u>Solve Your iPhone Flashlight Issues with These 12 Simple Fixes</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-cloud.techidaily.com/new-optimizing-images-with-ae-luts-step-by-step-for-2024/"><u>[New] Optimizing Images with AE LUTs Step-by-Step for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-friendly.techidaily.com/new-step-by-step-guide-to-full-periscope-capabilities-for-2024/"><u>[New] Step-by-Step Guide to Full Periscope Capabilities for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-skills.techidaily.com/new-the-chromium-connection-pixel-phone-rhythms/"><u>[New] The Chromium Connection Pixel Phone Rhythms</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-glue.techidaily.com/new-visual-prodigies-top-4k-monitors-for-cutting-edge-work-for-2024/"><u>[New] Visual Prodigies Top 4K Monitors for Cutting-Edge Work for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://driver-install.techidaily.com/hp-printer-software-model-1102w-downloader-for-pcs/"><u>HP Printer Software Model 1102W - Downloader for PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/illuminated-ideas-a-guide-to-organizing-notes-via-obsidian/"><u>Illuminated Ideas: A Guide to Organizing Notes via Obsidian</u></a></li>
+<li><a href="https://win11.techidaily.com/screen-splendor-series-designing-distinct-displays-on-win-1011-per-monitor/"><u>Screen Splendor Series: Designing Distinct Displays on WIN 10/11 Per Monitor</u></a></li>
+<li><a href="https://win11.techidaily.com/the-project-pro-essential-ms-project-keys-explained/"><u>The Project Pro: Essential MS Project Keys Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/the-roadmap-to-unblemished-wallpaper-clarity-in-w11/"><u>The Roadmap to Unblemished Wallpaper Clarity in W11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://novels-ebooks.techidaily.com/95774167-9781515415503-three-paths-to-god/"><u>Three Paths to God | Free Book</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-activity-recording.techidaily.com/top-picks-the-most-advanced-online-mic-recorders-of-23-for-2024/"><u>Top Picks The Most Advanced Online Mic Recorders of '23 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/uncovering-game-files-three-windows-techniques/"><u>Uncovering Game Files: Three Windows Techniques</u></a></li>
 </ul></div>
 
 
@@ -956,11 +944,11 @@
         <li><strong>Title:</strong> Encrypted Transfer: Protecting Data Through Windows OS</li>
         <li><strong>Author:</strong> David</li>
         <li><strong>Created at
-                :</strong> 2025-01-12 20:42:09</li>
+                :</strong> 2025-01-21 23:00:04</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-01-18 23:41:03
+                    :</strong> 2025-01-25 02:55:53
             </li>
         
         <li>
@@ -1004,13 +992,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/preventing-errors-validating-windows-11-temporary-folder/"
+                        href="/win11s-control-panel-customizing-made-simple/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Preventing Errors: Validating Windows 11 Temporary Folder</span>
+                                <span class="post-nav-title-item">Win11&#39;s Control Panel: Customizing Made Simple</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1020,10 +1008,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/mastering-windows-screen-controls-for-better-accessibility/"
+                        href="/winning-back-control-fixing-windows-audio-errors/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Mastering Windows&#39; Screen Controls for Better Accessibility</span>
+                                <span class="post-nav-title-item">Winning Back Control: Fixing Windows Audio Errors</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">

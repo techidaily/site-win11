@@ -31,8 +31,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reassign-drive-letter.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reinitialize-browser.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/delete-mountpoints.jpg">
-<meta property="article:published_time" content="2025-01-17T08:11:34.089Z">
-<meta property="article:modified_time" content="2025-01-18T20:23:58.019Z">
+<meta property="article:published_time" content="2025-01-18T17:12:17.890Z">
+<meta property="article:modified_time" content="2025-01-24T11:12:22.799Z">
 <meta property="article:author" content="David">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -718,15 +718,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2025-01-17 16:11:34</span>
-        <span class="mobile">2025-01-17 16:11:34</span>
+        <span class="desktop">2025-01-19 01:12:17</span>
+        <span class="mobile">2025-01-19 01:12:17</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-01-19 04:23:58</span>
-            <span class="mobile">2025-01-19 04:23:58</span>
+            <span class="desktop">2025-01-24 19:12:22</span>
+            <span class="mobile">2025-01-24 19:12:22</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -796,13 +796,13 @@
 <p> Disclaimer: This post includes affiliate links</p>
 <p> If you click on a link and make a purchase, I may receive a commission at no extra cost to you.</p>
 </blockquote>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="What-Causes-the-Local-Device-Name-Error"><a href="#What-Causes-the-Local-Device-Name-Error" class="headerlink" title="What Causes the Local Device Name Error?"></a>What Causes the Local Device Name Error?</h2><p> There can be a couple of possible causes of this error, but pinpointing the exact cause can be difficult. The most common are unassigned drive letters and incorrect file and printer sharing settings.</p>
 <p> It is also possible that a lack of space on the network server can result in this error appearing. You should check this possibility first. If lack of storage is the cause, none of the following solutions will make a difference.</p>
 <p> If the network server has ample space, you can move on to trying the methods below to solve the problem on your local device.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="1-Enable-File-and-Printer-Sharing"><a href="#1-Enable-File-and-Printer-Sharing" class="headerlink" title="1 Enable File and Printer Sharing"></a>1 Enable File and Printer Sharing</h2><p><a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/5-reasons-use-firewall/" >You should always keep your firewall enabled <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> , but it can sometimes interfere with file and printer sharing. This can lead to seeing the Local device name is already in use error. Luckily you can enable file and printer sharing easily in the firewall settings.</p>
 <p> If you’re using a third-party firewall, refer to the documentation to find the setting. Here’s how to enable file and printer sharing in the Microsoft Firewall.</p>
 <ol>
@@ -823,6 +823,10 @@
 </li>
 </ol>
 <p> Occasionally, the file and printer sharing settings for the firewall can get reset after a major update. Just because you know you have enabled it in the past, it is worth checking again.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="2-Remap-the-Network-Drive-With-Command-Prompt"><a href="#2-Remap-the-Network-Drive-With-Command-Prompt" class="headerlink" title="2 Remap the Network Drive With Command Prompt"></a>2 Remap the Network Drive With Command Prompt</h2><p> Windows will automatically assign a letter to your network drive. During network mapping, the assigned letters can become mixed and even be missing altogether. Remapping the network drive can fix this and prevent the error.</p>
 <ol>
 <li>The best way to remap the network drive is through the Command Prompt. Search for<strong>cmd</strong> in Windows Search and select<strong>Run as Administrator</strong> .</li>
@@ -834,11 +838,11 @@
                 ></li>
 <li>Now remap the drive by typing:<strong>net use D: \\server\share &#x2F;user:username password</strong> . Replace the drive letter and user and username password with the relevant details.</li>
 </ol>
+<p> If this doesn’t help, you may need to try reassigning the drive letters manually. The end result is similar, but sometimes remapping won’t work when manually reassigning the drive path will work.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-<p> If this doesn’t help, you may need to try reassigning the drive letters manually. The end result is similar, but sometimes remapping won’t work when manually reassigning the drive path will work.</p>
 <h2 id="3-Re-assign-Drive-Letters"><a href="#3-Re-assign-Drive-Letters" class="headerlink" title="3 Re-assign Drive Letters"></a>3 Re-assign Drive Letters</h2><p> Another common cause of this error is an incorrectly assigned drive letter. Reassigning a drive letter is easy, as long as you don’t run into the Drive letter not available error.</p>
 <ol>
 <li>Search for<strong>Disk Management</strong> using Windows Search, or right-click the Start Menu and select it from the hidden menu.</li>
@@ -855,49 +859,44 @@
 <p> Learn more about<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/why-local-drives-windows-start-from-c/" >why drive letters usually start with C on Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> .</p>
 <h2 id="4-Reinitialize-the-Computer-Browser"><a href="#4-Reinitialize-the-Computer-Browser" class="headerlink" title="4 Reinitialize the Computer Browser"></a>4 Reinitialize the Computer Browser</h2><p> A less likely solution to this error, but one that does sometimes help, is reinitializing the browser. Browser settings can, in some cases, interfere with network drive settings. By stopping the browser and reinitializing it, those settings should be reverted.</p>
 <ol>
-<li>Open Windows Search and type<strong>cmd</strong> . In the result, select<strong>Command Prompt</strong> and click<strong>Run as Administrator</strong> .</li>
-<li>At the Command Prompt cursor, type:<strong>net stop “Computer Browser”</strong> and then press<strong>Enter</strong> .<br><img  
+<li><p>Open Windows Search and type<strong>cmd</strong> . In the result, select<strong>Command Prompt</strong> and click<strong>Run as Administrator</strong> .</p>
+</li>
+<li><p>At the Command Prompt cursor, type:<strong>net stop “Computer Browser”</strong> and then press<strong>Enter</strong> .<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reinitialize-browser.jpg"
                       alt="reinitialize the browser on command prompt"
-                ></li>
-<li>When the command finishes executing, type:<strong>net start “Computer Browser”</strong> and press<strong>Enter</strong> .</li>
-</ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<ol start="4">
-<li>You can now close the Registry Editor and check to see if the error persists.</li>
+                ></p>
+</li>
+<li><p>When the command finishes executing, type:<strong>net start “Computer Browser”</strong> and press<strong>Enter</strong> .</p>
+</li>
+<li><p>You can now close the Registry Editor and check to see if the error persists.</p>
+</li>
 </ol>
 <p> Reinitializing the browser is different from simply closing and reopening the browser window. It is a much more forceful solution to clearing any browser settings that may be in conflict.</p>
 <p> Learn how to optimize and get the most from your computer with these<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/windows-10-faster-performance/" >essential Windows performance tips <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> .</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="5-Delete-the-MountPoints-Registry-Key"><a href="#5-Delete-the-MountPoints-Registry-Key" class="headerlink" title="5 Delete the MountPoints Registry Key"></a>5 Delete the MountPoints Registry Key</h2><p> If none of the above solutions have fixed the problem, you can try deleting the MountPoints registry key as a last resort. This key stores data about USB and other removable drives. Deleting the key can sometimes resolve conflicts in drive letter assignments.</p>
 <ol>
-<li><p>Deleting the MountPoints key shouldn’t cause problems, but it is best to<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/backup-restore-windows-registry/" >back up the Registry <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> just in case. Do this before you continue.</p>
-</li>
-<li><p>Open the Registry Editor by searching for it in Windows Search.</p>
-</li>
-<li><p>Navigate to <strong>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer</strong> .<br><img  
+<li>Deleting the MountPoints key shouldn’t cause problems, but it is best to<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/backup-restore-windows-registry/" >back up the Registry <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> just in case. Do this before you continue.</li>
+<li>Open the Registry Editor by searching for it in Windows Search.</li>
+<li>Navigate to <strong>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer</strong> .<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/delete-mountpoints.jpg"
                       alt="delete mountpoints in the Registry"
-                ></p>
-</li>
-<li><p>Look for the<strong>MountPoints2</strong> key in the right-hand panel, right-click on it and select<strong>Delete</strong> .</p>
-</li>
-<li><p>Close the Registry Editor and restart your computer.</p>
-</li>
+                ></li>
+<li>Look for the<strong>MountPoints2</strong> key in the right-hand panel, right-click on it and select<strong>Delete</strong> .</li>
+</ol>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<ol start="5">
+<li>Close the Registry Editor and restart your computer.</li>
 </ol>
 <p> The MountPoint registry key will be regenerated after deleting and restarting. You can then check to see if this fixed the Local Device name is already in use error.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Fixing-Local-Device-Name-Errors-on-Windows"><a href="#Fixing-Local-Device-Name-Errors-on-Windows" class="headerlink" title="Fixing Local Device Name Errors on Windows"></a>Fixing Local Device Name Errors on Windows</h2><p> The Local device name is already in use error is not uncommon, and it can be frustrating. But by working through the solutions here, you will normally be able to fix it within a few minutes. Just be sure to check the remaining storage on the network server before you start digging deeper.</p>
@@ -914,25 +913,17 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://fox-glue.techidaily.com/new-2024-approved-ultimate-list-of-mac-friendly-video-to-mp4-codecs/"><u>[New] 2024 Approved Ultimate List of Mac-Friendly Video to MP4 Codecs</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/new-crafting-your-future-a-guide-to-prosperity-in-graphic-designing/"><u>[New] Crafting Your Future A Guide to Prosperity in Graphic Designing</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-guidance.techidaily.com/new-pro-3-examined-the-ion-airs-game-changing-video-innovation/"><u>[New] Pro 3 Examined The ION Air's Game-Changing Video Innovation</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-zero.techidaily.com/ecurely-distributing-exclusive-youtube-videos-through-gmail-for-2024/"><u>[New] Securely Distributing Exclusive YouTube Videos Through Gmail for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-wonderful.techidaily.com/1-ultimate-guide-retrieving-deleted-messages-from-your-gmail-inbox/"><u>1. Ultimate Guide: Retrieving Deleted Messages From Your Gmail Inbox</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-requested-operation-requires-elevation-error-740-on-windows-10-and-11/"><u>How to Fix the “Requested Operation Requires Elevation” Error 740 on Windows 10 & 11</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-apple-iphone-8-plus-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the Apple iPhone 8 Plus Without Previous Owner?</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-proplus-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 13 Pro+ 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-guidance.techidaily.com/in-2024-uncovering-the-secrets-of-enhancing-tiktok-profiles-with-linktree/"><u>In 2024, Uncovering the Secrets of Enhancing TikTok Profiles with Linktree</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-elevated-commands-always-access-terminal-as-admin/"><u>Mastering Elevated Commands: Always Access Terminal as Admin</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-data.techidaily.com/ative-movement-youtubes-finest-yogis-for-2024/"><u>Meditative Movement YouTube's Finest Yogis for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/microsoft-browser-blues-overcome-site-blockades-with-these-tips/"><u>Microsoft Browser Blues? Overcome Site Blockades with These Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-deletion-warning-settings-on-pcs/"><u>Navigating Deletion Warning Settings on PCs</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-create-slow-motion-videos-this-article-shows-methods-to-create-slow-mo-videos-without-changing-the-medias-quality/"><u>New 2024 Approved Do You Want to Create Slow-Motion Videos? This Article Shows Methods to Create Slow-Mo Videos without Changing the Medias Quality</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-nonexistent-hardware-warning-in-windows/"><u>Overcoming Nonexistent Hardware Warning in WIndows</u></a></li>
-<li><a href="https://win11.techidaily.com/reinvent-the-way-you-handle-aging-pcs-less-windows/"><u>Reinvent the Way You Handle Aging PCs: Less Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/saving-yourself-from-install-error-in-discord-set-up/"><u>Saving Yourself From Install Error in Discord Set-Up</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-mastery-in-artificially-inspired-visuals-using-paint-cocreator-on-win11/"><u>Step-by-Step Mastery in Artificially Inspired Visuals Using Paint Cocreator on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-file-explorers-gallery-view-capability/"><u>Unlocking File Explorer's Gallery View Capability</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/new-2024-approved-coexisting-screen-data-gathering/"><u>[New] 2024 Approved Coexisting Screen Data Gathering</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-helps.techidaily.com/new-in-2024-screenplay-foundations-a-guide/"><u>[New] In 2024, Screenplay Foundations A Guide</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-glue.techidaily.com/new-in-2024-unlock-xps-cinematic-compositions-now/"><u>[New] In 2024, Unlock XP's Cinematic Compositions Now</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-friendly.techidaily.com/updated-captivating-images-with-intentional-leading-lines-iphone/"><u>[Updated] Captivating Images with Intentional Leading Lines (iPhone)</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-fixing-not-met-requirements-in-win11-os/"><u>Deciphering and Fixing ‘Not Met Requirements’ in Win11 OS</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://driver-download.techidaily.com/1722973638237-get-your-iphone-connected-to-windows-11-with-our-driver-downloads/"><u>Get Your iPhone Connected to Windows 11 with Our Driver Downloads!</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-delete-key-not-working-on-windows/"><u>How to Fix the Delete Key Not Working on Windows</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-itel-p55t-phone-by-drfone-android/"><u>How to Unlock a Network Locked Itel P55T Phone?</u></a></li>
+<li><a href="https://win11.techidaily.com/redesigning-windows-removed-characteristics/"><u>Redesigning Windows: Removed Characteristics</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-quest-secrets-to-mac-address-on-windows-11/"><u>Streamlining Your Quest: Secrets to Mac Address on Windows 11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-skills.techidaily.com/superior-smartphones-that-dominate-in-video-recording-for-2024/"><u>Superior Smartphones That Dominate in Video Recording for 2024</u></a></li>
 </ul></div>
 
 
@@ -945,11 +936,11 @@
         <li><strong>Title:</strong> Winning Over Window Devices: No More Naming Clashes!</li>
         <li><strong>Author:</strong> David</li>
         <li><strong>Created at
-                :</strong> 2025-01-17 16:11:34</li>
+                :</strong> 2025-01-19 01:12:17</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-01-19 04:23:58
+                    :</strong> 2025-01-24 19:12:22
             </li>
         
         <li>
@@ -993,13 +984,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/navigating-gpresult-for-effective-policy-insights/"
+                        href="/speedy-multilingual-navigation-on-windows-1011-with-keys/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Navigating GPResult for Effective Policy Insights</span>
+                                <span class="post-nav-title-item">Speedy Multilingual Navigation on Windows 10/11 with Keys</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1009,10 +1000,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/efficient-methods-to-uncover-and-clear-windows-usage-tracks/"
+                        href="/personalizing-systemtray-to-showcase-number-keys/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Efficient Methods to Uncover and Clear Windows Usage Tracks</span>
+                                <span class="post-nav-title-item">Personalizing SystemTray to Showcase Number Keys</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">

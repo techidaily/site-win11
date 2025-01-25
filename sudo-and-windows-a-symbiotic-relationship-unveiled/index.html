@@ -29,8 +29,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/enabling-sudo-on-window-in-the-settings-app.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/enabling-sudo-on-windows-via-powershell.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/running-a-command-on-windows-via-sudo.jpg">
-<meta property="article:published_time" content="2025-01-16T11:18:28.330Z">
-<meta property="article:modified_time" content="2025-01-18T10:51:03.241Z">
+<meta property="article:published_time" content="2025-01-19T22:10:21.064Z">
+<meta property="article:modified_time" content="2025-01-24T09:02:02.753Z">
 <meta property="article:author" content="David">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -716,15 +716,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2025-01-16 19:18:28</span>
-        <span class="mobile">2025-01-16 19:18:28</span>
+        <span class="desktop">2025-01-20 06:10:21</span>
+        <span class="mobile">2025-01-20 06:10:21</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-01-18 18:51:03</span>
-            <span class="mobile">2025-01-18 18:51:03</span>
+            <span class="desktop">2025-01-24 17:02:02</span>
+            <span class="mobile">2025-01-24 17:02:02</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -792,26 +792,30 @@
 <p> Disclaimer: This post includes affiliate links</p>
 <p> If you click on a link and make a purchase, I may receive a commission at no extra cost to you.</p>
 </blockquote>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h3 id="Key-Takeaways"><a href="#Key-Takeaways" class="headerlink" title="Key Takeaways"></a>Key Takeaways</h3><ul>
 <li>The sudo command on Windows lets you run commands with elevated privileges.</li>
 <li>Microsoft is introducing sudo in Windows 11 to make using the command line more convenient.</li>
 <li>Enable sudo via Settings, the Command Prompt, or PowerShell.</li>
 </ul>
 <p> If you’re a fan of tweaking your Windows setup, you often need to run “elevated” or Administrator-level commands. You’re probably used to doing this by running a Command Prompt as administrator, but it’s about to get a lot easier with sudo on Windows.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="What-Does-the-sudo-Command-Do"><a href="#What-Does-the-sudo-Command-Do" class="headerlink" title="What Does the sudo Command Do?"></a>What Does the sudo Command Do?</h2><p> Despite the general focus on configuring everything through the Settings apps and easy-to-use configuration wizards on Windows, every once in a while, you still need to type in commands. Many of these won’t work with your standard user account. Instead, you need to run them as an administrator. Requiring administrator permissions is still a relatively new concept in Windows, but it was prevalent for far longer in older operating systems.</p>
 <p> It was so prevalent that operating system developers thought about a solution to the problem decades ago. Unix installations had, and still do have, a <code>su</code> command, which means “switch user.” This would allow you to switch accounts to any other user, but could also let you run as the administrator, or superuser, account of the system by default.</p>
 <p> This solution worked, but logging in as the administrator to run one command seemed like overkill. As a solution, developers created the sudo command, which means either “switch user and do,” or “superuser do,” depending on various opinions. Long story short, the sudo command lets you easily run one command with elevated privileges—we’ve covered <a class="link"   target="_blank" rel="noopener" href="http://www.makeuseof.com/sudo-vs-su/" >the differences between su and sudo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> if you’re curious.</p>
 <p> This means that the sudo command is roughly equivalent to right-clicking on the Command Prompt app, selecting <strong>Run as administrator</strong>, and running a command, like <code>do_something</code>. With the help of the sudo command, you don’t need to worry about remembering to run the Command Prompt as administrator. Instead, simply type <code>sudo do_something</code>, and the command will work in exactly the same way.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Which-Windows-Versions-Can-Run-the-sudo-Command"><a href="#Which-Windows-Versions-Can-Run-the-sudo-Command" class="headerlink" title="Which Windows Versions Can Run the sudo Command?"></a>Which Windows Versions Can Run the sudo Command?</h2><p> Microsoft is adding the sudo command to Windows 11, and considering that support for Windows 10 is winding down, we don’t expect to see the command coming there anytime soon. At the time of writing, the sudo command is only available for Windows Insider participants (builds 26045 and later), specifically those on the Developer and <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/what-is-windows-insider-canary-channel/" >Windows Canary channels <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
 <p> Unlike some features that Microsoft tests in these versions, it seems fairly likely that sudo is going to arrive on the operating system soon.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="How-to-Enable-the-sudo-Command-on-Windows"><a href="#How-to-Enable-the-sudo-Command-on-Windows" class="headerlink" title="How to Enable the sudo Command on Windows"></a>How to Enable the sudo Command on Windows</h2><p> If the sudo command isn’t yet available for your version of Windows, you’ll need to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-insider-program-join/" >sign up for Windows Insider <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. This is a simple process, but be warned: the Developer and Canary options can be unstable, so don’t use them on a PC you’re not willing to lose data on.</p>
 <p> Once you’re running a version of Windows that has the sudo command available, enabling it is a simple process. Open the <strong>Settings</strong> app, then select <strong>System</strong> on the left and <strong>For developers</strong> from the main area of the window.</p>
 <p> Here, scroll down and enable the checkbox that reads <strong>Enable sudo</strong>.</p>
@@ -822,7 +826,7 @@
                       alt="Enabling sudo on Window in the Settings app"
                 ></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h3 id="Enable-sudo-via-the-Command-Prompt"><a href="#Enable-sudo-via-the-Command-Prompt" class="headerlink" title="Enable sudo via the Command Prompt"></a>Enable sudo via the Command Prompt</h3><p> If you’re more command-line oriented, you can also enable sudo via the Commmand Prompt. Somewhat ironically, this requires you to run an elevated CMD window. Press the <strong>Windows</strong> key, type “command,” then right-click on <strong>Command Prompt</strong> (or <strong>PowerShell</strong>) and select <strong>Run as administrator</strong>.</p>
@@ -835,11 +839,7 @@
                       alt="Enabling sudo on Windows via PowerShell"
                 ></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="How-to-Use-the-sudo-Command-on-Windows"><a href="#How-to-Use-the-sudo-Command-on-Windows" class="headerlink" title="How to Use the sudo Command on Windows"></a>How to Use the sudo Command on Windows</h2><p> After you’ve enabled the sudo command on Windows, it’s simple to use. Simply prepend the <code>sudo</code> command to any command you’d typically need to run as an administrator, then accept the prompts that follow.</p>
@@ -862,19 +862,20 @@
       data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://fox-direct.techidaily.com/new-in-2024-gopro-vs-garmin-hero5-black-vs-virb-ultra-gadget-showdown/"><u>[New] In 2024, GoPro Vs. Garmin Hero5 Black Vs. VIRB Ultra - Gadget Showdown</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://snapchat-videos.techidaily.com/updated-in-2024-spicing-up-chats-with-gifs-a-complete-snapchat-tutorial/"><u>[Updated] In 2024, Spicing Up Chats with GIFs A Complete Snapchat Tutorial</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-boxes.techidaily.com/updated-visual-perfection-select-the-best-monitors-for-creative-work/"><u>[Updated] Visual Perfection Select the Best Monitors for Creative Work</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-windows-usefulness-of-pagefilesys-backup-storage/"><u>Decoding Windows’ Usefulness of Pagefile.sys Backup Storage</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/discover-the-best-free-media-player-options-for-pc-windows-1087-edition/"><u>Discover the Best Free Media Player Options for PC: Windows 10/8/7 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/end-hibernation-hurdles-with-easy-fixes-for-win/"><u>End Hibernation Hurdles with Easy Fixes for Win</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-se-2020-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone SE (2020) when Phone is Broken? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-friendly.techidaily.com/in-2024-2022-beijing-games-a-chilly-snapshot/"><u>In 2024, 2022 Beijing Games A Chilly Snapshot</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-package-open-failures-in-win11win10-systems/"><u>Navigating Package Open Failures in Win11/Win10 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/regain-control-fixing-wi-fi-mouse-malfunctions-in-windows/"><u>Regain Control: Fixing Wi-Fi Mouse Malfunctions in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-network-link-disruptions-in-winmc-minecraft/"><u>Tackling Network Link Disruptions in WinMC Minecraft</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-studio.techidaily.com/troubleshooting-your-dead-screen-a-step-by-step-solution-by-yl-software-for-when-your-monitor-wont-turn-on/"><u>Troubleshooting Your Dead Screen: A Step-by-Step Solution by YL Software for When Your Monitor Won’t Turn On</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/unleashing-potential-in-slow-motion-video-capture-with-gopro-hero-10/"><u>Unleashing Potential in Slow-Motion Video Capture with GoPro Hero 10</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-links.techidaily.com/updated-rapid-fire-creation-of-google-collage-photos/"><u>[Updated] Rapid-Fire Creation of Google Collage Photos</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-lessons.techidaily.com/cutting-edge-cameras-top-15-picks-innovation/"><u>Cutting-Edge Cameras Top 15 Picks Innovation</u></a></li>
+<li><a href="https://win11.techidaily.com/does-your-system-qualify-for-next-gen-windows-11/"><u>Does Your System Qualify for Next-Gen Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-users-to-restore-window-11-search-functions/"><u>Guiding Users to Restore Window 11 Search Functions</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://techidaily.com/how-to-downgrade-apple-iphone-7-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-erroneous-cpu-usage-displayed-by-windows-pc/"><u>How to Rectify Erroneous CPU Usage Displayed by Windows PC</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-that.techidaily.com/how-to-troubleshoot-when-your-iphone-displays-sos-on-the-status-bar-top-solutions/"><u>How to Troubleshoot When Your iPhone Displays 'SOS' On the Status Bar - Top Solutions</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-techniques.techidaily.com/htc-vive-a-gateway-to-extraordinary-virtual-realms-for-2024/"><u>HTC Vive A Gateway to Extraordinary Virtual Realms for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-poco-x6-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Poco X6 Phones with/without a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-display-problem-w11-error-code-x0001/"><u>Mending Display Problem: W11 Error Code X0001</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-fatal-0xf0831-problem-with-ease/"><u>Overcoming Windows' Fatal 0XF0831 Problem with Ease</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Realme V30T | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://buynow-reviews.techidaily.com/unpacking-the-pioneer-bdr-xd05b-key-drawbacks-in-its-blue-ray-burning-system-revealed/"><u>Unpacking the Pioneer BDR-XD05B - Key Drawbacks in Its Blue-Ray Burning System Revealed!</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-device-checkup-the-essential-five-ways-to-monitor-availability/"><u>Windows 11 Device Checkup: The Essential Five Ways to Monitor Availability</u></a></li>
 </ul></div>
 
 
@@ -887,11 +888,11 @@
         <li><strong>Title:</strong> Sudo and Windows: A Symbiotic Relationship Unveiled</li>
         <li><strong>Author:</strong> David</li>
         <li><strong>Created at
-                :</strong> 2025-01-16 19:18:28</li>
+                :</strong> 2025-01-20 06:10:21</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-01-18 18:51:03
+                    :</strong> 2025-01-24 17:02:02
             </li>
         
         <li>
@@ -935,13 +936,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/fixing-error-code-0x80070522-secure-privilege-protocol-in-windows/"
+                        href="/crafting-a-resilient-plan-for-game-data-longevity/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Fixing Error Code 0X80070522: Secure Privilege Protocol in Windows</span>
+                                <span class="post-nav-title-item">Crafting a Resilient Plan for Game Data Longevity</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -951,10 +952,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/resolving-0x80070194-on-onedrive-and-windows-oses/"
+                        href="/lowering-resource-demand-from-unrealcefsubprocess-for-better-performance/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Resolving 0X80070194 on OneDrive &amp; Windows OSes</span>
+                                <span class="post-nav-title-item">Lowering Resource Demand From UnrealCEFSubprocess for Better Performance</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
