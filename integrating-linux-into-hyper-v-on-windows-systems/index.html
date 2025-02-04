@@ -33,8 +33,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-3.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-4.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/ubuntu-virtual-machine-running-using-hyper-v.jpg">
-<meta property="article:published_time" content="2025-01-20T11:50:42.930Z">
-<meta property="article:modified_time" content="2025-01-24T13:54:24.197Z">
+<meta property="article:published_time" content="2025-01-28T11:48:26.642Z">
+<meta property="article:modified_time" content="2025-02-03T09:02:42.338Z">
 <meta property="article:author" content="David">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -720,15 +720,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2025-01-20 19:50:42</span>
-        <span class="mobile">2025-01-20 19:50:42</span>
+        <span class="desktop">2025-01-28 19:48:26</span>
+        <span class="mobile">2025-01-28 19:48:26</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-01-24 21:54:24</span>
-            <span class="mobile">2025-01-24 21:54:24</span>
+            <span class="desktop">2025-02-03 17:02:42</span>
+            <span class="mobile">2025-02-03 17:02:42</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -802,7 +802,7 @@
 <p> Make sure to dedicate an adequate amount of hardware resources to the virtual machine. The reason behind this is that you will try to run a virtual machine inside a virtual machine. So, the Windows virtual machine can dedicate only a portion of its resources to running a Linux virtual machine using Hyper-V. We tested this using a Windows 11 system with 16GB of RAM and an eight-core AMD processor.</p>
 <p> Also, update the VMware Workstation Player to the latest version before you begin the installation method.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="How-to-Create-a-Linux-Virtual-Machine-Inside-Windows-Virtual-Machine-Using-Hyper-V"><a href="#How-to-Create-a-Linux-Virtual-Machine-Inside-Windows-Virtual-Machine-Using-Hyper-V" class="headerlink" title="How to Create a Linux Virtual Machine Inside Windows Virtual Machine Using Hyper-V"></a>How to Create a Linux Virtual Machine Inside Windows Virtual Machine Using Hyper-V</h2><p> We will break the steps into three parts. Firstly, you must enable the virtualization features for the Windows virtual machine. Then you need to enable Hyper-V on this virtual machine. Lastly, you need to create a Linux virtual machine using Hyper-V.</p>
@@ -819,15 +819,7 @@
                 ></li>
 <li>Click on the<strong>OK</strong> button to apply changes.</li>
 </ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> Virtualization features are now active for the above Windows virtual machine. Next, you need to install Hyper-V.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h3 id="2-Install-Hyper-V-on-the-Windows-Virtual-Machine"><a href="#2-Install-Hyper-V-on-the-Windows-Virtual-Machine" class="headerlink" title="2. Install Hyper-V on the Windows Virtual Machine"></a>2. Install Hyper-V on the Windows Virtual Machine</h3><p> To install Hyper-V on the VMware Windows virtual machine, repeat the following steps.</p>
 <ol>
 <li><p>Launch the VMware app on your system. Double-click on the Windows virtual machine to boot it up.</p>
@@ -854,17 +846,20 @@
 <h3 id="3-Create-a-Linux-Virtual-Machine-Using-Hyper-V"><a href="#3-Create-a-Linux-Virtual-Machine-Using-Hyper-V" class="headerlink" title="3. Create a Linux Virtual Machine Using Hyper-V"></a>3. Create a Linux Virtual Machine Using Hyper-V</h3><p> The last piece of the puzzle is to create a Linux virtual machine inside the Windows virtual machine using Hyper-V. You can pick any Linux distribution that you want. We will go with Ubuntu for this experiment. You have to download the Ubuntu ISO file inside the virtual machine from the<a class="link"   target="_blank" rel="noopener" href="https://ubuntu.com/download/desktop" >Ubuntu website <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> before starting with the steps.</p>
 <p>To create an Ubuntu virtual machine, do as follows:</p>
 <ol>
-<li><p>Boot up the Windows virtual machine. Press the<strong>Win key</strong> and type Hyper-V manager. Launch the app.</p>
-</li>
-<li><p>Navigate to the right-hand side section and click on<strong>New &gt; Virtual Machine</strong> .<br><img  
+<li>Boot up the Windows virtual machine. Press the<strong>Win key</strong> and type Hyper-V manager. Launch the app.</li>
+<li>Navigate to the right-hand side section and click on<strong>New &gt; Virtual Machine</strong> .<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-1.jpg"
                       alt="Create a Linux Virtual Machine Using Hyper-V 1"
-                ></p>
-</li>
-<li><p>Click on the<strong>Next</strong> button. Enter the name of the virtual machine and click on<strong>Next</strong> .</p>
-</li>
+                ></li>
+<li>Click on the<strong>Next</strong> button. Enter the name of the virtual machine and click on<strong>Next</strong> .</li>
+</ol>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<ol start="4">
 <li><p>Click on the<strong>Generation 1</strong> radio button and click on Next.</p>
 </li>
 <li><p>Keep the<strong>Startup Memory</strong> as<strong>2GB</strong> and enable the<strong>Use Dynamic memory for this virtual machine</strong> option.<br><img  
@@ -887,7 +882,7 @@
 </li>
 </ol>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p><img  
@@ -912,11 +907,15 @@
                 ></li>
 </ol>
 <p> The virtual machine will boot to the Ubuntu desktop. You can use Ubuntu and notice that the system runs fine inside Hyper-V just like it does on any other virtualization software.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="A-Few-Things-to-Remember"><a href="#A-Few-Things-to-Remember" class="headerlink" title="A Few Things to Remember"></a>A Few Things to Remember</h2><p> Creating a virtual machine inside a virtual machine is possible. But you have to remember that the underlying configuration of the host system must be such that it can run a virtual machine inside a virtual machine without any issue. If you attempt this experiment on a low-end system with 4GB RAM and a dual-core processor, it will choke the system.</p>
 <p> So, you need to use a system that can devote ample hardware resources to the Windows virtual machine. Only, then you would be able to use Hyper-V and create a Linux virtual machine and allocate run it without any issues. After you try our Ubuntu using Hyper-V, you can power off the virtual machine. Or you can take the extra step and delete the virtual machine from Hyper-V Manager. It will free up a lot of space inside the Windows virtual machine.</p>
 <p> Also, uninstall the Hyper-V feature if you don’t need it any further in your Windows virtual machine. Check out our guide on<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-disable-hyper-v/" >how to disable or remove Hyper-V in Windows 11 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more information.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Use-Virtual-Machine-Inside-a-Virtual-Machine-With-Hyper-V"><a href="#Use-Virtual-Machine-Inside-a-Virtual-Machine-With-Hyper-V" class="headerlink" title="Use Virtual Machine Inside a Virtual Machine With Hyper-V"></a>Use Virtual Machine Inside a Virtual Machine With Hyper-V</h2><p> VMware supports hardware virtualization and can extend the feature to its virtual machines. VirtualBox is yet to catch up in this aspect because Hyper-V doesn’t work in a VirtualBox virtual machine as of writing this post. Make sure that you turn off virtualization features for the Windows virtual machine when you no longer need it.</p>
@@ -933,20 +932,16 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://some-knowledge.techidaily.com/new-how-to-master-every-feature-of-periscope/"><u>[New] How to Master Every Feature of Periscope</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-remarkable.techidaily.com/1728495490703-202/"><u>掌握202#新記憶卡回收法：簡易遵循指引的方式</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/comprehensive-analysis-mastering-video-production-with-xmedia-suite/"><u>Comprehensive Analysis Mastering Video Production with XMedia Suite</u></a></li>
-<li><a href="https://win11.techidaily.com/exciting-laptop-releases-at-ifa-2023/"><u>Exciting Laptop Releases at IFA 2023</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-webster.techidaily.com/cial-fortitude-for-youtubers-beyond-basic-earnings/"><u>Financial Fortitude for YouTubers Beyond Basic Earnings</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-helps.techidaily.com/in-2024-sony-ps-players-voice-modification-techniques/"><u>In 2024, Sony PS Players' Voice Modification Techniques</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-oppo-a58-4g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Oppo A58 4G Device</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-advanced-visuals-within-edges-security/"><u>Mastering Advanced Visuals Within Edge's Security</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tiktok-clips.techidaily.com/navigating-the-copyright-seas-before-posting-on-tiktok-for-2024/"><u>Navigating the Copyright Seas Before Posting on TikTok for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/re-enabling-disabled-recycle-bin-on-win11/"><u>Re-Enabling Disabled Recycle Bin on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-windows-not-found-entry-point-errors/"><u>Rectifying Windows 'Not Found' Entry Point Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/removing-restrictions-for-microsoft-store-in-windows-11/"><u>Removing Restrictions for Microsoft Store in Windows 11</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-setup-effortless-installation-of-legacy-applications/"><u>Windows 11 Setup: Effortless Installation of Legacy Applications</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-approaches.techidaily.com/15-best-ways-to-watch-nba-live-stream-for-2024/"><u>15 Best Ways To Watch NBA Live Stream for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-savvy.techidaily.com/distinguishing-true-insights-from-ai-fabrications/"><u>Distinguishing True Insights From AI Fabrications</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-boxes.techidaily.com/in-2024-your-step-by-step-kinemaster-meme-creation/"><u>In 2024, Your Step-by-Step KineMaster Meme Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-ctrlplustab-minimizing-programs-to-system-tray-quickly/"><u>Mastering Ctrl+Tab: Minimizing Programs to System Tray Quickly</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-haven.techidaily.com/multi-channel-earnings-from-tech-tips-to-game-archives/"><u>Multi-Channel Earnings: From Tech Tips to Game Archives</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://network-issues.techidaily.com/overcoming-installer-obstacles-for-nvidia/"><u>Overcoming Installer Obstacles for NVIDIA</u></a></li>
+<li><a href="https://win11.techidaily.com/realigning-context-menus-a-windows-users-guide/"><u>Realigning Context Menus: A Windows User's Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-the-dll-loading-problem-in-steamui/"><u>Rectifying the DLL Loading Problem in SteamUI</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-windows-11-snip-and-sketch-command/"><u>Unlock Windows 11 Snip & Sketch Command</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-data.techidaily.com/king-the-secrets-of-successful-youtube-collaborations/"><u>Unlocking the Secrets of Successful YouTube Collaborations</u></a></li>
 </ul></div>
 
 
@@ -959,11 +954,11 @@
         <li><strong>Title:</strong> Integrating Linux Into Hyper-V on Windows Systems</li>
         <li><strong>Author:</strong> David</li>
         <li><strong>Created at
-                :</strong> 2025-01-20 19:50:42</li>
+                :</strong> 2025-01-28 19:48:26</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-01-24 21:54:24
+                    :</strong> 2025-02-03 17:02:42
             </li>
         
         <li>
@@ -1007,13 +1002,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/win-sound-troubleshooting-overcoming-silence-hurdles/"
+                        href="/correcting-no-installed-devices-in-windows-os/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Win Sound Troubleshooting: Overcoming Silence Hurdles</span>
+                                <span class="post-nav-title-item">Correcting &#39;No Installed Devices&#39; In Windows OS</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1023,10 +1018,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/elevating-your-pcs-gaming-win-11-edition-a-guide-to-7-tips/"
+                        href="/master-the-art-of-fixing-closed-captions-in-windows-10/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Elevating Your PC&#39;s Gaming: Win 11 Edition - A Guide to 7 Tips</span>
+                                <span class="post-nav-title-item">Master the Art of Fixing Closed Captions in Windows 10</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
