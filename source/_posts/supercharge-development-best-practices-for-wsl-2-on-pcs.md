@@ -1,7 +1,7 @@
 ---
 title: "Supercharge Development: Best Practices for WSL 2 on PCs"
-date: 2025-01-18T09:56:39.670Z
-updated: 2025-01-25T09:29:51.641Z
+date: 2025-01-29T18:02:51.833Z
+updated: 2025-02-03T18:58:40.102Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/0e07053ee64fa15ad5d79e86651cfe492e77f4718
 
  In addition to being able to operate the Linux terminal, Windows users can even[run Linux GUI applications with WSL 2 on Windows](https://www.makeuseof.com/how-to-run-linux-gui-apps-with-wsl2/) with improved support for file I/O performance and OS functionality.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Does the Windows Subsystem for Linux Benefit Developers?
 
 ![A laptop sitting on a desk with code open on the screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/laptop-with-code-on-the-screen.jpg)
@@ -55,6 +51,10 @@ Here are some of the other important WSL 2 benefits for developers:
 
  For users new to WSL 2, following the best practices to establish an efficient workflow is essential. On the other hand, if you’re already familiar with WSL 2, these tips will help ensure you’re being as productive as possible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Windows Terminal
 
  The all-new Windows Terminal is a powerful open-source terminal from the Microsoft Store. Microsoft has designed the Windows Terminal to integrate the WSL 2 directly and automatically configure any Linux distributions as soon as they’re installed. This means you can easily switch between Windows and Linux without having to set up a different environment.
@@ -62,7 +62,7 @@ Here are some of the other important WSL 2 benefits for developers:
 ![The Open a new tab menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-shell-options-in-windows-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Windows Terminal can support multiple shells, such as PowerShell, WSL 2, and Command Prompt. It also offers several productivity features, including multiple tabs, a search bar, and split panes; you can even customize the terminal’s appearance to your liking.
@@ -74,16 +74,12 @@ Here are some of the other important WSL 2 benefits for developers:
 ![Code in VSCode on laptop sitting on the ground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Code-on-Laptop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Many developers rely on VS Code, an incredibly versatile IDE (code editor). It offers an integrated terminal, extension support, and has an intuitive interface that is super–customizable. If you’re using WSL 2 for development, you want to integrate WSL 2 with Visual Studio Code for a smooth workflow.
 
  You can use VS Code with WSL 2 by ensuring you have Visual Studio Code and a WSL 2 Linux distribution on your Windows system. You can install the**Remote - WSL** extension in Visual Studio Code and configure it according to your requirements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Set Up Multiple Profiles
 
@@ -92,7 +88,7 @@ Here are some of the other important WSL 2 benefits for developers:
  One method to set up multiple profiles is to use the Windows Terminal; once you’ve got it installed on your Windows 10 or 11 PC, navigate to**Settings > Profiles > Add** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Update Packages
@@ -106,6 +102,10 @@ Here are some of the other important WSL 2 benefits for developers:
 ## 5\. Run Containers With Docker
 
 ![ubuntu running as a docker container](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/running-_ubunut_in_docker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Docker is an open-source platform that allows developers to efficiently build, deploy and run their applications within a container. All dependencies are bundled up so your project can easily be deployed in any environment.
 
@@ -130,22 +130,14 @@ Here are some of the other important WSL 2 benefits for developers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-setting-up-audio-on-modern-windows-10/"><u>[New] In 2024, Setting Up Audio on Modern Windows 10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-instant-transcription-absolutely-complimentary/"><u>[New] Instant Transcription, Absolutely Complimentary</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unlocking-igtv-potential-tips-and-strategies-for-2024/"><u>[New] Unlocking IGTV Potential Tips & Strategies for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2023s-leading-platforms-for-picture-frame-adjustment-techniques/"><u>[Updated] 2023'S Leading Platforms for Picture Frame Adjustment Techniques</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-playful-escape-the-ultimate-relief-list-for-2024/"><u>[Updated] Playful Escape The Ultimate Relief List for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/final-opportunity-snag-the-oculus-quest-2-at-a-steal-just-199-away-check-it-out-on-zdnet/"><u>Final Opportunity: Snag the Oculus Quest 2 at a Steal - Just $199 Away! Check It Out on ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-y100-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo Y100 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/intuitive-shorthand-for-power-buttons-on-modern-windows-11/"><u>Intuitive Shorthand for Power Buttons on Modern Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-ssd-capabilities-integrate-windows-and-fresh-optimization/"><u>Maximize SSD Capabilities: Integrate Windows & Fresh Optimization</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-your-valorant-download-speed-with-ease/"><u>Maximize Your Valorant Download Speed with Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/pivotal-factors-to-keep-in-mind-for-reinstalling-windows/"><u>Pivotal Factors to Keep in Mind for Reinstalling Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-faulty-input-devices-on-a-windows-system/"><u>Resolving Faulty Input Devices on a Windows System</u></a></li>
-<li><a href="https://win11.techidaily.com/shut-off-windows-11-notifications-swiftly/"><u>Shut Off Windows 11 Notifications Swiftly</u></a></li>
-<li><a href="https://extra-information.techidaily.com/taking-your-aerial-game-to-new-heights-with-dji-spark-reviewed/"><u>Taking Your Aerial Game to New Heights with DJI Spark Reviewed</u></a></li>
-<li><a href="https://article-posts.techidaily.com/toolwiz-photosapp-overview-a-complete-analysis-and-future-prospects/"><u>Toolwiz PhotosApp Overview - A Complete Analysis and Future Prospects</u></a></li>
-<li><a href="https://win11.techidaily.com/uncover-windows-11-wallpaper-location-secret/"><u>Uncover Windows 11 Wallpaper Location Secret</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-secrets-to-theme-and-font-control-in-windows-11-notepad/"><u>Unveiling the Secrets to Theme and Font Control in Windows 11 Notepad</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-decoding-the-top-5-transformative-social-updates/"><u>[New] Decoding the Top 5 Transformative Social Updates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-bridging-the-gap-incorrancing-youtube-links-within-presentation-software/"><u>[New] In 2024, Bridging the Gap Incorrancing YouTube Links Within Presentation Software</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-top-10-websites-for-sky-hdr-images/"><u>[New] Top 10 Websites for Sky HDR Images</u></a></li>
+<li><a href="https://fox-links.techidaily.com/capturing-the-illusion-iphone-tricks-for-reflection-photography-for-2024/"><u>Capturing the Illusion IPhone Tricks for Reflection Photography for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/get-direct-access-to-your-assistive-tools-in-windows/"><u>Get Direct Access to Your Assistive Tools in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-conjure-imagination-in-ai-art-forms-using-paint-cocreator-and-windows-11/"><u>How to Conjure Imagination in AI Art Forms Using Paint Cocreator and Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-virtual-meetups-made-simple-setting-up-video-calls-with-whatsapp-on-your-laptop/"><u>In 2024, Virtual Meetups Made Simple Setting up Video Calls with WhatsApp on Your Laptop</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-virtualization-hyper-v-setup-for-win11/"><u>Mastering Virtualization: Hyper-V Setup for Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/supercharge-your-windows-11-search-with-these-top-tips/"><u>Supercharge Your Windows 11 Search with These Top Tips</u></a></li>
 </ul></div>
 

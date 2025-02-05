@@ -1,7 +1,7 @@
 ---
 title: Shifting Control Rights for Common Windows Accounts
-date: 2025-01-18T06:18:34.082Z
-updated: 2025-01-25T07:55:11.535Z
+date: 2025-01-29T16:27:40.491Z
+updated: 2025-02-04T04:32:48.945Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 
  The default UAC behavior for standard user accounts is **Prompt for credentials**, but Microsoft recommends you change it to **Automatically deny elevation requests**. That way, only users with administrator accounts can decide how the UAC behaves and make choices that will keep the computer safe.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change the UAC Behavior for Standard Users in the Local Group Policy Editor
 
  The easiest way to change the way UAC behaves for standard users is to tweak the **User Account Control: Behavior of the elevation prompt for standard users** policy. To do that, [open the Local Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) and follow the steps below.
@@ -46,15 +50,11 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 ![modifying the policy for UAC behavior in Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modifying-policy-for-uac-behavior-in-local-group-policy-editor.jpg)
 3. Expand the dropdown and choose a different UAC behavior.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![editing the policy for UAC behavior in Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/editing-policy-for-uac-behavior-in-local-group-policy-editor.jpg)
 4. Click **OK**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Keep in mind that only administrators can change the behavior of the UAC. If a standard user tried to change it using the Local Group Policy Editor, for example, they'd probably get an **Access denied** error message.
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 2. Press **Enter** on your keyboard to go to the **System** key.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Right-click the **ConsentPromptBehaviorUser** value in the right panel and select **Modify**.  
@@ -78,14 +78,14 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 4. In the **Value data** text box, enter **0** for **Automatically deny elevation requests**, **1** for **Prompt for credentials on the secure desktop**, or **3** for **Prompt for credentials**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![setting Value data for ConsentPromptbehavior Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/setting-value-data-for-consentpromptbehavior-registry-editor.jpg)
 5. Click **OK**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now restart your computer to allow the changes to take effect.
@@ -106,20 +106,18 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-guerrilla-mic-guide-top-chip-selection-on-a-shoestring-for-2024/"><u>[Updated] Guerrilla Mic Guide Top Chip Selection on a Shoestring for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-ultimate-showdown-of-projectors-and-tvs-in-a-4k-setting/"><u>[Updated] The Ultimate Showdown of Projectors & TVs in a 4K Setting</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-video-capturing-essentials-top-8-apps-for-windows-users-for-2024/"><u>[Updated] Video Capturing Essentials Top 8 Apps for Windows Users for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastering-pc-games-screenshots-top-6-methods/"><u>2024 Approved Mastering PC Games Screenshots Top 6 Methods</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/accelerate-creativity-in-photo-editing-using-pixlr/"><u>Accelerate Creativity in Photo Editing Using Pixlr</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-11-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-vivo-t2-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo T2 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/losungsansatze-fur-die-fehlfunktion-der-vorlagen-signatur-in-microsoft-outlook/"><u>Lösungsansätze Für Die Fehlfunktion Der Vorlagen-Signatur in Microsoft Outlook</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-error-correction-windows-11-wow-mishaps/"><u>Mastering Error Correction: Windows 11 WoW Mishaps</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-speech-to-text-the-whisper-desktop-way/"><u>Mastering Speech-to-Text: The Whisper Desktop Way</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-cmd-prompt-lack-of-admin-privileges/"><u>Resolving Cmd Prompt Lack of Admin Privileges</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-installing-kali-into-your-windows-ecosystem/"><u>Step by Step: Installing Kali Into Your Windows Ecosystem</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-setting-up-and-using-microsofts-code-assistant/"><u>Step-by-Step: Setting Up and Using Microsoft's Code Assistant</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-camera-non-storage-feedback/"><u>Tackling Windows Camera Non-Storage Feedback</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-workflow-efficiency-mastering-flow-launcher-basics/"><u>Transform Workflow Efficiency: Mastering Flow Launcher Basics</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-unlocking-your-creative-potential-style-and-niche/"><u>[Updated] In 2024, Unlocking Your Creative Potential Style & Niche</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-a-comprehensive-look-at-benq-sw320s-4k-features/"><u>2024 Approved A Comprehensive Look at BenQ SW320's 4K Features</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boosting-views-essential-hashtags-for-trending-shorts-for-2024/"><u>Boosting Views Essential Hashtags for Trending Shorts for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chronology-conundrum-best-podcast-times-for-2024/"><u>Chronology Conundrum Best Podcast Times for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-delete-visual-fluff-from-win-search-ui/"><u>How to Delete Visual Fluff From Win Search UI</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-smooth-cuts-ahead-3-ways-to-master-transitions-in-fcp/"><u>New In 2024, Smooth Cuts Ahead 3 Ways to Master Transitions in FCP</u></a></li>
+<li><a href="https://win11.techidaily.com/notepadnightvisionswitchtutorialwin1011/"><u>NotepadNightVisionSwitchTutorialWin10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/sync-your-swat-team-tips-to-stop-mouse-delay-in-bf2/"><u>Sync Your Swat Team: Tips to Stop Mouse Delay in BF2</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-tips-resolving-win-access-denials-swiftly/"><u>Tech Tips: Resolving Win Access Denials Swiftly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-complete-2023-bandicam-insight-and-tips-for-2024/"><u>The Complete 2023 Bandicam Insight & Tips for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-news/"><u>Tom's Tech Insights: In-Depth Reviews and News</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-the-lamicall-ss-innovative-features-in-this-thoughtful-tablet-mount-review/"><u>Unboxing the Lamicall S's Innovative Features in This Thoughtful Tablet Mount Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/unveiling-srts-potential-in-subtitle-format-sub-for-2024/"><u>Unveiling SRT's Potential in Subtitle Format (SUB) for 2024</u></a></li>
 </ul></div>
 

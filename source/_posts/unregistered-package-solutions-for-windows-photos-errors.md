@@ -1,7 +1,7 @@
 ---
 title: Unregistered Package Solutions for Windows Photos Errors
-date: 2025-01-22T06:59:00.317Z
-updated: 2025-01-25T08:55:28.887Z
+date: 2025-01-31T23:05:40.627Z
+updated: 2025-02-03T16:25:35.556Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Windows Store Apps Troubleshooter
 
  Start your error troubleshooting with a troubleshooter for UWP apps on Microsoft Store. Windows Store Apps is a troubleshooter that could identify and resolve an issue with the Photos app. These are the steps for running that troubleshooter in Windows 11:
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-store-apps-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The same troubleshooter is also available within Windows 10’s Settings app. To access it, click the**Update & Security** category and**Troubleshoot** tab. Then you can select**Additional troubleshooters** to bring up the list of troubleshooting tools.
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 4. Wait for the Photos app update to finish before closing Microsoft Store.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Repair and Reset the Photos Apps
@@ -78,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
  Run the Deployment Image Servicing Management scan command before the System File Checker tool. Leave the Command Prompt open until it shows a Windows Resource Protection message for the SFC scan. If it says Windows Resource Protection repaired files, this resolution might have resolved the “Package could not be registered” error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Reinstall Photos
 
  If the “Package could not be registered” error persists after applying the resolutions above, you might need to reinstall Photos to fix it. This solution is the most likely one to fix a corrupted Photos app. You can uninstall and reinstall Photos with PowerShell like this:
@@ -93,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 4. Restart your PC after reinstalling Photos.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Reset Windows
@@ -102,11 +102,11 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-reset-this-pc-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is suggested as a last resort because you’ll need to reinstall third-party software installed before resetting Windows. However, you can select to keep user files such as photos, documents, videos, etc. Our[guide to resetting Windows 10 and 11](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) tells you how to perform a factory reset.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Your Images in Photos Again
 
@@ -127,19 +127,19 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-earning-by-critiquing-goodies-a-youtube-guide-for-2024/"><u>[Updated] Earning by Critiquing Goodies A YouTube Guide for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-zombies-unleashed-a-curated-list-for-2024/"><u>[Updated] Essential Zombies Unleashed A Curated List for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-take-control-how-to-involve-yourself-in-a-friends-live-on-tiktok-for-2024/"><u>[Updated] Take Control How to Involve Yourself in a Friend's Live on TikTok for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-your-first-steps-in-high-quality-youtubing/"><u>2024 Approved Your First Steps in High-Quality YouTubing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-latest-bard-ai-enhancements-revealed-at-google-io-2023-the-ultimate-list-of-7-features/"><u>Discover the Latest BARD AI Enhancements Revealed at Google I/O 2023: The Ultimate List of 7 Features</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-airflow-for-windows-11-gadgets/"><u>Enhancing Airflow for Windows 11 Gadgets</u></a></li>
-<li><a href="https://win11.techidaily.com/formulating-enduring-file-disposal-strategies-on-windows-systems/"><u>Formulating Enduring File Disposal Strategies on Windows Systems</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-depth-analysis-of-vsdcs-features-and-its-best-software-rival/"><u>In-Depth Analysis of VSDC's Features and Its Best Software Rival</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-samsung-galaxy-z-fold-5-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy Z Fold 5? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-access-unlocking-your-os-control-panel/"><u>Quick Access: Unlocking Your OS Control Panel</u></a></li>
-<li><a href="https://win11.techidaily.com/remedies-for-low-memory-indicators-in-windows-based-vmware/"><u>Remedies for Low Memory Indicators in Windows-Based VmWare</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-fixing-no-data-usb-devices-in-microsoft-systems/"><u>Strategies for Fixing No-Data USB Devices in Microsoft Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/synapse-stuck-easy-fixes-for-w11w10-users/"><u>Synapse Stuck? Easy Fixes for W11/W10 Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/techniques-to-soften-volume-peaks-in-lumafusion-for-2024/"><u>Techniques to Soften Volume Peaks in Lumafusion for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-outer-worlds-action-packed-humorous-space-odyssey-tailored-for-gamers/"><u>'The Outer Worlds': Action-Packed, Humorous Space Odyssey Tailored for Gamers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-swiftly-overcome-video-send-errors-in-facebook-chat-for-iphones-android/"><u>[New] In 2024, Swiftly Overcome Video Send Errors in Facebook Chat for iPhones, Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-nighttime-narratives-in-pixels/"><u>[New] Nighttime Narratives in Pixels</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-leading-5-drones-the-ultimate-professional-buy-guide/"><u>[Updated] In 2024, Leading 5 Drones - The Ultimate Professional Buy Guide</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-lenovo-x220-drivers-made-simple-with-this-handy-how-to-guide/"><u>Download Lenovo X220 Drivers Made Simple with This Handy How-To Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-windows-11-update-error-0x80246007/"><u>How To Overcome Windows 11 Update Error 0X80246007</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-13-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 13 to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-reminders-seamlessly-in-windows-os/"><u>Integrating Reminders Seamlessly in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/master-plan-to-navigate-through-onedrive-error-messages/"><u>Master Plan to Navigate Through OneDrive Error Messages</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-eradicating-windows-mail-problem-0x80072746/"><u>Quick Guide: Eradicating Windows Mail Problem 0X80072746</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-workflow-batch-files-via-task-scheduler/"><u>Streamlining Your Workflow: Batch Files via Task Scheduler</u></a></li>
 </ul></div>
 

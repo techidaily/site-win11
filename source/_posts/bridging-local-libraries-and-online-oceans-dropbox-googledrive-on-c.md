@@ -1,7 +1,7 @@
 ---
 title: "Bridging Local Libraries & Online Oceans: Dropbox, GoogleDrive on C:/"
-date: 2024-07-29T15:56:04.072Z
-updated: 2024-07-30T15:56:04.072Z
+date: 2025-01-29T22:28:39.236Z
+updated: 2025-02-04T09:21:40.592Z
 tags:
   - windows10
   - windows11
@@ -46,23 +46,19 @@ thumbnail: https://thmb.techidaily.com/1b6976dc536a482a8440b6155a5c6ffdb602672c2
  Let's see how Google Drive fails to offer proper access to its local folder through a letter.
 
 1. Right-click on **Google Drive's icon** on the tray, click on the **cog icon** on the top right to access its menu and choose **Preferences**. Click on the **cog icon** in Google Drive Preferences window to access your account's settings. Ensure there's a drive letter assigned to your Google Drive.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![Google Drive Settings Drive Letter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-drive-settings-drive-letter.jpg)
 2. Visit the actual **drive letter** through any file manager and wonder how there's a "My Drive" folder instead of your files.  
 ![Google Drive Actual Drive Letter Contents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-drive-actual-drive-letter-contents.jpg)
 3. Try "entering" that folder and marvel at how the **path** changes to the true one where Google Drive's folder is stored, potentially breaking some apps.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Google Drive True Folder Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-drive-true-folder-path.jpg)
 
  Now, let's fix, or rather "sidestep" this little issue by exploiting how network folders work on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## How to Set Up Windows Shared Folders
 
  The first part of the process will be "sharing" the actual folder used by the cloud storage service that we want to access directly from a drive. Don't worry; you won't be sharing anything with anyone (apart from the cloud service provider where you already keep your files).
@@ -72,16 +68,18 @@ thumbnail: https://thmb.techidaily.com/1b6976dc536a482a8440b6155a5c6ffdb602672c2
 1. Run your favorite file manager and visit the path "directly above" your cloud storage folder (so that you can see it in your file manager).  
 ![Dropbox Folder In Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-in-windows-explorer.jpg)
 2. Right-click on the folder and choose **Properties**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Dropbox Folder Windows Explorer Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-windows-explorer-properties.jpg)
 3. Move to the **Sharing** tab and enable sharing for your folder. If you need help, check our guide on [how to access shared folders on Windows](https://www.makeuseof.com/unable-to-access-shared-folder-windows/).  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Dropbox Folder Windows Explorer Properties Sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-windows-explorer-properties-sharing.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Assign Letters to “Networked” Cloud Storage Folders
 
@@ -92,20 +90,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 1. Type "**\\\\localhost**" in your file manager's location bar to see all the shared folders on your local PC. Among them should be your newly shared cloud storage folder.  
 ![Windows Explorer Localhost Shared Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-localhost-shared-folders.jpg)
 2. Right-click on it and choose **Map network drive**.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Windows Explorer Localhost Shared Folders Menu Map Network Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-localhost-shared-folders-menu-map-network-drive.jpg)
 3. Choose the **letter** you want to assign to your cloud storage folder from the drop-down menu next to **Drive**. Click **Finish** to apply the change.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows Explorer Map Network Drive Letter Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-map-network-drive-letter-selection.jpg)
 4. Visit your "new drive" using the letter you assigned, and you should have direct access to your cloud storage's contents.  
 ![Windows Explorer Direct Access To Dropbox Folder From Letter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-direct-access-to-dropbox-folder-from-letter.jpg)
 
  The above implies that you'll set up your cloud storage client to fully sync all files and folders/keep them stored locally.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What About Using Subst?
 
  You may wonder why we didn't go with subst for this guide. Indeed, subst is so useful that we've made sure to include it on our list of [the essential Windows CMD commands you should know](https://www.makeuseof.com/tag/essential-windows-cmd-commands/). But what is it, how can it help, and how do you use it?
@@ -121,8 +123,9 @@ subst Z: "C:\Cloud Drives\Dropbox"
  After that, your folder should be accessible from the drive you assigned to it. If the change isn't apparent immediately, log off and back on or restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A Local Folder for Your Cloud Storage on Windows
 
  Thanks to Microsoft's somewhat square logic of "if it's a shared folder, you can map it, no matter where it is", it's easy to access your cloud storage folders directly from a drive letter. All it takes is to share them with yourself!
@@ -133,11 +136,30 @@ subst Z: "C:\Cloud Drives\Dropbox"
 
  That's why you can find extra third-party tools that assist in using cloud storage "as a normal drive". For this article, though, we'll do the same by exploiting Windows' built-in shared folders functionality!
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-digital-content-broadcast-via-microsoft-streamer-for-2024/"><u>[New] Digital Content Broadcast via Microsoft Streamer for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-flawless-underwater-images-easily-in-7-steps/"><u>2024 Approved Capture Flawless Underwater Images Easily in 7 Steps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-isolate-subject-a-step-by-step-guide-to-clear-borders/"><u>2024 Approved Isolate Subject – A Step-by-Step Guide to Clear Borders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-proper-techniques-for-easy-iphone-screen-recording/"><u>2024 Approved Proper Techniques for Easy iPhone Screen Recording</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-to-overcome-nwstoreexe-program-malfunction/"><u>Effective Solutions to Overcome nw_store.exe Program Malfunction</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-digital-conversion-how-to-upgrade-doobie-brothers-dvds-to-modern-mp4-and-mp3-formats/"><u>Effortless Digital Conversion: How to Upgrade Doobie Brothers DVDs to Modern MP4 and MP3 Formats</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-methods-mastering-the-playback-of-ogm-format-videos/"><u>Effortless Methods: Mastering the Playback of OGM Format Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-truth-behind-wlmp-to-mp3-converters-do-they-actually-work/"><u>Exploring the Truth Behind WLMP to MP3 Converters - Do They Actually Work?</u></a></li>
+<li><a href="https://win11.techidaily.com/free-unlimited-online-conversion-transforming-flv-files-into-mp4-format/"><u>Free Unlimited Online Conversion: Transforming FLV Files Into MP4 Format</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-seamlessly-add-presentations-to-youtube-at-no-cost-audio-optional/"><u>Guide to Seamlessly Add Presentations to YouTube at No Cost - Audio Optional</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-successful-video-streaming-on-google-chrome/"><u>Guide: Successful Video Streaming on Google Chrome</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-transforming-your-facebook-audio-into-mp3-format-via-computer-mobile-or-web/"><u>Guide: Transforming Your Facebook Audio Into MP3 Format via Computer, Mobile, or Web</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-magic-5-lite-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Honor Magic 5 Lite Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-t2x-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo T2x 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-instantaneous-identification-in-the-social-media-jungle/"><u>In 2024, Instantaneous Identification in the Social Media Jungle</u></a></li>
+<li><a href="https://win-news.techidaily.com/icloud2/"><u>いとも簡単!iCloudメールをバックアップする軽やかな2方法</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Windows Web Woes? 7 Simple Solutions for Site Shutdown Syndrome
-date: 2024-08-08T13:17:03.915Z
-updated: 2024-08-09T13:17:03.915Z
+date: 2025-02-02T02:33:18.827Z
+updated: 2025-02-04T08:11:07.211Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
 
  Aside from that, Windows Defender Firewall restrictions or adding URL addresses to the Windows Hosts file can also prevent websites from opening. If you are tired of this issue and wish to access your favorite sites again, here are a few fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Perform Some Preliminary Checks
 
  You should perform the following preliminary checks first, as they may help you resolve the issue quickly:
@@ -37,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
 
 ## 2\. Use a Different Device
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![two laptops placed side by side on a wooden table](https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00df3f1d4defd5e8c6891f82cb.jpg)
 
  If you are using a managed device, quite possibly at work or school, and some websites aren't opening, your device administrator may have blocked access to these websites. So, it's essential to rule out this possibility.
@@ -49,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
  In this case, you can ask your administrator to unblock those websites. However, if the same websites don't open on your other device, or if you're experiencing this issue on a personal device, your ISP might have blocked those sites.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use a Different Internet Connection
 
 ![Wi-Fi Router Symbol With a Good Looking Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/wifi-routers-versus-wireless-access-points-explained-1.jpg)
@@ -63,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
 
 ##
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## 4\. Disable VPN or Windows Proxy Settings
 
 ![a user using vpn on windows laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/vpn-usage.jpg)
@@ -75,8 +67,9 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
  However, if some websites are blocked in a particular region, and you use a proxy server of that region, the websites won't open on your computer. Therefore, you should[disable the proxy server on Windows](https://www.makeuseof.com/windows-11-disable-proxy/) and/or turn off your VPN to ensure the problem doesn't come from them.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Run a Netsh Command in the Windows Command Prompt
 
  If none of the above fixes have worked, you should clear the piled-up DNS cache, reset the misconfigured Winsock catalog, and remove and reinstall the TCP/IP stack. For all of this, you need to run some simple commands in the Windows Command Prompt. Here's how:
@@ -84,6 +77,11 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
 1. Type**"Command Prompt"** in Windows Search and open the**Command Prompt** app.  
 ![Running Command Prompt as an Administrator on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Running-Command-Prompt-as-an-Administrator-on-Windows.jpg)
 2. Enter the following commands one by one, pressing**Enter** after each:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `netsh winsock reset  
 netsh int ip reset  
 ipconfig /release  
@@ -94,11 +92,6 @@ ipconfig /flushdns`
 
 ## 6\. Change Your DNS Server
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![DNS Server Cables Connection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/DNS-Server-Cables.jpg)
 
  The Domain Name System (DNS) translates human-readable domain names into IP addresses. That's how your browser loads web pages. If some domains are blocked by your ISP, your browser won't be able to translate them into the required IP address. Consequently, they won't load.
@@ -114,13 +107,19 @@ The powerful video editing program for your Windows PC</a>
 2. Right-click on the**Hosts** file and click**Open with** .  
 ![Clicking on the Open With Button by Right-clicking on the Hosts File in the Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Clicking-on-the-Open-With-Button-by-Right-clicking-on-the-Hosts-File-in-the-Windows-File-Explorer.jpg)
 3. Then, select**Notepad** to open the**Hosts** file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. If websites have been blocked using the Hosts file, the domain names of these websites would have probably been added at the end of this file.
 5. If you find those websites added here, delete them all.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Tweaking the Hosts File by Deleting the Address Blocked in Windows 11 Hosts File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-3-Tweaking-the-Hosts-File-by-Deleting-the-Address-Blocked-in-Windows-11-Hosts-File.jpeg)
 6. After that, save the document by pressing**CTRL + S.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Roam Around the Internet Freely Again on Windows
 
@@ -128,14 +127,11 @@ The powerful video editing program for your Windows PC</a>
 
  If the administrator hasn't blocked websites or you are experiencing this problem on a personal device, the above fixes will likely resolve the issue. Consequently, you will be able to access those websites again.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,4 +140,21 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-breakthrough-youtube-success-essential-tips-from-creator-studio-guide/"><u>[New] 2024 Approved Breakthrough YouTube Success Essential Tips From Creator Studio Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-spark-interest-drive-engagement-top-30-video-ideas/"><u>[New] Spark Interest, Drive Engagement Top 30 Video Ideas</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-integrating-pre-recorded-content-into-facebook-live-shows/"><u>[Updated] In 2024, Integrating Pre-Recorded Content Into Facebook Live Shows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-refining-your-tiktok-profile-age-with-ease/"><u>[Updated] Refining Your TikTok Profile Age with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-guide-to-installing-titanium-kodi-skin-across-various-kodi-editions/"><u>A Comprehensive Guide to Installing Titanium Kodi Skin Across Various Kodi Editions</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-youtubes-limits-tips-to-fix-stalled-video-encoding-at-critical-percentages/"><u>Bypass YouTube's Limits: Tips to Fix Stalled Video Encoding at Critical Percentages</u></a></li>
+<li><a href="https://win11.techidaily.com/canva-tutorial-mastering-video-sound-adjustments-eliminating-or-incorporating-audio-seamlessly/"><u>Canva Tutorial: Mastering Video Sound Adjustments - Eliminating or Incorporating Audio Seamlessly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-the-unforgiving-error-mackernel-freeze/"><u>Fixing the Unforgiving Error: MacKernel Freeze</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-see-recently-opened-files-on-windows/"><u>How to See Recently Opened Files on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-12-pro-max-activation-lock-primer-by-drfone-ios-unlock-ios-unlock/"><u>iPhone 12 Pro Max activation lock primer</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-youtube-video-extraction-dumpertnls-top-4-strategies-unveiled/"><u>Mastering the Art of YouTube Video Extraction: Dumpert.nl's Top 4 Strategies Unveiled!</u></a></li>
+<li><a href="https://win11.techidaily.com/top-rated-audio-amplifier-a-user-friendly-guide-to-boosting-sound-clarity/"><u>Top-Rated Audio Amplifier: A User-Friendly Guide to Boosting Sound Clarity</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-guide-fixing-the-causes-behind-the-0xc00d3e8c-error-in-windows-11/"><u>Troubleshooting Guide: Fixing the Causes Behind the 0XC00D3E8C Error in Windows 11</u></a></li>
+</ul></div>
 

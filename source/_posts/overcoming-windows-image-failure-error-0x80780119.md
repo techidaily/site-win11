@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows' Image Failure: Error 0X80780119"
-date: 2024-08-08T13:18:41.168Z
-updated: 2024-08-09T13:18:41.168Z
+date: 2025-01-27T19:54:35.040Z
+updated: 2025-02-03T21:07:53.537Z
 tags:
   - windows10
   - windows11
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 
  Regardless of what might be resulting in the problem in your case, the solutions we have listed below are sure to help you get the restore utility back on track. Proceed with the solutions one by one and follow the steps carefully for successful execution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## 1\. Free Up Disk Space
 
  When you create a restore point in Windows, the system requires sufficient space on the destination drive to store all the backup files. If you do not have enough space, the System Restore is likely to return errors like the 0x80780119 error.
@@ -68,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
  If any issues are found, Windows will prompt you to repair them. Follow the on-screen instructions to proceed.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Enable System Protection
 
  Several users also noticed that they were facing the problem due to the system protection feature being disabled for the targeted drive. If you have this option disabled in your system, we suggest enabling it and checking if that makes any difference.
@@ -79,23 +77,32 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 1. Press the **Win** \+ **I** keys together to open the Settings app.
 2. Navigate to **System** \> **About**.
 3. Head over to the **Device specifications** section and click on the **System protection** option.  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Click on the System protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-protection-options.jpg)
 4. In the following dialog, head over to the **System Protection** tab.
-5. Choose the targeted drive and click on the **Configure** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Choose the targeted drive and click on the **Configure** button.  
 ![Click on the Configure button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/configure-button.jpg)
 6. Enable the **Turn on system protection** option and click **Apply** \> **OK** to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Enable system protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-system-protection.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can now close the System Protection dialog and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Delete USN Journal
 
@@ -109,9 +116,6 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 2. In the following window, right-click on the **System Reserved** volume and choose **Change Drive Letter and Paths** from the context menu.
 3. Now, click on the **Add** button.
 4. In the next dialog, choose **Assign the following drive letter** and click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![Change the USB Drive Letter Using Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-the-usb-drive-letter-using-disk-management.jpg)
 5. Once done, press the **Win** \+ **R** keys together to open Run.
 6. Type "cmd" in Run and click **Ctrl** \+ **Shift** \+ **Enter** to open Command Prompt as an administrator.
@@ -127,11 +131,33 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 
  Below, we take a look at the common causes of this issue and discuss the different solutions you can try to get rid of this error for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-biz-cloud-storage-excellence/"><u>[New] Leading Biz Cloud Storage Excellence</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-seamless-image-superimposition-for-desktop/"><u>[New] Seamless Image Superimposition for Desktop</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-visuals-that-stand-out-top-10-ig-grid-making-innovations-for-2024/"><u>[New] Visuals that Stand Out Top 10 IG Grid Making Innovations for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-path-to-autoplay-configuring-youtube-content-for-uninterrupted-streaming/"><u>[Updated] 2024 Approved The Path to Autoplay Configuring Youtube Content for Uninterrupted Streaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-tech-titans-in-vr-top-10-mobile-headsets-reviewed-for-2024/"><u>[Updated] Tech Titans in VR Top 10 Mobile Headsets Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-yielding-the-manual-to-merging-media-with-moolah-for-2024/"><u>[Updated] YouTube Yielding The Manual to Merging Media with Moolah for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/8-essential-esl-grammar-hints-for-fluent-comprehension/"><u>8 Essential ESL Grammar Hints for Fluent Comprehension</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-your-workspace-individual-monitors-in-windows-11/"><u>Elevating Your Workspace: Individual Monitors in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fashion-finds-filled-with-fun-editing-for-hauls/"><u>In 2024, Fashion Finds Filled with Fun Editing for Hauls</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-12-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 12 to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-errors-with-googles-nearby-sharing-on-pc/"><u>Overcoming Errors with Google's Nearby Sharing on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/refinement-of-console-controls-in-depth-windows-techniques/"><u>Refinement of Console Controls: In-Depth Windows Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-loss-of-critical-dll-reinstating-mfc71u-on-pcs/"><u>Resolving Loss of Critical DLL: Reinstating Mfc71u on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-installation-failure-on-discord-win/"><u>Strategies to Overcome Installation Failure on Discord (Win)</u></a></li>
+<li><a href="https://win-special.techidaily.com/the-pitfalls-of-debloating-your-pc-and-effective-alternatives-zdnet-insights/"><u>The Pitfalls of Debloating Your PC & Effective Alternatives | ZDNet Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-windows-11-reading-comics-like-never-before/"><u>Transforming Windows 11: Reading Comics Like Never Before</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11s-bluetooth-down-follow-these-9-simple-steps-to-fix-it/"><u>Win 11’S Bluetooth Down? Follow These 9 Simple Steps to Fix It</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-google-play-setup-protocols/"><u>Windows 11 Google Play Setup Protocols</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-innovations-effortless-navigation-of-qr-codes/"><u>Windows Innovations: Effortless Navigation of QR Codes</u></a></li>
+</ul></div>
+

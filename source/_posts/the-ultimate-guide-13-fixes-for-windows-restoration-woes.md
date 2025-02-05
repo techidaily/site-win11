@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide: 13 Fixes for Windows Restoration Woes"
-date: 2024-08-08T13:17:58.872Z
-updated: 2024-08-09T13:17:58.872Z
+date: 2025-01-29T01:32:23.006Z
+updated: 2025-02-04T01:50:43.415Z
 tags:
   - windows10
   - windows11
@@ -21,29 +21,30 @@ thumbnail: https://thmb.techidaily.com/df14118d9f463815cdf73b98eeffe83796c8ab688
  There’s a chance you will figure out that System Restore stopped working only when you need it, which can add an extra layer of frustration to your existing issues. Many different factors can affect its performance, but these pointers should help you get to the root of the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Create a System Restore Point Manually
 
  Your first port of call during System Restore irregularities should be to manually create a System Restore point. While this is unlikely to solve the problem outright, you may well be presented with an error message that makes it easier to diagnose what's wrong.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create restore point manually](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-restore-point-manually-1.jpg)
 
  To get started, type **Restore Point** into your search bar and click on the result titled **Create a restore point**. Click the button labelled **Create** and choose a name, then wait for the process to complete and see if an error message pops up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check System Restore is Active on All Volumes
 
  System Restore may simply not be activated on your computer. This is particularly relevant if you're using more than one drive, or have recently swapped your system storage from one volume to another, as drives can have their protection turned on and off individually.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check system restore status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-restore-status-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Type **Restore Point** into the search bar and click on **Create a Restore Point**. You'll see the Available Drives listed under the Protection Settings subheading, alongside a column telling you whether or not they're protected.
 
@@ -57,20 +58,22 @@ The powerful video editing program for your Windows PC</a>
 
  If you're facing difficulties with System Restore, briefly disable your antivirus software early on during your troubleshooting — it may well fix things.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Check Your Disk Space Allocation
 
  Your Restore Points will fail if there isn't enough space allocated for their storage. To see how much space you have assigned to this task, enter **Restore Point** into the search bar and open the entry titled **Create a restore point**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Check System Restore disk allocation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restore-disk-allocation-1.jpg)
 
  Click the Configure button and you'll be able to tweak your **Disk Space Usage**. Try using the slider to increase your allocated space, then create a new Restore Point to see whether it has had the desired effect.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Manually Delete Restore Points
 
  As we’ve mentioned, System Restore will fail to create a new restore point if there’s no available storage space on your computer. However, you can [manually delete older restore points](https://www.makeuseof.com/ways-delete-system-restore-points-in-windows/) that you no longer need to free up some space for System Restore to work.
@@ -103,9 +106,6 @@ chkdsk /f /r
 
 sfc /scannow
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Boot Into Safe Mode
 
  Problems affecting System Restore can often be traced back to services and drivers from a source other than Microsoft. Safe Mode strips your computer's abilities back to the bare essentials, meaning that those processes won't interfere with your procedure.
@@ -119,16 +119,13 @@ sfc /scannow
  If this didn't work for you, there are [other methods to boot your computer into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Try Selective Startup
 
  Selective Startup is a similar tool to Safe Mode, in that it reduces the amount of processes running on your computer to make it easier to diagnose problems. Type **System Configuration** into the search box and open the top result to get started.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Use selective startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/selective-startup-1.jpg)
 
  You can check and uncheck the **Load system services** and **Load startup items** boxes to customize how your computer behaves at startup. For more information on using Selective Startup to troubleshoot, refer to Microsoft's guide to the process.
@@ -137,29 +134,22 @@ sfc /scannow
 
  You might be able to find some clues about errors pertaining to System Restore processes by delving into the Event Viewer. Search for the utility and open it up to get started — you'll need to expand the **Windows Logs** folder, then click on **Applications**.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check Windows event viewer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/event-viewer-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Scroll through the results to find anything with **Error** in the **Level** column. Click on an individual event to display its description, and see if that offers up any reason that it might be connected to System Restore. You can do a Google search for any related errors that you find to see what the best course of action is.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Check Your Timing
 
  As simple as it might sound, your System Restore strife might be caused by something as straightforward as your computer being asleep when it's scheduled to create a new image. Your PC won't be able to wake itself up to do the job, unless you have a handy tool called [Restore Point Creator](http://www.downloadcrew.com/article/31634-restore%5Fpoint%5Fcreator).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Restore Point Creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restore-point-creator-1.jpg)
 
  Among a host of other advantages, Restore Point Creator offers users the opportunity to schedule the task for the future, and instruct their system to wake up at that specified time. This option is available by navigating to **System Restore Point Utilities** \> **Schedule creation of System Restore Points** and then checking the box labelled **Wake computer if the system is sleeping**.
@@ -172,10 +162,6 @@ sfc /scannow
 
  You might also check out these [rescue and restore disks for your Windows System Restore](https://www.makeuseof.com/tag/5-best-rescue-disks-windows-system-restore/).
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## 13\. Factory Reset Your Computer
 
  If none of the above solutions fixed System Restore, and you’re stuck with a system full of bugs and glitches, you should factory reset your computer. This is a bold move, as it will return your PC to the state it was when you bought it.
@@ -188,14 +174,11 @@ The ultimate burning program for all your needs!</a>
 
  If you want to create restore points faster, you can add the option to the Windows context menu.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -204,4 +187,26 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-art-of-spinning-photos-iphone-videography-tips/"><u>[New] 2024 Approved The Art of Spinning Photos IPhone Videography Tips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-modern-filmmakers-guide-for-computer-mac-and-mobile/"><u>[New] 2024 Approved The Modern Filmmaker's Guide for Computer, Mac & Mobile</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-discovering-hidden-gems-top-rated-free-macos-transcription-apps-for-2024/"><u>[Updated] Discovering Hidden Gems Top-Rated Free macOS Transcription Apps for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-increase-your-online-presence-youtube-methods-for-2024/"><u>[Updated] Increase Your Online Presence YouTube Methods for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essentials-of-writing-amazing-end-of-episode-scripts/"><u>2024 Approved The Essentials of Writing Amazing End-of-Episode Scripts</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-explorer-to-show-disk-space/"><u>Enhancing Windows Explorer to Show Disk Space</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/guide-to-fb-video-repositories-windows-and-macos-for-2024/"><u>Guide to FB Video Repositories Windows & macOS for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-pin-almost-anything-to-the-windows-11-taskbar/"><u>How to Pin Almost Anything to the Windows 11 Taskbar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-most-compelling-free-vfx-alternatives-for-filmmakers/"><u>In 2024, Unveiling the Most Compelling Free VFX Alternatives for Filmmakers</u></a></li>
+<li><a href="https://win11.techidaily.com/relaunching-file-explorer-a-step-bystep-guide/"><u>Relaunching File Explorer: A Step-Bystep Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/reworking-windows-11-to-utilize-traditional-search-icon/"><u>Reworking Windows 11 to Utilize Traditional Search Icon</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-solution-matching-internet-on-mobile-and-desktop/"><u>Speedy Solution: Matching Internet on Mobile & Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-disable-repetitive-sign-in-requests-in-teams/"><u>Techniques to Disable Repetitive Sign-In Requests in Teams</u></a></li>
+<li><a href="https://win11.techidaily.com/the-quest-to-resolve-skies-sse-woes/"><u>The Quest to Resolve Skies' SSE Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-win-error-31-in-network-connections/"><u>Troubleshooting WIN Error 31 in Network Connections</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/type-effortlessly-on-the-go-discover-sanwa-supplys-new-usb-foot-pedals-for-hands-free-typing/"><u>Type Effortlessly on the Go: Discover Sanwa Supply's New USB Foot Pedals for Hands-Free Typing</u></a></li>
+<li><a href="https://win-help.techidaily.com/understanding-the-potential-pitfalls-a-comprehensive-guide-to-crypto-investment-risk-factors-yl-computing/"><u>Understanding the Potential Pitfalls: A Comprehensive Guide to Crypto-Investment Risk Factors - YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-pc-strategies-to-exit-s-mode/"><u>Unlocking Your PC: Strategies to Exit S Mode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/windows-10-ultimate-guide-distinguishing-between-home-and-pro-versions-for-optimal-use/"><u>Windows 10 Ultimate Guide: Distinguishing Between Home and Pro Versions for Optimal Use</u></a></li>
+</ul></div>
 

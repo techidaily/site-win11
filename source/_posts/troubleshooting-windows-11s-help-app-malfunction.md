@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows 11'S Help App Malfunction
-date: 2025-01-17T17:07:11.856Z
-updated: 2025-01-25T06:46:18.492Z
+date: 2025-01-29T17:37:40.264Z
+updated: 2025-02-03T19:39:20.393Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Begin With Some General Fixes
 
  Here are some quick tips on how to fix the Get Help app not working issues quickly:
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 * **Reboot your computer:** Rebooting a computer often resolves many problems by clearing your system's memory and terminating problematic processes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * **Update your Windows version:** Older versions of Windows may contain bugs that may prevent the Get Help app from functioning correctly. So, always [ensure your Windows version is up-to-date](https://www.makeuseof.com/update-windows-manually/).
@@ -56,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 4. Now, scroll to the bottom and click **Repair**. If the repair fails, you can use the **Reset** option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Get Help Repair Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-repair-option.jpg)
@@ -73,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 * Connecting to a different network, as specific network configurations might disrupt certain apps.
 * Contacting your Internet Service Provider (ISP) to inquire about potential network maintenance.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Disable VPN or Proxy Temporarily
 
  If you're still facing issues with the Get Help app, it seems to be due to your VPN or proxy configuration. You can disable your connected VPN or proxy for a quick test.
@@ -87,11 +87,19 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 ![VPN Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/vpn-settings-search-results.jpg)
 2. Choose the **Disconnect** button to turn off the VPN.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Similarly, you must [temporarily disable your proxy](https://www.makeuseof.com/windows-11-disable-proxy/) to troubleshoot the cause of your Get Help failing to work.
 
  Remember to re-enable your VPN or proxy once you're done to ensure your online activities remain private and secure.
 
  Now you can open the Get Help app and check whether the content loads correctly. Try the following troubleshooting method if the Get Help app still displays a blank screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Restart Windows Services
 
@@ -107,14 +115,6 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 4. Select **Restart** from its context menu.  
 ![Diagnostic Policy Service Restart Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/diagnostic-policy-service-restart-option.jpg)
 5. Similarly, repeat the steps to restart the **Windows Management Instrumentation** service.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Install the Microsoft Edge WebView2 Runtime
 
@@ -133,6 +133,10 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
  If you see an error saying "**Setup failed**," "please re-download the correct version again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Uninstall and Reinstall the Get Help App
 
  If you've tried all other solutions, we recommend uninstalling and reinstalling the Get Help app.
@@ -140,10 +144,6 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
  For uninstallation, you can easily [uninstall a Windows app via Settings](https://www.makeuseof.com/ways-to-uninstall-apps-windows-11/). Once done, go to the [Get Help Microsoft Store page](https://apps.microsoft.com/store/detail/get-help/9PKDZBMV1H3T). Click on the **Get in Store app** button and download it from there.
 
 ![Get Help In Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-store.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
 
@@ -165,20 +165,20 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-optimal-choices-advanced-mac-video-grabbing-tools-for-2024/"><u>[Updated] Optimal Choices Advanced Mac Video Grabbing Tools for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/discovering-undetected-windows-malware-risks/"><u>Discovering Undetected Windows Malware Risks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-enrollment-register-for-chatgpt-and-telegram-quickly/"><u>Easy Enrollment: Register for ChatGPT and Telegram Quickly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experts-reveal-why-samsungs-new-copilotplus-is-setting-the-bar-high-for-windows-laptops-in-depth-insights/"><u>Experts Reveal Why Samsung's New Copilot+ Is Setting the Bar High for Windows Laptops – In-Depth Insights!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-plus-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 8 Plus without Passcode or Face ID</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-nokia-c22-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Nokia C22 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-connectivity-with-5ghz-networks/"><u>Mastering Windows 11: Connectivity with 5GHz Networks</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-disk-space-with-windows-11s-ntfs-options/"><u>Maximizing Disk Space with Windows 11'S NTFS Options</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-and-resolving-minecrafts-lan-network-issues/"><u>Navigating and Resolving Minecraft's LAN Network Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-admin-policies-that-hinder-setup/"><u>Overcoming Windows Admin Policies That Hinder Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-guide-for-disconnected-spotify-streaming/"><u>Quick-Fix Guide for Disconnected Spotify Streaming</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/hanging-tide-of-youtube-earnings/"><u>The Changing Tide of YouTube Earnings</u></a></li>
-<li><a href="https://win11.techidaily.com/the-undisclosed-menu-maestros-guide-to-win11-concealment/"><u>The Undisclosed Menu Maestro's Guide to Win11 Concealment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-with-tom/"><u>Unveiling the Latest in Technology with Tom</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-a-comprehensible-guide-to-saving-hulu-programs-on-multiple-devices/"><u>[New] In 2024, A Comprehensible Guide to Saving Hulu Programs on Multiple Devices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/orldwide-rankings-top-10-youtube-influencers-by-subscription-counts-for-2024/"><u>[New] Worldwide Rankings Top 10 YouTube Influencers by Subscription Counts for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unleashing-shareability-secrets-of-trending-on-fb/"><u>[Updated] In 2024, Unleashing Shareability Secrets of Trending on Fb</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-no-license-plenty-of-melodies-top-10-online-websites/"><u>2024 Approved No License, Plenty of Melodies - Top 10 Online Websites</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-photography-crafting-exceptional-time-lapses-with-black-hero5/"><u>Elevate Photography Crafting Exceptional Time-Lapses with Black Hero5</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-outdated-pcs-enabling-windows-11-with-to-go-and-rufus/"><u>Elevating Outdated PCs: Enabling Windows 11 With To Go and Rufus</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-itel-p55-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Itel P55 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-create-a-custom-color-scheme-for-windows-terminal/"><u>How to Create a Custom Color Scheme for Windows Terminal</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-compactscreengrab-critique-report/"><u>In 2024, CompactScreenGrab Critique Report</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-keep-your-pc-secure-if-bitlocker-is-missing/"><u>Strategies to Keep Your PC Secure if Bitlocker Is Missing</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-speech-recognition-mishaps-on-microsofts-windows-11/"><u>Tackling Speech Recognition Mishaps on Microsoft's Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-dell-p2715q-review-a-4k-visual-revolution-unfolds/"><u>The Dell P2715Q Review A 4K Visual Revolution Unfolds</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-financial-floor-and-ceiling-in-podcasting-world/"><u>The Financial Floor and Ceiling in Podcasting World</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-non-responsive-windows-pc-keyboard-keys/"><u>Troubleshoot Non-Responsive Windows PC Keyboard Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-mobility-with-apple-maps/"><u>Unlocking Windows Mobility with Apple Maps</u></a></li>
 </ul></div>
 

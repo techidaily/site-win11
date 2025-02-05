@@ -1,7 +1,7 @@
 ---
 title: Combating Darkened Windows Display During Remote Workspace Access
-date: 2024-07-29T15:56:47.995Z
-updated: 2024-07-30T15:56:47.995Z
+date: 2025-02-02T03:14:32.939Z
+updated: 2025-02-03T18:27:39.530Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/3c096ca7006d9a28f3f7e555f29e64435eb73c005
 
  If you’re dealing with this, we’ve explained how to fix the remote black desktop screen issue on Windows below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Change the Screen Resolution Settings
 
  When using Remote Desktop Connection on Windows, it's important to check whether you've set the screen resolution settings properly. Improper settings may lead to a black screen or pixel blurriness, which can make your remote work challenging.
@@ -32,11 +36,13 @@ thumbnail: https://thmb.techidaily.com/3c096ca7006d9a28f3f7e555f29e64435eb73c005
 
 1. Press**Win + Q** or**Win + S** to open the Windows search bar.
 2. Enter**Remote Desktop Connection** in the search bar, and choose the most suitable result.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![RDC In Windows Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rdc-in-search-bar.jpg)
 3. Click the**Show Options** toggle and go to the**Display** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Adjust the slider under the**Display configuration** to match the exact resolution of the remote computer's display. For example, if the display resolution of your desktop is 1920 x 1080, you should match that in the settings.
 5. Enter the required details and click**Connect** to launch the remote session.
 
@@ -54,19 +60,18 @@ thumbnail: https://thmb.techidaily.com/3c096ca7006d9a28f3f7e555f29e64435eb73c005
 2. Type**mstsc** in the search box and press the**enter** key.  
 ![Opening RDC From Windows Run Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/opening-rdc-from-windows-run-dialog.jpg)
 3. Click the**Show Options** button in the bottom-left corner and head towards the**Display** tab.
-4. Under**Colors** , select**High Color (16 bit)** from the dropdown. Note that a higher number means better display quality. But, a lower number can help you out in the case of a black screen.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Under**Colors** , select**High Color (16 bit)** from the dropdown. Note that a higher number means better display quality. But, a lower number can help you out in the case of a black screen.  
 ![RDC Display Color Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rdc-dispaly-color-settings.jpg)
 
  Check for the error now by connecting to your remote desktop. If it is not working, you can try changing the color depth to**Highest Quality (32 bit)** .
 
  Note that black screen issues can have various causes, and the solution may not always be adjusting the display settings. If your issue is still unresolved, proceed to the advanced troubleshooting steps given below.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update Your Computer's Graphics Driver
 
  Another way of fixing the black screen is by updating the GPU driver. An outdated GPU driver leads to many problems, including the issue of a completely black screen.
@@ -75,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/3c096ca7006d9a28f3f7e555f29e64435eb73c005
 
  Before moving forward, make sure you[create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) on your desktop. It'll give you a safer side if your system gets corrupt or the GPU drivers behave weirdly after updating.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Restart the Remote Desktop Service
 
  Are you still struggling to fix the black screen? If so, then you can try restarting the remote desktop service. This service controls and helps run the remote desktop sessions on your computer. Here's how you can restart the remote desktop service on Windows:
@@ -85,13 +87,15 @@ thumbnail: https://thmb.techidaily.com/3c096ca7006d9a28f3f7e555f29e64435eb73c005
 1. Press**Win + R** and type**services.msc** in the Run dialogue box.  
 ![Services Shortcode In Run Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/opening-sevices-from-run_dialog.jpg)
 2. Scroll down until you find**Remote Desktop Services** in the list of services.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Right-click on**Remote Desktop Services** and select the**Restart** option.  
 ![RDC Service Restart Option In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restarting-the-rdc.jpg)
 4. You can now restart your computer to ensure the changes are correctly applied.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Disable Bitmap Caching
 
  Bitmap caching is a feature in Remote Desktop Connection that caches the bitmap images (locally) to improve performance. Simply put, it saves every small image rendered on your remote computer in the memory. As RDC uses the image data from memory, this saves time and resources significantly.
@@ -102,9 +106,6 @@ thumbnail: https://thmb.techidaily.com/3c096ca7006d9a28f3f7e555f29e64435eb73c005
 
 1. First, launch RDC on your computer. Then, click the**Show Options** button to access advanced settings.
 2. You've to now disable the**Persistent bitmap caching** option. Note that on older versions of Windows, this option might appear as just**Bitmap caching** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Persistent Bitmap Caching Option Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disabling-persistance-bitmap-caching-for-rdc.jpg)
 3. Once you disable it, click**Connect** to start interacting with your remote desktop.
 
@@ -121,9 +122,6 @@ Follow the below steps to enable WDDM for remote desktop connections:
  The following policy setting is only available on computers running Windows Pro and Enterprise editions. If you're not using that, here's a trick to[access Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) .
 
 1. Press**Win + R** , and type**gpedit.msc** in the Run dialog box. This will open the**Group Policy Editor** on Windows.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Local Group Policy Editor In Run Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/opening-local-group-policy-editor-from-run-dialog.jpg)
 2. Within the**Local Group Policy Editor** window, head over to**Computer Configuration** . Next, move on to**Administrative Templates > Windows Components** .
 3. Double-click on**Remote Desktop Services** and then go to **Remote Desktop Session Host > Remote Session Environment** .  
@@ -133,11 +131,12 @@ Follow the below steps to enable WDDM for remote desktop connections:
 ![WDDM Settings In GPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wddm-settings-in-gpe.jpg)
 6. Click the**Apply** button, and after that, select**OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will force Remote Desktop Connection to utilize WDDM for all the RDC sessions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 7\. Adjust the Remote Desktop Performance Settings
 
  Adjusting the performance settings may significantly affect the speed and quality of your remote desktop connection. This is why we recommend keeping a note of the default settings for safety's sake.
@@ -150,14 +149,14 @@ Follow the below steps to enable WDDM for remote desktop connections:
 2. Click on the**Show Options** toggle and navigate to the**Experience** tab.
 3. Under**Performance** , choose the connection speed that best suits your PC. For example, select**LAN (10 Mbps or higher)** if you're using high-speed internet. If you're unsure about your network's speed, select**Detect connection quality automatically** from the dropdown.
 4. Uncheck all the options you don't want to use or that are not important for you. For instance, you may not get any benefit from selecting**Desktop background** and**Menu and window animation** . Similarly, by unchecking such options, you can improve the performance of your remote desktop significantly.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![RDC Custom Performance Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rdc-custom-performance-settings.jpg)
 5. Click**Hide Options** and enter the remote computer's name and username. You're now ready to connect to your remote computer.
 
  Overall, the above settings may vary depending on your needs and computer specifications. So, we recommend that you test each setting to see which one works best for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Your Remote Desktop Back in Action
 
@@ -165,14 +164,11 @@ Follow the below steps to enable WDDM for remote desktop connections:
 
  Make sure you try every troubleshooting step in order until the black screen issue with your remote desktop is resolved. It may take a little trial and error, but once you find the optimal configuration, the black screen will not reappear on your remote desktop.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -181,4 +177,17 @@ Follow the below steps to enable WDDM for remote desktop connections:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/youtube-google-drive/"><u>「簡単 YouTubeビデオを保存して使うための Google Driveガイド」</u></a></li>
+<li><a href="https://win11.techidaily.com/1-how-to-reliably-change-your-fla-animated-files-into-quality-mp4-videos/"><u>1. How to Reliably Change Your .FLA Animated Files Into Quality MP4 Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/wmv-to-wav/"><u>完全ガイド: WMV to WAVに変換するための効果的な手順とテクニック</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-dissecting-instagrams-maximum-video-duration-rule/"><u>In 2024, Dissecting Instagram's Maximum Video Duration Rule</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-edge-step-by-step-video-cropping-techniques/"><u>In 2024, Instagram Edge Step-by-Step Video Cropping Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/pacmans-plunge-digital-drag/"><u>Pacman's Plunge - Digital Drag?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/paww-wavesound-3-review/"><u>Paww Wavesound 3 Review</u></a></li>
+<li><a href="https://fox-links.techidaily.com/solo-stardom-in-the-podcast-universe/"><u>Solo Stardom in the Podcast Universe</u></a></li>
+<li><a href="https://win11.techidaily.com/vob-mp34/"><u>VOB MP3変換ソフトウェア4つ選び: 優れた機能で無料オーディオへの移行</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722872815701-whats-new-in-ipados-18-discover-release-information-zero-cost-feature-upgrades-and-fresh-news/"><u>What's New in iPadOS 18? Discover Release Information, Zero Cost Feature Upgrades & Fresh News!</u></a></li>
+</ul></div>
 

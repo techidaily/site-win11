@@ -1,7 +1,7 @@
 ---
 title: Brighten Up Your Windows 11 Interface Pointer
-date: 2024-07-29T15:56:45.875Z
-updated: 2024-07-30T15:56:45.875Z
+date: 2025-01-30T02:44:16.806Z
+updated: 2025-02-03T22:51:29.240Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 ![show-location-of-pointer-setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/show-location-of-pointer-setting.jpg)
 7. Click**Apply** in the Mouse Properties window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now try out the new pointer highlighting by pressing the**Ctrl** key. You’ll see a circle expand and quickly shrink around the cursor whenever you press that key. That’s supposed to help users find their mouse pointers. However, it’s a somewhat unnecessary feature for that purpose since moving the mouse around is usually the best way to find the cursor.
 
  That feature can come in handy for Windows video tutorials though. Activating the circle animation will draw viewers’ attention to a cursor’s position. You can use it to briefly highlight settings by moving the cursor next to any option that needs selecting.
@@ -52,24 +56,26 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 
 ![mouse-highlight-app-window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mouse-highlight-app-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The default size for the circle highlight is 30, but you can make it bigger or smaller. Enter a value less than 30 in the**Size** box. Or input a number higher than 30 to increase the circle’s size.
 
  You can adjust the circle’s transparency by changing the value in the**Opacity** box. Entering a lower value there will increase transparency. Inputting**0** makes the circle invisible, and entering the max**255** value removes the transparency.
 
  This app also has a click highlight effect you can enable. When enabled, you’ll see a second circle with a different color briefly appear around the cursor whenever you click the mouse. Select the**Enable** checkbox to turn on that feature.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A mouse click cursor highlight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-click-highlight.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then you can configure that secondary click highlight circle by entering alternative values in the**Size** and**Opacity** boxes much the same. There’s also a**Display Time** box for click highlight. Enter an alternative millisecond value there to change how long the circle appears. The default display time of 800 milliseconds is close to a second.
 
  When you’re done configuring your cursor highlighting, click the**Apply Setting** button. The app must be running for its cursor highlighting to work, but it doesn’t run in the background with a system tray icon. Minimize the app’s window to the taskbar when you’re utilizing it.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Highlight the Cursor With PowerToys
 
  PowerToys is an app with which you can enable a variety of handy new tools and features in Windows 11.10\. Our[best things to do in PowerToys](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) guide tells you about some of the tools you can activate with that software.
@@ -82,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 4. Now open PowerToys, which you’ll find on your Start menu’s app list.
 5. Click the**Mouse utilities** tab.
 6. Scroll down and turn on the**Enable Mouse Highlighter** option.  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Enable Mouse Highlighter option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-mouse-highligher-option.jpg)
 7. Then press the**Windows** logo key +**Shift** +**H** hotkey to activate the highlighter.
 
@@ -92,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 
  To customize PowerToy’s cursor highlighting, click**Appearance and Behavior** to view further options. Then you can click the**Primary** or**Secondary** button boxes to bring up palettes from which to select different colors. Drag the**Opacity** bar’s slider lift and right to adjust the highlighting’s transparency level. Click the**Radius** option to select a different size value for the circle.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Appearance & behavior settings in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/appearance-behavior-settings.jpg)
 
 ## How to Highlight the Cursor in Edge and Chrome With the Cursor Highlighter Extension
@@ -104,31 +104,27 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 1. Open the[Cursor Highlighter](https://chrome.google.com/webstore/detail/cursor-highlighter/echjgnggfpiohepohkpfknhjbnccdjlo?hl=en) page in Edge or Chrome.
 2. Click the**Add** button to install the extension.
 3. Then press the**Extensions** button in Chrome or Edge.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the-extensions-menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extensions-menu.jpg)
 4. Click**Cursor Highlighter** to view the extension’s options.
 5. Turn on the**Enable/Disable** option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![The Cursor Highlighter extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-cursor-highligher-extension.jpg)
 6. Click the color palette box to choose a color for the highlight and select save.
-7. Now open a new website page in your browser to see your highlighted cursor.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Now open a new website page in your browser to see your highlighted cursor.
+
 ![The mouse pointer highlight added by the Cursor Highlighter extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-circle-highligher-for-cursor.jpg)
 
  Note that extensions from other stores need to be enabled for Edge users to highlight their cursors with this Chrome add-on. You can access that option in Edge by pressing**Alt** +**F** and selecting**Extensions** \>**Manage Extensions** . Then turn on the**Allow extensions from other stores** setting.
 
 ![The Allow extensions from other stores setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-extensions-from-other-stores-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make the Mouse Cursor Stand Out by Highlighting It in Windows
 
@@ -140,8 +136,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +143,16 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-innovative-methods-for-mac-screenshot-format-change/"><u>[New] In 2024, Innovative Methods for Mac Screenshot Format Change</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-your-hd-content-transfer-no-loss-h2-cuffing-guide-using-windows-tools/"><u>Accelerate Your HD Content Transfer: No-Loss H.2 Cuffing Guide Using Windows Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/alert-imitation-chatgpt-windows-clients-are-malware-not-the-real-thing/"><u>Alert! Imitation ChatGPT Windows Clients Are Malware, Not the Real Thing</u></a></li>
+<li><a href="https://win11.techidaily.com/ape-to-wav-file-transformation-techniques-for-windows-macos-smartphones-and-online-tools/"><u>APE to WAV File Transformation Techniques for Windows, macOS, Smartphones & Online Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/assessing-google-one-ai-premium-services-insight-into-benefits-and-evaluating-the-cost-value-equation/"><u>Assessing Google One AI Premium Services – Insight Into Benefits and Evaluating the Cost-Value Equation.</u></a></li>
+<li><a href="https://win11.techidaily.com/best-video-format-changers-from-dvd-and-avi-to-mp4-on-windows-11-2024-rankings/"><u>Best Video Format Changers From DVD & AVI to MP4 on Windows 11 (2024 Rankings)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-connection-issues-iphone-not-linking-with-pc/"><u>How to Resolve Connection Issues: IPhone Not Linking with PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/44kq44oz44op44kk44oz44gn5l244gi44kl6zu75a2q5rg6566x44k144o844ot44k5/"><u>オンラインで使える電子決算サービス</u></a></li>
+</ul></div>
 

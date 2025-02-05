@@ -1,7 +1,7 @@
 ---
 title: Tackling File System Problems in Windows 11 OS
-date: 2024-08-08T13:18:20.626Z
-updated: 2024-08-09T13:18:20.626Z
+date: 2025-01-29T00:52:53.943Z
+updated: 2025-02-04T02:20:55.101Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Scan Your Hard Drive
 
  Hard drive integrity issues such as bad sectors also cause file system errors to occur in Windows 11/10\. For that reason, scanning your hard drive with the Check Disk tool is a recommended troubleshooting method for file system errors. The Check Disk utility (otherwise CHKDSK) scans for and repairs bad drive sectors detected. This is how you can run CHKDSK in the Command Prompt:
@@ -44,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 5. Exit the Command Prompt window.
 6. Click**Start > Power** to select**Restart** . The CHKDSK scan will start after the restart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Run the Windows Store App Troubleshooter
 
  If a file system error occurs when you try launching MS Store apps or opening files with them, the Windows Store App troubleshooter might be useful for fixing it. That troubleshooter is there to resolve issues that stop UWP apps from working as they should. These are the steps for opening the Windows Store App troubleshooter:
@@ -52,19 +53,10 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 2. Scroll down the tab and click a**Troubleshoot navigation** option.
 3. Select**Other trouble-shooters** to bring up a list of tools for troubleshooting Windows.
 4. Then press the**Run** button for launching the Windows Store App troubleshooter.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![The troubleshooter list in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-apps-troubleshooter1.jpg)
 5. Apply any suggestions the troubleshooter provides.  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-app-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Check That the Windows License Manager Service Is Running
 
  Some file system errors can arise for opening files with UWP apps when the Windows License Manager service is disabled. That’s a service required for MS Store infrastructure support, and apps downloaded from the store don’t always work right when it’s disabled. This is how you can check that service is enabled and start it if necessary:
@@ -76,6 +68,11 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 4. Click on the**Startup type** menu to open it and select**Automatic** .  
 ![The Windows License Manager server window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-license-service-manager.jpg)
 5. If the service isn’t running, press**Start** within the properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select**Apply** to save settings for the Windows License Manager Service.
 7. Click**OK** to close the Windows License Manager Service Properties window.
 
@@ -87,11 +84,16 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
 ![Apps & features in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/apps-features-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Set Up a New Local User Account on Windows
 
  File system errors can arise because of user account issues. Such errors might not arise if you set up and utilize a new local user account in Windows 11\. That might not be the most ideal resolution, but you can migrate user files to a newly established account.
@@ -101,27 +103,20 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-button.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Restore Windows to an Earlier Date
 
  System Restore is a troubleshooting tool that can potentially address various causes for file system errors, be it system file corruption, app conflicts, or recent Windows updates. It fixes many things by restoring Windows to an earlier date (system snapshot). However, restoring Windows to an earlier time will only likely work if you can select a restore point that predates the file system error on your PC.
 
  To apply this potential solution, read through our guide to[utilizing System Restore and creating restore points](https://www.makeuseof.com/windows-11-create-restore-point/) . Select a restoration date that will take your PC back to a time when there wasn’t a system file error on it. The oldest restore point available is the most likely one to do that.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, restoring Windows to a previous time removes software not installed on the restoration point’s date. So, it’s likely you’ll have to reinstall some apps after rolling back Windows. Clicking**Scan for affected programs** in System Restore provides an overview of software that will be removed for a restore point.
 
@@ -131,9 +126,6 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
  Windows 11 and 10 have a Reset this PC tool that makes it easy to factory reset the platform. That tool also includes an option that enables you to keep user files in the process. Our guide on[how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) includes instructions for applying this potential resolution with this tool.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get File System Errors Sorted in Windows
 
  Users often report file system errors on support forums much the same as BSOD (Blue Screen of Death) and missing DLL file issues. You can't ignore them when they stop you from opening important user files or apps. Whatever file system error you need to fix in Windows 10 and 11, you’ll probably be able to resolve it with at least one of the potential resolutions above.
@@ -144,8 +136,6 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +143,19 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-micro-snippet-analysis-at-a-glance/"><u>[Updated] In 2024, Micro Snippet Analysis at a Glance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-depth-comparison-inshot-against-other-apps/"><u>[Updated] In-Depth Comparison InShot Against Other Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-efficient-tactics-for-recording-vimeo-media/"><u>2024 Approved Efficient Tactics for Recording Vimeo Media</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-requirements-paving-your-path-to-a-new-iphone/"><u>Exploring the Requirements: Paving Your Path to a New iPhone</u></a></li>
+<li><a href="https://win11.techidaily.com/in-depth-exploration-of-windows-system-caching/"><u>In-Depth Exploration of Window’s System Caching</u></a></li>
+<li><a href="https://win11.techidaily.com/innovating-it-management-with-changed-admin-access-flows/"><u>Innovating IT Management with Changed Admin Access Flows</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-unresponsive-services-error-1053/"><u>Navigating Through Windows Unresponsive Services (Error 1053)</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-ensuring-steam-recognizes-your-console-controller/"><u>Quick Fixes: Ensuring Steam Recognizes Your Console Controller</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/serene-soundtracks-copyright-free-legal-meditation-music/"><u>Serene Soundtracks – Copyright-Free, Legal Meditation Music</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-unplugged-speaker-or-headphone-problems-on-windows-10-8-and-7/"><u>Solve Unplugged Speaker or Headphone Problems on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://win11.techidaily.com/transition-to-windows-11-seamlessly-on-mac-via-parallels-pro/"><u>Transition to Windows 11 Seamlessly on Mac via Parallels Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Nokia G310? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Disabled Accounts in Windows
-date: 2025-01-24T01:37:30.449Z
-updated: 2025-01-24T21:53:35.541Z
+date: 2025-01-28T16:50:41.195Z
+updated: 2025-02-03T18:04:23.053Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Causes the "Sign-In Option Is Disabled Because of Failed Sign-In Attempts" Error?
 
  The error message indicates the possible causes for the error are multiple failed sign-in attempts or repeated shutdowns. However, in most instances, the error pops up without reason, even when you are using the correct PIN.
@@ -50,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
  That said, if you can't wait for two hours, try to log in using an alternate sign-in option, such as a password or biometric authentication. To use the alternate sign-in option, click the dotted icon under the Sign-in options in the error screen to log in with your password.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Reset the Account Password from the Sign-In Screen
@@ -69,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 ![reset account password windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-account-password-windows.jpg)
 4. Enter your new password and then re-enter the password to confirm the same.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Press **Enter** to sign-in to your user account.
 
  After a successful login, you can reset your PIN, disable the sign-in attempt threshold, and check the user profile configuration to see if your account is disabled. Needless to say, you must be signed to apply this fix.
@@ -78,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
  If you don't have an alternate user account setup, [enable the built-in administrator account in Windows 11](https://www.makeuseof.com/windows-11-enable-disable-built-in-administrator-account/). Skip to the later part of the article that shows how to enable the built-in administrator account without the need to sign in.
 
  Once you can sign in, follow these steps to check your account status.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Check Your Account Status Using Local Users and Groups
 
@@ -96,8 +92,17 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 ![local users and groups account properties windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-users-and-groups-account-peroperties-windows.jpg)
 5. Next, select **Properties**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![local users and groups unselect account is disabled account is locked out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-users-and-groups-unselect-account-is-disabled-account-is-locked-out.jpg)
 6. In the **Properties** dialog, open the **General** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Here, uncheck Account is disabled, and Account is locked out option.
 8. Click **Apply** and **OK** to save the changes.
 
@@ -114,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 1. Open the Notepad app. Search for **Notepad** in Windows search and open the app.  
 ![script remove pin win user account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sccript-remove-pin-win-user-account.jpg)
 2. Next, copy and paste the following script into the Notepad file:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `@echo off  
 powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'  
@@ -134,10 +143,6 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
  Upon execution, the script will PIN for all the user accounts on your computer. Once done, you can [set up a new PIN for your user account on Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Change the Account Lockout Threshold Policy
 
  Like the dictionary attack mitigation feature, the administrator can configure a local computer to specify the maximum number of incorrect login attempts. This is done by modifying the Account lockout threshold policy in Group Policy Editor.
@@ -154,12 +159,12 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 ![account lockout threshold gpedit windows modify](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/account-lockout-threshold-gpedit-windows-modify.jpg)
 5. Type **0** in the **Account will not lock out** field.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![account lockout threshold gpedit windows modify o value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/account-lockout-threshold-gpedit-windows-modify-o-value.jpg)
 6. Click **Apply** and **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Edit the Account Lockout Policy Using Registry Editor
 
@@ -179,10 +184,6 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
 ![modify Maxdenials registry DWORD value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor.jpg)
 6. Type **0** in the **Value data** field and click **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Close Registry Editor and reboot your computer to apply the changes.
 
@@ -206,24 +207,22 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-navigating-twitter-video-submission-protocols/"><u>[New] In 2024, Navigating Twitter Video Submission Protocols</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-cloud-price-wars-2024s-comprehensive-guide/"><u>[New] Mastering Cloud Price Wars - 2024'S Comprehensive Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-securely-transferring-camera-photos-to-snapchat-correctly/"><u>[Updated] 2024 Approved Securely Transferring Camera Photos to Snapchat Correctly</u></a></li>
-<li><a href="https://fox-access.techidaily.com/a-beginners-guide-to-professional-gif-creation/"><u>A Beginner's Guide to Professional GIF Creation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/counteracting-drone-interference-tackling-the-rise-of-gps-jammers-in-aerial-security-measures/"><u>Counteracting Drone Interference: Tackling the Rise of GPS Jammers in Aerial Security Measures</u></a></li>
-<li><a href="https://win11.techidaily.com/customize-winterral-backdrop/"><u>Customize WinTerral Backdrop</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-predictive-ai-its-operational-wizardry/"><u>Decoding Predictive AI: Its Operational Wizardry</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-smooth-play-fixing-saving-problems-in-pubg-windows-edition/"><u>Ensuring Smooth Play: Fixing Saving Problems in PUBG (Windows Edition)</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-evolution-of-security-shifting-from-pin-to-password-on-windows-11/"><u>Exploring the Evolution of Security: Shifting From PIN to Password on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-tackle-windows-activation-failure-code-0x803f700f/"><u>Guide to Tackle Windows Activation Failure: Code 0X803F700f</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-plowing-pathways-selecting-superb-simulation-titles/"><u>In 2024, Plowing Pathways Selecting Superb Simulation Titles</u></a></li>
-<li><a href="https://win11.techidaily.com/learn-to-control-battery-saver-settings-on-windows-pcs/"><u>Learn to Control Battery Saver Settings on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-downloads-woes-in-win-1011-ecosystems/"><u>Navigating Downloads Woes in Win 10/11 Ecosystems</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-to-address-unsuccessful-message-load/"><u>Quick Fixes to Address Unsuccessful Message Load</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-limited-usb-controller-space-on-pcs/"><u>Resolving Limited USB Controller Space on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-wows-critical-crash-win11-edition/"><u>Resolving WoW's Critical Crash: Win11 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-revive-batch-files-in-windows-environment/"><u>Steps to Revive Batch Files in Windows Environment</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-clear-choice-between-projectors-and-televisions-for-4k-quality-for-2024/"><u>The Clear Choice Between Projectors and Televisions for 4K Quality for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/winning-the-battle-against-asus-pce-ac56-driver-errors-for-windows-10-8-and-7-your-step-by-step-fix/"><u>Winning the Battle Against ASUS PCE-AC56 Driver Errors for Windows 10, 8 & 7 – Your Step-by-Step Fix</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-enriched-minecraft-experience-via-ram-expansion/"><u>[Updated] Enriched Minecraft Experience via RAM Expansion</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-experts-guide-to-finding-cheap-sbd-solutions-for-2024/"><u>[Updated] Expert's Guide to Finding Cheap SBD Solutions for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-access-to-outlook-preview-in-the-latest-windows-os/"><u>Effortless Access to Outlook Preview in the Latest Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-user-experience-mouse-pointer-adjustments/"><u>Enhancing User Experience: Mouse Pointer Adjustments</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-tecno-spark-20c-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Tecno Spark 20C</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-infinix-smart-7-hd-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Infinix Smart 7 HD?</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-your-machine-how-to-tweak-windows-11-preferences/"><u>Mastering Your Machine: How to Tweak Windows 11 Preferences</u></a></li>
+<li><a href="https://win11.techidaily.com/must-remember-actions-before-installation-of-new-windows/"><u>Must-Remember Actions Before Installation of New Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-convert-dailymotion-videos-to-any-format-for-free-for-2024/"><u>New Convert Dailymotion Videos to Any Format for Free for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-quick-access-use-onedrive-first-in-windows/"><u>Overcoming Quick Access: Use OneDrive First in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/red-alert-purple-windows-fixed-in-a-flash-with-these-tips/"><u>Red Alert! Purple Windows - Fixed in a Flash with These Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-steam-error-lack-of-file-access-on-win11/"><u>Resolving Steam Error: Lack of File Access on Win11</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-sphere-shift-understanding-the-metamate-identity/"><u>Social Sphere Shift: Understanding the Metamate Identity</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-buffering-resolving-video-delay-in-vlc-win/"><u>Tackling Buffering: Resolving Video Delay in VLC Win</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-itel-a05s-frp-by-drfone-android/"><u>The Updated Method to Bypass Itel A05s FRP</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-discounted-8tb-samsung-portable-ssd-post-prime-day-on-amazon-zdnet/"><u>Unbeatable Deal: Discounted 8TB Samsung Portable SSD Post-Prime Day on Amazon - ZDNet</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-captivating-sound-design-essentials-review-of-premier-audio-editors-pros-and-cons/"><u>Updated In 2024, Captivating Sound Design Essentials Review of Premier Audio Editors, Pros & Cons</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows Error 0X80071A90 Quickly
-date: 2025-01-19T23:47:20.171Z
-updated: 2025-01-25T02:33:21.544Z
+date: 2025-01-29T03:32:33.143Z
+updated: 2025-02-04T09:48:56.445Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Factors That Might Be Contributing to the 0x80071A90 Error
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
 
  Regardless of what might be causing the problem in your case, the troubleshooting methods we have listed above should help you fix it in no time. Proceed with the method that fits your situation the best.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disable Your Antivirus
 
  Antivirus programs are designed to protect your computer from harmful software and viruses but in doing so, they may also prevent some legitimate Windows components and features from installing or updating properly. This typically happens when the antivirus falsely considers the feature to be harmful.
@@ -57,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
 
  Once the security program is disabled, try enabling the targeted Windows feature again and check if the problem is now fixed. If the antivirus program happens to be the culprit, you can consider switching to a better alternative.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Perform the Action in Safe Mode
 
  As we mentioned earlier, certain applications and processes running in the background can also interfere with the installation or enablement of Windows features. To prevent any potential third-party software conflicts, you can try performing the action in Safe Mode.
@@ -64,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
  This mode launches Windows with only the necessary drivers and services, allowing you to finish tasks without interference from third-party software.
 
  Once you[boot into Safe Mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) , launch the Windows Features utility and try performing the action that was initially triggering the error. If a background process was leading to it, you should be able to enable the targeted feature without any problems now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Rebuild the WMI Repository
 
@@ -90,16 +86,24 @@ Follow these steps to proceed:
 
  If nothing else works, these general WIndows fixes can help you fix the issue:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update Windows
 
 ![install windows 11 feature update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-windows-11-feature-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you haven’t installed the latest Windows updates in a while, then you might be facing the problem due to an outdated system. This can be due to a compatibility issue or because your system lacks updates/hotfixes that were released by Microsoft to address specific issues related to Windows features.
 
  In this case, we recommend taking your time to[install any pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) available. This will ensure that the drivers and software are compatible with the latest version of Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Check the System for Corruption Errors
@@ -111,10 +115,6 @@ Follow these steps to proceed:
  To fix such corruption errors, you can use a tool like the System File Checker (SFC) to scan and repair system files or the Deployment Image Servicing and Management (DISM) tool to repair the Windows component store. You can run both these utilities via Command Prompt.
 
  Follow the correct steps for running SFC and DISM in Windows in our guide on[how to fix file system errors on Windows](https://www.makeuseof.com/fix-file-system-errors-windows/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enable Your Windows Features Again
 
@@ -137,16 +137,21 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-insights-into-timecode-manipulation-in-macos-srt-files/"><u>[New] Expert Insights Into Timecode Manipulation in macOS SRT Files</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-record-speech-review-content/"><u>[Updated] 2024 Approved Record Speech, Review Content</u></a></li>
-<li><a href="https://driver-download.techidaily.com/comprehensive-tutorial-updating-your-acer-aspires-windows-drivers/"><u>Comprehensive Tutorial: Updating Your Acer Aspire's Windows Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-performance-resurrecting-slow-excel-operations-on-windows/"><u>Enhance Performance: Resurrecting Slow Excel Operations on Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhance-visuals-the-win7-guide-to-revitalizing-intelldrivers/"><u>Enhance Visuals: The Win7 Guide to Revitalizing IntellDrivers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/galaxy-visionhub-premium-integrated-4k-all-in-one-panels/"><u>Galaxy VisionHub Premium Integrated 4K All-in-One Panels</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/get-inspired-from-top-10-recruitment-videos/"><u>Get Inspired From Top 10 Recruitment Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-low-vram-errors-in-magical-education-game-hogwarts/"><u>Overcoming Low VRAM Errors in Magical Education Game 'Hogwarts'</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-tasks-get-your-pcs-outlook-preview/"><u>Simplifying Tasks: Get Your PC's Outlook Preview</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-potential-a-quick-fix-for-windows-pin/"><u>Unlock Potential: A Quick Fix for Windows PIN</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-hidden-techniques-for-full-ram-utilization-on-windows/"><u>Unveiling Hidden Techniques for Full RAM Utilization on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/system-takes-a-break-after-games/"><u>[SYSTEM] Takes a Break After Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-googles-ar-sticker-innovation-an-inside-look-and-alternatives/"><u>2024 Approved Google's AR Sticker Innovation An Inside Look & Alternatives</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-social-media-connectivity-embedding-live-streams-from-twitch-to-fb/"><u>2024 Approved Social Media Connectivity Embedding Live Streams From Twitch to FB</u></a></li>
+<li><a href="https://win11.techidaily.com/confronting-uptime-setbacks-dealing-with-error-code-0x80246007/"><u>Confronting Uptime Setbacks: Dealing with Error Code 0X80246007</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/demystifying-music-production-software-with-magix-music-maker-2024-review/"><u>Demystifying Music Production Software with Magix Music Maker 2024 Review</u></a></li>
+<li><a href="https://win11.techidaily.com/easily-boot-into-linux-with-windows-subsystem/"><u>Easily Boot Into Linux with Windows Subsystem</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/flipping-currencies-through-cosmetics-content/"><u>Flipping Currencies Through Cosmetics Content</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-google-pixel-fold-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Google Pixel Fold Pattern Lock Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/function-keys-not-working-in-windows-11-heres-what-to-do/"><u>Function Keys Not Working in Windows 11? Here's What to Do</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-high-cpu-usage-when-gaming-on-windows/"><u>How to Fix a High CPU Usage When Gaming on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improving-gaming-experience-by-addressing-and-correcting-drop-in-fps-rates/"><u>Improving Gaming Experience by Addressing and Correcting Drop in FPS Rates</u></a></li>
+<li><a href="https://win11.techidaily.com/keeping-high-usage-at-bay-streamline-media-on-windows-11/"><u>Keeping High Usage at Bay: Streamline Media on Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/save-on-high-tech-eyewear-with-affordable-xr-glasses-that-beat-the-apple-vision-pro-hype/"><u>Save on High-Tech Eyewear with Affordable XR Glasses That Beat the Apple Vision Pro Hype</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-power-of-pixels-on-windows-1011-screens/"><u>Unlock the Power of Pixels on Windows 10/11 Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-control-center-with-easy-methods/"><u>Unlocking Control Center with Easy Methods</u></a></li>
 </ul></div>
 

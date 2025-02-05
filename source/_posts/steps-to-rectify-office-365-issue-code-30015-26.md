@@ -1,7 +1,7 @@
 ---
 title: Steps to Rectify Office 365 Issue Code 30015-26
-date: 2024-08-08T13:18:49.799Z
-updated: 2024-08-09T13:18:49.799Z
+date: 2025-01-30T06:38:08.127Z
+updated: 2025-02-04T06:12:01.032Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,15 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 
 ![Running the cleanup tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/cleanup-tool-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to access it faster, you can [add a Disk Cleanup option to the context menu](https://www.makeuseof.com/how-to-add-a-disk-clean-up-option-to-the-local-disk-icons-context-menu-in-windows-11/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Restart BITS Services
 
@@ -47,21 +55,19 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 
  Now, reboot your computer and check if Microsoft 365 is still showing the 30015-26 error code.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Try Some Generic Windows Fixes
 
  There are some general tricks you can use on the Office app which help fix app-based errors in general.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Repair the Office App
 
  If running the Disk Cleanup tool didn’t solve the issue, you should repair Microsoft 365\. To do so, launch Windows Settings and go to **Apps > Installed apps**. Open the **three-dot** menu next to Microsoft 365 and click **Modify**. Then, click the **Repair** button and confirm the action in the pop-up window.
 
 ![Repair Microsoft 365](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-microsoft-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re still facing the error code 30015-26, go through the instruction again and select **Online repair** for a more detailed fixing process.
 
@@ -69,35 +75,30 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 
  Windows relies on system files to fetch the information it needs to work smoothly. There’s a chance Microsoft 365 is showing the 30015-26 error code if some of the system files are missing or got corrupted.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortunately, there’s an easy fix for you to try. Log into your administrator account and [run the SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) to automatically detect and replace any corrupted system files.
 
  If you get the **Windows Resource Protection did not find any integrity violations** message after running the scan, there’s nothing wrong with your system files.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Reinstall Office
 
  As always, if nothing worked, and you still can’t figure out what's wrong, it’s time to reinstall Microsoft 365\. Before doing so, make sure you have access to the product key.
 
  Press **Windows key + I** to launch Windows Settings and go to **Apps > Installed apps**. Click the **three-dot** icon next to **Microsoft 365** and select **Uninstall**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Uninstall Microsoft 365 in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-microsoft365-1.jpg)
 
  Once the process is complete, go to the [Microsoft 365 website](https://www.microsoft.com/microsoft-365) and download the app. Alternatively, you could download Microsoft 365 through the Microsoft Store.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Turn Off the Antivirus
 
  When updating, Microsoft 365 is establishing a connection with Microsoft’s servers. However, a third-party antivirus software, or even a VPN, might wrongly identify this connection as dangerous and block it.
@@ -112,11 +113,27 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Now, let’s take a look at how you can get rid of the 30015-26 error code.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-accelerate-engagement-quick-instagram-likes-and-videos-strategy-for-2024/"><u>[New] Accelerate Engagement Quick Instagram Likes and Videos Strategy for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-pro-audio-software-win-edition-for-2024/"><u>[Updated] Pro Audio Software Win Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-visual-description-programmer/"><u>[Updated] Visual Description Programmer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-confidentiality-concerns-is-it-safe-to-share-private-information/"><u>ChatGPT and Confidentiality Concerns – Is It Safe to Share Private Information?</u></a></li>
+<li><a href="https://win11.techidaily.com/compreehing-window-10-closed-caption-problems-a-quick-fix/"><u>Compreehing Window 10 Closed Caption Problems: A Quick Fix</u></a></li>
+<li><a href="https://article-tips.techidaily.com/harnessing-metaverse-promotion-power/"><u>Harnessing Metaverse Promotion Power</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-exception-reached-error-during-debugging/"><u>How to Resolve 'Exception Reached' Error During Debugging</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-14-plus-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 14 Plus Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-s24-ultra-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy S24 Ultra Device</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-hurdles-to-use-windows-with-steam-link/"><u>Overcoming Hurdles to Use Windows with Steam Link</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/revolutionizing-workflows-with-abbyy-discover-the-next-generation-rpa-solutions-for-modern-enterprises/"><u>Revolutionizing Workflows with ABBYY: Discover the Next Generation RPA Solutions for Modern Enterprises</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-list-elite-quality-4k-displays/"><u>TOP 10 List Elite Quality 4K Displays</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-troubleshooting-resolving-roblox-closure-request-errors/"><u>Windows Troubleshooting: Resolving Roblox Closure Request Errors</u></a></li>
+</ul></div>
+

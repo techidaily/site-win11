@@ -1,7 +1,7 @@
 ---
 title: Steps to Overcome OBS Recording Glitch on Windows
-date: 2025-01-22T09:04:37.281Z
-updated: 2025-01-25T07:57:20.083Z
+date: 2025-01-28T04:55:12.443Z
+updated: 2025-02-03T21:04:22.285Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/b65c1700fc3be6103fe73469bcdff9ebd5593034f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart OBS Studio
 
 ![Closing the OBS Studio Process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/end-task.jpg)
@@ -45,6 +49,10 @@ Here's what you need to do:
 ![Disable Device option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-device-option-1.jpg)
 4. Click**Yes** to the prompt that appears.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your screen might flicker after disabling the dedicated graphics driver. But worry not; it'll become normal after the generic driver is started.
 
  Now, launch the OBS Studio and open your project. Then, open the Device Manager again > access the Display adapters node > right-click on the dedicated graphics driver and choose**Enable device.**
@@ -52,14 +60,10 @@ Here's what you need to do:
 ![Enable Device option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-device.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it! Return to OBS Studio and check if you are able to record.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Allow OBS Studio Through Your Firewall
 
@@ -71,24 +75,24 @@ Here's what you need to do:
 ![Allow an app or feature through Windows Defender Firewall option in Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-an-app-or-feature-through-windows-defender-firewall-option.jpg)
 4. Click the**Change settings** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click on**Allow another app** and then choose**Browse** from the**Add an app** prompt.  
 ![Add an app prompt in the Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-an-app.jpg)
 6. Navigate to the location where you have installed the OBS Studio.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Select the**obs-ffmpeg-mux** executable file and click**Open.**  
 ![obs-ffmpeg-mux file in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/obs-ffmpeg-mux-file.jpg)
 8. Click**Add.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Check both the**Private** and**Public** boxes for**obs-ffmpeg-mux** and click**OK** to save the settings.  
 ![Private and Public boxes for OBS File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/private-and-public-boxes.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Restart your computer and check if the problem continues.
 
@@ -120,12 +124,12 @@ You can do that by following the below instructions:
 ![Advanced system settings option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-system-settings.jpg)
 4. Click the**Environment Variables** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Environment Variables option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enviroment-variables.jpg)
 5. Select**Path** under the**System Variables** section, and click the**Edit** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Paste the following path in the**Variable value** text box and click**OK.**  
 `C:\Program Files (x86)\obs-studio\bin\32bit;`  
@@ -134,7 +138,7 @@ You can do that by following the below instructions:
  That's it! Now, start recording in OBS Studio and check if the problem persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Check for Corrupted or Missing Files
@@ -150,10 +154,6 @@ You can do that by following the below instructions:
  OBS Studio will compare the available files with those on its server and download any missing or broken files.
 
  While you're at the OBS Studio home screen, check for and download any available updates. To do that, click**Help** and choose**Check for Updates** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall OBS Studio
 
@@ -180,17 +180,24 @@ You can do that by following the below instructions:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-engage-audiences-with-these-inspiring-free-templates-for-slideshows/"><u>[New] In 2024, Engage Audiences with These Inspiring, Free Templates for Slideshows</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-creating-stunning-time-lapses-using-gopro-studio/"><u>[Updated] In 2024, Creating Stunning Time Lapses Using GoPro Studio</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-ultraportable-laptop-with-stunning-visuals-at-an-incredible-discounted-price-today-techspot/"><u>Discover the Ultraportable Laptop with Stunning Visuals at an Incredible Discounted Price Today | TechSpot.</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-podcast-apps-android-editions-top-picks/"><u>Essential Podcast Apps Android Edition's Top Picks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-the-benefits-and-drawbacks-of-chatgpt-in-creative-composition/"><u>Evaluating the Benefits & Drawbacks of ChatGPT in Creative Composition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-kitchen-to-code-your-roadmap-for-switching-careers-into-technology-with-zdnet-insights/"><u>From Kitchen to Code: Your Roadmap for Switching Careers Into Technology with ZDNet Insights</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-in-class-subtitle-converters-revealed-transform-sub-into-srtr-in-minutes-not-hours/"><u>In 2024, Best-in-Class Subtitle Converters Revealed Transform SUB Into SRTR in Minutes, Not Hours</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-overcome-the-size-limit-hurdle-in-discord-win11/"><u>Strategies to Overcome the Size Limit Hurdle in Discord (Win11)</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-facebook-messenger-on-your-pc-now/"><u>Streamline Facebook Messenger On Your PC Now</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-os-anomalies-a-comprehensive-guide-to-finding-and-fixing-windows-errors-through-command-prompt/"><u>Tackling OS Anomalies: A Comprehensive Guide to Finding & Fixing Windows Errors Through Command Prompt</u></a></li>
-<li><a href="https://win11.techidaily.com/upgrading-windows-11-context-menus-move-and-copy-integration-guide/"><u>Upgrading Windows 11 Context Menus: Move and Copy Integration Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-get-smart-with-your-youtube-thumbnails-using-a-mac/"><u>[New] Get Smart with Your YouTube Thumbnails, Using a Mac</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-virtual-quality-assurance-examining-apps-with-vll/"><u>[New] In 2024, Virtual Quality Assurance Examining Apps with VLL</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-cam-division-is-splitcam-the-1-choice-in-2024/"><u>[Updated] Cam Division Is SplitCam the #1 Choice, In 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-enhance-yt-experience-the-most-outstanding-reaction-ideas/"><u>[Updated] Enhance YT Experience The Most Outstanding Reaction Ideas</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-iphone-se-2020-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From iPhone SE (2020)</u></a></li>
+<li><a href="https://win11.techidaily.com/command-mastery-embracing-sudo-on-windows-pcs/"><u>Command Mastery: Embracing Sudo on Windows PCs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/effortless-entry-to-entertainment-the-ifunny-app-experience/"><u>Effortless Entry to Entertainment The iFunny App Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/hide-time-show-dates-taskbar-settings-insight/"><u>Hide Time, Show Dates - Taskbar Settings Insight</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-fix-graphics-issues-on-your-windows-pc-a-step-by-step-guide/"><u>How to Fix Graphics Issues on Your Windows PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-discover-the-joy-of-real-time-broadcasting-with-fb-and-roku/"><u>In 2024, Discover the Joy of Real-Time Broadcasting with FB & Roku</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-computer-mechanics-creating-and-interpreting-reports/"><u>Mastering Computer Mechanics: Creating & Interpreting Reports</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-quickly-to-system-resolutions-in-windows-using-keys/"><u>Navigating Quickly to System Resolutions in WIndows Using Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/new-ui-features-in-enhanced-windows-11/"><u>New UI Features in Enhanced Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-windows-11-altering-system-preferences/"><u>Personalizing Windows 11: Altering System Preferences</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-functional-key-presses-for-snipshot/"><u>Restoring Functional Key Presses for Snipshot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/scaricamento-rapido-e-facile-come-usare-il-dvd-di-movavi-con-solo-un-click/"><u>Scaricamento Rapido E Facile: Come Usare Il DVD Di Movavi Con Solo Un Click</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-resolving-system-call-failed-errors-in-windows/"><u>Step-by-Step: Resolving System Call Failed Errors in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/synthesize-your-way-through-the-voice-driven-accessibility-of-win11/"><u>Synthesize Your Way Through the Voice-Driven Accessibility of Win11</u></a></li>
 </ul></div>
 

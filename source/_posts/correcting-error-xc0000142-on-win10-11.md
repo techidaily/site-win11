@@ -1,7 +1,7 @@
 ---
 title: Correcting Error XC0000142 on Win10, 11
-date: 2024-08-08T13:18:04.612Z
-updated: 2024-08-09T13:18:04.612Z
+date: 2025-01-30T18:01:44.842Z
+updated: 2025-02-03T20:26:04.836Z
 tags:
   - windows10
   - windows11
@@ -22,12 +22,13 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 
  So, if you're running into this issue, this is how you can fix error 0xc0000142 in Windows 11 and 10\.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Run Affected Software With Admin Permissions
 
  Start your error 0xc0000142 troubleshooting by setting the affected software to run as an administrator. That will ensure the program can access more restricted file locations. You could potentially stop this error code by [setting the affected app to always run as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Set Affected Software to Run in Compatibility Mode
 
@@ -51,14 +52,15 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 
  Corrupted DLL (Dynamic Link Library) system files can cause error 0xc0000142\. You can check for and remedy system file corruption by [running the Windows System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-sfc-scannow-command5.jpg)
 
  We also recommend running a Deployment Imaging Servicing Management scan command. That utility can remedy issues with the Windows system image. To run that tool, execute this command in the Command Prompt:
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Set the Right System Locale
 
@@ -66,23 +68,14 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 
 1. Press **Windows** key + **R**, type **Control Panel** in Run, and select **OK**.
 2. Click on **Region** inside the All Control Panel Items window.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![The Region applet in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/region-in-control-panel.jpg)
 3. Next, click on the **Administrative** tab.
 4. Press the **Change system locale** button.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Change system locale button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-system-locale-button.jpg)
 5. Select the correct region for your PC in the drop-down menu.
 6. Press **OK** in the Region Settings window.
 7. Click on the **Apply** button to save your regional settings and **OK** to exit.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Reregister DLL Files in Windows
 
  Lots of users have said reregistering all DLL files works for fixing error 0xc0000142\. This highlights that error 0xc0000142 arises because some required DLL files aren't correctly registered. There are many DLL files, but you can reregister them all by executing a single command as follows:
@@ -91,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 2. [Open the Command Prompt with admin privileges](https://www.makeuseof.com/windows-run-command-prompt-admin/) by selecting **Run as administrator** for that app's search result.
 3. Input this command for reregistering DLLs and hit **Return**:  
 `for %1 in (*.dll) do regsvr32 /s %1`  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The reregister all DLLs command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/re-register-all-command.jpg)
 4. Then wait until all the DLLs have been registered before closing the Command Prompt.
 
@@ -101,28 +91,35 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 
  Another possible reason for the error 0xc0000142 is that your PC has bad disk sectors. You can check for and repair bad disk sectors by [running a CHKDSK (Check Disk) scan](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) in the Command Prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The CHKDSK command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chkdsk-scan.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Update the Driver for Your PC's GPU (Graphics Processing Unit)
 
  If you need to fix the error 0xc0000142 for a Windows game, [updating your PC's graphics driver](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) might help. You can do that manually, using a third-party driver updater tool or AMD or NVIDIA software like GeForce Experience.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![A Download option in GeForce Experience](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/geforce-experience.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Enable the .NET Framework 3.5 Feature
 
  Some programs need older .NET Framework versions to run in Windows. So, you might need to [enable .NET Framework 3.5 on Windows](https://www.makeuseof.com/windows-10-install-net-framework-version-35/) if that feature isn't available on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![The .NET Framework option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/net-framework-3-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Edit the Windows Registry Key
 
@@ -138,23 +135,25 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 ![The Windows key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-key.jpg)
 5. Double-click on the **LoadAppInit\_DLLs** DWORD.
 6. Then input **0** in the **Value data** box if that DWORD is set differently.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The EDIT DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-dword-window.jpg)
 7. Click **OK** to apply the new value for the LoadAppInit\_DLLs DWORD.
 8. Close out of the Registry Editor and restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Reinstall Affected Software Packages
 
  The final potential solution is reinstalling software packages for which the 0xc0000142 error occurs. Doing so will refresh and repair the software's files, which might be necessary if other resolutions don't work. Reinstalling is also another way to update apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-uninstall-option.jpg)
 
  There are [many ways to uninstall software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/), and you can choose any method to remove the app. However, if the error occurs when you open a game, you may need to uninstall it with its client software, such as the Epic Games Launcher. Then, reinstall the latest version of the app or game by downloading it from its website or gaming client.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Error 0xc0000142 Sorted Out in Windows 11 and Windows 10
 
@@ -166,11 +165,28 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 
  So, if you're running into this issue, this is how you can fix error 0xc0000142 in Windows 11 and 10\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-mastering-video-editing-in-windows-11-your-movie-maker-primer/"><u>[New] Mastering Video Editing in Windows 11 - Your Movie Maker Primer</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-advanced-techniques-sending-subtitles-to-instagram-linkedin/"><u>[Updated] Advanced Techniques Sending Subtitles to Instagram, LinkedIn</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-new-horizons-in-video-player-software/"><u>[Updated] Navigating New Horizons in Video Player Software</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/efficiently-managing-discord-spoiler-tags-in-chats/"><u>Efficiently Managing Discord Spoiler Tags in Chats</u></a></li>
+<li><a href="https://win11.techidaily.com/enable-missing-sd-card-view-on-file-explorer-platform/"><u>Enable Missing SD Card View on File Explorer Platform</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-lg-k51-beautiful-design-hindered-by-inadequate-processing-speed/"><u>Exploring the LG K51: Beautiful Design Hindered by Inadequate Processing Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/ftdibussys-in-depth-investigating-windows-memory-integrity-breach/"><u>Ftdibus.sys in Depth: Investigating Windows Memory Integrity Breach</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-12-mini-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 12 mini Location by Number | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-file-explorer-top-errors-and-how-to-evade-them/"><u>Mastering File Explorer: Top Errors & How to Evade Them</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-game-potential-with-these-pro-gamers-top-tips-for-win-11/"><u>Maximize Game Potential with These Pro-Gamers' Top Tips for Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/precision-tactics-for-perfect-window-updates/"><u>Precision Tactics for Perfect Window Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-fix-geforce-nows-error-code-0xc0f1103f-in-windows/"><u>Steps to Fix GeForce Now's Error Code 0Xc0f1103f in Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/success-story-correcting-the-common-error-of-outlook-disconnection/"><u>Success Story: Correcting the Common Error of Outlook Disconnection</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unleash-lightning-fast-media-experience-with-our-comprehensive-look-at-the-fire-tv-cube/"><u>Unleash Lightning-Fast Media Experience with Our Comprehensive Look at the Fire TV Cube</u></a></li>
+</ul></div>
+

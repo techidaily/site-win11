@@ -1,7 +1,7 @@
 ---
 title: Key Strategies for Accessing Disk Management in Win 10/11
-date: 2025-01-20T03:07:59.524Z
-updated: 2025-01-24T19:22:33.532Z
+date: 2025-01-29T16:07:48.606Z
+updated: 2025-02-04T09:53:33.271Z
 tags:
   - windows10
   - windows11
@@ -29,12 +29,20 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 * [Use the Run Dialog to Open Disk Management](#use-the-run-dialog-to-open-disk-management)
 * [Open Disk Management From the Control Panel](#open-disk-management-from-the-control-panel)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Disk Management is a Windows tool that allows you to set up your new storage drive and manage existing ones.
 * Windows offers many ways to open Disk Management. While the search tool makes finding it easy, other methods have their own advantages.
 
  Unlike external drives, you cannot just connect a new internal SSD and start using it right away on Windows. You'll need to go through an initial setup process using a utility called Disk Management. Whatever you need this tool for, we'll teach you how to open it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is Windows Disk Management?
 
@@ -45,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 ![Disk Management app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/6-ways-to-open-disk-management-windows-10-0.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Search for Disk Management in Windows
@@ -58,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
  Both search keywords do the same thing. Although you don't see "Disk Management" as a result, the best match will still launch the program you need to initialize or manage your storage drives.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Launch Disk Management From the Quick Access Menu
@@ -79,15 +87,7 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 ![Run dialog box with diskmgmt command in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/run-dialog-box-with-diskmgmt-command-in-windows-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This way to open Disk Management is preferable if you're busy on the keyboard and don't want to reach for your mouse.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Open Disk Management From the Control Panel
 
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 ![Control Panel with Windows Tools highlighted in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/control-panel-with-windows-tools-highlighted-in-windows-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don't make the mistake of clicking **Administrative/Windows Tools**; that will open File Explorer instead.
@@ -124,24 +124,16 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-best-screen-recording-software-top-10-list/"><u>[New] 2024 Approved Best Screen Recording Software Top 10 List</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-more-loyal-viewers-unlock-top-strategies-for-enhancing-viewer-retention-on-youtube/"><u>[New] 2024 Approved Gain More Loyal Viewers Unlock Top Strategies for Enhancing Viewer Retention on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-profit-from-youtube-monetize-youtube-shorts-and-boost-your-income/"><u>[New] 2024 Approved Profit From YouTube Monetize YouTube Shorts and Boost Your Income</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-webcam-mastery-creating-videos-on-macbook-for-2024/"><u>[New] Webcam Mastery Creating Videos on MacBook for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-step-by-step-guide-to-elevating-video-presence-through-thumbnails/"><u>[Updated] Step-by-Step Guide to Elevating Video Presence Through Thumbnails</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-your-path-to-youtube-studio-the-editors-command-center-for-2024/"><u>[Updated] Your Path to YouTube Studio The Editor's Command Center for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/best-photo-boosts-for-perfecting-your-feed/"><u>Best Photo Boosts for Perfecting Your Feed</u></a></li>
-<li><a href="https://win11.techidaily.com/conquer-games-on-windows-11-the-top-6-fps-measurement-software/"><u>Conquer Games on Windows 11: The Top 6 FPS Measurement Software</u></a></li>
-<li><a href="https://win11.techidaily.com/discovering-the-magic-in-w11s-moment-22h2-update/"><u>Discovering the Magic in W11’s Moment #22H2 Update</u></a></li>
-<li><a href="https://some-tips.techidaily.com/essential-guide-most-popular-iphone-sixteen-variants-and-your-wait-time-explained-exclusive-zdnet-report/"><u>Essential Guide: Most Popular iPhone ˈSixteen Variants and Your Wait Time Explained - Exclusive ZDNET Report</u></a></li>
-<li><a href="https://win11.techidaily.com/explaining-and-resolving-windows-error-code-30005-failure/"><u>Explaining and Resolving Windows Error Code: 30005 Failure</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/maximizing-memories-techniques-for-gameplay-recording-for-2024/"><u>Maximizing Memories Techniques for Gameplay Recording for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/merry-magi-xmas-wrapped-with-ms-store-treasures/"><u>Merry Magi: Xmas Wrapped with MS Store Treasures</u></a></li>
-<li><a href="https://win11.techidaily.com/obscuring-linguistic-icon-on-win11s-status-bar/"><u>Obscuring Linguistic Icon on Win11's Status Bar</u></a></li>
-<li><a href="https://extra-information.techidaily.com/precision-shade-modifier/"><u>Precision Shade Modifier</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-minimize-resource-consumption-by-unrealcefsubprocess/"><u>Solutions to Minimize Resource Consumption by UnrealCEFSubprocess</u></a></li>
-<li><a href="https://win11.techidaily.com/the-8-best-ways-to-fix-the-windows-operating-system-not-found-error/"><u>The 8 Best Ways to Fix the Windows Operating System Not Found Error</u></a></li>
-<li><a href="https://win11.techidaily.com/unmasking-and-correcting-w11-crashes/"><u>Unmasking and Correcting W11 Crashes</u></a></li>
-<li><a href="https://win11.techidaily.com/upgrade-your-visual-appeal-with-fancywm-tech/"><u>Upgrade Your Visual Appeal with FancyWM Tech</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-complete-guide-to-downloading-youtube-videos-to-iphone-or-ipad/"><u>[Updated] In 2024, A Complete Guide to Downloading YouTube Videos to iPhone or iPad</u></a></li>
+<li><a href="https://win11.techidaily.com/disarming-windows-update-fault-code-0xca00a009/"><u>Disarming Windows Update Fault Code 0xCA00A009</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030155755-flac/"><u>FLACオーディオ形式でのプレイバック手順と、再生に失敗した場合の解決策</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-ideal-choices-for-comprehensive-movement-recording/"><u>In 2024, Ideal Choices for Comprehensive Movement Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-troubleshooting-obs-fullscreen-failure/"><u>In 2024, Troubleshooting OBS Fullscreen Failure</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-honor-70-lite-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Honor 70 Lite 5G Phone Network-Ready</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/paramounts-best-vr-movies-to-watch-now/"><u>Paramount's Best VR Movies to Watch Now</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-functionality-reactivating-cortana-on-win11/"><u>Regain Functionality: Reactivating Cortana on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-making-taskmanager-prominent/"><u>Tips for Making TaskManager Prominent</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-to-dxvk-gaming-lifesaver-in-windows-realm/"><u>Ultimate Guide to DXVK – Gaming Lifesaver in Windows Realm</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-variances-microsoft-vs-non-microsoft-user-access-on-windows-systems/"><u>Understanding Variances: Microsoft vs Non-Microsoft User Access on Windows Systems</u></a></li>
 </ul></div>
 

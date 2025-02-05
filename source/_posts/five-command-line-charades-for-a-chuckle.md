@@ -1,7 +1,7 @@
 ---
 title: Five Command Line Charades for a Chuckle
-date: 2025-01-22T17:01:49.886Z
-updated: 2025-01-24T17:44:28.540Z
+date: 2025-02-03T00:12:28.482Z
+updated: 2025-02-04T06:07:54.629Z
 tags:
   - windows10
   - windows11
@@ -24,12 +24,16 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Customize Your Look
 
 ![screenshot of a customized command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_customized_cmd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You may know this one already, as it can be a great tool to play around with for accessibility purposes. Command Prompt can be fully customized, from background and text color, font, opacity, and more.
 
@@ -42,16 +46,12 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
  You can make some pretty ridiculous Command Prompts this way, or further refine the window to your exact needs. The features are so extensive that it might be worth brushing up on [customizing the command prompt](https://www.makeuseof.com/windows-customize-command-prompt/) if it's something that interests you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Watch Star Wars on Command Prompt
 
 ![screenshot of the cmd telnet star wars recreation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_starwars_recreation.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This one has the potential to lead to a lot of fun, and even some curious looks from anyone who might not be privy to how Command Prompt works.
 
@@ -61,16 +61,16 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
 ![screenshot of the windows features window showing telnet client selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_windows_features_telnet_client.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, here's the fun part. Run the following commands, hitting **Enter** after each one:
 
 1. **telnet telehack.com**
 2. **starwars**
 
  Lean back and enjoy a bizarre recreation of Star Wars!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. More Telnet Fun: Command Prompt Aquarium
 
@@ -107,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 [Consider reading more about Traceroute](https://www.makeuseof.com/traceroute-what-is-it/), as it can be helpful in network troubleshooting as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Shut Down Your Computer Without the Mouse or Power Button
@@ -136,15 +136,22 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-precision-photography-and-videography-prime-lens-excellence-in-4k/"><u>[New] Precision Photography & Videography Prime Lens Excellence in 4K</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-beginning-the-video-odyssey-how-to-create-an-engaging-youtube-channel/"><u>[Updated] 2024 Approved Beginning the Video Odyssey How to Create an Engaging YouTube Channel</u></a></li>
-<li><a href="https://win11.techidaily.com/command-line-power-procure-system-insight-immediits/"><u>Command-Line Power: Procure System Insight Immediits</u></a></li>
-<li><a href="https://win11.techidaily.com/conquer-unsupported-windows-interfaces-an-expert-guide/"><u>Conquer Unsupported Windows Interfaces: An Expert Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/expose-hidden-components-in-windows-11-display/"><u>Expose Hidden Components in Windows 11 Display</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-what-is-mukbang-and-how-to-make-mukbang-videos/"><u>In 2024, What Is Mukbang and How to Make Mukbang Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/pc-and-mac-techniques-utilizing-dslr-for-facebook-live-for-2024/"><u>PC & Mac Techniques Utilizing DSLR for Facebook LIVE for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solution-to-fixing-windows-error-0xc00000f/"><u>Swift Solution to Fixing Windows Error 0Xc00000f</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-unbeatable-champion-an-in-depth-review-of-the-alienware-aurora-r11-a-gamers-dream/"><u>The Unbeatable Champion: An In-Depth Review of the Alienware Aurora R11 - A Gamer's Dream</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-top-tier-electronic-notekeepers-in-depth-analysis-by-industry-experts-pcmag/"><u>Ultimate Guide to Top-Tier Electronic Notekeepers: In-Depth Analysis by Industry Experts - PCMag</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-master-download-manager-facebook-and-firefox-edition-tools/"><u>[New] 2024 Approved Master Download Manager Facebook & FireFox Edition Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-transform-meetings-with-easy-to-follow-zoom-sharing-tips/"><u>[New] In 2024, Transform Meetings with Easy-to-Follow Zoom Sharing Tips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-to-get-paid-to-review-products-on-youtube-for-2024/"><u>[Updated] How to Get Paid to Review Products on YouTube for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-rectify-obs-studio-errors-on-win-11/"><u>Essential Guide: Rectify OBS Studio Errors on Win 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-emotion-to-entertainment-the-artisans-approach-to-making-memes-gifs/"><u>From Emotion to Entertainment The Artisan’s Approach to Making Memes (GIFs)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-data-recovery-recover-lost-data-from-honor-90-lite-by-fonelab-android-recover-data/"><u>Honor Data Recovery – recover lost data from Honor 90 Lite</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-digital-still-extraction-windows-11-guide-for-videos/"><u>In 2024, Digital Still Extraction Windows 11 Guide for Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-file-type-alteration/"><u>Navigating Windows File Type Alteration</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-microsoft-store-error-0x80073cf3-in-windows-11/"><u>Resolving Microsoft Store Error 0X80073CF3 in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-common-itunes-malfunctions-on-a-windows-system/"><u>Solving Common iTunes Malfunctions on a Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/standardizing-the-initial-touchscreen-key-arrangement-in-windows-11/"><u>Standardizing the Initial Touchscreen Key Arrangement in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-remedy-error-0x80072f8f-0x20000-in-os/"><u>Steps to Remedy Error 0X80072f8f - 0X20000 in OS</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-freezing-excel-scrolls-on-your-windows-system/"><u>Stop Freezing Excel Scrolls on Your Windows System</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/the-quick-fix-hotkey-tricks-for-effective-program-management/"><u>The Quick Fix: Hotkey Tricks for Effective Program Management</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-understanding-the-significance-of-team-collaboration-in-cinematic-projects/"><u>Updated Understanding the Significance of Team Collaboration in Cinematic Projects</u></a></li>
 </ul></div>
 

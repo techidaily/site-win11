@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step to Build Secure Hardware Removal Icon
-date: 2025-01-21T22:36:33.371Z
-updated: 2025-01-25T03:49:02.656Z
+date: 2025-02-02T19:32:33.630Z
+updated: 2025-02-04T07:37:33.549Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Set Up a "Safely Remove Hardware" Desktop Shortcut
 
  The Safely Remove Hardware dialog has a long Run command that’s not easy to remember. To make that feature more directly accessible, you can create a desktop shortcut based on its command. Then you can also turn that shortcut into a taskbar, Start menu, or keyboard one. This is how to set up a Safely Remove Hardware dialog desktop shortcut in Windows 11:
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
 2. Input this command within the location box:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `rundll32.exe shell32.dll,Control_RunDLL hotplug.dll`
@@ -46,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
 
 ![The Safely Remove Hardware dialog window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/safely-remove-hardware-devices-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That**Stop** option is not entirely the same as an ejection one. Selecting**Eject Portable** in the system tray will merely tell you if the device is still in use or safe to remove. Clicking**Stop** will stop what’s using the drive to make the device free for removal.
 
 ![The Eject Portable option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/eject-portable-option.jpg)
@@ -58,20 +58,20 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
 
  The Safely Remove Hardware desktop shortcut will be blank by default. However, you can add an icon to it by following the instructions in our[guide for customizing Windows 11/10 icons](https://www.makeuseof.com/tag/customize-icon-windows/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Set Up "Safely Remove Hardware" Taskbar and Start Menu Shortcuts
 
  Setting up a Safely Remove Hardware desktop shortcut will enable you to pin it to the taskbar or Start menu. To do so, right-click the Safely Remove Hardware icon on the desktop and select**Show more options** . The classic context menu in Windows 11 includes**Pin to taskbar** and**Pin to Start** menu options. So, select one of those options to create an alternative Safely Remove Hardware taskbar or Start menu shortcut.
 
 ![The Pin to taskbar option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pin-to-taskbar-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Adding Safely Remove Hardware to the taskbar or Start menu will make its desktop shortcut redundant. You can remove that desktop shortcut by right-clicking its icon and selecting**Delete** (the trash can icon).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up a "Safely Remove Hardware" Hotkey
@@ -81,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/shortcut-key-box.jpg)
 
  Creating such a hotkey doesn’t make the Safely Remove Hardware desktop shortcut redundant. The hotkey activates the desktop shortcut you assigned it to. So, erasing the Safely Remove Hardware desktop shortcut will delete the shortcut key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to a Set Up a "Safely Remove Hardware" Context Menu Shortcut
 
@@ -109,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
 
  That option can be easily removed from the context menu if you decide not to keep it there. To remove it, return to the registry key specified in step three above; right-click the**Safely Remove Hardware** key you added and select**Delete** . Then select**Yes** to delete the key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Utilize the Safely Remove Hardware Dialog Faster on Windows
 
  Creating a Safely Remove Hardware shortcut with any method above will make that dialog window more accessible whenever you need to remove a device. That dialog provides a handy alternative way for users to safely remove USB drives with additional options for viewing device details. You can use that dialog to view properties for connected drives and select to stop them so they can be removed without corrupting data.
@@ -132,18 +132,21 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-fb-forum-film-replayer-for-2024/"><u>[New] Fb Forum Film Replayer for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-frolics-of-fun-dissecting-the-goofy-movie/"><u>[New] In 2024, 'Frolics of Fun' - Dissecting 'The Goofy Movie'</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-crafting-an-engaging-fb-slideshow-experience/"><u>[New] In 2024, Crafting an Engaging FB Slideshow Experience</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-privacy-centric-explore-instagram-stories-anon-on-your-devices/"><u>[Updated] Privacy-Centric Explore Instagram Stories Anon on Your Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/devhome-demystified-guiding-you-through-win11-upgrades/"><u>DevHome Demystified: Guiding You Through Win11 Upgrades</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/download-and-install-asus-aura-desktop-effects-for-pc-on-windows-1110/"><u>Download and Install ASUS Aura Desktop Effects for PC on Windows 11/10</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-the-unsupported-windows-hello-scanner-mismatch/"><u>Eliminating the Unsupported Windows Hello Scanner Mismatch</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-windows-11s-isdonedll-problem-steps/"><u>Eliminating Windows 11'S ISDone.dll Problem Steps</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/expanding-your-virtual-environment-a-step-by-step-guide-to-enlarging-disks-in-vmware-vsphere/"><u>Expanding Your Virtual Environment: A Step-by-Step Guide to Enlarging Disks in VMware vSphere</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-guide-to-fixing-failed-windows-mmc-creations/"><u>Expert Guide to Fixing Failed Windows MMC Creations</u></a></li>
-<li><a href="https://article-posts.techidaily.com/how-to-use-zoom-in-gmail-best-ways/"><u>How to Use Zoom in Gmail [Best Ways]</u></a></li>
-<li><a href="https://win11.techidaily.com/improve-visual-identification-displaying-this-pc-icon/"><u>Improve Visual Identification: Displaying 'This PC' Icon</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-now-get-the-newest-samsung-nvme-850-evo-controller-drivers-for-optimal-performance/"><u>Update Now: Get the Newest Samsung Nvme 850 EVO Controller Drivers for Optimal Performance</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-automating-your-viewing-on-facebook-a-step-by-step-guide/"><u>[New] Automating Your Viewing on Facebook A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-behind-the-scenes-filmmaking-tips-from-youtube-experts/"><u>[New] In 2024, Behind-the-Scenes Filmmaking Tips From YouTube Experts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unlock-the-potential-of-livestreaming-on-ios-and-android/"><u>[Updated] In 2024, Unlock the Potential of Livestreaming on iOS and Android</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-achieving-visual-harmony-in-your-fb-videos-with-proper-ratio-adjustments/"><u>2024 Approved Achieving Visual Harmony in Your FB Videos with Proper Ratio Adjustments</u></a></li>
+<li><a href="https://win11.techidaily.com/decreasing-high-cpu-demand-from-tiworkerexe-tasks/"><u>Decreasing High CPU Demand From TiWorker.exe Tasks</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-your-windows-experience-conversion-made-simple/"><u>Enhancing Your Windows Experience: Conversion Made Simple</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-pics-with-exceptional-resolution-your-ultimate-guide-for-2024/"><u>Free Pics with Exceptional Resolution Your Ultimate Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-through-the-reinstallation-of-printmanagement-msconfig/"><u>Guiding Through the Reinstallation of 'PrintManagement' MSCONFIG</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-visualize-and-reclaim-your-storage-on-windows-with-altwindirstat/"><u>How to Visualize and Reclaim Your Storage on Windows With altWinDirStat</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-oppo-a59-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Oppo A59 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-15-plus-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone 15 Plus Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/masterclass-navigating-through-and-resolving-outlooks-error-0x80040610/"><u>Masterclass: Navigating Through and Resolving Outlook's Error 0X80040610</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-meme-maker-apps-for-android-and-ios-devices-updated-2023/"><u>New In 2024, Top Meme Maker Apps for Android and iOS Devices (Updated 2023)</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-system-snooze-for-idle-computers/"><u>Simplifying System Snooze for Idle Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/win10s-top-7-brushstrokes-exploring-exceptional-drawing-software/"><u>Win10's Top 7 Brushstrokes: Exploring Exceptional Drawing Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winxvideo-ai-intelligente-soluzione-di-editing-e-trasformazione-per-videoimmagini-perfeziona-equilibra-converte-e-personalizza-i-tuoi-clips/"><u>Winxvideo AI: Intelligente Soluzione Di Editing E Trasformazione per Video/Immagini - Perfeziona, Equilibra, Converte E Personalizza I Tuoi Clips</u></a></li>
 </ul></div>
 

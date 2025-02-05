@@ -1,7 +1,7 @@
 ---
 title: "Tackling Unresizable GIF Problems: A Fix Guide for Discord on Win11 PCs"
-date: 2025-01-22T17:32:36.788Z
-updated: 2025-01-24T19:25:43.842Z
+date: 2025-01-31T10:08:37.834Z
+updated: 2025-02-03T22:25:46.354Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Optimize the GIF
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 6. Click the **Save** button.  
 ![Save icon on Ezgif wesbite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/save-icon.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, check if you can upload the GIF. If not, probably the resolution is more than 128\*128 pixels. To reduce the resolution, follow the below steps:
 
 1. Switch to the **Resize** tab.
@@ -56,11 +60,7 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 4. Click the **Save** icon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Log Out and Back Into the Discord App
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
  To do that, first [uninstall the app on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and restart your computer. Then, visit the [Discord download page](https://discord.com/download) and install it on your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Contact Discord Support
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
  Are you still facing the issue? If yes, that means this is probably an issue with your Discord account. In this case, the only solution is to reach out to the [Discord support](https://support.discord.com/hc/en-us) team and ask them to resolve the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make Your Conversations Interesting With GIF Emotes on Discord
@@ -114,24 +114,16 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-decoding-dimensions-the-key-to-perfect-aspect-ratios-in-video/"><u>[New] 2024 Approved Decoding Dimensions The Key to Perfect Aspect Ratios in Video</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-evaluating-vegaspros-progressive-changes-2019/"><u>[Updated] In 2024, Evaluating VegasPro's Progressive Changes (2019)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-insiders-guide-to-capturing-crisp-vr-games/"><u>[Updated] In 2024, The Insider's Guide to Capturing Crisp VR Games</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-to-fixing-nvidia-opengl-issue-in-windows-11/"><u>Comprehensive Guide to Fixing NVIDIA OpenGL Issue in Windows 11</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/cookiebot-enhanced-personalization-tailor-your-user-experience/"><u>Cookiebot-Enhanced Personalization: Tailor Your User Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-windows-error-0xc0000001-expert-tips/"><u>Correcting Windows Error 0xC0000001: Expert Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-underappreciated-office-gem-in-our-top-pick-for-best-2-in-1-devices-of-the-year-exclusive-review/"><u>Discover the Underappreciated Office Gem in Our Top Pick for Best 2-in-1 Devices of the Year - Exclusive Review !</u></a></li>
-<li><a href="https://win11.techidaily.com/from-blank-screen-to-focused-workspace-reviving-hidden-panes-with-these-6-effortless-methods/"><u>From Blank Screen to Focused Workspace: Reviving Hidden Panes with These 6 Effortless Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/guidance-to-rectify-microsoft-store-error-0x80072efd/"><u>Guidance to Rectify Microsoft Store Error 0X80072EFD</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-apples-recent-payout-resolves-long-standing-macbook-dispute-unveiling-the-details-of-the-class-action-deal-gadgetdigest/"><u>How Apple's Recent Payout Resolves Long-Standing MacBook Dispute: Unveiling the Details of the Class Action Deal - GadgetDigest</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ipad-vs-ipad-air-a-comprehensive-comparison-determining-the-ideal-device-for-your-needs-zdnet/"><u>IPad Vs. IPad Air: A Comprehensive Comparison – Determining the Ideal Device for Your Needs | ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-windows-taskbar-showing-internet-speed/"><u>Maximizing Windows Taskbar: Showing Internet Speed</u></a></li>
-<li><a href="https://win11.techidaily.com/optimal-system-load-visualizers/"><u>Optimal System Load Visualizers</u></a></li>
-<li><a href="https://win11.techidaily.com/reveal-and-recognize-six-ways-to-discover-your-pc-model/"><u>Reveal & Recognize - Six Ways To Discover Your PC Model</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/speedy-conversion-techniques-transforming-3gp-files-into-superior-mp4-format/"><u>Speedy Conversion Techniques: Transforming 3GP Files Into Superior MP4 Format</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-gaining-windows-high-level-control/"><u>Steps for Gaining Windows' High-Level Control</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-memory-couldnt-be-written-in-windows/"><u>Tackling 'Memory Couldn’t Be Written' In Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlock-better-listening-the-ultimate-tutorial-to-deactivate-windows-10-sound-enhancements/"><u>Unlock Better Listening: The Ultimate Tutorial to Deactivate Windows 10 Sound Enhancements</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-expert-tips-streaming-youtube-and-fb-videos-seamlessly-with-apple-tv/"><u>[New] Expert Tips Streaming YouTube & FB Videos Seamlessly with Apple TV</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-a-chill-out-guide-selecting-inviting-winter-backgrounds/"><u>[Updated] A Chill-Out Guide Selecting Inviting Winter Backgrounds</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-secret-behind-successful-igtv-uploads-from-h-videos/"><u>2024 Approved The Secret Behind Successful IGTV Uploads From H-Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-restarting-of-windows-11s-key-software-directories/"><u>Efficient Restarting of Windows 11'S Key Software Directories</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-to-eradicate-temporary-storage-fail-win-error-1152/"><u>Expert Tips to Eradicate 'Temporary Storage Fail' - Win Error 1152</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/egular-are-youtube-monetization-payments-for-2024/"><u>How Regular Are YouTube Monetization Payments for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-samsung-galaxy-f34-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Samsung Galaxy F34 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-fundamentals-of-crafting-high-quality-videos-for-instagram-audiences/"><u>In 2024, The Fundamentals of Crafting High-Quality Videos for Instagram Audiences</u></a></li>
+<li><a href="https://win11.techidaily.com/reset-and-enhance-windows-11-visuals-efficiently/"><u>Reset and Enhance Windows 11 Visuals Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/the-developers-playbook-mastering-dev-drive-in-windows-11/"><u>The Developer's Playbook: Mastering Dev Drive in Windows 11</u></a></li>
 </ul></div>
 

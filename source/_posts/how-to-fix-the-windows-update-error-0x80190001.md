@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Windows Update Error 0X80190001
-date: 2025-01-20T10:28:17.788Z
-updated: 2025-01-24T19:32:02.690Z
+date: 2025-02-02T21:19:22.274Z
+updated: 2025-02-04T05:45:18.703Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 
 Here are a few things you can try if you encounter this error.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart Your Computer
 
  A corrupted system file is often the cause of the Windows Update Error. To fix the issue and get your system running again, restarting your computer is always a good start.
@@ -46,7 +42,7 @@ Here are a few things you can try if you encounter this error.
  After that, you should wait for 30 seconds and then hit the power button again to turn on the computer. Upon restarting, check to see if Windows Update has now started working correctly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run Windows Update Troubleshooter
@@ -62,10 +58,14 @@ To try it, follow these steps:
 4. Click the**Run** option next to Windows Update.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It may take some time for troubleshooting to be completed, so don't worry if it takes longer than expected. After completing the above steps, try installing updates on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check Your Date & Time
 
@@ -77,6 +77,10 @@ To try it, follow these steps:
 4. Turn on the toggle next to "Set the time automatically".
 
  You should also double-check your time zone so that Windows knows when the updates should be installed - otherwise, it may ignore them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run an SFC and DISM Scan
 
@@ -101,6 +105,10 @@ To try it, follow these steps:
 DISM /Online /Cleanup-Image /ScanHealthDism.exe /online /cleanup-image /restorehealth
 
  You may have to wait for a while for the process to complete. After you run the DISM command, restart your computer to see if the issue has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Clear the SoftwareDistribution Folder
 
@@ -138,17 +146,9 @@ net start msiserver`
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 5. Remove the check mark from**Load startup items** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. On the Services tab, select**Hide all Microsoft services** .  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 2. Then click**Disable all** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Click**Apply** to save your changes.
 4. Now switch to the Startup tab and click the**Open Task Manager** link.  
@@ -178,24 +178,17 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-enhancing-your-video-cover-images-updating-techniques-for-fb/"><u>[Updated] 2024 Approved Enhancing Your Video Cover Images Updating Techniques for FB</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-step-into-song-savvy-youtube-playlist-excellence/"><u>[Updated] 2024 Approved Step Into Song Savvy YouTube Playlist Excellence</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-tasteful-tactics-elevating-culinary-channel-monikers/"><u>[Updated] In 2024, Tasteful Tactics Elevating Culinary Channel Monikers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-shoppers-ultimate-list-of-top-rated-webcams/"><u>[Updated] Shopper’s Ultimate List of Top-Rated Webcams</u></a></li>
-<li><a href="https://video-capture.techidaily.com/apowersoft-capture-app-reviewed/"><u>Apowersoft Capture App Reviewed</u></a></li>
-<li><a href="https://win11.techidaily.com/guidelines-to-recover-offline-content-servers-for-valve-games/"><u>Guidelines to Recover Offline Content Servers for Valve Games</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-breaking-down-itunes-video-recording-basics/"><u>In 2024, Breaking Down iTunes Video Recording Basics</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-realme-note-50-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Realme Note 50 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/keeping-windows-calculator-top-focused/"><u>Keeping Windows Calculator Top-Focused</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-disk-space-with-compression-in-windows-11/"><u>Maximizing Disk Space with Compression in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mitigating-expiring-windows-license-issues-in-w10-and-w11/"><u>Mitigating Expiring Window's License Issues in W10 & W11</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/obs-studio-screen-capture-an-in-depth-analysis/"><u>OBS Studio Screen Capture An In-Depth Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlined-steps-to-revise-your-windows-account-pin/"><u>Streamlined Steps to Revise Your Windows Account Pin</u></a></li>
-<li><a href="https://win11.techidaily.com/the-6-best-tools-to-stress-test-your-gpu-on-windows/"><u>The 6 Best Tools to Stress Test Your GPU on Windows</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-seamless-blend-enhancing-your-ae-projects-with-luts-for-2024/"><u>The Seamless Blend Enhancing Your AE Projects with LUTs for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-laggard-video-quality-with-windows-madvr/"><u>Transform Laggard Video Quality with Windows MadVR</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-perpetual-inactivity-in-windows-11s-defender-feature/"><u>Unlocking Perpetual Inactivity in Windows 11'S Defender Feature</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/verbale-reue-im-deutschen-praktizieren/"><u>Verbale Reue Im Deutschen Praktizieren</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-image-scaling-find-your-perfect-size-with-these-six-tips/"><u>Windows 11 Image Scaling: Find Your Perfect Size With These Six Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-narrative-basics-explanation/"><u>[New] Narrative Basics Explanation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-cutting-edge-image-vault-sites/"><u>[Updated] In 2024, Cutting-Edge Image Vault Sites</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-x-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone X</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-iphone-se-models-discover-the-updates-from-iphone-se-2020-to-iphone-se-2022-techreview/"><u>Comparing iPhone SE Models: Discover the Updates From iPhone SE 2020 to iPhone SE #2022 | TechReview</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-xiaomi-redmi-note-12r-by-drfone-android-unlock-android-unlock/"><u>Device unlock Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-updated-qualcomm-wireless-network-adapter-drivers-for-microsoft-windows-users/"><u>Download Updated Qualcomm Wireless Network Adapter Drivers for Microsoft Windows Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-honor-x50-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Honor X50? Fixed | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-oculus-device-malfunctions-a-step-by-step-guide/"><u>Solving Oculus Device Malfunctions: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-sharing-video-content-on-pinterest-using-your-smartphone-or-computer/"><u>Step-by-Step Guide to Sharing Video Content on Pinterest Using Your Smartphone or Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-transforming-videos-into-mp4-format-across-pc-mac-and-online-tools/"><u>Step-by-Step Guide to Transforming Videos Into MP4 Format Across PC, Mac, and Online Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-streaming-mp4-content-on-your-windows-n-operating-system/"><u>The Ultimate Guide to Streaming MP4 Content on Your Windows N Operating System</u></a></li>
+<li><a href="https://win11.techidaily.com/top-dvd-ripping-software-securely-convert-your-dvds-into-high-quality-digital-formats/"><u>Top DVD Ripping Software: Securely Convert Your DVDs Into High-Quality Digital Formats</u></a></li>
 </ul></div>
 

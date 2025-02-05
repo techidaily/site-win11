@@ -1,7 +1,7 @@
 ---
 title: Restoring Windows Ethernet Net Access
-date: 2025-01-19T08:19:03.355Z
-updated: 2025-01-24T17:10:53.606Z
+date: 2025-01-28T05:52:50.366Z
+updated: 2025-02-03T23:19:44.367Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 
  If you see the same error on the Wi-Fi connection, the issue likely lies with your router or ISP. If that's the case, follow the instructions below to rule out router problems.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Rule Out Router Issues
 
  To make sure the problem isn't with your router, take the following steps:
@@ -56,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 ![Ethernet connection ports with cords inserted into a router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ethernet-connection-to-router.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your other device successfully connects to the internet over Wi-Fi in the previous step but not through Ethernet, there could be an issue with the Ethernet connection, not the internet connection, that requires further investigation.
@@ -84,26 +80,22 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 ![Change Network Profile and Disable Metered Connection in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-network-profile-and-disable-metered-connection-in-windows-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To make both of these changes in Windows 11, go to **Settings** \> **Network and internet** \> **Ethernet**.
 
 ![disable metered connection in the Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-metered-connection.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After that, restart your device once to ensure the changes take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Change Your DNS Settings and Flush the DNS Cache
 
 ![Cables plugged into an example DNS server](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dns-server.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  DNS serves as the backbone of your internet connection and translates domain names into IP addresses. If you haven't changed your DNS since your internet service provider set up your connection, likely, you're still using the DNS server the internet service provider assigned you initially.
 
@@ -111,9 +103,17 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 
  In addition, you should [flush your DNS cache](https://www.makeuseof.com/flush-dns-cache-windows-11/) to remove old and bad entries. Both steps will improve internet reachability, enabling you to connect to the internet successfully.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Reset the Network Settings
 
 ![windows 11 network reset from settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/windows-11-network-reset-from-settings-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If none of the above fixes work, and you still see the no internet access error, you should reset your network. The network reset restores the network settings to their defaults, which may resolves any network issues you're experiencing. However, you should keep in mind that the resetting process will revert your network configuration and restore the defaults.
 
@@ -135,18 +135,22 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-craft-a-unique-channel-look-for-free-for-2024/"><u>[Updated] Craft a Unique Channel Look for Free for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-screencasting-simplified-adopting-the-ezvide-method-for-2024/"><u>[Updated] Screencasting Simplified Adopting the EZvide Method for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-speech-logging-made-easy-on-mac-the-top-5-tools-tested-and-ranked/"><u>2024 Approved Speech Logging Made Easy on Mac The Top 5 Tools Tested & Ranked</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-slide-designs-at-your-fingertips-find-the-best-ai-driven-presentation-software-here/"><u>Effortless Slide Designs at Your Fingertips: Find the Best AI-Driven Presentation Software Here</u></a></li>
-<li><a href="https://win11.techidaily.com/hacking-detection-guide-for-windows-users/"><u>Hacking Detection Guide for Windows Users</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-intercept-text-messages-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Intercept Text Messages on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-13-pro-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone 13 Pro? Find the Best Solution Here</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-emoji-a-comprehensive-guide-to-using-icons-on-your-iphone/"><u>Mastering Emoji: A Comprehensive Guide to Using Icons on Your iPhone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-formula-1-2021-on-your-pc-techniques-to-avoid-disruptive-crashes-and-play-smoothly/"><u>Mastering Formula 1 2021 on Your PC: Techniques to Avoid Disruptive Crashes & Play Smoothly</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaiming-access-to-forgotten-calendars-and-emails-in-w11/"><u>Reclaiming Access to Forgotten Calendars & Emails in W11</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-overcoming-your-windows-hello-fingerprint-failures/"><u>Solutions: Overcoming Your Windows Hello Fingerprint Failures</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-strategies-top-9-fixes-to-avoid-wwe-freezes-in-windows-11/"><u>Swift Strategies: Top 9 Fixes to Avoid WWE Freezes in Windows 11</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-essential-guide-to-capturing-switch-on-film/"><u>The Essential Guide to Capturing Switch on Film</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-clearer-chrome-tips-to-improve-facebook-playback/"><u>[Updated] 2024 Approved Clearer Chrome Tips to Improve Facebook Playback</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capturing-life-in-high-quality-with-xiaomis-mi-11-screens-for-2024/"><u>[Updated] Capturing Life in High Quality with Xiaomi's Mi 11 Screens for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/counteracting-missteps-fixing-windows-security-glitches/"><u>Counteracting Missteps: Fixing Windows Security Glitches</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/deciding-the-top-iphone-video-editor-cameo-or-filmorago/"><u>Deciding the Top iPhone Video Editor Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-guide-organizing-your-files-with-custom-finder-preferences/"><u>Effective Guide: Organizing Your Files with Custom Finder Preferences</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-troubleshooting-of-snipkey-shortcuts/"><u>Efficient Troubleshooting of SnipKey Shortcuts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tless-online-audio-accessibility-ideal-tools-for-iphone-and-youtube-for-2024/"><u>Effortless Online Audio Accessibility Ideal Tools for iPhone & YouTube for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/flawless-installation-effectively-pinning-windows-11-desktop-icons/"><u>Flawless Installation: Effectively Pinning Windows 11 Desktop Icons</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-se-2022-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone SE (2022) Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nubia-z50s-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nubia Z50S Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-video-editing-mastery-using-lut-filters-in-obs-studio/"><u>In 2024, Unlock Video Editing Mastery Using LUT Filters in OBS Studio</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-access-toggle-microsofts-ai-on-windows-11-keyboard-shortcuts/"><u>Instant Access: Toggle Microsoft's AI on Windows 11 Keyboard Shortcuts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/linus-torvalds-discusses-artificebrian-ai-advancements-and-rising-popularity-of-rust-in-tech-zdnet-insights/"><u>Linus Torvalds Discusses Artificebrian AI Advancements & Rising Popularity of Rust in Tech | ZDNET Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/modern-windows-lost-elements-a-comparison/"><u>Modern Windows, Lost Elements: A Comparison</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-windows-11-menu-system-to-defaults/"><u>Resetting Windows 11 Menu System to Defaults</u></a></li>
+<li><a href="https://win11.techidaily.com/shifting-focus-to-file-explorer-with-onedrive-connection/"><u>Shifting Focus to File Explorer with OneDrive Connection</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-windows-regain-entry-to-your-onedrive-space/"><u>Troubleshoot Windows: Regain Entry to Your OneDrive Space</u></a></li>
 </ul></div>
 

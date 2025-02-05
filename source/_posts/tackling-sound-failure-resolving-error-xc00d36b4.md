@@ -1,7 +1,7 @@
 ---
 title: "Tackling Sound Failure: Resolving Error XC00D36B4"
-date: 2025-01-22T22:13:04.409Z
-updated: 2025-01-25T07:43:16.259Z
+date: 2025-02-02T03:26:46.514Z
+updated: 2025-02-04T07:19:14.778Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Understanding the Problem Behind Audio Error 0xc00d36b4 on Windows
@@ -72,15 +72,23 @@ Here is how you can do that:
 5. Now, scroll down and expand the**Media Features** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Uncheck the box associated with Windows Media Player and click**OK** to save the changes.  
 ![Disable Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-windows-media-player.jpg)
 7. Confirm your action in the User Account Control prompt and restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Upon reboot, restart the service by following the same steps mentioned above.
 9. Finally, restart your computer again and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Uninstall Nero Codecs
 
@@ -94,10 +102,6 @@ Here is how you can do that:
 4. Choose**Uninstall** and follow the on-screen instructions to complete the process.  
 ![Uninstall the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-uninstall-program.jpg)
 5. Once done, restart your computer and check if the issue is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Disable Copy Protection
 
@@ -115,7 +119,7 @@ Here is how you can do that:
 4. Click**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Update Audio Drivers
@@ -129,10 +133,6 @@ Here is how you can do that:
  Finally, you can try reinstalling the Windows Media Player which will clear out any issues within the media player itself that may be contributing to the issue.
 
  Alternatively, you can also consider switching to a third-party media player that offers a similar functionality until Microsoft releases an official fix for this issue. We have discussed some of the[best free media players for Windows](https://www.makeuseof.com/tag/top-5-free-media-players-for-windows/) in our previous guide which you can head over to, to make an informed decision.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Audio Issues in Windows, Resolved
 
@@ -155,24 +155,18 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-cut-to-the-chase-top-5-chrome-plugins-for-snagging-facebook-videos-fast/"><u>[New] In 2024, Cut to the Chase Top 5 Chrome Plugins for Snagging Facebook Videos Fast</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-retrieving-your-liked-videos-from-facebook/"><u>[Updated] 2024 Approved Retrieving Your Liked Videos From Facebook</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-step-by-step-tutorial-for-aspiring-mukbang-creators/"><u>[Updated] 2024 Approved Step-by-Step Tutorial for Aspiring Mukbang Creators</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/building-an-online-empire-through-effective-marketing-for-2024/"><u>Building an Online Empire Through Effective Marketing for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/el-branding-mastery-securing-a-loyal-youtube-subscriber-base-for-2024/"><u>Channel Branding Mastery Securing a Loyal YouTube Subscriber Base for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/detailed-steps-for-fixing-ms-store-crash-code-0x0-on-win-1011/"><u>Detailed Steps for Fixing MS Store Crash (Code 0X0) on Win 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-workflow-with-win-11s-auto-organize-functionality/"><u>Enhance Workflow with Win 11'S Auto-Organize Functionality</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-same-user-login-problem-for-multiple-windows-users/"><u>Fixing Same-User Login Problem for Multiple Windows Users</u></a></li>
-<li><a href="https://article-helps.techidaily.com/intellieditors-ai-transform-photos-effortlessly-for-2024/"><u>IntelliEditors AI Transform Photos Effortlessly for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/photo-to-film-adding-melodies-for-emotion/"><u>Photo to Film Adding Melodies for Emotion</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/professional-insights-into-magix-acid-pro-and-alternatives/"><u>Professional Insights Into Magix ACID Pro and Alternatives</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-obscured-filespace-with-altwindirstat/"><u>Reviving Obscured Filespace with AltWinDirStat</u></a></li>
-<li><a href="https://win11.techidaily.com/securing-dialog-box-for-trusted-hardware-in-windows-11/"><u>Securing Dialog Box for Trusted Hardware in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211840975-solving-your-pdf-printing-issues-in-seconds/"><u>Solving Your PDF Printing Issues in Seconds!</u></a></li>
-<li><a href="https://win11.techidaily.com/step-into-the-world-of-call-management-windows-11-dialer/"><u>Step Into the World of Call Management: Windows 11 Dialer</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-bypass-access-denied-issues-on-windows-pc/"><u>Strategies to Bypass 'Access Denied' Issues on Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-top-7-techniques-to-master-windows-11-40/"><u>The Ultimate Guide: Top 7 Techniques to Master Windows 11 (40)</u></a></li>
-<li><a href="https://win11.techidaily.com/witness-windows-11-evolve-with-its-latest-moment-updates/"><u>Witness Windows 11 Evolve with Its Latest Moment Updates</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-how-to-view-comprehensively-shared-images-and-movies-by-friends/"><u>[New] 2024 Approved How To View Comprehensively Shared Images and Movies by Friends?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-thriving-livestreams-strategies-for-beginners-with-low-followers/"><u>[Updated] In 2024, Thriving Livestreams Strategies for Beginners with Low Followers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-time-is-money-the-best-facebook-schedulers-reviewed/"><u>[Updated] In 2024, Time Is Money The Best Facebook Schedulers Reviewed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-viewership-victors-the-worlds-top-10-video-content-makers/"><u>2024 Approved Viewership Victors The World's Top 10 Video Content Makers</u></a></li>
+<li><a href="https://win11.techidaily.com/explaining-and-resolving-0x80071a90-windows-faults/"><u>Explaining and Resolving 0X80071A90 Windows Faults</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/google-pixel-4a-5g-review/"><u>Google Pixel 4a 5G Review</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-power-boosting-mouseclicklock-in-windows-pcs/"><u>Harnessing Power: Boosting MouseClickLock in Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-local-groups-policies-to-individual-accounts-in-windows-11/"><u>Integrating Local Groups Policies to Individual Accounts in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11-for-unique-hotkeys/"><u>Navigating Windows 11 for Unique Hotkeys</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-systemic-resource-clashes-in-technology/"><u>Resolving Systemic Resource Clashes in Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/the-forgotten-tools-of-windows-11-dont-miss-them/"><u>The Forgotten Tools of Windows 11 - Don’t Miss Them!</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-boosting-windows-storage-without-a-fee/"><u>The Ultimate Guide to Boosting Windows Storage Without a Fee</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-ultimate-gadget-insights/"><u>Tom's Tech Reviews: Ultimate Gadget Insights</u></a></li>
 </ul></div>
 

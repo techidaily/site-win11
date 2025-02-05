@@ -1,7 +1,7 @@
 ---
 title: "Speed Sensors: Windows-Based Methods for Examining Network Rate"
-date: 2024-08-08T13:17:31.060Z
-updated: 2024-08-09T13:17:31.060Z
+date: 2025-01-31T22:45:16.144Z
+updated: 2025-02-03T16:00:18.193Z
 tags:
   - windows10
   - windows11
@@ -21,9 +21,9 @@ thumbnail: https://thmb.techidaily.com/95788679327077f3bf6744c4870d74096e3663b00
  Whether you want to upgrade your internet plan or diagnose your network for performance issues, there are several ways to determine the network adapter speed on Windows. Let’s go over all of them one by one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Check the Network Adapter Connection Speed Using the Settings App
 
  The quickest way to check the connection speed for a Wi-Fi or Ethernet adapter is through the Windows Settings app. Aside from network speed, the Settings app also provides important information like network band, local IP address, MAC address, and more.
@@ -34,14 +34,16 @@ To check the network adapter speed via the Settings app:
 2. Select**Network & internet** from the left sidebar.
 3. Click on**Properties** at the top.
 4. Scroll down to the**Link speed (Receive/Transmit)** field to check the connection speed.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check Network Adapter Speed Using the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-network-adapter-speed-using-the-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. How to Check the Network Adapter Connection Speed Using Control Panel
 
  Although Microsoft is gradually moving a large number of features to the Settings app, many people still prefer to use the Control Panel to modify settings and troubleshoot issues. If you are one of them, here's how you can check the network adapter connection speed via Control Panel.
@@ -66,12 +68,17 @@ To check the network adapter speed via the Settings app:
 3. In the console, paste the following command and press**Enter** .  
 `netsh wlan show interfaces`
 4. Check the values next to**Receive rate** and**Transmit rate** to determine the speed of your network adapter.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Check Network Adapter Speed Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-network-adapter-speed-using-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Like using Command Prompt? Check our guide on[how to master Command Prompt on Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Check Network Adapter Connection Speed via PowerShell
 
@@ -83,28 +90,19 @@ To check network adapter connection speed via PowerShell:
 2. Type**Windows PowerShell** in the search box and press**Enter** .
 3. Paste the following command in the console and press**Enter** .  
 `Get-NetAdapter | select interfaceDescription, name, status, linkSpeed`  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Check Network Adapter Speed Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-network-adapter-speed-using-powershell.jpg)
 
  Once you run the above command, PowerShell will display a list of all the Ethernet and Wi-Fi adapters on your Windows computer, along with their link speeds.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Checking Network Adapter Connection Speed on Windows
 
  As we just learned, determining the network adapter connection speed on Windows is relatively simple. Do you know what else is easy? Speeding up the internet connection speed on your Windows computer.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -113,4 +111,19 @@ To check network adapter connection speed via PowerShell:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-ace-your-shots-top-cameras-and-lenses-for-youtubers/"><u>[New] In 2024, Ace Your Shots Top Cameras & Lenses for YouTubers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-maximizing-your-fb-page-visibility-a-step-by-step-guide/"><u>[Updated] In 2024, Maximizing Your FB Page Visibility A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-master-the-art-of-cutting-a-video-editors-handbook-for-instagram/"><u>[Updated] Master the Art of Cutting A Video Editor's Handbook for Instagram</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-pioneer-productions-leading-free-editors-on-android-for-2024/"><u>[Updated] Pioneer Productions Leading Free Editors on Android for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-optimal-sizing-for-youtube-thumbnail-impact/"><u>2024 Approved Optimal Sizing for YouTube Thumbnail Impact</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-hotkeys-for-pre-text-snip-pasting-in-w10w11/"><u>Efficient Hotkeys for Pre-Text Snip Pasting in W10/W11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-metaverse-makeover-easy-avatar-construction/"><u>In 2024, The Metaverse Makeover Easy Avatar Construction</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-red-screen-glitch-with-easy-fixes-and-expert-advice/"><u>Overcoming the 'Red Screen' Glitch with Easy Fixes and Expert Advice</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-wi-fi-network-configuration-bridging-prompt-gaps/"><u>Perfecting Wi-Fi Network Configuration: Bridging Prompt Gaps</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-wmi-service-overuse-on-pcs/"><u>Tackling WMI Service Overuse on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-hypervisor-error-blue-screen-on-win-1011/"><u>Troubleshooting Hypervisor Error Blue Screen on Win 10/11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-time-lapse-crash-course-final-cut-pro-edition/"><u>Updated The Ultimate Time Lapse Crash Course Final Cut Pro Edition</u></a></li>
+</ul></div>
 

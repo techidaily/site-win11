@@ -1,7 +1,7 @@
 ---
 title: Bypassing Elevation Requirement Hurdle on WINOS
-date: 2024-07-29T15:56:16.459Z
-updated: 2024-07-30T15:56:16.459Z
+date: 2025-01-31T08:37:38.138Z
+updated: 2025-02-03T18:16:58.443Z
 tags:
   - windows10
   - windows11
@@ -24,15 +24,8 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 
  The error 740 message mentions the need for operation elevation. That’s a hint to try running affected programs with elevated (administrator) rights. Check out this guide on [always running apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) to set affected EXE files to run with elevated rights.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-as-an-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## 2\. Set Programs to Run in Compatibility Mode
 
  It’s also recommended to set older programs to run in compatibility mode. Doing so might address a compatibility issue causing error 740\. You can set an affected program to run in compatibility mode like this:
@@ -40,15 +33,13 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. Open the affected software’s installation within File Explorer.
 2. Right-click an affected program’s EXE (application file) and select **Properties** \> **Compatibility**.
 3. Select **Run this program in compatibility mode for** and choose Windows 8 or an older platform on the drop-down menu. It’s best to select the Windows platform for which the publisher originally released the software.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Run this program in compatibility mode drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-in-compatibility-mode.jpg)
 4. Press the **Apply** \> **OK** buttons to set the compatibility mode setting.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Turn Off the User Account Control Feature
 
  User Account Control is the security feature that throws up notifications when programs try to make changes. UAC could be a potential cause of error 740 when it’s set very high. So, try turning off UAC before running affected apps. Our [guide to disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) tells you how to turn off that feature.
@@ -56,8 +47,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![The User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/user-account-control-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Adjust Folder Permission Settings
 
  This potential resolution is recommended for users who can’t access specific folders because of error 740\. In that scenario, this error can be a folder permissions issue that selecting the **Replace all child object permission entries** option could feasibly address.
@@ -71,13 +63,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 5. Click **Advanced** to access more security settings.  
 ![The Security tab and Advanced button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-security-tab3.jpg)
 6. Select the **Replace all child object permissions entries with inheritable permission entries from this object** checkbox.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![The Replace all child object permission entries checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replace-all-child-objects-option.jpg)
 7. Click **Apply** on the Advanced Security Settings window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select **Yes** when asked to continue.
 9. Exit the folder’s properties window and restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Modify the Behavior of the UAC Elevation Prompt
 
@@ -97,17 +95,23 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 8. Select **OK** to close the policy setting’s window.
 9. Then reboot Windows after closing Group Policy Editor.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Disable Admin Approval Mode
 
  Admin Approval Mode prompts administrative users for task permissions when enabled. It’s a strict Group Policy Editor security policy that can potentially cause elevation issues. Follow these steps to turn off Admin Approval Mode.
 
 1. Go to **Security Options** in Group Policy Editor as outlined for steps one to four of resolution five.
 2. Double-click the **User Account Control: Admin Approval Mode for the Built-in Administrator account** policy setting.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Admin Approval Mode policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/admin-approval-mode-policy.jpg)
 3. Click the **Disabled** radio button if this policy is enabled.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![the-enabled-radio-button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-enabled-radio-button.jpg)
 4. Select **Apply** to turn off Admin Approval Mode.
 5. To close the policy window, select the **OK** option.
@@ -122,30 +126,23 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  If disabling the security software works, you don’t necessarily have to turn the security software off whenever you want to run the application file. Your antivirus software will probably include an exclusion list to which you can add trustworthy program file exceptions. Add the affected EXE file there to exclude it from the antivirus protection.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## 8\. Migrate to a New Admin User Account
 
  If the “requested operation requires elevation” error persists after trying other resolutions, your user account might be corrupted. Then you might need to create and utilize a new admin account to resolve this issue. You can migrate to that account by copying files from your old user account into the new one.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![The Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-option.jpg)
 
  To apply this troubleshooting method for the “requested operation requires elevation” error, follow the instructions within this article about [how to fix Windows issues by creating new user accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/). First, you’ll need to set up and sign in to the new admin account to see if the error occurs there. If not, transfer user files into the new account as covered there.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Error 740 Sorted on Windows
 
  The “requested operation requires elevation” error is an inconvenient admin access privilege issue many users have needed to fix. Users have resolved that issue by applying the potential resolutions in this guide. So, try applying those fixes for the “requested operation requires elevation” error in the order specified to find one that works on your Windows 10 or 11 PC.
 
  This is how you can fix error 740 within Windows 10 and 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -153,3 +150,27 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-keeping-your-audience-engaged-in-a-revised-social-lands-ward/"><u>[New] In 2024, Keeping Your Audience Engaged in a Revised Social Lands Ward</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-adventure-the-best-6-gopro-mounts-revealed-for-2024/"><u>[New] Mastering Adventure The Best 6 GoPro Mounts Revealed for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unraveling-the-secrets-of-recording-hulu-across-computersmobile-for-2024/"><u>[New] Unraveling the Secrets of Recording Hulu Across Computers/Mobile for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-keep-your-audience-engaged-top-6-strategies-for-higher-youtube-stickiness/"><u>[Updated] 2024 Approved How To Keep Your Audience Engaged Top 6 Strategies for Higher YouTube Stickiness</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-google-collage-made-fast-and-easy-essential-tips-unveiled/"><u>2024 Approved Google Collage Made Fast & Easy - Essential Tips Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/access-and-enjoy-christian-melodies-anytime-download-free-yt-mp3s/"><u>Access and Enjoy Christian Melodies Anytime: Download Free YT Mp3s!</u></a></li>
+<li><a href="https://win11.techidaily.com/audacity-youtube-recording-mastery-easy-tutorial-for-capturing-video-clips/"><u>Audacity YouTube Recording Mastery: Easy Tutorial for Capturing Video Clips</u></a></li>
+<li><a href="https://win11.techidaily.com/best-high-quality-audio-formats-which-offers-smaller-sizes/"><u>Best High-Quality Audio Formats: Which Offers Smaller Sizes?</u></a></li>
+<li><a href="https://win11.techidaily.com/best-top-rated-flac-audio-software-for-windows-11-a-comprehensive-guide/"><u>Best Top-Rated FLAC Audio Software for Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-tutorial-on-capturing-your-slide-show-in-action-using-powerpoint/"><u>Comprehensive Tutorial on Capturing Your Slide Show in Action Using PowerPoint</u></a></li>
+<li><a href="https://win11.techidaily.com/custom-ringtones-made-simple-transform-mp3-into-m4r-for-iphone/"><u>Custom Ringtones Made Simple: Transform MP3 Into M4R for iPhone!</u></a></li>
+<li><a href="https://win11.techidaily.com/dvdwindows-10mp4/"><u>DVD化のコツ：Windows 10上でMP4動画保存ガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/dvdtsutaya/"><u>DVDがTSUTAYAで貸し出されている場合、どのようにしてデータを正当化的に複写・リップするか</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-guide-flawless-audio-extraction-from-dvds/"><u>Easy Guide: Flawless Audio Extraction From DVDs</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-10-youtube-video-ideas-for-sharing-your-personal-story/"><u>In 2024, 10 YouTube Video Ideas for Sharing Your Personal Story</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/set-up-and-manage-slack-alerts-with-your-apple-watch-a-step-by-step-guide/"><u>Set Up and Manage Slack Alerts with Your Apple Watch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-7-solutions-overcome-issues-with-warzone-20-pc-startup/"><u>Top 7 Solutions: Overcome Issues with Warzone 2.0 PC Startup</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/which-media-formats-are-optimized-for-editing-with-davinci-resolve/"><u>Which Media Formats Are Optimized for Editing with DaVinci Resolve?</u></a></li>
+</ul></div>
+

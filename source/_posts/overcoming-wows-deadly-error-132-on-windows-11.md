@@ -1,7 +1,7 @@
 ---
 title: Overcoming WoW's Deadly Error #132 on Windows 11
-date: 2025-01-21T08:15:42.516Z
-updated: 2025-01-25T01:27:06.849Z
+date: 2025-01-30T08:24:29.090Z
+updated: 2025-02-03T20:45:31.082Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Disable Game DVR for Recording Clips
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 2. Click **Gaming** \> **Captures** in Settings.
 3. Turn Off the **Record in the background while I’m playing a game** option.  
 ![A screenshot of the Captures setting screen for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/record-in-the-background-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Windows 11 Settings app doesn’t include that option. However, you can access the same option within the Game Bar app. Press the **Windows** key + **G** and select **Settings** \> **Capturing** in the Game Bar. Then deselect the **Record in the background while I’m playing a game** checkbox.
 
@@ -63,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
  If error 132 still affects your game, even after renaming folders, you may want to try other ways to [fix World of Warcraft not launching in Windows 10/11](https://www.makeuseof.com/windows-11-10-world-of-warcraft-not-launching/). Some potential fixes associated with launching WoW may also fix error 132\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable DirectX Legacy Mode
@@ -75,30 +79,26 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 ![A screenshot of the Main Menu Options for Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/settings-menu-option.jpg)
 3. Select **Game Settings** \> **World of Warcraft**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click on the **Additional command line arguments** box to activate a text box.
 5. Input **\-d3d11legacy** inside the text box.  
 ![A screenshot of the Additional Command Line Arguments option for Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/game-settings-tab.jpg)
 6. Press **Done** to set World of Warcraft’s command line argument.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart the Blizzard software after setting this new command line argument for World of Warcraft. Then start WoW to see if this possible resolution makes a difference.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Add World of Warcraft to Your Security Software Exclusions List
 
  Security software packages (antivirus tools and firewalls) could be causing error 132 on your PC by blocking World of Warcraft or other Blizzard processes from running. You can check this by disabling Microsoft Defender or an alternative third-party antivirus tool on your PC. However, it’s not ideal to have to turn off security features every time you want to play World of Warcraft.
 
 ![A screenshot of the option to Add An Exclusion to the Windows Security Exclusions List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-an-exclusion.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To ensure your security software never blocks World of Warcraft, add the game’s .exe (application) file to your antivirus and firewall exception lists. You can [whitelist files for Microsoft Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/#:~:text=Under%20Protection%20areas%2C%20select%20Virus,type%2C%20or%20process%20to%20exclude.) by clicking the **Add an exclusion** button in the Windows Security app. If you’ve installed a third-party antivirus tool, set a WoW exception in that app’s exclusion list instead.
 
@@ -120,18 +120,19 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-auditory-interpretation-accessible-at-no-expense/"><u>[New] Auditory Interpretation Accessible at No Expense</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-ultimate-smartphone-camera-recording-tools-iphoneandroid-edition/"><u>[Updated] Ultimate Smartphone Camera Recording Tools - iPhone/Android Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-methods-to-stop-chrome-from-freezing-in-windows-11/"><u>Effortless Methods to Stop Chrome From Freezing in Windows 11</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-hits-and-likes-unlocked-expert-tips-for-youtubers-seo/"><u>In 2024, Hits & Likes Unlocked Expert Tips for YouTubers' SEO</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-nokia-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Nokia Phone Now with These Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/perfecting-windows-11-taskbar-icons-layout/"><u>Perfecting Windows 11 Taskbar Icons Layout</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-for-resolving-the-end-of-term-troublecode-tfla0002/"><u>Quick Fixes for Resolving the End-of-Term Troublecode 'TFLA0002'</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-seven-ways-to-bridge-obs-studios-network-gap-in-windows/"><u>Quick Guide: Seven Ways to Bridge OBS Studio's Network Gap in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-chrome-file-downloads-issue-in-windows/"><u>Resolving Chrome File Downloads Issue in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-handle-source-file-error-in-windows-1110/"><u>Strategies to Handle Source File Error in Windows 11/10</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oneplus-nord-n30-se-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for OnePlus Nord N30 SE Users</u></a></li>
-<li><a href="https://win11.techidaily.com/use-accessibility-features-utilize-features-like-narrator-magnifier-and-text-size-adjustment-for-better-visibility-without-altering-display-settings-drastic29/"><u>Use Accessibility Features: Utilize Features Like Narrator, Magnifier, and Text Size Adjustment for Better Visibility without Altering Display Settings Drastically</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-command-line-expertise-the-top-20-must-know-commands/"><u>Windows Command Line Expertise: The Top 20 Must-Know Commands</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-unveiling-the-secrets-how-to-save-your-google-meet/"><u>[New] In 2024, Unveiling the Secrets How to Save Your Google Meet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-ios-and-android-asmr-experience-leaders/"><u>[New] IOS and Android ASMR Experience Leaders</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-simple-steps-to-make-ipad-screen-captures-a-breeze/"><u>[New] Simple Steps to Make iPad Screen Captures a Breeze</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725285608122-ai/"><u>「高效且免費的AI製作人工智能手動照片修复軟件」</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/best-hidden-instagram-tool-for-clandestine-stories-for-2024/"><u>Best Hidden Instagram Tool for Clandestine Stories for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/display-diversity-adjusting-each-monitors-aesthetic-in-win-1011/"><u>Display Diversity: Adjusting Each Monitor's Aesthetic in WIN 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-developer-skills-with-github-desktop-on-windows-oses/"><u>Elevate Your Developer Skills with GitHub Desktop on Windows OSes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-guide-converting-hevc-videos-into-mp4-format-no-cost/"><u>Free Guide: Converting HEVC Videos Into MP4 Format - No Cost!</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-patching-with-4-essentials/"><u>Mastering Windows Patching with 4 Essentials</u></a></li>
+<li><a href="https://win11.techidaily.com/preserving-your-digital-post-its-in-windows/"><u>Preserving Your Digital Post-Its in Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-best-innovations-in-technology-for-2er-year-as-selected-by-the-experts-at-zdnet/"><u>The Best Innovations in Technology for 2Er Year, as Selected by the Experts at ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-password-less-windows-11-rdp/"><u>The Ultimate Guide to Password-Less Windows 11 RDP</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-automatic-fixes-for-wake-up-sound-issues/"><u>The Ultimate Guide: Automatic Fixes for Wake-Up Sound Issues</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-a-list-of-the-top-spongebob-voice-generators-for-2024/"><u>Updated A List of The Top SpongeBob Voice Generators for 2024</u></a></li>
 </ul></div>
 

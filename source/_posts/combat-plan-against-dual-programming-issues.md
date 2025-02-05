@@ -1,7 +1,7 @@
 ---
 title: Combat Plan Against Dual Programming Issues
-date: 2024-07-29T15:56:15.561Z
-updated: 2024-07-30T15:56:15.561Z
+date: 2025-02-02T17:23:31.173Z
+updated: 2025-02-03T18:55:11.601Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc
 
  In most cases, the “Side-by-side configuration is incorrect” error occurs due to a damaged Visual C++ package or a compatibility issue. However, there can be other reasons for it. So, what can you do to resolve this unforeseen error on Windows? Let's find out.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Reinstall Microsoft Visual C++ Packages
 
  Problems with the current Visual C++ packages on your PC can often result in the “Side-by-side configuration is incorrect” error on Windows. If that's the case, you must reinstall the problematic Visual C++ package on your computer. To do so, you'll need to find its version number using Event Viewer. Here's how you can go about it.
@@ -30,19 +27,18 @@ thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc
 1. Press**Win + S** to open the search menu.
 2. Type**event viewer** in the search box and select the first result that appears.
 3. Use the left pane to navigate to**Custom Views > Summary page events** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![Event Viewer on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Event-Viewer-on-Windows.jpg)
 4. Choose the most recent side-by-side error from the middle pane and note down the version number under the**General** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Open up your web browser and head over to the[Microsoft Visual C++ Redistributable download page](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) .
 6. Download and install the Visual C++ package corresponding to your version number.
 
  Restart your PC after this (see[how to restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) and try to launch your app or program one more time.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Run the SFC and DISM Scans
 
  Corrupted or missing system files on your computer can also trigger such errors. Fortunately, Windows includes a useful command-line utility called SFC (or System File Checker) scan for such occasions. It can automatically detect any damaged system files on your PC and replace them with their cached versions.
@@ -61,6 +57,10 @@ To run the SFC scan on your computer:
 
  After the process is complete, exit the Command Prompt window and restart your PC. The error should not appear anymore after the reboot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Run the Program Compatibility Troubleshooter
 
  If the “Side-by-side configuration is incorrect” error only appears when you try to launch a specific program, you can run the program compatibility troubleshooter on Windows. It’ll try to fix any compatibility issues with your program and help you fix the error. Here’s how you can run it.
@@ -69,10 +69,6 @@ To run the SFC scan on your computer:
 2. In the Program Compatibility Troubleshooter window, select**Troubleshoot program** .
 3. Mark the checkbox that reads **The program worked in earlier versions of Windows but won’t install or run now** and hit**Next** .
 4. Follow the on-screen prompts to run the troubleshooter and see if the error occurs again.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Program Compatibility Troubleshooter Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Program-Compatibility-Troubleshooter-Windows.jpg)
 
 ## 4\. Repair the Problematic App
@@ -86,13 +82,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 5. Scroll down to the Reset section and click on**Repair** .  
 ![Repair App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Repair-App-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You should see a right checkmark next to the Repair button once the process is complete.
 
  Alternatively, you can repair your apps and programs from Control Panel. To learn more about this, check our guide on[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) and follow the steps outlined there.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Reinstall the Problematic App
 
  Repairing the app may not help much if the existing app data is corrupted or missing. In that case, your only option is to uninstall the problematic app and install it again.
@@ -102,7 +103,15 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 3. Select**Uninstall** again to confirm.  
 ![Uninstall App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Uninstall-App-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Head over to Microsoft Store and install the app again. Following this, the error should not bother you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Scan for Malware
 
@@ -118,9 +127,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Check for System Updates on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-for-System-Updates-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Perform a System Restore
 
  Windows System Restore performs a backup of the entire system on a regular basis. You can use it to revert your system to a point before the error first started appearing.
@@ -134,28 +140,19 @@ To perform a system restore on Windows:
 5. Click**Next** .
 6. Select a restore point before the first appeared and hit**Next** .
 7. Check all the details and hit**Finish** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![System Restore Dialog on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/System-Restore-Dialog-on-Windows.jpg)
 
  Windows will restart and revert to the specified restore point. Following that, the error should be resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Start Using Your Apps Again
 
  By applying the above fixes, you should be able to fix the “Side-by-side configuration is incorrect” error in no time. However, if none of the solutions work, you may have to reset your Windows computer as a last resort.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +161,26 @@ To perform a system restore on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-a-new-lens-on-cinema-embracing-vr-tech/"><u>[New] A New Lens on Cinema Embracing VR Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-top-ten-list-best-4k-game-laptops/"><u>[New] Exclusive Top Ten List Best 4K Game Laptops</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-capture-a-screenshot-or-video-of-whats-showing-on-your-mac-computer/"><u>[New] How to Capture a Screenshot or Video of What's Showing On Your Mac Computer</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-ultimate-blueprint-for-tiktok-media-transfer/"><u>[New] In 2024, The Ultimate Blueprint for TikTok Media Transfer</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-tailoring-your-youtube-videography-with-powerful-wm-maker-skills/"><u>2024 Approved Tailoring Your YouTube Videography with Powerful WM Maker Skills</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/5-ways-to-record-minecraft-on-mac-for-2024/"><u>5 Ways to Record Minecraft on Mac for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-vision-pro-assessment-the-verdict-at-3500-comprehensive-insights-from-experts/"><u>Apple Vision Pro Assessment: The Verdict at $3,500 - Comprehensive Insights From Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easily-reach-out-to-affected-ones-using-your-apple-watch-the-ultimate-guide/"><u>Easily Reach Out to Affected Ones Using Your Apple Watch - The Ultimate Guide!</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-conversion-techniques-transforming-4k-xavc-footage-into-prores/"><u>Efficient Conversion Techniques: Transforming 4K XAVC Footage Into ProRes</u></a></li>
+<li><a href="https://win11.techidaily.com/evaluating-savefromnet-safety-and-key-insights-for-secure-downloading/"><u>Evaluating SaveFrom.Net: Safety and Key Insights for Secure Downloading</u></a></li>
+<li><a href="https://win11.techidaily.com/free-methods-to-transfer-your-dvd-collection-onto-your-huawei-device-a-comprehensive-guide/"><u>Free Methods to Transfer Your DVD Collection Onto Your Huawei Device: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-converting-your-media-files-for-optimal-playback-on-sony-bravia-televisions/"><u>Guide to Converting Your Media Files for Optimal Playback on Sony Bravia Televisions</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-get-any-song-you-love-as-a-personalized-ringtone-free-tutorial/"><u>How to Get Any Song You Love as a Personalized Ringtone - Free Tutorial!</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-securely-get-your-favorite-worldstarhiphop-content-online/"><u>How to Securely Get Your Favorite WorldStarHipHop Content Online</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-honor-90-lite-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Honor 90 Lite Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win11.techidaily.com/itunesyoutube/"><u>ITunes上で動画サイトからYouTube音楽を取り込む手順</u></a></li>
+<li><a href="https://win11.techidaily.com/pcmp4/"><u>PC画面収録をMP4形式でどうやってキャプチャするか解説</u></a></li>
+<li><a href="https://win11.techidaily.com/playing-your-dvd-files-in-mp4-format-3-easy-methods/"><u>Playing Your DVD Files in MP4 Format: 3 Easy Methods</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE Data From iOS iTunes Backup | Dr.fone</u></a></li>
+</ul></div>
 

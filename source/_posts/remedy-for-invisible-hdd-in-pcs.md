@@ -1,7 +1,7 @@
 ---
 title: Remedy for Invisible HDD in PCs
-date: 2025-01-24T08:46:45.871Z
-updated: 2025-01-24T22:52:27.343Z
+date: 2025-02-02T07:40:10.924Z
+updated: 2025-02-04T01:08:06.549Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 ![external hard drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/external-hard-drive.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have recently connected a new external hard drive to your PC, it can lead you to all sorts of problems. Indeed, the hard drive detection error on your Windows might be caused just because of that. While plugging in external devices to Windows is second nature to most of us, it can definitely leave us at a hard drive failure for various reasons: an incompatibility issue, driver conflicts, hardware faults, and so on.
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
  If your hard drive starts working as soon as you pull out your external drive, then that means there was some issue with the hard drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check the Hardware Connection
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
  Like any technical system, the hardware connections in your PC can go awry at times. In the case of your hard drive, a loose wire or a faulty port can leave you with a defective hard drive connection on your PC.
 
  So we suggest you check all the connections to your hard drive. Give it a thorough look and ensure you fit everything into its proper place.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Change the Drive's Formatting to NTFS
 
@@ -62,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 ## 4\. Update Your Windows Driver
 
 ![windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Most hard drives don't require or come with a specific type of software. The operating system can easily recognize them on its own.
 
@@ -96,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
 ![disk management tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disk-management-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your hard drive(s) is visible, then you can try a couple of things to get things back to the way they were: a complete partition allocation or formatting an existing partition. Let's look at them both.
 
 ### Allocating the 'Unallocated' Partition (Volume)
@@ -115,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
  Click on **Finish** to finalize the setup and then see if you are still left with your hard drive error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Format an Allocated Partition
 
  Only see this as a sort of nuclear option, as you will lose all your previous data from the selected drive. To begin the format, right-click on the partition and choose **Format**.
@@ -124,7 +124,7 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
  Follow the rest of the on-screen instructions and your partition will be wiped clean in a few minutes. If your hard drive detection error was indeed caused by a corrupted partition, it will be gone by the end of the formatting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing Your Hard Drive Detection Issues on Your Windows
@@ -145,24 +145,24 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-pro-tip-speedy-like-video-strategies/"><u>[New] 2024 Approved Instagram Pro Tip Speedy Like-Video Strategies</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-evolution-of-cinematic-experience-virtual-reality/"><u>[New] 2024 Approved The Evolution of Cinematic Experience Virtual Reality</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-beyond-single-pictures-creating-a-story-with-montages/"><u>[Updated] Beyond Single Pictures Creating a Story with Montages</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-diy-youtube-intros-and-ends-without-breaking-the-bank/"><u>[Updated] DIY YouTube Intros & Ends Without Breaking the Bank</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/best-tool-to-translate-youtube-video-to-arabic/"><u>Best Tool to Translate YouTube Video to Arabic</u></a></li>
-<li><a href="https://win11.techidaily.com/compatibility-crusade-four-key-windows-troubleshooters/"><u>Compatibility Crusade: Four Key Windows Troubleshooters</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experience-seamless-internet-with-google-nest-wi-fi-speed-meets-convenience/"><u>Experience Seamless Internet with Google Nest Wi-Fi - Speed Meets Convenience</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-captivate-viewers-adding-animation-to-instagram-text/"><u>In 2024, Captivate Viewers Adding Animation to Instagram Text</u></a></li>
-<li><a href="https://win11.techidaily.com/is-your-5ghz-connection-not-appearing-in-windows-11-try-these-7-fixes/"><u>Is Your 5GHz Connection Not Appearing in Windows 11? Try These 7 Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/is-yourphoneexe-a-threat-tips-for-windows-108-users/"><u>Is YourPhone.exe a Threat? Tips for Windows 10/8 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-latest-features-for-taskbar-in-win11/"><u>Leveraging Latest Features for Taskbar in Win11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-creativity-discover-6-ways-to-utilize-chatgpt-for-your-written-works/"><u>Mastering Creativity: Discover 6 Ways to Utilize ChatGPT for Your Written Works</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862721824-microsofts-copilot-takes-on-your-pc-check-out-the-new-lineup-of-snapdragon-elite-x-laptops-on-offer-today/"><u>Microsoft's Copilot Takes On Your PC - Check Out the New Lineup of Snapdragon Elite X Laptops on Offer Today!</u></a></li>
-<li><a href="https://win11.techidaily.com/quickly-fix-crashing-file-explorers-on-up-to-date-windows-11/"><u>Quickly Fix Crashing File Explorers on Up-to-Date Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/resurrect-missing-links-to-shared-windows-sites/"><u>Resurrect Missing Links to Shared Windows Sites</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-extend-windows-11-shutdown-process/"><u>Strategies to Extend Windows 11 Shutdown Process</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-reveal-hidden-taskbar-icons/"><u>Strategies to Reveal Hidden Taskbar Icons</u></a></li>
-<li><a href="https://win11.techidaily.com/superior-tools-replacing-windows-snipping-feature-in-various-oses/"><u>Superior Tools Replacing Windows' Snipping Feature in Various OSes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/ultimate-guide-to-superior-sound-on-cams/"><u>Ultimate Guide to Superior Sound on Cams</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-designing-a-trailer-blueprint-to-amplify-channel-income/"><u>[New] 2024 Approved Designing a Trailer Blueprint to Amplify Channel Income</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-basics-of-designing-your-own-facebook-reel-experience/"><u>[New] In 2024, The Basics of Designing Your Own Facebook Reel Experience</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-premium-watchlists-highest-youtube-movie-selections-for-2024/"><u>[Updated] Premium Watchlists Highest YouTube Movie Selections for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-turning-viewers-into-valuables-a-creators-guide-to-youtube-monetization-for-2024/"><u>[Updated] Turning Viewers Into Valuables A Creator’s Guide to YouTube Monetization for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-why-gamers-love-windows-more/"><u>Decoding Why Gamers Love Windows More</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-frame-rate-stability-strategies-to-increase-fps-on-rainbow-six-extraction/"><u>Enhancing Frame Rate Stability – Strategies to Increase FPS on Rainbow Six Extraction</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-instability-problems-with-persona-3-reloaded-on-your-computer/"><u>How to Resolve Instability Problems with Persona 3 Reloaded on Your Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-revamp-windows-dashboard-imagery-anytime/"><u>How to Revamp Window's Dashboard Imagery Anytime</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-restricted-folder-access-via-group-policy-on-windows-10/"><u>Implementing Restricted Folder Access via Group Policy on Windows 10</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-seamless-google-meet-integration-for-youtube-enthusiasts/"><u>In 2024, Seamless Google Meet Integration for YouTube Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-air-4-versus-ipad-air-5-is-it-time-to-upgrade-insights-and-reviews/"><u>IPad Air 4 Versus iPad Air 5: Is It Time to Upgrade? Insights & Reviews</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-email-formatting-excising-extraneous-html-in-windows-11/"><u>Mastering Email Formatting: Excising Extraneous HTML in Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210073347-9781682682524-morning-altars-a-7-step-practice-to-nourish-your-spirit-through-nature-art-and-ritual/"><u>Morning Altars: A 7-Step Practice to Nourish Your Spirit through Nature, Art, and Ritual | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-for-slow-battlenet-downloads-on-windows/"><u>Quick Fix for Slow Battle.net Downloads on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-shortcut-problems-fixing-function-keys-in-windows-11/"><u>Rectify: Shortcut Problems - Fixing Function Keys in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-basic-settings-for-your-windows-explore/"><u>Restoring Basic Settings for Your Windows Explore</u></a></li>
+<li><a href="https://win11.techidaily.com/tactical-toolbox-techniques-disguise-power-buttons-in-win11/"><u>Tactical Toolbox Techniques: Disguise Power Buttons in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-search-methods-for-enhancing-performance/"><u>Windows 11 Search: Methods for Enhancing Performance</u></a></li>
 </ul></div>
 

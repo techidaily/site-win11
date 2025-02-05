@@ -1,7 +1,7 @@
 ---
 title: Overcoming Inaccessible Power Settings in Windows 11
-date: 2025-01-17T22:38:39.322Z
-updated: 2025-01-24T22:29:43.795Z
+date: 2025-02-01T17:17:02.067Z
+updated: 2025-02-03T16:23:59.001Z
 tags:
   - windows10
   - windows11
@@ -52,11 +52,11 @@ Here is how you can proceed:
 ![Create a power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/create-power-plan-1.jpg)
 6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 
-![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
 
 Once done, check if you can now change the power mode successfully.
 
@@ -74,11 +74,15 @@ Here is how you can run the troubleshooter:
 ![Click on Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-win11.jpg)
 4. Now, look for the Power troubleshooter and click on the**Run** button for it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Reset the Power Settings
@@ -95,6 +99,10 @@ powercfg –restoredefaultscheme
 ![Restore the default power theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powercfg-restoredefaultschemes.jpg)
 5. Once the command is executed, check if you can change the power mode successfully.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In case the power plan changes again after a short while of executing this method, you will need to make changes as an administrator in the Group Policy Editor.
 
 Here is how you can do that:
@@ -106,16 +114,12 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 ![Choose the Select an active power plan policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-an-active-power-plan.jpg)
 4. Choose**Enabled** and then choose the targeted power plan from the dropdown.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click**Apply** \>**OK** to save the changes, and then restart your computer.
 
 Hopefully, this will resolve the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Revert the System to an Older Working State
@@ -125,10 +129,6 @@ Hopefully, this will resolve the issue.
  The restore points represent a point in time when the system was in a certain state, and by choosing one, you can return the system to that point in time.
 
  In this case, you can choose a state where the current issue is not present.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Switch Power Modes Easily
 
@@ -151,16 +151,21 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-creating-compelling-montage-images-step-by-step/"><u>[Updated] 2024 Approved Creating Compelling Montage Images Step by Step</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-sound-digitization-audiovisual-preservation/"><u>[Updated] In 2024, Sound Digitization Audiovisual Preservation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-acoustic-link-for-speakers/"><u>[Updated] Innovative Acoustic Link for Speakers</u></a></li>
-<li><a href="https://win11.techidaily.com/fixed-silent-outlook-alerts-in-windows-environment/"><u>Fixed Silent Outlook Alerts in Windows Environment</u></a></li>
-<li><a href="https://win-unique.techidaily.com/how-can-you-verify-your-graphics-cards-compatibility-with-windows/"><u>How Can You Verify Your Graphics Card's Compatibility With Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/introducing-shape-revolutionary-ai-interpretability-solution-by-openai/"><u>Introducing SHAPE: Revolutionary AI Interpretability Solution by OpenAI</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/mastering-counter-image-navigation-in-digital-age-a-facebook-guide-for-2024/"><u>Mastering Counter-Image Navigation in Digital Age A Facebook Guide for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-faulty-troubleshooting-tools-in-windows-1011/"><u>Resolving Faulty Troubleshooting Tools in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-essential-tools-your-guide-to-zero-cost-win11-power/"><u>Unveiling Essential Tools: Your Guide to Zero-Cost Win11 Power</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-12x-steam-deck-step-by-step-guide/"><u>Windows 12X Steam Deck: Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-photos-magic-mastering-ctrl-combinations/"><u>Windows Photos Magic: Mastering Ctrl Combinations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capturing-the-moment-advanced-tips-for-iphone-silhouettes/"><u>[New] Capturing the Moment Advanced Tips for iPhone Silhouettes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-briskbounce-momentmirror-tape/"><u>[New] In 2024, BriskBounce MomentMirror Tape</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-expert-tips-for-smooth-cross-sounding-with-audacity/"><u>[Updated] Expert Tips for Smooth Cross-Sounding with Audacity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funflicks-full-evaluation-and-instructions-24/"><u>[Updated] FunFlicks Full Evaluation & Instructions '24</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-reigniting-your-contents-sparkle-top-strategies-for-increasing-youtube-visibility/"><u>[Updated] Reigniting Your Content's Sparkle Top Strategies for Increasing YouTube Visibility</u></a></li>
+<li><a href="https://win11.techidaily.com/alcwavmp3/"><u>ALCフォーマットを効率的にWAVやMP3に変換する方法 | ハイレゾ音質移行手順</u></a></li>
+<li><a href="https://win11.techidaily.com/aviyoutube/"><u>AVI形式への無料YouTubeビデオ変換</u></a></li>
+<li><a href="https://win11.techidaily.com/best-top-10-screen-capture-tools-on-windows-10-enhance-your-productivity/"><u>Best Top 10 Screen Capture Tools on Windows 10: Enhance Your Productivity</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-dvd-video-toolkit-effortless-conversion-from-dvd-to-apple-devices-and-cellphones/"><u>Comprehensive DVD Video Toolkit - Effortless Conversion From DVD to Apple Devices and Cellphones</u></a></li>
+<li><a href="https://win11.techidaily.com/convert-your-ape-audio-files-free-of-charge-simple-and-effective-techniques/"><u>Convert Your APE Audio Files Free of Charge: Simple and Effective Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-top-rated-app-for-seamless-dvd-to-android-video-conversion/"><u>Discover the Top-Rated App for Seamless DVD to Android Video Conversion!</u></a></li>
+<li><a href="https://win11.techidaily.com/download-and-maximize-your-mobile-experience-with-factory-pros-hd-video-conversion-guide/"><u>Download & Maximize Your Mobile Experience with Factory Pro's HD Video Conversion Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-14-plus-5-ways-to-get-into-a-locked-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 14 Plus? 5 Ways to get into a Locked Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-poco-x5-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Poco X5 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/six-proven-fixes-for-when-your-ipadiphone-typing-doesnt-work-a-step-by-step-guide/"><u>Six Proven Fixes for When Your iPad/iPhone Typing Doesn't Work: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-guide-effective-file-and-folder-synchronization-on-windows-7/"><u>Step-by-Step Guide: Effective File & Folder Synchronization on Windows 7</u></a></li>
 </ul></div>
 

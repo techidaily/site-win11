@@ -1,7 +1,7 @@
 ---
 title: "Encrypted Transfer: Protecting Data Through Windows OS"
-date: 2025-01-21T23:00:04.888Z
-updated: 2025-01-25T02:55:53.276Z
+date: 2025-01-30T01:08:20.781Z
+updated: 2025-02-03T16:27:44.762Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Hide a Drive Using the Disk Management App
 
  The Disk Management tool on Windows makes it easy to perform various storage-related tasks such as formatting hard disk partitions, assigning drive letters, managing disk space, and more. You can also use it to hide a drive partition on Windows. Here's how:
@@ -36,7 +40,15 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 5. Choose**Yes** when the warning message appears.  
 ![Hide a Drive Using Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-using-disk-management.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you complete the above steps, your drive will no longer appear in File Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Hide a Drive in Windows With Diskpart Command
 
@@ -52,19 +64,11 @@ To hide a drive in Windows with Command Prompt, follow these steps:
 ![List of Drives in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/list-of-drives-in-command-prompt.jpg)
 5. Note down the letter of the drive you want to hide from the**Ltr** column.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Type the following command to select your drive. Make sure you replace**X** in the command with the drive letter noted in the last step.  
 `select volume X`
 7. Lastly, run the following command to remove the drive letter and hide the volume.  
 `remove letter X`  
 ![Hide a Drive Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-using-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You should see a message that reads **Diskpart successfully removed the drive letter or mount point** . Following that, the drive will no longer appear on your PC.
 
@@ -86,18 +90,10 @@ Here's what you need to do:
 ![Hide a Drive With Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-with-group-policy-editor.jpg)
 6. Select the**Enabled** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Under**Options** , select the drive you want to hide.
 8. Click**Apply** followed by**OK** .
 
  Once you complete the above steps, Windows will hide the specified drive from File Explorer. If you want to unhide the drive later, use the same steps and set the**Hide these specified drives in My Computer policy** to**Not configured** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Hide a Drive in Windows via the Registry Editor
 
@@ -118,17 +114,21 @@ Here's what you need to do:
 ![Hide a Drive via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-via-registry-editor.jpg)
 9. Enter a number corresponding to the drive you want to hide in the**Value data** field and click**OK** . Refer to the table below to determine which number to use.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Drive Letter Refrence for Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-letter-refrence-for-registry-editor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For instance, if you were to hide the**E:** drive from your computer, you'd enter**16** in the Value data field.
 
  You can also use this method to hide multiple drives at the same time. To do so, add the decimal numbers for both drives and enter the total in the Value data field. For example, if you're looking to hide drive**G:** and**H:** from your computer, you should enter**192** (64 + 128) in the Value data field.
 
  You'll have to restart your PC to apply the changes. Following that, the drive will not appear in File Explorer. You can undo the above changes at any point by deleting the**NoDrives** DWORD.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Hiding Drives in Windows Is Easy
 
@@ -151,17 +151,20 @@ Here's what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-optimizing-images-with-ae-luts-step-by-step-for-2024/"><u>[New] Optimizing Images with AE LUTs Step-by-Step for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-step-by-step-guide-to-full-periscope-capabilities-for-2024/"><u>[New] Step-by-Step Guide to Full Periscope Capabilities for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-chromium-connection-pixel-phone-rhythms/"><u>[New] The Chromium Connection Pixel Phone Rhythms</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-visual-prodigies-top-4k-monitors-for-cutting-edge-work-for-2024/"><u>[New] Visual Prodigies Top 4K Monitors for Cutting-Edge Work for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-printer-software-model-1102w-downloader-for-pcs/"><u>HP Printer Software Model 1102W - Downloader for PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/illuminated-ideas-a-guide-to-organizing-notes-via-obsidian/"><u>Illuminated Ideas: A Guide to Organizing Notes via Obsidian</u></a></li>
-<li><a href="https://win11.techidaily.com/screen-splendor-series-designing-distinct-displays-on-win-1011-per-monitor/"><u>Screen Splendor Series: Designing Distinct Displays on WIN 10/11 Per Monitor</u></a></li>
-<li><a href="https://win11.techidaily.com/the-project-pro-essential-ms-project-keys-explained/"><u>The Project Pro: Essential MS Project Keys Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/the-roadmap-to-unblemished-wallpaper-clarity-in-w11/"><u>The Roadmap to Unblemished Wallpaper Clarity in W11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95774167-9781515415503-three-paths-to-god/"><u>Three Paths to God | Free Book</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-picks-the-most-advanced-online-mic-recorders-of-23-for-2024/"><u>Top Picks The Most Advanced Online Mic Recorders of '23 for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/uncovering-game-files-three-windows-techniques/"><u>Uncovering Game Files: Three Windows Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-compilation-of-excellent-video-capture-tools-for-windows-11-for-2024/"><u>[New] Compilation of Excellent Video Capture Tools for Windows 11 for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-challenges-in-job-interview-settings/"><u>[New] Navigating Challenges in Job Interview Settings</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-hdr-monitor-in-depth-samsung-ue590-analysis/"><u>[New] The Ultimate HDR Monitor - In-Depth Samsung UE590 Analysis</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-quintet-of-premium-picture-and-sound-recording-tools/"><u>[Updated] Quintet of Premium Picture & Sound Recording Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-effortless-fusion-of-youtube-videos-with-flv-format/"><u>2024 Approved Effortless Fusion of YouTube Videos with FlV Format</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/boost-your-pcs-speed-effortlessly-essential-tricks-and-tips-by-yl-software/"><u>Boost Your PC's Speed Effortlessly: Essential Tricks & Tips by YL Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-nvidias-latest-app-elevate-your-gameplay/"><u>Discovering Nvidia's Latest App: Elevate Your Gameplay</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-reviving-your-steam-connection-via-dns-flush/"><u>Guide to Reviving Your Steam Connection via DNS Flush</u></a></li>
+<li><a href="https://win11.techidaily.com/highlight-your-path-mouse-cursor-tricks-in-win-11/"><u>Highlight Your Path: Mouse Cursor Tricks in Win 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-laptop-specifications-for-maximum-fun/"><u>Navigating Laptop Specifications for Maximum Fun</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-ntfs-files-techniques-for-compression-and-decompression/"><u>Optimizing NTFS Files: Techniques for Compression & Decompression</u></a></li>
+<li><a href="https://win11.techidaily.com/remedies-for-click-free-interfaces-in-win11/"><u>Remedies for Click-Free Interfaces in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-dns-processes-on-windows-11/"><u>Streamlining DNS Processes on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-absence-of-cooling-rule-in-os-settings/"><u>Tackling Absence of Cooling Rule in OS Settings</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-ultimate-guide-to-using-siri-in-tiktok-videos-enhance-your-filming-experience-for-2024/"><u>The Ultimate Guide to Using Siri in TikTok Videos - Enhance Your Filming Experience for 2024</u></a></li>
 </ul></div>
 

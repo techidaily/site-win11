@@ -1,7 +1,7 @@
 ---
 title: Clearing Up Headphone Connection Errors in Windows
-date: 2024-07-29T15:56:11.264Z
-updated: 2024-07-30T15:56:11.264Z
+date: 2025-01-28T23:01:50.737Z
+updated: 2025-02-03T22:29:36.768Z
 tags:
   - windows10
   - windows11
@@ -33,9 +33,6 @@ To run the troubleshooter:
 3. Next, click on**Other** **troubleshooters** .  
 ![Windows 11 troubleshoot other troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-troubleshoot-other-troubleshooter.jpg)
 4. Click the**Run** button for**Playing Audio** . It will check your audio service status and prompt you to select your audio device.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows 11 settings troubleshoot other troubleshooters playing audio run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-settings-troubleshoot-other-troubleshooters-playing-audio-run.jpg)
 5. Select your device speaker and click**Next** .
 6. Click**NO** ,**Do not open Audio Enhancements** in the**Turn off Sound Effects and Enhancements** dialog.
@@ -44,17 +41,15 @@ To run the troubleshooter:
  If the troubleshooter left a good impression on you, check out our[guide to every troubleshooter on Windows 11](https://www.makeuseof.com/windows-11-troubleshooters/) for more of them.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Perform an Audio Device Driver Rollback
 
  If a Windows or driver update has messed up your audio device, you can perform a driver rollback to reinstall the last known good driver. You can use the Device Manager to[roll back a driver in Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) .
 
  To roll back an audio device driver, follow our guide on[how to roll back a driver in Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) . You'll likely find your audio drivers in the**Sound, video, and game controllers** section of Device Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Add Network Service and Local Services to the Local Administrator Group
 
  Another way to fix this error is to add**Network service** and**Local Services** to the Local Administrator Group. Network Service and Local Service are predefined accounts part of the service control manager. Adding these accounts to the Local Administrator Group should help you fix the sound problem on your Windows PC.
@@ -66,24 +61,20 @@ To run the troubleshooter:
 1. Press**Win + X** to open the**WinX** **Menu** .
 2. Click on**Computer Management.**
 3. In**Computer Management** , click on**Local User and Groups.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![computer management windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/computer-management-windows-11.jpg)
 4. In the right pane, double-click on**Groups** to view all the local accounts.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![local users and groups administrator properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/local-users-and-groups-administrator-properties.jpg)
 5. Select and right-click on the**Administrators** account and select**Properties** .  
 ![administrator properties local users and groups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/administrator-properties-local-users-and-groups.jpg)
 
 1. Click the**Add** button in the**Administrator Properties** dialog.
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. ![administrator properties local users and groups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/administrator-properties-local-users-and-groups.jpg)
 3. Next, type**network service** and click**Check Names** . It should change the object name to**NETWORK SERVICE.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![add network service local administrator group](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-network-service-local-administrator-group.jpg)
 4. Click**OK** to add network service to the local user group.
 5. In the**Administrator Properties** dialog, you'll see**NT Authority\\Network Service added as the member.**
@@ -92,11 +83,11 @@ To run the troubleshooter:
 
  If you use the Windows Home edition, you can use Command Prompt to add Local Network and Local Services to the local administrator group. Here's how to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![add network service local administrator group command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-network-service-local-administrator-group-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Press the**Win** key and type**cmd** .
 2. Right-click on**Command Prompt** and select**Run as administrator.**
@@ -108,13 +99,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 6. Restart your PC and check if the error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Uninstall the Audio Device and Driver
 
  Temporary glitches with the audio device driver can cause this error on Windows. To fix the issue, uninstall the audio device and the associated driver from Device Manager. After the restart, Windows will automatically reinstall the driver to resolve the issue.
@@ -129,9 +116,18 @@ To uninstall an audio device:
 5. Select**Attempt to remove the driver for this device** option in the**Uninstall Device** dialog.  
 ![uninstall audio device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-audio-device-device-manager.jpg)
 6. Click**Uninstall** to remove the device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Once uninstalled, restart your PC. Windows will automatically install the necessary drivers for your audio device.
 
  If the issue persists, manually reinstall the audio device driver from the manufacturer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Manually Reinstall the Audio Device Driver
 
@@ -154,14 +150,11 @@ To uninstall an audio device:
 
  The error often occurs due to a bad driver update. To fix it, you can perform a rollback or manually reinstall the audio device driver. In addition, try to update the audio device driver from the manufacturer's website.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,4 +163,20 @@ To uninstall an audio device:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-learn-to-leverage-telegram-a-comprehensive-online-tutorial/"><u>[Updated] In 2024, Learn to Leverage Telegram A Comprehensive Online Tutorial</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-superior-tracking-mounts-for-cameras-phone-sensitive/"><u>[Updated] In 2024, Superior Tracking Mounts for Cameras, Phone-Sensitive</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-simplified-hp-laptop-screen-recording-four-effective-ways-for-2024/"><u>[Updated] Simplified HP Laptop Screen Recording - Four Effective Ways for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-ultimate-guide-to-affordable-online-meetings-plus-desktop-display/"><u>2024 Approved Ultimate Guide to Affordable Online Meetings + Desktop Display</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-tutorial-unlocking-the-secrets-of-peekvids-video-extraction/"><u>Effortless Tutorial: Unlocking the Secrets of PeekVids Video Extraction</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-comparison-the-leading-mp3-editor-tools-for-professionals-and-hobbyists-alike/"><u>Expert Comparison: The Leading MP3 Editor Tools for Professionals and Hobbyists Alike</u></a></li>
+<li><a href="https://win11.techidaily.com/free-conversion-of-m4a-audio-files-to-mp3-format-easy-guide/"><u>Free Conversion of M4A Audio Files to MP3 Format - Easy Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-video-editing-in-windows-10-photos-using-story-remix/"><u>In 2024, Streamline Video Editing in Windows 10 Photos Using Story Remix</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/isowindows-10/"><u>ISOファイルを動かす：Windows 10で完全ガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/isodvd/"><u>ISOへの変換マスタークラス「最新かつ安全なDVDダウンロード」</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-on-amazon-with-the-newly-discounted-rog-strix-g16-laptop-at-only-1164/"><u>Score Big Savings on Amazon with the Newly Discounted ROG Strix G16 Laptop at Only $1,164</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-ranking-the-top-avchd-video-editors/"><u>Updated 2024 Approved Ranking the Top AVCHD Video Editors</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows Admin: Command Prompt Tools"
-date: 2025-01-18T19:45:05.807Z
-updated: 2025-01-25T08:49:47.708Z
+date: 2025-02-01T20:03:19.163Z
+updated: 2025-02-04T06:32:15.447Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. List All User Accounts
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
  Keep the names you see in mind, as you will need them as you use the **net user** command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Show All the Information of a User Account
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 ![deactivating an account with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/deactivating-an-account-with-net-user.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there's a user you wish to temporarily restrict so they can't access their account, you can simply disable it instead of deleting it. Here's the basic syntax of that action, making sure to use the **/active:no** switch at the end of the command to tell **net user** you're disabling it:
@@ -90,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 `net user Jack /active:no`
 
  And if you want to enable a disabled account, you just have to change the **/active:no** switch to **/active:yes**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Enable and Disable a Domain User Account
 
@@ -127,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 ![setting an account expiriation date with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-an-account-expiriation-date-with-net-user.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By default, accounts are set to never expire, but you can change that if you have a user you want to be active for a specific period of time. You will need to use the **/expires** parameter while specifying the year, month, and expiration date. Here's the basic command structure:
 
 `net user Username /expires:DD/MM/YYYY`
@@ -156,7 +156,7 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 ![setting an account policy with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-account-policy-with-net-user.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need a particular user to change the password during their next login, you can use the **net user** command along with the **/passwordchg:yes** parameter (by default, the parameter is **/passwordchg:no**). Here's the basic syntax:
@@ -169,10 +169,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
  So, the next time Jack logs into the computer, he will get a prompt asking him to change his password before he can access his user account.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 11\. Set a Home Directory for Users
 
  When creating a new user profile using **net user**, you can set the home directory, which is where Windows will store the user's personal files and settings. By default, Windows places the home directory of each user account in **This PC > Local Disk (C:) > Users**. To change this with **net user** during account creation, the basic syntax is as follows:
@@ -184,6 +180,10 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 `net user Jack Pa$w0rd /add /homedir:D:\Other Users\Jack`
 
  The above command will place the home directory of **Jack**, as it creates the account, in the **D:\\Other Users\\Jack** folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Take Control of Your Computer's Users Accounts With the Net User Command
 
@@ -203,17 +203,22 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-what-are-the-best-sites-to-download-google-pixel-ringtones-for-2024/"><u>[New] What Are the Best Sites to Download Google Pixel Ringtones for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-safely-extract-youtube-audio-a-study-of-3-techniques/"><u>[Updated] 2024 Approved How to Safely Extract YouTube Audio A Study of 3 Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-snapping-your-view-on-windows-devices/"><u>2024 Approved Snapping Your View on Windows Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-workings-an-insight-into-chatgpts-shared-links/"><u>Decoding the Workings: An Insight Into ChatGPT’s Shared Links</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ver-powerful-tagging-tactics-a-guide-to-amplifying-freegame-content-for-2024/"><u>Discover Powerful Tagging Tactics A Guide to Amplifying FreeGame Content for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-low-light-windows-11-issues-with-these-tricks/"><u>Fix Low-Light Windows 11 Issues with These Tricks</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-completely-erase-your-connection-with-youtube-shorts/"><u>In 2024, Completely Erase Your Connection with YouTube Shorts</u></a></li>
-<li><a href="https://win11.techidaily.com/simplified-system-management-through-task-scheduler/"><u>Simplified System Management Through Task Scheduler</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/solve-access-denied-on-your-usb-9-effective-solutions/"><u>Solve 'Access Denied' On Your USB: 9 Effective Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-emails-linking-gmail-and-outlook-in-windows/"><u>Streamlining Emails: Linking Gmail and Outlook in Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/taking-flight-iphone-hdr-techniques-for-professional-results/"><u>Taking Flight IPhone HDR Techniques for Professional Results</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-replace-modern-text-with-icons-in-windows-11/"><u>Techniques to Replace Modern Text with Icons in Windows 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-essential-top-5-iphone-podcast-apps/"><u>[New] Essential Top 5 iPhone Podcast Apps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-top-pick-for-new-dronists-a-deep-look-at-syma-x5c/"><u>[New] In 2024, The Top Pick for New Dronists – A Deep Look at Syma X5C</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-how-to-captivate-audiences-and-gain-traction-with-youtube-shorts/"><u>[Updated] How to Captivate Audiences and Gain Traction with YouTube Shorts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-harnessing-the-power-of-youtubes-seo-keywords/"><u>2024 Approved Harnessing the Power of YouTube's SEO Keywords</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-huawei-nova-y71-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Huawei Nova Y71 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-enhanced-settings-in-windows-11/"><u>Deciphering Enhanced Settings in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/focus-on-sharpness-nine-tactics-to-clear-up-blurry-pc-screens/"><u>Focus on Sharpness: Nine Tactics to Clear Up Blurry PC Screens</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-use-periscope-the-complete-guide-for-2024/"><u>How to Use Periscope The Complete Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/instantly-reclaim-lost-files-no-charge/"><u>Instantly Reclaim Lost Files - No Charge</u></a></li>
+<li><a href="https://win11.techidaily.com/journey-through-ultimate-winapps-2023s-picks/"><u>Journey Through Ultimate WinApps, 2023'S Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-windows-11s-rapid-support-feature/"><u>Launching Windows 11'S Rapid Support Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-of-max-and-min-cpu-indicators-on-windows/"><u>Mastery of Max & Min CPU Indicators on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-remote-desktop-errors-in-windows-10-and-11/"><u>Overcoming Remote Desktop Errors in Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-word-wanderings-definitive-searches-on-win11/"><u>Quick Word Wanderings: Definitive Searches on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-ps4-remote-with-a-stable-win-based-link/"><u>Reviving Your PS4 Remote with a Stable Win-Based Link</u></a></li>
+<li><a href="https://facebook.techidaily.com/secure-chats-beyond-facebook/"><u>Secure Chats Beyond Facebook</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-common-windows-11-zoom-problems-code-1132/"><u>Solving Common Windows 11 Zoom Problems: Code 1132</u></a></li>
 </ul></div>
 

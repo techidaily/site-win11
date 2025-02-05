@@ -1,7 +1,7 @@
 ---
 title: "Tackling DXGIErrorCode ZeroX887A0006: Device Hang Fixes"
-date: 2025-01-17T19:55:11.869Z
-updated: 2025-01-24T20:14:27.380Z
+date: 2025-01-29T19:47:43.808Z
+updated: 2025-02-04T06:35:12.059Z
 tags:
   - windows10
   - windows11
@@ -37,11 +37,11 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 ![The Run this program as administrator setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-compatibility-tab1.jpg)
 6. To save the settings, press the **Apply** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Then try playing your affected game to see if this potential solution makes a difference.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Select Debug Mode in the NVIDIA Control Panel
 
@@ -53,11 +53,7 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 3. Select **Debug Mode** on the menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Repair the Files for Any Affected Games
@@ -74,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 4. Select **Manage** to bring up some options.  
 ![The Manage option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-manage-option.jpg)
 5. Press the **Verify** button, and wait for the verification process to finish.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The Verify button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-verify-files-option-in-epic.jpg)
 
@@ -103,14 +103,10 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 ![The High-performance NVIDIA processor option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-high-performance-graphics-processor-option.jpg)
 7. Select **Apply** to save the new GPU settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your PC has an AMD graphics card, you’ll need to open the AMD Radeon Settings panel from the desktop’s context menu. Click the System tab in AMD Radeon Settings. Then click the **Switchable Graphics** tab, and select the **High Performance** GPU option for the affected game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Roll Back the Most Recent Graphics Driver Update
@@ -120,7 +116,11 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/roll-back-driver-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Update Your GPU’s Driver
@@ -134,7 +134,7 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-nvidia-driver-download-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Disable DirectX 12 in Any Affected Games
@@ -153,6 +153,10 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 ![The Additional Command Line Arguments checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-d3d11-command-line.jpg)
 6. Add **d3d11** in the text box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Switch to the High-Performance Power Plan
 
  Error 0x887A0006 will more likely arise with the Power saver or Balanced power setting selected. Those power settings reduce PC performance for the sake of saving energy. So, try selecting the high-performance setting to ensure optimal gaming performance as follows:
@@ -167,7 +171,7 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 5. Input a plan title in the name box and click **Next**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click **Create** to add the plan.
@@ -178,10 +182,6 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
  Overclocking GPUs or CPUs (central processors) is one of the more common causes of error 0x887A0006\. Have you overclocked your PC with overclocking software like CPU Tweaker, AMD Ryzan Master, or MSI Afterburner in any way? If so, it’s recommended you disable (undo) any overclocking you’ve applied by restoring default system values with whatever overclock software you utilize.
 
  You can disable NVIDIA GPU overclocking with the method outlined for resolution two. However, that option won’t be available on PCs with AMD graphics cards. Nor will it be of any use for users who’ve overclocked CPUs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Edit the GraphicsDrivers Registry Key
 
@@ -194,13 +194,13 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-dword-option.jpg)
 4. Type **TdrLevel** inside the DWORD’s text box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Double-click **TdrLevel** to view a **Value data** box for that DWORD.  
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-edit-dword-value-box.jpg)
 6. Enter **0** in TdrLevel’s **Value** box, and select **OK** to save.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Close the Regedit app, and then restart your PC.
 
@@ -228,18 +228,21 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitcast-audible-and-mp4-edition/"><u>[New] In 2024, TwitCast Audible & MP4 Edition</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-ultimate-hash-tracker-list-for-major-social-media-sites-fbtwitterinsta/"><u>[New] In 2024, Ultimate Hash Tracker List for Major Social Media Sites (FB/Twitter/Insta)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-discover-retro-your-path-to-facebook-archives/"><u>[Updated] Discover Retro Your Path to Facebook Archives</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-premium-7-dslr-picks-for-ultimate-visual-storytelling-online-for-2024/"><u>[Updated] Premium 7 DSLR Picks For Ultimate Visual Storytelling Online for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-xiaomi-13t-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Xiaomi 13T to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-one-channel-sound-issue-for-windows-bluetooth-device/"><u>Correcting One-Channel Sound Issue for Windows' Bluetooth Device</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-malfunctioning-windows-keyboard-buttons/"><u>Fix Malfunctioning Windows Keyboard Buttons</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Nokia XR21? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-precision-practices-for-perfecting-figmas-background-removal/"><u>In 2024, Precision Practices for Perfecting Figma's Background Removal</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-cc-adjustments-in-windows-11/"><u>Mastering CC Adjustments in Windows 11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/resolve-camera-not-found-issue-in-windows-11-7-essential-fixes/"><u>Resolve 'Camera Not Found' Issue in Windows 11: 7 Essential Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-application-displacement-on-pc/"><u>Resolving 'Application Displacement on PC'</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-connecting-your-logitech-mouse-seamlessly/"><u>Step-by-Step Guide: Connecting Your Logitech Mouse Seamlessly</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-icy-acceleration-olympics-best-from-2022-short-tracks/"><u>[New] 2024 Approved Icy Acceleration Olympics' Best From 2022 Short Tracks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-comprehensive-guide-to-mastering-vivocuts-new-capabilities/"><u>[New] A Comprehensive Guide to Mastering VivoCut's New Capabilities</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-snapshotsculptor-ultimate-photo-mosaic-builder/"><u>[New] SnapshotSculptor Ultimate Photo Mosaic Builder</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-permanent-silence-of-the-quick-content-platform/"><u>[Updated] 2024 Approved Permanent Silence of the Quick Content Platform</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-7-superior-mac-video-applications/"><u>2024 Approved 7 Superior Mac Video Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-advice-regaining-control-of-your-pcs-manager-in-windows-11/"><u>Expert Advice: Regaining Control of Your PC's Manager in Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-y27s-by-drfone-android/"><u>How to Bypass FRP on Vivo Y27s?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-samsung-galaxy-a23-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Samsung Galaxy A23 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maintaining-desktop-consistency-with-win11/"><u>Maintaining Desktop Consistency with Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-windows-11s-zip-extraction-maze/"><u>Navigate Through Windows 11'S Zip Extraction Maze</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-access-tools-making-windows-actions-easier/"><u>Quick Access Tools: Making Windows Actions Easier</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-lsa-protection-errors-step-by-step/"><u>Solving LSA Protection Errors, Step by Step</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-cutting-edge-recording-sounds-in-the-mac-era-for-2024/"><u>The Cutting Edge Recording Sounds in the Mac Era for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/uncovering-the-magic-of-windows-11s-dynamic-color-spectrum/"><u>Uncovering the Magic of Windows 11'S Dynamic Color Spectrum</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-file-clarity-the-art-of-notating-explorers/"><u>Unraveling File Clarity: The Art of Notating Explorers</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-the-complexities-of-online-platform-dissatisfaction/"><u>Unveiling the Complexities of Online Platform Dissatisfaction</u></a></li>
 </ul></div>
 

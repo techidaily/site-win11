@@ -1,7 +1,7 @@
 ---
 title: Techniques for Timely Purge of Steam DNS Cache on PC
-date: 2024-08-08T13:18:07.807Z
-updated: 2024-08-09T13:18:07.807Z
+date: 2025-02-02T17:19:44.535Z
+updated: 2025-02-04T00:35:30.938Z
 tags:
   - windows10
   - windows11
@@ -22,10 +22,11 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
 
 ## Why Should You Flush the Steam DNS Cache?
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of steam chrome dns urls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_chrome_urls.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A DNS cache is essentially a small databank of IP addresses that your computer has connected to. Many different programs have a DNS cache, and because Steam can access the internet, it has its own cache.
 
@@ -33,24 +34,17 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
 
  You can check out[what a DNS server is](https://www.makeuseof.com/tag/what-is-dns-server/) if you'd like to know more, but even if you know nothing about them, flushing the Steam DNS cache is easy to do.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## How to Flush the Steam DNS Cache on Windows
 
 To get started, we're going to need to open the Steam console.
 
 ### 1\. How to Open the Steam Console
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![screenshot of the steam console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_console.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To enable the Steam console, follow these steps:
 
@@ -63,8 +57,9 @@ To enable the Steam console, follow these steps:
  If you don't see it, check next to your username at the top-left of Steam. There should be an additional tab named "console" to the right.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. How to Flush the Steam DNS Cache
 
 Now that the Steam console is open, input the following command.
@@ -73,29 +68,27 @@ Now that the Steam console is open, input the following command.
 
  You should see a plain-looking page will have a button named**Clear host cache.** Click this, and you're done.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![screenshot of the internal steam dns flush function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_dns_flush.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Steam won't give any feedback to say that the process has been completed, but your DNS cache will be cleared and ready to store new and updated IP addresses.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Handy, Hidden Features Within Steam for Windows
 
  Despite being a simple fix for a wide range of issues, not many people realize Steam has a console. And while it'd be nice if Valve made the console more evident for its users, it's still easy enough to open and can flush the DNS in a handful of clicks.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,4 +97,26 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-boost-engagement-through-best-thumbnail-practices-for-2024/"><u>[New] Boost Engagement Through Best Thumbnail Practices for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rafting-content-gold-youtube-studios-path-to-perfection-for-2024/"><u>[New] Crafting Content Gold YouTube Studio's Path to Perfection for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-easing-into-public-speaking-10-common-video-blogger-fears/"><u>[Updated] 2024 Approved Easing Into Public Speaking 10 Common Video Blogger Fears</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-social-networks-roadmap-making-the-most-of-daily-use/"><u>[Updated] In 2024, The Social Network's Roadmap Making the Most of Daily Use</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-seeking-consistent-income-through-youtube/"><u>[Updated] Seeking Consistent Income Through YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-from-twitter-videosyoutube-songs-to-scribbled-mp3-files/"><u>2024 Approved Step-by-Step From Twitter Videos/YouTube Songs to Scribbled MP3 Files</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/affluent-online-broadcasting-houses/"><u>Affluent Online Broadcasting Houses</u></a></li>
+<li><a href="https://win11.techidaily.com/cracking-the-code-windows-versioning-insight/"><u>Cracking the Code: Windows Versioning Insight</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-windows-1111-ui-for-auto-check-updates/"><u>Enabling Windows 11/11 UI for Auto-Check Updates</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-best-conversion-techniques-youtube-to-mpeg-encoding/"><u>In 2024, Best Conversion Techniques YouTube to MPEG Encoding</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/p-mastery-manual-starting-an-engaging-aesthetic-vlog-for-2024/"><u>Makeup Mastery Manual Starting an Engaging Aesthetic Vlog for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-xbox-mic-troubleshooting-in-windows-11-platforms/"><u>Mastering Xbox Mic Troubleshooting in Windows 11 Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-network-navigation-for-the-elusive-mac-on-windows-11/"><u>Navigating Network Navigation for the Elusive MAC on WIndows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-ui-fidelity-on-newest-windows-release/"><u>Perfecting UI Fidelity on Newest Windows Release</u></a></li>
+<li><a href="https://win11.techidaily.com/quickly-link-tofrom-bing-chat-in-windows-11-search-field/"><u>Quickly Link To/From Bing Chat in Windows 11 Search Field</u></a></li>
+<li><a href="https://win11.techidaily.com/time-tracker-tweaks-top-apps-to-modify-file-timestamps-on-pc/"><u>Time Tracker Tweaks: Top Apps to Modify File Timestamps on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-windows-into-a-personalized-oasis-8-winbubble-upgrades/"><u>Transform Windows Into a Personalized Oasis: 8 WinBubble Upgrades</u></a></li>
+<li><a href="https://win11.techidaily.com/turning-phones-into-windows-audio-input/"><u>Turning Phones Into Windows Audio Input</u></a></li>
+<li><a href="https://article-files.techidaily.com/zipped-scripts-into-speaking-texts-srt-file-conversion-for-2024/"><u>Zipped Scripts Into Speaking Texts .Srt File Conversion for 2024</u></a></li>
+</ul></div>
 

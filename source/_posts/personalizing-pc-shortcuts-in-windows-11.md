@@ -1,7 +1,7 @@
 ---
 title: Personalizing PC Shortcuts in Windows 11
-date: 2025-01-19T07:58:02.599Z
-updated: 2025-01-25T06:26:33.176Z
+date: 2025-01-30T00:05:24.127Z
+updated: 2025-02-04T00:56:09.580Z
 tags:
   - windows10
   - windows11
@@ -36,14 +36,14 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 ![The WinHotKey setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/WinHotKey-setup-wizard.png)
 5. Select the **Next** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the **I accept the agreement** radio button, and press the **Next** button again.
 7. Press the **Browse** button to choose an installation folder.  
 ![The Browse button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/The-Browse-button.png)
 8. Select the **Next** option to install the software.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 9. After installing, select the option to set up a WinHotKey desktop shortcut. Then you can click that shortcut to launch the software.
 
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 2. Type an optional description for the hotkey in the text box on the **General** tab if you wish.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Select the **Launch an application** option on the drop-down menu.
@@ -68,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 2. Now select a keyboard key for the shortcut on the **Along with the key** drop-down menu.  
 ![Along with the key drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/along-with-the-key-drop-down-menu.png)
 3. You can also select additional keys for the hotkey by clicking the **Alt**, **Shift**, and **Ctrl** checkboxes. The Windows checkbox is selected by default, but you can deselect that option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. To further configure the keyboard shortcut, click the **Advanced** button. You can enter additional parameters and change how the software window opens on the Launch: Advanced window.  
 ![The Launch: Advanced window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/launch-advanced-window.png)
@@ -101,11 +105,11 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 ![Make the Current Windows drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/make-the-current-window-drop-down-menu.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create Custom Keyboard Shortcuts With HotkeyP
@@ -117,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 3. Select **External Mirror – X64** to download the ZIP file. A Sourceforce page will open from which HotkeyP will automatically download.  
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-compressed-zip-folder.jpg)
 4. Double-click **HotkeyP.exe** file inside the extracted **hotkeyp\_64bit** directory.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you’ll see an empty HotkeyP window. You can fill that window by adding some new custom hotkeys. First, try setting up a hotkey that opens software on your PC like this:
 
@@ -149,7 +149,7 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 ![The Start automatically checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-start-automatically-checkbox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Set Up All the Windows Software HotKeys You Need With WinHotKey
@@ -168,18 +168,16 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-leading-low-cost-audio-tools-1-to-10-desktop-recorder-guide/"><u>[New] Leading Low-Cost Audio Tools #1 to #10 Desktop Recorder Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-culinary-cinematography-essential-food-film-techniques/"><u>[New] Mastering Culinary Cinematography Essential Food Film Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-streamlining-your-videography-with-adobe-connects-features/"><u>[New] Streamlining Your Videography with Adobe Connect's Features</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-search-experience-in-windows-11/"><u>Elevate Your Search Experience in Windows 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-6-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 6 With 7 Methods</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-xiaomi-civi-3-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Xiaomi Civi 3 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-find-n3-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo Find N3? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-chromes-inaccurate-virus-alert-and-resolving-it/"><u>Navigating Chrome's Inaccurate Virus Alert and Resolving It</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-online-tone-generators-can-be-very-useful-while-calibrating-the-audio-equipment-testing-your-hearing-or-tuning-music-instruments-etc-lets-check-for-2024/"><u>New Online Tone Generators Can Be Very Useful While Calibrating the Audio Equipment, Testing Your Hearing or Tuning Music Instruments, Etc. Lets Check for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/power-play-four-strategies-for-removing-user-entries-from-win11/"><u>Power Play: Four Strategies for Removing User Entries From Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-for-non-operational-display-driver-on-windows-11-os/"><u>Remedy for Non-Operational Display Driver on Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-address-unsupported-device-error/"><u>Strategies to Address 'Unsupported Device' Error</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-drone-technology-mechanisms-and-applications-demystified-for-2024/"><u>Unraveling Drone Technology Mechanisms and Applications Demystified for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-chime-chronicles-mastering-the-art-of-tamil-ringtones/"><u>[Updated] Chime Chronicles Mastering the Art of Tamil Ringtones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-se-2020-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-streamlining-project-management-through-filmora-knowledge/"><u>In 2024, Streamlining Project Management Through Filmora Knowledge</u></a></li>
+<li><a href="https://win-able.techidaily.com/intel-graphics-software-problem-how-to-repair-non-responsive-driver-helper-on-laptops-and-desktops/"><u>Intel Graphics Software Problem: How to Repair Non-Responsive Driver Helper on Laptops & Desktops</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-file-protection-with-windows-password-practices/"><u>Optimize Your File Protection with Windows Password Practices</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-no-notice-errors-in-phone-links-windows-functionality/"><u>Overcoming No-Notice Errors in Phone Link's Windows Functionality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/personalized-comfort-by-allowing-customization-according-to-individual-needs-and-preferences-which-is-essential-in-creating-an-inclusive-user-experience-for4/"><u>Personalized Comfort by Allowing Customization According to Individual Needs and Preferences Which Is Essential in Creating an Inclusive User Experience for Users with Disabilities.</u></a></li>
+<li><a href="https://win11.techidaily.com/stealth-mode-abscond-with-taskview-icon/"><u>Stealth Mode: Abscond with TaskView Icon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-resolving-nvidia-disp-not-showed-problems/"><u>Strategies for Resolving Nvidia Disp Not Showed Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/the-synergy-of-ai-and-commerce-at-ms-store/"><u>The Synergy of AI and Commerce at MS Store</u></a></li>
 </ul></div>
 

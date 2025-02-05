@@ -1,7 +1,7 @@
 ---
 title: "Command Line: A Step-by-Step Guide to Win Registry Alteration"
-date: 2025-01-21T21:18:27.248Z
-updated: 2025-01-24T16:57:36.450Z
+date: 2025-01-28T07:58:55.214Z
+updated: 2025-02-04T00:22:44.832Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
 ![the command to view all reg commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/the-command-to-view-all-reg-commands.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There aren't a lot of commands when it comes to editing the registry using Command Line. To view them all, [open Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) and run the below command in Command Prompt:
 
 `reg /?`
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 ![the list reg commands in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/the-list-reg-commands-in-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to see more information about them, just add the **/?** switch at the end of the command. For, example, if you want to find out what the **reg add** command does, you'd enter the below command:
@@ -49,11 +53,11 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
 ![details of the reg add command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/details-of-the-reg-add-command-in-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you're finding it hard the commands out on your own, don't worry. We will simplify it for you and show you how to get started using them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Add and Delete Keys in the Windows Registry
 
@@ -72,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 `reg delete HKLM\SOFTWARE\MyNewKey /f`
 
  Now the **MySubKey** key will disappear in the Registry Editor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add, Modify, and Delete Values in the Windows Registry
 
@@ -105,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
 ![transfering entries from one registry key to another in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/transfering-entries-from-one-registry-key-to-another-in-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Sometimes, you might want to copy the values from one key to another in the registry. This is as easy as using the **reg copy** command while specifying the key you're copying them from and the one you're copying them to (keep in mind that both keys have to already exist before you run the command). Here's an example:
 
 `reg copy HKLM\SOFTWARE\MyNewKey1 HKLM\SOFTWARE\MyNewKey2 /s`
@@ -122,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 ![importing a registry file in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/importing-a-registry-file-in-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have [created a Windows Registry file](https://www.makeuseof.com/windows-registry-file-guide/) or downloaded it elsewhere, you can import it into the registry using the **reg import** command. All you need to do is specify the path to the registry file and Command Prompt will do the rest. Here's an example:
@@ -131,13 +135,13 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
  Once you run that command, the contents of the reg file will be merged with the registry.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Export Registry Entries
 
 ![exproting a registry key in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/exproting-a-registry-key-in-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can export a key in the registry using the **reg export** command while specifying the path of the key you want to export and the file you want to create. This comes in handy when you need to back up certain keys and values to restore them elsewhere. Here's an example:
 
@@ -150,10 +154,6 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 `reg query HKLM\SOFTWARE\MyNewKey /v MyValue > C:\Users\CHIFUNDO\Desktop\MyRegFile.reg`
 
  The resulting registry file will only contain the key and the specific value you exported.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Save Registry Entries
 
@@ -193,16 +193,14 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-comparing-magix-audio-tools/"><u>[New] In 2024, Comparing MAGIX Audio Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-essential-insights-into-using-color-grading-luts-with-pscc/"><u>[New] In 2024, Essential Insights Into Using Color Grading LUTs with PSCC</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-record-holders-the-epitome-of-reddit-engagement-10-threads/"><u>[Updated] Record Holders The Epitome of Reddit Engagement (10 Threads)</u></a></li>
-<li><a href="https://win11.techidaily.com/debugging-made-simple-top-10-windows-fixers/"><u>Debugging Made Simple: Top 10 Windows Fixers</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-smooth-performance-in-the-epic-launcher/"><u>Ensuring Smooth Performance in the Epic Launcher</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-picks-the-finest-gaming-experiences-on-steam-deck-in-2eplus-years/"><u>Expert Picks: The Finest Gaming Experiences on Steam Deck in 2E+ Years</u></a></li>
-<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-bluetooth-drivers-wont-work-on-windows-10-discover-the-fix-now/"><u>Qualcomm Atheros Bluetooth Drivers Won't Work on Windows 10? Discover the Fix Now</u></a></li>
-<li><a href="https://win11.techidaily.com/remote-file-management-via-smb-protocols/"><u>Remote File Management via SMB Protocols</u></a></li>
-<li><a href="https://fox-that.techidaily.com/seamlessly-combine-identical-photographs-on-ios-and-macos-a-step-by-step-guide/"><u>Seamlessly Combine Identical Photographs on iOS and macOS – A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-top-15-solutions-to-common-issues-on-any-iphone/"><u>Ultimate Guide: Top 15 Solutions to Common Issues on Any iPhone</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-10-vs-windows-11-all-the-major-changes/"><u>Windows 10 vs Windows 11: All the Major Changes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-streamline-your-music-library-6-free-ios-apps-for-youtube-conversion/"><u>[New] In 2024, Streamline Your Music Library 6 Free iOS Apps for YouTube Conversion</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-delving-into-new-iphone-photography-paradigms-with-ios-11/"><u>2024 Approved Delving Into New iPhone Photography Paradigms with iOS 11</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-windows-11-backup-and-recovery-options/"><u>Demystifying Windows 11 Backup and Recovery Options</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-the-best-free-ios-13-app-for-screen-recording-on-iphone-8-x-xs-and-xr/"><u>Download the Best Free iOS 13 App for Screen Recording on iPhone 8, X, XS, and XR</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-high-definition-showdown-projection-systems-versus-tv-in-4k-world/"><u>In 2024, High-Definition Showdown Projection Systems versus TV in 4K World</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-breakpoints-in-windows-debugging-systems/"><u>Steps to Overcome Breakpoints in Windows Debugging Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-8-pomodoro-timers-maximizing-time-management-on-windows/"><u>The Ultimate 8 Pomodoro Timers: Maximizing Time Management on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-arp-cache-explored-and-deletion-strategies-revealed-139-chars-exceeds-limit-adjusted-to-fit-better-clearing-windows-arp/"><u>Windows ARP Cache Explored & Deletion Strategies Revealed (139 Chars, Exceeds Limit, Adjusted to Fit Better: Clearing Windows ARP</u></a></li>
 </ul></div>
 

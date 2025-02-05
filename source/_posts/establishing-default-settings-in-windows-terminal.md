@@ -1,7 +1,7 @@
 ---
 title: Establishing Default Settings in Windows Terminal
-date: 2025-01-24T08:48:37.122Z
-updated: 2025-01-24T21:52:49.220Z
+date: 2025-01-29T00:54:48.028Z
+updated: 2025-02-04T00:55:21.850Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Change the Default Terminal App via Windows Terminal's Settings
@@ -58,11 +58,11 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 ![Set Windows Terminal as the Default App via Console Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-via-console-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Change the Default Terminal App From Windows Settings
@@ -76,13 +76,13 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 ![Set Windows Terminal as the Default App From Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-from-windows-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, both Command Prompt and PowerShell will launch in the chosen app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Changing the Default Terminal App Is Easy
@@ -103,19 +103,14 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-capture-your-ride-top-5-action-camera-headsets-reviewed-for-23-motorcyclists/"><u>[New] Capture Your Ride – Top 5 Action Camera Headsets Reviewed for '23 Motorcyclists</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-lgs-new-tech-horizon-in-bp550/"><u>2024 Approved Exploring LG's New Tech Horizon in BP550</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/comment-transformer-un-videofile-m4v-en-version-mp4-and-m4v-tutoriel-complete/"><u>Comment Transformer Un Vidéofile M4V en Version MP4 & M4V : Tutoriel Complète</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-listening-game-setup-of-win-1011s-atmos/"><u>Elevate Your Listening Game: Setup of Win 10/11'S Atmos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/en-ligne-et-gratuit-convertissez-vos-images-dng-en-jpeg-rapidement-grace-a-movavi/"><u>En Ligne Et Gratuit : Convertissez Vos Images DNG en JPEG Rapidement Grâce À Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-adjustments-for-disabled-windows-defense/"><u>Essential Adjustments for Disabled Window's Defense</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-california-drivers-can-link-their-licenses-to-apple-and-google-wallets-step-by-step-guide/"><u>How California Drivers Can Link Their Licenses to Apple and Google Wallets: Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-5-gif-to-video-converters-online-no-need-to-download/"><u>In 2024, Best 5 GIF to Video Converters Online [No Need to Download]</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/onscreen-excellence-flexible-talent-access/"><u>Onscreen Excellence Flexible Talent Access</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-search-service-error-on-pcs/"><u>Overcoming Windows Search Service Error on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-wow-error-132-a-step-by-step-guide/"><u>Overcoming WoW Error #132: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/prime-fps-count-apps-to-enhance-your-win-11-gameplay/"><u>Prime FPS Count Apps to Enhance Your Win 11 Gameplay</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-upgrades-with-windows-11-in-place-protocols/"><u>Streamlining Upgrades with Windows 11 In-Place Protocols</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-top-10-drawing-apps-for-android-unleash-your-inner-artist-for-2024/"><u>[Updated] Top 10 Drawing Apps for Android Unleash Your Inner Artist for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensible-strategies-for-addressing-dll-shortage/"><u>Comprehensible Strategies for Addressing DLL Shortage</u></a></li>
+<li><a href="https://solve-news.techidaily.com/cookiebot-enabled-enhance-your-sites-engagement-with-leading-analytics/"><u>Cookiebot-Enabled: Enhance Your Site's Engagement with Leading Analytics</u></a></li>
+<li><a href="https://win11.techidaily.com/effortlessly-manage-image-display-on-your-pcs-lock-screen/"><u>Effortlessly Manage Image Display on Your PC's Lock Screen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-s18-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo S18 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-common-xbox-game-pass-problems-error-0x00000001-included/"><u>Navigating Through Common Xbox Game Pass Problems, Error 0X00000001 Included</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-transferring-and-setting-up-windows-10-on-your-brand-new-hardware/"><u>Step-by-Step Guide: Transferring and Setting Up Windows 10 on Your Brand New Hardware</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-google-chromes-colors-in-windows/"><u>Unlocking Google Chrome's Colors in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/visual-clarity-and-efficiency-in-notetaking-via-obsidian-framework/"><u>Visual Clarity and Efficiency in Notetaking via Obsidian Framework</u></a></li>
 </ul></div>
 

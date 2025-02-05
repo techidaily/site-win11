@@ -1,7 +1,7 @@
 ---
 title: Mastering Fix for Windows 11 Camera APP - Error F429F
-date: 2025-01-18T17:16:49.342Z
-updated: 2025-01-25T00:37:13.379Z
+date: 2025-01-30T01:04:18.696Z
+updated: 2025-02-04T04:09:58.265Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![The Camera access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/camera-access-option.jpg)
 5. Then toggle on the Windows Camera app access setting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Settings app’s layout is a little different in Windows 10, but you can still configure camera access much the same. Click**Privacy** \>**Camera** in Windows 10’s Settings app to reach the required options. Then click the**Change** button to turn on the**Camera** access for this device option.
 
 ## 2\. Enable and Start the Windows Camera Frame Server Service
@@ -50,24 +54,12 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![The Automatic startup type option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/automatic-option-1.jpg)
 4. Click**Start** (in the properties window) if the Windows Camera Frame Server service isn’t running.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select the**Log on** tab for the service.  
 ![The Local System account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/local-system-account-option.jpg)
 6. Click the**Local System account** checkbox if that option isn’t selected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Press the Windows Camera Frame Server service’s**Apply** button.
 8. Click**OK** to exit.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Edit the Platform Registry Key
 
@@ -85,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/edit-dword-value-window.jpg)
 7. Restart Windows before opening Windows Camera again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Reset the Camera App
 
  One of the best ways to resolve issues with the Camera app is to reset it. So, it’s recommended users try doing that to fix error 0xA00F429F.
@@ -96,6 +84,14 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
  You can clear the data for Windows Camera as covered in our[how to reset apps in Windows 10 and 11](https://www.makeuseof.com/windows-reset-app/) guide. While you’re at it, you can also try selecting Camera’s**Repair** option if resetting the app doesn’t make a difference.
 
 ![The Reset option for the Camera app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/camera-reset-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Allow the Camera App Through Windows Defender Firewall
 
@@ -105,15 +101,19 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![The Allowed apps through firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allowed-firewall-app.jpg)
 
- The same also applies to users who’ve installed third-party firewalls or antivirus software packages that include them. Check the app permission list for any third-party firewall, and select to permit Windows Camera through it.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The same also applies to users who’ve installed third-party firewalls or antivirus software packages that include them. Check the app permission list for any third-party firewall, and select to permit Windows Camera through it.
 
 ## 6\. Disable the Camera Shields in Third-Party Antivirus Software Packages
 
  Also, note that some antivirus software packages have camera shields that prevent apps from accessing webcams. For example, Avast Premium Security is one such antivirus tool that incorporates a Webcam Shield feature. If you have installed third-party antivirus software, check to see if it has such a camera shield and disable it if it’s enabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Update Your Webcam’s Driver
 
@@ -122,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![The Driver Booster window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/driver-booster-software.jpg)
 
  The easiest way to check for outdated device drivers and update them on your PC is to utilize driver updater software. Such apps will scan your PC and tell you if your camera driver needs updating. Our[Driver Booster guide](https://www.makeuseof.com/update-windows-drivers-driver-booster-8/) includes instructions for updating drivers with that software. Or you can utilize any of the free alternatives in our[best free driver updaters post](https://www.makeuseof.com/windows-best-free-driver-updaters/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Reinstall Windows Camera App
 
@@ -137,6 +133,10 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![The remove Camera app PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/remove-camera-command.jpg)
 3. Select**Restart** on the**Power** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Open the[Windows Camera Microsoft Store](https://apps.microsoft.com/store/detail/windows-camera/9WZDNCRFJBBG) page in a web browser.
 5. Click Windows Camera’s**Get** in Store app button.
 6. Select**Open in Microsoft Store** inside the little dialog box that appears.  
@@ -144,7 +144,7 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 7. Click**Get in the MS Store** app to reinstall the Camera app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Record With Your Camera App Again on Windows
@@ -166,24 +166,24 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-zipfile-to-srt-conversion-guide-for-subtitle-extraction/"><u>[New] 2024 Approved Zipfile to Srt Conversion Guide for Subtitle Extraction</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1728483137525-404/"><u>「404エラー」で途切れた情報への道―その原因と対処法</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-moviecraft-analysis-in-depth-exploration/"><u>2024 Approved MovieCraft Analysis – In-Depth Exploration</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-to-installing-updated-graphics-card-drivers-on-a-windows-machine/"><u>Comprehensive Guide to Installing Updated Graphics Card Drivers on a Windows Machine</u></a></li>
-<li><a href="https://win11.techidaily.com/dissecting-dism-commands-for-win11-os-revival/"><u>Dissecting Dism Commands for Win11 OS Revival</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminate-driver-not-working-on-your-windows-1011-pc/"><u>Eliminate Driver Not Working on Your Windows 10/11 PC</u></a></li>
-<li><a href="https://win11.techidaily.com/four-simple-steps-to-tell-if-factory-reset-is-right/"><u>Four Simple Steps to Tell If Factory Reset Is Right</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-pro-max-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Pro Max to other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-wacom-intuos-warty-art-pen-tablet-drivers-on-windows-full-compatibility-ensured/"><u>Installing Wacom Intuos Warty Art Pen Tablet Drivers on Windows - Full Compatibility Ensured!</u></a></li>
-<li><a href="https://win11.techidaily.com/master-plan-comprehensive-removal-of-wsl-from-win-11-pcs/"><u>Master Plan: Comprehensive Removal of WSL From Win 11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-pc-sound-with-windows-11s-advanced-mixer-features/"><u>Master Your PC Sound with Windows 11'S Advanced Mixer Features</u></a></li>
-<li><a href="https://win11.techidaily.com/memory-cache-mastery-in-windows-systems/"><u>Memory Cache Mastery in Windows Systems</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/omegle-reinstated-guide-to-regaining-profile-approval-status-for-2024/"><u>Omegle Reinstated Guide to Regaining Profile Approval Status for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-steps-for-resolving-package-could-not-be-opened-on-win11-10/"><u>Quick Steps for Resolving 'Package Could Not Be Opened' On Win11, 10</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-windows-from-pushing-high-contrast/"><u>Stop Windows From Pushing High Contrast</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-pathway-to-preserving-instagram-content-via-desktop-platforms-for-2024/"><u>The Pathway to Preserving Instagram Content via Desktop Platforms for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-persistent-boot-failures-in-windows-11-computers/"><u>Understanding & Fixing Persistent Boot Failures in Windows 11 Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/vintage-games-journey-from-backups-to-windows-11-pics/"><u>Vintage Games Journey: From Backups to Windows 11 Pics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-streaming-spectacle-how-twitch-stacks-up-against-youtube/"><u>[New] Streaming Spectacle How Twitch Stacks Up Against YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-pathway-to-a-powerful-instagram-influence/"><u>[New] The Pathway to a Powerful Instagram Influence</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-apocalypse-alert-the-ultimate-list-of-thrilling-zombie-games-for-2024/"><u>[Updated] Apocalypse Alert The Ultimate List of Thrilling Zombie Games for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-complete-self-guided-tour-to-host-and-participate-in-google-meet/"><u>[Updated] Complete Self-Guided Tour to Host & Participate in Google Meet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-why-are-my-insta-vids-upside-down/"><u>2024 Approved Why Are My Insta Vids Upside Down?</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-unique-screencaps-for-win11/"><u>Crafting Unique Screencaps for Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-restore-distribution-and-catroot2-in-ws11/"><u>Efficiently Restore Distribution & Catroot2 in WS11</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-error-0xc004f050-from-windows-update/"><u>Eliminating Error 0XC004F050 From Windows Update</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/enhancing-realism-in-ar-worlds-through-lut-techniques-for-2024/"><u>Enhancing Realism in AR Worlds Through LUT Techniques for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/gentle-resting-practices-for-your-pc/"><u>Gentle Resting Practices for Your PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-canon-scanner-up-and-running-on-windows-with-no-cost-driver-downloads/"><u>Get Your Canon Scanner Up and Running on Windows with No Cost Driver Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-startups-on-win11-the-ultimate-guide/"><u>Immediate Startups on Win11: The Ultimate Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y36i-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y36i Phone with Broken Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/is-a-drive-missing-on-windows-heres-how-to-fix-it/"><u>Is a Drive Missing on Windows? Here's How to Fix It</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-enabling-startup-services/"><u>Mastering Windows 11: Enabling Startup Services</u></a></li>
+<li><a href="https://win11.techidaily.com/microsofts-copilot-key-enhancing-productivity-with-windows-11/"><u>Microsoft's Copilot Key: Enhancing Productivity with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-non-synchronization-with-microsofts-to-do-app/"><u>Overcoming Non-Synchronization with Microsoft's To-Do App</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ess-video-to-text-best-ones-online-at-your-fingertips-for-2024/"><u>Seamless Video-to-Text Best Ones Online at Your Fingertips for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-list-of-free-video-editing-software-for-newcomers-for-2024/"><u>The Ultimate List of Free Video Editing Software for Newcomers for 2024</u></a></li>
 </ul></div>
 

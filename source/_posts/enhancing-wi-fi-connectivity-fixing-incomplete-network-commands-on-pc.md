@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Wi-Fi Connectivity: Fixing Incomplete Network Commands on PC"
-date: 2024-08-08T13:17:32.014Z
-updated: 2024-08-09T13:17:32.014Z
+date: 2025-02-01T23:48:54.803Z
+updated: 2025-02-04T06:22:13.039Z
 tags:
   - windows10
   - windows11
@@ -36,14 +36,6 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 4. Inside the Registry Editor, navigate to the location below:  
 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet
 5. Move to the right pane and right-click on the **EnableActiveProbing** value.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![EnableActiveProbing key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-active-probing-key.jpg)
 
 1. Type 0 in the text field for Value data and click **OK**.
@@ -57,11 +49,13 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 7. Double-click on **DisablePassivePolling** and change its value data to 1 as well.  
 ![DisablePassivePolling key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-passive-polling.jpg)
 8. Click **OK** to save the changes and exit the Registry Editor.
-9. Finally, restart your computer and upon reboot, check if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+9. Finally, restart your computer and upon reboot, check if the problem is resolved.
+
 ## 2\. Disable the NCSI Probe From GPE
 
  If using the Windows Registry did not work, you can also make the same changes using the Group Policy Editor.
@@ -74,9 +68,6 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 4. In the Group Policy Editor, navigate to the location below:  
 ​​​​​​​​​​​​​​Computer Configuration\Administrative Templates\System
 5. Select **Internet Communication Management** \> **Internet Communication Settings** and click on **Turn off Windows Network Connectivity Status Indicator active tests**.  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Network connectivity test policy in GPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/network-connectivity-test-policy.jpg)
 6. Checkmark the box with **Enabled** and click **Apply** \> **OK** to save the changes.
 7. Next, head over to the following location:  
@@ -88,6 +79,10 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 
  Hopefully, upon reboot, the issue will no longer appear.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Run the Internet Connection Troubleshooter
 
  If the scenarios we have discussed above do not apply to you, you might also be facing the problem because of a temporary glitch in the system. In this case, you can run the internet connection troubleshooter. This is a built-in utility that scans your system for underlying related issues. If a problem is identified, it will either fix it for you or suggest a solution that you can apply automatically.
@@ -98,16 +93,10 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 2. Click on **System** and choose **Troubleshoot**.
 3. Choose **Other troubleshooters**.
 4. You should now be able to see a list of troubleshooters offered by Windows. Locate the Internet connection troubleshooter and click on the **Run** button for it.  
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Internet Connection Troubleshooter in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/internet-connection-troubleshooter.jpg)
 5. Wait for the troubleshooter to complete its scan and once done, check if a problem is identified. If it is, click on the **Apply this fix** option. You can also apply a solution manually.
 6. In case the troubleshooter fails to identify the culprit, click on **Close the troubleshooter** option and move to the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable Fast Startup
 
  You might also be facing the issue if the fast startup feature is interfering with network-related processes in Windows. If this feature is enabled on your computer, disabling it might help fix the underlying error as this will allow the system to completely shut down, which can help in refreshing network settings and resolving any network-related issues.
@@ -120,22 +109,29 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 4. Click on **Power Options** from the list and select **Choose what the power buttons do**.  
 ![Choose what the power button does option of Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-what-the-power-button-does.jpg)
 5. Choose **Change settings that are currently unavailable** and navigate to the Shutdown settings option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Uncheck the box associated with **Turn on fast startup (recommended)**.  
 ![Disable Fast Startup on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-fast-startup-on-windows.jpg)
 7. Click on the **Save changes** button and exit Control Panel. Check if the issue is now resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Try These Additional Generic Fixes
 
  If the specific fixes we have listed above have not worked for you, there are some additional fixes related to the network errors in Windows that you can try.
 
  These include updating the network drivers, re-enabling your wireless network adapter, installing the latest system updates, and resetting the network configurations on your computer. Our guide on[how to fix common Windows network errors](https://www.makeuseof.com/not-connected-any-networks-error-windows/) discusses all of these in detail, so you can head over there for step-by-step instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Network Connections in Windows Made Easy
 
  Network-related issues in Windows can be annoying, especially if they are preventing you from establishing a stable connection. Hopefully, the steps listed above will help you fix the "Action needed" problem for good.
@@ -144,11 +140,25 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 
  Below, we discuss the common causes of this problem alongside the troubleshooting methods you can try to fix this issue once and for all.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-a-gamers-guide-to-lgs-360-degree-vr-experience/"><u>[Updated] 2024 Approved A Gamer's Guide to LG's 360-Degree VR Experience</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/discover-the-leading-free-online-photo-editing-platforms-for-2024/"><u>Discover the Leading Free Online Photo Editing Platforms for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enriched-notepad-on-win11-with-tech-sage/"><u>Enriched Notepad on Win11 with Tech Sage</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-htc-u23-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On HTC U23 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-tecno-camon-20-premier-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Tecno Camon 20 Premier 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-11-pro-max-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 11 Pro Max In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-to-network-settings-unveiling-group-policies/"><u>Navigate to Network Settings: Unveiling Group Policies</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-playthrough-valorant-performance-enhancement/"><u>Streamline Your Playthrough: Valorant Performance Enhancement</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/superior-solutions-3d-models-in-animation-space/"><u>Superior Solutions 3D Models in Animation Space</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-future-key-upgrades-from-microsofts-feb-win11-patch/"><u>Unveiling the Future: Key Upgrades From Microsoft's Feb Win11 Patch</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/visual-magic-how-to-create-stunning-video-effects-from-scratch-for-2024/"><u>Visual Magic How to Create Stunning Video Effects From Scratch for 2024</u></a></li>
+</ul></div>
+

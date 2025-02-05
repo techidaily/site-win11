@@ -1,7 +1,7 @@
 ---
 title: Commence Speedy Support Service for Windows 11
-date: 2024-08-08T13:17:56.021Z
-updated: 2024-08-09T13:17:56.021Z
+date: 2025-01-28T20:46:11.071Z
+updated: 2025-02-03T22:57:00.635Z
 tags:
   - windows10
   - windows11
@@ -21,11 +21,16 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
  This guide will show you four different ways of opening the Quick Assist tool on Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Use the Shortcut Keys
 
  The quickest way to open Quick Assist is by using the shortcut keys**Win + Ctrl + Q** . This will launch the Quick Access tool directly on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use the Windows Search Tool
 
@@ -35,16 +40,18 @@ To open Quick Assist through the search tool, follow these steps:
 
 1. Click on the magnifying glass icon on the taskbar.
 2. In the search box, type "quick assist" and hit**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Quick Assist Using Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-quick-assist-using-search-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will open the Quick Assist tool where you can view and control another computer from your own.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use the Start Menu
 
  Next, you can use the Start menu to access Quick Assist on your computer. Here's how to do this:
@@ -54,37 +61,29 @@ To open Quick Assist through the search tool, follow these steps:
 3. Scroll down to**Quick Access** , and then click on it.  
 ![Open Quick Assist Using Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-quick-assist-using-start-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Pin Quick Assist to the Taskbar
 
  If you use this tool frequently,[pinning it to your Windows taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/) will help you get to it quickly. Here are the steps you need to take:
 
 1. Click on Start and type**Quick Assist** .
 2. On the right side menu, click**Pin to taskbar** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Pin Quick Assist to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pin-quick-assist-to-taskbar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This way, you can quickly access the tool from your taskbar.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## You Can Now Get Assistance Quickly
 
  It is quite easy to open the Quick Assist tool on a Windows computer. We have listed four ways to open this tool in this article; check them out and let us know which works best for you.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -93,4 +92,16 @@ This way, you can quickly access the tool from your taskbar.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-iphones-nightlight-settings/"><u>[Updated] Understanding iPhone's Nightlight Settings</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/el-growth-essential-steps-for-youtube-backlink-creation-for-2024/"><u>Channel Growth Essential Steps for YouTube Backlink Creation for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/combating-valorant-communication-breakdowns-on-windows-78/"><u>Combating Valorant Communication Breakdowns on Windows 7/8</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-obstacles-restoring-system-calls-on-win1111/"><u>Eliminating Obstacles: Restoring System Calls on Win11/11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oppo-a38-to-mac-drfone-by-drfone-android/"><u>How to Mirror Oppo A38 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-current-vr-devices-explored/"><u>In 2024, Current VR Devices Explored</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-screen-commanders-face-off/"><u>In 2024, Screen Commanders Face-Off</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-technique-for-designing-custom-lock-patterns-in-windows-11/"><u>The Ultimate Technique for Designing Custom Lock Patterns in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/top-tips-to-resolve-no-servers-found-navigating-apex-legends-windows-(156-chars/"><u>Top Tips to Resolve 'No Servers Found': Navigating Apex Legends Windows (<156 Chars)</u></a></li>
+</ul></div>
 

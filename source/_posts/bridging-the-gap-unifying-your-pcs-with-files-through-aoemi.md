@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Gap: Unifying Your PCs With Files Through AOEMi"
-date: 2024-07-29T15:56:36.494Z
-updated: 2024-07-30T15:56:36.494Z
+date: 2025-02-01T22:16:22.069Z
+updated: 2025-02-04T07:30:52.646Z
 tags:
   - windows10
   - windows11
@@ -20,14 +20,19 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 
  If you couldn't be bothered with all the hassle of routinely copying your files over a network or back and forth from a USB drive, there is, fortunately, software tailored to this exact need. Let us show you how incredibly simple it is to get AOMEI up and running and have your files and folders synced up in no time.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Downloading and Installing AOMEI Backupper
 
  To get started, visit the[AOMEI Backupper website](https://www.aomeitech.com/download.html) , download the file and follow the prompts for installation. At this point, you can go ahead and select the 30-day free trial for the professional version as there's no need to input any credit card information. Once installed, you will land on the AOMEI home screen UI.
 
 ![AOMEI Home Screen UI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Home-Screen-UI.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set Up AOMEI Basic Sync
 
@@ -40,16 +45,22 @@ To perform a basic sync:
 3. Specify a source folder by clicking the**Add Folder** button.  
 ![AOMEI Add Source Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Add-Source-Folder.jpg)
 4. Click the dropdown to specify either a local path, folder share or NAS device, or cloud drive as the destination.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. ![AOMEI Specify Destination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Specify-Destination.jpg)  
  For a separate Windows machine, click**Add Share or NAS devices** and input the IP address and folder path of the destination computer and click the blue button on the right. Input a username and password if you are prompted.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![AOMEI Folder Share](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Folder-Share.jpg)
 6. You can also click**Options** to configure various settings for your backup such as email notifications, comments, pre- and post-backup scripts to be run as well as options to sync deletions between the source and destination directories.
 7. You can click on**Schedule Sync** to set the backup as a scheduled task to be run whenever you desire.  
 ![AOMEI Schedule Sync](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Schedule-Sync.jpg)
 8. Finally, click**Start Sync** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set Up AOMEI Two-Way Sync
 
@@ -62,14 +73,8 @@ To perform a two-way sync:
 1. Navigate to the**Sync** tab from the left-hand side menu.
 2. Select**Two-Way Sync** .
 3. Specify a source folder by clicking the**Add Folder** button.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AOMEI Add Source Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Add-Source-Folder.jpg)
 4. Click the dropdown to specify either a local path, folder share or NAS device, or cloud drive as the destination.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AOMEI Specify Destination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Specify-Destination.jpg)
 5. Once again, for a separate Windows machine, click**Add Share or NAS devices** and input the IP address and folder path of the destination computer and click the blue button on the right. Input a username and password if you are prompted.
 6. You have the same options as before to create a scheduled sync or set up email notifications, comments, or scripts.
@@ -83,18 +88,19 @@ To perform a two-way sync:
 
 Then let's manually run the sync operation.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Two Way Sync Manual Operation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Two-Way-Sync-Manual-Operation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Within a few seconds, our file appears in the destination folder.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![AOMEI Sync Test Result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Sync-Test-Result.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set Up AOMEI Real-Time Sync
 
@@ -105,9 +111,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. Navigate to the**Sync** tab from the left-hand side menu.
 2. Select**Real-Time Sync** .
 3. Specify a source folder by clicking the**Add Folder** button.  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AOMEI Add Source Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Add-Source-Folder.jpg)
 4. Click the dropdown to specify either a local path, folder share or NAS device, or cloud drive as the destination.  
 ![AOMEI Specify Destination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Specify-Destination.jpg)
@@ -117,30 +120,15 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Now, whenever changes are detected in the source directory they will carry over to the destination folder almost instantly. Note the time stamps of the New Bitmap Images in our test below. It's probably also worth mentioning at this point, that if you are constantly dealing with very large files, due to the nature of real-time sync, it may not be the optimal solution. You would probably be better off sticking with a basic sync or two-way sync instead.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AOMEI Has Your Sync Solutions Sorted
 
  AOMEI is quite the comprehensive package for your data sync needs. In just a few simple steps we were able to set up a "set and forget" data sync between either your local backup, NAS, or other dedicated Windows PC. What's more, AOMEI offers up more than just data sync out of the box. It also has options for backup, cloning, restoring, and recovery, making it a great tool to have on-hand on Windows.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,4 +137,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-expert-tips-efficiently-download-igtv-on-windows-and-macos-for-2024/"><u>[New] Expert Tips Efficiently Download IGTV on Windows & MacOS for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-massive-subscriber-jump-for-a-sensible-5-investment/"><u>[New] Massive Subscriber Jump for a Sensible $5 Investment</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-secrets-of-fbx-game-recorder-unveiled-for-2024/"><u>[Updated] Secrets of FBX Game Recorder Unveiled for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/changer-fichier-pef-en-jpeg-gratuitement-sur-internet-avec-movavi/"><u>Changer Fichier PEF en JPEG Gratuitement Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/expanding-audio-horizons-soundcloud-goplus-arrives-in-five-additional-markets-perfect-choice-for-djs/"><u>Expanding Audio Horizons: SoundCloud Go+ Arrives in Five Additional Markets - Perfect Choice for DJs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revamp-crashy-connections-in-granblue-fantasy-for-windows-expert-link-fix-techniques/"><u>Revamp Crashy Connections in Granblue Fantasy for Windows – Expert Link Fix Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-freebie-hdd-diagnostic-utilities-july-2024-edition/"><u>The Ultimate List of Freebie HDD Diagnostic Utilities - July 2024 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/top-sites-to-stream-and-grab-russian-cinema-in-english-dubbed-no-cost/"><u>Top Sites to Stream & Grab Russian Cinema in English Dubbed - No Cost!</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-videos-fast-mp4-to-wmv-made-easy/"><u>Transform Your Videos Fast: MP4 to WMV Made Easy!</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-windows-movie-maker-videos-into-mp4-format/"><u>Transform Your Windows Movie Maker Videos Into MP4 Format</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-tutorial-capturing-gaming-sounds-with-obs-comprehensive-step-by-step/"><u>Ultimate Tutorial: Capturing Gaming Sounds with OBS - Comprehensive Step-by-Step</u></a></li>
+<li><a href="https://win11.techidaily.com/unlimited-mp4-to-avi-conversion-guide-to-free-download-methods-both-online-and-offline-solutions/"><u>Unlimited MP4 to AVI Conversion - Guide to FREE Download Methods: Both Online and Offline Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-10dvdmp3/"><u>Windows 10で簡単なDVDからMP3への変換ガイド</u></a></li>
+</ul></div>
 

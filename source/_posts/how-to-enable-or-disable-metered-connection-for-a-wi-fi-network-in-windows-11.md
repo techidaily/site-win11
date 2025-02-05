@@ -1,7 +1,7 @@
 ---
 title: How to Enable or Disable Metered Connection for a Wi-Fi Network in Windows 11
-date: 2025-01-21T17:07:48.068Z
-updated: 2025-01-24T16:38:04.142Z
+date: 2025-01-29T20:36:09.902Z
+updated: 2025-02-04T05:48:07.507Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Enable or Disable Metered Connections for a Wi-Fi Network Using the Settings App
 
  The**Network & internet** section in the Settings app serves as a central location for all the network-related settings on Windows. You can visit that section to quickly enable or disable a metered connection for your computer's Wi-Fi network. Here are the steps for the same.
@@ -42,13 +38,13 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 ![Enable or Disable Metered Connection in Windows 11 Using Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-or-disable-metered-connection-in-windows-11-using-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that you'll have to repeat the above steps for each Wi-Fi network separately. Following that, Windows will remember your network preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable or Disable Wi-Fi Metered Connections via the Command Prompt
@@ -64,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 5. Note down the Wi-Fi network name for which you want to enable or disable the metered connection option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Next, run the following command to determine whether your connection is metered or unmetered.  
@@ -75,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 `netsh wlan set profileparameter name="Wi-Fi Name" cost=Fixed`  
 ![Disable Metered Connection in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-metered-connection-in-windows-11-using-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to disable the metered connection for a network, run the following command instead.
 
 `netsh wlan set profileparameter name="Wi-Fi Name" cost=Unrestricted`
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
  Aside from the above, you can view important details about your Wi-Fi network using the Command Prompt. If you're interested in doing that, check our guide on[the best commands to manage wireless networks on Windows](https://www.makeuseof.com/tag/commands-manage-wireless-networks-windows/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Efficiently Manage Your Data With Metered Connection
@@ -108,20 +108,20 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-navigating-audio-capture-in-minecraft-a-mac-experts-handbook-for-2024/"><u>[New] Navigating Audio Capture in Minecraft A Mac Expert's Handbook for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/3-facile-soluzioni-per-disabilitare-la-porta-tcp-445-su-windows-10-7-e-xp/"><u>3 Facile Soluzioni per Disabilitare La Porta TCP 445 Su Windows: 10, 7 E XP</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/five-effective-strategies-for-enhancing-technological-sustainability-insights-from-zdnet/"><u>Five Effective Strategies for Enhancing Technological Sustainability | Insights From ZDNet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-s17-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo S17 Pro Phone Screen?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-itel-a60-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Itel A60 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-unmute-yourself-on-google-meet-windows-edition/"><u>How to Unmute Yourself on Google Meet, Windows Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-failed-volume-backup-in-microsoft-os/"><u>Mending Failed Volume Backup in Microsoft OS</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-collaboration-and-efficiency-master-these-5-innovative-window-tips/"><u>Optimize Collaboration and Efficiency: Master These 5 Innovative Window Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-device-freeze-fixing-error-0x887a0006/"><u>Overcoming Device Freeze: Fixing Error 0X887A0006</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-windows-11s-video-conferencing-snag-code-1132/"><u>Rectifying Windows 11'S Video Conferencing Snag: Code 1132</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-correcting-code-0x0000004e-on-pcs/"><u>Solutions for Correcting Code 0X0000004E on PCs</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-big-four-of-social-networking-facebook-twitter-instagram-and-youtube-explained/"><u>The Big Four of Social Networking - Facebook, Twitter, Instagram, and YouTube Explained!</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-infinix-zero-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-high-fidelity-audio-dolby-atmos-integration-steps/"><u>Unlocking High-Fidelity Audio: Dolby Atmos Integration Steps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagrams-power-in-motion-crafting-a-comprehensive-video-plan/"><u>[New] In 2024, Instagram's Power in Motion Crafting a Comprehensive Video Plan</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-safe-purchase-high-quality-tiktok-followers/"><u>[New] In 2024, Safe Purchase High-Quality TikTok Followers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013291963-bypassing-the-stubborn-loading-screen-in-far-cry-5-solutions-inside/"><u>Bypassing the Stubborn Loading Screen in Far Cry 5 – Solutions Inside!</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-msvcr110dll-deficit-in-windows/"><u>Eliminating the msvcr110.dll Deficit in Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ensuring-continuous-gameplay-with-quality-ups-units-an-in-depth-look-at-apcs-gaming-models/"><u>Ensuring Continuous Gameplay with Quality UPS Units: An In-Depth Look at APC's Gaming Models</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-fixing-bluetooth-connection-problems-in-win-11/"><u>Essential Guide: Fixing Bluetooth Connection Problems in Win 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-skincare-revolution-the-best-apps-for-your-phone/"><u>In 2024, Skincare Revolution The Best Apps for Your Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/mastering-close-up-techniques-with-videoleap/"><u>Mastering Close-Up Techniques with Videoleap</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pixel-perfect-video-modifier/"><u>Pixel-Perfect Video Modifier</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-lost-data-curing-transfer-failures-on-windows-usbs/"><u>Preventing Lost Data: Curing Transfer Failures on Windows USBs</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-your-workspace-individual-monitors-in-windows-11/"><u>Tailoring Your Workspace: Individual Monitors in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/transitioning-oculus-quest-to-windows-pc-vr-setup/"><u>Transitioning Oculus Quest to Windows PC VR Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-potential-of-your-pc-learning-system-restore-in-windows/"><u>Unlock the Potential of Your PC: Learning System Restore in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unseen-windows-rediscovered-secrets-to-restoring-hidden-panes-6-ways/"><u>Unseen Windows Rediscovered: Secrets to Restoring Hidden Panes (6 Ways)</u></a></li>
 </ul></div>
 

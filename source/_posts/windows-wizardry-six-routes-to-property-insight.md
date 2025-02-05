@@ -1,7 +1,7 @@
 ---
 title: "Windows Wizardry: Six Routes to Property Insight"
-date: 2024-08-08T13:18:36.849Z
-updated: 2024-08-09T13:18:36.849Z
+date: 2025-02-03T06:33:13.035Z
+updated: 2025-02-04T04:28:36.479Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 
  Apart from checking out the file type, location, size, and creation data, you can apply access restrictions and even encrypt the folder contents. Moreover, you can enable or disable file sharing, add security measures and customize icons. So, without further ado, let us dive deep into the multiple methods to open file or folder properties in Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Open File or Folder Properties in Windows
 
  Here are some easy ways to view the file or folder properties on a Windows PC. These methods will work for Windows 11 and older versions of Windows OS too.
@@ -35,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 2. Click on a file or folder to select it.
 3. Then press**Alt + Enter** keys at once to open the file properties window.  
 ![View File Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Using the Mouse and Keyboard Shortcut
 
@@ -56,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
  Keep in mind that the right-click context menu will look a bit different from the older versions of Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Using the File Explorer
 
  You can also view the file properties using the File Explorer app and not press a keyboard key even once. The option to view properties is hidden in the menu bar. Here’s how to open file properties using File Explorer:
@@ -70,8 +72,9 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 5. The Properties window will launch on your system. Press**Alt + F4** to close it after you no longer need it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Using the CMD Tool
 
  The above-mentioned shortcuts launch the Properties window which shows the GUI version of File Properties. But, you can also view the properties of a folder or file using the command prompt on Windows. Repeat the following steps to view file properties using the command prompt utility:
@@ -80,11 +83,12 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 2. UAC will pop up. Click on the**Yes** button to open the command prompt with administrator permissions.
 3. Now, enter the following command and press the enter key: **wmic datafile where "name='File Path'" list full**
 4. Replace the “**File Path** ” with the actual location of your file. We have a text file saved on the desktop. So, the command to display its properties will be: **wmic datafile where "name='C:\\\\Users\\\\Test\\\\Desktop\\\\rr.txt'" list full**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![View File Properties using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-cmd.jpg)
 5. Scroll down to check the file properties such as size, creation date, and more attributes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Using PowerShell
 
@@ -93,15 +97,13 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 1. Press**Win + S** and type PowerShell. Click on the first search result to launch PowerShell on your system.
 2. Now, type the following command:**Get-Item -Path File Path | fl \***
 3. Replace “**File Path** ” with the actual storage location like you did in the fifth method.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![View File Properties using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-powershell.jpg)
 4. Press the**Enter** key to execute the command.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Quickly View File or Folder Properties on Windows
 
  These were the multiple methods to view file or folder properties in Windows. The first four options launch the GUI version of file properties, which is easier to navigate for users. However, you can also view file properties in CMD or PowerShell.
@@ -112,8 +114,6 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +121,18 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-how-to-securely-download-youtubes-srt-subtitles/"><u>[New] 2024 Approved How to Securely Download YouTube's SRT Subtitles</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-smooth-streams-combining-a-multitude-of-images-and-videos-for-instagram-for-2024/"><u>[New] Smooth Streams Combining a Multitude of Images & Videos for Instagram for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unlocking-facebooks-full-potential-4-sharing-techniques/"><u>[Updated] In 2024, Unlocking Facebook's Full Potential 4 Sharing Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-driver-update-and-download-tips-for-your-samsung-laptop-running-on-windows/"><u>Effortless Driver Update and Download Tips for Your Samsung Laptop Running on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-disabled-obstacles-for-executing-powershell-scripts/"><u>Eliminating 'Disabled' Obstacles for Executing PowerShell Scripts</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-system-recovery-conquering-blue-screen-errors/"><u>Mastering System Recovery: Conquering Blue Screen Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-brightness-overcoming-dark-screen-problems/"><u>Restoring Brightness: Overcoming Dark Screen Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-15-ways-to-reach-windows-settings/"><u>Simplify: 15 Ways to Reach Windows Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-windows-experience-resetting-apps/"><u>Streamlining Your Windows Experience: Resetting Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-metaverse-mirth-making-manual-top-funny-imagery-and-techniques-for-2024/"><u>The Metaverse Mirth-Making Manual Top Funny Imagery & Techniques for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/win-top-rated-rapid-image-zoomer/"><u>Win Top-Rated Rapid Image Zoomer</u></a></li>
+</ul></div>
 

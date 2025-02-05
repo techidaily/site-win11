@@ -1,7 +1,7 @@
 ---
 title: "How to Overcome Error Code 0XC0000005: A Tech's Approach"
-date: 2024-08-08T13:18:45.939Z
-updated: 2024-08-09T13:18:45.939Z
+date: 2025-02-01T02:38:00.124Z
+updated: 2025-02-04T02:13:35.186Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/0313aeb6801c4ad054aee4b20ba488ff337dac52c
  We have rounded up a variety of methods you can try your luck with. Let's look at how you can fix the error Code 0xc0000005 on Windows for good.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Deactivate Data Execution Prevention (DEP)
 
 [Data Execution Prevention](https://www.makeuseof.com/data-execution-prevention-explained/) is a security feature on Windows that prevents damage to your PC from malware and other malicious attacks on your PC. It does this by blocking out specific memory regions so that code cannot be executed from those locations, which in the absence of DEP, would be used for buffer attacks.
@@ -37,18 +38,16 @@ bcdedit.exe /set {current} nx AlwaysOff
 
  Note that if you have UEFI secure boot enabled, then you might encounter an error like this:
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cmd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In this case, you will first have to[disable the Windows secure boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) , and then repeat the above steps again.
 
  That's it—the DEP will be disabled from here on. Now, give your PC a quick reboot and see if the error 0xc0000005 persists.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## 2\. Check Your App's and PC Version and Compatibility
 
  One of the more common reasons for getting hit with the 0xc0000005 error is when your computer cannot process the files or settings necessary to your PC. While the causes of this can vary, a common one is that you've been using an outdated version of the app.
@@ -68,16 +67,18 @@ Similarly, to check the app's version, follow the steps below:
 * To check the app's version, click on any specific app.
 * If it's a Microsoft app, click on the Settings option (three dots) next to it and select**Advanced options** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/installed-apps.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now check if the app and your operating system are compatible with each other.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Apply Some Generic Fixes for Fixing Errors on Windows
 
  While the methods we have discussed have targeted the error code 0xc0000005 in particular, there are some quick fixes that come recommended for pretty much all Windows errors. Note that it's not the case that these solutions are bound to fix any particular error you are facing at a point in time, but if you have tried all the different methods from above, then the below methods are definitely worth a go.
@@ -92,22 +93,20 @@ Let's go over all of them one by one.
 6. [Perform a Factory Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) : A Factory reset is, as I sometimes like to call it, the "all pulverizer" all Windows problems. It removes your operating system and reinstalls it so you can start again with a clean slate. It's a drastic measure, but sometimes it's the only way to get a Windows error fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the Error Code 0xc0000005 on a Windows PC
 
  Like most abrupt Windows errors, the 0xc0000005 error code can cause a sharp break in your workflow. Hopefully, using one of the methods from above, you managed to get rid of the Windows error for good.
 
  However, it's a fact that Windows gets plagued by many such simple errors from time to time, that more often than not, can be fixed with little to no effort. So, make sure you keep tabs on all such errors, along with their solutions.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,4 +115,22 @@ Let's go over all of them one by one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-quick-fix-resetting-live-broadcasts-on-twitch-for-2024/"><u>[New] Quick Fix Resetting Live Broadcasts on Twitch for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-enhance-content-categorization-top-picks-for-the-7-cheapest-youtube-taggification-apps/"><u>[Updated] In 2024, Enhance Content Categorization Top Picks for the 7 Cheapest Youtube Taggification Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-path-to-professional-presence-youtube-tips-and-tricks-for-2024/"><u>[Updated] The Path to Professional Presence YouTube Tips & Tricks for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/2024outlook-pst/"><u>专业人士必用：2024年最佳Outlook PST备份解决方案</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-a59-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo A59 5G</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/comprendere-lestensione-dei-file-ts-tutorial-su-come-master-e-riprodurli/"><u>Comprendere L'Estensione Dei File .TS - Tutorial Su Come Master E Riprodurli</u></a></li>
+<li><a href="https://win11.techidaily.com/escaping-the-shadows-reclaiming-light-from-darkness/"><u>Escaping the Shadows: Reclaiming Light From Darkness</u></a></li>
+<li><a href="https://os-tips.techidaily.com/experience-professional-gaming-on-mobile-with-razer-kishi-ultra-the-premium-console-style-controller/"><u>Experience Professional Gaming on Mobile with Razer Kishi Ultra: The Premium Console-Style Controller</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-server-stumbled-microsoft-store-error-in-windows-10-and-11/"><u>How to Fix the “Server Stumbled” Microsoft Store Error in Windows 10 & 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/iconic-stock-pictures-from-ordinary-to-internet-fame/"><u>Iconic Stock Pictures From Ordinary to Internet Fame</u></a></li>
+<li><a href="https://win11.techidaily.com/insight-guide-reviewing-and-removing-windows-history/"><u>Insight Guide: Reviewing & Removing Windows History</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-loadlibrary-error-87-in-windows/"><u>Resolving LoadLibrary Error 87 in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionizing-the-taskbar-in-windows-11-top-6-suggested-enhancements/"><u>Revolutionizing the Taskbar in Windows 11: Top 6 Suggested Enhancements</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-ultimate-guide-to-navigating-tiktok-with-top-7-emojis-for-2024/"><u>The Ultimate Guide to Navigating TikTok with Top 7 Emojis for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/turbocharge-your-watching-youtube-performance-in-chrome/"><u>Turbocharge Your Watching: YouTube Performance in Chrome</u></a></li>
+</ul></div>
 

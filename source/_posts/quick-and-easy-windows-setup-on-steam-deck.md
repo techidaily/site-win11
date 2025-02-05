@@ -1,7 +1,7 @@
 ---
 title: Quick & Easy Windows Setup on Steam Deck
-date: 2025-01-24T09:14:30.236Z
-updated: 2025-01-25T03:21:57.461Z
+date: 2025-01-31T08:19:08.025Z
+updated: 2025-02-03T20:05:06.394Z
 tags:
   - windows10
   - windows11
@@ -58,6 +58,10 @@ Jhet Borja/MUO
 
  We also highly suggest using a separate PC as we've done in this guide, but you can also use your Steam Deck and follow similar steps using the Linux version of Ventoy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Ventoy
 
  The first piece of software is Ventoy, a program that allows you to boot multiple ISOs from one external storage device without needing to format it to add a different ISO. This will avoid the back-and-forth formatting of the storage device used, making it easier to go back in case you make a mistake along the way.
@@ -66,15 +70,15 @@ Jhet Borja/MUO
 
  Head to [Ventoy’s GitHub page](https://github.com/ventoy/Ventoy/) and on the right side, click on **Releases**. Scroll down to **Assets** and click on the ZIP folder that says Windows on it. Extract the contents into a folder on your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### GNOME Partition Editor (GParted) ISO
 
 ![downloading GParted amd64 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-gparted-amd64-version.jpg)
 
  GParted is an ISO used to create partitions on your internal SSD on your Steam Deck. The new partition will be where you’ll place the Windows installation. To download it, head to [GParted.org](https://gparted.org/download.php) and click on the **amd64.iso** download file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Windows 11 ISO
 
@@ -96,22 +100,22 @@ Jhet Borja/MUO
 
  If you’ve got your flash drive or SD card ready with all the software downloaded, you can now start turning your Steam Deck into a Windows experience. In our case, we’ll be using an SD card so that we don’t need to deal with a USB hub or a dock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Install Ventoy on Your Flash Drive or SD Card
 
  To be able to run both the GParted and the Windows 11 ISOs from one SD card without needing to format it multiple times, you’ll need to use Ventoy. This will make things way more convenient.
 
 ![Run Ventoy2Disk from extracted folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/run-ventoy2disk-from-extracted-folder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To install Ventoy on your flash drive or SD card, you’ll want to plug it into your PC and open the Ventoy folder you extracted earlier. Then click on **Ventoy2Disk.exe**.
 
 ![Selected SD card to install Ventoy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selected-sd-card-to-install-ventoy.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You’ll then select the storage device you want to store Ventoy on. In our case, it’s the 32GB SD card. Click **Install**.
@@ -121,7 +125,7 @@ Jhet Borja/MUO
  Now that Ventoy is installed, copy over GParted, the Windows 11 ISO, and a folder containing the Windows drivers for the Steam Deck. You can now insert the SD card into the Steam Deck.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Enter the Steam Deck Boot Manager
@@ -142,10 +146,6 @@ Jhet Borja/MUO
 
  Once you’re in the boot manager, select the SD card or flash drive. This should show Ventoy and both the Windows and GParted ISOs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Use GParted to Partition Your Internal SSD
 
  You'll now need to partition your Steam Deck's SSD. If you don't, you most likely won't be able to install Windows 11 on the /home partition, and you'll also end up wiping SteamOS from your drive.
@@ -160,6 +160,10 @@ Jhet Borja/MUO
 
 ![Enter GParted Live first option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/enter-gparted-live-first-option.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jhet Borja/MUO
 
  Once GParted is open, you’ll be greeted with a few things before you can get to partitioning. Firstly, you’ll need to select the settings. Pick the first one—**GParted Live (Default Settings)**.
@@ -167,7 +171,7 @@ Jhet Borja/MUO
 ![GParted Don't touch keymap option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gparted-don-t-touch-keymap-option.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, select **Don’t touch keymap** and then select your language. If you’re just going to use English, we suggest just pressing A on the Steam Deck until you reach the main screen.
@@ -181,7 +185,7 @@ Jhet Borja/MUO
 ![Resizing home partition on Steam Deck SSD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/resizing-home-partition-on-steam-deck-ssd.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jhet Borja/MUO
@@ -228,10 +232,6 @@ Jhet Borja/MUO
 
 ![Windows Drivers from Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-drivers-from-steam.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To do this, open up your File Explorer and click on the Ventoy drive. Open the folder we told you to place the Steam Deck drivers inside and start with any one of them.
 
  If you’re prompted to restart, don’t do it yet. You can restart once you’ve installed all the drivers to make it easier.
@@ -255,10 +255,6 @@ Jhet Borja/MUO
 ### The Windows 0x80300001 Error
 
 ![Selecting partition created in GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-partition-created-in-gparted.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jhet Borja/MUO
 
@@ -285,7 +281,7 @@ Jhet Borja/MUO
 ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jhet Borja/MUO
@@ -303,6 +299,10 @@ Jhet Borja/MakeUseOf
  Now that you’re in SteamOS, you can put it back onto the boot manager by entering desktop mode.
 
 ![Konsole command to make SteamOS appear in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/konsole-command-to-make-steamos-appear-in-boot-manager-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On desktop mode, click on the Steam Deck icon on the bottom left and open Konsole. You can search for it by bringing up the keyboard by clicking on the text box and pressing on the Steam button + X.
 
@@ -338,16 +338,24 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-iphone-2024-audio-message-keeper/"><u>[Updated] IPhone 2024 Audio Message Keeper</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-review-of-the-immersive-4k-experience-lg-digital-cinema-31mu97-b/"><u>[Updated] Review of the Immersive 4K Experience - LG Digital Cinema 31MU97-B</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/collective-charisma-cultivating-a-thriving-online-band/"><u>Collective Charisma: Cultivating a Thriving Online Band</u></a></li>
-<li><a href="https://win11.techidaily.com/dissecting-task-managers-curious-display/"><u>Dissecting Task Manager's Curious Display</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-narrative-nexus-cutting-edge-storytelling-channels-of-the-year/"><u>In 2024, Narrative Nexus Cutting-Edge Storytelling Channels of the Year</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/restrictions-alert-amd-inhibits-enhanced-performance-for-radeon-rx-6400/"><u>Restrictions Alert: AMD Inhibits Enhanced Performance for Radeon RX ˈ6400</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-fixes-for-the-persistent-problem-of-windows-10-restarts/"><u>Simple Fixes for the Persistent Problem of Windows 10 Restarts</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-launching-fullscreen-gaming-on-pcs/"><u>Tips for Launching Fullscreen Gaming on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-no-options-on-nvidia-settings-window/"><u>Troubleshooting No Options on Nvidia Settings Window</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-secrets-windows-11-on-mac-with-parallels/"><u>Unveiling the Secrets: Windows 11 on Mac with Parallels</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-priority-picks-high-rated-graphics-cards-for-seamless-playback/"><u>[Updated] Priority Picks High-Rated Graphics Cards for Seamless Playback</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/efficient-techniques-to-fix-and-update-dell-sound-drivers-under-windows-7/"><u>Efficient Techniques to Fix and Update Dell Sound Drivers Under Windows 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-hp-deskjet-3520-printer-up-and-running-with-the-latest-firmware-update/"><u>Get Your HP Deskjet 3520 Printer Up and Running with the Latest Firmware Update!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphic-interpretation-of-ms-bda-functionality/"><u>Graphic Interpretation of MS BDA Functionality</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-80-pro-straight-screen-edition-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor 80 Pro Straight Screen Edition Location by Number | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-conveying-cinematic-dreams-through-screenwriting/"><u>In 2024, Conveying Cinematic Dreams Through Screenwriting</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-application-error-fixing-unhandled-exceptions/"><u>Overcoming 'Application Error': Fixing Unhandled Exceptions</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-xp-error-code-0xfffffff-fixing-print-issues/"><u>Overcoming XP Error Code 0xFFFFFFF: Fixing Print Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/reignite-wireless-connection-usb-wi-fi-fixes-for-windows/"><u>Reignite Wireless Connection: USB Wi-Fi Fixes for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-unhindered-microsoft-store-operation-in-windows-11/"><u>Reinstating Unhindered Microsoft Store Operation in Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sb210-by-soundbot-an-insightful-review-of-its-high-quality-audio-performance-in-cold-season/"><u>SB210 by Soundbot - An Insightful Review of Its High-Quality Audio Performance in Cold Season</u></a></li>
+<li><a href="https://win11.techidaily.com/seamlessly-setup-wi-fi-hotspot-on-your-windows-11-device/"><u>Seamlessly Setup Wi-Fi Hotspot on Your Windows 11 Device</u></a></li>
+<li><a href="https://win11.techidaily.com/sky-high-achievement-essential-widgets-boosting-win-11-output/"><u>Sky-High Achievement: Essential Widgets Boosting Win 11 Output</u></a></li>
+<li><a href="https://win11.techidaily.com/stay-clear-of-7-common-windows-11-missteps-as-a-newbie/"><u>Stay Clear of 7 Common Windows 11 Missteps as a Newbie</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-windows-11-launches-to-performance-goals/"><u>Tailoring Windows 11 Launches to Performance Goals</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/teaching-with-technology-incorporating-youtube-into-lessons/"><u>Teaching with Technology Incorporating YouTube Into Lessons</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-a-flawless-in-place-windows-11-reboot/"><u>The Ultimate Guide to a Flawless, In-Place Windows 11 Reboot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-deal-top-non-apple-non-anker-magsafe-wallet-now-on-sale-discovered/"><u>Unbeatable Deal: Top Non-Apple, Non-Anker MagSafe Wallet Now On Sale - Discovered !</u></a></li>
 </ul></div>
 

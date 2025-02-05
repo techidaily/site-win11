@@ -1,7 +1,7 @@
 ---
 title: Navigate Photos with Windows 11 Explorer Shortcuts
-date: 2025-01-19T02:51:31.357Z
-updated: 2025-01-24T23:51:30.511Z
+date: 2025-01-30T20:12:35.127Z
+updated: 2025-02-03T17:16:40.170Z
 tags:
   - windows10
   - windows11
@@ -38,20 +38,20 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
  Repeat the following steps to enable the new Gallery section in File Explorer:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Update to the Appropriate Windows Insider Build
 
  The Gallery section is hidden in Insider builds 25300 and above. If you are a Windows Insider program participant, open and check for the latest Insider builds on your system. Make sure to be in the Dev or Canary channel because this experimental feature is exclusive to these channels only. Or, you can use[UUP Dump to download Windows Insider builds without participating in Microsoft’s Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Download ViVeTool
 
  You will also need ViVeTool to enable these experimental features on your system. You can[download ViVetool from GitHub](https://github.com/thebookisclosed/ViVe/releases) , but make sure that you pick the most recent release. Extract the tool to the C drive and then proceed to the next section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Enabling Gallery in Windows File Explorer
 
@@ -63,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 4. Type the**Vivetool** command and press enter key to check if the tool is accessible and working. You will see the version of the tool along with the parameters it supports.  
 ![Enable Gallery in File Explorer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-gallery-in-file-explorer-in-windows-11.jpg)
 5. Now, type the following command and press the enter key:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 vivetool /enable /id:41040327
 6. If the command executes correctly, you will see a “Successfully set feature configuration(s)” message. But don’t close the Command Prompt window. Type the following commands to enable all the Gallery features one by one and execute them.  
@@ -84,6 +80,10 @@ vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id
 ![Gallery in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gallery-in-windows-file-explorer.jpg)
 
  The gallery app allows you to adjust the view of the image tiles to accommodate more or less in a single window. You can use the View option in the menu bar of File Explorer to change the image tile size. If you click on any image, it will open in a separate app window (Photos app or any other app that you use).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add or Remove Locations From Gallery in Windows File Explorer
 
@@ -105,7 +105,7 @@ To remove a folder from Gallery, repeat the following steps:
 4. Lastly, click on the**OK** button to finalize the changes. The Gallery section won’t display any images from the excluded folder from now onwards.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Problems With the Gallery Section in Windows File Explorer
@@ -115,7 +115,7 @@ To remove a folder from Gallery, repeat the following steps:
  There is also the issue of images opening in a separate tab rather than in the same File Explorer window. If you plan to open the image in another window, you can do it from the image folder as well. So, future builds should include an option to preview the image in the File Explorer window. Otherwise, you are opening two apps to achieve the same thing. The Gallery section cannot list any videos as well and just ignores all the video files.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Find All Your Images in One Place on Windows With Galleries
@@ -137,20 +137,24 @@ To remove a folder from Gallery, repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/approved-customizing-youtube-viewing-policies-for-your-content/"><u>2024 Approved Customizing YouTube Viewing Policies for Your Content</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-how-to-utilize-snap-camera-effectively-for-real-time-collaboration-in-meet/"><u>2024 Approved How to Utilize Snap Camera Effectively for Real-Time Collaboration in Meet</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/echoes-of-files-past-navigating-windows-11-history/"><u>Echoes of Files Past: Navigating Windows 11 History</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/enhancing-nerf-creations-with-3d-tech-how-additive-manufacturing-is-shaping-a-new-era-for-enthusiasts/"><u>Enhancing Nerf Creations with 3D Tech: How Additive Manufacturing Is Shaping a New Era for Enthusiasts</u></a></li>
-<li><a href="https://win11.techidaily.com/guiding-through-the-uninstalling-and-restoring-process-of-windows-apps/"><u>Guiding Through the Uninstalling & Restoring Process of Windows Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/hidden-actions-for-context-menus-on-windows-editions/"><u>Hidden Actions for Context Menus on Windows Editions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-on-azure-speech-transcription-services/"><u>In 2024, Step-by-Step on Azure Speech Transcription Services</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-apple-pay-usage-a-guide-for-in-store-and-e-commerce-transactions-expert-tips/"><u>Mastering Apple Pay Usage: A Guide for In-Store and E-Commerce Transactions - Expert Tips</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/securing-your-windows-11-ui-master-end-task-options/"><u>Securing Your Windows 11 UI: Master End Task Options</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-accelerate-microsoft-edge-in-windows-10-and-11/"><u>Tips to Accelerate Microsoft Edge in Windows 10 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-windows-11-adding-the-jdk-efficiently/"><u>Unlock Windows 11: Adding the JDK Efficiently</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-your-iphones-calendar-data-on-windows-10/"><u>Unlocking Your iPhone's Calendar Data on Windows 10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/win11s-top-5-no-cost-screen-recorders-updated-guide/"><u>Win11's Top 5 No-Cost Screen Recorders - Updated Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-compare-and-contrast-best-6-hdmi-monitor-models-in-detail/"><u>[New] In 2024, Compare & Contrast Best 6 HDMI Monitor Models in Detail</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-instagram-enhancement-picture-posting-guide-for-2024/"><u>[New] Instagram Enhancement Picture Posting Guide for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-professional-mix-techniques-for-crossfading-sounds-with-audacity-for-2024/"><u>[New] Professional Mix Techniques for Crossfading Sounds with Audacity for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-streamlining-social-sharing-coordinating-vids-on-tweets-plus-tumbles/"><u>[Updated] In 2024, Streamlining Social Sharing Coordinating Vids on Tweets + Tumbles</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/convert-websites-to-windows-desktop-applications/"><u>Convert Websites to Windows Desktop Applications</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-when-dirt-5-continuously-fails-on-your-pc/"><u>Fixes For When Dirt 5 Continuously Fails On Your PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hilarity-renderings-kapwings-image-craft/"><u>Hilarity Renderings Kapwing's Image Craft</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-realme-c53-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Realme C53 PC | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-it-time-to-upgrade-comparing-features-of-galaxy-s23-and-s21-ultra/"><u>Is It Time to Upgrade? Comparing Features of Galaxy S23 & S21 Ultra</u></a></li>
+<li><a href="https://win11.techidaily.com/rapid-typing-learning-from-typingaid-methods/"><u>Rapid Typing Learning From TypingAid Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/reconstructing-the-windows-icon-database/"><u>Reconstructing the Windows Icon Database</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-bsod-when-using-vmware-in-windows-11/"><u>Remedying BSOD when Using VMware in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-no-login-issue-on-windows-1011-screens/"><u>Resolving No-Login Issue on Windows 10/11 Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-standard-operations-in-managed-organizational-browsers-chromeedge/"><u>Restoring Standard Operations in Managed Organizational Browsers (Chrome/Edge)</u></a></li>
+<li><a href="https://win11.techidaily.com/seamlessly-merge-kali-into-your-windows/"><u>Seamlessly Merge Kali Into Your Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-your-work-with-a-customized-windows-sandbox-win-11/"><u>Secure Your Work with a Customized Windows Sandbox (Win 11)</u></a></li>
+<li><a href="https://win11.techidaily.com/seven-steps-to-unlocking-windows-11-memory-safety/"><u>Seven Steps to Unlocking Windows 11 Memory Safety</u></a></li>
 </ul></div>
 

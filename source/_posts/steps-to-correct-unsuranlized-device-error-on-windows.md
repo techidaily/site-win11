@@ -1,7 +1,7 @@
 ---
 title: Steps to Correct Unsuranlized Device Error on Windows
-date: 2025-01-20T05:14:43.326Z
-updated: 2025-01-25T07:40:32.601Z
+date: 2025-01-28T01:04:21.008Z
+updated: 2025-02-04T09:21:21.112Z
 tags:
   - windows10
   - windows11
@@ -42,12 +42,16 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 ###
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Check the USB Drive
 
  If connecting the USB drive to any USB port on your system produces the same error, then unplug it. Connect it to another computer and check if it shows up in Device Manager and you can access the file contents without any issues. If it works, create a copy of all your data on that system for backup purposes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Perform a Complete Shutdown
 
@@ -62,10 +66,6 @@ Repeat the following steps:
 3. Input the following command and press the enter key:**shutdown /s /f /t 0**  
 ![Perform a Complete Shutdown](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/perform-a-complete-shutdown.jpg)
 4. It will take longer than usual for your system to shut down. Power it on again and open File Explorer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click on the USB disk and check if you are able to access the files on it.
 
@@ -84,20 +84,28 @@ Repeat the following steps:
 ![Change the USB Drive Letter Using Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-the-usb-drive-letter-using-disk-management.jpg)
 5. Lastly, click on the**OK** button. Reconfirm your decision and click on the**Yes** button to change the Drive letter.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. You will see a system notification informing you about the Drive letter change and mounting the drive.
 7. Press**Win + E** to open the File Explorer and check whether the USB drive is accessible or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Scan the Hard Disk Using CHKDSK
 
  It is possible for the USB disk to contain bad files and sectors; due to which Windows asks you to format it before usage. But you can leverage the inbuilt CHKDSK utility to scan the USB disk for errors and fix them for you. It will scan all the files on the disk and repair the drive. You can either use the[command prompt method or Run CheckDisk](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) using the Properties window in File Explorer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Run an SFC and DISM Scan
 
  If the check disk doesn’t do any good, and you still have the error, it is possible that your system files are missing or corrupt.[Start with an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) to check and replace any corrupt system files. Follow that up with a[DISM scan to fix the Windows installation image](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) . Make sure you have an active internet connection to run the DISM scan without any issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Use a Linux Installation Media to Access the USB Disk Drive
 
@@ -114,10 +122,6 @@ Repeat the following steps:
 
 6. After you finish copying the contents of the USB disk, click on the power icon and choose the Power off option to close the Try Ubuntu mode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Try Generic Fixes for Drive Formatting Issues
 
  If none of those worked, it's time to apply more general fixes before diving into more drastic measures. There are a few different error messages related to storage drive formatting issues that Windows can throw, and all of them share some common fixes.
@@ -129,10 +133,6 @@ Repeat the following steps:
  If nothing seems to work, and you see the error with every USB disk you try to connect to the system, consider a complete Windows reset. It will remove all your system files and installed apps (though you can choose to keep personal files on the system drive).
 
  However, before[performing a System Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try[System Restore](https://www.makeuseof.com/windows-reset-system-restore-difference/) using any available System Restore points. If that fails, and a reset doesn't seem to work, you can[factory reset your Windows computer](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Access USB Disk Contents Without Formatting
 
@@ -155,19 +155,20 @@ Repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-a-straightforward-approach-beginners-guide-to-creating-nfts/"><u>[New] A Straightforward Approach Beginner's Guide to Creating NFTs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-essential-9-mic-recorder-selections-for-online-use-in-23-for-2024/"><u>[New] Essential 9 Mic Recorder Selections for Online Use in '23 for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-next-gen-audiovideo-1-players-guide-for-24-for-2024/"><u>[Updated] Next Gen Audio/Video #1 Players Guide for '24 for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-strategy-behind-automatic-youtube-playback-on-fb-for-2024/"><u>[Updated] The Strategy Behind Automatic YouTube Playback on FB for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-motorola-moto-g24-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/1728478036191-0x80071ac3/"><u>解決方法: 外部硬碟出現錯譯0x80#071AC3</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/airborne-mass-movers-selecting-the-best-drones-for-2024/"><u>Airborne Mass Movers Selecting the Best Drones for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-strategies-for-correctly-opening-packages-on-ws11ws10/"><u>Easy Strategies for Correctly Opening Packages on WS11/WS10</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-techniques-for-repairing-system-files-in-win11/"><u>Essential Techniques for Repairing System Files in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/finding-where-your-windows-theme-is-saved/"><u>Finding Where Your Window's Theme Is Saved</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-the-problem-of-an-unsuccessful-discord-update-on-pcs/"><u>Fixing the Problem of an Unsuccessful Discord Update on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/space-optimization-for-local-drives-in-windows-11-no-file-deletion-max-156-chars/"><u>Space Optimization for Local Drives in Windows 11 (No File Deletion) (Max 156 Chars)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-guide-to-securing-photographic-backdrops/"><u>Ultimate Guide to Securing Photographic Backdrops</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-without-taskbar-chat-the-consequences-for-you-as-a-user/"><u>Windows 11 Without Taskbar Chat: The Consequences for You as a User?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-captivating-captions-writing-copy-that-drives-engagement-and-views/"><u>[New] 2024 Approved Captivating Captions Writing Copy That Drives Engagement and Views</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-nubia-z50s-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Nubia Z50S Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-security-lock-and-sleep-timer/"><u>Enhancing Windows Security: Lock & Sleep Timer</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/how-to-enable-multilingual-support-for-your-e-books-on-flipbookercom/"><u>How to Enable Multilingual Support for Your E-Books on FlipBooker.com</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-mobile-hotspot-not-working-in-windows-11/"><u>How to Fix the Mobile Hotspot Not Working in Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-iphone-se-2020-for-free-by-drfone-ios/"><u>How To Unlock Cricket iPhone SE (2020) for Free</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-fundamental-equipment-for-channel-foundations/"><u>In 2024, Fundamental Equipment for Channel Foundations</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-setting-up-windows-hello-for-sign-in/"><u>Step-By-Step: Setting up Windows Hello for Sign In</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-overcoming-verified-app-issues-in-windows/"><u>Strategies for Overcoming Verified App Issues in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-fix-robloxs-error-403-in-a-windows-sphere/"><u>Strategies to Fix Roblox's Error 403 in a Windows Sphere</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-closed-caption-glitches-a-win-10-solution/"><u>Taming Closed Caption Glitches: A Win 10 Solution</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-ae-plug-ins-enhance-your-visual-storytelling/"><u>Top AE Plug-Ins Enhance Your Visual Storytelling</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-testing-asus-rog-keris-ii-ace-the-real-competitor-to-deathadder-v3-pro/"><u>Unboxing and Testing Asus ROG Keris II Ace - The Real Competitor to DeathAdder V3 Pro?</u></a></li>
+<li><a href="https://win11.techidaily.com/win-at-vms-essential-ways-to-amplify-windows-performance/"><u>Win at VMs: Essential Ways to Amplify Windows Performance</u></a></li>
 </ul></div>
 

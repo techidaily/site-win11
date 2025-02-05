@@ -1,7 +1,7 @@
 ---
 title: Enhancing Speed of File Transfers in MS Marketplace
-date: 2025-01-18T18:44:04.228Z
-updated: 2025-01-24T20:22:40.753Z
+date: 2025-02-02T04:26:53.147Z
+updated: 2025-02-04T02:39:09.239Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
  If you are getting a slower download speed across all your internet-based apps, check out our guide on[how to boost your internet speed](https://www.makeuseof.com/tag/10-ways-to-improve-the-speed-of-your-current-router/) . If this guide resolves the slow downloading issue, you're good to go. But if you're still facing the problem, contact your internet service provider (ISP).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Close Network-Consuming Applications
@@ -49,14 +49,10 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 ![Disabling the Efficiency Mode of the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disabling-the-efficiency-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, restart your computer and check if there's any improvement in the downloading speed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Turn Off Windows' Metered Connection
 
@@ -87,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 
  That's it. Check if there is an improvement in the downloading speed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Clear the Microsoft Store Cache Data
 
  Microsoft Store stores cache data to offer a better user experience. But if the cache data gets corrupted, it might adversely affect the downloading speed.
@@ -97,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 2. In the search bar, type**Command Prompt** and choose**Run as administrator** from the right pane.
 3. In the elevated Command Prompt window, type**wsreset** and press**Enter** .  
 ![wsreset command in the Command Prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/wsreset-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Switch to the Google Public DNS
 
@@ -109,17 +113,17 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 ![Change Adapter settings option in Windows 11 Network and Sharing center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Change-Adapter-settings.jpg)
 5. Right-click on the connected network and choose**Properties.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Double-click on the**Internet Protocol Version 4 (TCP/IPv4)** and select the**Use the following DNS server addresses** bulletin.
 7. Type**8.8.8.8** in the**Preferred DNS** **server** box and**8.8.4.4** in the**Alternate DNS** **server** box.  
 ![Configuring the Google Public DNS in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-public-dns.jpg)
 8. Click**OK** to save the settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Re-register the Microsoft Store
@@ -134,10 +138,6 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 3. Press**Enter** to re-register the Microsoft Store.
 
  After that, restart your computer and check if the download speed has increased. If not, then you might have to reset the network settings of your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Reset the Network Settings
 
@@ -170,14 +170,24 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/1723212413001-solved-reclaim-lost-performance-eradicate-the-root-cause-of-high-system-load-shell-infrastructures/"><u>[Solved] Reclaim Lost Performance: Eradicate the Root Cause of High System Load – Shell Infrastructures!</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-oneplus-11-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on OnePlus 11 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-path-to-exceptional-windows-wallpapers/"><u>Decoding the Path to Exceptional Windows Wallpapers</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tune-your-windows-sleep-timer/"><u>Fine-Tune Your Window's Sleep Timer</u></a></li>
-<li><a href="https://win11.techidaily.com/future-on-display-the-premium-laptops-at-ifa-2023/"><u>Future on Display: The Premium Laptops at IFA 2023</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-oneplus-11r-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your OnePlus 11R Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/notetaking-without-installation-in-windows-11/"><u>Notetaking Without Installation in Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-the-magic-creating-breathtaking-gopro-time-lapse-videos-for-2024/"><u>Unlock the Magic Creating Breathtaking GoPro Time-Lapse Videos for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-lava-yuva-3-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Lava Yuva 3 Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-the-mechanics-of-whatsapp-voice-conversations/"><u>2024 Approved Understanding the Mechanics of WhatsApp Voice Conversations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-ai-with-vector-database-technology/"><u>Boosting AI with Vector Database Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/creating-an-autohotkey-aided-window-speech-to-text-application/"><u>Creating an AutoHotkey-Aided, Window Speech-to-Text Application</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-safety-of-information-on-chatgpt-platforms/"><u>Exploring the Safety of Information on ChatGPT Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/fixed-backgrounds-in-a-dynamic-windows-world/"><u>Fixed Backgrounds in a Dynamic Windows World</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-error-code-0x800f0922-on-windows-11-updates/"><u>How to Fix Error Code 0X800F0922 on Windows 11 Updates</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-video-url-minification-the-best-tools-for-youtubers-convenience/"><u>In 2024, Video URL Minification The Best Tools for Youtubers' Convenience</u></a></li>
+<li><a href="https://win11.techidaily.com/lowering-the-high-resource-usage-by-ntoskrnlexe/"><u>Lowering the High Resource Usage by Ntoskrnl.exe</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-meaning-of-windows-mbr-error-messages/"><u>Mastering the Meaning of Windows MBR Error Messages</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-store-repair-correcting-error-0x00000000-in-windows-10/"><u>Microsoft Store Repair: Correcting Error 0X00000000 in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/no-need-for-windows-subsystem/"><u>No Need for Windows Subsystem</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-disconnects-with-nvidia-geforce-support-on-win10win11/"><u>Resolving Disconnects with Nvidia GeForce Support on Win10/Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-windows-from-always-entering-bios-at-system-restart/"><u>Stopping Windows From Always Entering BIOS at System Restart</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-for-success-maximizing-windows-10-and-11-pin-length/"><u>Tailored for Success: Maximizing Windows 10 & 11 PIN Length</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailoring-text-with-chatgpt-teach-it-your-writing-style/"><u>Tailoring Text with ChatGPT: Teach It Your Writing Style</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-expert-insights-on-computer-components/"><u>Tom's Tech Hub: Expert Insights on Computer Components</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unresponsive-click-components-in-win11/"><u>Troubleshooting Unresponsive Click Components in Win11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-mastering-the-art-of-connecting-your-devices-with-bose-soundlink/"><u>Ultimate Guide: Mastering the Art of Connecting Your Devices with Bose SoundLink</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Wi-Fi Prompt Shortcomings: Completing Missing Steps in Windows"
-date: 2024-08-08T13:19:06.188Z
-updated: 2024-08-09T13:19:06.188Z
+date: 2025-01-29T09:50:51.813Z
+updated: 2025-02-04T00:02:52.966Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
  Below, we discuss the common causes of this problem alongside the troubleshooting methods you can try to fix this issue once and for all.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Disable the NCSI Probe From Windows Registry
 
  In most cases, the "Action Needed" prompt appears when there are corporate Wi-Fi networks with multiple endpoints available. This prompt is associated with the Network Connectivity Status Indicator (NCSI) feature, which verifies the network connection and internet access.
@@ -39,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 4. Inside the Registry Editor, navigate to the location below:  
 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet
 5. Move to the right pane and right-click on the **EnableActiveProbing** value.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![EnableActiveProbing key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-active-probing-key.jpg)
 
 1. Type 0 in the text field for Value data and click **OK**.
@@ -58,8 +56,9 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 9. Finally, restart your computer and upon reboot, check if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Disable the NCSI Probe From GPE
 
  If using the Windows Registry did not work, you can also make the same changes using the Group Policy Editor.
@@ -72,17 +71,16 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 4. In the Group Policy Editor, navigate to the location below:  
 ​​​​​​​​​​​​​​Computer Configuration\Administrative Templates\System
 5. Select **Internet Communication Management** \> **Internet Communication Settings** and click on **Turn off Windows Network Connectivity Status Indicator active tests**.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Network connectivity test policy in GPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/network-connectivity-test-policy.jpg)
 6. Checkmark the box with **Enabled** and click **Apply** \> **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Next, head over to the following location:  
 ​​​​​​​​​​​​​​Computer Configuration\Administrative Templates\Network
 8. Select **Network Connectivity Status Indicator** \> **Specify passive polling**.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Specify passive polling policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/specify-passive-polling-policy.jpg)
 9. Choose **Enabled** and click **Apply** \> **OK** to save the changes.
 10. Close the Group Policy Editor and restart your computer.
@@ -101,7 +99,16 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 4. You should now be able to see a list of troubleshooters offered by Windows. Locate the Internet connection troubleshooter and click on the **Run** button for it.  
 ![Internet Connection Troubleshooter in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/internet-connection-troubleshooter.jpg)
 5. Wait for the troubleshooter to complete its scan and once done, check if a problem is identified. If it is, click on the **Apply this fix** option. You can also apply a solution manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. In case the troubleshooter fails to identify the culprit, click on **Close the troubleshooter** option and move to the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Fast Startup
 
@@ -116,9 +123,6 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 ![Choose what the power button does option of Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-what-the-power-button-does.jpg)
 5. Choose **Change settings that are currently unavailable** and navigate to the Shutdown settings option.
 6. Uncheck the box associated with **Turn on fast startup (recommended)**.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable Fast Startup on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-fast-startup-on-windows.jpg)
 7. Click on the **Save changes** button and exit Control Panel. Check if the issue is now resolved.
 
@@ -128,10 +132,6 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 
  These include updating the network drivers, re-enabling your wireless network adapter, installing the latest system updates, and resetting the network configurations on your computer. Our guide on[how to fix common Windows network errors](https://www.makeuseof.com/not-connected-any-networks-error-windows/) discusses all of these in detail, so you can head over there for step-by-step instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Fixing Network Connections in Windows Made Easy
 
  Network-related issues in Windows can be annoying, especially if they are preventing you from establishing a stable connection. Hopefully, the steps listed above will help you fix the "Action needed" problem for good.
@@ -140,11 +140,27 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Below, we discuss the common causes of this problem alongside the troubleshooting methods you can try to fix this issue once and for all.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-facing-instagram-video-issues-you-may-find-the-answers-here/"><u>[New] Facing Instagram Video Issues? You May Find the Answers Here</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-overview-djis-ultra-hd-vr-flight-headsets-for-2024/"><u>[New] Overview DJI's Ultra-HD VR Flight Headsets for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-entrepreneurial-journey-of-launching-a-review-channel-for-clothing/"><u>[Updated] 2024 Approved The Entrepreneurial Journey of Launching a Review Channel for Clothing</u></a></li>
+<li><a href="https://win-updates.techidaily.com/best-video-to-text-conversion-software-reviewed-and-tested/"><u>Best Video-to-Text Conversion Software Reviewed and Tested</u></a></li>
+<li><a href="https://win11.techidaily.com/explaining-os-maintenance-the-unique-traits-of-chkdsk-scan-disk-vs-dissect/"><u>Explaining OS Maintenance: The Unique Traits of Chkdsk, Scan Disk Vs. Dissect</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/fb-messenger-call-history-management-made-easy/"><u>FB Messenger Call History Management Made Easy</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-star-wars-jedi-fallen-order-installation-problems-expert-tips-and-solutions/"><u>Fix Your Star Wars Jedi: Fallen Order Installation Problems - Expert Tips and Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-prevent-session-invalid-error-in-steam-gaming/"><u>How To Prevent “Session Invalid” Error in Steam Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-an-automatic-update-reminder-toolbar-on-windows-11/"><u>Implementing an Automatic Update Reminder Toolbar on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/logitech-hub-no-show-fix-windows-1011-issue/"><u>Logitech Hub No Show? Fix Windows 10/11 Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/refine-your-tapes-best-no-cost-windows-software/"><u>Refine Your Tapes: Best No-Cost Windows Software</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-directory-fullness-errors-with-code-0x80070091-on-windows-11/"><u>Resolving Directory Fullness Errors with Code: 0X80070091 on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-efficiently-changing-directory-visibility-windows-11/"><u>Techniques for Efficiently Changing Directory Visibility (Windows 11)</u></a></li>
+</ul></div>
+

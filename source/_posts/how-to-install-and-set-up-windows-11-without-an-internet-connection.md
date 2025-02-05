@@ -1,7 +1,7 @@
 ---
 title: How to Install and Set Up Windows 11 Without an Internet Connection
-date: 2025-01-22T22:19:58.087Z
-updated: 2025-01-24T16:30:17.968Z
+date: 2025-02-02T22:48:09.984Z
+updated: 2025-02-03T22:56:18.143Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does Windows 11's Setup Require an Internet Connection?
 
 ![lets connect you to a network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/lets-connect-you-to-a-network.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  According to Microsoft, you need an active internet connection to perform updates and download and use some features. In addition, Windows 11 Home edition requires a Microsoft Account to complete device setup on first use.
 
@@ -58,15 +58,11 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 4. Click **Install Now.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Windows 11 setup i dont have product key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-i-dont-have-product-key.jpg)
 5. Enter your product key. If you don't have a product key, click the **I don't have a product key** link in the bottom right corner. If you are upgrading from Windows 10 and had Windows 11 previously installed, the operating system will automatically recognize and validate the Windows product key linked to your computer hardware.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Next, if prompted, select the edition of Windows 11 you want to install.
 2. Check the box to accept terms and click **Next**.
@@ -74,15 +70,15 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![Windows 11 setup select installation drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-drive.jpg)
 4. Select the installation drive and click **Next**. Wait for Windows to finish installation and restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. In the setup screen, select your region and keyboard layout.
 
 1. Once in the **Let’s connect you to a network** screen, press **Shift + F10** to launch the **Command Prompt.**  
 ![oobe bypass nro command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/oobe-bypass-nro-command-prompt.jpg)
 2. In the Command Prompt window, type the following command and press **Enter**:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `OOBE\BYPASSNRO`
 3. Upon successful execution, your system will restart and relaunch the OOBE dialog.  
@@ -108,14 +104,14 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![open task manager command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/open-task-manager-command-prompt.png)
 3. Alternatively, use the **Ctrl + Shift + Esc** shortcut to launch Task Manager without Command Prompt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click **More Details** to open Task Manager in full view.
 5. In the **Processes** tab, locate **Network Connection Flow.** Use the search bar in Task Manager to find the Network Connection Flow process.  
 ![Windows 11 setup select installation task manager kill network connection flow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-task-manager-kill-network-connection-flow.jpg)
 6. Select the **Network Connection Flow** process and then click the **End task** button. Wait for the process to end and then close the Task Manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Type **exit** in the Command Prompt and hit enter.
 
@@ -125,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![end network connection flow command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/end-network-connection-flow-command-prompt.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you are unable to end the Network Connect Flow through Task Manager, you can directly kill it using the Command Prompt. Here’s how to do it.
 
 1. At the Let’s connect you to a network screen, press **Shift + F10** to launch Command Prompt.
@@ -133,7 +133,7 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 3. Once executed, close the Command Prompt window to continue with the setup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Skip Let’s Connect You to a Network Page with Alt + F4
@@ -162,19 +162,22 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11.techidaily.com/how-to-skirt-sie-and-load-unsigned-drivers-in-windows-oses/"><u>How to Skirt SIE & Load Unsigned Drivers in Windows OSes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-realme-narzo-60x-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Realme Narzo 60x 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-boosting-engagement-profits-with-animated-ad-success-tactics-on-fb/"><u>In 2024, Boosting Engagement, Profits with Animated Ad Success Tactics on FB</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-activation-failures-in-office-suite/"><u>Navigating Activation Failures in Office Suite</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-non-signed-file-blockade-on-w10w11/"><u>Overcoming Non-Signed File Blockade on W10/W11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pushing-boundaries-the-future-of-generative-systems/"><u>Pushing Boundaries: The Future of Generative Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-windows-10-advanced-ui-settings-not-showed/"><u>Resolved: Windows 10 Advanced UI Settings Not Showed</u></a></li>
-<li><a href="https://win11.techidaily.com/revolutionizing-ui-proposing-innovations-in-windows-11-widget-design/"><u>Revolutionizing UI: Proposing Innovations in Windows 11 Widget Design</u></a></li>
-<li><a href="https://win11.techidaily.com/squashing-faulty-empty-directory-alert-with-0x80070091-on-windows-11/"><u>Squashing Faulty Empty Directory Alert with #0X80070091 on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-systems-top-strategies-for-fixed-windows-11-wwe-games/"><u>Swift Systems: Top Strategies for Fixed Windows 11 WWE Games</u></a></li>
-<li><a href="https://win11.techidaily.com/top-windows-fixes-to-unblock-firefox-page-load-blockage/"><u>Top Windows Fixes to Unblock Firefox Page Load Blockage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fostering-resilience-in-the-face-of-cyber-haters-for-2024/"><u>[New] Fostering Resilience in the Face of Cyber Haters for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-unveiling-luxury-transforming-standard-shipments-into-memories/"><u>[New] In 2024, Unveiling Luxury Transforming Standard Shipments Into Memories</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-engaging-verbal-communicator-study-part-8/"><u>[Updated] Engaging Verbal Communicator Study, Part 8</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ignite-a-sizzling-online-presence-with-these-instagram-9-strategies/"><u>[Updated] Ignite a Sizzling Online Presence with These Instagram #9 Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-video-file-cant-be-played-problem-with-error-22403/"><u>How to Overcome 'Video File Can't Be Played' Problem with Error 22403</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-cutting-edge-video-editing-strategies-for-impactful-obs-content/"><u>In 2024, Cutting-Edge Video Editing Strategies for Impactful OBS Content</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On iPhone 12 mini?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-xiaomi-redmi-k70e-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Xiaomi Redmi K70E Phone?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-motorola-g24-power-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Motorola G24 Power</u></a></li>
+<li><a href="https://win11.techidaily.com/iphonespecific-quicktime/"><u>IPhonespecific QuickTimeムービー視聴・再生に支障があります - 解消策</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-youtube-to-mp3-conversion-using-vidtomp3-solving-common-issues-and-fixes/"><u>Mastering YouTube-to-MP3 Conversion Using VidToMp3 – Solving Common Issues & Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/mp4-to-mp3-in-a-flash-master-the-art-of-quick-video-to-audio-file-conversions/"><u>MP4 to MP3 in a Flash! Master the Art of Quick Video-to-Audio File Conversions</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-your-website-with-quick-and-effective-video-downsizing-methods/"><u>Optimizing Your Website with Quick and Effective Video Downsizing Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/ps4-pro-dvd-plays-flawlessly-ultimate-troubleshooting-guide/"><u>PS4 Pro DVD Plays Flawlessly: Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/recent-update-reveals-true-identity-of-9-anime-series/"><u>Recent Update Reveals True Identity of 9 Anime Series</u></a></li>
+<li><a href="https://win11.techidaily.com/risk-free-deal-on-factorypro-for-ipads-professional-video-conversion-software-now-available-online/"><u>Risk-Free Deal on FactoryPro for iPads – Professional Video Conversion Software Now Available Online!</u></a></li>
+<li><a href="https://win11.techidaily.com/iuocpoodoeodvoocuoobiplusociewniplusocgeocipluswlleeuupluswitus9ndrjgrnjg4bjg4pjg5fjg5djgqtjgrnjg4bjg4pjg5fjgqzjgqtjg4ki/"><u>イメージから始める動画制作:ステップバイステップガイド</u></a></li>
 </ul></div>
 

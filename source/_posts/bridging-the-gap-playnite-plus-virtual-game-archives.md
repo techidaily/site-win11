@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Gap: Playnite + Virtual Game Archives"
-date: 2024-07-29T15:56:19.885Z
-updated: 2024-07-30T15:56:19.885Z
+date: 2025-01-30T23:48:17.106Z
+updated: 2025-02-03T21:12:02.014Z
 tags:
   - windows10
   - windows11
@@ -23,9 +23,9 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
  Let's see how you can have Playnite detect them, scan your emulated games, and include them in your unified game library.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Playnite Extensions
 
  We saw how you can [use Playnite to unify and make sense of your games collections](https://www.makeuseof.com/windows-playnite-guide/). And yet, you might have even more games, thanks to the magic of emulation. What about those?
@@ -34,10 +34,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  To do that, click **Playnite's icon** on the top left of its window to access its main menu. From there, select **Add-ons**. Alternatively, press **F9** on your keyboard to move directly to that spot.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Playnite Menu Add Ons Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-menu-add-ons-entry.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Metadata Sources
 
@@ -51,9 +52,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  To install one of them, click on its entry and then the **install** button on the details pane on the right of Playnite's add-ons window.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Playnite Add Ons Browse For More Metadata Sources Wikipedia Selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-add-ons-browse-for-more-metadata-sources-wikipedia-selected.jpg)
 
  Since we are dealing with emulated content and retro games, we suggest you install the following metadata sources:
@@ -67,18 +65,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  You can click on each one in Playnite and check the details pane to learn more about them.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The "Generic" Page
 
  Although we won't use them for this article, Playnite has some emulation-related add-ons, making your retro-gaming life easier.
 
  You can find those on the **Generic** page, directly below the **Metadata Sources** page we saw above.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Playnite Add Ons Browse For More Generic Emulation Toolbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-add-ons-browse-for-more-generic-emulation-toolbox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The ones we suggest you check are the following:
 
@@ -88,9 +88,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  With Playnite ready to play nice with emulated content, we are prepared to add some retro games to its library.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## How to Configure Emulators With Playnite
 
  Almost all emulators allow you to launch them from the terminal using a command and some flags. Those flags can change the emulator's options and define a game to launch. Usually, one of those flags allows directly launching the emulator and a chosen game in full screen, skipping the emulator's interface.
@@ -101,6 +98,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  That's useful for a seamless gaming experience, especially if you're also using your PC as a media center/console alternative, and want to keep it joypad-friendly. If you're in the opposite camp, you might prefer multitasking on your ultrawide monitor and keeping multiple windows in view. For that, check our guide on [how you can force all your games into windowed mode in Windows 10 & 11](https://www.makeuseof.com/windows-10-11-windowed-mode-games/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Prevent Automatic ROM Scans
 
  Are you often adding or removing titles to your emulated games collection or otherwise fiddling with it? You might want to avoid including your emulated games in Playnite's regular library updates. Having Playnite rescan huge ROM libraries with thousands of files could make the app crawl.
@@ -108,6 +109,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  To find that option, click **Playnite's icon** on the top left of the app to access its main menu, and select **Settings** (or press F4 on your keyboard).
 
 ![Playnite Menu Settings Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-menu-settings-entry.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, select **Updating** in the navigational tree on the left of that window. Use the drop-down menu on the right of **Scan emulation folders** to change its value to **Only manually**. Then, click **Save** to register your tweak and exit that window.
 
@@ -125,38 +130,34 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  While on the **Emulators** tab of the **Configure Emulators** window, click on **Download Emulators** on the bottom right. Playnite will show you a list of supported emulators and some information about them. Still, it cannot automatically download and install them for you.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Playnite Configure Emulators Download Emulators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-configure-emulators-download-emulators.jpg)
 
  So, that's where we will take a short break while you check that list, choose the ones you want, visit their sites, download, and install them. After doing that, you are ready to move to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Making Sense Of Emulation Profiles
 
  Choose one of the emulators you've downloaded and installed from the list on the left, and click on the **button with the folder icon** on the right of Installation Folder. Then, select the path where you installed that emulator.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Playnite Configure Emulators RPCS3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-configure-emulators-rpcs3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to customize how an emulator launches your titles, click on its **Default built-in profile**. Then, check the launch arguments and update them as you wish, according to the emulator's specifications.
 
  With those flags, and depending on the emulator, you can, for example, set a specific resolution for launching your games, change the input device you'll use for playing, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![Playnite Configure Emulators Duckstation Default Profile Arguments](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-configure-emulators-duckstation-default-profile-arguments.jpg)
 
  You can also create more profiles with alternative configurations for each emulator. Still, we won't go over this in this article.
 
  Since you can use many emulators for each platform, Playnite treats emulators and emulated platforms distinctly. By visiting the second tab of that window, **Auto-scan Configurations**, you can select with which emulator you want to scan a platform's titles. You can also choose if they should be included in the update scans of your whole Playnite game library.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Playnite Configure Auto Scan Configurations PS3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-configure-auto-scan-configurations-ps3.jpg)
 
  Depending on how you keep your game ROMs stored and the chosen emulator, you can also select if you want to import those titles using a relative path, scan the chosen platform's folder for more games within subfolders, scan inside archives, and if all files related to a title should be presented individually or "merged" into a single library entry.
@@ -186,9 +187,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  To play a game, since thanks to your actions above Playnite knows which emulator to use to launch it, you can simply click on its **play icon**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Playnite Seeking God Of With God Of War III Selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-seeking-god-of-with-god-of-war-iii-selected.jpg)
 
  If, even after you have access to every single game on your PC through Playnite, it still doesn't cut it for you, there are alternatives worth trying. Check [our list of the best game launchers to launch and organize PC games](https://www.makeuseof.com/tag/pc-game-launchers/), but keep in mind that many of them are less emulation-friendly.
@@ -201,11 +199,31 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Let's see how you can have Playnite detect them, scan your emulated games, and include them in your unified game library.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/nleash-the-power-of-digital-advertising-with-our-comprehensive-set-of-50-free-youtube-banners-for-2024/"><u>[New] Unleash the Power of Digital Advertising with Our Comprehensive Set of 50 FREE YouTube Banners for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-remedying-loss-of-color-contrast-in-online-video-playback/"><u>[Updated] 2024 Approved Remedying Loss of Color Contrast in Online Video Playback</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-inviolable-tactic-to-eliminate-youtube-shorts/"><u>2024 Approved Inviolable Tactic to Eliminate YouTube Shorts</u></a></li>
+<li><a href="https://win11.techidaily.com/no1-7/"><u>人気No.1! ストリーミングオーディオ・レコーディング専用ソフト、詳しく見てみませんか（7つ選び）</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-capture-your-desktop-and-sound-a-step-by-step-guide/"><u>How to Capture Your Desktop & Sound: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-correctly-resolve-your-dota-2-valve-anti-cheat-issue-vac-in-2e22/"><u>How to Correctly Resolve Your DOTA 2 Valve Anti-Cheat Issue (VAC) in 2E22</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-nokia-g42-5g-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Nokia G42 5G.</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-poco-c65-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-infinix-note-30-vip-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Infinix Note 30 VIP Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/itunesisoiphone/"><u>ITunesからISOファイルを読み込むiPhoneのテクニック：知って得するヒント</u></a></li>
+<li><a href="https://win11.techidaily.com/manage-your-documents-with-confidence-using-wonderfoxs-top-notch-pdf-organizer-suite/"><u>Manage Your Documents with Confidence Using WonderFox's Top-Notch PDF Organizer Suite</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-powerpoint-multimedia-seamless-tutorial-on-adding-mp4-files-perfectly/"><u>Mastering PowerPoint Multimedia: Seamless Tutorial on Adding MP4 Files Perfectly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mp4wmawindows-1011/"><u>MP4とWMAの間で素早く変換:Windows 10/11ユーザー向け方法</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-mp3-conversion-transferring-your-cherished-tunes-with-ease/"><u>Seamless MP3 Conversion - Transferring Your Cherished Tunes with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-techniques-effortlessly-combining-multiple-videos-using-vlc-media-player/"><u>Seamless Techniques: Effortlessly Combining Multiple Videos Using VLC Media Player</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speeding-up-battlenet-game-transfers-on-win-pc/"><u>Speeding Up Battle.net Game Transfers on Win-PC</u></a></li>
+</ul></div>
+

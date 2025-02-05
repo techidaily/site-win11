@@ -1,7 +1,7 @@
 ---
 title: Immediate Solutions for Non-Functional Xbox in Windows
-date: 2024-08-08T13:17:07.756Z
-updated: 2024-08-09T13:17:07.756Z
+date: 2025-01-28T09:55:31.559Z
+updated: 2025-02-04T03:22:13.276Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
  In this post, we'll share some quick fixes that will get the Xbox app back up and running in no time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Internet Connection
 
  A sketchy internet connection may prevent you from downloading or launching games from the Xbox app. Hence, before spending time on any advanced solutions,[run a quick internet speed test](https://www.makeuseof.com/best-free-websites-test-internet-speed/) on your PC to check your connection. You can also try switching to a different network connection if one is available.
@@ -32,14 +36,19 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 2. Select**Time & language** from the left pane.
 3. Click on**Date and time** .
 4. Enable the toggle next to**Set time automatically** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Set Date and Time Automatically on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Set-Date-and-Time-Automatically-on-Windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart the Xbox app after this and see if it works fine.
 
  If the clock keeps messing up after this fix, check out[the reasons why your Windows 10 or 11 time is wrong](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) for more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Sign Out and Back Into the Xbox App
 
@@ -48,6 +57,10 @@ Restart the Xbox app after this and see if it works fine.
  In the Xbox app, click on your username in the top left corner and select**Sign out** . Then, click the**Sign in** option and enter your account details. Then, try using the app again.
 
 ![Sign Out of Xbox App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Sign-Out-of-Xbox-App.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reinstall the Gaming Services App
 
@@ -77,14 +90,16 @@ To run the Windows Store Apps troubleshooter:
 2. In the**System** tab, click on**Troubleshoot** .
 3. Select**Other troubleshooters** .
 4. Click the**Run** button next to**Windows Store Apps** and follow the on-screen prompts to run the troubleshooter.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Run the Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-the-Windows-Store-Apps-Troubleshooter-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Repair or Reset Xbox App
 
  If the Windows Store Apps troubleshooter fails to find any issues, you can try to repair the Xbox app manually via the Settings app. Note that this process will delete all the app data.
@@ -96,18 +111,12 @@ To repair the Xbox app on Windows:
 3. Scroll down to locate the**Xbox** app on the list.
 4. Click the**three-dot menu icon** next to it and select**Advanced options** .
 5. Scroll down to the**Reset** section and click on**Repair** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Repair or Reset Xbox App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Repair-or-Reset-Xbox-App-on-Windows.jpg)
 
  Windows will attempt to repair the app. You should see a checkmark next to the Repair button once the process is complete. If the problem persists, you can try resetting the app from the same menu. ​​​​​​
 
  If any Windows apps begin to misbehave in the future, check out[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) for similar steps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## 7\. Update the Xbox App
 
  If you haven't updated Xbox app in a while, you could encounter problems while using it. Plus, using an outdated version of the Xbox app also causes you to miss out on the latest features. Hence, it’s always a good idea to enable automatic app updates on Windows or learn[how to update Windows apps](https://www.makeuseof.com/update-apps-windows-11/) manually. Alternatively, you can update the Xbox app manually from the Microsoft Store.
@@ -118,9 +127,6 @@ To repair the Xbox app on Windows:
 
 ![Windows Update Tab in Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Check-for-Updates-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## 8\. Leave the Xbox Insider Program
 
  If you've signed up for the Xbox Insider Program to get early access to new features and games, it may affect the performance of the Xbox app. You can opt out of the Xbox Insider Program to see if it makes any difference.
@@ -133,39 +139,21 @@ To leave the Xbox Insider Program:
 4. Click**Manage** .
 5. Click the**Leave preview** button.
 6. Select**Continue** when prompted.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Leave Xbox Insider Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Leave-Xbox-Insider-Program.jpg)
 
 Restart the Xbox app after this and try to use it again.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting the Xbox App on Windows
 
  Hopefully, one of the methods mentioned above has fixed the Xbox app, and you can now access your favorite titles again. However, if none of the solutions work, you can reinstall the Xbox app as a last resort.
 
  On another note, if the Xbox app is not displaying notifications on Windows, you may want to fix that too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,4 +162,24 @@ Restart the Xbox app after this and try to use it again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/movie-tricks-for-perfecting-your-video-introduction-craft/"><u>[New] IMovie Tricks for Perfecting Your Video Introduction Craft</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-dynamic-stabilizer-for-steady-videography/"><u>[New] In 2024, Dynamic Stabilizer for Steady Videography</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/asterclass-banishing-green-on-your-mac-for-youtube-success/"><u>[New] Masterclass Banishing Green on Your Mac for YouTube Success</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-obs-broadcasting-your-skype-voice-capture-methods/"><u>2024 Approved OBS Broadcasting Your Skype Voice Capture Methods</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-text-alterations-with-snipping-tool/"><u>Cutting Edge Text Alterations with Snipping Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-management-of-wi-fi-data-metering-settings-on-win11/"><u>Efficient Management of Wi-Fi Data Metering Settings on Win11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-honor-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Honor Phone? Unlock It Now</u></a></li>
+<li><a href="https://win11.techidaily.com/interface-revamp-visualizing-disk-and-network-resources/"><u>Interface Revamp: Visualizing Disk and Network Resources</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-network-nooks-overcoming-obs-connectivity-concerns-7-ways/"><u>Navigating Network Nooks: Overcoming OBS Connectivity Concerns (7 Ways)</u></a></li>
+<li><a href="https://win11.techidaily.com/power-surprise-camouflaging-the-shutdown-icon-in-win11/"><u>Power Surprise: Camouflaging the Shutdown Icon in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/powerrename-the-essential-tool-for-files/"><u>PowerRename: The Essential Tool for Files</u></a></li>
+<li><a href="https://win11.techidaily.com/spooler-revival-instruction-for-win/"><u>Spooler Revival Instruction for Win</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/transformar-video-de-mts-a-mp4-sin-gastos-tres-metodos-simples-y-eficaces/"><u>Transformar Video De MTS a MP4 Sin Gastos: Tres Métodos Simples Y Eficaces</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-overcoming-non-registered-devices-issue/"><u>Understanding & Overcoming Non-Registered Devices Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-disk-space-insights-via-powershell-scripts/"><u>Unlocking Disk Space Insights via PowerShell Scripts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+</ul></div>
 

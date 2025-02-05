@@ -1,7 +1,7 @@
 ---
 title: Tips to Improve Windows Roblox Performance Speed
-date: 2025-01-22T22:08:20.924Z
-updated: 2025-01-24T22:57:50.086Z
+date: 2025-01-31T18:42:22.049Z
+updated: 2025-02-04T01:42:49.962Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/c2364ce1ce1631cf3307292a0e382081e93d8f200
  Upon finding the Fn key, see if its light is on. If you see the key glowing, it means that the Fn key is on and function keys are already enabled. If the key's light is off, then it is disabled. If it's off, press the**Fn** key to turn it on again. Then, press the same key combination (**Shift + F5)** again to see the frame rate.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Always Run Roblox as Administrator
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/c2364ce1ce1631cf3307292a0e382081e93d8f200
 ![Run Roblox as an Administrator in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-run-roblox-as-an-administrator-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Free Up System Resources to Support Roblox
@@ -64,6 +64,14 @@ To remove this unnecessary burden from your GPU, follow these steps:
 3. Find the tasks that consume the most GPU resources but aren't essential.
 4. To end these processes, right-click on them and click**End task** .  
 ![Close Microsoft Teams Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-microsoft-teams-using-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Change Graphics Quality
 
@@ -88,16 +96,12 @@ To remove this unnecessary burden from your GPU, follow these steps:
 ![Go to Graphics Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-go-to-graphics-settings-in-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If Roblox is not already listed here, click**Browse** , and select Roblox's EXE file. Once added, click on Roblox and then**Options** . After that, select**High performance** in the**Graphics preference** window.
 
 ![Select High Performance in the Graphics Preferences Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-select-high-performance-in-the-graphics-preferences-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Change the Power Plan Settings
 
@@ -112,7 +116,7 @@ To remove this unnecessary burden from your GPU, follow these steps:
  Some GPU manufacturers also offer custom power plans, so if such a plan is listed as an additional option in your power plan settings, you can also select that. Just remember that high-performance plans consume more power.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Turn Off Visual Effects
@@ -128,14 +132,10 @@ To remove this unnecessary burden from your GPU, follow these steps:
 ![Check the Circle Besides Adjust for best performance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/check-the-circle-besides-adjust-for-best-performance.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Doing so will disable all visual effects, but you'll immediately see a good FPS boost.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Check for Internet Issues
 
@@ -167,16 +167,22 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-frame-perfection-on-youtube-your-ultimate-guidebook/"><u>[New] 2024 Approved Free Frame Perfection on YouTube - Your Ultimate Guidebook</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-social-snippet-collection-mastery-efficient-method-for-downloading-animated-tweet-graphics/"><u>[New] In 2024, Social Snippet Collection Mastery Efficient Method for Downloading Animated Tweet Graphics</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-peak-engagement-title-conjurer-for-2024/"><u>[New] Peak Engagement Title Conjurer for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-10-superior-video-conferencing-software-titles/"><u>[Updated] 10 Superior Video Conferencing Software Titles</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-unresponsive-nvidia-experience-on-windows-devices/"><u>Fixing Unresponsive NVIDIA Experience on Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-unaltered-screenscape-in-windows-11/"><u>Guide to Unaltered Screenscape in Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/interview-success-with-chatgpt-top-tips-and-techniques/"><u>Interview Success with ChatGPT: Top Tips and Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-network-not-available-errors-on-your-windows-11-pc/"><u>Resolving 'Network Not Available' Errors on Your Windows 11 PC</u></a></li>
-<li><a href="https://win11.techidaily.com/step-into-the-twilight-zone-paints-dark-mode-magic/"><u>Step Into the Twilight Zone: Paint's Dark Mode Magic</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-failed-mobile-hotspot-connectivity-on-windows-11/"><u>Troubleshooting Failed Mobile Hotspot Connectivity on Windows 11</u></a></li>
-<li><a href="https://fox-where.techidaily.com/unlocking-success-understanding-the-top-six-dependencies-in-project-management/"><u>Unlocking Success: Understanding the Top Six Dependencies in Project Management</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-taking-your-instagram-game-up-a-notch-advanced-tracking-tools-overview/"><u>[New] 2024 Approved Taking Your Instagram Game Up a Notch Advanced Tracking Tools Overview</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-selecting-your-stream-space-obs-or-twitch-for-2024/"><u>[Updated] Selecting Your Stream Space OBS or Twitch for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-making-impeccable-square-videos-in-imovie-for-instagram/"><u>2024 Approved Making Impeccable Square Videos in iMovie for Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/compatible-tablet-apps-winning-selections-on-windows/"><u>Compatible Tablet Apps: Winning Selections on Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/how-to-navigate-virtual-realities-without-nausea-for-2024/"><u>How to Navigate Virtual Realities without Nausea for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/identifying-the-reasons-behind-audio-distortion-crackles-and-stutters-expert-insights-from-yl-computing/"><u>Identifying the Reasons Behind Audio Distortion: Crackles & Stutters - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-resolving-win-11-bluetooth-pairing-failures/"><u>Mastering the Art of Resolving Win 11 Bluetooth Pairing Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-window-color-customization-in-windows-11/"><u>Mastering Window Color Customization in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/may-2024s-premier-atandt-phone-promotions-exclusive-deals-featured-on-zdnet/"><u>May 2024'S Premier AT&T Phone Promotions: Exclusive Deals Featured on ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-the-nuances-of-window-11-widget-installation/"><u>Navigating Through the Nuances of Window 11 Widget Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-unintentional-snipping-tool-opener-via-prtscan-on-windows-11/"><u>Prevent Unintentional Snipping Tool Opener via PrtScan on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/prime-ai-markets-for-creativity-exchange/"><u>Prime AI Markets for Creativity Exchange</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-windows-install-on-steam-deck/"><u>Step-by-Step Windows Install on Steam Deck</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-journey-to-w11s-printer-tools-max-50-chars/"><u>Streamline Your Journey to W11’s Printer Tools (Max 50 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/the-pinnacle-of-progress-windows-beyond-11/"><u>The Pinnacle of Progress: Windows Beyond 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unveiled-top-10-superior-gopro-housing-options/"><u>Unveiled Top 10 Superior GoPro Housing Options</u></a></li>
 </ul></div>
 

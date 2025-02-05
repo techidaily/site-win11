@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Files: Using PowerRename in PowerToys"
-date: 2024-08-08T13:18:18.789Z
-updated: 2024-08-09T13:18:18.789Z
+date: 2025-01-31T06:14:56.534Z
+updated: 2025-02-03T19:31:50.068Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,11 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 
  To use the Microsoft Store version, visit Windows' Start menu, search for the**Microsoft Store** , and launch it. Then, look for "powertoys" using the window's top search field.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Microsoft Store Searching For PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microsoft-store-searching-for-powertoys.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you find the**Microsoft PowerToys** entry, click on it to visit its page. There, click on**Install** on the left to bring PowerToys onboard.
 
@@ -55,16 +56,10 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 
  The PowerRename "toy" that we'll use For this article might be disabled by default. To enable it, select the PowerRename page from the list on the left of the Settings window. Then, flick the switch on the right of**Enable PowerRename** to the right.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use the PowerRename PowerToy
 
  Like most tools in PowerToys, PowerRename is accessible "outside" of the PowerToys' own window.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows File Explorer Right Click PowerRename](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-file-explorer-right-click-powerrename.jpg)
 
 1. To use PowerRename, fire up your favorite file manager. Windows File Explorer is fine if you aren't using a third-party solution to juggle your files.
@@ -74,8 +69,9 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
  All the batch-renaming magic happens on the window you'll see pop up on your screen.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Simple Find & Replace
 
  The easiest operation you can carry out with PowerRename is a straightforward Find & Replace procedure.
@@ -91,14 +87,6 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 1. Enter the string you want to replace in the field at the top left of PowerRename's window while all files are selected on the right.
 2. Type in the field underneath with what you want to replace the above string.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![PowerRename Simple Replace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-simple-replace.jpg)
 
  Note that this will try to match only the first instance of the "source" string in every filename. This scenario is practical when, for example, you want to add a prefix to the filenames.
@@ -123,24 +111,26 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 
 ![PowerRename Apply To Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-apply-to-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From there, you can choose if PowerRename will affect only the selected files**Filenames** , their**Extensions** , or both**Filenames + Extensions** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Text Formatting
 
  Apart from renaming, PowerRename also offers some basic text formatting functionality. By using the buttons under**Text formatting** , you can tweak the files' filenames to make them lowercase, uppercase ("all caps"), capitalize their first letter, or capitalize the first letter of each word in them.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![PowerRename Text Formatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-text-formatting.jpg)
 
  The final icon, separated from the others and on the right, is the numbering toggle. Click on it, and PowerRename will add numbers inside parentheses to the filenames so that "filename.jpg" may become "filename (1).jpg".
 
  Keep in mind that Numbering doesn't work on its own, but only as an "enhancer" on top of another renaming process.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Regular Expressions
 
  The most powerful way to rename files with PowerRenamer is by taking advantage of its support for Regular Expressions, better known as RegEx. However, it's also harder to grasp and even more challenging to master.
@@ -151,16 +141,21 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 
 ![PowerRename Regex Any Three Characters From The Beginning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-regex-any-three-characters-from-the-beginning.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To use RegEx instead of "simple" string replacement, place a checkmark before**Use regular expressions** .
 
  Quite helpfully, PowerRenamer offers a "cheat sheet" with a few standard RegEx syntax examples. You can find it by clicking on the little**circular icon with the i** (for "information") inside, right next to the "source field".
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![PowerRename Regex Help](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-regex-help.jpg)
 
  Still, that mini-guide is short, restricted, and only covers basic RegEx syntax. Find out more about RegEx in[our beginner's guide to Regular Expressions with Python](https://www.makeuseof.com/regular-expressions-python/) . However, note that there might be variations in Python RegEx syntax compared to PowerRename's implementation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Quick, Effortless, and Powerful File Organization With PowerRename
 
@@ -170,14 +165,11 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 
  After that point, the sky's the limit, and you'll be able to create various "renaming scenarios" that can help you eliminate the most tedious task of file management: renaming your files one by one.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -186,4 +178,24 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-crafty-concepts-designing-unforgettable-instagram-puzzle-feeds/"><u>[New] In 2024, Crafty Concepts Designing Unforgettable Instagram Puzzle Feeds</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-perfecting-online-visuals-beauty-focused-color-correction-for-2024/"><u>[Updated] Perfecting Online Visuals Beauty-Focused Color Correction for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/command-line-connections-utilizing-wsl-in-windows/"><u>Command Line Connections: Utilizing WSL in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-wi-fi-issues-completing-actions-for-seamless-connections/"><u>Fixing Windows Wi-Fi Issues: Completing Actions for Seamless Connections</u></a></li>
+<li><a href="https://win11.techidaily.com/from-old-to-new-a-windows-11-reboot-strategy/"><u>From Old to New: A Windows 11 Reboot Strategy</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-extend-the-pin-length-in-windows-10-and-11/"><u>How to Extend the PIN Length in Windows 10 & 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-blaze-curve-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Blaze Curve 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-play-8t-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor Play 8T to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-nubia-red-magic-8s-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Nubia Red Magic 8S Pro without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-how-to-transfer-photos-and-videos-from-android-phone-to-an-iphone/"><u>In 2024, How to Transfer Photos and Videos From Android Phone to an iPhone</u></a></li>
+<li><a href="https://win11.techidaily.com/leading-edge-of-power-management-max-and-min-states/"><u>Leading Edge of Power Management: Max & Min States</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-access-guide-initiating-sticky-note-windows-session/"><u>Quick Access Guide: Initiating Sticky Note Windows Session</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-addressing-lsa-deactivation-issue/"><u>Quick Guide to Addressing LSA Deactivation Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-11-notification-management/"><u>Streamlining Windows 11 Notification Management</u></a></li>
+<li><a href="https://win11.techidaily.com/tactics-to-fix-grouped-desktop-icon-issues/"><u>Tactics to Fix Grouped Desktop Icon Issues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-list-of-sites-to-download-stylish-text-files/"><u>Ultimate List of Sites to Download Stylish Text Files</u></a></li>
+</ul></div>
 

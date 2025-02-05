@@ -1,7 +1,7 @@
 ---
 title: "Resolving: Disconnected From Wi-Fi/LAN"
-date: 2025-01-18T21:53:29.300Z
-updated: 2025-01-24T17:46:01.358Z
+date: 2025-01-28T22:10:35.427Z
+updated: 2025-02-03T20:29:20.686Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f4b94a6052a83b6c87620891bae2ef1d10a06ae6e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disable Airplane Mode on Windows
 
  The[Airplane mode in Windows 10 and 11](https://www.makeuseof.com/how-to-turn-airplane-mode-on-or-off-windows-11/) works similarly to your cellular devices. When enabled, Airplane mode disables all the connectivity options, including Bluetooth and Wi-Fi. To fix it, check and disable Airplane mode to restore your Wi-Fi connectivity.
@@ -36,21 +40,21 @@ To disable Airplane mode on Windows:
 ![airplane mode windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/airplane-mode-windows-11-settings.jpg)
 3. Click on**Airplane mode** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![disable airplane mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-airplane-mode-windows-11.jpg)
 4. Toggle the switch to turn off**Airplane mode.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Make sure to set**Wi-Fi** and**Bluetooth** to**On** under**Wireless devices.**
 6. Connect to your network and check if the error is resolved.
 
  Another issue you may face is that Airplane mode gets stuck with no option to enable or disable it. To[fix Airplane mode stuck in Windows 11](https://www.makeuseof.com/windows-11-stuck-airplane-mode/) , check the Radio Management Service status, run the network adapter troubleshooter, or use a registry hack to turn off the feature completely.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the Windows Network Adapter Troubleshooter
 
@@ -83,6 +87,11 @@ To reinstall the network driver:
 
 ![browse my computer for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/browse-my-computer-for-drivers.jpg)
 5. Click on**Browse my computer for drivers.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![let me pick driver from list available drivers on my computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/let-me-pick-driver-from-list-available-drivers-on-my-computer.jpg)
 6. Next, click **Let me pick from my list of available drivers on my computer.**  
 
@@ -93,13 +102,13 @@ To reinstall the network driver:
 
  Check if the issue is resolved. If not, repeat the steps but with a different available driver. Usually, a generic driver from Microsoft is available. So, select a different driver from the one you installed earlier and click**Next** to finish the installation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Update Your Adapter's Network Driver
 
 ![update network driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-network-driver.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If a reinstall didn't help, try to update your network adapter driver. An outdated or buggy driver can create compatibility issues. Also, if you have upgraded your OS to a newer version, your system may be missing newer driver updates.
 
@@ -124,10 +133,6 @@ To download the drivers:
 
  Additionally, use the built-in system management utility offered by your computer manufacturer. For example, HP laptops come with an HP Support Assistant utility. You can use it to find new drivers for networking and other devices on your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Perform a Windows Network Reset
 
  Windows features a network reset feature as part of advanced network settings. When you perform a network reset, it removes and reinstalls the network drivers and resets other networking components to their factory default.
@@ -139,12 +144,12 @@ To download the drivers:
 ![advanced network settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-2.jpg)
 3. Scroll down and click on**Advanced network settings.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![network reset windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-reset-windows-11.jpg)
 4. Next, click on**Network reset** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![network reset reset now windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-reset-reset-now-windows-11.jpg)
 5. Click the**Reset** now button for**Network reset.**
@@ -165,10 +170,6 @@ To reset your Wi-Fi router:
 2. Locate the small**Reset** button on the rear panel.
 3. Use a paper clip to press and hold the reset button for**10 seconds** . Release the button and wait for the router to restart.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Perform a System Restore
 
  If you suspect a Windows update to have triggered the error, try a system restore using a restore point. A restore point helps you undo any recently made changes by updates and individuals without affecting your files and folders.
@@ -181,16 +182,16 @@ To perform a system restore using the restore point:
 ![select restore point windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/select-restore-point-windows-11.jpg)
 4. Check the**Show more restore points option** to view all the available restore points on your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select the most recent restore point and click**Next** .  
 ![select restore point windows 11 finish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/select-restore-point-windows-11-finish.jpg)
 6. Read the description and click**Finish** to begin the restore process. This process can take several minutes, and your computer may restart multiple times. Wait for the process to complete and check for any improvements.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the "You Are Not Connected to Any Networks" Error on Windows
@@ -212,22 +213,24 @@ To perform a system restore using the restore point:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-unpacking-history-with-youtube-student-edition-top-10/"><u>[New] 2024 Approved Unpacking History with YouTube – Student Edition (Top 10)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-back-track-technique-reverse-video-in-ios-devices/"><u>[Updated] Back-Track Technique Reverse Video in iOS Devices</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-news-end-credits-a-step-by-step-guide-for-2024/"><u>[Updated] Crafting News End Credits A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-essentials-to-skyrocketing-video-views-on-youtube-for-2024/"><u>[Updated] Essentials to Skyrocketing Video Views on YouTube for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/120plus-original-title-concepts-for-unique-and-memorable-snapchat-stories/"><u>120+ Original Title Concepts for Unique and Memorable Snapchat Stories</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-truthgpt-the-innovative-project-elon-musk-is-developing-right-now/"><u>Decoding TruthGPT: The Innovative Project Elon Musk Is Developing Right Now</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/elevate-your-connectivity-experience-the-durability-and-performance-of-netgear-nighthawk-x6s-wi-fi-expander/"><u>Elevate Your Connectivity - Experience the Durability and Performance of Netgear Nighthawk X6S Wi-Fi Expander</u></a></li>
-<li><a href="https://win11.techidaily.com/end-the-paper-to-excel-transfer-hassle-with-our-simple-phone-trick/"><u>End the Paper-to-Excel Transfer Hassle with Our Simple Phone Trick</u></a></li>
-<li><a href="https://win11.techidaily.com/excel-essentials-a-step-by-step-guide-to-manipulating-dates-by-addingsubtracting-them/"><u>Excel Essentials: A Step-by-Step Guide to Manipulating Dates by Adding/Subtracting Them</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-and-tricks-leveraging-the-power-of-text-splitting-in-excel/"><u>Expert Tips and Tricks: Leveraging the Power of Text Splitting in Excel</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-poco-x5-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Poco X5?</u></a></li>
-<li><a href="https://win11.techidaily.com/jumpstart-your-typing-quick-fixes-to-reduce-lag-in-win-1011/"><u>Jumpstart Your Typing: Quick Fixes to Reduce Lag in WIN 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/latest-tech-news-anticipating-new-releases-from-google-and-samsung-telecoms/"><u>Latest Tech News: Anticipating New Releases From Google and Samsung Telecoms</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-semaphore-expired-error-on-windows-1011/"><u>Overcoming 'Semaphore Expired Error' On Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-alleviating-usb-shortage-on-pcs/"><u>Strategies for Alleviating USB Shortage on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-code-word-prefixes-for-software-execution/"><u>Unlocking Code Word Prefixes for Software Execution</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/webpage-wonders-enhancing-with-youtubes-playlist-features-for-2024/"><u>Webpage Wonders Enhancing with YouTube's Playlist Features for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-easy-ways-to-merge-igtv-and-instagram-stories-for-2024/"><u>[New] Easy Ways to Merge IGTV & Instagram Stories for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-breaking-down-the-secrets-of-impactful-asmr-video-creation/"><u>[New] In 2024, Breaking Down the Secrets of Impactful ASMR Video Creation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-undead-delight-the-best-zombie-games-reviewed-for-2024/"><u>[New] Undead Delight The Best Zombie Games Reviewed for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-music-infused-content-sharing-strategies-for-facebook/"><u>[Updated] Music-Infused Content Sharing Strategies for Facebook</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-stop-video-buffering-during-streaming/"><u>2024 Approved Stop Video Buffering During Streaming</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-resolve-zerodxgerror-device-hunk-in-win11/"><u>Guide to Resolve ZeroDXGError: Device HUNK in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-address-zero-x-error-with-mail-application-on-win11/"><u>How to Address Zero X Error with Mail Application on Win11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-poco-x5-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Poco X5 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win11.techidaily.com/illuminate-your-space-embrace-christmas-magic/"><u>Illuminate Your Space, Embrace Christmas Magic</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-average-earnings-in-the-world-of-podcasting/"><u>In 2024, Average Earnings in the World of Podcasting</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-improvement-speedy-troubleshooting-for-pc-print/"><u>Instant Improvement: Speedy Troubleshooting for PC Print</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-delete-tiktok-watermarks-with-the-best-online-tools-for-2024/"><u>New Delete TikTok Watermarks with the Best Online Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-windows-printer-service-fast/"><u>Reinstating Windows Printer Service Fast</u></a></li>
+<li><a href="https://article-posts.techidaily.com/sky-magnificence-in-focus-leading-websites-uncovered/"><u>Sky Magnificence in Focus Leading Websites Uncovered</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-improve-mouse-visibility-on-windows-11/"><u>Steps to Improve Mouse Visibility on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-restore-the-ancient-explorer-ui/"><u>Steps to Restore the Ancient Explorer UI</u></a></li>
+<li><a href="https://win11.techidaily.com/top-3d-paint-shortcut-guide/"><u>Top 3D Paint Shortcut Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategies-solving-no-server-found-issues-on-windows-for-apex-gamers-(156-chars/"><u>Winning Strategies: Solving No Server Found Issues on Windows for Apex Gamers (<156 Chars)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/andfc2/"><u>オンラインビデオダウンロード&変換・編集のテクニック：FC2・ニコニコ・ギャオーで使える専門ガイド</u></a></li>
 </ul></div>
 

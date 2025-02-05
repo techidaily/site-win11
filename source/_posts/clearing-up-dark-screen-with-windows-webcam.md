@@ -1,7 +1,7 @@
 ---
 title: Clearing Up Dark Screen with Windows Webcam
-date: 2024-07-29T15:55:36.106Z
-updated: 2024-07-30T15:55:36.106Z
+date: 2025-01-31T05:34:09.801Z
+updated: 2025-02-04T08:57:58.434Z
 tags:
   - windows10
   - windows11
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
  No one wants interruptions when video chatting or streaming with friends and family. A black screen on your webcam can disrupt these moments and cause frustration. If you are experiencing this issue on your Windows computer, here are some solutions to fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Start With Generic Fixes
 
  Before diving into specific solutions, try these generic fixes first:
@@ -31,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 * If you're using an external webcam, try connecting it to a different USB port.
 
  If these generic fixes don't work, it's time to try something more specific.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check Your Webcam Hardware and Connections
 
@@ -46,11 +51,12 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
 ![A Windows PC Getting Started](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restarting-a-windows-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  So, if your webcam was working fine before but suddenly shows a black screen, [reboot your computer](http://www.makeuseof.com/windows-restart-methods/) and see if that works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Update Webcam Drivers
 
  Another possible cause of a black screen on your Windows webcam is outdated or corrupted drivers.
@@ -60,41 +66,34 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 1. Press **Win + X** and choose **Device Manager** from the menu.
 2. In the Device Manager window, locate the **Cameras** category and click on the arrow to expand it. You should now see your webcam listed.
 3. Right-click on your webcam and select **Update driver**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![Update Camera Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/update-camera-driver.jpg)
 4. On the next page, click **Search automatically for drivers**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will prompt your computer to search the internet for the latest driver software for your webcam. Windows either finds and installs the latest driver or notifies you that you already have it.
 
  If Windows can't find a new driver, go to your webcam manufacturer's website and download the latest one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Roll Back Drivers
 
  If you recently updated your webcam drivers and now get a black screen, try reverting to the previous version. Here's how to do it:
 
 1. Open Device Manager and expand the **Cameras** category.
 2. Right-click on your webcam driver and choose **Properties**.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Webcam Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-webcam-properties.jpg)
 3. In the Properties window, switch to the **Driver** tab.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Roll Back Camera Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/roll-back-camera-driver.jpg)
 4. Here, you'll find the **Roll Back Driver** button. Click on it. If the button is grayed out, there's no driver version to roll back to.
 
  A new window will pop up asking why you want to roll back. Choose a reason that fits your situation, then click **Yes**. Windows will now restore the previous driver version. After doing this, restart your computer to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Reinstall Webcam Drivers
 
  If updating or rolling back drivers doesn't work, you may need to reinstall them completely. Don't worry about losing your webcam; Windows will detect and install the drivers automatically after rebooting.
@@ -123,8 +122,17 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 2. In the Settings window, click **Privacy & security**.  
 ![Camera in Privacy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-in-privacy-settings.jpg)
 3. On the right panel, scroll down to **App permissions** and select **Camera**. Here, you'll see a list of apps that access your webcam.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Check App Permissions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/check-app-permissions.jpg)
 4. Make sure the apps you use for video chatting or conferencing can access your camera. If not, toggle the switch to turn on camera access for these apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After adjusting the permissions, restart your computer and check if the webcam black screen is resolved.
 
@@ -134,9 +142,6 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
  To check for malicious programs, employ trusted antivirus software and [perform a full system scan](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/). Additionally, you may use the Windows Security tool to swiftly scan and eliminate any identified threats from your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## 9\. Run the Hardware and Device Troubleshooter
 
  If the above solutions don't work, you can try running the Hardware and Devices troubleshooter. This built-in tool can scan for and fix common hardware issues.
@@ -146,14 +151,6 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 1. Press the **Win + R** keys simultaneously to open the Run dialog box.
 2. In the text box, type **cmd** and press the **Ctrl + Shift + Enter** keys together. This will launch the Command Prompt in administrator mode.
 3. If the UAC prompt appears, click **Yes** to grant administrative privileges.  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-the-hardware-and-devices-troubleshooter.jpg)
 4. In the Command Prompt window, enter the following command and press **Enter**:  
 `msdt.exe -id DeviceDiagnostic`
@@ -166,11 +163,30 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
  Start with the basic checks and then move on to more technical fixes if needed. Hopefully, one of these solutions worked and resolved the issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-ad-based-revenue-tracking-for-youtubers-success/"><u>[Updated] In 2024, Ad-Based Revenue Tracking for YouTubers' Success</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-discover-the-best-practices-to-master-snapchats-video-timeline/"><u>[Updated] In 2024, Discover the Best Practices to Master Snapchat's Video Timeline</u></a></li>
+<li><a href="https://win11.techidaily.com/1-effortless-conversion-turning-m4a-files-into-mp3-formats-using-free-online-tools/"><u>1. Effortless Conversion: Turning M4A Files Into MP3 Formats Using Free Online Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-video-capturing-warriors-choosing-between-obs-and-fraps/"><u>2024 Approved Video Capturing Warriors Choosing Between OBS and Fraps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/efficient-practices-archiving-google-voice-transcripts-for-2024/"><u>Efficient Practices Archiving Google Voice Transcripts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-online-archive-copyright-free-gaming-harmonies/"><u>In 2024, Free Online Archive Copyright-Free Gaming Harmonies</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-infinix-smart-7-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Infinix Smart 7 FRP</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-device-compatibility-driver-installation-tips-for-windows-xp-to-10/"><u>Mastering Device Compatibility: Driver Installation Tips for Windows XP to 10</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/microsoft-office-alternatives-unveiled-explore-the-best-solutions-for-professional-use/"><u>Microsoft Office Alternatives Unveiled – Explore the Best Solutions for Professional Use</u></a></li>
+<li><a href="https://win11.techidaily.com/struggling-to-extract-dvds-on-windows-media-player-discover-top-rated-alternatives/"><u>Struggling to Extract DVDs on Windows Media Player? Discover Top-Rated Alternatives!</u></a></li>
+<li><a href="https://win11.techidaily.com/top-rated-tablets-with-built-in-dvd-player-capability/"><u>Top-Rated Tablets with Built-In DVD Player Capability</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-flv-format-issues-with-lightworks-quick-fixes-for-smooth-editing/"><u>Troubleshooting FLV Format Issues with Lightworks - Quick Fixes for Smooth Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/usb-and-streaming-the-ultimate-guide-to-play-dvds-on-an-acer-laptop-running-windows-1011/"><u>USB and Streaming: The Ultimate Guide to Play DVDs on an Acer Laptop Running Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/wonderfox-solves-missing-page-issue-error-code-404-no-more/"><u>WonderFox Solves Missing Page Issue - Error Code 404 No More</u></a></li>
+<li><a href="https://win11.techidaily.com/avisynth/"><u>ビデオ再生中の音量設定 - AviSynthを使って</u></a></li>
+</ul></div>
+

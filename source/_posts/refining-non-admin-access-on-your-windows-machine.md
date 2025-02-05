@@ -1,7 +1,7 @@
 ---
 title: Refining Non-Admin Access on Your Windows Machine
-date: 2025-01-20T08:29:12.200Z
-updated: 2025-01-25T06:57:38.711Z
+date: 2025-02-03T06:30:18.592Z
+updated: 2025-02-03T18:40:14.673Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The UAC Behaviors Available for Standard User Accounts
 
  Unlike when [changing UAC behaviors for administrator accounts](https://www.makeuseof.com/change-user-access-control-works-administrators-windows/), the behaviors for standard user accounts are a little more limited. According to the [Microsoft Learn](https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/user-account-control-behavior-of-the-elevation-prompt-for-standard-users) website, here are the behaviors you can choose and what they mean:
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 * **Prompt for credentials**: An operation that requires elevation of privilege prompts the user to type an administrative username and password. If the user enters valid credentials, the operation continues with the applicable privilege.
 
  The default UAC behavior for standard user accounts is **Prompt for credentials**, but Microsoft recommends you change it to **Automatically deny elevation requests**. That way, only users with administrator accounts can decide how the UAC behaves and make choices that will keep the computer safe.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change the UAC Behavior for Standard Users in the Local Group Policy Editor
 
@@ -50,18 +50,18 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 ![modifying the policy for UAC behavior in Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modifying-policy-for-uac-behavior-in-local-group-policy-editor.jpg)
 3. Expand the dropdown and choose a different UAC behavior.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![editing the policy for UAC behavior in Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/editing-policy-for-uac-behavior-in-local-group-policy-editor.jpg)
 4. Click **OK**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Keep in mind that only administrators can change the behavior of the UAC. If a standard user tried to change it using the Local Group Policy Editor, for example, they'd probably get an **Access denied** error message.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Change the UAC Behavior for Standard Users in the Registry Editor
 
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 4. In the **Value data** text box, enter **0** for **Automatically deny elevation requests**, **1** for **Prompt for credentials on the secure desktop**, or **3** for **Prompt for credentials**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![setting Value data for ConsentPromptbehavior Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/setting-value-data-for-consentpromptbehavior-registry-editor.jpg)
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
  Now restart your computer to allow the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Control UAC's Behavior for Standard Users on Windows
@@ -106,22 +106,24 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-complete-process-of-scheduling-google-meets/"><u>[New] In 2024, The Complete Process of Scheduling Google Meets</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-how-to-choose-between-filmora-and-democreator/"><u>[Updated] 2024 Approved How to Choose Between Filmora and Democreator</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/boost-productivity-in-resin-3d-printing-discover-the-elegoo-solution-kit-for-only-149/"><u>Boost Productivity in Resin 3D Printing: Discover the Elegoo Solution Kit for Only $149</u></a></li>
-<li><a href="https://win11.techidaily.com/discovering-ai-driven-tools-on-microsofts-platform/"><u>Discovering AI-Driven Tools on Microsoft's Platform</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-diagnosing-and-correcting-wireless-adapteraccess-point-malfunctions-in-10-steps/"><u>Expert Tips for Diagnosing and Correcting Wireless Adapter/Access Point Malfunctions in 10 Steps</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-s17-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo S17 Devices | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-can-you-swiftly-identify-required-flipbuilder-button-configurations/"><u>How Can You Swiftly Identify Required FlipBuilder Button Configurations?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/list-of-8-youtube-outlets-skyrocketing-in-viewership/"><u>List of 8 YouTube Outlets Skyrocketing in Viewership</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-art-of-adjusting-admin-settings-on-windows-11/"><u>Master the Art of Adjusting Admin Settings on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/reestablish-uninterrupted-gameplay-in-gaming-environment/"><u>Reestablish Uninterrupted Gameplay in Gaming Environment</u></a></li>
-<li><a href="https://win11.techidaily.com/sidestepping-error-code-0xa00f4243-for-multiple-camera-usage/"><u>Sidestepping Error Code: 0XA00F4243 for Multiple Camera Usage</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-unblocked-files-via-powershell-on-pc/"><u>Simplifying Unblocked Files via PowerShell on PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-for-implementing-gpt-nput-text-with-python/"><u>Step-by-Step Instructions for Implementing GPT-Nput Text with Python</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-hidden-net-identity-errors-windows/"><u>Tackling Hidden Net Identity Errors Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/the-shield-of-anonymity-network-file-security-on-windows/"><u>The Shield of Anonymity: Network File Security on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-vintage-pc-a-step-by-step-guide-to-windows-11-to-go-and-rufus/"><u>Transform Your Vintage PC: A Step-by-Step Guide to Windows 11, To Go & Rufus</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-experts-guide-to-effortless-video-submissions-on-igtv/"><u>[New] In 2024, The Expert's Guide to Effortless Video Submissions on IGTV</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-discovering-prime-frame-rates-for-top-tier-slow-motion-vids/"><u>[Updated] In 2024, Discovering Prime Frame Rates for Top-Tier Slow-Motion Vids</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-ultimate-oculus-rift-game-hits-of-the-season/"><u>[Updated] In 2024, Ultimate Oculus Rift Game Hits of the Season</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-live-action-sims-perfecting-your-videos-for-2024/"><u>[Updated] Live-Action Sims Perfecting Your Videos for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-current-insights-a-benefit-all/"><u>ChatGPT's Current Insights: A Benefit All</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/come-eclissare-il-tuo-hard-disk-con-partizioni-gpt-su-ssd-utilizzando-windows-passi-semplificati-per-windows-111087/"><u>Come Eclissare Il Tuo Hard Disk Con Partizioni GPT Su SSD Utilizzando Windows: Passi Semplificati per Windows 11/10/8/7</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-gui-add-folders-to-windows-11s-taskbar/"><u>Elevate Your GUI - Add Folders to Windows 11'S Taskbar</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/essential-strategies-boosting-your-dj-sites-visibility-with-top-pcdj-insights/"><u>Essential Strategies: Boosting Your DJ Site's Visibility with Top PCDJ Insights!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-c210-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia C210 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-hourly-high-stakes-views-yts-1-to-10-rankings/"><u>In 2024, Hourly High-Stakes Views YT's #1 to #10 Rankings</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-type-fixes-for-windows-11s-x80049dd3-error/"><u>Mastering the Art of Type Fixes for Windows 11'S X80049DD3 Error</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-enablingdisabling-regeditor-in-win11/"><u>Methods for Enabling/Disabling RegEditor in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-windows-11s-unwanted-apps-quickly/"><u>Navigate Through Windows 11'S Unwanted Apps Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-eradicate-error-80080300-in-windows-team-collaboration/"><u>Steps to Eradicate Error 80080300 in Windows Team Collaboration</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tech-tips-for-smoothing-out-your-minecraft-pc-playtime-latest-fixes/"><u>Tech Tips for Smoothing Out Your Minecraft PC Playtime - Latest Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-identifying-software-settlement-in-windows/"><u>The Art of Identifying Software Settlement in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-components-configuration-console-in-windows-explored/"><u>The Components Configuration Console in Windows Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essentials-of-managing-printers-in-windows-1011/"><u>The Essentials of Managing Printers in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-premier-list-of-windows-video-editors/"><u>The Premier List of Windows Video Editors</u></a></li>
 </ul></div>
 

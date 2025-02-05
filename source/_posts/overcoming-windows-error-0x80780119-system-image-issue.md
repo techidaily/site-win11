@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows Error: 0X80780119 System Image Issue"
-date: 2025-01-03T18:57:12.153Z
-updated: 2025-01-06T16:40:50.328Z
+date: 2025-02-01T01:16:37.597Z
+updated: 2025-02-04T05:34:29.332Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Are You Unable to Create a System Image?
 
  If you are unable to create a system image due to the error 0x80780119, it might be because of one or more of the following reasons:
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
  Regardless of what might be resulting in the problem in your case, the solutions we have listed below are sure to help you get the restore utility back on track. Proceed with the solutions one by one and follow the steps carefully for successful execution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Free Up Disk Space
@@ -54,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
  In case you have large files or folders that you do not want to remove but also don’t need immediately, you can consider moving them to an external drive to free up space.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check and Repair Disk Errors
@@ -77,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 
  If any issues are found, Windows will prompt you to repair them. Follow the on-screen instructions to proceed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Enable System Protection
 
  Several users also noticed that they were facing the problem due to the system protection feature being disabled for the targeted drive. If you have this option disabled in your system, we suggest enabling it and checking if that makes any difference.
@@ -89,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 ![Click on the System protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-protection-options.jpg)
 4. In the following dialog, head over to the **System Protection** tab.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Choose the targeted drive and click on the **Configure** button.  
 ![Click on the Configure button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/configure-button.jpg)
 6. Enable the **Turn on system protection** option and click **Apply** \> **OK** to save the changes.  
@@ -100,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 ![Enable system protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-system-protection.jpg)
 
  You can now close the System Protection dialog and check if the issue is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Delete USN Journal
 
@@ -128,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
  After the commands are executed, you can close Command Prompt and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a Backup Without Any More Errors on Windows
@@ -147,16 +147,24 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-faster-adjustment-of-youtube-videos-for-mac-pixels-for-2024/"><u>[Updated] Faster Adjustment of YouTube Videos for Mac Pixels for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-discover-the-leading-8-free-3d-videos-players-for-windowsmac-os/"><u>[Updated] In 2024, Discover the Leading 8 FREE 3D Videos Players for Windows/Mac OS</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-whats-encrypted-exploring-the-role-of-facebooks-blue-icon/"><u>2024 Approved What's Encrypted Exploring the Role of Facebook's Blue Icon?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/a-tweet-to-snap-showcase-video-posting-techniques-for-2024/"><u>A Tweet-to-Snap Showcase Video Posting Techniques for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-maximize-story-exposure-with-linked-fb-profile/"><u>In 2024, Maximize Story Exposure with Linked FB Profile</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-powering-up-your-action-footage-one-gadget-at-a-time/"><u>In 2024, Powering Up Your Action Footage, One Gadget at a Time</u></a></li>
-<li><a href="https://win11.techidaily.com/perfect-pixel-patterns-for-each-monitor-in-windows-11/"><u>Perfect Pixel Patterns for Each Monitor in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/safeguarding-windows-daily-data-backup-necessity/"><u>Safeguarding Windows: Daily Data Backup Necessity</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-admin-access-denied-message-in-windows-security/"><u>Tackling Admin Access Denied Message in Windows Security</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-crash-course-in-surf-cameras-2e3/"><u>The Crash Course in Surf Cameras (2E3)</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-microsoft-store-access-effective-workarounds/"><u>Unlock Microsoft Store Access: Effective Workarounds</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capturing-the-moment-a-practical-guide-to-google-meetings-screen-recordings/"><u>[New] 2024 Approved Capturing the Moment A Practical Guide to GooGle Meetings' Screen Recordings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-analyzing-lightroom-for-mobile-a-detailed-exploration/"><u>[New] Analyzing Lightroom for Mobile A Detailed Exploration</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-astral-expressions-top-30-bios-to-boost-your-signs-charm/"><u>[New] Astral Expressions Top 30 Bios to Boost Your Sign's Charm</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlined-approaches-for-zoom-utility-on-chromebook/"><u>[Updated] Streamlined Approaches for Zoom Utility on Chromebook</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bypassing-common-windows-11-glitches-with-working-headphones/"><u>Bypassing Common Windows 11 Glitches with Working Headphones</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/convert-sharepoint-videos-to-mp4-and-avi-formats-download-guide-for-pc-and-mac/"><u>Convert SharePoint Videos to MP4 & AVI Formats - Download Guide for PC & Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-widget-integration-in-windows-11/"><u>Cutting-Edge Widget Integration in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-solutions-to-bypass-disallowed-logins-on-windows/"><u>Effective Solutions to Bypass Disallowed Logins on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-dev-drive-essential-setup-for-windows-11-programmers/"><u>Exploring Dev Drive: Essential Setup for Windows 11 Programmers</u></a></li>
+<li><a href="https://win11.techidaily.com/ftdibussys-and-windows-the-integrity-disruption-scenario/"><u>Ftdibus.sys & Windows: The Integrity Disruption Scenario</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-correcting-windows-camera-app-error-code-0xa00f429f/"><u>Guide to Correcting Windows Camera App Error Code 0xA00F429F</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-windows-11-users-on-restarting-mobile-hotspots/"><u>Guiding Windows 11 Users on Restarting Mobile Hotspots</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-x6-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from X6?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-13-pro-max-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone 13 Pro Max? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-to-tackle-error-code-0x0000004e/"><u>Quick Fixes to Tackle Error Code 0X0000004E</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagine-productivity-select-7-innovative-window-11-widgets/"><u>Reimagine Productivity: Select 7 Innovative Window 11 Widgets</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-graphics-card-info-windows-11-edition/"><u>Unlocking Graphics Card Info: Windows 11 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-psvr2-secrets-a-comprehensive-guide-on-pricing-launch-dates-and-tech-features/"><u>Unraveling PSVR2 Secrets: A Comprehensive Guide on Pricing, Launch Dates, and Tech Features</u></a></li>
 </ul></div>
 

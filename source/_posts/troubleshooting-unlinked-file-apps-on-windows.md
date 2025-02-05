@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unlinked File Apps on Windows
-date: 2025-01-19T01:57:17.940Z
-updated: 2025-01-24T20:56:55.788Z
+date: 2025-01-28T22:05:05.803Z
+updated: 2025-02-04T04:19:17.075Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![Windows Suggesting Some Apps to Open the Image File in PNG Format](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-suggesting-some-apps-to-open-the-image-file-in-png-format.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If that's the case, simply go to any of your browsers, search for Windows apps that can run files in that format, and download them. After downloading the appropriate app, make it the default for opening this file type.
 
 ## 2\. Set the Default Application for the File Type
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
  If you haven't changed a default app before, check out our article on[Windows 11 default apps](https://www.makeuseof.com/change-windows-11-default-apps/) . The article discusses various ways to change the default app, but we recommend using the second method, which is using the Settings app. That's because this method lets you search for specific file formats and choose a default app for them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Is the Default App Already Selected? Repair or Change It
 
  If the app you intend to set as default for a particular file format is already selected as a default application, but Windows still displays this error, the app has likely become corrupt, thus causing the error.
@@ -59,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
  To rule out this possibility, you should run the App troubleshooter, update the problematic app, reset its cache, or repair and reset it. You can find instructions for performing these steps in our[g](https://www.makeuseof.com/apps-arent-working-properly-windows/) uide for[fixing apps that don't work on Windows](https://www.makeuseof.com/apps-arent-working-properly-windows/) .
 
  Try these steps to see if they fix the problem. If the issue persists after that, we recommend you reinstall the app or select a different one as the default. If you don't have a different app installed on your device that supports these files, install one that does.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Check for Specific File Issues
 
@@ -69,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
  Misconfiguring the Registry settings can result in undesirable outcomes and even render your device unbootable. Before you try the next fix, create a[backup of the Windows Registry so you can restore it](https://www.makeuseof.com/tag/backup-restore-windows-registry/) if something goes wrong.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use the Registry
@@ -79,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 1. Type**"regedit"** in Windows Search and open the**Registry Editor** .  
 ![Open Registry Editor App From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-1.jpg)
 2. Paste the path below into the address bar of Registry Editor.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Computer\HKEY_CLASSES_ROOT\lnkfile
 3. Select the**Inkfile** key. Then, look in the right pane and see if there is a string value called**"IsShortcut** .**"**  
@@ -95,11 +103,11 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 ![Select Delete by Right-clicking on the String Value in Windows Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7.jpg)
 6. After that, follow step four to recreate it. Don't forget to rename it appropriately so you don't encounter any issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Restart your device once after that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Do You Encounter the Error When Opening Folders? Follow These Tips
 
@@ -108,10 +116,6 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 * Restart File Explorer (see[how to restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) for tips).
 * If you're opening a folder by searching it in Windows Search or Quick Access, consider opening it directly from File Explorer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do You Encounter the Error When Opening Apps or Games? Try These Tips
 
  If you get the "This file does not have an app associated with it" error when opening an app or game, perform the following checks:
@@ -119,10 +123,6 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 * If you're using a shortcut to open games, especially the ones installed in a gaming client, open them from the gaming client or the installation directory.
 * In case the game launcher requires you to log in before playing any of the installed games, ensure you do so.
 * If you're experiencing this error in a specific game or app, ensure its files haven't been corrupted.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Easily Open Your Apps, Files, and Folders Again on Windows
 
@@ -143,20 +143,18 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-layout-layers-a-guide-to-organizing-online-videos/"><u>[New] In 2024, Layout Layers A Guide to Organizing Online Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-uncomplicated-blueprint-for-crafting-successful-ads-online/"><u>[New] Uncomplicated Blueprint for Crafting Successful Ads Online</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-internal-device-recorder-to-capture-screens-on-mate-1020-and-p-series-phones-p2010/"><u>[Updated] 2024 Approved Internal Device Recorder to Capture Screens on Mate 10/20 & P Series Phones (P20/10)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-becoming-an-instagram-reel-prodigy/"><u>[Updated] Becoming an Instagram Reel Prodigy</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/elevate-your-instagram-shots-with-strategic-borders/"><u>Elevate Your Instagram Shots With Strategic Borders</u></a></li>
-<li><a href="https://article-tips.techidaily.com/expert-filmmakers-picks-best-windows-video-editors-compared-for-2024/"><u>Expert Filmmaker's Picks Best Windows Video Editors Compared for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-access-denied-windows-issues-quickly-and-efficiently/"><u>Fixing Access Denied Windows Issues Quickly and Efficiently</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-strategies-to-boost-your-facebook-pages-popularity-meter/"><u>In 2024, Strategies to Boost Your Facebook Page's Popularity Meter</u></a></li>
-<li><a href="https://win11.techidaily.com/mitigating-issues-with-failed-updater-for-win11-v22h2-version/"><u>Mitigating Issues with Failed Updater for WIN11 V22H2 Version</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-access-blockage-issues-with-these-win-strategies/"><u>Resolving Access Blockage Issues with These Win Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essence-and-differences-of-artificial-intelligence-tech/"><u>The Essence and Differences of Artificial Intelligence Tech</u></a></li>
-<li><a href="https://win11.techidaily.com/where-are-the-blue-screen-of-death-log-files-located-in-windows-heres-how-to-read-them/"><u>Where Are the Blue Screen of Death Log Files Located in Windows? Here's How to Read Them</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/win-recover-master-lost-data-retrieval/"><u>WIN-RECOVER: Master Lost Data Retrieval</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-idle-management-how-to-schedule-system-shutdown/"><u>Win11 Idle Management: How to Schedule System Shutdown</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-master-the-art-of-photo-editing-unveiling-pixlrs-power/"><u>[New] Master the Art of Photo Editing Unveiling Pixlr's Power</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-the-best-top-10-online-yoga-classrooms-for-fitness-enthusiasts/"><u>[Updated] Mastering the Best Top 10 Online Yoga Classrooms for Fitness Enthusiasts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-megadatasky-affordable-space-for-big-files-for-2024/"><u>[Updated] MegaDataSky - Affordable Space for Big Files for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-free-dvd-rippers-showdown-evaluating-the-pros-and-cons-of-handbrake-versus-winx-dvd-ripper/"><u>Best Free DVD Rippers Showdown: Evaluating the Pros & Cons of HandBrake versus WinX DVD Ripper</u></a></li>
+<li><a href="https://win11.techidaily.com/delaying-windows-10-close-out-keep-running-programs-active/"><u>Delaying Windows 10 Close-Out: Keep Running Programs Active</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-into-data-reducing-high-cpu-usage-with-resource-monitor/"><u>Dive Into Data: Reducing High CPU Usage with Resource Monitor</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/eyeview-assessment-surpassing-manycams-standards-for-2024/"><u>EyeView Assessment Surpassing ManyCam's Standards for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-effortlessly-set-up-chatgpt-on-linux-the-bavarder-method-unveiled/"><u>How to Effortlessly Set Up ChatGPT on Linux: The Bavarder Method Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-recover-lost-render-driver-in-overwatch-2/"><u>How to Recover Lost Render Driver in Overwatch 2</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-tecno-camon-30-pro-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Tecno Camon 30 Pro 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-error-sevenzeronine/"><u>Tackling Windows Error SevenZeroNine</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rt-of-subdivision-how-to-efficiently-incorporate-chapters-in-your-youtube-vids-for-2024/"><u>The Art of Subdivision How to Efficiently Incorporate Chapters in Your YouTube Vids for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-applications-of-vcplusplus-release/"><u>Unveiling the Applications of VC++ Release</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Sudo and Windows: A Symbiotic Relationship Unveiled"
-date: 2025-01-20T06:10:21.064Z
-updated: 2025-01-24T17:02:02.753Z
+date: 2025-01-28T00:57:00.868Z
+updated: 2025-02-04T03:33:44.306Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  This means that the sudo command is roughly equivalent to right-clicking on the Command Prompt app, selecting **Run as administrator**, and running a command, like `do_something`. With the help of the sudo command, you don't need to worry about remembering to run the Command Prompt as administrator. Instead, simply type `sudo do_something`, and the command will work in exactly the same way.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Windows Versions Can Run the sudo Command?
@@ -52,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  Microsoft is adding the sudo command to Windows 11, and considering that support for Windows 10 is winding down, we don't expect to see the command coming there anytime soon. At the time of writing, the sudo command is only available for Windows Insider participants (builds 26045 and later), specifically those on the Developer and [Windows Canary channels](https://www.makeuseof.com/what-is-windows-insider-canary-channel/).
 
  Unlike some features that Microsoft tests in these versions, it seems fairly likely that sudo is going to arrive on the operating system soon.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Enable the sudo Command on Windows
 
@@ -68,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 ![Enabling sudo on Window in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/enabling-sudo-on-window-in-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Enable sudo via the Command Prompt
@@ -82,7 +74,11 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 ![Enabling sudo on Windows via PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/enabling-sudo-on-windows-via-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the sudo Command on Windows
@@ -95,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 `
 
 ![Running a command on Windows via sudo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/running-a-command-on-windows-via-sudo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This feature may seem a tad unnecessary—and for many people, it is. That said, if you spend your day running command after command on Windows and wish for the simplicity of the sudo command, its addition will make your life easier.
 
@@ -112,19 +112,20 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-rapid-fire-creation-of-google-collage-photos/"><u>[Updated] Rapid-Fire Creation of Google Collage Photos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cutting-edge-cameras-top-15-picks-innovation/"><u>Cutting-Edge Cameras Top 15 Picks Innovation</u></a></li>
-<li><a href="https://win11.techidaily.com/does-your-system-qualify-for-next-gen-windows-11/"><u>Does Your System Qualify for Next-Gen Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/guiding-users-to-restore-window-11-search-functions/"><u>Guiding Users to Restore Window 11 Search Functions</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-rectify-erroneous-cpu-usage-displayed-by-windows-pc/"><u>How to Rectify Erroneous CPU Usage Displayed by Windows PC</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-when-your-iphone-displays-sos-on-the-status-bar-top-solutions/"><u>How to Troubleshoot When Your iPhone Displays 'SOS' On the Status Bar - Top Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/htc-vive-a-gateway-to-extraordinary-virtual-realms-for-2024/"><u>HTC Vive A Gateway to Extraordinary Virtual Realms for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-poco-x6-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Poco X6 Phones with/without a PC</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-display-problem-w11-error-code-x0001/"><u>Mending Display Problem: W11 Error Code X0001</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-fatal-0xf0831-problem-with-ease/"><u>Overcoming Windows' Fatal 0XF0831 Problem with Ease</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unpacking-the-pioneer-bdr-xd05b-key-drawbacks-in-its-blue-ray-burning-system-revealed/"><u>Unpacking the Pioneer BDR-XD05B - Key Drawbacks in Its Blue-Ray Burning System Revealed!</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-device-checkup-the-essential-five-ways-to-monitor-availability/"><u>Windows 11 Device Checkup: The Essential Five Ways to Monitor Availability</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ourney-through-virtuality-youtubes-best-10/"><u>[New] Journey Through Virtuality YouTube's Best 10</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-art-of-persuasion-on-facebook-a-beginners-and-expert-playbook-for-2024/"><u>[New] The Art of Persuasion on Facebook A Beginner’s & Expert Playbook for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-navigating-the-landscape-smm-best-practices/"><u>2024 Approved Navigating the Landscape SMM Best Practices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-edge-2023-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Edge 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-android-studio-speed-and-productivity-on-windows/"><u>Elevate Android Studio Speed and Productivity on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-lsa-offline-security-alarm-in-windows/"><u>Eradicating LSA Offline Security Alarm in Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/expertise-in-spotify-advertising-a-playbook-guide/"><u>Expertise in Spotify Advertising A Playbook Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/from-yesterdays-tech-to-todays-trendsetter-implementing-windows-11-on-legacy-pcs/"><u>From Yesterday's Tech to Today's Trendsetter - Implementing Windows 11 on Legacy PCs</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209971437-9781989838136-guided-meditations-for-deep-sleep-overcoming-anxiety-and-stress-relief/"><u>Guided Meditations For Deep Sleep, Overcoming Anxiety and Stress Relief | Free Book</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-samsung-galaxy-f04-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Samsung Galaxy F04 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-vocal-visions-instructions-for-posting-songs-on-youtube/"><u>In 2024, Vocal Visions Instructions for Posting Songs on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11-install-on-no-wi-fi/"><u>Navigating Windows 11 Install on No Wi-Fi</u></a></li>
+<li><a href="https://win11.techidaily.com/quench-the-high-contrast-flame-in-windows-display/"><u>Quench the High Contrast Flame in Windows Display</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-common-office-crash-on-windows-xpvista/"><u>Remedying Common Office Crash on Windows XP/Vista</u></a></li>
+<li><a href="https://win11.techidaily.com/the-foundation-of-victory-in-the-world-of-diablo/"><u>The Foundation of Victory in the World of Diablo</u></a></li>
 </ul></div>
 

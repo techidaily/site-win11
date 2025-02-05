@@ -1,7 +1,7 @@
 ---
 title: Managing System Resources for Effective Remote Device Operations
-date: 2025-01-21T06:37:08.549Z
-updated: 2025-01-25T09:02:00.565Z
+date: 2025-01-29T20:34:00.525Z
+updated: 2025-02-04T05:35:26.470Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disable Connected Devices Platform User Service
 
  The simplest way to stop Connected Devices Platform User Service from using too much RAM is to disable it. However, this might cause some unexpected behavior on your computer. And if that happens, you can always enable it again.
@@ -42,10 +38,14 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 ![the-connected-device-platform-user-service-properties-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/the-connected-device-platform-user-service-properties-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, check Task Manager to see if the service is still consuming too much RAM.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Remove the ActivitiesCache.db file
 
@@ -53,18 +53,18 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
 ![navigating-to-the-connecteddevicesplatform-folder-in-windows-run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/navigating-to-the-connecteddevicesplatform-folder-in-windows-run.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This will open the **ConnectedDevicesPlatform** folder. You'll see several files and folders in there, so open each of the folders and delete the **ActivitiesCache.db** file in all of them.
 
 ![the-activitiescab-file-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/the-activitiescab-file-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you do, restart your computer and see if Connected Devices Platform User Service is still causing RAM consumption issues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check for Issues With Your Computer's Hardware
@@ -72,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
  Sometimes, the problem could arise due to one of your connected devices experiencing a problem. To check if your connected devices are functioning properly, open Device Manager by pressing **Win + R**, enter **devmgmt.msc** in the text box, and then hit the **Enter** key on your keyboard.
 
 ![devmgmt.msc in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/devmgmt-msc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In Device Manager, double-click the device you suspect is causing issues. This will open its properties window.
 
@@ -86,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
  If it doesn't, you will see an error message and a code. Take note of both so you can start troubleshooting the problem. You can start by using [one of the troubleshooters on Windows](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) to check for and fix the hardware problem you're seeing.
 
  If all the steps above don't work then you might need to [use a system restore point](https://www.makeuseof.com/use-system-restore-windows/) that you created before it started using too much RAM. And if that doesn't work as well, you might have to reset your Windows computer
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Free Your RAM From Connected Devices Platform User Service
 
@@ -103,24 +103,14 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-quickly-craft-perfect-subtitles-and-captions-for-facebook-video-feeds/"><u>[New] 2024 Approved How To Quickly Craft Perfect Subtitles and Captions for Facebook Video Feeds</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-highlights-download-methods-and-creating-tips/"><u>[New] 2024 Approved Instagram Highlights Download Methods and Creating Tips</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-seamless-integration-utilizing-instagrams-music-stickers-expertise/"><u>[Updated] 2024 Approved Seamless Integration Utilizing Instagram's Music Stickers Expertise</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-swiftly-flip-your-iphone-video-clips/"><u>[Updated] In 2024, Swiftly Flip Your iPhone Video Clips</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-dive-deep-with-these-6-extraordinary-metaverse-models/"><u>2024 Approved Dive Deep with These 6 Extraordinary Metaverse Models</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-code-0x887a0006-for-gpu-stalls-windows/"><u>Addressing Code 0X887A0006 for GPU Stalls Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-and-fixing-the-perplexing-windows-net-error-0x800704b3/"><u>Deciphering and Fixing the Perplexing Windows Net Error 0X800704B3</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-stacked-elements-at-pcs-action-bar/"><u>Fixing Stacked Elements at PC's Action Bar</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-unveiling-and-managing-windows-10-actions/"><u>Guide to Unveiling & Managing Windows 10 Actions</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-use-windows-11s-sticky-notes-on-all-your-devices/"><u>How to Use Windows 11'S Sticky Notes on All Your Devices</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-13-pro-max-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone 13 Pro Max iCloud Bypass</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-speedrunning-in-subway-surfers-with-these-pro-tips-7-16/"><u>Mastering Speedrunning in 'Subway Surfers' With These Pro Tips #7-#16</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivating-a-dormant-wired-controller-on-windows-pc/"><u>Reactivating a Dormant Wired Controller on Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-the-application-was-unable-to-start-in-win1011/"><u>Solving The Application Was Unable to Start in Win10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/tactics-for-detecting-missing-disk-on-windows/"><u>Tactics for Detecting Missing Disk on Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-essential-vimeo-video-editor-tutorial-achieve-stellar-results-with-our-expert-editing-techniques/"><u>The Essential Vimeo Video Editor Tutorial - Achieve Stellar Results with Our Expert Editing Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-6-troubleshooting-steps-for-unpairing-issues-with-your-apple-watch/"><u>Top 6 Troubleshooting Steps for Unpairing Issues with Your Apple Watch</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-window-glow-on-windows-11-computers/"><u>Transforming Window Glow on Windows 11 Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/unclutter-your-taskbar-separate-groups/"><u>Unclutter Your Taskbar: Separate Groups</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-photoshop-grading-made-simple-for-everyone-for-2024/"><u>[New] Photoshop Grading Made Simple for Everyone for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-premium-selection-top-8-tripods-for-clear-4k-videos-for-2024/"><u>[Updated] Premium Selection Top 8 Tripods for Clear 4K Videos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-beyond-excavating-the-best-vr-treadmill-experiences/"><u>2024 Approved A Step Beyond Excavating the Best VR Treadmill Experiences</u></a></li>
+<li><a href="https://win11.techidaily.com/convert-websites-into-functional-windows-applications/"><u>Convert Websites Into Functional Windows Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/dial-up-desktop-aesthetics-raising-taskbar-images-in-win11/"><u>Dial-Up Desktop Aesthetics - Raising Taskbar Images in Win11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722962965398-expert-guide-smooth-installation-of-latest-epson-drivers-on-windows-systems/"><u>Expert Guide: Smooth Installation of Latest Epson Drivers on Windows Systems.</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-failed-remote-connections-on-pc/"><u>How to Reactivate Failed Remote Connections on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-your-window-11-experience-with-dynamic-backdrops/"><u>Personalize Your Window 11 Experience with Dynamic Backdrops</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-to-enhanced-control-with-the-newest-steelseries-driver-download/"><u>Upgrade to Enhanced Control with the Newest SteelSeries Driver Download</u></a></li>
 </ul></div>
 

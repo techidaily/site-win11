@@ -1,7 +1,7 @@
 ---
 title: "Expert Commands: Locating & Correcting Windows Errors via the Command Line"
-date: 2024-08-08T13:18:58.423Z
-updated: 2024-08-09T13:18:58.423Z
+date: 2025-01-31T16:25:43.789Z
+updated: 2025-02-03T20:47:57.990Z
 tags:
   - windows10
   - windows11
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/04735b88e1441114a8925bb5e15d2369f293d2c3a
 
  Below, we have discussed different ways of using Command Prompt to look up Windows error codes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### 1\. Use the NET HELPMSG Command
 
  The NET HELPMSG command helps convert error codes into strings, which you can use to find relevant solutions for the problem. However, this command can only help you with system error codes, which are specific numerical values. This means you cannot use it for BSOD errors like the INACCESSIBLE\_BOOT\_DEVICE error.
@@ -44,9 +41,6 @@ Here is how you can use this command:
 `NET HELPMSG <error code>`
 5. For instance, if the error code you want lookup is 8242, your command will be:  
 `NET HELPMSG 8242​​​`  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Execute the net helpmsg command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/net-helpmsg-error.jpg)
 
  Once you have the details on the error code, you can either look for solutions online or jump to the solutions listed later in this guide.
@@ -64,11 +58,16 @@ Here is how you can use it:
 `CertUtil /error 0x80070002​​​​`  
 ![Execute the entered command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/certutil-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You should now be presented with a description of the error message. You can use this detail to identify the culprit and eliminate it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Access the Event Viewer
 
  When you encounter an error on Windows, a log file for the error is created in the Event Viewer. This log file contains the details of the event, including the time and date it occurred, the error code associated with it, and the source of the event.
@@ -82,18 +81,15 @@ Here is how you can use it:
  Here are some common ways you can use the Command Prompt to diagnose and resolve various issues with your Windows operating system.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Fix Any Corruption Errors
 
  There are a number of problems that may result from corruption errors and bugs within the operating system, such as frequent crashes and freezes, boot problems, data loss, and slow performance.
 
  The easiest way to fix such issues is by[running the built-in SFC and DISM tools](https://www.makeuseof.com/windows-built-in-repair-tools/) via Command Prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run SFC and DISM scans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/scannow-restorehealth-cmd-1.jpg)
 
  SFC or the System File Checker works by scanning the protected system files to check their integrity. It will compare the files to a stable version stored in the Windows component store or the installation media. If a problem with the file is identified, the utility will automatically replace the file with its healthier counterpart and generate a report based on it.
@@ -105,6 +101,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 `findstr /c:"[SR]" %windir%\logs\cbs\cbs.log >"%userprofile%\Desktop\sfcdetails.txt`
 
  Doing so will create a log file named sfcdetails.txt on your desktop, listing all the issues found during the scan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Uninstall Windows Updates
 
@@ -120,9 +120,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 `wusa /uninstall /kb:<HotFixID>`
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Uninstall the update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-update-cmd.jpg)
 
 ### 3\. Fix Boot Issues
@@ -135,9 +132,6 @@ Here is how you can do that:
 
 1. [Boot into WinRE](https://www.makeuseof.com/ways-to-boot-into-the-windows-recovery-environment/) and head over to Repair your computer.
 2. Navigate to**Troubleshoot** \>**Advanced options** .  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 3. Choose**Command Prompt** from the list of options available.
 4. Once you are in the Command Prompt window, execute the following commands:  
@@ -146,20 +140,21 @@ Here is how you can do that:
 6. Once all the commands are executed, you can exit Command Prompt by typing exit and hitting Enter.
 7. Restart your computer, and you should be able to boot into Windows successfully!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Command Prompt to the Rescue
 
  Having knowledge of certain Windows tools can come in handy when dealing with various computer-related issues. One such utility that can help you find solutions is Command Prompt and knowing how to use it can save you both time and frustration.
 
  We highly recommend backing up your essential data before making any changes to your operating system, just to be safe. With a little patience and some troubleshooting skills, you can get rid of annoying Windows errors for good.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,4 +163,26 @@ Here is how you can do that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-captivate-masses-social-media-strategies-for-youtube/"><u>[New] 2024 Approved Captivate Masses Social Media Strategies for YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-amuse-others-via-adobe-meme-making/"><u>[New] Amuse Others via Adobe Meme-Making</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-power-of-pausing-incorporating-effective-chapters-in-your-youtube-series/"><u>[Updated] 2024 Approved The Power of Pausing Incorporating Effective Chapters in Your YouTube Series</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-power-of-tags-boost-traffic-with-top-genres-and-keywords/"><u>[Updated] 2024 Approved The Power of Tags Boost Traffic with Top Genres & Keywords</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-secrets-unlocked-convenient-google-meet-arrangement/"><u>2024 Approved Secrets Unlocked Convenient Google Meet Arrangement</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-productivity-through-win11-workspace-customization/"><u>Enhancing Productivity Through Win11 Workspace Customization</u></a></li>
+<li><a href="https://win-top.techidaily.com/gratuit-mp4-vers-asf-en-direct-guide-complet-avec-movavi/"><u>Gratuit MP4 Vers ASF en Direct: Guide Complet Avec Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/harness-your-windows-10-key-top-value-strategies/"><u>Harness Your Windows 10 Key: Top Value Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-intellij-unison-run-smoothly-on-win11/"><u>How to Make IntelliJ Unison Run Smoothly on Win11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-vivo-v30-lite-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo V30 Lite 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-stealthy-toolbar-additions-in-win-1011/"><u>Mastering Stealthy Toolbar Additions in Win 10/11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pixelated-past-x-era-selfies-with-iphone-x-for-2024/"><u>Pixelated Past X-Era Selfies with iPhone X for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrect-your-keys-troubleshoot-win10-keyboard-problems/"><u>Resurrect Your Keys: Troubleshoot WIN10 Keyboard Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-overcome-the-windows-11-v22h2-update-hurdle/"><u>Techniques to Overcome the Windows 11 V22H2 Update Hurdle</u></a></li>
+<li><a href="https://win11.techidaily.com/triumph-over-uptime-failure-solving-error-code-0x80246007-in-win11/"><u>Triumph over Uptime Failure: Solving Error Code 0X80246007 in Win11</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-enhancing-utorrents-downloading-efficiency/"><u>Troubleshooting and Enhancing uTorrent's Downloading Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-solution-for-error-code-3-with-nvidia-windows/"><u>Unveiling the Solution for Error Code 3 with NVIDIA, Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-tricks-of-fraudgpt-safeguarding-measures/"><u>Unveiling the Tricks of FraudGPT - Safeguarding Measures</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-unbundled-outstanding-non-native-software/"><u>Win 11 Unbundled: Outstanding Non-Native Software</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Disk Read/Write Errors in Win11
-date: 2025-01-18T16:39:22.758Z
-updated: 2025-01-24T18:55:28.304Z
+date: 2025-01-28T16:11:53.603Z
+updated: 2025-02-03T23:52:34.523Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the SFC and DISM Command Line Tools
@@ -62,19 +62,7 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![The troubleshooter list in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-apps-troubleshooter1.jpg)
 5. Apply any suggestions the troubleshooter provides.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-app-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Check That the Windows License Manager Service Is Running
 
@@ -89,12 +77,12 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![The Windows License Manager server window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-license-service-manager.jpg)
 5. If the service isn’t running, press**Start** within the properties window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select**Apply** to save settings for the Windows License Manager Service.
 7. Click**OK** to close the Windows License Manager Service Properties window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Reinstall Any Affected App
 
@@ -104,11 +92,11 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 ![Apps & features in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/apps-features-window.jpg)
 
- When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
 
 ## 6\. Set Up a New Local User Account on Windows
 
@@ -117,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
  Our guide on[how to fix Windows issues by creating new accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) includes full instructions for how to apply this solution.
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Restore Windows to an Earlier Date
 
@@ -128,11 +120,19 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
  However, restoring Windows to a previous time removes software not installed on the restoration point’s date. So, it’s likely you’ll have to reinstall some apps after rolling back Windows. Clicking**Scan for affected programs** in System Restore provides an overview of software that will be removed for a restore point.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Reset Windows
 
  This final system file error solution is the most drastic of all since it amounts to reinstalling Windows 10 or 11\. Factory resetting restores Windows to a default system state, which can fix many errors caused by registry, third-party software, and system file issues. If you can’t fix a system file error with any other potential fix in this guide, then resetting is the last thing to try.
 
  Windows 11 and 10 have a Reset this PC tool that makes it easy to factory reset the platform. That tool also includes an option that enables you to keep user files in the process. Our guide on[how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) includes instructions for applying this potential resolution with this tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get File System Errors Sorted in Windows
 
@@ -153,17 +153,16 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/outube-profitability-blueprint-determining-key-view-counts-for-2024/"><u>[New] YouTube Profitability Blueprint Determining Key View Counts for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-a-successful-mukbang-video-journey/"><u>[Updated] In 2024, Crafting a Successful Mukbang Video Journey</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-reloading-the-dead-ranking-eminent-zombie-games/"><u>2024 Approved Reloading the Dead Ranking Eminent Zombie Games</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-stepwise-approach-for-professional-screen-recordings-in-adobe-captive/"><u>2024 Approved Stepwise Approach for Professional Screen Recordings in Adobe Captive</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/checking-the-current-status-of-xbox-live-servers-is-everything-running-smoothly/"><u>Checking the Current Status of Xbox Live Servers: Is Everything Running Smoothly?</u></a></li>
-<li><a href="https://win11.techidaily.com/decode-delay-quick-fixes-for-overcoming-windows-setup-stalls/"><u>Decode Delay: Quick Fixes for Overcoming Windows Setup Stalls</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/effortlessly-switch-between-formats-top-methods-for-mp4-to-m4v-conversion-on-pc-and-mac-no-cost-involved/"><u>Effortlessly Switch Between Formats: Top Methods for MP4 to M4V Conversion on PC and MAC - No Cost Involved</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/get-free-kid-friendly-song-downloads-from-youtube-easily/"><u>Get Free Kid-Friendly Song Downloads From YouTube Easily</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-m34-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy M34 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/reconnect-and-revive-windows-11-bt-audio-devices/"><u>Reconnect and Revive Windows 11 BT Audio Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-prevent-taskbar-hiding-on-max-display/"><u>Strategies to Prevent Taskbar Hiding on Max Display</u></a></li>
-<li><a href="https://win11.techidaily.com/unblocking-an-applications-path-in-windows-marketplace/"><u>Unblocking an Application's Path in Windows Marketplace</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-best-software-a-gamers-livestream-compendium/"><u>[New] In 2024, Best Software A Gamers' Livestream Compendium</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-challenges-leading-web-browser-with-unsettling-marketing-campaign-discover-more/"><u>Apple Challenges Leading Web Browser with Unsettling Marketing Campaign: Discover More</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-on-dealing-with-intermittent-freezes-in-rocket-league-gaming-experience/"><u>Expert Advice on Dealing with Intermittent Freezes in Rocket League Gaming Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fine-tune-viewing-the-ultimate-zoom-journey/"><u>Fine-Tune Viewing The Ultimate Zoom Journey</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-failed-task-execution-in-windows-with-error-0x8007000f/"><u>How to Fix the Failed Task Execution in Windows with Error 0X8007000f</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-quickly-setup-games-via-xbox-for-pc/"><u>How to Quickly Setup Games via Xbox for PC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-sculptive-strategies-in-creating-striking-fb-video-ads/"><u>In 2024, Sculptive Strategies in Creating Striking Fb Video Ads</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-printer-removal-on-windows-1011/"><u>Mastering Printer Removal on Windows 10/11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210004461-9781761035241-reiki-for-beginners/"><u>Reiki For Beginners | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-recover-missing-alerts-from-phone-link-app/"><u>Solutions to Recover Missing Alerts From Phone Link App</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-geforce-now-error-code-xc0f1103f-on-pcs/"><u>Solving GeForce Now Error Code XC0F1103F on PCs</u></a></li>
 </ul></div>
 

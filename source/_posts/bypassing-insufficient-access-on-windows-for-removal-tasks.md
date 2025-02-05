@@ -1,7 +1,7 @@
 ---
 title: Bypassing Insufficient Access on Windows for Removal Tasks
-date: 2024-07-29T15:56:12.114Z
-updated: 2024-07-30T15:56:12.114Z
+date: 2025-02-02T17:34:35.407Z
+updated: 2025-02-04T02:59:52.355Z
 tags:
   - windows10
   - windows11
@@ -27,16 +27,18 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
  Alternatively, you can switch a current standard user account to an admin one. Check out this guide to [changing Windows account types](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) for full instructions about how to do so.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Run the Affected Software’s Uninstaller File as an Administrator
 
  Also, run the software’s uninstaller file as an administrator. The software’s installation directory will include its uninstaller file. Right-click that file to select a **Run as administrator** context menu option.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-as-administrator-option5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Troubleshoot With the Program Install and Uninstall Troubleshooter
 
@@ -49,23 +51,14 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 4. Click on **Next** \> **Uninstalling** to bring up a program list.  
 ![The Uninstalling option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstalling-option.jpg)
 5. Then select the program you can’t uninstall and select **Next**.  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Program Install and Uninstall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/program-list.jpg)
 
 ## 4\. Turn Off User Account Control
 
  The “You do not have sufficient access to uninstall” error can sometimes arise because User Account Control is set to high. So, try temporarily turning UAC off before uninstalling the affected software. Our guide on [disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) tells you how to turn off UAC.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![The User Account Control settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/user-account-control.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 5\. Set Full Control Permissions for the Software’s Installation Folder
 
  You might need to fix this error because the full user control permission setting isn’t set for the software installation’s folder. So, check the control permission settings for the software installation folder. This is how you can set full control permission for a folder:
@@ -74,19 +67,22 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 2. Right-click on the installation folder and select **Properties**.  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/properties-option3.jpg)
 3. Click **Edit** on the **Security** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select your user account name.
 5. Click the **Full control** checkbox to select that setting if it’s not already.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-control-window.jpg)
 6. Then select **Apply** \> **OK** on the folder’s permissions window.
 7. Select **OK** to exit the properties window.
 8. Repeat the above instructions for the program’s EXE (application) file.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Uninstall the Software With an UninstallString Value
 
  Some users have resolved this error by uninstalling the affected software packages with their UninstallString values. You can do that by copying and pasting the UninstallString value for a program from the registry into the Command Prompt. These are the steps for uninstalling software with an UninstallString value:
@@ -105,12 +101,12 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 ![The Edit String window for the UninstallString](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-string-window3.jpg)
 4. Open Command Prompt as an admin (See [how to open Command Prompt with admin permissions](https://www.makeuseof.com/windows-run-command-prompt-admin/)).
 5. Click inside the Command Prompt and press **Ctrl** \+ **V** to paste in the string.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![An uninstall command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/undostring-command.jpg)
 6. Press **Enter** to run the command and remove the software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note that the above registry string is for 64-bit software. To find the strings for 32-bit software, you’ll need to go to this registry path:
 
@@ -125,9 +121,6 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 3. Bring up the directory containing the **iobituninstaller.exe** file.
 4. Double-click the **iobituninstaller.exe** file and click **Install** in the setup wizard.
 5. Open IObit Uninstaller and select the **All programs** tab.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The IObit Uninstaller software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-iobit-uninstaller-software.jpg)
 6. Select the program and click **Uninstall**.
 7. Click on the checkbox labeled **Automatically remove residual files**.
@@ -135,8 +128,13 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 ![The Uninstall button in IObit Uninstaller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-uninstall-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Uninstall the Software Within Safe Mode
 
  Safe mode is Windows troubleshooting mode in which only essential drivers and services run. Uninstalling affected software in that mode might work since it will disable things like UAC that can interfere with the uninstallation process. This guide about [entering Windows safe mode](https://www.makeuseof.com/windows-11-boot-safe-mode/) covers the different ways you can enter that mode.
@@ -148,14 +146,15 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 `HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\SafeBoot\Minimal`
 3. Click the **Minimal** key with your right mouse button and select **New**.
 4. Select **Key** and input **MSIServer** within the text box. If that key already exists, then you need not set up a new key.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The New > Key option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-key-option.jpg)
 5. Next, select the **MSIServer** key and double-click its **(Default)** string.
 6. Enter **Service** in the **Value data** box and select **OK**.  
 ![The Edit String window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-string-window4.jpg)
 7. Then enter safe mode and try uninstalling the affected software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Uninstall the Software You Need to Remove on Windows
 
@@ -165,11 +164,30 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 
  That error message highlights the issue is caused by insufficient access. However, the error can arise for users even when they have administrator privileges. This is how you can fix the “do not have sufficient access to uninstall” error in Windows 11/10\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-requesting-for-unrestricted-access-to-shared-visual-and-audio-content/"><u>[New] In 2024, Requesting for Unrestricted Access to Shared Visual & Audio Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-resurrecting-windows-photo-viewer-via-windows-10-simple-fixes/"><u>[Updated] 2024 Approved Resurrecting Windows Photo Viewer via Windows 10 - Simple Fixes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-use-dslr-for-facebook-live-on-your-pc/"><u>[Updated] How to Use DSLR for Facebook Live on Your PC?</u></a></li>
+<li><a href="https://win11.techidaily.com/aacm4a/"><u>音声ファイルの変換:AACとM4Aを比べて、最適な無劣化方法は何ですか？</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/architects-of-unique-virtual-environments-for-2024/"><u>Architects of Unique Virtual Environments for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/best-split-screen-video-software-discover-the-5-most-user-friendly-options-for-making-split-videos-with-ease/"><u>Best Split Screen Video Software: Discover the 5 Most User-Friendly Options for Making Split Videos with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/best-video-format-changer-app-for-ps4-easy-steps-to-enjoy-any-content/"><u>Best Video Format Changer App for PS4: Easy Steps to Enjoy Any Content!</u></a></li>
+<li><a href="https://win11.techidaily.com/complete-tutorial-on-restoring-damaged-mkv-movie-files/"><u>Complete Tutorial on Restoring Damaged MKV Movie Files</u></a></li>
+<li><a href="https://win11.techidaily.com/daznpc/"><u>DAZN映像取得・保管手順に関するPCユーザ向けの詳細マニュアル</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-ultimate-selection-top-10-no-cost-image-repositories-with-extensive-high-end-visual-archives/"><u>Discover the Ultimate Selection: Top 10 No-Cost Image Repositories with Extensive, High-End Visual Archives</u></a></li>
+<li><a href="https://win11.techidaily.com/duplicate-dvds-easily-using-1click-dvd-copy-plus-top-alternatives-revealed/"><u>Duplicate DVDs Easily Using 1Click DVD Copy - Plus Top Alternatives Revealed!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Simulate GPS Movement in AR games On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-quick-content-in-a-facebook-frame/"><u>In 2024, Quick Content in a Facebook Frame</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/step-by-step-guide-to-infectious-internet-memes-gifs/"><u>Step-by-Step Guide to Infectious Internet Memes (GIFs)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/strategic-approaches-to-dominating-spotifys-ad-space-for-2024/"><u>Strategic Approaches to Dominating Spotify's Ad Space for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-30-preferred-steadicam-models-for-high-quality-dslr-projects/"><u>Unveiling 30 Preferred Steadicam Models for High-Quality DSLR Projects</u></a></li>
+</ul></div>
+

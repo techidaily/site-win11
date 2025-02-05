@@ -1,7 +1,7 @@
 ---
 title: "Leverage Windows 11: Activating Hyper-V"
-date: 2024-08-08T13:17:17.296Z
-updated: 2024-08-09T13:17:17.296Z
+date: 2025-01-27T22:31:35.232Z
+updated: 2025-02-03T20:56:00.459Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
  In this article, we show you the how to enable Hyper-V in Windows 11 and create virtual machines without third-party tools.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Are the Use Cases for Hyper-V?
 
  Hyper-V is a native virtualization tool that allows you to run multiple operating systems on your system virtually without affecting your host OS.
@@ -38,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
 
 ## Prerequisites to Enable Hyper-V on Windows 11
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check Windows 11 edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/check-Windows-11-edition.png)
 
  Hyper-V is available as an optional feature on Windows 11 Pro, Enterprise, and Education. To check your edition of Windows, go to **Settings > System > About**. Then, check the **Windows specifications** section to find your Windows edition.
@@ -65,6 +63,11 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
 5. Next, use the down arrow key to highlight the **Virtualization Technology** option.  
 ![enable hardware virtualization bios hp laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hardware-virtualization-bios-hp-laptoop.jpg)
 6. Hit **Enter** and then select **Enabled** from the options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Press **F10** to save the changes and exit **BIOS**.
 8. Your PC will restart and apply the changes. This may take a while, so wait till your system is fully restarted.
 
@@ -72,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
 
 ## 1\. Turn On Hyper-V in Windows 11 Via Control Panel
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable hyper v windows features control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-features-control-panel.png)
 
  You can enable Hyper-V using the Windows Features dialog. You can access Windows Features to [add or remove optional features in Windows 11](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) from the Control Panel. Here’s how to do it.
@@ -93,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
 
 ![enable hyper v command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-command-prompt.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Command Prompt offers a fast and efficient way to perform repetitive tasks. You can use the DISM (Deployment Image Servicing and Management) command-line tool to access and install optional Windows features via Command Prompt.
 
  Follow these steps to enable Hyper-V on Windows 11 using Command Prompt:
@@ -104,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
 4. Once the operation is completed successfully, you will need to restart your PC. So, press **Y** on your keyboard to confirm the action.
 
  After your PC restarts, you can open and [use the Hyper-V Manager to create virtual machines](https://www.makeuseof.com/tag/create-virtual-machine-using-windows-10-hyper-v/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable Hyper-V Using PowerShell
 
@@ -121,10 +129,6 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
 3. PowerShell will run the cmdlet and initiate the Hyper-V enabling process. If successful, you will be asked to restart your PC.
 4. Type **Y** to confirm, and your PC will restart to apply the changes and enable a new feature.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## How to Disable Hyper-V in Windows 11
 
  While Hyper-V is safe to enable and use, you can disable it as easily using PowerShell. Useful if the virtualization tool causes conflict with your antivirus solution and other apps.
@@ -138,13 +142,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * Restart your PC to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Configure Hyper-V Settings
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hyper v manager windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hyper-v-manager-windows-11.jpg)
 
  Once Hyper-V is up and running, you can configure some settings to optimize your virtual machines for optimal performance. Here are a few settings you can configure before creating a virtual machine. You can access these settings from the right pane in Hyper-V Manager.
@@ -153,9 +155,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * **Virtual Switch Manager:** It lets you create External, Internal, or Private switches. Virtual switches are bound to the physical network adapter to access the network.
 * **Integration services:** You can choose from and enable/disable a host of integration services, including Heartbeat, Key-Value pair exchange, Time synchronization, and Volume shadow copy requestor (VSS) to enhance the performance and functionality of your virtual machine.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows admin center console home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-admin-center-console-home.jpg)
 
  While the MMC-based Hyper-V manager is functional and built into the OS, consider using the relatively new Windows Admin Center. It is a browser-based management app that lets you manage your servers, virtual machines, local users and groups, and more.
@@ -163,8 +162,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Download [Windows Admin Center](https://www.microsoft.com/en-in/windows-server/windows-admin-center) from the official Microsoft page and run the installer to give it a go. Once installed, open the app, and it will launch in your default browser, giving you access to a host of management tools.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Many Ways to Enable Hyper-V in Windows 11
 
  Hyper-V is a type 1 hypervisor, which means it runs directly on a computer’s hardware. It comes pre-installed, free to use without restriction, and offers linear performance on a consumer-grade system.
@@ -173,11 +173,33 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  In this article, we show you the how to enable Hyper-V in Windows 11 and create virtual machines without third-party tools.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-exceptional-quality-hd-video-documenters-for-2024/"><u>[New] Exceptional Quality HD Video Documenters for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-expert-tips-for-smoothly-changing-fb-videos-into-mp3-files-for-2024/"><u>[New] Expert Tips for Smoothly Changing FB Videos Into MP3 Files for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leveraging-cross-functional-collaboration-for-comprehensive-market-research/"><u>[New] Leveraging Cross-Functional Collaboration for Comprehensive Market Research</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sonic-scenes-from-still-shots/"><u>[New] Sonic Scenes From Still Shots</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhance-and-clean-up-youtube-footage-borderless-tutorial/"><u>[Updated] 2024 Approved Enhance and Clean Up YouTube Footage Borderless Tutorial</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-mcb-channel-background-and-template-set/"><u>[Updated] In 2024, MCB Channel Background & Template Set</u></a></li>
+<li><a href="https://facebook.techidaily.com/concealed-choices-how-interfaces-steal-privacy/"><u>Concealed Choices: How Interfaces Steal Privacy</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-pro-level-video-trimming-on-your-windows-device/"><u>Discover Pro-Level Video Trimming on Your Windows Device</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/effortless-integration-igtv-and-instagram-stories-for-2024/"><u>Effortless Integration IGTV & Instagram Stories for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-power-down-for-idle-pcs-in-w10w11/"><u>Effortless Power-Down for Idle PCs in W10/W11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/excellent-live-broadcast-services-featuring-local-channels-2024/"><u>Excellent Live Broadcast Services Featuring Local Channels 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-error-0x800700e1-in-windows-11-and-11/"><u>How to Fix Error 0X800700E1 in Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-the-notorious-office-error-0x80041015/"><u>How to Resolve the Notorious Office Error 0X80041015</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-alignment-on-your-monitor-overcoming-overscan/"><u>Perfect Alignment on Your Monitor: Overcoming Overscan</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-unresponsive-nvidia-cp-windows-11/"><u>Quick Fixes for Unresponsive Nvidia CP, Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagining-your-windows-profile-a-new-username-approach/"><u>Reimagining Your Windows Profile: A New UserName Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/sticky-notes-decoded-entering-the-world-of-windows-11/"><u>Sticky Notes Decoded: Entering the World of Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-parseerror-fixes-for-winoss/"><u>Streamlining ParseError Fixes for WinOSs</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-9-critical-differences-that-favor-pcs-to-macs/"><u>Unveiling 9 Critical Differences That Favor PCs to Macs</u></a></li>
+</ul></div>
+

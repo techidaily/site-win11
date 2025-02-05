@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art: Sidestepping File Explorer Faux Pas"
-date: 2025-01-18T04:58:44.805Z
-updated: 2025-01-25T04:05:47.950Z
+date: 2025-02-01T19:09:15.867Z
+updated: 2025-02-03T23:50:25.464Z
 tags:
   - windows10
   - windows11
@@ -25,15 +25,27 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disregarding the Power of Tabs in File Explorer
 
 ![Windows 11 File Explorer with so many tabs open and scroll arrow buttons showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-explorer-title-bar-scroll-buttons.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're running Windows 11, version 22H2 with Moment 3 update, you can open multiple tabs in File Explorer, just like in a web browser. When you don't use the feature, you have multiple folders that are opened in multiple windows, making switching between folders inconvenient.
 
  There are more benefits to using tabs. Right-clicking on tabs will display options to **Close other tabs**, which closes all tabs except the one you're currently seeing.
 
  Tabs can save you time, as you don't have to click multiple times to close multiple windows. You can learn [how to use tabs in File Explorer](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) to become more productive on Windows 11\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Neglecting Keyboard Shortcuts
 
@@ -53,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
 
 ![Screenshot showing File Explorer Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-home.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  File Explorer shows you recent files or folders you've opened, making them easier for you to quickly jump on later if needed. You shouldn't make the mistake of going to the folder location again to find something if you opened it recently. Instead, check the **Recent** section of File Explorer and get quick access to all the files you've opened recently.
 
  Moreover, you should also mark important files as favorites. File Explorer has a **Favorites** section where it lists everything you labeled as a favorite. By avoiding the **Favorites** section, you could spend more time finding that important file whenever needed. Both **Recent** and **Favorites** items are displayed on the File Explorer Home Page.
@@ -65,23 +73,19 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
 
  If you're a privacy-minded user, you should know [how to adjust various control options to protect your privacy](https://www.makeuseof.com/windows-11-privacy-options-explained/) in Windows 11\.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Not Using Search Syntax While Searching Something in File Explorer
 
 ![Search files using syntax commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/search-files-using-syntax-commands.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you type something in the File Explorer search box, it will show you a complete list of files containing what you typed. Many of us spend more time finding the one on that long list.
 
  You should avoid this common mistake to work more efficiently on Windows. Instead, you need to use what's called "search syntax" in File Explorer to find the exact item you're looking for.
 
  If you type "name:" followed by the file's name, it will only display the exact file you typed. You can also use "kind," "size," and "date." as syntax, too. For example, typing "size: 84 KB" in the File Explorer search box will display only a list of files that are of that size.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Relying on Both Keyboard and Mouse To Select Multiple Files
 
@@ -100,7 +104,7 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 ![rename atig6pxx dll file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-atig6pxx-dll-file.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One of the reasons you're facing challenges in finding files or folders could be that you aren't naming them properly. And if you have many of them, it can get messy.
@@ -112,10 +116,6 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 ## 7\. Not Taking Advantage of Customization Options in File Explorer
 
 ![Screenshot showing File Explorer Download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-view.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Windows is known for its customizations. You also get a ton of options in File Explorer that enable you to give it a unique touch and be more productive. You're not utilizing some of the handy File Explorer features if you're not customizing it.
 
@@ -139,22 +139,22 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expediting-video-aggregation-from-tiktok-in-a-flash/"><u>[New] Expediting Video Aggregation From TikTok in a Flash</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-innovation-unveiled-the-complete-moto-z2-review/"><u>[New] Innovation Unveiled The Complete Moto Z2 Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pioneering-digital-realms-comparing-metaverse-and-omniverse/"><u>[New] Pioneering Digital Realms Comparing Metaverse & Omniverse</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-essential-guide-to-youtube-time-tracking/"><u>[Updated] 2024 Approved The Essential Guide to YouTube Time Tracking</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-dynamics-of-canon-timelapse-imagery/"><u>[Updated] Exploring the Dynamics of Canon Timelapse Imagery</u></a></li>
-<li><a href="https://win11.techidaily.com/connecting-with-ease-understanding-microsofts-phone-link-app/"><u>Connecting with Ease: Understanding Microsoft's Phone Link App</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/free-online-video-communication-tools-rated-best/"><u>Free Online Video Communication Tools Rated Best</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-13-mini-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 13 mini Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/navigating-facebook-streaming-on-roku-devices/"><u>Navigating Facebook Streaming on Roku Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-frustrating-apex-legends-crashes-in-win11/"><u>Resolving Frustrating Apex Legends Crashes in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-photo-correction-mastering-background-removal/"><u>Seamless Photo Correction: Mastering Background Removal</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-unlock-device-driver-access-in-windows-11/"><u>Strategies to Unlock Device Driver Access in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/sync-issue-resolved-windows-time-coordination/"><u>Sync Issue Resolved: Windows Time Coordination</u></a></li>
-<li><a href="https://win11.techidaily.com/the-7-best-free-desktop-password-generators-for-windows/"><u>The 7 Best Free Desktop Password Generators for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-terminal-and-powershell-unveiling-their-differences/"><u>Windows Terminal & PowerShell: Unveiling Their Differences</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-tips-for-distinguishing-between-hdd-and-ssd/"><u>Windows Tips for Distinguishing Between HDD and SSD</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726227050549-movavi/"><u>ロコミがお勧めする最適なMovaviソフトウェア選びガイド</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-amusing-clip-loading-appraisal/"><u>[New] Amusing Clip Loading Appraisal</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-top-10-secrets-to-skyrocket-your-social-media-engagement-on-fb-for-2024/"><u>[New] Top 10 Secrets to Skyrocket Your Social Media Engagement on FB for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-methods-to-clear-up-obs-fullscreen-troubles/"><u>[Updated] Methods to Clear Up OBS Fullscreen Troubles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionize-your-workflow-the-top-7-digital-tokens-makers/"><u>[Updated] Revolutionize Your Workflow - The Top 7 Digital Tokens Makers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-analysis-of-leading-ais-gpt-vs-microsoftgoogles-creations/"><u>Comparative Analysis of Leading AIs: GPT Vs. Microsoft/Google's Creations</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-ai-potential-for-ultimate-user-experience-at-ms-store/"><u>Harnessing AI Potential for Ultimate User Experience at MS Store</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-s17-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo S17 to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-solve-microsoft-windows-camera-error-code-a00f425d/"><u>How to Solve Microsoft Windows Camera Error Code: A00F425D</u></a></li>
+<li><a href="https://win11.techidaily.com/initiating-printer-access-within-application-guards-secure-environment/"><u>Initiating Printer Access Within Application Guard's Secure Environment</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/leading-the-field-in-remotely-recorded-content-creation/"><u>Leading the Field in Remotely Recorded Content Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-legacy-keyboard-triggers-for-narrator/"><u>Mastering Legacy Keyboard Triggers for Narrator</u></a></li>
+<li><a href="https://win11.techidaily.com/powertoys-settings-transfer-guide-for-new-users/"><u>PowerToys Settings Transfer Guide for New Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-addressing-problems-with-laptopdesktop-startup-failures/"><u>Step-by-Step Solution: Addressing Problems with Laptop/Desktop Startup Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-recovery-from-crushing-windows-c0000022-error/"><u>Steps to Recovery From Crushing Window's C0000022 Error</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-grouping-files-into-windows-11-directories/"><u>The Ultimate Guide to Grouping Files Into Windows 11 Directories</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-unblocking-screen-settings-on-pcs/"><u>The Ultimate Guide to Unblocking Screen Settings on PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-snapping-pc-screenshots-like-a-pro/"><u>Ultimate Tutorial: Snapping PC Screenshots Like a Pro</u></a></li>
 </ul></div>
 

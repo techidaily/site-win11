@@ -1,7 +1,7 @@
 ---
 title: "Uncomplicate Your Computing: Win11's Directories Guide"
-date: 2024-08-08T13:18:54.643Z
-updated: 2024-08-09T13:18:54.643Z
+date: 2025-01-31T19:16:42.080Z
+updated: 2025-02-03T18:12:32.154Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/f7c3dfb51630ea312d0721a61ab19847e1113bba5
  Whether you prefer the simplicity of using the context menu or the speed of a keyboard shortcut, there are several ways to create new folders in Windows 11\. This post will discuss four easy methods for creating new folders in Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Create a New Folder Using the Context Menu
 
  The easiest and most well-known way to create a new folder on Windows is through the context menu. You can use this method to create folders nearly anywhere in Windows. Here are the steps you can follow:
@@ -34,9 +35,9 @@ thumbnail: https://thmb.techidaily.com/f7c3dfb51630ea312d0721a61ab19847e1113bba5
 ![Create New Folder in Windows 11 Using the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-the-context-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Create a New Folder Using File Explorer
 
  File Explorer's menu bar provides access to many useful options. One of them also lets you create a new folder with a couple of mouse clicks.
@@ -59,9 +60,6 @@ To create a new folder using File Explorer's menu:
 
  For more such useful shortcuts, why not check our[ultimate guide on Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Create a New Folder With Command Prompt or PowerShell
 
  Another way to create folders on Windows is via a command-line utility. While it may not be as quick as the other methods mentioned above, it can certainly come in handy if you need to[create multiple folders at once](https://www.makeuseof.com/windows-10-11-create-multiple-folders/) .
@@ -75,33 +73,33 @@ To create a new folder using File Explorer's menu:
 `cd Directory`
 5. Next, type**mkdir** followed by the name of the folder you wish to create and press**Enter** . For instance, if you were to create a folder named**Work** , you'd type the following command:  
 `mkdir Work`  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Create New Folder in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-command-prompt.jpg)
 6. Likewise, if you want to create multiple folders, type**mkdir** followed by the names of your folders. For instance, if you wanted to create three folders named**Android** ,**iPhone** , and**Windows** , you'd enter this command:  
-`mkdir Android iPhone Windows`  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+`mkdir Android iPhone Windows`  
 ![Create Multiple Folders in Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-multiple-folders-in-windows-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Creating Folders in Windows 11 Quickly
 
  Whether you use the keyboard shortcut or the command line method, creating folders in Windows 11 is pretty easy. Now that you've created your folders, it might be a good idea to customize them so that you can tell them apart quickly.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,4 +108,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-how-to-fix-obs-high-encoding-problem/"><u>[New] 2024 Approved How To Fix OBS High Encoding Problem?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-a-guide-to-crafting-impactful-handp-ads-on-facebook/"><u>[Updated] 2024 Approved A Guide to Crafting Impactful H&P Ads on Facebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-vectors-alternatives-to-the-classic-acid-pro/"><u>[Updated] Top Vectors Alternatives to the Classic ACID Pro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-step-by-step-process-to-record-movies-on-multiple-platforms/"><u>2024 Approved Step-By-Step Process to Record Movies on Multiple Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-taskbar-add-capslock-and-numlock-icons-on-win11/"><u>Enhance Taskbar: Add CapsLock & NumLock Icons on Win11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-vivo-s17-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Vivo S17 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-visual-ventures-exploring-affordable-tiktok-beauty-behind-bars/"><u>In 2024, Visual Ventures Exploring Affordable TikTok Beauty Behind Bars</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-proxy-configurations/"><u>Mastering Windows 11 Proxy Configurations</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-connectivity-hurdles-getting-your-msi-mystic-light-running-on-windows-again/"><u>Overcoming Connectivity Hurdles - Getting Your MSI Mystic Light Running on Windows Again</u></a></li>
+<li><a href="https://article-posts.techidaily.com/secure-your-preference-with-these-9-leading-websites-offering-3d-typography-for-2024/"><u>Secure Your Preference With These 9 Leading Websites Offering 3D Typography for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tapping-into-the-world-of-command-line-alias-names/"><u>Tapping Into the World of Command Line Alias Names</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-resolve-iphone-images-not-uploading-on-windows-system/"><u>Tips to Resolve iPhone Images Not Uploading on Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/top-4-portable-windows-platforms/"><u>Top 4 Portable Windows Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/unpacking-windows-methodology-to-split-audiosystems/"><u>Unpacking Windows’ Methodology to Split Audiosystems</u></a></li>
+</ul></div>
 

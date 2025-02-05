@@ -1,7 +1,7 @@
 ---
 title: Five Effective Strategies for Firewall Management
-date: 2025-01-18T22:23:57.788Z
-updated: 2025-01-24T20:17:39.661Z
+date: 2025-02-03T07:02:45.883Z
+updated: 2025-02-04T01:30:39.461Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use the Control Panel
 
  The Control Panel is an incredible tool that allows you to troubleshoot system issues or tweak PC settings. Now, let’s check out how this tool can help you reset the firewall settings:
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 ![Clicking the Restore defaults option on the Windows Defender Firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-defaults-option-on-the-windows-defender-firewall-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use the Command Prompt
@@ -62,10 +58,6 @@ netsh advfirewall reset
 
  Wait for the process to complete. From there, restart your device to save these changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Use Windows PowerShell
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
@@ -82,6 +74,10 @@ netsh advfirewall reset
 
  Wait for the process to complete, and then restart your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Use the Windows Security App
 
  The Windows Security app is a tool that helps you scan and fix system bugs. Interestingly, you can also use this tool to reset the firewall settings.
@@ -97,7 +93,7 @@ netsh advfirewall reset
 ![Clicking the Restore firewalls to default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-firewalls-to-default-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use the "Firewall with Advanced Security" Tool
@@ -115,6 +111,10 @@ netsh advfirewall reset
 
 ![Selecting the Restore Default Policy option on the Firewall with Advanced Security screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-restore-default-policy-option-on-the-firewall-with-advanced-secutiry-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Can’t access the “Windows Defender Firewall with Advanced Security” screen using the steps we’ve covered? Try these methods:
 
 1. Press **Win + I** to access the system settings.
@@ -126,7 +126,7 @@ netsh advfirewall reset
  From there, right-click on the **Windows Defender Firewall with Advanced Security on Local Computer** option and select the **Restore Default Policy** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Restoring the Firewall Settings to Their Default Settings
@@ -150,17 +150,19 @@ netsh advfirewall reset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-your-daily-dose-of-delightful-and-distressing-memes-from-ig-for-2024/"><u>[New] Your Daily Dose of Delightful & Distressing Memes From IG for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-social-media-momentum-linking-igtv-and-fb/"><u>[Updated] In 2024, Social Media Momentum Linking IGTV and FB</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-executables-from-batch-files-in-windows/"><u>Crafting Executables From Batch Files in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-and-resolving-elevation-needed-errors/"><u>Decoding and Resolving 'Elevation Needed' Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-timely-updates-adding-an-efficient-checkup-toolbar-to-win11/"><u>Ensuring Timely Updates: Adding an Efficient Checkup Toolbar to Win11</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/gifify-your-tweet-a-costless-how-to-guide/"><u>Gifify Your Tweet A Costless How-To Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-correct-the-isdonedll-error-in-windows-11/"><u>How to Correct the ISDone.dll Error in Windows 11</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/htc-vive-comfort-top-strategies-to-prevent-discomfort-for-2024/"><u>HTC Vive Comfort Top Strategies to Prevent Discomfort for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-folder-descriptions-in-windows-11-explorer/"><u>Mastering Folder Descriptions in Windows 11 Explorer</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-realme-gt-5-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Realme GT 5 Pro</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/smooth-sailing-how-to-stop-your-borderlands-3-from-freezing-up-again/"><u>Smooth Sailing: How to Stop Your Borderlands 3 From Freezing Up Again!</u></a></li>
-<li><a href="https://win11.techidaily.com/the-sunsetting-of-windows-7-and-81-by-microsoft/"><u>The Sunsetting of Windows 7 and 8.1 by Microsoft</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-academic-avenue-leading-educators-on-youtube/"><u>[Updated] Academic Avenue Leading Educators on YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-mastering-chronos-shifts-using-phantoms-time-reversed-footage-for-2024/"><u>[Updated] Mastering Chronos Shifts Using Phantom's Time-Reversed Footage for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-simple-solutions-to-capture-gotomeetings-effectively-for-2024/"><u>[Updated] Simple Solutions to Capture GoToMeetings Effectively for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximizing-your-iphones-burst-photography/"><u>2024 Approved Maximizing Your iPhone's Burst Photography</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-windows-experience-with-these-top-7-tips/"><u>Elevate Your Windows Experience with These Top 7 Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-failure-in-windows-update-error-x712/"><u>Fixing Failure in Windows Update Error X712</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/free-window-recording-guide-3-easy-steps-for-2024/"><u>Free Window Recording Guide – 3 Easy Steps for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-6s-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 6s</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-realme-c33-2023-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Realme C33 2023 Device</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-remedies-for-overcoming-interrupted-exception-on-pc/"><u>Quick Remedies for Overcoming Interrupted Exception on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-static-login-identities-from-windows-11/"><u>Removing Static Login Identities From WIndows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-input-customization-with-windows-filters/"><u>Simplifying Input Customization with Windows Filters</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resurrect-your-photoshop/"><u>Steps to Resurrect Your Photoshop</u></a></li>
 </ul></div>
 

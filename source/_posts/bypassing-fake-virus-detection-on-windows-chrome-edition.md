@@ -1,7 +1,7 @@
 ---
 title: Bypassing Fake Virus Detection on Windows Chrome Edition
-date: 2024-07-29T15:56:25.885Z
-updated: 2024-07-30T15:56:25.885Z
+date: 2025-01-30T17:31:44.041Z
+updated: 2025-02-03T19:46:11.493Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/a23b6166dff1d71405deccff3c580ba47c280d1fa
 
  Occasionally, Chrome raises false flags even if you're downloading a safe file from a reputable source. What can you do about this situation? What is the best way to verify that the file is safe? If it's safe, how do you bypass this error message? We will cover everything in this article.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Before We Get Started…
 
  Before implementing the fixes, ensure Chrome is up-to-date. In some cases, outdated Chrome can cause unforeseen issues. Among them could be halting the download for no apparent reason. Therefore, it's imperative to[update Chrome](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/#how-to-update-and-view-the-current-version-of-chrome-on-desktop) to rule out this possibility.
@@ -42,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/a23b6166dff1d71405deccff3c580ba47c280d1fa
 
  After the scan is complete, see if it returns a clean result. If the tool detects some viruses, you'd be better off not downloading the file. If the scan comes back clean but you're still getting the error, it's time to try something else
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Does the Issue Pertain to a Particular File?
 
  Check if the error occurs only when downloading a specific file. If so, maybe you need to download it from another source.
@@ -53,13 +47,14 @@ thumbnail: https://thmb.techidaily.com/a23b6166dff1d71405deccff3c580ba47c280d1fa
 
  Apply the remaining fixes only if you are absolutely certain that the file you are downloading is safe.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Disable Any Security Extensions
 
  Any security extensions you're using, especially virus scanners, might interfere with the download process and force Chrome to stop it midway. It is, therefore, advisable to disable all security extensions on your browser that you think may hinder the download process. Not sure how to go about it? See[how to disable or remove browser extensions](https://www.makeuseof.com/tag/how-to-clean-up-your-browser-extensions-the-easy-way/) in all browsers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Exclude the Downloads Folder From Windows Defender
 
  By default, Microsoft Defender scans every folder on your computer. As such, it will prevent your download from completing if it detects a virus. By excluding the destination folder where your file is being downloaded, you may get rid of the error.
@@ -69,18 +64,20 @@ thumbnail: https://thmb.techidaily.com/a23b6166dff1d71405deccff3c580ba47c280d1fa
 1. In the Windows Search, search for**"Windows Security"** and open the app.
 2. In the left-sidebar, click**Virus & threat protection** .
 3. In the right-hand pane, click**Manage settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Opening Manage Settings Option under Virus and Threat Protection Settings in Windows Security App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-5-Opening-Manage-Settings-Option-under-Virus-and-Threat-Protection-Settings--in-Windows-Security-App.jpg)
 4. Under**Exclusions** , click**Add or remove exclusions** .
-5. Click on**Add an exclusion** button and select**Folder** .  
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Click on**Add an exclusion** button and select**Folder** .  
 ![Adding an Exclusion for Downloads Folder in Windows Security Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-6-Adding-an-Exclusion-for-Downloads-Folder-in-Windows-Security-Settings.jpg)
 6. Browse to the**Downloads** folder or any other location you have set as a download location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  By following the above steps, you will prevent Windows Defender from scanning the files in the Downloads folder, so if Windows Defender is causing the error even when the file you're downloading is safe, you won't encounter it again.
 
@@ -93,13 +90,19 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 3. In the right-hand pane, click on**Protection history** .  
 ![Checking Protection History under Virus and Threat Protection in Windows Security App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-7-Checking-Protection-History-under-Virus-and-Threat-Protection-in-Windows-Security-App.jpg)
 4. Locate and expand the blocked app or file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Expand the**Actions** dropdown menu and click**Allow** .
 
  This time, you should not encounter any errors when downloading the file. If the problem persists, tweak Chrome's security settings.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Temporarily Disable Microsoft Defender Firewall
 
  Excluding the Downloads folder and adding the file to Microsoft Defender's whitelist should prevent the Windows built-in security scanner from scanning this file and allow it to download successfully. However, if you still encounter the same error, we suggest temporarily disabling the Microsoft Defender firewall.
@@ -122,8 +125,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  You might be able to download files successfully by disabling Safe Browsing, but once you disable it, Chrome's built-in security won't protect you from malware and malicious downloads. Therefore, after downloading your files, be sure to turn Safe Browsing back on again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Tweak the Windows Registry Editor
 
  Does Windows Defender still block downloading the completely safe file? If so, let's tweak Registry Editor to force antivirus to stop scanning downloaded attachments. You can do that by following the below steps:
@@ -132,9 +136,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. In path explorer, copy and paste the following path:  
 HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\
 3. Right-click on the**Policies** key, select**New > Key** and name it**"Attachments."**  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Tweaking Windows Registry Editor by Renaming Newly Created Registry Key under Policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-11-Tweaking-Windows-Registry-Editor-by-Renaming-Newly-Created-Registry-Key-under-Policies.jpg)
 4. Right-click on**Attachments** and navigate to**New > DWORD (32-bit) Value** .  
 ![Creating the DWORD (32-bit) String Value in the Attachments Key in Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-12-Creating-the-DWORD-(32-bit)-String-Value-in-the-Attachments-Key-in-Registry-Editor-App.jpg)
@@ -146,17 +147,15 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\
  Because tweaking Registry Editor can be tricky and harmful, we recommend you ask an expert to perform this fix if you don't know how to edit Registry Editor manually.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Run a Malware Scan
 
  If you still experience the problem under discussion after applying the fixes listed above, you should ensure your device has not been infected, causing it to behave abnormally. It's possible for malware hidden inside your device to prevent Chrome from downloading files. So, you should make sure that's not the case here.
 
  Run a malware scan to rule out this possibility. While you can use any third-party antivirus software to scan your device for threats, we recommend[running Microsoft Defender's offline scan](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) for complete virus removal.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Rid of the "Failed - Virus Detected" Error in Chrome for Windows
 
  Our guide should have helped you scan your file and bypass the "Failed - Virus detected" error message if it was a false positive. If none of the fixes have worked for you and the error persists, you'd be better off switching browsers. Among the popular choices, Firefox, Edge, and Opera GX are highly regarded.
@@ -167,8 +166,6 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +173,19 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-mastery-of-magnified-mining-maps-for-2024/"><u>[New] Mastery of Magnified Mining Maps for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96370965-9780876048184-edgar-cayces-sacred-stones/"><u>Edgar Cayce's Sacred Stones | Free Book</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tial-tips-creating-striking-youtube-video-previews/"><u>Essential Tips Creating Striking YouTube Video Previews</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/guidelines-for-compelling-visual-fb-marketing-for-2024/"><u>Guidelines for Compelling Visual FB Marketing for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-realme-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Realme ?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-x-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone X Without Passcode?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-8-plus-data-recovery-software-to-recover-lost-ios-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 8 Plus® Data Recovery Software to Recover Lost iOS® Data | Stellar</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-guide-to-converting-psd-images-into-animated-gifs-without-using-adobe-photoshop/"><u>Simple Guide to Converting PSD Images Into Animated GIFs Without Using Adobe Photoshop</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-sign-up-process-mastering-user-registration/"><u>Simple Sign-Up Process - Mastering User Registration</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-steps-making-your-mp4-videos-compatible-with-iphones/"><u>Simple Steps: Making Your MP4 Videos Compatible with iPhones</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-transferring-youtube-music-and-video-content-onto-your-ipod-device/"><u>Step-by-Step Guide: Transferring YouTube Music & Video Content Onto Your iPod Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-alert-grab-your-preferred-magsafe-charger-for-ios-gadgets-at-a-whopping-60-discount-read-more-on-zdnet/"><u>Unbeatable Deal Alert: Grab Your Preferred MagSafe Charger for iOS Gadgets at a Whopping 60% Discount - Read More on ZDNet!</u></a></li>
+</ul></div>
 

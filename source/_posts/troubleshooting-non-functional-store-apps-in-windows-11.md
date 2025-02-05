@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Functional Store Apps in Windows 11
-date: 2024-08-08T13:18:45.001Z
-updated: 2024-08-09T13:18:45.001Z
+date: 2025-01-30T07:09:36.485Z
+updated: 2025-02-04T02:43:40.710Z
 tags:
   - windows10
   - windows11
@@ -21,14 +21,16 @@ thumbnail: https://thmb.techidaily.com/2684d5fa5a1c919bbd381e1623060c80ce06ce757
  You can use a PowerShell cmdlet to perform this action. Here we show how you can re-register apps for individual or all accounts on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Re-Register Microsoft Store Apps for Current Users
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![re register windows microsoft store apps current user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/re-register-windows-microsoft-store-apps-current-user.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the[Microsoft Store app issue](https://www.makeuseof.com/tag/5-tips-fix-windows-store-app-issues-windows-10/) exists with a specific user account, you don’t need to re-register the app for all the user accounts on your computer. Instead, you can re-register the app only for the current user account.
 
@@ -44,14 +46,16 @@ To re-register Microsoft Store apps for the current user:
  During the process, you may see some errors highlighted in red. It is due to PowerShell trying to reinstall existing apps on Windows. So, ignore the error and wait for the process to complete.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Re-Register Microsoft Store Apps for All Users
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![re register microsoft store apps all users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/re-register-microsoft-store-apps-all-users.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need to re-register the built-in Windows apps for all users, you’ll need to tweak the above PowerShell cmdlet a little to include the -AllUsers parameter. This would allow the cmdlet to search through all user accounts on the system and install and re-register the Microsoft Store apps.
 
@@ -61,20 +65,18 @@ To re-register Microsoft Store apps for the current user:
 3. This process may take some time to complete depending on the number of apps that require re-registering and reinstalling.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Install and Re-Register All Microsoft Store Apps on Windows 11
 
  Re-registering Windows apps is often necessary when Microsoft Store is not working. It can also help deal with other Windows settings and apps. If the issue persists, try the built-in Windows Store Apps troubleshooter to fix common Microsoft Store app issues.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -83,4 +85,19 @@ To re-register Microsoft Store apps for the current user:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-quick-recovery-of-twitch-broadcasts/"><u>[New] 2024 Approved The Quick Recovery of Twitch Broadcasts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-crafting-memes-with-ease-on-9gag-platform-for-2024/"><u>[New] Crafting Memes with Ease on 9GAG Platform for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-master-iphone-video-editing-for-quick-clear-trims/"><u>[New] In 2024, Master iPhone Video Editing for Quick, Clear Trims</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-maximus-x-hero-driver-maintenance-made-simple-and-swift-update-procedures-inside/"><u>ASUS Maximus X Hero Driver Maintenance Made Simple and Swift – Update Procedures Inside</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-booting-technique-startup-windows-unveil-notebooks/"><u>Effective Booting Technique: Startup Windows, Unveil Notebooks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/elevate-your-images-mastering-text-on-pc-and-mac-photos/"><u>Elevate Your Images Mastering Text on PC & Mac Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/fasten-the-toggling-of-microsofts-taskbar-integrated-chat/"><u>Fasten the Toggling of Microsoft’s Taskbar-Integrated Chat</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-11-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 11 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-windows-11-notes-for-universal-accessibility/"><u>Optimize Windows 11 Notes for Universal Accessibility</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-addressing-launch-failed-lunar-client-issues/"><u>Techniques for Addressing “Launch Failed Lunar Client” Issues</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-online-tools-to-create-fake-faces-for-free-for-2024/"><u>Top Online Tools to Create Fake Faces for Free for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/triggers-for-launching-system-restore-in-windows-11-environment/"><u>Triggers for Launching System Restore in Windows 11 Environment</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How To Tailor Your Program Palette: The Windows 11 Way"
-date: 2024-08-08T13:17:49.375Z
-updated: 2024-08-09T13:17:49.375Z
+date: 2025-01-27T20:16:10.958Z
+updated: 2025-02-04T08:52:50.435Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  In this guide, we will discuss the method of changing the default apps in Windows 11 in detail. We have also discussed several troubleshooting methods later in this guide that you can try if the default apps fail to change.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## How to Change the Default Apps in Windows 11
 
 [Changing the default apps in Windows 10](https://www.makeuseof.com/tag/change-default-settings-windows-10/) is quite simple. You can access the**Default Apps** section of the Settings app and replace the current default app with your preferred option.
@@ -31,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  Below, we have listed different ways of changing the default apps in Windows 11:
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Choose the Open With Option
 
  The easiest method of changing the default apps option is by using the Open with option in the context menu for files.
@@ -56,15 +50,25 @@ Follow these steps to proceed:
 1. Press the Win + I keys together to open the Windows Settings.
 2. Choose**Apps** from the left pane.
 3. Click on**Default apps** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Click on the Default apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-settings-apps-default-apps.jpg)
 4. Next, choose the app that you want to set as default. You should now see all the file types and link types the app is registered with.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If you want to choose a program as the default for all its registered file types and links, you'd need to click each type and choose the desired application in the following dialog.  
 ![Pick a default file type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pick-a-default-file-type.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This should set the app as the default option for the selected file and link types. However, if you[reset Windows 11 to its default state](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) ever, you will lose all these settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Use File Properties
 
@@ -75,11 +79,12 @@ To proceed, follow these steps:
 1. Right-click on the targeted file and choose**Properties** from the context menu.  
 ![Access the properties of the file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/image-properties.jpg)
 2. Head over to the General tab and click on the**Change** button associated with**Opens with** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Click on the Change button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/image-properties-general-change.jpg)
 3. Now, choose the desired app and click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do If You Cannot Change the Default Apps in Windows 11?
 
@@ -92,9 +97,6 @@ To proceed, follow these steps:
 
  In this case,[ensure that your user account has administrative rights](https://www.makeuseof.com/check-windows-account-admin-rights/) and that the app you are trying to set as default is compatible with the system. Here are some more steps you can follow to resolve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### 1\. Update Windows 11
 
  If you're running an outdated version of Windows, you may be experiencing problems due to incompatibility issues. Windows 11 needs to be updated to the latest version in this case.
@@ -105,9 +107,6 @@ Here is how you can do that:
 2. Choose**Windows Update** from the left pane.
 3. Now, click on the**Check for updates** button on the right side.
 4. Install all the pending updates one by one by clicking on the**Download & install** button and then restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Click on the Download & install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/settings-windows-update-download-and-install.jpg)
 
  Once this is done, follow one of the steps above to change the default app.
@@ -125,15 +124,13 @@ Follow these steps to proceed:
 Get-AppxPackage packagename -AllUsers | Reset-AppxPackage
 5. For instance, if you want to change the Photos app, execute the following command:  
 Get-AppxPackage Microsoft.Windows.Photos -AllUsers | Reset-AppxPackage  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![Reset the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-appxpackage-packagename.jpg)
 6. Once the command is executed, check if you can change the default app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Reinstall the App
 
  Lastly, you can try reinstalling the app that you want to set as default. This will eliminate any corruption errors are bugs within the app that are preventing you from setting it as the default option.
@@ -145,14 +142,20 @@ Here is how you can proceed:
 3. In the following window, navigate to**Uninstall a program** .  
 ![Uninstall a program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/uninstall-a-program.jpg)
 4. Locate the targeted app and right-click on it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Choose**Uninstall** and follow the on-screen instructions to proceed.  
 ![Uninstall the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-uninstall-program.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the uninstallation is completed, restart the computer and reinstall the app. Hopefully, this time, you will be able to set it as the default option without any problems.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Make Your Preferred Apps Default
 
  The apps set as the default options on Windows are quite user-friendly and efficient. It is possible, however, to change the default preference to a better option if you have found one that suits your system better.
@@ -165,8 +168,6 @@ Here is how you can proceed:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +175,17 @@ Here is how you can proceed:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-instagram-time-keeper-learning-to-rewind/"><u>[Updated] The Instagram Time Keeper Learning to Rewind</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-highly-flexible-and-compact-a-review-on-one-of-the-least-expansive-chromebooks-ever-test/"><u>Exploring the Highly Flexible and Compact: A Review on One of the Least Expansive Chromebooks Ever Test</u></a></li>
+<li><a href="https://win11.techidaily.com/from-silence-to-sound-windows-11s-tale-beginnings/"><u>From Silence to Sound: Windows 11'S Tale Beginnings</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-active-directory-domain-services-printer-error-in-windows-11-and-11/"><u>How to Fix the “Active Directory Domain Services” Printer Error in Windows 11 & 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-infinix-smart-8-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Infinix Smart 8 Phone Now with These Tips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-poco-m6-pro-4g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Poco M6 Pro 4G Users</u></a></li>
+<li><a href="https://win11.techidaily.com/sudden-rav-virus-alert-where-it-comes-from-how-to-uninstall/"><u>Sudden Rav Virus Alert - Where It Comes From, How To Uninstall</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1723262387210-the-ultimate-gamers-pc-build-on-a-dime-maximizing-power-with-an-rtx-4070-and-2tb-storage-score-your-piece-this-prime-day/"><u>The Ultimate Gamers' PC Build on a Dime: Maximizing Power with an RTX 4070 & 2TB Storage - Score Your Piece This Prime Day!</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-xc0f1103f-failure-on-geforce-now-and-windows-1011/"><u>Troubleshooting XC0F1103F Failure on GeForce Now & Windows 10/11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unpin-or-remove-your-secure-access-code-on-windows-10-easily/"><u>Unpin or Remove Your Secure Access Code on Windows 10 Easily</u></a></li>
+</ul></div>
 

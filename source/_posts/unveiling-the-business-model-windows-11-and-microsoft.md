@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Business Model: Windows 11 & Microsoft"
-date: 2025-01-22T17:29:07.525Z
-updated: 2025-01-24T16:56:43.796Z
+date: 2025-02-03T03:10:26.579Z
+updated: 2025-02-03T17:47:55.330Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 ![A Windows 11 device](https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53a757d0b8f7bbc674ee0d976.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can install Windows 11 on any computer that meets the minimum requirement to run the OS. Unlike Apple, Microsoft sells Windows 11 licenses so that you can make your PC using all the best components available.
 
  You can buy Windows 11 licenses from the Microsoft Store or other authorized retailers. Microsoft earns profit for every license sold everywhere in the world.
@@ -37,12 +41,16 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  In short, Microsoft earns money every time a PC is purchased or someone buys a license separately to build his custom PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Microsoft Sells Subscriptions to Windows 11 Users
 
 ![A phone displaying the applications belonging to Microsoft 365](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ed-hardie-xg02jzibf7o-unsplash-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you start using Windows 11, the chances are high that you'll end up using some of Microsoft's apps and services, some of which are paid. Like it or not, Microsoft keeps promoting its paid subscription offering, like Microsoft 365, through various apps and services.
@@ -53,13 +61,13 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  Some popular subscription services that boost Microsoft's revenue include Microsoft 365, Microsoft Azure, and Microsoft Dynamics 365\.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Bloatware Apps in Windows 11 Help Microsoft Make a Profit
 
 ![A Windows 11 device](https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d018a43c3249d3a4866964b88.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Potentially Unwanted Programs (PUP)—popularly known as bloatware apps—are the ones that device makers pre-install in return for money from the app developers. In Windows 11, if you see any apps pre-installed with the OS but aren't from Microsoft, you can be sure that third-party app developers paid the company in anticipation of getting more visibility and installations.
 
@@ -69,13 +77,13 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  For example, the Microsoft Edge browser comes with bloatware, too. The "[buy now, pay later](https://www.makeuseof.com/what-is-buy-now-pay-later/)" option in Edge is a perfect example of bloatware in a web browser. The service is powered by a third-party company called Zip, which pays Microsoft a fee for each transaction happening via the BNPL (Buy now, pay later) service in Edge.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Microsoft Shows Advertisements in Windows 11 to Make Money
 
 ![Screenshot Showing Windows 11 Account Settings Menu on the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-account-settings-menu-on-the-start-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Every major tech company profits from advertising, and Microsoft is no exception. In fact, the company pays significant attention to increasing its advertisement revenue.
 
@@ -89,17 +97,9 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  Windows 11 shows you personalized ads, meaning it will try to show you advertisements that you might find interesting. And personalized ads require Microsoft to collect your data. But you can get rid of all of them by [making Windows 11 ad-free](https://www.makeuseof.com/windows-11-remove-ads/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Microsoft Makes Money From Search Advertising Business
 
 ![Bing Chat logo with a white abstract background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bing-chat-with-abstract-background.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Microsoft earns a sizable chunk of its revenue from the personal computing space, which includes online search. And search is an integral part of Windows 11—you can see it in the Start menu, Settings app, and even File Explorer.
 
@@ -127,18 +127,18 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-play-40c-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor Play 40C</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/converting-creative-imagery-transforming-webp-from-dall-e-to-png-jpg/"><u>Converting Creative Imagery: Transforming WebP From DALL-E to PNG, JPG</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-onedrives-reparse-point-tag-misstep-on-windows/"><u>Correcting OneDrive's Reparse Point Tag Misstep on Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/epic-bike-shots-the-best-helmet-cams-of-2023-decoded-and-displayed/"><u>Epic Bike Shots - The Best Helmet Cams of 2023 Decoded and Displayed</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-activate-a-black-background-in-wincalc/"><u>How To Activate a Black Background in WinCalc</u></a></li>
-<li><a href="https://win11.techidaily.com/improving-sound-quality-for-bluetooth-headphonesspeakers/"><u>Improving Sound Quality for Bluetooth Headphones/Speakers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lava-blaze-2-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lava Blaze 2</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-5-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme GT 5 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://win11.techidaily.com/mute-windows-update-announcements/"><u>Mute Windows Update Announcements</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-through-vyncs-link-robust-performance-with-enigmaturated-subscription-models/"><u>Navigating Through Vyncs Link: Robust Performance with Enigmaturated Subscription Models</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-sleep-suspend-with-windows-11-devices/"><u>Overcoming Sleep Suspend with Windows 11 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-restoring-windows-11-help-functionality/"><u>Steps for Restoring Windows 11 Help Functionality</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620271322-the-ultimate-technique-for-retrieving-deleted-content-on-iphones-discover-here/"><u>The Ultimate Technique for Retrieving Deleted Content on iPhones - Discover Here</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-best-free-webcam-video-capture-software/"><u>[New] Best Free Webcam Video Capture Software</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-a-beginners-guide-the-essentials-of-using-tiktok-macos-for-2024/"><u>[Updated] A Beginner's Guide The Essentials of Using TikTok (macOS) for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-video-voyage-to-victory-secrets-from-youtube-stars/"><u>[Updated] In 2024, Video Voyage to Victory Secrets From YouTube Stars</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pioneers-in-the-digital-realm-vr-past-and-future/"><u>2024 Approved Pioneers in the Digital Realm VR Past and Future</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-revolutionize-your-play-with-top-tips-for-ps4-gameplay-recording/"><u>2024 Approved Revolutionize Your Play with Top Tips for PS4 Gameplay Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/how-extended-updates-will-influence-your-use-of-windows-11/"><u>How Extended Updates Will Influence Your Use of Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-c-drive-space-management-in-windows-os/"><u>Mastering C: Drive Space Management in Windows OS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-usb-20-technology-a-closer-look-at-data-transfer-rates-cord-selection-and-interface-designs/"><u>Mastering USB 2.0 Technology: A Closer Look at Data Transfer Rates, Cord Selection, and Interface Designs</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-techniques-for-system-file-corruption-in-windows/"><u>Quick-Fix Techniques for System File Corruption in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-frozen-exe-file-problems/"><u>Tackling Windows' Frozen Exe File Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/transitioning-to-terminal-with-quake-features/"><u>Transitioning to Terminal with Quake Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-and-obscuring-network-defense-in-windows-security/"><u>Unveiling and Obscuring Network Defense in Windows Security</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-get-animated-top-7-drawing-software-for-bringing-your-ideas-to-life-for-2024/"><u>Updated Get Animated! Top 7 Drawing Software for Bringing Your Ideas to Life for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigate Your Files Like a Pro with Win 11’S Auto-Transfer
-date: 2025-01-22T07:47:42.583Z
-updated: 2025-01-24T20:53:13.832Z
+date: 2025-02-02T05:13:00.936Z
+updated: 2025-02-04T02:20:07.472Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Place Selected Files Into a New Folder With Files 2 Folder
@@ -46,15 +46,11 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 ![The Files 2 Folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/files-2-folder-option.jpg)
 7. Input a folder name within the text for the **Move all selected items into a subfolder named** option.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Files 2 Folders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/files2folder-window.jpg)
 8. Click **OK** to create the new folder with the files selected moved into it. The new folder will be in the directory where you selected the files.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also select one of three alternative folder creation options within the Files 2 Folder window. The **Move each file to individual subfolders based on their names** option does what its label says. Or create a dated directory by selecting **Move all selected files to a date folder**.
@@ -62,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
  If you need to organize selected files according to format, select **Move each file to subfolders based on their file extensions**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Place Selected Files Into a New Folder With TeraCopy
@@ -77,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 4. Next, click the **Settings** cog icon in TeraCopy.  
 ![The Teracopy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/teracopy-window.jpg)
 5. Make sure the **Add to Explorer context menu** option is selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Click **OK** to exit the preferences and close the TeraCopy window.  
 ![The Add to Explorer context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-to-explorer-context-menu.jpg)
@@ -93,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
  TeraCopy also provides us with another way to move more files into your new folder. To do so, select **Menu** \> **Add files** in the TeraCopy window. Select the files you want to move and click **Open**. Then click **Move** \> **Browse** to choose the directory and press the **Select Folder** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Add a Handy New Folder Creation Option to Windows 11’s Context Menu
@@ -112,15 +112,22 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-pick-your-favorite-top-ios-apps-for-facebook-video-loading-for-2024/"><u>[New] Pick Your Favorite Top iOS Apps for Facebook Video Loading for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-skyrocket-your-e-commerce-game-with-these-essential-15-social-media-insights/"><u>[Updated] Skyrocket Your E-Commerce Game with These Essential 15 Social Media Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/749-apple-macbook-air-with-m2-chip-exclusive-offer-during-amazons-october-prime-day-dont-miss-out-zdnet-news/"><u>$749 Apple MacBook Air with M2 Chip: Exclusive Offer During Amazon's October Prime Day – Don't Miss Out! [ZDNet News]</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-voice-interpretation-without-a-price-tag/"><u>2024 Approved Voice Interpretation Without a Price Tag</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-code-0xa00f4289-webcam-glitches-on-win1011/"><u>Correcting Code 0xA00F4289: Webcam Glitches on Win10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/hacking-the-lock-screen-windows-11-edition/"><u>Hacking the Lock Screen: Windows 11 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/stripping-decorative-elements-from-window-search-ui/"><u>Stripping Decorative Elements From Window Search UI</u></a></li>
-<li><a href="https://win11.techidaily.com/the-5-best-apps-to-skyrocket-your-productivity-on-windows-11-or-11/"><u>The 5 Best Apps to Skyrocket Your Productivity on Windows 11 or 11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/uncovering-your-youtube-remarks-across-os-platforms-for-2024/"><u>Uncovering Your YouTube Remarks Across OS Platforms for 2024</u></a></li>
-<li><a href="https://discover-best.techidaily.com/1726028138502-1080p/"><u>アマゾンプライム・スクリーンよりも安価な1080p映画配信サービスの応用法！</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-comparing-av1-and-vp9-which-is-more-advanced/"><u>[New] In 2024, Comparing AV1 & VP9 Which Is More Advanced?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-instant-insight-into-colour-difference-filming-methods/"><u>2024 Approved Instant Insight Into Colour Difference Filming Methods</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-nokia-105-classic-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Nokia 105 Classic Fingerprint Lock</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/connect-and-share-youtube-in-instagrams-ecosystem-for-2024/"><u>Connect & Share YouTube in Instagram's Ecosystem for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-resolve-valheims-stuttering-problems-on-your-windows-or-mac-computer/"><u>Expert Tips to Resolve Valheim's Stuttering Problems on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-the-power-of-hot-keys-in-windows-11/"><u>Explore the Power of Hot Keys in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/find-forgotten-control-panel-elements-in-win11-configuration/"><u>Find Forgotten Control Panel Elements in Win11 Configuration</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-redmi-note-13-proplus-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi Redmi Note 13 Pro+ 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstart-your-windows-experience-with-media-player/"><u>Jumpstart Your Windows Experience with Media Player</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-10-audio-boost-tools-for-diverse-systems/"><u>Leading 10 Audio Boost Tools for Diverse Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/make-windows-11-edge-less/"><u>Make Windows 11 Edge-Less</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-data-security-adopt-daily-windows-backup-habits/"><u>Mastering Data Security: Adopt Daily Windows Backup Habits</u></a></li>
+<li><a href="https://win11.techidaily.com/mouse-mystery-solve-non-waking-windows-1011-devices/"><u>Mouse Mystery: Solve Non-Waking Windows 10/11 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-accidental-keyboard-hotkeys-at-desktop/"><u>Overcoming Accidental Keyboard Hotkeys at Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-windows-11-screens-9-fixes-for-blurry-views/"><u>Perfecting Windows 11 Screens: 9 Fixes for Blurry Views</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/uncomplicated-walkthrough-of-easy-iphone-screen-capture/"><u>Uncomplicated Walkthrough of Easy iPhone Screen Capture</u></a></li>
 </ul></div>
 

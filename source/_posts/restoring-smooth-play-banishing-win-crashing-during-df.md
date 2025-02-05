@@ -1,7 +1,7 @@
 ---
 title: "Restoring Smooth Play: Banishing Win Crashing During DF"
-date: 2025-01-23T18:00:42.426Z
-updated: 2025-01-24T22:00:22.762Z
+date: 2025-02-03T04:34:00.836Z
+updated: 2025-02-03T23:35:10.162Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/781e8428af43f7240e5d953add419c8aa194f2d4e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is Dwarf Fortress Crashing?
 
 ![screenshot of the dwarf fortress installation directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_game_log.jpg)
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/781e8428af43f7240e5d953add419c8aa194f2d4e
 
  Regardless of what is causing the crash, it's very likely that whatever problem you're having can be fixed by one of the following solutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Basic Troubleshooting Steps
 
 ![screenshot of verifying steam files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_verify_steam_game_files.jpg)
@@ -44,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/781e8428af43f7240e5d953add419c8aa194f2d4e
  The game being on the Steam platform brings with it another share of troubleshooting steps. Take a look at our guide on[troubleshooting Steam issues on Windows](https://www.makeuseof.com/troubleshoot-windows-steam-games-not-playing/) and make sure you at least verify the integrity of the game files. That, combined with a system restart, is sometimes all you need to do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Force Dwarf Fortress to Use Dedicated Graphics
@@ -52,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/781e8428af43f7240e5d953add419c8aa194f2d4e
 ![screenshot of the AMD radeon program showing the games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_amd_games_list-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A common cause of crashes for the new Dwarf Fortress release is related to whether or not your dedicated graphics card is being used.
@@ -60,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/781e8428af43f7240e5d953add419c8aa194f2d4e
  Dwarf Fortress now carries actual graphics, and as simple as they are, they benefit from a dedicated graphics card. Sometimes, Dwarf Fortress will default to your integrated graphics. We'll need to change that.
 
  This process varies depending on what brand or model your graphics card is. We have a guide that explains[how to make games use your dedicated GPU](https://www.makeuseof.com/how-to-set-default-gpu/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable Full Screen Optimizations
 
@@ -73,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/781e8428af43f7240e5d953add419c8aa194f2d4e
 
  Now give it a go. This option doesn't actually affect the visuals or gameplay in any way, so this option is safe to turn on as a "just in case" measure.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Set the Resolution to Non-Widescreen
 
 ![screenshot of dwarf fortress video settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_video_settings.jpg)
@@ -86,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/781e8428af43f7240e5d953add419c8aa194f2d4e
  To do this, navigate to the video settings of Dwarf Fortress by clicking**Settings** in the main menu.
 
  The first screen that opens is the video settings screen. Simply change the**Resolution** drop-down to something below 1920x1080.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Delete Save Data
 
@@ -108,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/781e8428af43f7240e5d953add419c8aa194f2d4e
 5. Delete all the files except for**world.sav** .
 
  By doing this, you'll be repopulating your world, history, and timeline. However, your structures and units will remain. While this isn't a desirable option, there are a handful of crashes that can only be fixed in this way.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## New Game Version, New Game Crashes
 
@@ -136,22 +136,18 @@ thumbnail: https://thmb.techidaily.com/781e8428af43f7240e5d953add419c8aa194f2d4e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-vlogging-hurdles-how-to-triumph-over-ten-common-obstacles/"><u>[New] 2024 Approved Vlogging Hurdles How to Triumph Over Ten Common Obstacles</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-creating-illusionary-settings-with-instagrams-chroma-key-for-2024/"><u>[Updated] Creating Illusionary Settings with Instagram’s Chroma Key for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-guide-to-gamers-screen-recordings-with-win10-for-2024/"><u>[Updated] The Ultimate Guide to Gamers' Screen Recordings with Win10 for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/comment-connecter-votre-amazon-cloud-drive-sur-un-mac-guide-facile-et-detaille/"><u>Comment Connecter Votre Amazon Cloud Drive Sur Un Mac - Guide Facile Et Détaillé</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehending-winservicesexe-for-effective-troubleshooting/"><u>Comprehending Winservices.exe for Effective Troubleshooting</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-windows-update-failure-error-0x8e00c/"><u>Correcting Windows Update Failure (Error 0X8e00c)</u></a></li>
-<li><a href="https://win11.techidaily.com/disguising-windows-11-taskbars-task-view-control/"><u>Disguising Windows 11 TaskBar's Task View Control</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-vivo-x90s-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Vivo X90S</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo Y36i? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/inside-look-free-powerful-photo-editing-with-photoscape-software-breakdown/"><u>Inside Look: Free, Powerful Photo Editing with PhotoScape Software Breakdown</u></a></li>
-<li><a href="https://facebook.techidaily.com/peaking-moment-for-facebooks-user-base/"><u>Peaking Moment for Facebook's User Base</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-windows-blue-screen-due-to-not-handled-errors/"><u>Preventing Windows Blue Screen Due to Not Handled Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-inconsistent-windows-thx-audio-output/"><u>Rectifying Inconsistent Windows THX Audio Output</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722895217092-revamp-your-file-organizers-appearance-changing-folder-colors-on-a-mac/"><u>Revamp Your File Organizer's Appearance - Changing Folder Colors on a Mac</u></a></li>
-<li><a href="https://win11.techidaily.com/ungroup-taskbar-on-win-11-simple-steps/"><u>Ungroup Taskbar on Win 11 - Simple Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-more-secure-future-with-windows-11s-updated-support-schedule/"><u>Unveiling More Secure Future With Windows 11'S Updated Support Schedule</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-arm-installation-made-simple-via-iso-download-guide/"><u>Windows 11 ARM Installation Made Simple via ISO Download Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-navigating-instagrams-latest-filters-a-year-round-guide/"><u>[New] 2024 Approved Navigating Instagram's Latest Filters A Year-Round Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-convenient-tactics-for-transferring-imovie-projects-to-vimeo/"><u>[New] In 2024, Convenient Tactics for Transferring iMovie Projects to Vimeo</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/aximize-video-reach-in-youtubes-seo-arena/"><u>[New] Maximize Video Reach in YouTube's SEO Arena</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-low-cost-leverage-to-youtube-lore-sponsorship-hacks-for-small-spheres/"><u>[Updated] 2024 Approved Low-Cost Leverage to YouTube Lore Sponsorship Hacks for Small Spheres</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-navigating-the-mobile-film-world-thumbnail-creation-essentials-for-2024/"><u>[Updated] Navigating the Mobile Film World Thumbnail Creation Essentials for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-leading-productivity-laptop-thats-not-from-lenovo-or-apple-exclusive-review-by-zdnet/"><u>Discover the Leading Productivity Laptop That's Not From Lenovo or Apple: Exclusive Review by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easily-set-up-a-distinctive-email-closing-in-godaddys-webmail-platform-a-comprehensive-tutorial/"><u>Easily Set Up a Distinctive Email Closing in GoDaddy's Webmail Platform – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-controlling-windows-11-wins-alerts/"><u>Guide to Controlling Windows 11 Wins Alerts</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone 15 Pro Max</u></a></li>
+<li><a href="https://win11.techidaily.com/make-the-most-of-intel-unison-with-these-fixes-for-windows-11/"><u>Make the Most of Intel Unison with These Fixes for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-obstacles-to-activate-windows-batch-scripts/"><u>Overcoming Obstacles to Activate Windows Batch Scripts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210751416-9781722527679-the-master-key-to-riches/"><u>The Master-Key to Riches | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/utilizing-d-drive-directories-on-windows-explore/"><u>Utilizing D: Drive Directories on Windows Explore</u></a></li>
 </ul></div>
 

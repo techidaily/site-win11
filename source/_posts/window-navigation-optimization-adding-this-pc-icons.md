@@ -1,7 +1,7 @@
 ---
 title: "Window Navigation Optimization: Adding 'This PC' Icons"
-date: 2024-08-08T13:18:25.338Z
-updated: 2024-08-09T13:18:25.338Z
+date: 2025-02-02T06:30:29.644Z
+updated: 2025-02-04T05:00:25.764Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
  If accessing the "This PC" folder from File Explorer feels cumbersome, here's how you can move it directly to your desktop.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add the "This PC" Icon to Your Windows Desktop
 
  To add the "This PC" icon to your Windows 11 desktop, follow these steps:
@@ -30,48 +31,47 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
 1. Right-click on the Windows**Start** button and open**Settings** .
 2. Navigate to the**Personalization** tab in the left sidebar.
 3. Go to**Themes** in the right pane.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![Go to Themes in Personalization Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-go-to-themes-in-personalization-tab-of-windows-settings-app.jpg)
 4. Click on**Desktop icon settings** under**Related settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Click on Desktop Icon Settings Under Related Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-click-on-desktop-icon-settings-under-related-settings-in-windows-settings-app.jpg)
 5. In the**Desktop Icon Settings** window, check the box beside**Computer** .
 6. Then, click on**Apply** and hit**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![Click OK After Checking the Box Besides Computer in Desktop Icons Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-click-ok-after-checking-the-box-besides-computer-in-desktop-icons-settings-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's all. Following the above steps will add the "This PC" icon to your desktop. If you wish to remove the icon again, follow the same steps outlined above, but this time uncheck the box beside**Computer** (that you checked), click**Apply** , and hit**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Click OK After Unchecking the Box Beside Computer in Desktop Icons Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-click-ok-after-unchecking-the-box-beside-computer-in-desktop-icons-settings-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Similar to how we have added the "This PC" icon, you can[add other icons to your desktop in Windows](https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/) , such as Recycle Bin, Network, and Control Panel.
 
  Don't restore the icon settings after making this change. This will reverse our recent change, and the "This PC" icon will again disappear.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Easily Add the "This PC" Icon to Your Desktop
 
  Windows 11 doesn't display the "This PC" icon on the desktop by default, so we have to add it manually. Hopefully, the above steps will help you add this icon to your desktop and make accessing your drives much more straightforward. Taking this step will significantly enhance your productivity. If you decide to clean up your desktop in the future, follow the same steps and disable it again.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -80,4 +80,18 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-crafting-captivating-campaigns-elevating-roi-in-fbs-animation-space/"><u>[New] In 2024, Crafting Captivating Campaigns Elevating ROI in FB's Animation Space</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unrivaled-tag-analyzers-your-key-to-hashtag-success-fbtwitterinsta-for-2024/"><u>[New] Unrivaled Tag Analyzers Your Key to Hashtag Success (FB/Twitter/Insta) for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/engaging-vlogger-subjects-each-day-for-2024/"><u>Engaging Vlogger Subjects Each Day for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-discount-alert-samsungs-4tb-portable-ssd-t5-available-again-on-amazon-up-to-50-off-zdnet-report/"><u>Huge Discount Alert: Samsung's 4TB Portable SSD (T5) Available Again on Amazon - Up to 50% Off! [ZDNet Report]</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-glitches-the-top-10-tools/"><u>Mastering Windows Glitches: The Top 10 Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-dealing-with-windows-exception-breakpoint-failure/"><u>Quick Fixes for Dealing with Windows Exception Breakpoint Failure</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721391750232-revolutionary-chatgpt-tweaks-youll-love/"><u>Revolutionary ChatGPT Tweaks You'll Love</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-guide-to-tackling-regular-windows-rainmeter-issues/"><u>The Insider's Guide to Tackling Regular Windows Rainmeter Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/uncovering-methods-to-disable-gpu-aided-prioritization-on-widno/"><u>Uncovering Methods to Disable GPU-Aided Prioritization on WIDNO</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-tips-manage-file-explorer-folders-visibility/"><u>Windows 11 Tips: Manage File Explorer Folders Visibility</u></a></li>
+</ul></div>
 

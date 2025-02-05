@@ -1,7 +1,7 @@
 ---
 title: Guide to Recovery for Windows 11 Blue Screen with Exception Handlers
-date: 2025-01-20T04:07:09.054Z
-updated: 2025-01-24T20:32:04.906Z
+date: 2025-01-28T18:41:25.501Z
+updated: 2025-02-03T22:26:42.632Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Understanding the Causes
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
  Now that we know the potential causes, let's look at the solutions that helped several affected users fix the issue. Proceed with the one that fits your situation the best.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Boot Into WinRe if Your PC Won't Launch
@@ -77,10 +77,6 @@ C:\Windows\System32\
 ![Delete the files in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-file.jpg)
 3. Now, press the Win + R keys together to open Run.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Type regedit in Run and click Enter.
 5. Click**Yes** in the User Account Control prompt.
 6. Once you are inside the Registry Editor, navigate to the location mentioned below if you are using a 32-bit system:  
@@ -89,12 +85,16 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Software Installed\APOIMHKEY_LOCAL_MAC
 ![Delete the Registry Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-registry-value.jpg)
 8. If you are using a 64-bit operating system, navigate to the following locate and delete the APOIM value using the same method from here:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Creative Tech\Software Installed\APOIMHKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Creative Tech\Installation\CTRedist\APOIM
 
  Finally, you can close the Registry Editor and restart your computer. Hopefully, you should no longer face the Blue Screen of Death error upon reboot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Remove the Problematic Software
@@ -114,10 +114,6 @@ Here is what you need to do:
 
  Once the app is uninstalled, restart your computer and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Run Driver Verifier
 
  If you encounter a blue screen error, it may be due to an issue with the critical drivers on your computer. Identifying the problematic driver manually can be time-consuming, which is where the Driver Verifier utility comes in handy.
@@ -129,6 +125,10 @@ Here is what you need to do:
 ## 5\. Other Generic Fixes to Try
 
  Apart from the solutions discussed above, several[other troubleshooting methods for BSODs](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) can help you fix blue screen errors such as this one. This includes scanning the critical system files, restoring the system to an older working state, and checking the hardware for problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## BSOD Error, Now Fixed
 
@@ -151,22 +151,15 @@ Here is what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ideal-blueprint-top-6-fresh-mojave-homes/"><u>[Updated] In 2024, Ideal Blueprint Top 6 Fresh Mojave Homes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-free-resource-pack-high-quality-pp-samples/"><u>[Updated] The Ultimate Free Resource Pack High-Quality PP Samples</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-70-lite-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor 70 Lite 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974803129-instantly-elevate-your-systems-intellg3000-on-win11/"><u>Instantly Elevate Your System's IntellG3000 on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-directory-management-windows-11-techniques/"><u>Mastering Directory Management: Windows 11 Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/merge-gmail-with-outlook-on-windows-a-detailed-guide/"><u>Merge Gmail with Outlook on Windows: A Detailed Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-ai-illusions-strategies-for-discerning-accurate-machine-learning-responses/"><u>Navigating Through AI Illusions: Strategies for Discerning Accurate Machine Learning Responses</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-keyboard-mastery-typingaids-way/"><u>Quick Keyboard Mastery - TypingAid's Way</u></a></li>
-<li><a href="https://win11.techidaily.com/regular-update-reactivating-microsoft-store-on-windows-pcs/"><u>Regular Update: Reactivating Microsoft Store on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-camera-problems-in-windows-like-a-pro/"><u>Solving Camera Problems in Windows Like a Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-unidentified-fingerprint-scanner-errors-in-windows/"><u>Solving Unidentified Fingerprint Scanner Errors in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-active-directory-errors-with-xp-devices/"><u>Troubleshooting Active Directory Errors with XP Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-blocked-app-notification-in-windows/"><u>Troubleshooting Blocked App Notification in Windows</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/troubleshooting-pc-issues-on-windows-a-step-by-step-guide-yl-technologies/"><u>Troubleshooting PC Issues on Windows: A Step-by-Step Guide - YL Technologies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-innovation-with-freeform-idea-generation-the-ultimate-creative-tool-for-successful-brainstorming-zdnet/"><u>Unlock Innovation with Freeform Idea Generation – The Ultimate Creative Tool for Successful Brainstorming | ZDNET</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/which-cameras-rule-the-field-gopro-hero-vs-sony-x1000v-clashes/"><u>Which Cameras Rule the Field? GoPro Hero Vs. Sony X1000V Clashes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-bring-life-to-stills-motion-blur-technique-for-2024/"><u>[New] Bring Life to Stills Motion Blur Technique for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-offline-android-delights-9-most-addictive-mobile-games-for-2024/"><u>[Updated] Offline Android Delights 9 Most Addictive Mobile Games for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastery-in-making-advanced-tiktok-editing-techniques/"><u>2024 Approved Mastery in Making Advanced TikTok Editing Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/bloodthirsty-horror-your-ultimate-8-zombie-game-compilation-for-2024/"><u>Bloodthirsty Horror Your Ultimate 8 Zombie Game Compilation for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/hack-the-store-glitch-defeating-error-code-x80072f30-on-pc/"><u>Hack the Store Glitch: Defeating Error Code X80072F30 on PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixing-c0000005-errors-in-windows/"><u>Mastering the Art of Fixing C0000005 Errors in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-steps-to-reset-softwaredistribution-on-windows-11/"><u>Simplified Steps to Reset SoftwareDistribution on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/steps-to-take-when-you-encounter-a-potential-chatgpt-phishing-site/"><u>Steps to Take When You Encounter a Potential ChatGPT Phishing Site</u></a></li>
+<li><a href="https://win11.techidaily.com/unseen-threats-exposed-manual-checks-for-windows-pc-security/"><u>Unseen Threats Exposed: Manual Checks for Windows PC Security</u></a></li>
 </ul></div>
 

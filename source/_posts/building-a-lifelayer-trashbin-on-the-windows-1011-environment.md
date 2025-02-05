@@ -1,7 +1,7 @@
 ---
 title: Building a Lifelayer Trashbin on the Windows 10/11 Environment
-date: 2024-07-29T15:56:41.600Z
-updated: 2024-07-30T15:56:41.600Z
+date: 2025-01-30T07:27:15.412Z
+updated: 2025-02-03T21:44:12.246Z
 tags:
   - windows10
   - windows11
@@ -21,16 +21,13 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
  Would you prefer to have a bin on your Windows 10 or 11 desktop that truly deletes files dragged to it beyond recovery? If so, you can add exactly that to the desktop with Free File Wiper and Multi Trash. This is how you can add a desktop trash bin for permanent file erasure to Windows with those apps.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Standard Deletion vs. Permanent Erasure: What's Wrong With the Default Recycle Bin?
 
  The Recycle Bin is based on the standard file deletion method. It enables users to delete files either by emptying the bin or bypassing it by pressing the**Shift + Delete** hotkey. Users can also select a**Don’t move files to the Recycle Bin** option for standard file deletion.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![The Recycle Bin Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/recycle-bin-properties-option.jpg)
 
  Yet, the Recycle Bin’s standard deletion method merely removes a hard drive reference pointer for a file. Doing so marks the drive space a deleted file occupies as available, but the data remains intact until it gets overwritten. This means that non-overwritten files removed with standard deletion can still be recovered with data recovery software. Our data recovery software guide tells you about some of the[best tools you can use for restoring files](https://www.makeuseof.com/best-data-recovery-software/) .
@@ -41,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 
  Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on[if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Add a File Deletion Bin to the Desktop With Free File Wiper
 
  Free File Wiper is, as its title implies, freely available software for Windows platforms. That’s also a portable app for which no installation is required. This software has four options for wiping (overwriting) data thoroughly. You can add a Free File Wiper bin to the Windows 10 and 11 desktop like this:
@@ -53,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 3. Activate File Explorer by pressing its folder library taskbar button.
 4. Bring up the directory in which the**free\_file\_wiper.zip** file is downloaded.
 5. Unzip the**free\_file\_wiper.zip** archive as instructed in our guide for extracting ZIP files in Windows.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/extract-compressed-file-tool.jpg)
 6. Double-click**Free\_File\_Wiper.exe** in its extracted directory to run the app.
 7. You’ll see a help window for the app when you first start it. Deselect the**Show this help at startup** checkbox if you don’t want the info to appear again.  
@@ -71,16 +62,14 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 
  Free File Wiper's context menu also includes other options. There you can select alternative transparency levels for the bin icon. Click**Autostart with Windows** to add Free File Wiper to the startup items.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![The Wipe method option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wipe-method-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add a File Deletion Bin to the Desktop With Multi Trash
 
  Multi Trash is a gadget you can add to the desktop with the 8GadgetPack software. This desktop gadget is a 3-in-1 bin for recycling, deleting, and shredding files. When set to shred files, it will permanently erase them. This is how you can add Multi Trash to the Windows desktop.
@@ -96,9 +85,17 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
 ![The Multi Trash Recycle bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-multi-trash-recycle-bin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Shred bin will permanently erase files dragged onto it. So, go ahead and drag some files from Explorer’s window onto the Shred bin. A confirmation prompt will open that asks if you’re sure about permanently deleting the file. Click**Yes** to confirm as such.
 
@@ -108,11 +105,12 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 
 ![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Delete Your Files More Securely on the Windows 10 and 11 Desktop
 
  Adding Free File Wiper or Multi Trash bins to Windows will enable you to delete files and folders more securely from the desktop area. Although there are many other file shredder utilities available, few of them have comparable drag-and-drop functionality. So, Multi Trash and Free File Wiper are more unique tools for shredding files in that respect.
@@ -125,8 +123,6 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +130,20 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-best-free-online-photo-tools-ranked-15-for-2024/"><u>[Updated] Best Free Online Photo Tools Ranked #15 for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-mastering-avi-to-gif-filmora-guide-for-pcmac-for-2024/"><u>[Updated] Mastering AVI to GIF Filmora Guide for PC/Mac for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/44cm54sh5paz44cb5l244ge44ke44gz44gp44gm5lplush6ac844gn44gn44kl44od44od44oj44kt44oj44k544oi44oa44km44oz44ot44o844oa44o844gu6kmz57sw44gq6kej6kqs44cn/"><u>「無料、使いやすくて信頼できるポッドキャストダウンローダーの詳細な解説」</u></a></li>
+<li><a href="https://win11.techidaily.com/44cm44km44kn44ow44k144kk44oi44go44k944o844k344oj44or44oh44oh44kj44ki44gn5yq55p6c55qe44gr44oe44or44ob44oh44oh44kj44ki44ov44kh44kk44or44ks5ywx5pyj44gz44kl44gf30/"><u>「ウェブサイトとソーシャルメディアで効果的にマルチメディアファイルを共有するための戦略」</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-simplifycast-the-ultimate-guide-to-starting-your-podcast-livestream/"><u>2024 Approved SimplifyCast The Ultimate Guide to Starting Your Podcast Livestream</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-learning-journey-your-first-stop-at-9-tool-communities/"><u>AI Learning Journey: Your First Stop at 9 Tool Communities</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-when-house-flipper-2-keeps-crashing-on-pcs/"><u>Effective Fixes for When House Flipper 2 Keeps Crashing on PCs</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/how-to-protect-your-gpu-from-malfunction-essential-tips-by-yl-computing/"><u>How to Protect Your GPU From Malfunction: Essential Tips by YL Computing</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-successfully-solve-windows-1n-tens-system-service-exception-issues/"><u>How to Successfully Solve Windows 1N Ten's System Service Exception Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028954324-m4a/"><u>M4A形式への簡単なビデオ変換テクニック</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-overcome-streaming-and-recording-lags-in-obs/"><u>Resolved: Overcome Streaming & Recording Lags in OBS</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-the-appeal-of-60-fps-anime-a-visual-quality-comparison/"><u>Understanding the Appeal of 60 Fps Anime - A Visual Quality Comparison</u></a></li>
+<li><a href="https://win11.techidaily.com/usb-video-playback-easy-instructions-for-toshiba-tv-users/"><u>USB Video Playback: Easy Instructions for Toshiba TV Users</u></a></li>
+</ul></div>
 

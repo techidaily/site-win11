@@ -1,7 +1,7 @@
 ---
 title: Direct Download Approaches for New Users
-date: 2025-01-20T02:52:34.405Z
-updated: 2025-01-25T05:56:21.159Z
+date: 2025-02-01T08:50:00.753Z
+updated: 2025-02-03T22:35:15.700Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/7f563c6cc49d9e48b9aa551214712c5134f2db518
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use the Microsoft Store
 
  Before you move forward with this method, note that Google Chrome is unavailable on the Microsoft Store. If you want to install Chrome, skip to the next method.
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/7f563c6cc49d9e48b9aa551214712c5134f2db518
  To install a browser, start by launching the Microsoft Store. Search for Microsoft Store in the Start Menu and search for the browser you want to install. Select the browser and click**Install** . Wait for the browser to finish installing.
 
  When installing a browser, be sure to check the publisher to avoid installing fake apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Install Browsers Using Commands
 
@@ -63,10 +63,6 @@ Let's talk about how you can use these to download a browser.
 
  Exit the PowerShell window after the browser has been installed and you'll be ready to start browsing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Download a Browser Using the Curl Command
 
  Launch PowerShell by searching for it in the Start Menu. Navigate to the desktop by executing the following command:
@@ -81,12 +77,16 @@ Paste the link in quotation marks like so:
 
 ![installing chrome using the curl command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-curl.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The command essentially asks Curl to navigate to a specific URL, make a download request, follow HTTP redirects, and save the files as download.exe.
 
  Once the file has been downloaded, run the installation wizard to complete the installation process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Download a Browser Using Chocolatey
@@ -113,14 +113,10 @@ Next, run the following command:
 
 ![installing chrome using chocolatey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-choco.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once the process is complete, you can start using the new browser.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use a Invoke-WebRequest PowerShell Script
@@ -140,6 +136,10 @@ Run the following command in PowerShell:
 `Invoke-WebRequest link -o download.exe`
 
 ![installing chrome using powershell scripting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-powershell-script.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Replace the word link with the link to your browser's setup file. Once you execute the command, you'll see PowerShell downloading the file. Once the download is complete, exit PowerShell and run the download.exe file stored on your desktop. Follow the installation wizard's instructions and you're set.
 
@@ -162,20 +162,22 @@ Run the following command in PowerShell:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-ice-prowess-unleashed-2022-olympics-sprinting-spectacles/"><u>[New] 2024 Approved Ice Prowess Unleashed 2022 Olympics Sprinting Spectacles</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-begin-your-journey-into-xps-video-editing-world-for-2024/"><u>[New] Begin Your Journey Into Xp's Video Editing World for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-basic-screen-capture-windows-10-version/"><u>[Updated] Basic Screen Capture, Windows 10 Version</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unrivaled-video-tech-for-apple-phones/"><u>2024 Approved Unrivaled Video Tech for Apple Phones</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/detailed-insights-into-camstudio-capture-functionality-for-2024/"><u>Detailed Insights Into CamStudio Capture Functionality for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-track-to-windows-help-top-5-routes-uncovered/"><u>Fast Track to Windows Help - Top 5 Routes Uncovered</u></a></li>
-<li><a href="https://blog-min.techidaily.com/gratuit-konvertentie-wav-naar-m4a-online-movavi/"><u>Gratuit Konvertentie Wav Naar M4a Online - Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-edge-off-windows-11-shapes/"><u>How to Edge Off: Windows 11 Shapes</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-discovering-the-leading-6-head-mounted-gopro-systems-for-capturing-life/"><u>In 2024, Discovering the Leading 6 Head-Mounted GOPRO Systems for Capturing Life</u></a></li>
-<li><a href="https://win11.techidaily.com/no-more-compatibility-woes-fix-your-programs-in-windows/"><u>No More Compatibility Woes: Fix Your Programs in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/propel-your-productivity-top-5-must-have-windows-11-apps/"><u>Propel Your Productivity: Top 5 Must-Have Windows 11 Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-missing-windows-quick-fixes-for-windows-1011/"><u>Reviving Missing Windows: Quick Fixes for Windows 10/11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-affordable-bluetooth-speakers-of-2022-your-ultimate-guide-to-summer-soundtracks/"><u>Top Affordable Bluetooth Speakers of 2022 - Your Ultimate Guide to Summer Soundtracks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-simple-techniques-for-amazing-slow-motion-footage-in-android-for-2024/"><u>Unveiling Simple Techniques for Amazing Slow-Motion Footage in Android for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-size-spectrum-of-your-windows-apps/"><u>Unveiling the Size Spectrum of Your Windows Apps</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-rapid-access-accelerating-vimeo-videos/"><u>[New] 2024 Approved Rapid Access Accelerating Vimeo Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-narrative-flow-expert-tips-on-using-jump-cuts/"><u>[New] In 2024, Elevate Narrative Flow Expert Tips on Using Jump Cuts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-seamless-live-recording-on-fb-uncover-4-critical-steps-for-2024/"><u>[New] Seamless Live Recording on FB Uncover 4 Critical Steps for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-discover-the-power-of-nikon-1j5s-4k-video/"><u>[Updated] Discover the Power of Nikon 1J5's 4K Video</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-exploring-high-definition-chroma-blade-photography-for-2024/"><u>[Updated] Exploring High-Definition Chroma Blade Photography for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-fixing-missing-gpeditmsc-windows/"><u>Comprehensive Guide to Fixing Missing Gpedit.msc Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-connection-problems-between-windows-11-and-nvidia-experience/"><u>Eliminating Connection Problems Between Windows 11 & NVIDIA Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-12-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 12 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-google-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Google?</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-running-elevated-powershell-in-windows-11/"><u>Mastering the Art of Running Elevated PowerShell in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-fix-of-windows-intruder-error-messages/"><u>Mastering the Fix of Windows' Intruder Error Messages</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-productivity-and-convenience-with-cmd-shortcuts-in-win11/"><u>Maximize Productivity and Convenience with Cmd Shortcuts in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-0xc0000142-faults-in-win10win11/"><u>Overcoming 0XC0000142 Faults in WIN10/Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-glitches-apex-legends-issues/"><u>Overcoming Windows 11 Glitches: Apex Legends Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-shutdown-how-to-open-apps-again-in-w11/"><u>Reactivating Shutdown: How to Open Apps Again in W11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-repairing-your-xbox-one-when-it-shows-a-no-signal/"><u>Step-by-Step Solutions for Repairing Your Xbox One When It Shows a 'No Signal'</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/zoom-webinars-for-newbies-a-practical-starter-manual-for-2024/"><u>Zoom Webinars for Newbies A Practical Starter Manual for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Condensed Explore: Streamline Your File Explorer Layout"
-date: 2025-01-20T08:33:25.272Z
-updated: 2025-01-25T07:56:59.839Z
+date: 2025-01-30T17:54:54.574Z
+updated: 2025-02-03T20:45:44.440Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable Compact View in File Explorer Using the Command Bar
 
  The easiest way to enable or disable the compact view in File Explorer is to use the command bar. Here's what you need to do:
@@ -33,14 +37,10 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 2. Choose the **Compact view** option to enable it.  
 ![Compact view option in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/comapct-view-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That's it. You might need to restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable Compact View in File Explorer Using Folder Options
@@ -57,23 +57,23 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 
 ![Control folders command in the Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-folders-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Folder option, switch to the **View** tab and check the **Decrease space between item (compact view)** box. Then, click **Apply** \> **OK** to save the changes.
 
 ![Decrease space between item (compact view) option in the Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/decrease-space-between-item-compact-view-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With that, you should have less space between your files in File Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable Compact View in File Explorer Using the Registry Editor
 
 ![Enabling Compact view in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enabling-compact-view.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Registry files on your system contain important settings for Windows. If you're an advanced Windows user, you can enable the compact view in File Explorer using the Registry Editor.
 
@@ -88,7 +88,7 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 6. Type **1** in **Value data** and click OK. This will enable the Compact View. To disable, type **0** in the **Value data** and click **OK.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Change the File Explorer Look Anytime
@@ -112,18 +112,21 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-tech-tools-for-distance-podcasting/"><u>[New] 2024 Approved Tech Tools for Distance Podcasting</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-endorsed-ae-text-tools/"><u>[Updated] Expert-Endorsed AE Text Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sony-a6400-fixing-the-invisible-video-playback/"><u>[Updated] Sony A6400 Fixing the Invisible Video Playback</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-interface-with-three-column-widgets-in-win11/"><u>Elevate Your Interface with Three-Column Widgets in Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eradicating-glare-methods-to-stop-monitor-flashing/"><u>Eradicating Glare: Methods to Stop Monitor Flashing</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-get-the-outlook-preview-app-on-windows-11-and-11/"><u>How to Get the Outlook Preview App on Windows 11 and 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-motorola-defy-2-lock-screen-password-by-drfone-android/"><u>How to Reset your Motorola Defy 2 Lock Screen Password</u></a></li>
-<li><a href="https://win11.techidaily.com/learn-the-trick-for-swift-folder-reorganization-on-windows-11/"><u>Learn the Trick for Swift Folder Reorganization on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-art-of-fixing-fallout-76-on-your-computer-comprehensive-guide/"><u>Master the Art of Fixing Fallout 76 on Your Computer: Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-savings-on-windows-11-keys/"><u>Maximizing Savings on Windows 11 Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/reignite-the-joy-of-win-11-gaming-master-these-seven-game-changing-tweaks/"><u>Reignite the Joy of Win 11 Gaming: Master These Seven Game-Changing Tweaks</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-integrating-alternate-antivirus-without-defenders-restrictions/"><u>Tips for Integrating Alternate Antivirus without Defender’s Restrictions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-apple-watch-solving-issues-with-cellular-connectivity/"><u>Troubleshooting Apple Watch: Solving Issues with Cellular Connectivity</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-break-through-the-crowd-key-youtube-seo-strategies-to-rank-high-for-2024/"><u>[New] Break Through the Crowd Key YouTube SEO Strategies to Rank High for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-reviewing-ion-air-pro-3-capturing-life-in-high-definition/"><u>[New] Reviewing ION Air Pro 3 - Capturing Life in High Definition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-ultimate-guide-the-art-of-background-music-for-video-unboxing-for-2024/"><u>[New] Ultimate Guide The Art of Background Music for Video Unboxing for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-endless-possibilities-with-chatgpts-my-bot-capabilities/"><u>Discover Endless Possibilities With ChatGPT's My Bot Capabilities</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Does Life360 Notify When You Log Out On Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-elevation-for-power-users-on-pc/"><u>Enabling Elevation for Power Users on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-file-or-directory-is-corrupted-error-0x80070570-on-windows-11-and-11/"><u>How to Fix the “File or Directory Is Corrupted” Error 0X80070570 on Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-microsoft-teams-error-80080300-in-windows-11/"><u>How to Fix the Microsoft Teams Error 80080300 in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-the-frozen-windows-start-button/"><u>How to Reactivate the Frozen Windows Start Button</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-no-audio-from-realtek-dac-issue-on-your-pc-solutions/"><u>How to Resolve 'No Audio From Realtek DAC' Issue on Your PC | Solutions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-spectacular-video-connections-quest/"><u>In 2024, Spectacular Video Connections Quest</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-essential-camera-toolkit-for-yt-enthusiasts/"><u>In 2024, The Essential Camera Toolkit for YT Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/remedies-for-unstartable-speech-to-text-on-windows-platform/"><u>Remedies for Unstartable Speech-to-Text on Windows Platform</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-complete-encyclopedia-of-tweetresponses/"><u>The Complete Encyclopedia of TweetResponses</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-fix-list-for-defective-mail-alerts-in-os-windows/"><u>The Ultimate Fix List for Defective Mail Alerts in OS Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-shortcuts-gaining-infinite-capabilities/"><u>Windows Shortcuts: Gaining Infinite Capabilities</u></a></li>
 </ul></div>
 

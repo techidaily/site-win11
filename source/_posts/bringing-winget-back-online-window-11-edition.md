@@ -1,7 +1,7 @@
 ---
 title: "Bringing Winget Back Online: Window 11 Edition"
-date: 2024-07-29T15:55:51.191Z
-updated: 2024-07-30T15:55:51.191Z
+date: 2025-02-02T02:13:35.891Z
+updated: 2025-02-04T02:40:43.922Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/b1e13c65cf79c8bfe0a90a1ea55d4cf4b25b6f465
 
  But some users report that Winget is not working on their PC. They face a "The system cannot execute the specified program" and cannot run any commands, This post will discuss multiple methods to resolve the issue and restore Winget to its working state. Let’s begin.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Reasons Why Winget Stops Working on Windows
 
  Here are the following reasons why Winget is not working on your Windows PC:
@@ -35,9 +31,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Now, you know the reasons behind Winget not working issue. Try out these eight methods to resolve the issue and use your favorite package manager again.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Close and Reopen Winget in the Terminal App
 
  Before moving on to advanced fixes, completely close the Command Prompt or PowerShell instance you are running on the PC. You can use the Task Manager to stop an unresponsive instance of either of these command-line tools.
@@ -50,27 +43,29 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  You can also check if your Windows PC can connect to the internet. Simply open a web browser and access a website or run a web-based app to confirm internet connectivity. If the servers are down, you will have to wait until they come up live again to use Winget.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Perform a Complete System Shutdown
 
  Windows uses Fast Startup to hibernate kernel-level processes and if any of these glitch, they remain in that state after your power on the system. So, perform a complete shutdown to close and relaunch all the core services and then try to run Winget. Here’s how to do it:
 
 1. Press **Win + R** to open the Run dialog box. Type **cmd** and press **Ctrl + Shift + Enter** keys to [open the Command Prompt with administrator privileges](https://www.makeuseof.com/windows-run-command-prompt-admin/).
 2. Now, type the following command and press the Enter key: **shutdown /s /f /t 0**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Completely Shutdown your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/completely-shutdown-your-pc.jpg)
 3. Your system will shut down. It will take longer than a usual shutdown because Windows will close everything.
 4. Power on your system and try to run Winget using the Terminal app to check if it works now.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Update App Installer
 
  Winget is a part of Windows 10 and 11 now and is shipped to PCs using the App Installer application. If you haven’t updated the App Installer in a while, you can face issues in running Winget and managing packages. Winget is included only in version 1.11.11451 or higher of the App Installer. If you have a version older than that, you cannot use Winget from the terminal.
 
 ![Update App Installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-app-installer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So, open Microsoft Store and check the library section for any pending updates for the App Installer. Manually search and install the update and check if Winget works now.
 
@@ -85,6 +80,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![Enable the App Execution Alias-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-the-app-execution-alias-1.jpg)
 5. Close the Settings app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Manually Add the Path Environment Variable
 
  Ae wrongly configured Winget path can also produce errors. So, you must manually add the correct path in Environment Variables using the Advanced System Properties window. Repeat the following steps:
@@ -92,11 +91,13 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 1. Press **Win + R** to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/). Type **sysdm.cpl ,3** in the text box and press the **Enter** key to open **Advanced System Properties**.
 2. Click on the **Environment Variables** button. Click on the **Path** entry and then click on the **Edit** button.
 3. Now, click on the New button and paste the following path: **%UserProfile%\\AppData\\Local\\Microsoft\\WindowsApps**  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![Manually Add the Path Environment Variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manually-add-the-path-environment-variable.jpg)
 4. Click on the **OK** button. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Open the Terminal app and check if Winget works or not.
 
 ## 7\. Re-register Winget Using PowerShell
@@ -109,9 +110,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 3. You won’t see any confirmation message after the command executes successfully. Close the PowerShell window and restart your PC.  
 ![Re-register Winget Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/re-register-winget-using-powershell.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Try Some Generic Windows Fixes
 
  If none of the methods work for you, try our generic fixes like SFC and DISM scans that find and fix the system file corruption and service Windows Image components. You must [run the SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) first and allow it to find and replace the corrupt system files, if any. After that, [run the DISM scan](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) in online mode.
@@ -119,16 +117,14 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  After running these scans, you can use System Restore to revert the PC to a point in time when everything worked fine. Lastly, you can perform a complete system reset. You can choose the Keep my files option to preserve all your files while [factory resetting Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make Winget Functional Again
 
  Winget is a fantastic package manager that helps you control and manage app packages from the terminal. Ensure robust internet connectivity and check if the app execution alias is active for Winget. Manually reconfigure the PATH for Winget and re-register the App Installer using PowerShell. If you want a GUI version of Winget, you can try Winstall which helps you batch-install apps.
 
  But some users report that Winget is not working on their PC. They face a "The system cannot execute the specified program" and cannot run any commands, This post will discuss multiple methods to resolve the issue and restore Winget to its working state. Let’s begin.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -136,3 +132,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-gaming-experience-on-youtube-for-2024/"><u>[New] Elevate Your Gaming Experience on YouTube for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-15-cycling-sims-to-play-for-2024/"><u>[New] Top 15 Cycling Sims to Play for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-update-netgear-wifi-pcie-drivers/"><u>Download and Update Netgear WiFi PCIe Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-audio-upgrade-tips-elevate-your-listening-experience-with-the-leading-enhancers/"><u>Effortless Audio Upgrade Tips: Elevate Your Listening Experience with the Leading Enhancers</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-on-how-to-transform-your-dvds-sound-into-mp3-using-premium-converters/"><u>Expert Tips on How to Transform Your DVD's Sound Into MP3 Using Premium Converters</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-on-securely-saving-your-favorite-videos-from-videahu/"><u>Expert Tips on Securely Saving Your Favorite Videos From Videa.hu</u></a></li>
+<li><a href="https://win11.techidaily.com/free-ways-to-eliminate-your-tiktok-videos-branding/"><u>Free Ways to Eliminate Your TikTok Video's Branding</u></a></li>
+<li><a href="https://win11.techidaily.com/from-concept-to-screen-essential-techniques-for-creating-amazing-music-videos-beginner-level/"><u>From Concept to Screen: Essential Techniques for Creating Amazing Music Videos (Beginner Level)</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-upgrading-your-dvd-files-a-step-by-step-tutorial-for-hd-wmv-playback-on-windows-pcs/"><u>Guide to Upgrading Your DVD Files: A Step-by-Step Tutorial for HD WMV Playback on Windows PCs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-t2-pro-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo T2 Pro 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-v30-lite-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo V30 Lite 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-mastering-video-quality-with-yi-4k-action-camera/"><u>In 2024, Mastering Video Quality with Yi 4K Action Camera</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/maximizing-gaming-power-a-guide-to-faster-windows-11-performance/"><u>Maximizing Gaming Power: A Guide to Faster Windows 11 Performance</u></a></li>
+</ul></div>
+

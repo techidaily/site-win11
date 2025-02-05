@@ -1,7 +1,7 @@
 ---
 title: Clear Outdated Files with Confidence Using Windows 10/11'S Feature
-date: 2024-07-29T15:56:10.423Z
-updated: 2024-07-30T15:56:10.423Z
+date: 2025-02-02T19:48:08.214Z
+updated: 2025-02-03T23:01:12.133Z
 tags:
   - windows10
   - windows11
@@ -20,26 +20,20 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
  You can get rid of Windows 10 bloatware. You can sort your right click menu. You can even declutter your search results. And of course, you can clean up your desktop. If you're looking for a more passive approach, here's how to erase old files on Windows 10 and 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Auto-Delete Old Files or Folders Using Storage Settings
 
  The Settings menu lets you do and manage a lot of stuff on your Windows computer. From updates to tweaking the Windows appearance—you can do almost everything. It's no surprise then that you can also use it for setting up an auto-deletion setting on your Windows. Here's how:
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![storage settings on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/storage-settings-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Go to **Settings > System > Storage**.
 2. Toggle on the **Storage Sense** feature.
 3. Then, click **Configure Storage Sense or run it now**.
 4. Under **Temporary Files**, set up your desired time frames fore deleting files in the recycle bin and files in your Downloads folder.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![storage sense in windows settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/storage-sense-in-windows-settings.jpg)
 
  Not all files in the Downloads folder will be deleted after the set time; just those that haven't been opened. This means if you download a file and want to open it later, it will still be deleted after the set time. If you turn this setting on, you should move anything out of the Downloads folder that you intend to keep.
@@ -47,8 +41,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  If you want, you can always turn off the setting by simply disabling the **Storage Sense** button later on.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Deleted Old Files or Folders With the Command Prompt
 
  Like most things on Windows, you can use the Command Prompt here as well. A replacement for the easy pin-and-point graphical user interface, the Command Prompt works with simple text-based commands to help you perform different admin functions and fix various troubleshooting issues on Windows.
@@ -63,6 +58,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![command prompt on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/command-prompt-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your files will be removed as quickly as soon as you hit the above commands.
 
 ## 3\. Use Task Scheduler on Windows
@@ -75,9 +74,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. Right-click on **Task Scheduler Library** and select **New Folder**.
 3. Put in any name and click on **OK**.
 4. Right-click on the recently created folder and select the **Create Task** option.  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/task-scheduler.jpg)
 5. In the **Name** box, enter a name for the task.
 6. Now, in the **General** tab, under the **Security options** section, select the **Run whether the user is logged on or not** option.
@@ -95,6 +91,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![new action tab on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-action-tab-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Similarly, in the **Add arguments** box, type in the following command:
 
 `/p "C:\path\to\folder"/s /d -30 /c "cmd /c del /q @file"`
@@ -111,12 +111,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![new action setting on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-action-setting-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it—finalize the changes by clicking **OK** once again, and you will be done in no time. From here forward, your files will be automatically deleted within the specified time. Of course, if you later change your mind you can always reverse this setting by simply deleting the new folder your created in first step (which in our case, will be **New Folder 1**).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Auto-Deleting Old Files or Folders on a Windows Computer
 
  Keeping unnecessary files on your computer is seldom useful. They eat up memory space, hamper your PC's performance, and clog the file organization. Setting up auto-delete instructions, with whichever method you prefer, lets you rid your PC of this extra baggage.
@@ -125,11 +125,27 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  You can get rid of Windows 10 bloatware. You can sort your right click menu. You can even declutter your search results. And of course, you can clean up your desktop. If you're looking for a more passive approach, here's how to erase old files on Windows 10 and 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-securing-every-moment-tips-for-reliable-capture-of-google-meet-sessions/"><u>[New] In 2024, Securing Every Moment Tips for Reliable Capture of Google Meet Sessions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-sonic-sculpture-how-to-mold-soundscapes-with-cost-free-effect-tools/"><u>[New] In 2024, Sonic Sculpture How to Mold Soundscapes with Cost-Free Effect Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/mp4isotop3/"><u>無料MP4からISOへの高性能な変換ソフトウェア：おすすめランキングTOP3</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/how-to-modify-game-characters-vocal-presence-and-identity-in-free-fire-step-by-step-guide-included-free-for-2024/"><u>How to Modify Game Characters' Vocal Presence and Identity in Free Fire (Step-by-Step Guide Included, FREE) for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-troubleshoot-a-website-facing-a-503-service-error-message/"><u>How to Troubleshoot a Website Facing a 503 Service Error Message</u></a></li>
+<li><a href="https://win11.techidaily.com/joyful-easter-celebrations-with-wonderfoxs-special-edition-for-the-holiday/"><u>Joyful Easter Celebrations with WonderFox's Special Edition for the Holiday</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-converting-videocasts-to-high-quality-mp3-files-in-minutes/"><u>Master the Art of Converting Videocasts to High-Quality MP3 Files in Minutes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-apex-effective-fixes-for-the-infamous-error-code-23-glitch/"><u>Mastering Apex: Effective Fixes for the Infamous Error Code 23 Glitch</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-wav-file-creation-in-windows-10-for-clear-sound-capture/"><u>Mastering the Art of WAV File Creation in Windows 10 for Clear Sound Capture</u></a></li>
+<li><a href="https://win11.techidaily.com/mp4-f4v/"><u>MP4に変換してください - F4Vファイルからのコンバージョンガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/pcgta5/"><u>PC上のGTA5キャプチャ手順: ステップバイステップガイド</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-for-no-audio-in-windows-media-player-step-by-step-instructions/"><u>Solution for No Audio in Windows Media Player: Step-by-Step Instructions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-honor-90-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Honor 90 | Dr.fone</u></a></li>
+</ul></div>
+

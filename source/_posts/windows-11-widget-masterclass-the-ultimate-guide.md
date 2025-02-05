@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Widget Masterclass: The Ultimate Guide"
-date: 2025-01-18T01:19:28.867Z
-updated: 2025-01-25T05:49:30.001Z
+date: 2025-01-31T23:50:52.239Z
+updated: 2025-02-04T03:47:55.262Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Display the Widgets Button in Taskbar
 
  The only location from where you can launch widgets is the Taskbar. If you just bought a new PC or updated to Windows 11 recently, you should see the**Widgets button** on the left side of the Taskbar because this is usually the default setup.
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
  However, if you are not seeing it for some reason, you can quickly enable the ability to launch the Widget panel from the Taskbar by going to the Settings app.
 
 ![Enable Widgets from Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-widgets-from-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can follow the below steps to bring the shortcut to launch the widgets panel to Taskbar:
 
@@ -48,15 +48,15 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
 
  If you do not want to see the widgets button on the Taskbar and still want to launch it quickly, press**Win key+W** on your keyboard.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Adding Widgets to Windows
 
  Microsoft recently added support for third-party developers to bring app widgets to Windows 11\. But even without support for third-party support, you get a decent collection of first-party app widgets, including Outlook, To Do, Weather, Game Pass, and more. And the best thing about Windows 11's widgets is that it takes little effort to add them to the panel.
 
 ![Add Widgets in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-widgets-edit.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Follow the below steps to add widgets:
 
@@ -80,7 +80,7 @@ To change the size of widgets, follow the below steps:
  You will see the change immediately after you change the size. But bear in mind that not every widget supports all three sizes. For example, Microsoft Outlook only supports**Medium** and**Large** , whereas the Watchlist widget supports**Small** alongside the other two.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Customize Your News Feed to Get a More Personalized Experience
@@ -97,6 +97,10 @@ To change the size of widgets, follow the below steps:
 
  You can go to the Microsoft Start Page by clicking on the**Manage interests** link on the**Widgets settings** page, which you can bring by clicking on the**user profile logo** at the top of the widgets board. However, it is important to note that ability to follow publishers and fine-tune your news feed is currently available for English speakers in the US.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Tweak the Widget Taskbar Behaviors
 
  The customizability of Widgets goes beyond the ability to change their sizes. You can also control how Widgets behave. If you do not like the opening of the Widgets panel on hovering over the button on the left of the Taskbar, you can disable it from**Widgets settings** . Widgets can also display notification badges and announcements.
@@ -105,17 +109,9 @@ To change the size of widgets, follow the below steps:
 
  In**Widgets settings** , you get to tweak the**Widget taskbar behaviors** in three different ways: enabling or disabling**Show notification badges** ,**Show announcements** , and**Open Widgets board on hover** toggles.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Expand the Widgets Panel
 
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The ability to expand the widgets board to take up the entire screen space of your computer screen was not available when Microsoft first launched it. However, the full-screen widgets experience should be available to you if you are running Windows 11 22H2 with Windows Web Experience Pack version (423.2300.0.0).
 
@@ -133,6 +129,10 @@ To expand the widgets panel, follow the below steps:
  If you stay signed in, Microsoft will collect data and learn your usage pattern to provide you with the best experience. Individual widgets can also collect data.
 
  If you are running Windows 11 Insider builds, you can use widgets without logging in with your Microsoft account. If you are running Windows 11 22H2, you need to make sure you have Windows Web Experience Pack version 423.3000.10.0 installed on your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You Are Ready to Get the Most Out of Widgets in Windows 11
 
@@ -153,18 +153,16 @@ To expand the widgets panel, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-quick-guide-resolving-obs-skipping-problems/"><u>[New] In 2024, Quick Guide Resolving OBS Skipping Problems</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-leading-10-models-premier-4k-dslr-shoulder-rigs/"><u>[Updated] 2024 Approved Leading 10 Models Premier 4K DSLR Shoulder Rigs</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-from-selfies-to-skies-uncovering-the-intricacies-with-the-dji-spark/"><u>[Updated] From Selfies to Skies Uncovering The Intricacies with the DJI Spark</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/echo-fabricator-bundle/"><u>Echo Fabricator Bundle</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-code-management-on-windows-11-with-github-desktop/"><u>Elevate Your Code Management on Windows 11 with Github Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminate-already-used-errors-in-windows-1011-152-chars/"><u>Eliminate 'Already Used' Errors in Windows 10/11 (152 Chars)</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tuning-touchpad-settings-on-windows-11/"><u>Fine-Tuning Touchpad Settings on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-and-when-to-use-file-locksmith-in-powertoys/"><u>How and When to Use File Locksmith in PowerToys</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unfolding-cinema-narratives/"><u>In 2024, Unfolding Cinema Narratives</u></a></li>
-<li><a href="https://facebook.techidaily.com/superior-social-venues-for-senior-citizens/"><u>Superior Social Venues For Senior Citizens</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-sierra-comprehensive-icloud-drives-for-2024/"><u>Unlocking Sierra Comprehensive iCloud Drives for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-distinctions-between-ipad-pro-m4-and-macbook-air-m3-a-comprehensive-guide/"><u>Unveiling Distinctions Between iPad Pro (M4) and MacBook Air (M3): A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/win-1111-guide-solving-audacity-sound-error/"><u>Win 11/11 Guide: Solving Audacity Sound Error</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-excellence-in-management-top-8-fb-planners-for-productivity-boost-for-2024/"><u>[Updated] Excellence in Management Top 8 FB Planners for Productivity Boost for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/apples-trending-app-in-157-countries/"><u>Apple's Trending App in 157 Countries</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/aussie-speak-101-mastering-local-slang/"><u>Aussie Speak 101: Mastering Local Slang</u></a></li>
+<li><a href="https://windows11.techidaily.com/ceasing-autonomous-openings-in-microsoft-shop-app/"><u>Ceasing Autonomous Openings in Microsoft Shop App</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-access-exploring-startup-options-in-windows/"><u>Easy Access: Exploring Startup Options in Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-edit-youtube-channel-description/"><u>How to Edit YouTube Channel Description</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-integrate-chatgpt-with-whatsapp-for-customer-support/"><u>How to Integrate ChatGPT With WhatsApp for Customer Support</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/instale-windows-11-23h2-sin-necesidad-de-hardware-compatible-dos-metodos-faciles/"><u>Instale Windows 11 23H2 Sin Necesidad De Hardware Compatible: Dos Métodos Fáciles</u></a></li>
+<li><a href="https://win11.techidaily.com/key-fixes-to-restore-windows-11s-manager-functionality/"><u>Key Fixes to Restore Windows 11'S Manager Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-icon-sizes-on-windows-11-desktop/"><u>Optimal Icon Sizes on Windows 11 Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-hidden-secrets-top-strategies-to-fix-lost-folders/"><u>Unlocking Hidden Secrets: Top Strategies to Fix Lost Folders</u></a></li>
 </ul></div>
 

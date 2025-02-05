@@ -1,7 +1,7 @@
 ---
 title: "Pro Tools for Properties: 6 Methods Unveiled"
-date: 2025-01-19T17:07:46.089Z
-updated: 2025-01-25T09:27:38.683Z
+date: 2025-02-02T21:09:45.424Z
+updated: 2025-02-04T08:16:17.421Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Open File or Folder Properties in Windows
 
  Here are some easy ways to view the file or folder properties on a Windows PC. These methods will work for Windows 11 and older versions of Windows OS too.
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 2. Click on a file or folder to select it.
 3. Then press**Alt + Enter** keys at once to open the file properties window.  
 ![View File Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Using the Mouse and Keyboard Shortcut
 
@@ -59,11 +59,11 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 ![View File Properties using Right Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-right-context-menu.jpg)
 4. The file properties window will launch on your system.
 
- Keep in mind that the right-click context menu will look a bit different from the older versions of Windows.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Keep in mind that the right-click context menu will look a bit different from the older versions of Windows.
 
 ### 4\. Using the File Explorer
 
@@ -75,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 4. A drop-down menu will open. Select the**Properties** option from the menu.  
 ![View File Properties using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-file-explorer.jpg)
 5. The Properties window will launch on your system. Press**Alt + F4** to close it after you no longer need it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Using the CMD Tool
 
@@ -88,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 5. Scroll down to check the file properties such as size, creation date, and more attributes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Using PowerShell
@@ -102,11 +106,7 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 4. Press the**Enter** key to execute the command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Quickly View File or Folder Properties on Windows
@@ -128,22 +128,24 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-engaging-emojis-boost-your-videos-appeal-without-payments/"><u>[New] 2024 Approved Engaging Emojis Boost Your Video's Appeal Without Payments</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-ultimate-playbook-for-podcast-titling-success-and-50plus-name-suggestions/"><u>[Updated] 2024 Approved The Ultimate Playbook for Podcast Titling Success & 50+ Name Suggestions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-privacy-preservation-how-to-make-faces-invisible-online/"><u>[Updated] In 2024, Privacy Preservation How to Make Faces Invisible Online</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-terrain-trove-top-maps-for-treasure-seeking/"><u>2024 Approved Terrain Trove Top Maps for Treasure Seeking</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/android-moba-gems-discovering-the-classics-for-2024/"><u>Android MOBA Gems Discovering the Classics for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correcting-errors-with-enex-driver-not-loading-in-win11/"><u>Correcting Errors with eNEX Driver Not Loading in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-the-app-blocks-system-function-problem-on-your-pc/"><u>Fixing the App Blocks System Function Problem on Your PC</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-discovering-premium-free-srt-translation-services-and-how-to-choose/"><u>In 2024, Discovering Premium Free SRT Translation Services and How to Choose</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Watch Hulu Outside US On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/innovative-window-11-lock-pattern-designing-techniques/"><u>Innovative Window 11 Lock Pattern Designing Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-audio-record-functionality/"><u>Navigating Windows' Audio Record Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-integrated-graphics-a-step-by-step-guide/"><u>Overcoming Integrated Graphics: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/peering-into-win11s-data-harvest-routines/"><u>Peering Into Win11’s Data Harvest Routines</u></a></li>
-<li><a href="https://win11.techidaily.com/personalizing-windows-lockscreen-enabledisable-image-display/"><u>Personalizing Windows Lockscreen: Enable/Disable Image Display</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-to-using-onedrive-offline-in-windows/"><u>Step-by-Step Guide to Using OneDrive Offline in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-for-separating-concentrated-pc-icons/"><u>Techniques for Separating Concentrated PC Icons</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-tools-for-crafting-unforgettable-highlight-reels/"><u>The Best Tools for Crafting Unforgettable Highlight Reels</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nriching-slides-video-incorporation-from-youtube/"><u>[New] Enriching Slides Video Incorporation From YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-leaderboard-of-gps-drones-with-steady-followers/"><u>[Updated] The Leaderboard of GPS Drones with Steady Followers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-conquer-competitors-try-this-highest-rated-voice-modification-software-for-valorant/"><u>2024 Approved Conquer Competitors - Try This Highest-Rated Voice Modification Software for Valorant</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-issues-with-googles-nearby-sharing-on-windows/"><u>Fixing Issues with Google's Nearby Sharing on Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-flying-high-a-compreenasol-guide-to-cutting-edge-drone-editing/"><u>In 2024, Flying High A Compreenasol Guide to Cutting-Edge Drone Editing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-soundscapes-the-ultimate-guide-to-iphoneipad-podcast-downloads/"><u>In 2024, Mastering Soundscapes The Ultimate Guide to iPhone/iPad Podcast Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/master-password-integration-in-windows-1011-documents/"><u>Master Password Integration in Windows 10/11 Documents</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/masterclass-en-gestion-de-archivos-swf-guia-incomparable-sobre-programas-de-apertura-eficiente/"><u>Masterclass en Gestión De Archivos SWF: Guía Incomparable Sobre Programas De Apertura Eficiente</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-file-deletion-in-windows-11-using-the-command-line-interface/"><u>Mastering File Deletion in Windows 11 Using the Command Line Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-power-saver-modes-in-windows-os/"><u>Mastering Power Saver Modes in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/perpetual-disposal-setting-up-unchangeable-deletion-bin-on-pc/"><u>Perpetual Disposal: Setting up Unchangeable Deletion Bin on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-windows-11-sign-in-your-guide-to-success/"><u>Seamless Windows 11 Sign-In: Your Guide to Success</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/and-share-pcmac-video-recording-for-youtube/"><u>Snap & Share PC/Mac Video Recording for YouTube</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-affordable-hearing-device-review-bluetooth-trucker-edition/"><u>The Affordable Hearing Device Review: Bluetooth, Trucker Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-guide-to-cam-cover-selection/"><u>The Ultimate Guide to Cam Cover Selection</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-prevent-file-explorer-crashes-on-windows-11/"><u>Tips to Prevent File Explorer Crashes on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-usage-error-in-windows-11-os/"><u>Troubleshooting Usage Error in Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-the-windows-bt-folder-structure/"><u>Understanding the Windows ~BT Folder Structure</u></a></li>
+<li><a href="https://win11.techidaily.com/unresponsive-click-problems-guide-for-win11-users/"><u>Unresponsive Click Problems: Guide for Win11 Users</u></a></li>
 </ul></div>
 

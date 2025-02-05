@@ -1,7 +1,7 @@
 ---
 title: "Reclaim Your Keyboard: Resolve Windows Snipping Command Issue"
-date: 2025-01-23T07:34:02.126Z
-updated: 2025-01-24T16:04:34.353Z
+date: 2025-01-29T02:18:48.175Z
+updated: 2025-02-04T08:44:48.667Z
 tags:
   - windows10
   - windows11
@@ -31,12 +31,16 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 
  To restart your computer, close any running programs. Now, open the Start menu and choose **Restart** in the list of options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check Your Keyboard
 
  Check the keyboard for any dirt or debris that may obstruct the keys. Clean off dust, crumbs, and other particles with compressed air. Ensure that all the keys are working correctly and that none are stuck or pressed down. If the keys have been damaged or worn down, consider replacing your keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable the Clipboard History
@@ -45,17 +49,9 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 
 ![Enable the Clipboard History](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-the-clipboard-history.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To enable it, open Settings and navigate to **System** \> **Clipboard**. There, you'll find the toggle for **Clipboard history** – turn it on.
 
  You can also use the Windows search bar to type in **Clipboard settings** and open it directly. If you prefer shortcuts, hit **Win + R** or type **ms-settings:clipboard** into Run.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Turn on Snipping Tool Notification Toggle
 
@@ -67,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 2. In the Settings window, navigate to **System** \> **Notifications**.
 3. Under **Notifications from apps and other senders**, scroll down to the bottom and turn on the Snipping Tool notification toggle.  
 ![Turn on Snipping Tool Notification Toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-on-snipping-tool-notification-toggle.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you have enabled this option, press **Win + Shift + S** to take a screenshot. If the shortcut works, you will see a notification that the screenshot is saved to the clipboard.
 
@@ -82,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 
  On the next page, scroll down to the **Reset** section. Select **Reset** and then click on **Reset** again in the confirmation popup. After resetting the Snipping Tool, check if the Win + Shift + S shortcut works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Reinstall the Snipping Tool
 
  If resetting doesn't solve the problem, try reinstalling the Snipping Tool. It will resolve any issues you may have with your current installation.
@@ -89,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
  To reinstall the Snipping Tool, open the System Settings. Select **Apps** \> **Installed apps**, then find and select **Snipping Tool** from the list of installed programs.
 
 ![Reset the Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-the-snipping-tool.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click the three dots and select **Uninstall**. Now follow the on-screen instructions to complete the process. Once done, download and install a new version of the Snipping Tool from the Microsoft Store app.
 
@@ -104,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 2. Type **gpedit.msc** in the dialog box and hit Enter. This will open the Group Policy Editor window.  
 ![Turn on Windows Hotkeys Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-on-windows-hotkeys-using-group-policy.jpg)
 3. Navigate to the path:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `User Configuration > Administrative Templates > Windows Components > File Explorer`
 4. In the right pane, double-click on the **Turn off Windows Key hotkeys** option.
@@ -126,10 +130,6 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 * Select Base as **Hexadecimal** and click **OK** to save the changes.
 
  After that, exit the registry editor and restart your computer. Once the system reboots, check if the issue has been resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Perform Some Generic Fixes
 
@@ -157,22 +157,24 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-indoor-brightness-boosted-by-external-radiance/"><u>[New] 2024 Approved Indoor Brightness Boosted by External Radiance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-dynamics-of-dialing-up-digital-devotees/"><u>[New] The Dynamics of Dialing Up Digital Devotees</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-behind-the-scenes-a-tech-savvy-approach-to-messenger-downloads-for-2024/"><u>[Updated] Behind the Scenes A Tech-Savvy Approach to Messenger Downloads for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-streamlined-approach-to-capturing-youtube-content/"><u>2024 Approved Streamlined Approach to Capturing YouTube Content</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-views-top-14-gaming-video-ideas-that-work/"><u>Boosting Views Top 14 Gaming Video Ideas That Work</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-zero-error-win11s-onedrive-sign-in-woes-eliminated/"><u>Conquering Zero-Error: Win11's OneDrive Sign-In Woes Eliminated</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-successfully-fix-windows-update-error-xc004f050/"><u>How to Successfully Fix Windows Update Error XC004F050</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-steady-silence-decreasing-volume-in-logic-pro-projects/"><u>In 2024, Steady Silence Decreasing Volume in Logic Pro Projects</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/lerne-hier-wie-du-eine-dvd-erfolgreich-auf-deinem-google-drive-speichern-kannst/"><u>Lerne Hier, Wie Du Eine DVD Erfolgreich Auf Deinem Google Drive Speichern Kannst!</u></a></li>
-<li><a href="https://win11.techidaily.com/probing-windows-entry-status-victory-or-defeat-stories/"><u>Probing Windows Entry Status: Victory or Defeat Stories</u></a></li>
-<li><a href="https://win11.techidaily.com/retuning-windows-11-energy-settings-from-loss/"><u>Retuning Windows 11 Energy Settings From Loss</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-verifying-your-windows-11-temp-files/"><u>Steps for Verifying Your Windows 11 Temp Files</u></a></li>
-<li><a href="https://extra-information.techidaily.com/streamline-your-content-google-podcast-upload/"><u>Streamline Your Content Google Podcast Upload</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-failed-connections-between-win10win11-and-nvidia/"><u>Tackling Failed Connections Between Win10/Win11 and Nvidia</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essence-of-windows-n-versions-decision-making-factors/"><u>The Essence of Windows N Versions: Decision-Making Factors</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-windows-high-resource-consumption-due-to-unrealcefsubprocess/"><u>Troubleshooting Windows' High Resource Consumption Due to UnrealCEFSubprocess</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726027513863-usbdvd/"><u>USBメモリに保存されたビデオをDVDプレイヤー上で正常に再生する方法</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-innovating-with-ideas-constructing-your-unique-tiktok-sequence/"><u>[New] In 2024, Innovating with Ideas Constructing Your Unique TikTok Sequence</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-discover-your-favorite-6-premier-youtube-short-downloaders-for-2024/"><u>[Updated] Discover Your Favorite 6 Premier YouTube Short Downloaders for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-full-narrative-what-the-google-podcasts-app-offers/"><u>[Updated] Full Narrative What the Google Podcasts App Offers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-the-potential-of-non-mic-sound-capture-methods/"><u>[Updated] Unlocking the Potential of Non-Mic Sound Capture Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-steps-to-restore-factory-settings-on-airpods-and-situations-warranting-a-reset-techinsights/"><u>Complete Guide: Steps to Restore Factory Settings on AirPods & Situations Warranting a Reset | TechInsights</u></a></li>
+<li><a href="https://win11.techidaily.com/drive-harmony-a-guide-to-efficient-hdds-in-win11/"><u>Drive Harmony: A Guide to Efficient HDDs in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-robust-w11-launch-enable-tpm-and-secure-boot-now/"><u>Ensuring Robust W11 Launch: Enable TPM & Secure Boot Now</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-correcting-icon-misplacement/"><u>Guide to Correcting Icon Misplacement</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-outsmart-youtube-sanctions/"><u>How to Outsmart Youtube Sanctions</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-mcafee-pop-ups-on-windows-11/"><u>How to Stop McAfee Pop-Ups on Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-s23plus-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-15-plus-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change your Apple iPhone 15 Plus Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/onestream-integration-tips-for-seamless-livestreaming/"><u>OneStream Integration Tips for Seamless Livestreaming</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11s-microsoft-store-error-0x80073cf3/"><u>Overcoming Windows 11'S Microsoft Store Error 0X80073CF3</u></a></li>
+<li><a href="https://win11.techidaily.com/pinpointing-your-perfect-match-with-nvidia-driver-selection/"><u>Pinpointing Your Perfect Match with Nvidia Driver Selection</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-transitions-with-the-fn-button-in-windows-pcs/"><u>Smooth Transitions with the (Fn) Button in Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-control-registry-editor-access-on-windows-11/"><u>Techniques to Control Registry Editor Access on Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-cinematic-edge-edging-your-vt-footage-on-final-cut-x/"><u>The Cinematic Edge Edging Your VT Footage on Final Cut X</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-troubleshooting-resolving-code-0x0000004e-issue/"><u>Windows Troubleshooting: Resolving Code 0X0000004E Issue</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Fixing Windows 11 ISDone.dll Problems
-date: 2025-01-19T02:19:48.462Z
-updated: 2025-01-25T06:35:25.210Z
+date: 2025-02-02T19:06:40.309Z
+updated: 2025-02-04T06:29:36.511Z
 tags:
   - windows10
   - windows11
@@ -25,11 +25,19 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Game’s Installer With Admin Rights
 
  First, run the game’s setup file with elevated rights to ensure admin restrictions can’t cause the issue. As you’ll only need to install the game once, it’s not necessary to set the installer to[always run as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) . Open the folder that includes the game’s setup.exe. Right-click the game’s installer (setup) file and select its**Run as administrator** context menu option.
 
 ![The Run as administrator context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-run-as-administrator-context-menu-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the Game’s Installer in Compatibility Mode
 
@@ -44,15 +52,7 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 ![The Run this program in compatibility mode for option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-run-this-program-in-compatibility-mode-setting.jpg)
 7. Click**Apply** to save the compatibility settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Select**OK** to close the setup properties window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Set the Game’s Setup Wizard at High Priority
 
@@ -60,15 +60,15 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 
 ![The Set priority option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-set-priority-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Run System File and Image Scans
 
  System file corruption is another potential cause for the ISDone.dll error in Windows 11/10\. So, we recommend users run a System File Checker scan to address that possible cause. Check out our[guide about running the SFC tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) for further details about how to apply this solution.
 
 ![The System File Checker command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-sfc-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In addition, you can also run a Deployment Image Servicing Management scan on top. That scan can resolve issues with the system image. You can run that utility in the Command Prompt by executing this command:
 
@@ -97,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 ![The Microsoft Visual C++ 2015-2022 runtime installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-visual-c-installer-window.jpg)
 5. Click the Visual C++**Install** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the ISDone.dll installation issue arises for an old game, you might need to install missing Visual C++ runtimes that predate 2015\. In this case, you’ll need to repeat the above steps for older Visual C++ packs. Try downloading the 64-bit Visual Studio 2013 and 2012 packs from the same Microsoft page to install older missing runtime libraries.
 
 ## 7\. Re-Register the Referenced ISDone DLL File
@@ -111,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 ![The regsvr32 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-regsvr-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Temporarily Switch Off Your PC’s Antivirus Shield
@@ -120,16 +124,12 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 
 ![The Real-time protection option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-real-time-protection-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Users who’ve installed alternative security software packages on PCs will need to disable the third-party antivirus shields. To do that, click a system tray icon for an antivirus app to bring up its context menu. Then, select an option for turning off (or disabling) the antivirus shield.
 
  However, don’t leave your antivirus software disabled. Instead, turn it off and then try to install whatever game the ISDone.dll error occurs for. Then make sure you re-enable the antivirus shield afterward.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Clean Boot the Windows PC
@@ -138,11 +138,11 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-services-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Our guide to[configuring a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to disable third-party startup apps and services with Task Manager and MSConfig. When you’ve set the clean boot and restarted Windows, try installing the game the ISDone.dll error occurs for. Then you can restore the original boot configuration afterward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enjoy Your Windows Games Again
 
@@ -163,20 +163,14 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-saving-facebook-gifs-on-computer-phone-and-tablet-for-2024/"><u>[Updated] Saving Facebook GIFs on Computer, Phone & Tablet for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-oppo-a79-5g-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Oppo A79 5G.</u></a></li>
-<li><a href="https://win11.techidaily.com/deciph-written-by-your-name/"><u>Deciph Written by [Your Name]</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-strategies-for-adjusting-windows-file-attributes/"><u>Expert Strategies for Adjusting Windows File Attributes</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-eradicate-partitioned-units-on-your-disk-in-a-flash/"><u>How to Eradicate Partitioned Units on Your Disk in a Flash</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-seamlessly-export-repaired-edb-archives-into-current-exchange-server-infrastructure-video-guide/"><u>How To Seamlessly Export Repaired EDB Archives Into Current Exchange Server Infrastructure - Video Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/hush-the-language-indicator-on-win11s-status-ui/"><u>Hush the Language Indicator on Win11’s Status UI</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-masterpiece-episodes-for-airwaves/"><u>In 2024, Masterpiece Episodes for Airwaves</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-precise-aural-link-the-casters-toolkit/"><u>In 2024, Precise Aural Link The Caster's Toolkit</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-java-install-process-on-your-windows-pc/"><u>Mastering Java Install Process on Your Windows PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Vivo Y100i? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-cloud-sync-linking-dropbox-and-google-drive-on-your-pc/"><u>Seamless Cloud Sync: Linking Dropbox & Google Drive on Your PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-rise-of-claude-ai-empowering-tomorrows-industries-today/"><u>The Rise of Claude AI: Empowering Tomorrow's Industries Today</u></a></li>
-<li><a href="https://win11.techidaily.com/unfreeze-windows-hibernate-with-simple-steps/"><u>Unfreeze Windows Hibernate with Simple Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/declutter-windows-11-a-guide-to-ditching-bloatware/"><u>Declutter Windows 11: A Guide to Ditching Bloatware</u></a></li>
+<li><a href="https://some-tips.techidaily.com/dont-miss-out-discover-why-apple-insists-on-the-iphone-15-upgrade-technews/"><u>Don't Miss Out - Discover Why Apple Insists on the iPhone 15 Upgrade | TechNews</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-revive-your-network-connection-on-windows-11-devices/"><u>How to Revive Your Network Connection on Windows 11 Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-spark-20frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Spark 20FRP Lock</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-jest-jamboree-meme-ideas-fit-for-any-celebration/"><u>In 2024, Jest Jamboree Meme Ideas Fit for Any Celebration</u></a></li>
+<li><a href="https://win11.techidaily.com/msstore-fix-guide-for-code-0x0-error-in-windows-10-and-11/"><u>MsStore Fix Guide for Code 0X0 Error in Windows 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-stopping-unbidden-console-activations/"><u>Tips for Stopping Unbidden Console Activations</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/tracing-treasure-trails-fast-friending-fundamentals/"><u>Tracing Treasure Trails Fast Friending Fundamentals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tracking-chatgpts-health-today/"><u>Tracking ChatGPT's Health Today</u></a></li>
 </ul></div>
 

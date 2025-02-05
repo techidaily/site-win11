@@ -1,7 +1,7 @@
 ---
 title: Bringing Back Typical Window Explorer Options
-date: 2024-07-29T15:55:53.770Z
-updated: 2024-07-30T15:55:53.770Z
+date: 2025-01-28T17:13:11.716Z
+updated: 2025-02-03T23:21:56.986Z
 tags:
   - windows10
   - windows11
@@ -18,16 +18,10 @@ thumbnail: https://thmb.techidaily.com/9e326dc97d7b2a04840d4bac29152fee0a09ec2e5
 
  Folder View Settings in Windows help you control how the contents of a particular folder are displayed and organized. If you’ve changed these settings, but now want to reset them to the default view, it’s easy. Read this guide to learn how to reset Folder View settings on your Windows 11 PC.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Reset Folder View Settings to Default on Windows
 
  There are three ways to reset your Folder View Settings to the default view. The first method is to run a batch file, the second using File Explorer, whereas the third and final method involves tweaking the registry editor. This post explains each method in detail. Let's dive into it.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Run a Batch File to Reset Folder View Settings to Default
 
  Resetting the Folder View Settings with this method requires creating and running a batch file. This will reset the settings for all folders across your computer. Here's how to do it:
@@ -59,17 +53,20 @@ taskkill /f /im explorer.exe
 start explorer.exe`
 5. After adding the code, click**File** in the top menu, then select**Save As** .
 6. Now select**All Files** in the Save as type menu, and add**.bat** to the end of the file’s name.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Run a Batch File to Reset Folder View Settings to Default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-a-batch-file-to-reset-folder-view-settings-to-default.jpg)
 7. From the left pane, select**Desktop** as the location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Then click**Save** and close the text editor window.
 9. Finally, double-click the batch file you created, and it will reset your Folder View Settings to the default view.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Reset Folder View Settings to Default via File Explorer
 
  If you only need to reset the View Settings of all folders of the same type, this method is for you. Here's what you have to do:
@@ -78,13 +75,19 @@ start explorer.exe`
 2. Now, select the**View** tab in the top bar and tap on**Reset Folders** .  
 ![Reset Folder View Settings to Default Via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-folder-view-settings-to-default-via-file-explorer.jpg)
 3. Click**Yes** when prompted to confirm your action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Finally, hit**OK** and the window will close.
 
  This will reset your Folder View Settings to Windows' default settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Reset Folder View Settings to Default Using Registry Editor
 
  The last method to reset Folder View settings involves using the Windows Registry Editor. You should only use this method if you are an experienced user and know how it works, since messing with its keys could cause serious problems. To avoid data loss, you must[create a registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before continuing.
@@ -96,12 +99,13 @@ start explorer.exe`
 3. Navigate to the following location:  
 HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell
 4. In the left sidebar, right-click on the**BagMRU** folder and select**Delete.**  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Reset Folder View Settings to Default Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-folder-view-settings-to-default-using-registry-editor.jpg)
 5. Click**Yes** when asked to confirm your action.
 6. Similarly, delete the**Bags** folder and close the Registry window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Reset Folder View Settings to Default
 
@@ -109,14 +113,11 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
 
  However, if you have changed the View settings, this guide will help you reset Folder Options to its default.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -125,4 +126,20 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-discovering-the-top-10-invisible-story-lovers-for-2024/"><u>[Updated] Discovering the Top 10 Invisible Story Lovers for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-from-memory-to-moments-share-images-seamlessly-today/"><u>[Updated] In 2024, From Memory to Moments Share Images Seamlessly Today</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-tutorial-for-musical-instagram-video-posts/"><u>[Updated] The Ultimate Tutorial for Musical Instagram Video Posts</u></a></li>
+<li><a href="https://win11.techidaily.com/wmvavi/"><u>「WMVファイルの効率的なAVIへの変換手順 - トップ３」</u></a></li>
+<li><a href="https://win11.techidaily.com/1-efficient-remedies-to-overcome-unable-to-play-video-error-5-step-by-step-guide/"><u>1. Efficient Remedies to Overcome 'Unable to Play Video' Error 5: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029921217-20246/"><u>2024年最高のオンラインビデオ編集プラットフォームベスト6</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028126651-avchd/"><u>二つのアプローチでAVCHDファイルを効果的にスライシング</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/elevate-tiktok-visuals-switch-backgrounds-with-confidence-and-precision/"><u>Elevate TikTok Visuals Switch Backgrounds with Confidence and Precision</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/googles-advanced-upload-techniques-for-podcasters/"><u>Google's Advanced Upload Techniques for Podcasters</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-flourish-in-fame-elevate-from-zero-to-1000-followersmonthly/"><u>In 2024, Flourish in Fame Elevate From Zero to 1,000 Followers/Monthly</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-6-plus-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone 6 Plus without Password?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-sony-xperia-1-v-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Sony Xperia 1 V to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028587575-dvd/"><u>トラブルシューティング: DVDプレイヤーでエラー発生時の原因分析・修正手順</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "No Cords, Just Games: Setting Up PS3 Controller"
-date: 2025-01-21T21:43:05.895Z
-updated: 2025-01-25T06:01:18.096Z
+date: 2025-01-29T04:15:16.643Z
+updated: 2025-02-03T17:57:00.017Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is DsHidMini?
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 
  Note, though, that for this guide, we take the existence of correctly working Bluetooth functionality for granted. If your PC lacks Bluetooth support, check our buyer's guide on[the best Bluetooth adapters you can grab today](https://www.makeuseof.com/best-bluetooth-adapters/) . Then, check our guide on[how to add Bluetooth to any computer](https://www.makeuseof.com/add-bluetooth-pc/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Download and Install DsHidMini and BthPS3
 
  DsHidMini suggests installing BthPS3 to have your DualShock controllers correctly detected and connected to your PC. This guide will follow that suggestion, especially since we want them to work wirelessly.
@@ -52,16 +56,8 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 ![BthPS3 GitHub Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bthps3-github-page.jpg)
 3. In both cases, you'll find the downloadable files by clicking on the link under**Installation** , then checking out the links under**Assets** . Most people should go for the x64 versions. If you're still using an older 32-bit version of Windows, get the x86 files.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![BthPS3 GitHub Assets Links](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bthps3-github-assets-links.jpg)
 4. Click on**BthPS3's MSI file** that you've downloaded to install the Bluetooth driver. "MSI" stands for Microsoft Software Installer. Unlike executable installers, MSI relies on the "official" installation libraries bundled with Windows. If you meet any problems during that step, check our guide on[how to fix issues with the Windows Installer package](https://www.makeuseof.com/windows-installer-package-fix-issues/) .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![BthPS3 Installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bthps3-installation.jpg)
 5. After BthPS3's successful installation, you'll see it as a new device under the**Bluetooth** category in**Device Manager** . The easiest way to access the Device Manager is by using the**Windows Key** +**X** shortcut and selecting it from the menu that shows up.  
@@ -73,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 7. Look inside the extracted archive's folder, and you'll see two more folders:**x64** and**x86** . Enter the one matching your Windows architecture. As mentioned above, most people nowadays should go for**x64** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![DsHidMini Extracted Archive Contents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dshidmini-extracted-archive-contents.jpg)
@@ -82,13 +78,17 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 ![DsHidMini Extracted Archive Contents x64](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dshidmini-extracted-archive-contents-x64.jpg)
 9. Right-click on the**dshidmini.inf** file, and choose**Install** from the menu that shows up. When that step completes, install the**igfilter.inf** the same way.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![DsHidMini Extracted Archive Contents x64 dshidmini inf install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dshidmini-extracted-archive-contents-x64-dshidmini-inf-install.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Theoretically, that's everything you need for your DualShock to work with your PC. Practically, as is Windows' tradition, it wouldn't hurt to restart once to ensure the drivers are correctly installed, activated, and work as they should.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Pair and Configure Your PS3 DualShock
 
@@ -99,21 +99,17 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 ![DSHMC.exe File In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dshmc-exe-file-in-file-explorer.jpg)
 3. You should see your "PlayStation controller" detected on the left side of the app's window. Now, if you run Steam with its outstanding controller support, it should detect and configure your joypad for use in modern games. As for wireless? Unplug the cable, and your joypad should keep working as if nothing happened.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![DSHMC.exe Controller Detected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dshmc-exe-controller-detected.jpg)
 4. DsHidMini will have your controller recognized as an**XInput** device by default to maximize compatibility with modern software. But what if you want to use it on an older title that uses the older**DirectInput** standard or to have emulators like PPSSPP, PCSX2, and RPCS3 recognize it as an actual PlayStation controller? Close DSHMC.exe, then right-click on it and re-run it, but this time choose**Run as Administrator** . When its window shows up again, click on your controller on the left, and you'll see more details about it on the right and some options you can tweak.  
 
 ![DSHMC Configuration As Admin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dshmc-configuration-as-admin.jpg)
 5. You can change the HID device mode from**XInput** to another mode compatible with the software where you want to use your controller. You can also tweak its**Idle disconnect** period or define after how much time of inactivity the controller should disconnect and turn off.  
 
-![DSHMC Change HID Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dshmc-exe-change-hid-mode.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![DSHMC Change HID Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dshmc-exe-change-hid-mode.jpg)
 
 ## How to Remove Remnants of Old Drivers
 
@@ -149,6 +145,10 @@ sc delete Ds3Service`
 
  An easy way to find the HID mode to choose for a particular title is to check if there's information about it at[PCGamingWiki](https://www.pcgamingwiki.com/wiki/Main%5FPage) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Using Classic PS3 Joypads on Your Modern-Day Games for Windows
 
  Reusing your older joypads on your PC is the smartest choice. Apart from the fact you won't have to pay a dime to do it, they're great performers, tried and tested, and you're already familiar with them.
@@ -170,24 +170,22 @@ sc delete Ds3Service`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/est-mac-mp4-cutter-apps-enhance-video-editing/"><u>[New] Best Mac MP4 Cutter Apps Enhance Video Editing</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-exploring-vidas-capabilities-in-digital-film-production-for-2024/"><u>[New] Exploring Vida's Capabilities in Digital Film Production for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-timing-your-instagram-posts-for-optimal-results-for-2024/"><u>[Updated] Timing Your Instagram Posts for Optimal Results for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-comprehensive-fullscreen-guide-in-premiere-pro/"><u>2024 Approved Comprehensive Fullscreen Guide in Premiere Pro</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-elusive-story-viewers-mobile-hacks/"><u>2024 Approved Elusive Story Viewers' Mobile Hacks</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-error-no-device-drivers-detected-in-windows-setup/"><u>Eliminating Error: No Device Drivers Detected in Windows Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-lowering-wlanext-cpu-usage/"><u>Essential Tips for Lowering WLANEXT CPU Usage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-directx-file-upload-glitches-in-windows/"><u>Fixing DirectX File Upload Glitches in Windows</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/from-apple-to-microsoft-transition-guide-for-windows-11-via-parallels/"><u>From Apple to Microsoft: Transition Guide for Windows 11 via Parallels</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-12-pro-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 12 Pro With or Without Password</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-t-mobile-apple-iphone-6s-plus-online-without-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock T-Mobile Apple iPhone 6s Plus online without SIM Card?</u></a></li>
-<li><a href="https://win11.techidaily.com/optimal-file-selection-activating-filters-with-box-on-win11/"><u>Optimal File Selection: Activating Filters with Box on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-chromes-screen-darkness-problem/"><u>Overcoming Chrome's Screen Darkness Problem</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209868136-9781947811027-surfing-the-himalayas/"><u>Surfing the Himalayas | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-sticking-notebooks-front-and-center/"><u>Tips for Sticking Notebooks Front and Center</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-enterprise-controlled-chromeedge-browsers-on-pcs/"><u>Troubleshooting Enterprise-Controlled Chrome/Edge Browsers on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-error-262-robloxs-solution-path/"><u>Unraveling Error 262: Roblox's Solution Path</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-war-against-sse-windows-woes/"><u>Winning War Against SSE Windows Woes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-premier-asmr-videography-choices/"><u>[New] 2024 Approved Premier ASMR Videography Choices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tackling-iphone-lens-failures-with-ease/"><u>[New] Tackling iPhone Lens Failures with Ease</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-simplifying-video-cutting-in-windows-10-a-photoshop-free-guide/"><u>[Updated] Simplifying Video Cutting in Windows 10 A Photoshop-Free Guide</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1-ashl-aamlya-nskh-ssd-althabta-il-ssd-hgm-kbyr-fy-windows-11-aldlyl/"><u>1. [أسهل] عملية نسخ SSD الثابتة إلى SSD حجم كبير في Windows 11: الدليل</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-free-online-gif-to-video-tools-no-downloads-needed/"><u>2024 Approved Top 5 Free Online GIF-to-Video Tools (No Downloads Needed)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-gsdl3l2ddll-not-found-issues-on-your-pc-easily/"><u>Fixing 'gsdl3l2d.dll Not Found' Issues on Your PC Easily</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-ken-burns-method-in-camtasia-9-explained-simply/"><u>In 2024, The Ken Burns Method in Camtasia 9 Explained Simply</u></a></li>
+<li><a href="https://win11.techidaily.com/make-file-explorer-more-informative-diskspace-insight-in-menu/"><u>Make File Explorer More Informative: Diskspace Insight in Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-folder-relocation-within-onedrive-in-win10/"><u>Mastering Folder Relocation Within OneDrive in Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-time-management-on-your-computer-choose-from-these-top-5-dynamic-clock-screen-saver-tools/"><u>Maximize Time Management on Your Computer: Choose From These Top 5 Dynamic Clock Screen Saver Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-local-policy-application-for-specific-users-in-win-1011/"><u>Navigating Local Policy Application for Specific Users in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/note-without-ink-optimal-windows-notepad-alternatives/"><u>Note Without Ink: Optimal Windows Notepad Alternatives</u></a></li>
+<li><a href="https://win11.techidaily.com/permanent-deletion-made-simple-configuring-the-desktop-trash-on-windows-pcs-11/"><u>Permanent Deletion Made Simple: Configuring the Desktop Trash on Windows PCs (11)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722732824613-pricing-guide-and-key-features-of-the-new-amazfit-helio-ring-revealed/"><u>Pricing Guide & Key Features of the New Amazfit Helio Ring Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-sight-restart-gpu-in-windows-11/"><u>Regain Sight: Restart GPU in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-vscode-from-shutting-down-suddenly-in-w11/"><u>Stop VSCode From Shutting Down Suddenly in W11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streaming-your-dvd-collection-on-apple-tv-a-step-by-step-guide/"><u>Streaming Your DVD Collection on Apple TV: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

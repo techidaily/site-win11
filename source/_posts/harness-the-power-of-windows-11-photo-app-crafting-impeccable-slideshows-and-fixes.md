@@ -1,7 +1,7 @@
 ---
 title: "Harness the Power of Windows 11 Photo App: Crafting Impeccable Slideshows & Fixes"
-date: 2025-01-24T06:10:02.207Z
-updated: 2025-01-24T23:11:28.865Z
+date: 2025-02-02T20:58:18.381Z
+updated: 2025-02-04T03:42:50.297Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
  The updated Photos app also supports the option to switch the slideshow to windowed mode. It means that you can drag and resize the slideshow window and continue running it in one section of your display.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Update the Photos App
 
  All the new features are available with the Photos app version number **2023.11050.2013.0** or higher. At the time of writing, this is only available for Windows Insiders. If you're not an Insider, you can still [download the Windows 11 Insider ISO without joining the Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/).
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 ![Download Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/download-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the Slideshow Feature in the Photos App
@@ -64,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 ![Slideshow options in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-options-in-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By default, you are stuck with a basic zoom-in animation effect, a fade-out transition, and an auto-loop option. The only customizable feature is the background music where you can choose tracks from multiple categories.
@@ -76,7 +72,11 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 ![Slideshow running in windowed mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-running-in-windowed-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Spot Fix Feature?
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 ![Spotfix feature in Photos App 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/spotfix-feature-in-photos-app-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another gripe with the Spot Fix feature is that you cannot select an area in an image. You are left with the maximum size of the tool only. The circular size of the tool makes it difficult to tackle the corners of the object you want to remove from the image.
@@ -129,20 +129,19 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-a-comprehensive-guide-to-using-youtubes-cc-licensing/"><u>[New] A Comprehensive Guide to Using YouTube's CC Licensing</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-from-still-life-to-dynamic-visual-narrative/"><u>[New] From Still Life to Dynamic Visual Narrative</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-reno-8t-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo Reno 8T</u></a></li>
-<li><a href="https://some-tips.techidaily.com/artificial-intelligence-revolutionizes-code-creation-pace-quantifying-progress-remains-difficult/"><u>Artificial Intelligence Revolutionizes Code Creation Pace; Quantifying Progress Remains Difficult</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-office-activation-setbacks-in-windows/"><u>Eliminating Office Activation Setbacks in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/free-the-windowed-dialogues-with-freedomgpt/"><u>Free the Windowed Dialogues: With FreedomGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/personalize-taskbar-clutter-free-add-a-weather-symbol-on-windows-11/"><u>Personalize Taskbar Clutter-Free: Add a Weather Symbol on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-windows-with-these-5-firewall-adjustments/"><u>Secure Windows with These 5 Firewall Adjustments</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-the-mystery-of-disconnected-blizzard-gaming-servers-a-step-by-step-solution/"><u>Solving the Mystery of Disconnected Blizzard Gaming Servers - A Step-by-Step Solution</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streamlining-your-workflow-adding-descriptive-elements-to-photos-on-windowsmacos/"><u>Streamlining Your Workflow Adding Descriptive Elements to Photos on Windows/MacOS</u></a></li>
-<li><a href="https://win11.techidaily.com/the-art-of-managing-windows-taskbar-time/"><u>The Art of Managing Windows Taskbar Time</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-fix-it-guide-to-non-installed-hard-drive-issue-win-11-style/"><u>The Ultimate Fix-It Guide to Non-Installed Hard Drive Issue, WIN 11 Style</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/total-restore-and-reset-how-to-erase-all-personal-info-from-your-iphone-permanently/"><u>Total Restore and Reset - How to Erase All Personal Info From Your iPhone Permanently</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-se-2022-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone SE (2022) i Do? Get Answers here</u></a></li>
-<li><a href="https://win11.techidaily.com/winrar-data-integrity-six-strategies-to-mend-summation-faults/"><u>WinRAR Data Integrity: Six Strategies to Mend Summation Faults</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-blitzing-through-images-on-win11-for-2024/"><u>[New] Blitzing Through Images on Win11 for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premier-video-tools-from-image-source/"><u>[New] Premier Video Tools From Image Source</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-next-gen-editors-the-ultimate-selection-of-instagram-tools/"><u>2024 Approved Next-Gen Editors The Ultimate Selection of Instagram Tools</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/establishing-a-visual-alert-for-system-checks-on-windows-11-systems/"><u>Establishing a Visual Alert for System Checks on Windows 11 Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/leading-windows-apps-top-video-editing-picks/"><u>Leading Windows Apps Top Video Editing Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-solutions-for-looter-shooter-lagginess/"><u>Leveraging Solutions for Looter Shooter Lagginess</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-media-maker-errors-x8007043c-x90017/"><u>Overcoming Media Maker Errors: X.8007043C, X.90017</u></a></li>
+<li><a href="https://win11.techidaily.com/should-pagefilesys-be-removed-regularly-pros-and-cons/"><u>Should Pagefile.sys Be Removed Regularly? Pros & Cons</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-to-fixing-acrocef-errors-for-smooth-operation/"><u>Step-by-Step Guide to Fixing AcroCEF Errors for Smooth Operation</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-workflow-with-these-five-steps/"><u>Streamline Your Workflow with These Five Steps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95687184-9781440580031-the-modern-guide-to-witchcraft/"><u>The Modern Guide to Witchcraft | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/transformative-tech-journey-windows-and-android-via-flow/"><u>Transformative Tech Journey: Windows & Android via Flow</u></a></li>
 </ul></div>
 

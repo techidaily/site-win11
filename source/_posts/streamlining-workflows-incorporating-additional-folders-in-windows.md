@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Workflows: Incorporating Additional Folders in Windows"
-date: 2025-01-22T01:50:20.566Z
-updated: 2025-01-24T20:07:02.896Z
+date: 2025-02-03T00:41:21.310Z
+updated: 2025-02-03T16:56:36.786Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add Folders to Windows 11’s Context Menu With MyFolders
 
  MyFolders is freeware software for Windows 11,10, 8,7, Vista, and XP that adds a new directory submenu to the context menu for the desktop and in File Explorer. You can configure that submenu by adding folder shortcuts to it for opening with Explorer or Command Prompt. Its submenu also includes some additional folder management options. This is how you can add folders to Windows 11’s context menu with MyFolders:
@@ -41,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 7. Select**Next** two more times, and then click MyFolders’**Install** option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-install-option.jpg)
@@ -57,10 +53,6 @@ Once your PC has restarted:
 
 5. Click**Done** to exit the MyFolders window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Use MyFolders
 
  Check out the new folder shortcut you’ve just added to the context menu. Right-click a space on the desktop background and select**Show more options** . Move the cursor over the**MyFolders** submenu and**Go to** . Then click the folder shortcut you just added to open its directory in Explorer.
@@ -74,10 +66,6 @@ Once your PC has restarted:
 ![The Copy to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-to-option.jpg)
 
  To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add Folders to Windows 11’s Context Menu With Right Click Context Menu Adder
 
@@ -96,12 +84,12 @@ Once your PC has restarted:
 ![The Extract button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-rar-archive.jpg)
 9. Click the**ellipsis (…)** button, choose a location for Right Click Context Menu Adder, and select**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extract-window2.jpg)
 10. Press the**OK** button to extract the RAR archive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 11. Exit the 7-Zip software.
 
@@ -114,6 +102,10 @@ Once your PC has restarted:
 ![The Right Click Context Menu Adder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/right-click-context-menu-adder-window.jpg)
 5. Press the**Choose Folder** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select a directory to add to the context menu within the**Browse For Folder** window and click**OK** .
 7. Click the**Add to Desktop Context Menu** **and to Folders Context Menu** option.
 8. Press the**Add to Context Menu** button.
@@ -121,6 +113,10 @@ Once your PC has restarted:
  Now have a look at the folder shortcut you’ve just added to the context menu. Right-click a part of the desktop area and bring up the classic menu by selecting**Show more options** . Then you can click the folder you’ve just added to the menu to access that directory.
 
 ![A Program Files folder shortcut on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/program-files-folder-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Tweak Right Click Context Menu Adder
 
@@ -132,12 +128,16 @@ Once your PC has restarted:
 
 ![The Enable Aero Glass checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-enable-aero-glass-setting.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To delete folder shortcuts added, and other context menu icons, click the**Remove items** **from menu** tab. Then select a folder you’ve added to the menu and click**Remove** . Select**Yes** to confirm you’re sure about deleting the menu entry.
 
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Your Most Important Folders From the Windows 11 Context Menu
@@ -159,15 +159,20 @@ Once your PC has restarted:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ultimate-visual-preservation-tool-chromebook/"><u>[Updated] 2024 Approved Ultimate Visual Preservation Tool Chromebook</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-flip-through-history-collecting-twitter-gifs-on-mobile/"><u>[Updated] Flip Through History Collecting Twitter GIFs on Mobile</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-virtual-speed-best-vr-treadmills-ranked/"><u>Exploring Virtual Speed Best VR Treadmills Ranked</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y100i-power-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y100i Power 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-secrets-of-smooth-transfer-mcc-files-uploaded-on-vimeo/"><u>In 2024, Secrets of Smooth Transfer MCC Files Uploaded on Vimeo</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-flawed-menu-navigation-in-windows-desktops/"><u>Overcoming Flawed Menu Navigation in Windows Desktops</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-overcoming-xbox-game-pass-warzones-directx-issues/"><u>Quick Fixes for Overcoming Xbox Game Pass Warzone's DirectX Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/switching-windows-11-logon-from-pin-to-password-a-step-by-step-guide/"><u>Switching Windows 11 Logon From PIN to Password: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-the-operation-failed-problem-on-pcs/"><u>Tackling the Operation Failed Problem on PCs</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96261001-9781788172806-tantra-made-easy/"><u>Tantra Made Easy | Free Book</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-influencers-utopia-summit/"><u>2024 Approved Influencers' Utopia Summit</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/dive-into-filmmaking-the-role-of-lenses-in-videos-for-2024/"><u>Dive Into Filmmaking The Role of Lenses in Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-github-desktop-use-on-windows-1011/"><u>Essential Tips for GitHub Desktop Use on Windows 10/11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125151375-grab-the-deal-on-phrozens-premium-8k-mini-s-resolution-resin-3d-printer-price-drops-to-325/"><u>Grab the Deal on Phrozen's Premium 8K Mini S Resolution Resin 3D Printer - Price Drops to $325</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-v29ewithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo V29ewith/without a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-fixing-virtualboxs-windows-efail-error-0x80004005/"><u>Methods for Fixing Virtualbox's Windows E_FAIL Error (0X80004005)</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-non-responsive-behavior-in-ccleaner-installation-win1011/"><u>Overcoming Non-Responsive Behavior in CCleaner Installation (Win10/11)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-tecno-spark-20-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Tecno Spark 20.</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-media-creator-problem-0x8007043c-0x90017/"><u>Rectifying Media Creator Problem: 0X8007043C, 0X90017</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagining-windows-11-a-look-at-updates-xx-series-changes/"><u>Reimagining Windows 11: A Look at Updates X.x Series Changes</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-a-system-identifier-mistake-in-win11/"><u>Remedying a System Identifier Mistake in Win11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125154751-unbeatable-price-elegoo-neptone-4-pro-laser-cutter-just-284/"><u>Unbeatable Price: Elegoo Neptone 4 Pro Laser Cutter - Just $284</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-pristine-prime-viewing-navigating-textual-challenges-on-windows-11/"><u>Unlock Pristine Prime Viewing: Navigating Textual Challenges on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-strategies-validate-active-ip-connections/"><u>Windows Strategies: Validate Active IP Connections</u></a></li>
 </ul></div>
 

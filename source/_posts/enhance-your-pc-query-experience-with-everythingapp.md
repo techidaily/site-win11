@@ -1,7 +1,7 @@
 ---
 title: Enhance Your PC Query Experience with EverythingApp
-date: 2025-01-23T09:56:53.560Z
-updated: 2025-01-24T23:15:50.596Z
+date: 2025-01-29T21:07:01.368Z
+updated: 2025-02-03T18:08:43.183Z
 tags:
   - windows10
   - windows11
@@ -25,11 +25,19 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Everything?
 
  Everything is a[free search utility for your Windows PC](https://www.makeuseof.com/tag/10-best-free-search-tools-windows-10/) . It works by indexing all the files and folders on your computer's file system to create a database, after which, when you search for a file/folder, it looks it up in that database and returns relevant results instantly.
 
  What makes Everything so fast is how it indexes files and folders. Unlike the[Windows Search Indexer](https://www.makeuseof.com/windows-search-indexer-guide/) , which relies on both filenames and their content, Everything uses just file and folder names. Hence, indexing files and folders take less time, which, in turn, speeds up the entire process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Install Everything on Windows
 
@@ -41,23 +49,11 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 
 ![Everything app install options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installing-everything-on-windows-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, click**Yes** on the**User Account Control** prompt and tap**Finish** to close the installer and launch Everything.
 
  Wait for a few seconds, and Everything will create a database by indexing all the files and folders on your computer
 
 ![Everything search indexed database](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-search-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Perform Basic Everything Configuration
 
@@ -74,17 +70,9 @@ We recommend enabling the following options from here:
 
  Finally, click**Apply** to apply the settings and click**OK** to close the window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Find Files and Folders on Windows With Everything
 
  Finding files and folders with Everything is easy. Here are all the different kinds of searches and operations you can perform in Everything.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Search for a File or Folder
 
@@ -96,10 +84,6 @@ We recommend enabling the following options from here:
 
  Similarly, you can specify a folder name to tell Everything to find a file or folder inside that specific folder. For instance, if you'd like to search files inside the**Music** directory in**D** drive, your query would look like this:**d:\\music.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Get More Information and Perform Operations on Search Results
 
  If you wish to find out details about a file/folder in the results, select it, and Everything will show its details in the status bar below.
@@ -110,11 +94,19 @@ We recommend enabling the following options from here:
 
  Depending on what file or folder you're doing this on, you'll see a range of options in this menu, like rename, copy full path, open path, cut, copy, delete, and more. Most of the actions you perform here will apply directly to the file/folder on the file system and reflect in the File Explorer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Sort Your Results
 
  If Everything returns multiple files and folders matching your query, you can sort them by different properties to quickly get to the item you need. To do this, click on**View** , select**Sort by** , and select a sorting option.
 
 ![Everything sorting options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-sort-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Filter Results by Type
 
@@ -124,11 +116,11 @@ We recommend enabling the following options from here:
 
 ![filter results by type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/filter-everything-results-by-type.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Everything will filter the results and only show you files and folders that match the specified type.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Match Case to Find Accurate Results
 
@@ -137,6 +129,10 @@ We recommend enabling the following options from here:
  To avoid this, you can try matching the case style with the original file or folder name. Simply type the name of the file or folder as it's actually styled in the search box and select**Search > Match Case** .
 
 ![match case option in Everything](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/match-case-in-everything-search.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Everything will then return only those files and folders that match the specified case style.
 
@@ -166,6 +162,10 @@ We recommend enabling the following options from here:
 
 **Example:** If you want to find all the files inside the**Images** folder that are less than**15MB** , you can use the size function to get to them:**images\\ size:>15MB** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Everything Goes Beyond What We've Covered
 
  Everything is quite a powerful tool, as you've seen by now. However, we've only scratched the surface here, and there are several other advanced search options that it offers to simplify file and folder searches on your computer.
@@ -189,17 +189,24 @@ We recommend enabling the following options from here:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-first-steps-in-gamified-editing-software-selection/"><u>[New] 2024 Approved First Steps in Gamified Editing Software Selection</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-leading-gallery-archive-services/"><u>[New] Leading Gallery Archive Services</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-secrets-of-earning-big-reddits-13-money-makers/"><u>[New] Secrets of Earning Big Reddit's 13 Money Makers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-depth-analysis-logitechs-4k-professional-cam-for-2024/"><u>[Updated] In-Depth Analysis Logitech's 4K Professional Cam for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-from-concept-to-completion-crafting-your-youtube-masterpiece/"><u>2024 Approved From Concept to Completion Crafting Your YouTube Masterpiece</u></a></li>
-<li><a href="https://win11.techidaily.com/dive-deep-how-to-navigate-the-mspcm-bar-in-win11-systems/"><u>Dive Deep: How to Navigate the MSPCM Bar in Win11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-get-help-app-not-working-on-windows-11/"><u>How to Fix the Get Help App Not Working on Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-camon-20-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Camon 20</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-essential-features-of-a-mac-compatible-sound-editing-software/"><u>In 2024, Essential Features of a Mac-Compatible Sound Editing Software</u></a></li>
-<li><a href="https://win11.techidaily.com/instructions-to-launch-google-play-on-w11/"><u>Instructions to Launch Google Play on W11</u></a></li>
-<li><a href="https://win11.techidaily.com/legacy-software-understanding/"><u>Legacy Software Understanding</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-list-of-uninstall-routes-in-windows-11-118-chars/"><u>The Ultimate List of Uninstall Routes in Windows 11 (118 Chars)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-dell-p2715q-unboxed-the-future-of-4k-visuals-decoded/"><u>[Updated] In 2024, Dell P2715Q Unboxed The Future of 4K Visuals Decoded</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-pair-monitor-logging-process/"><u>[Updated] Pair Monitor Logging Process</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-live-streamers-analyzed-and-ranked/"><u>2024 Approved Top Live Streamers Analyzed and Ranked</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-lopsided-windows-headphones-output/"><u>Correcting Lopsided Windows Headphones Output</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-system-strain-tackling-high-cpu-through-rm-insights/"><u>Deciphering System Strain: Tackling High CPU Through RM Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-ui-for-better-compatibility/"><u>Enhancing Windows UI for Better Compatibility</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-samsung-galaxy-z-fold-5-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Samsung Galaxy Z Fold 5 Without PUK Codes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-motorola-moto-g-stylus-2023-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Motorola Moto G Stylus (2023) for Free? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-playspectate-screen-recorder/"><u>In 2024, PlaySpectate Screen Recorder</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-1011-update-correction-xerror/"><u>Mastering Windows 10/11 Update Correction: XError</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-web-development-4-key-uses-of-chatgpt/"><u>Maximizing Web Development: 4 Key Uses of ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/new-ways-with-windows-11-post-update-upgrade-details/"><u>New Ways with Windows 11 Post-Update Upgrade Details</u></a></li>
+<li><a href="https://win11.techidaily.com/setup-guide-integrating-rgb-into-windows-11/"><u>Setup Guide: Integrating RGB Into Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/snag-the-perfect-pair-premium-earbud-and-over-ear-deals-for-march-2-insider-tips/"><u>Snag the Perfect Pair: Premium Earbud and Over-Ear Deals for March 2^ | Insider Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-method-opening-components-settings-in-windows-11/"><u>Step-by-Step Method: Opening Components Settings in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-to-activate-new-emojis-on-windows-11/"><u>Step-by-Step to Activate New Emojis on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-journey-of-virtualization-building-linux-vm-within-hyper-v-os/"><u>The Journey of Virtualization: Building Linux VM Within Hyper-V OS</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/top-review-of-plugable-portable-tablet-stand-pt-stand1-a-revolving-desk-accessory-perfect-for-cooking-enthusiasts/"><u>Top Review of Plugable Portable Tablet Stand PT-STAND1: A Revolving Desk Accessory Perfect for Cooking Enthusiasts</u></a></li>
 </ul></div>
 

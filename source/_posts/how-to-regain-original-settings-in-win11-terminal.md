@@ -1,7 +1,7 @@
 ---
 title: How to Regain Original Settings in Win11 Terminal
-date: 2025-01-21T23:03:49.926Z
-updated: 2025-01-25T06:05:42.520Z
+date: 2025-01-28T09:29:44.429Z
+updated: 2025-02-04T02:59:19.781Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Would You Reset Your Windows Terminal?
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
  Let's now move to the below sections and see how it can be reset.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings by Clearing JSON Files
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
 4. If you're asked which app to use to open the file, then double-click on**Notepad** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. On the next page, select all the contents and**Delete** them.
@@ -75,7 +75,7 @@ del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe
 4. You can now exit the command prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings Using Windows PowerShell
@@ -98,13 +98,13 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 ![Reset Windows Terminal Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-terminal-using-file-explorer.jpg)  
 %LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. On the next page, right-click on**settings.json** and select**Delete** from the context menu.
 
  Once you perform the above steps, Settings.json will automatically be created with the default settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Resetting the Windows Terminal, Made Easy
 
@@ -125,20 +125,22 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-the-creators-currency-how-to-turn-streams-into-dollars/"><u>[New] In 2024, The Creator’s Currency How To Turn Streams Into Dollars</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-prime-add-ons-the-best-new-filmmakers-starter-list/"><u>[New] Prime Add-Ons The Best New Filmmaker’s Starter List</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-navigating-twitters-video-content-aspect-ratios-included/"><u>[Updated] 2024 Approved Navigating Twitter’s Video Content Aspect Ratios Included</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-biz-vr-innovations-new-frontiers-in-virtual-workspaces-for-2024/"><u>[Updated] Biz-VR Innovations New Frontiers in Virtual Workspaces for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-brush-up-skills-unveiling-the-ultimate-8-iphone-drawing-tools/"><u>[Updated] In 2024, Brush Up Skills Unveiling the Ultimate 8 iPhone Drawing Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-directdraw-errors-effective-remedies-for-modern-microsoft-oses/"><u>Decoding DirectDraw Errors: Effective Remedies for Modern Microsoft OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/defining-fresh-default-for-windows-pdf-files/"><u>Defining Fresh Default for Windows PDF Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-download-issues-during-steam-platform-updates/"><u>Effective Solutions for Download Issues During Steam Platform Updates</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-a-list-android-3d-viewing-tools/"><u>In 2024, A-List Android 3D Viewing Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-setup-guide-how-to-install-the-canon-pro-100-driver-for-your-windows-pc/"><u>Instant Setup Guide: How to Install the Canon PRO 100 Driver for Your Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/master-rdc-start-ups-with-these-10-tips/"><u>Master RDC Start-Ups with These 10 Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-apexs-windows-server-issues-(156-chars/"><u>Mastering Apex's Windows Server Issues (<156 Chars)</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-over-transitioning-your-workspace-from-concentration-to-normal-on-terminal/"><u>Mastery over Transitioning Your Workspace: From Concentration to Normal on Terminal</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-win11s-narrator-command-efficiency/"><u>Unlocking Win11's Narrator Command Efficiency</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-icons-how-to-ditch-the-focused-wallpaper-symbol/"><u>Win11 Icons: How to Ditch the Focused Wallpaper Symbol</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-complete-zoomers-guide-achieving-exceptional-video-and-audio-recordings-on-zoom/"><u>[New] In 2024, The Complete Zoomer's Guide Achieving Exceptional Video & Audio Recordings on Zoom</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-potential-of-multi-stream-video-on-microsoft-edge/"><u>2024 Approved Unlocking the Potential of Multi-Stream Video on Microsoft Edge</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/decoding-the-process-your-comprehensive-guide-to-filing-a-dispute-report-on-discord/"><u>Decoding the Process Your Comprehensive Guide to Filing a Dispute Report on Discord</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-smooth-operation-of-microsoft-nearby-share/"><u>Ensuring Smooth Operation of Microsoft Nearby Share</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-track-windows-screensaver-adjustment/"><u>Fast Track: Windows Screensaver Adjustment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-hobbyist-to-pro-the-audacity-journey/"><u>From Hobbyist to Pro The Audacity Journey</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-11x-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Realme 11X 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/methoden-zur-wiederherstellung-nicht-gespeicherter-dateien-in-wordpad/"><u>Methoden Zur Wiederherstellung Nicht Gespeicherter Dateien in WordPad</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimizing-audacity-a-guide-to-premium-sound-capture-for-2024/"><u>Optimizing Audacity A Guide to Premium Sound Capture for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/remedies-for-click-anomalies-in-the-latest-windows-version/"><u>Remedies for Click Anomalies in the Latest Windows Version</u></a></li>
+<li><a href="https://win11.techidaily.com/set-up-your-pc-for-win-11-ease-create-bootable-media-in-3-steps/"><u>Set Up Your PC for Win 11 Ease: Create Bootable Media in 3 Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/simultaneous-wi-fi-and-ethernet-use-guide-for-windows-pcs/"><u>Simultaneous Wi-Fi & Ethernet Use Guide for Windows PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/six-simple-steps-to-engage-your-ps5-console/"><u>Six Simple Steps To Engage Your PS5 Console</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-cutting-down-on-browsers-load-time/"><u>Strategies for Cutting Down on Browsers Load Time</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-sony-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Sony FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/unknown-subjects-under-edge-in-tasker/"><u>Unknown Subjects Under Edge in Tasker</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-the-system-cooling-policy-on-windows-and-how-do-you-set-it/"><u>What Is the System Cooling Policy on Windows and How Do You Set It?</u></a></li>
 </ul></div>
 

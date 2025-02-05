@@ -1,7 +1,7 @@
 ---
 title: Kensun's Ultimate Compact Wheel Air Pumper - A Trustworthy & Easy-to-Carry Review
-date: 2025-01-18T07:46:04.045Z
-updated: 2025-01-25T05:37:54.521Z
+date: 2025-02-03T06:20:11.813Z
+updated: 2025-02-04T02:09:21.083Z
 categories:
   - BestProducts
 description: This Article Describes Kensun's Ultimate Compact Wheel Air Pumper - A Trustworthy & Easy-to-Carry Review
@@ -21,6 +21,10 @@ thumbnail: https://www.lifewire.com/thmb/I3Lw1-ZvxZTUUfmJAFzoHuPKj_k=/400x300/fi
 ## Anker PowerCore+ 26800 Battery Pack
 
 ![Anker](https://www.lifewire.com/thmb/lNQbd16pbRC0R9DGxN2t8vYzL7o=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-3-_HEROWebSQUARE-5c90fd70c9e77c0001eb1cc6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
 
@@ -42,13 +46,13 @@ Lifewire / Gannon Burgett
 
 4.8
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Anker PowerCore+ 26800 Battery Pack
 
 ![Anker](https://www.lifewire.com/thmb/B8fIpC1_9JQjWCu_QhJoNePOP2Y=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-3-_HEROWebSQUARE-5c90fd70c9e77c0001eb1cc6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
 
@@ -72,10 +76,6 @@ Lifewire / Gannon Burgett
 
  Anker has made a name for itself as one of the most reliable gadgets and accessories manufacturers in the game. Despite their reasonable prices, the quality continues to impress and its Anker PowerCore+ 26800 PD with 30W Power Delivery Charger is no exception. We've spent some time with this laptop battery charger and put it to the test to see just how well Anker's compact battery pack holds up against a variety of gadgets.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: Plush and light for travelers**
 
  If you've owned any Anker products, you'll immediately recognize the PowerCore+ 26800\. It features a minimal rectangular design made of extruded aluminum with rounded edges for a very smooth look and feel. It weighs roughly 1.3 pounds, which gives it a premium feel without feeling too heavy.
@@ -85,6 +85,10 @@ Lifewire / Gannon Burgett
  Lifewire / Gannon Burgett
 
  The PowerCore+ 26800 features a single button on the top of the device to show remaining battery life and three ports on one of the two flat sides: two 5V/3A PowerIQ USB ports (Power IQ is Anker's proprietary smart-charging standard) and a power delivery[USB Type-C](https://www.lifewire.com/usb-c-4149490) port. It's a no-frills design that gets to the point without any unnecessary details or frills and it looks great when paired with any clean, modern device if you care about form as much as function.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Setup Process: Simple to start, but there’s yet another adapter to carry around**
 
@@ -98,6 +102,10 @@ Lifewire / Gannon Burgett
 
  It's a no-frills design that looks great when paired with any clean, modern device if you care about form as much as function.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Charging Speed and Battery: Slow and steady wins this race**
 
  From zero percent battery life, the PowerCore+ 26800 charged to 100% in four hours flat, both in our initial test and our eight additional battery cycles, with only ten or fifteen-minute variances. This time lines up perfectly with Anker's given timeframe, which states it will charge in four hours when using the included 30W[USB](https://www.lifewire.com/universal-serial-bus-usb-2626039) wall charger and USB Type-C cable.
@@ -110,21 +118,17 @@ Lifewire / Gannon Burgett
 
 ![Anker](https://www.lifewire.com/thmb/tJwshohQXfV-U0_iKVTCkHEhFLU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-3-_6Web-5c90fcc6c9e77c0001a92733.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Gannon Burgett
 
  We tested the PowerCore+ 26800 on our 2016 MacBook Pro 15-inch four different times to get a solid average. With the laptop completely dead, the battery pack managed to charge it to 100% in just three and a half hours with a little battery life to spare.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: Perfectly priced for its power**
 
  The Anker PowerCore+ 26800 retails for $129.99\. That alone is a deal in terms of power output, but add in the 30W USB wall charger and the two cables and it's an absolute steal. The USB wall charger alone goes for $25.99 and the cables easily add up to $10 together, meaning you're effectively paying $100 for the charger.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Anker PowerCore+ 26800 vs. RAVPower 26800**
 
@@ -139,10 +143,6 @@ Lifewire / Gannon Burgett
 **The perfect little power pack.**
 
  Yes, it's a little more expensive than its RAVPower contemporary, but considering the included accessories and more thoughtful design, it makes it worth it to spring the extra cash, especially when you take into account the 18-month warranty Anker offers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -180,19 +180,20 @@ Lifewire / Gannon Burgett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-how-to-record-lectures-on-mac/"><u>[New] In 2024, How to Record Lectures on Mac</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-what-everyone-needs-to-know-about-asmr-videos/"><u>[New] In 2024, What Everyone Needs to Know About ASMR Videos</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nokia-c12-plus-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nokia C12 Plus</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-unleash-creative-potential-the-ultimate-hdr-guide/"><u>2024 Approved Unleash Creative Potential The Ultimate HDR Guide</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/como-hacer-una-copia-de-tu-tarjeta-sd-de-navegacion-sin-gastar-metodos-gratuitos-y-efectivos-para-clonarla-rapidamente/"><u>Cómo Hacer Una Copia De Tu Tarjeta SD De Navegación Sin Gastar: Métodos Gratuitos Y Efectivos Para Clonarla Rápidamente</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-methods-to-uncover-and-clear-windows-usage-tracks/"><u>Efficient Methods to Uncover and Clear Windows Usage Tracks</u></a></li>
-<li><a href="https://win11.techidaily.com/harnessing-taskbar-power-in-windows-11/"><u>Harnessing Taskbar Power in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-mend-sound-error-code-0xc00d36b4-win11/"><u>How to Mend Sound Error: Code 0xC00D36B4, Win11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-13-pro-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 13 Pro Max to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/opengl-glitch-spotted-nvidia-gpu-fixed-up/"><u>OpenGL Glitch Spotted - Nvidia GPU Fixed Up!</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-iomap64-freezebsod-in-windows-10-and-8-systems/"><u>Overcoming IOMap64 Freeze/BSOD in Windows 10 & 8 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/panels-in-peril-bring-them-back-with-these-hacks/"><u>Panels in Peril? Bring Them Back with These Hacks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-10-stuck-updates-effective-methods-unveiled/"><u>Resolving Windows 10 Stuck Updates: Effective Methods Unveiled</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-stop-overwatch-2-from-continuously-crashing-on-your-computer/"><u>Troubleshooting Steps: Stop Overwatch 2 From Continuously Crashing on Your Computer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-exclusive-review-10-best-free-video-meeting-apps-iosandroid/"><u>[New] 2024 Approved Exclusive Review 10 Best Free Video Meeting Apps iOS/Android</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comparing-cloud-space-charges-methods-and-results/"><u>[Updated] Comparing Cloud Space Charges Methods and Results</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-exploring-instagrams-max-video-length/"><u>[Updated] Exploring Instagram's Max Video Length</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-insider-wisdom-how-to-effortlessly-upload-photosvideos-in-win11/"><u>[Updated] In 2024, Insider Wisdom How to Effortlessly Upload Photos/Videos in Win11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-insider-guide-to-creating-and-editing-videos-on-windows-11/"><u>[Updated] The Complete Insider Guide to Creating & Editing Videos on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-enterprise-browser-controls-on-chrome-and-edge-on-windows/"><u>Correcting Enterprise Browser Controls on Chrome and Edge on Windows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-become-a-pro-at-capturing-videos-an-in-depth-exploration-of-zds-recorder/"><u>In 2024, Become a Pro at Capturing Videos An In-Depth Exploration of ZD’s Recorder</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-win-11-taskbar-time-and-dates-view/"><u>Managing Win 11 Taskbar Time & Dates View</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-system-glitches-locating-and-resolving-windows-error-codes-with-command-line-prowess/"><u>Navigating System Glitches: Locating & Resolving Windows Error Codes with Command Line Prowess</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-world-of-devhome-in-windows-11-evolution/"><u>Navigating the World of DevHome in Windows 11 Evolution</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-non-opening-adobe-ps-on-windows-10plus/"><u>Quick Fixes for Non-Opening Adobe PS on Windows 10+</u></a></li>
+<li><a href="https://win11.techidaily.com/recover-missing-bluetooth-on-windows-11-with-9-effective-fixes/"><u>Recover Missing Bluetooth on Windows 11 with 9 Effective Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/tcpip-connection-check-windows-guide/"><u>TCP/IP Connection Check: Windows Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-differences-between-ultrasonic-and-optical-fingerprint-sensors-find-out-how-they-stack-up/"><u>Unveiling the Differences Between Ultrasonic and Optical Fingerprint Sensors – Find Out How They Stack Up!</u></a></li>
 </ul></div>
 

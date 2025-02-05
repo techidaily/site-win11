@@ -1,7 +1,7 @@
 ---
 title: Mastering File Server Connection in the Latest Win11 Version
-date: 2025-01-22T03:08:09.102Z
-updated: 2025-01-24T20:34:28.701Z
+date: 2025-01-29T04:00:13.148Z
+updated: 2025-02-03T17:54:49.074Z
 tags:
   - windows10
   - windows11
@@ -41,8 +41,16 @@ Follow the sets below to enable network discovery on Windows:
 ![Windows Advanced Network Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-network-settings.jpg)
 4. Open the**Private networks** settings and set the toggle next to**Network discovery** to**On** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
 5. If you're looking to access a printer on the network, make sure to enable**File and printer sharing** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you turn on network discovery, other devices on the same network can see your computer and access it.
 
@@ -62,20 +70,17 @@ Here's what you need to do to use File Explorer for mapping:
 2. Right-click on**This PC** and select the**Map network drive...** button in the context menu that appears.  
 ![This PC Context Menu In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/this-pc-context-menu-in-windows.jpg)
 3. Choose a unique drive letter in the**Map Network Drive** window. This is the drive you'll use to access the shared folder from your computer. As an example, we've selected**A:** as the drive letter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Enter the path to the shared folder you want to map in the**Folder:** field. This can be a local path on the computer, such as**\\\\YourComputer\\SharedFolder** , or a network path, such as**\\\\ServerName\\SharedFolder** .  
 ![Windows Shared Network Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-shared-network-folder.jpg)
 5. If you need a username and password to access the shared folder, check the**Connect using different credentials** box and enter the required information.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**Finish** to complete the mapping process.  
 ![Map Network Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/map-network-drive-in-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you have completed these steps, it'll map the folder to the specified drive letter in File Explorer. You can access the shared folder at any time by double-clicking on the drive.
 
@@ -94,14 +99,14 @@ New-PSDrive -Name DRIVE -PSProvider FileSystem -Root \\ServerName\SharedFolder
 ![PowerShell Mapping Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powershell-mapping-command.jpg)
 4. If the shared folder requires a username and password to access, you can add the -Credential parameter to the command, followed by a username and password in the format username and password. For example:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Credential username password
 5. Hit**Enter** to allow PowerShell to map the network drive. You can access the mapped drive from File Explorer now.
 
  Besides mapping, you can do a wide range of things, like managing and automating tasks on Windows. For that, you must know some[useful PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use Command Prompt for Mapping
 
@@ -120,7 +125,7 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
  That's it. It'll take a few seconds, and then you can access the mapped drive from File Explorer with one click.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Disconnect a Mapped Network Drive
@@ -135,10 +140,6 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 3. In the next window, choose the drive letter or name of the network drive you want to disconnect. Click**OK** to disconnect it from your system.
 
  The mapped network drive will now disappear from File Explorer, and you can no longer access it from the drive letter you created earlier.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Map Network Drives Easily in Windows 11
 
@@ -161,17 +162,18 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-audio-enhancement-including-tracks-in-vimeo-clips/"><u>[New] 2024 Approved Audio Enhancement Including Tracks in Vimeo Clips</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-finding-out-if-someone-hides-you-on-snapchat/"><u>[New] Finding Out if Someone Hides You on Snapchat</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-observing-patterns-in-instagram-unlikes/"><u>[New] In 2024, Observing Patterns in Instagram Unlikes</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-step-by-step-process-of-setting-up-your-logitech-webcam-for-video/"><u>[Updated] Step-by-Step Process of Setting Up Your Logitech Webcam for Video</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/capturecraft-in-depth-analysis-of-screen-capture-tech/"><u>CaptureCraft In-Depth Analysis of Screen Capture Tech</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guida-clonazione-del-sistema-operativo-e-dischi-tramite-prompt-della-riga-di-comando-in-italiano/"><u>Guida: Clonazione Del Sistema Operativo E Dischi Tramite Prompt Della Riga Di Comando in Italiano</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/prime-mp3-converters-the-ultimate-list-from-youtube-for-2024/"><u>Prime MP3 Converters The Ultimate List From YouTube for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/propelling-linux-with-powerful-windows-integration/"><u>Propelling Linux with Powerful Windows Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-fixing-diagnostics-error-on-pc/"><u>Solutions for Fixing 'Diagnostics Error' On PC</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-journey-through-original-diablo/"><u>Step-by-Step Journey Through Original Diablo</u></a></li>
-<li><a href="https://win11.techidaily.com/why-and-how-to-ditch-integrated-video-on-windows/"><u>Why and How to Ditch Integrated Video on Windows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-configuring-picture-in-picture-for-apple-browsers-for-2024/"><u>[New] Configuring Picture-in-Picture for Apple Browsers for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-best-youtube-to-gif-makers-you-should-use-online-and-desktop/"><u>2024 Approved Best YouTube To GIF Makers You Should Use (Online & Desktop)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-track-blood-pressure-with-the-upcoming-apple-watch-series-10-a-detailed-look-from-zdnet/"><u>Can You Track Blood Pressure with the Upcoming Apple Watch Series 10? A Detailed Look From ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effortlessly-fixing-windows-11s-elan-tap-mishaps/"><u>Effortlessly Fixing Windows 11'S Elan Tap Mishaps</u></a></li>
+<li><a href="https://win11.techidaily.com/give-your-windows-mail-and-calendar-apps-a-cool-look-with-your-favorite-pictures/"><u>Give Your Windows Mail and Calendar Apps a Cool Look With Your Favorite Pictures</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-frozen-intellij-unison-app-on-your-win11-pc/"><u>How to Fix a Frozen IntelliJ Unison App on Your Win11 PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ogv-to-avi-converter-free-online-transcoder-with-movavi-technology/"><u>OGV to AVI Converter - Free Online Transcoder with Movavi Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-administrator-overrides-on-windows-safety-features/"><u>Removing Administrator Overrides on Windows Safety Features</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solutions-to-the-too-many-requests-error-on-windows-platform/"><u>Swift Solutions to the Too Many Requests Error on Windows Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/the-next-gen-workstation-a-closer-look-at-the-asus-s15-bape-edition/"><u>The Next-Gen Workstation: A Closer Look at the ASUS S15 BAPE Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-three-faces-of-artificial-intelligence/"><u>The Three Faces of Artificial Intelligence</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-hidden-mastering-dark-modes-in-notepad-win-11-edition/"><u>Unlock the Hidden: Mastering Dark Modes in Notepad, Win 11 Edition</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mxf-mov-movavi/"><u>영구 무료 MXF 태그를 MOV로 쉽게 전환: Movavi의 가장 훌륭한 도우미</u></a></li>
 </ul></div>
 

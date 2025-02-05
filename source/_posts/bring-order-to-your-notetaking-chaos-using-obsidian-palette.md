@@ -1,7 +1,7 @@
 ---
 title: Bring Order to Your Notetaking Chaos Using Obsidian Palette
-date: 2024-07-29T15:55:48.678Z
-updated: 2024-07-30T15:55:48.678Z
+date: 2025-02-01T19:19:27.728Z
+updated: 2025-02-03T20:38:38.710Z
 tags:
   - windows10
   - windows11
@@ -27,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
  Obsidian's Canvas offers you "the platform" to organize visually however you wish. We realize this sounds vague, so let's start with a practical example: using Obsidian's Canvas for mind mapping.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Set Up Your Obsidian Canvas
 
  Before we do any kind of mind mapping, we have to set everything up so it's ready to go.
@@ -43,49 +44,33 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 7. Since you've added "a generic element" but not a specific note, snippet, or media file to your board, Obsidian will show its file requester, which you should use to search for and select one of your notes.  
 ![Obsidian Searching For Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-searching-for-note.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### How to Edit Your Canvas Elements
 
  Now you've made your first mark on your canvas. Here's how to tweak them to your liking:
 
 1. If you point the cursor at an element on your Canvas board or select it, you'll see a mini action menu on its top.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Obsidian Note Quick Action Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-note-quick-action-menu.jpg)
 2. You can use the first button to **remove** an element from the board. The second button allows you to change its **color**.  
 ![Obsidian Note Quick Action Colors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-note-quick-action-colors.jpg)
 3. The magnifying glass button **centers** the view on the selected element. The notepad-with-pencil button performs the same action as double-clicking on an element, allowing you to **edit** its content directly on the Canvas board.  
-![Obsidian Note Quick Action Edit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-note-quick-action-edit.jpg)
-4. When you select an element, by left-clicking on one of its borders and dragging, you can **resize** it on the Canvas board.  
-![Obsidian Note Resize](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-note-resize.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Obsidian Note Quick Action Edit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-note-quick-action-edit.jpg)
+4. When you select an element, by left-clicking on one of its borders and dragging, you can **resize** it on the Canvas board.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Obsidian Note Resize](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-note-resize.jpg)
+
 ### Getting Started With Connectors in Canvas
 
  When resizing elements, you might also have noticed some large dots on the center of each border. By left-clicking on one of those points and dragging, you can create visual **connectors** between elements.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![Obsidian Canvas Connectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-connectors.jpg)
 
  You can also embed images on your Canvas by dragging the media button from the bottom bar or by directly dragging and dropping them from the **File** tab.
@@ -96,42 +81,44 @@ Key features:
 
 ![Obsidian Canvas Connector Direction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-connector-direction.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can add or edit an existing label on a connector by double-clicking on it or choosing the last option from its quick menu. Then, type the text you want to appear on its center as its label.
 
 ![Obsidian Canvas Connector Labels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-connector-labels.jpg)
 
  Don't press **Delete** to remove a connector's label; that would remove the connector itself. You can **edit** the label and erase its text. Still, it's quicker to select the new **Remove label** button that shows up on the quick actions bar if a selector has a label.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Obsidian Canvas Connector Remove Label](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-connector-remove-label.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Navigating Your Canvas
 
  As your Canvas grows, you'll need some aid in getting around it. Fortunately, Canvas has special tools to help you get around.
 
 1. An extra toolbar on the right of the Canvas offers more options and assists with navigation.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Obsidian Canvas Sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-sidebar.jpg)
 2. The first button, with the cog icon, offers the option to toggle two methods of element **snapping** on the board and **locking** it from edits as "Read-only". The plus and minus buttons allow you to **zoom** in and out, and the circular arrow button to **reset** the zoom level. The rectangular selector button centers the view on the **selected element**. Below are two more buttons for **undoing** and **redoing** actions. The last button, Canvas help, with a question mark, shows a panel with Canvas-related **shortcuts**.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Obsidian Canvas Sidebar Snap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-sidebar-snap.jpg)
 3. Obsidian Canvas displays a horizontal or vertical line when two or more elements' borders or centers align to help you keep your Canvas boards tidy.  
 ![Obsidian Canvas Alignment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-alignment.jpg)
 4. Remember, Obsidian's other features are also active and usable on Canvas. For example, you can still keep **CTRL** pressed and point at a link to a note to see a **floating preview** of its contents.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Obsidian Floating Note Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-floating-note-preview.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Getting More Out Of Obsidian Canvas
 
  There are many established solutions for visually managing your notes, organizing your thoughts, juggling your tasks, or improving your productivity. Obsidian's Canvas borrows elements from all of them. It allows you to recreate most of them, but as we saw, it is quite unlike any of them in many ways.
@@ -141,8 +128,9 @@ Key features:
  We already saw the basics of using it as a superpowered mind-mapping solution. But what more could you do with Canvas?
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Canvas Kanban Boards
 
  If you don't mind using an add-on, check our guide on [how to turn Obsidian into a personal Kanban organizer](https://www.makeuseof.com/obsidian-kanban-guide/) for an approach closer to other Kanban solutions.
@@ -187,11 +175,29 @@ Key features:
 
  Let's see how you can use Obsidian's Canvas to make sense of your notes and boost your productivity visually.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-protect-your-data-while-turning-youtube-to-mp3-3-steps/"><u>[Updated] 2024 Approved Protect Your Data While Turning YouTube to MP3 - 3 Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/youtubeweb/"><u>「YouTube動画のオーディオコンテンツだけダウンロード可能な無料アプリとWebサイト」</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028154413-dvd/"><u>「パソコン上でDVDのデータダウンロード手順４つの効果的な方法」</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-restore-natural-tones-reviving-overexposed-iphone-hdr-videos-in-premiere-pro/"><u>2024 Approved Restore Natural Tones Reviving Overexposed iPhone HDR Videos in Premiere Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/1726027472714-mp4mp3/"><u>効率的な方法：大量のMP4ファイルが入ったバッチでMP3への変換手順</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/college-students-guide-to-crafting-the-perfect-diy-wireless-home-theater/"><u>College Students' Guide to Crafting the Perfect DIY Wireless Home Theater</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/effortless-online-transformation-ff-vids-to-mp4-in-high-definition/"><u>Effortless Online Transformation FF Vids to MP4 in High Definition</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-13t-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi 13T ProFRP Lock</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-rhythm-research-capture-and-review-music-files/"><u>In 2024, Rhythm Research Capture & Review Music Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-your-microsoft-outlooks-faulty-spellcheck-issues/"><u>Solving Your Microsoft Outlook's Faulty Spellcheck Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/wondershare/"><u>Wondershareを超えた最高の編集ソフトウェア：拡張されたデバイス対応</u></a></li>
+<li><a href="https://win11.techidaily.com/youtubecapcut/"><u>YouTubeビデオやミュージックの編集：容易なCapCutで始めよう</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028554855-gif/"><u>アニメーション素材を使ったキャプチャと切り取り：ビデオ、イメージ、GIFへの変換テクニック</u></a></li>
+<li><a href="https://win11.techidaily.com/1726027458854-mov/"><u>ファイル形式MOVから変換するための最適な方法 - 詳細ガイド</u></a></li>
+</ul></div>
+

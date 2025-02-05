@@ -1,7 +1,7 @@
 ---
 title: Streamlining Windows 11 Menu with Additional Folders
-date: 2025-01-18T20:19:06.057Z
-updated: 2025-01-25T07:14:04.975Z
+date: 2025-02-01T21:57:14.672Z
+updated: 2025-02-04T04:55:44.688Z
 tags:
   - windows10
   - windows11
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Folders to Windows 11’s Context Menu With MyFolders
 
  MyFolders is freeware software for Windows 11,10, 8,7, Vista, and XP that adds a new directory submenu to the context menu for the desktop and in File Explorer. You can configure that submenu by adding folder shortcuts to it for opening with Explorer or Command Prompt. Its submenu also includes some additional folder management options. This is how you can add folders to Windows 11’s context menu with MyFolders:
@@ -40,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 8. Click the**Yes** ,**restart the computer now radio** button, and select**Finish** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once your PC has restarted:
@@ -59,6 +63,10 @@ Once your PC has restarted:
 
 ![The MyFolders submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/myfolders-submenu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can select to open the folder in the Command Prompt. Move the cursor over the**Open command window** option. There you can select to open the same folder with the Command Prompt.
 
  The**MyFolders** submenu includes extra options you can select in File Explorer. Right-click a folder in Explorer to select**Show more options** \>**MyFolders** . Then you can click**Copy to** and**Move to** options for copying and moving directories to the folders you’ve added to the menu.
@@ -66,6 +74,10 @@ Once your PC has restarted:
 ![The Copy to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-to-option.jpg)
 
  To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add Folders to Windows 11’s Context Menu With Right Click Context Menu Adder
 
@@ -84,6 +96,10 @@ Once your PC has restarted:
 ![The Extract button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-rar-archive.jpg)
 9. Click the**ellipsis (…)** button, choose a location for Right Click Context Menu Adder, and select**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extract-window2.jpg)
 10. Press the**OK** button to extract the RAR archive.
 
@@ -98,10 +114,6 @@ Once your PC has restarted:
 ![The Right Click Context Menu Adder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/right-click-context-menu-adder-window.jpg)
 5. Press the**Choose Folder** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Select a directory to add to the context menu within the**Browse For Folder** window and click**OK** .
 7. Click the**Add to Desktop Context Menu** **and to Folders Context Menu** option.
 8. Press the**Add to Context Menu** button.
@@ -109,14 +121,6 @@ Once your PC has restarted:
  Now have a look at the folder shortcut you’ve just added to the context menu. Right-click a part of the desktop area and bring up the classic menu by selecting**Show more options** . Then you can click the folder you’ve just added to the menu to access that directory.
 
 ![A Program Files folder shortcut on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/program-files-folder-shortcut.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Tweak Right Click Context Menu Adder
 
@@ -128,16 +132,12 @@ Once your PC has restarted:
 
 ![The Enable Aero Glass checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-enable-aero-glass-setting.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To delete folder shortcuts added, and other context menu icons, click the**Remove items** **from menu** tab. Then select a folder you’ve added to the menu and click**Remove** . Select**Yes** to confirm you’re sure about deleting the menu entry.
 
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Your Most Important Folders From the Windows 11 Context Menu
@@ -159,24 +159,22 @@ Once your PC has restarted:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-advanced-tips-for-recording-google-voice-dialogues/"><u>[Updated] Advanced Tips for Recording Google Voice Dialogues</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-understanding-ip-sounds-and-songs-on-instagram/"><u>2024 Approved Understanding IP Sounds and Songs on Instagram</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-wu-and-orchestrator-integration/"><u>Deciphering WU & Orchestrator Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-visibility-a-cursor-guide-for-win10-and-11/"><u>Enhancing Visibility: A Cursor Guide for Win10 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-keeping-df-game-from-locking-up-windows/"><u>Essential Tips for Keeping DF Game From Locking Up Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-turning-your-video-clips-into-profitable-assets-on-the-web/"><u>Guide: Turning Your Video Clips Into Profitable Assets on the Web</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-control-win11-rgb-settings/"><u>How to Control Win11 RGB Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-eradicate-the-error-xc0f1103f-from-your-win11-and-geforce/"><u>How to Eradicate the Error Xc0f1103f From Your Win11 & GeForce</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-lenovo-thinkphone-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Lenovo ThinkPhone FRP</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-x7-ultra-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Oppo Find X7 Ultra Phone Without Password?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-redmi-k70-pro-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Redmi K70 Pro Device</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagrabs-top-15-videophoto-downloading-tools/"><u>InstaGrabs Top 15 Video/Photo Downloading Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-installer-needs-more-access-rights-in-windows/"><u>Overcoming Installer Needs More Access Rights in Windows</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1576824-9781459726550-overshadows/"><u>Overshadows | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/tracking-credential-success-in-windows-computers-securely/"><u>Tracking Credential Success in Windows Computers Securely</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-the-semaphore-timed-out-error-code-0x80070079/"><u>Troubleshooting Guide: Resolving the 'Semaphore Timed Out' Error Code 0X80070079</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-identity-compromised-trust-in-your-biometrics-questioned/"><u>Windows Identity Compromised: Trust in Your Biometrics Questioned</u></a></li>
-<li><a href="https://win11.techidaily.com/your-guide-to-safest-free-software-for-windows-devices/"><u>Your Guide to Safest Free Software for Windows Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-frame-by-frame-the-smartphone-storytellers-path-to-youtubes-thumbnails/"><u>[Updated] Frame by Frame The Smartphone Storyteller's Path to YouTubes Thumbnails</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-harvesting-hours-top-10-friendly-farm-gaming-experiences/"><u>[Updated] Harvesting Hours Top 10 Friendly Farm Gaming Experiences</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-perfecting-presentations-choosing-from-top-10-free-screen-captures-for-mac/"><u>2024 Approved Perfecting Presentations Choosing From Top 10 Free Screen Captures for Mac</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-clear-windows-arp-caches-for-optimal-performance-130-chars-exceeds-limit-adjusted-to-fit-better-optimal-windows-arp-clearing/"><u>Efficiently Clear Windows ARP Caches for Optimal Performance (130 Chars, Exceeds Limit, Adjusted to Fit Better: Optimal Windows ARP Clearing</u></a></li>
+<li><a href="https://win11.techidaily.com/empower-windows-discover-best-apps-of-2023-by-peers/"><u>Empower Windows: Discover Best Apps of 2023 by Peers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-can-you-send-messages-through-messenger-without-owning-a-facebook-account/"><u>How Can You Send Messages Through Messenger Without Owning a Facebook Account?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-create-an-essential-security-hardware-shortcut/"><u>How to Create an Essential Security Hardware Shortcut</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-workflow-with-swift-android-studio-performance-tweaks/"><u>Improving Workflow with Swift Android Studio Performance Tweaks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-pixiz-guide-to-blending-photography-and-motion/"><u>In 2024, The Pixiz Guide to Blending Photography and Motion</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/insider-look-at-the-value-packed-pruveeeo-f5-high-res-dash-camera-a-steal-for-motorists/"><u>Insider Look at the Value-Packed Pruveeeo F5 High-Res Dash Camera: A Steal for Motorists</u></a></li>
+<li><a href="https://win11.techidaily.com/insight-into-altering-file-deletion-warnings-in-os/"><u>Insight Into Altering File-Deletion Warnings in OS</u></a></li>
+<li><a href="https://win11.techidaily.com/relaunch-techniques-enhancing-file-explorer-experience/"><u>Relaunch Techniques: Enhancing File Explorer Experience</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-to-restore-your-youtube-shorts-thumbnails/"><u>Steps to Restore Your YouTube Shorts' Thumbnails</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-mystery-of-windows-object-info/"><u>Unlock the Mystery of Windows Object Info</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-to-do-applications-for-pc-efficiency/"><u>Winning To-Do Applications for PC Efficiency</u></a></li>
 </ul></div>
 

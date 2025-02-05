@@ -1,7 +1,7 @@
 ---
 title: "Changing File Dates in Windows: A Practical Overview"
-date: 2024-07-29T15:56:14.696Z
-updated: 2024-07-30T15:56:14.696Z
+date: 2025-01-27T22:34:13.153Z
+updated: 2025-02-03T22:23:08.892Z
 tags:
   - windows10
   - windows11
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
 
  First, type **"PowerShell"** in Windows Search, right-click on **PowerShell,** and select **Run as administrator**. This gives the utility administrative access to make the desired changes without any restriction.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Run windows powershell as administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-windows-powershell-as-administrator.jpg)
 
  Then, navigate to the directory where the file or folder you want to change the attributes of is located. Type **cd..** to move back one folder in the given path, and **cd folder\_name** to move to the next folder.
@@ -53,10 +50,11 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
 
  If PowerShell doesn't present any errors and takes you to the same directory again, that confirms that the attributes have been successfully changed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![successfully changing the creation date of a file in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/creation-date-has-been-changed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Likewise, you can change the date modified and the date accessed by typing the following two commands:
 
@@ -71,12 +69,17 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 
  After changing them with PowerShell, here are the updated dates:
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Date created and date modified of a file successfully changed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/date-created-and-date-modified-of-a-file-successfully-changed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows makes real-time changes to attributes. Therefore, don't modify or access the file after making changes since it will change the modified and accessed dates again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Modify the Date Created, Date Accessed, and Date Modified Using Attribute Changer
 
@@ -89,11 +92,13 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 5. Navigate to the folder containing the file whose attributes you wish to modify.
 
 1. Right-click the file and select **Change Attribute** from the context menu to open the software. If you're using Windows 11, you may need to click **Show more options** to reveal this option in the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![opening the attribute changer app from context menu of a file in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/opening-the-attribute-changer-app-from-context-menu-of-a-file-in-windows.jpg)
 2. Once the application opens, check the box beside **Modify date and time stamps** to make the date field editable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Change the date and time when a file was first created and the last time you accessed or modified it according to your preference.  
 ![changing the attributes of a file from the atribute changer app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/changing-the-attributes-of-a-file-from-the-atribute-changer-app.jpg)
 4. Once you've made your changes, click **Apply** to make them permanent.
@@ -104,8 +109,9 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
  Using third-party tools to modify attributes requires you to grant apps permission to access the file. Therefore, if the documents you want to modify the dates for are confidential, don't use third-party apps to change the attributes; instead, use the official methods offered by Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Remove Other File Attributes Using File Explorer
 
  While File Explorer does not permit modifying critical attributes such as Date Created, Date Modified, and Date Accessed, it does permit users to remove specific attributes such as the author, copyright information, revision number, etc. To remove attributes that are possibly removable using File Explorer, follow the below steps:
@@ -114,14 +120,8 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 2. Right-click on it and select **Properties** from the context menu.
 3. Navigate to the **Details** tab at the top of the window.
 4. Click the **Remove Properties and Personal Information** link.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Opening the Window to Remove the Personal Information of Text Document in the Details Tab of Document Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/1-Removing-the-Personal-Information-of-Text-Document-in-the-Details-Tab-of-Document-Properties.jpg)
 5. To remove all possible properties automatically, check the circle beside **Create a copy with all possible properties removed**. This will create a duplicate of the file at the exact location after deleting all possible attributes.  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Removing possible file attributes in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/removing-possible-file-attributes-in-file-explorer.jpg)
 6. To remove selected properties, check the circle beside **Remove the following properties from this file**, select the attributes you want to remove, and click **OK**.
 
@@ -135,11 +135,33 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 
  If you don't want the receiver to know the actual file attributes, here's how to remove or modify them.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-how-to-reverse-video-playback-on-android-phones/"><u>[New] 2024 Approved How to Reverse Video Playback on Android Phones</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-dominate-instagram-with-superior-reel-content/"><u>[New] In 2024, Dominate Instagram with Superior Reel Content</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-step-by-step-guide-to-create-engaging-thumbnails-for-your-videos-on-youtube/"><u>[Updated] 2024 Approved Step-by-Step Guide to Create Engaging Thumbnails for Your Videos on YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-convenient-methods-for-storing-webinars-windows-and-mac-solutions-for-2024/"><u>[Updated] Convenient Methods for Storing Webinars Windows & Mac Solutions for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/aomei-fonebackup-ios-whatsapp/"><u>AOMEI FoneBackup如何在 iOS设备中轻松传输 WhatsApp信息</u></a></li>
+<li><a href="https://games-able.techidaily.com/direct-controlled-races-wheels-edge-over-touchscreen-triumphs/"><u>Direct Controlled Races: Wheel's Edge Over Touchscreen Triumphs?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/finding-legal-ways-to-watch-netflix-without-paying-a-comprehensive-guide/"><u>Finding Legal Ways to Watch Netflix Without Paying: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-essential-guides-to-the-top-10-student-focused-history-vlogs/"><u>In 2024, Essential Guides to the Top 10 Student-Focused History Vlogs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-motorola-moto-g23-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Motorola Moto G23 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/preserve-your-dvd-collection-effortlessly-with-wonderfox-dvd-ripper-and-converter-technology/"><u>Preserve Your DVD Collection Effortlessly with WonderFox DVD Ripper & Converter Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-mastering-the-art-of-adding-image-watermarks-to-videos/"><u>Quick Guide: Mastering the Art of Adding Image Watermarks to Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/record-screenshots-and-audio-a-guide-to-capturing-video-on-your-lenovo-device/"><u>Record Screenshots and Audio: A Guide to Capturing Video on Your Lenovo Device</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-smooth-operation-in-kodi-on-windows-via-full-system-reset/"><u>Restoring Smooth Operation in Kodi on Windows via Full System Reset</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-video-merging-without-re-encoding-a-step-by-step-guide/"><u>Seamless Video Merging Without Re-Encoding: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/seamlessly-convert-your-multimedia-into-htc-formats-using-the-advanced-htc-video-converter-tool/"><u>Seamlessly Convert Your Multimedia Into HTC Formats Using the Advanced HTC Video Converter Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-steps-to-hassle-free-acquisition-of-vh1-video-content/"><u>Simple Steps to Hassle-Free Acquisition of VH1 Video Content</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-flv-videos-into-high-quality-mp4-formats-quickly/"><u>Step-by-Step Guide: Converting FLV Videos Into High-Quality MP4 Formats Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-mpg-videos-to-mp4-playback-on-microsoft-windows-systems/"><u>Step-by-Step Guide: Converting MPG Videos to MP4 Playback on Microsoft Windows Systems</u></a></li>
+</ul></div>
+

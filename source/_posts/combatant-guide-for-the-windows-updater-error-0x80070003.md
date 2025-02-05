@@ -1,7 +1,7 @@
 ---
 title: Combatant Guide for the Windows Updater Error 0X80070003
-date: 2024-07-29T15:56:45.038Z
-updated: 2024-07-30T15:56:45.038Z
+date: 2025-02-02T21:25:26.337Z
+updated: 2025-02-04T00:50:59.766Z
 tags:
   - windows10
   - windows11
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/dce6bc9a112b3f049356452f785b8eb72027385ba
 
  Now that you know what might be causing the problem let’s see how to resolve this case of missing update files in Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 1\. Delete the Contents of the DataStore Folder
 
  The DataStore folder in Windows is a log file that stores information about all the updates installed in the system. This folder is located in the SoftwareDistribution folder, which is a directory of update-related information in Windows.
@@ -44,21 +41,21 @@ thumbnail: https://thmb.techidaily.com/dce6bc9a112b3f049356452f785b8eb72027385ba
 
 1. Launch File Explorer and navigate to the following location below:  
 `C:\Windows\SoftwareDistribution`  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Software distribution](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/win11-software-distribution.jpg)
 2. Locate the**DataStore** folder in the SoftwareDistribution folder and right-click on it.
 3. Choose**Delete** from the context menu.  
 ![Delete the DataStore folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/software-distribution-datastore-delete-1.jpg)
 4. Click**Yes** in the confirmation prompt to proceed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the folder is deleted, open the Settings app and try installing the updates again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run System Scans
 
@@ -74,23 +71,24 @@ Here is all that you need to do:
 2. Click**Yes** in the User Account Control prompt.
 3. In the Command Prompt window, type the command mentioned below and hit**Enter** .  
 `sfc /scannow`  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/sfc-scannow.jpg)
 4. Wait for the command to execute, and then execute the following command:  
 `Dism /Online /Cleanup-Image /ScanHealth`  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![DISM scanhealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/scanhealth.jpg)
 5. Next, proceed with the following command:  
 `Dism /Online /Cleanup-Image /RestoreHealth`  
 ![DISM restorehealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/restorehealth.jpg)
 6. Once this command is executed, close the Command Prompt window and check if you can now download the targeted updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While you are at it, you can also[run the Windows Update troubleshooter](https://www.makeuseof.com/tag/windows-update-troubleshooter/) . This tool also works like the utilities we just described above. It will scan the system for errors and suggest you relevant fixes that can be applied using the troubleshooter as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Repair the Update Components
 
@@ -119,27 +117,22 @@ net start bits
 net start cryptsvc  
 net start trustedinstaller  
 net start appidsvc`  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Restart the update services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-the-services.jpg)
 7. After the commands are executed, restart your computer. Hopefully, you will be able to install the pending updates on reboot.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get the Missing Update Files Back on Windows
 
  Hopefully, by now, you should have successfully resolved the annoying update error. In case you are still facing the issue, you can use the Microsoft update catalog to install the updates manually. It may also be a good idea to report this issue to the Microsoft support team so they can launch an official fix for the problem.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,4 +141,24 @@ net start appidsvc`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-pros-and-tips-building-realistic-3d-text-in-photos/"><u>[New] In 2024, Pros and Tips Building Realistic 3D Text in PHOTOS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-youtube-inversion-creative-tactics-to-watch-videos-backwards-for-2024/"><u>[New] The Youtube Inversion Creative Tactics to Watch Videos Backwards for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-seo-breakthrough-dominating-the-podcast-rankings-landscape/"><u>[Updated] In 2024, SEO Breakthrough Dominating the Podcast Rankings Landscape</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-shorten-videos-for-instagram-a-mac-guide-for-2024/"><u>[Updated] Shorten Videos for Instagram A Mac Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/blu-ray-disc-h264/"><u>「品質保証の下、ハイスピードでBlu-Ray Disc H.264への変換手順」</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-bring-footage-together-ken-burns-technique-for-camtasa-users/"><u>2024 Approved Bring Footage Together Ken Burns Technique for Camtasa Users</u></a></li>
+<li><a href="https://win11.techidaily.com/cm-3/"><u>動画素材中のCMパターンを見つけ出せ: 3つのスニファリティ方法</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-understanding-and-evaluating-blackberrys-playbook-tablet/"><u>Comprehensive Guide: Understanding and Evaluating BlackBerry's PlayBook Tablet</u></a></li>
+<li><a href="https://win11.techidaily.com/dvd-mp4/"><u>DVDコピーワラジ脱出 MP4への変換手順</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-techniques-for-bulk-downloading-anime-a-step-by-step-guide/"><u>Efficient Techniques for Bulk Downloading Anime: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-guide-finding-and-downloading-your-favorite-disney-films/"><u>Effortless Guide: Finding & Downloading Your Favorite Disney Films</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-analysis-reveals-recurring-crash-problems-with-intel-powered-laptop-computers/"><u>Expert Analysis Reveals Recurring Crash Problems with Intel-Powered Laptop Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/free-mp4-to-mpg-conversion-techniques-top-8-solutions-unveiled/"><u>Free MP4-to-MPG Conversion Techniques: Top 8 Solutions Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/get-your-youtube-vids-as-mp4mp3-best-unpaid-video-and-audio-downloader-apps-available-now/"><u>Get Your YouTube Vids as MP4/MP3 - Best Unpaid Video & Audio Downloader Apps Available Now!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-nubia-red-magic-9-proplus-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Nubia Red Magic 9 Pro+ Phone Screen?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-your-next-purchase-with-confidence-using-toms-hardware-insights/"><u>Navigate Your Next Purchase with Confidence Using Tom's Hardware Insights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/win11-wont-boot-heres-what-you-need-to-do/"><u>Win11 Wont Boot? Here's What You Need to Do!</u></a></li>
+</ul></div>
 

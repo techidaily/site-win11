@@ -1,7 +1,7 @@
 ---
 title: Top Solutions When Your Windows Security Is Down
-date: 2024-08-08T13:18:35.924Z
-updated: 2024-08-09T13:18:35.924Z
+date: 2025-01-29T01:50:26.671Z
+updated: 2025-02-03T23:41:09.736Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
  Below, we explore the different solutions you can try to fix this issue for good.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Run the Firewall Troubleshooter
 
  If you are having trouble enabling Firewall in Windows, it is a good idea to start troubleshooting using the official Firewall troubleshooter released by Microsoft Automated Troubleshooting Services.
@@ -34,16 +35,12 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
 1. Head over to the [official Microsoft page for the troubleshooter](https://support.microsoft.com/en-us/windows/automatically-diagnose-and-fix-problems-with-windows-firewall-513e9cf8-19ae-d579-2092-d5e64fe06f5f) and download it.  
 ![Download firewall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/download-troubleshooter.jpg)
 2. Click on the downloaded file and proceed with the on-screen instructions to start the scan.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![Firewall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/firewall-troubleshooter.jpg)
 3. Once the scan completes, check the results and apply the solutions suggested by the troubleshooter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can now close the troubleshooter and check if the issue is resolved.
 
@@ -53,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
 
  Disabling the third-party antivirus software may vary depending on the program you have installed. However, a common approach is to right-click on the antivirus icon located in the taskbar. From the context menu that appears, you should find an option to disable the antivirus temporarily until you restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
  After disabling the antivirus, try enabling the Windows Firewall and check if it functions properly now.
@@ -73,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
 ![Defender Firewall in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/defender-firewall.jpg)
 5. Head over to the left pane and choose **Restore defaults**.  
 ![Restore defaults for firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-defaults.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Confirm the action in the following prompt and proceed with the on-screen instructions to proceed.
 2. Once done, open Run again.
@@ -98,32 +96,22 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
 4. In the Registry Editor, navigate to the location below.  
 `​​​​​​​HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender`
 5. Move to the right side and look for the DisableAntiSpyware key. If you locate it, delete it. You can also double-click on it and change its value to 0 if you do not want to delete it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Disable or delete the registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/antispyware-key.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Once done, head over to the following location:  
 `​​​​​​​​​​​​​​HKEY_LOCAL_MACHINE/SYSTEM/CurrentControlSet/Services/BFE`
 2. Right-click on the **BFE** key and choose **Permissions** from the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Access permissions of the key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/access-permissions.jpg)
 3. Under "Group or user names", click on **Add**.
 4. Type "Everyone" in the "Enter the object names to select" and click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Modify permissions of the key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/modify-permissions.jpg)
 5. Now, head over to the "Permissions for Everyone" section and checkmark the box associated with **Full Control** under Allow.
 6. Click **Apply** to save the changes and check if the issue is now resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## Additional Generic Fixes to Try
 
  Apart from the fixes we have listed above, here are some additional solutions that you can try to fix the Firewall problem.
@@ -132,13 +120,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * **Scan with SFC**: You can also scan the system for underlying corruption errors that might be leading to the problem using the [System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/). You can run it via Command Prompt and analyze the results to find the culprit.
 * **Clean install Windows**: If nothing works and it is essential for you to enable Firewall, you can [perform a clean install](https://www.makeuseof.com/how-to-clean-install-windows-11/) of Windows. It will wipe the existing installation and download a new one without any underlying problems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Protect Your System With Windows Firewall
 
  The steps above should help you fix issues with Windows Firewall easily. If the error persists and you do not want to clean install the system yet, you can report the issue to Microsoft and wait for them to suggest a fix.
 
  Below, we explore the different solutions you can try to fix this issue for good.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -146,3 +136,27 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-secrets-of-the-top-8-social-apps-for-popularity-on-facebook-platform/"><u>[Updated] In 2024, Secrets of the Top 8 Social Apps for Popularity on Facebook Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-workflow-personalized-shortcut-keys/"><u>Elevate Your Workflow: Personalized Shortcut Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-quickly-resolve-windows-update-issue-code-x80246007/"><u>How To Quickly Resolve Windows Update Issue Code X80246007</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-13-pro-max-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 13 Pro Max and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-collection-for-enlivening-text/"><u>In 2024, Best Collection for Enlivening Text</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/leading-asian-tongues-rank-backup-and-navigate/"><u>Leading Asian Tongues: Rank, Backup & Navigate</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-of-solutions-for-non-operational-wwinplusp-in-pc/"><u>Mastery of Solutions for Non-Operational WWin+P in PC</u></a></li>
+<li><a href="https://win11.techidaily.com/msc-troubleshooting-restoring-windows-print-management/"><u>MSC Troubleshooting: Restoring Windows Print Management</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-error-0x80070003-during-system-upgrades/"><u>Overcoming Windows Error: 0X80070003 During System Upgrades</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/password-pitfalls-the-top-choices-of-4-out-of-every-5-people-online/"><u>Password Pitfalls: The Top Choices of 4 Out of Every 5 People Online</u></a></li>
+<li><a href="https://win11.techidaily.com/pinpointing-windows-model-years-simplified/"><u>Pinpointing Windows Model Years Simplified</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/recovering-degraded-mobile-video-files/"><u>Recovering Degraded Mobile Video Files</u></a></li>
+<li><a href="https://win11.techidaily.com/step-up-windows-security-today-with-free-desktop-pass-gen-apps/"><u>Step Up Windows Security Today With Free Desktop Pass Gen Apps</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-to-transforming-pal-format-dvds-into-ntsc/"><u>Step-by-Step Guide to Transforming PAL Format DVDs Into NTSC</u></a></li>
+<li><a href="https://win11.techidaily.com/strategic-approach-to-remedy-error-0x80070570-and-file-corruption-in-windows-11/"><u>Strategic Approach to Remedy Error 0X80070570 & File Corruption in Windows 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/mall-screen-big-impact-effortless-businesspersonal-youtube-channel-setup-for-2024/"><u>The Small Screen, Big Impact Effortless Business/Personal YouTube Channel Setup for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-ios-photo-importers-on-windows-11/"><u>Troubleshooting iOS Photo Importers on Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/witness-the-future-of-food-tech-doordash-introduces-drone-delivery-in-select-us-cities-zdnet-news/"><u>Witness the Future of Food Tech: DoorDash Introduces Drone Delivery in Select U.S. Cities | ZDNET News</u></a></li>
+</ul></div>
+

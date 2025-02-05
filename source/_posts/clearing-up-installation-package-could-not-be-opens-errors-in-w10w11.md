@@ -1,7 +1,7 @@
 ---
 title: Clearing Up 'Installation Package Could Not Be Opens' Errors in W10/W11
-date: 2024-07-29T15:56:31.392Z
-updated: 2024-07-30T15:56:31.392Z
+date: 2025-01-28T00:17:47.739Z
+updated: 2025-02-04T07:53:46.319Z
 tags:
   - windows10
   - windows11
@@ -21,16 +21,13 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
  That error means you can’t install the software, but its message provides no clues for potential causes. The message only says to check if it’s a valid installer package, which it usually is. This is how you can fix the “installation package could not be opened” error in Windows 11/10.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Download the Affected Installation File Again
 
  The setup file you’ve downloaded might not be compatible with your PC’s platform or could be corrupted. So, try downloading the setup wizard for the software you want to install again in a different folder path on the local drive. Make sure you download an installer for your Windows 11/10 platform (not a Linux or Mac OS). If there are alternative 64/32-bit versions, download the one that matches your platform’s architecture.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check if the Setup File is Blocked
 
  Windows sometimes applies blocks to ‘suspicious’ files downloaded. If your setup file is blocked, you’ll see an**Unblock** option within its properties window. You can unblock a setup file like this:
@@ -39,9 +36,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Go to the folder you’ve downloaded an affected software setup file to.
 3. Right-click the affected software setup file and select**Properties** .
 4. Click the**Unblock** box on the**General** tab if you can see one.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Unblock checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/unblock-checkbox1.jpg)
 5. Select**Apply** to save the file’s new properties.
 6. Click**OK** to close the properties window for the file.
@@ -50,14 +44,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Don’t rule out the possibility of system file corruption causing this installation issue. It’s easy to scan and repair system files with the System File Checker command-line utility. Check out our[how-to-run SFC guide](https://www.makeuseof.com/system-file-checker-sfc-windows/) for full instructions about applying this potential fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scannow-command2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run the Windows Installer Service
 
  Windows Installer is a service needed for installing programs with MSI and MSP packages. Starting the Windows Installer service is among the most widely confirmed fixes for the “installation package could not be opened” error. So, check that service is running like this:
@@ -67,32 +59,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Double-click**Windows Installer** to open that service’s properties window.  
 ![The Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-service-window-1.jpg)
 4. If Windows Installer isn’t running, click its**Start** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Start button for the Windows Installer service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/start-button-1.jpg)
 5. Select**Apply** to save the new service settings.
 6. Press the service window’s**OK** button.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Install the Software in a New Admin Account
 
  Some users have also resolved this issue by creating new Windows admin accounts and installing the required software packages from them. To do that, you’ll need to add a new local user account via Settings and then set it to an administrator account type. You can apply this potential resolution by following the steps in our[guide to fixing Windows issues](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) by creating a new account.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-account-button-2.jpg)
 
  However, there’s no need to switch to the new user account you’ve set up. Log in to the new admin account you’ve set up and try downloading and installing the software you need from there. Then that software should also be available within the other user account you couldn’t install it in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Temporarily Disable Your Antivirus Software Before Installing the Software
 
@@ -100,16 +86,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Windows Security is the antivirus app included with Windows. You can disable that app’s Microsoft Defender antivirus component by turning off its**Real-time protection** option. Our guide on[how to disable disabling Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) includes full instructions for how to do that.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/real-time-protection-setting-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’ve installed third-party security software, disable its antivirus component from the app’s settings tab or context menu. How you can do that varies a little bit between apps, but most of them have context menus with options for disabling their antivirus shields. Right-click the antivirus tool’s icon in the system tray and select an option for turning off its shield.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Unregister and Reregister the Windows Installer Service
 
  Windows Installer won’t work right if it’s not properly registered. So, reregistering that service could feasibly resolve the “installation package could not be opened” error for some users. This is how you can unregister and reregister Windows Installer:
@@ -134,6 +118,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. Input**0** in the**Value data** box for the**NtfsDisable8dot3NameCreation** DWORD if set to anything else.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-dword-option-2.jpg)
 5. Click**OK** to close the**Value** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Double-click**Win31FileSystem** to bring up its**Value data** box.
 7. Set the value to**0** for the**Win31FileSystem** and click**OK** .
 8. Click the**X** (Close) button on the Registry Editor and restart Windows.
@@ -148,8 +137,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +144,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhancing-on-screen-appeal-essential-tips-for-talking-head-shots/"><u>[New] 2024 Approved Enhancing On-Screen Appeal Essential Tips for Talking-Head Shots</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-premium-camcorders-enhancing-podcasting/"><u>[New] 2024 Approved Premium Camcorders Enhancing Podcasting</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-innovative-immersion-a-guide-to-the-leaders/"><u>[New] Innovative Immersion A Guide to the Leaders</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-lullabies-for-your-mind-no-stress-pcs-for-2024/"><u>[New] Lullabies for Your Mind No-Stress PCs for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unlock-your-potential-with-these-leading-cost-free-editions/"><u>[New] Unlock Your Potential with These Leading Cost-Free Editions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-ultimate-panoramic-camera-scrutiny-for-2024/"><u>[Updated] Ultimate Panoramic Camera Scrutiny for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/customize-and-control-your-viewing-experience-with-netflix-speed-mods/"><u>Customize and Control Your Viewing Experience with Netflix Speed Mods</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-irecorder-unleashed-a-review-revealed/"><u>In 2024, IRecorder Unleashed A Review Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-frontiers-in-programming-top-alternatives-to-chatgpt/"><u>New Frontiers in Programming: Top Alternatives to ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-step-by-step-guide-boosting-audio-levels-with-audacity/"><u>Simple Step-by-Step Guide: Boosting Audio Levels with Audacity</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-the-cannot-play-media-error-on-powerpoint-a-guide-to-8-fixes/"><u>Solving the 'Cannot Play Media' Error on PowerPoint: A Guide to 8 Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/stealth-techniques-for-recording-facebook-stories-unnoticed/"><u>Stealth Techniques for Recording Facebook Stories Unnoticed</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-audio-files-from-ac3-to-wav-format-using-both-online-tools-and-software/"><u>Step-by-Step Guide: Converting Audio Files From AC3 to WAV Format Using Both Online Tools & Software</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-installing-the-youtube-go-app-on-your-desktop/"><u>Step-by-Step Guide: Installing the YouTube Go App on Your Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-methods-for-saving-your-favorite-youtube-content-playlists-and-channels/"><u>Step-by-Step Methods for Saving Your Favorite YouTube Content – Playlists & Channels!</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-tutorial-grab-and-keep-any-youtube-or-dailymotion-video-with-these-three-techniques/"><u>Step-by-Step Tutorial: Grab and Keep Any YouTube or Dailymotion Video with These Three Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/top-methods-for-converting-dvds-into-high-quality-mpeg2-audiovideo-files/"><u>Top Methods for Converting DVDs Into High-Quality MPEG2 Audio/Video Files</u></a></li>
+<li><a href="https://win11.techidaily.com/top-rated-video-converter-from-dvd-to-avi-format-for-windows-10-and-11/"><u>Top Rated Video Converter From DVD to Avi Format for Windows 10 & 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-continuous-crashes-in-samurai-warriors-5-for-pc/"><u>Troubleshooting Guide - Resolving Continuous Crashes in Samurai Warriors 5 for PC</u></a></li>
+</ul></div>
 

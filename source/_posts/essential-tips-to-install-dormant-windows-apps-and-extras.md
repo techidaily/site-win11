@@ -1,7 +1,7 @@
 ---
 title: Essential Tips to Install Dormant Windows Apps & Extras
-date: 2025-01-18T18:18:30.904Z
-updated: 2025-01-24T21:36:10.567Z
+date: 2025-02-02T16:27:12.681Z
+updated: 2025-02-03T18:53:47.253Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use the DISM Tool
 
  One of the first things you can try is using the Deployment Image Servicing and Management (DISM) tool. This tool is part of Windows, and you can use it to fix corrupt system files, including ones that could be causing problems when installing optional features.
@@ -41,10 +37,6 @@ To use the DISM tool, follow these steps:
 2. Type**cmd** and click**Run as administrator** to open the Command Prompt.
 3. Type**dism /online /cleanup-image /restorehealth** and press**Enter** .  
 ![DISM Windows Utility Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dism-windows-utility.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This will start the DISM tool and begin scanning your system for any corrupt or missing files. If it finds any issues with your computer, it will automatically repair them.
 
@@ -66,6 +58,10 @@ To check your system using SFC, follow these steps:
 Want to know the best part?
 
  The best part is that the System File Checker not only helps you fix the optional features problem but also any other Windows issues. In fact, it's one of the best[ways to repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reset the Windows Update Components
 
@@ -91,11 +87,11 @@ net start msiserver`
 
 ![Update Components Reset In CMD Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-components-reset-in-cmd.jpg)
 
- While the commands may look intimidating, you don't need to worry, as all the commands mentioned above will not cause any harm to your system.​​​​
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ While the commands may look intimidating, you don't need to worry, as all the commands mentioned above will not cause any harm to your system.​​​​
 
 ## 4\. Run the Windows Update Troubleshooter
 
@@ -108,12 +104,12 @@ Follow these steps to run the update troubleshooter on Windows:
 ![Troubleshooter Settings In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooter-settings-in-windows.jpg)
 3. Click**Run** next to**Windows Update** to run the troubleshooter.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
 4. Follow the prompts to complete the troubleshooting process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
 
@@ -130,10 +126,6 @@ Here's how you can update Windows to the latest version:
 1. Press**Win + I** to open the Settings app.
 2. Click on**Windows** **Update > Check for updates** on Windows 11\. For Windows 10, click on **Update & Security > Windows Update > Check for Updates** .  
 ![Windows Update In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-in-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That's it. Now, you can install any update that is available for your computer.
 
@@ -156,7 +148,7 @@ Here's how you can update Windows to the latest version:
  Once the service restarts, try installing the optional feature again, and it should work now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Restore Windows Features Using PowerShell
@@ -177,11 +169,19 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 ![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
 5. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will add the feature back to your system and should make it available for you to enable or disable in the features window.
 
  This method only allows you to restore a specific feature and, not all the features at once. So, you need to copy and paste the same command and edit the**FEATURENAME** every time.
 
  If these steps don't fix the problem, you may need to ask Microsoft or a technical support professional for more help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Back the Windows Optional Features
 
@@ -202,19 +202,20 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-crescendo-of-creativity-adding-audio-to-ig-stories/"><u>[New] Crescendo of Creativity Adding Audio to IG Stories</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-nanovid-recorder-analysis-with-replacements/"><u>2024 Approved NanoVid Recorder Analysis with Replacements</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-successful-utorrent-deployment-on-windows-pcs/"><u>Enhancing Successful uTorrent Deployment on Windows PCs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-the-perfect-strategy-to-insert-subtitles-into-mp4-clips/"><u>In 2024, The Perfect Strategy to Insert Subtitles Into MP4 Clips</u></a></li>
-<li><a href="https://win11.techidaily.com/open-component-services-on-windows-11-an-insiders-view/"><u>Open Component Services on Windows 11: An Insider's View</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-0x80070194-on-onedrive-and-windows-oses/"><u>Resolving 0X80070194 on OneDrive & Windows OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-fix-for-invalid-system-id-alert-in-win11/"><u>Step-by-Step Fix for Invalid System ID Alert in Win11</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/step-by-step-guide-adding-captionssubtitles-to-videos-in-various-formats-mp4-avi-mkv-flv/"><u>Step-by-Step Guide: Adding Captions/Subtitles to Videos in Various Formats (MP4, AVI, MKV, FLV)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-latest-apple-ipad-enhanced-productivity-through-innovative-ipados-integration/"><u>The Ultimate Guide to the Latest Apple iPad: Enhanced Productivity Through Innovative IPadOS Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-nvidias-geforce-error-in-windows-os/"><u>Troubleshooting Nvidia's GeForce Error in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11s-full-gaming-potential-directdraw-tips/"><u>Unlocking Windows 11'S Full Gaming Potential: DirectDraw Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avyfvavx/"><u>오늘날의 가장 유용한 방법: 원격으로 Avy/FvAvx를 무료로 변환해 보세요</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-lightning-lens-work-a-guide-to-speedy-google-collage-creation/"><u>[New] Lightning Lens Work A Guide to Speedy Google Collage Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-throughput-your-videos-8-top-android-apps/"><u>[New] Throughput Your Videos 8 Top Android Apps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-masterpiece-maker-top-free-editors-for-android-devices/"><u>[Updated] 2024 Approved Masterpiece Maker Top Free Editors for Android Devices</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-essential-vlogging-tools-for-beginners-for-2024/"><u>[Updated] Essential Vlogging Tools for Beginners for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-2023-horror-film-collections-buy-or-download-blu-ray-and-dvd-versions/"><u>Best 2023 Horror Film Collections: Buy or Download Blu-Ray and DVD Versions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-audio-troubles-on-windows-effective-solutions-for-gamers/"><u>Cyberpunk 2077 Audio Troubles on Windows: Effective Solutions for Gamers</u></a></li>
+<li><a href="https://win11.techidaily.com/empowering-your-galaxy-on-pc-essentials-of-the-samsung-app/"><u>Empowering Your Galaxy on PC: Essentials of the Samsung App</u></a></li>
+<li><a href="https://win11.techidaily.com/enhanced-windows-interface-with-right-click-contextual-help/"><u>Enhanced Windows Interface with Right-Click Contextual Help</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/proficient-powershell-commands-for-seamless-archive-management/"><u>Proficient PowerShell Commands for Seamless Archive Management</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-reactivate-missing-windows-apps-and-options/"><u>Quick Guide to Reactivate Missing Windows Apps & Options</u></a></li>
+<li><a href="https://win11.techidaily.com/release-trapped-windows-handbrake/"><u>Release Trapped Windows HandBrake</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-files-with-powertoys-locksmith-utility/"><u>Secure Files with PowerToys' Locksmith Utility</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-top-2-methods-to-create-iphone-ringtones-from-mp3-files-a-step-by-step-guide/"><u>The Top 2 Methods to Create iPhone Ringtones From MP3 Files: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-modify-the-default-browser/"><u>Windows 11: Modify the Default Browser</u></a></li>
 </ul></div>
 

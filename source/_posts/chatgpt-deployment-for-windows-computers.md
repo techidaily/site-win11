@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Deployment for Windows Computers
-date: 2024-07-29T15:55:54.580Z
-updated: 2024-07-30T15:55:54.580Z
+date: 2025-02-03T06:30:43.884Z
+updated: 2025-02-03T17:43:34.410Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
 
  At the time of writing, OpenAI hasn't released an official app for ChatGPT on the Chrome Web Store or the Microsoft Store. Please be cautious while searching for any purported ChatGPT app on these and other app marketplaces.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Run ChatGPT as a Windows App Using Edge
 
  Microsoft Edge offers an **Install this site as an app** feature. It lets you run web pages as standalone native Windows apps. Since ChatGPT is only available as a web app, you can install the AI chatbot website as an app on your computer. It looks and works similarly to the web version, except you don't see any web elements such as bookmarks, tabs, etc.
@@ -30,14 +34,13 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
 
 1. Go to the [ChatGPT page](https://chat.openai.com/chat) on the Edge browser and sign in with your account credentials.
 2. Next, click the t**hree-dots menu** to access the browser menu.  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![install this site as an app chatgpt edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-this-site-as-an-app-chatgpt-edge.jpg)
 3. Go to **Apps** and select **Install this site as an app**.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![install chatgpt app windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-chatgpt-app-windows.jpg)
 4. In the **Install App** popup, enter a name for the app. For example, enter **ChatGPT**. Entering a name makes it easy to search for the installed app.
 5. To add a custom icon, click the **Edit** button under **Install App** and select an icon from your local drive. For GPT, you can leave it as default.
@@ -53,28 +56,18 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
 
 ### Uninstall the ChatGPT Web App on Edge
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![uninstall chatgpt edge app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chatgpt-edge-app.jpg)
 
 1. Press the **Win** key and type **ChatGPT**.
 2. Right-click on the app icon and **Uninstall.**
 3. Click **Uninstall** again to confirm the action.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## How to Add ChatGPT as a Windows App Using Chrome
 
  Similar to Microsoft Edge, Chrome features a Create shortcut feature. You can add any site as a shortcut to use it as a native app. Here’s how to add ChatGPT as a shortcut using Chrome.
 
 1. In Google Chrome, navigate to the [ChatGPT page](https://chat.openai.com/chat) and sign in with your account.
 2. Click the **three-dots menu** in the top right corner.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![chatgpt create chrome shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut.jpg)
 3. Select **More Tools** and then **Create Shortcut**.
 4. Enter a name in the **Create shortcut** popup.  
@@ -97,10 +90,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ## Run ChatGPT Natively Using an Unofficial Project
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chat gpt github unofficial project running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project-running-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A developer on GitHub has posted an unofficial ChatGPT project which runs natively on the Windows computer. To use the app, you need to log in using the ChatGPT credentials. It works similarly to the AI chatbot web app but offers some additional features.
 
@@ -109,12 +103,13 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  Here’s how to run the unofficial ChatGPT project on Windows:
 
 1. Go to the [ChatGPT unofficial GitHub page](https://github.com/lencx/ChatGPT).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![chat gpt github unofficial project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project.jpg)
 2. Scroll down to the Windows section and click on the **.msi installer** download link for the **Direct download installer**. On Microsoft Edge, Windows Defender Screen Filter may temporarily block the download and prompt you to confirm whether you trust the file. To allow the download, click on **Show more,** and then the **three-dots** **menu**. Next, select **Keep** to download the installer. To be on the safer side, you can [scan the installer using an online virus scanning tool](https://www.makeuseof.com/check-suspicious-file-malware/) to find any traces of malware.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Next, run the installer and follow the on-screen instructions to complete the installation.
 4. Once installed, launch the app and log in with your ChaptGPT credentials, and you can start generating responses.
 
@@ -134,6 +129,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Once done, you might also want to delete the setup file from the Downloads folder in File Explorer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Install ChatGPT as a Windows App
 
  Adding ChatGPT as a Windows app lets you access the app in a standalone window. This removes the hassle of visiting the site frequently to use the service.
@@ -144,11 +143,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  At the time of writing, OpenAI hasn't released an official app for ChatGPT on the Chrome Web Store or the Microsoft Store. Please be cautious while searching for any purported ChatGPT app on these and other app marketplaces.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-top-picks-amplifying-vhs-pictures-via-computer-software/"><u>[New] Top Picks Amplifying VHS Pictures via Computer Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-fragmented-footage-to-fluid-editing-inshots-pathway-to-perfection/"><u>[Updated] From Fragmented Footage to Fluid Editing Inshot's Pathway to Perfection</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-spice-up-your-storytelling-the-secrets-behind-looped-videos-in-instagram/"><u>[Updated] Spice Up Your Storytelling The Secrets Behind Looped Videos in Instagram</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-streamlining-virtual-meetings-integrating-zoom-with-skype-effortlessly/"><u>In 2024, Streamlining Virtual Meetings Integrating Zoom with SKYPE Effortlessly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/spin-the-wheel-of-viewers-how-to-stream-round-the-clock-videos-on-youtube-for-2024/"><u>Spin the Wheel of Viewers How to Stream Round-the-Clock Videos on YouTube for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-tutorial-adding-and-using-the-kingdom-extension-on-kodi-platform/"><u>Ultimate Tutorial: Adding and Using the Kingdom Extension on Kodi Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-flv-format-a-complete-guide-on-opening-and-using-flv-files/"><u>Understanding FLV Format: A Complete Guide on Opening and Using FLV Files</u></a></li>
+<li><a href="https://win11.techidaily.com/wavitunes/"><u>WAVファイルがiTunesで利用可能にするためのガイドと、挿入しきれないケースへの解決方法</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-10-mp4/"><u>Windows 10向け無料 MP4ビデオの自動回転テクニック</u></a></li>
+</ul></div>
+

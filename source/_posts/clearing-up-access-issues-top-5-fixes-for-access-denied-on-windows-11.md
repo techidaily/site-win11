@@ -1,7 +1,7 @@
 ---
 title: "Clearing Up Access Issues: Top 5 Fixes for Access Denied on Windows 11"
-date: 2024-07-29T15:56:30.545Z
-updated: 2024-07-30T15:56:30.545Z
+date: 2025-01-28T18:55:34.215Z
+updated: 2025-02-03T16:10:51.788Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/0fc33f78a6ac7efb4d7528f193803031f45ec9e70
 
  When you encounter the "Access Denied" error in Windows 11, it can feel like you're being locked out of your own computer. While having trouble accessing your files, directories, and folders is frustrating, don't panic—with a few simple tweaks, you can regain access to your system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Are You Getting the "Access Denied" Error?
 
  The Access Denied error is a common issue on Windows systems that indicates you don't have permission to view a file or folder. This is because your system has not granted access to that directory for the user account you're currently using. Simply put, you're using an unauthorized account to access paths, folders, and files on your computer or external drives from other computers.
@@ -47,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/0fc33f78a6ac7efb4d7528f193803031f45ec9e70
 
 1. Locate the file, folder, or directory you are trying to access. Right-click on it and choose **Properties** from the menu.
 2. Go to the **Security** tab and click the **Edit**button.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Security tab under Properties of a File on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/file-properties.png)
 3. Choose your username from the list and check the box beside **Full control** in the **Allow** column under the **Permissions for User** section. Then, click **OK**.  
 ![A screenshot showing the settings for changing permissions for users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/user-settings.png)
@@ -64,16 +65,19 @@ thumbnail: https://thmb.techidaily.com/0fc33f78a6ac7efb4d7528f193803031f45ec9e70
 
 1. Press **Win** \+ **R** to open **Run**. Type **control userpasswords2** and click **OK.**
 2. On the **User Accounts** window, check the box beside **Users must enter a username and password to use this computer**. If this isn't present, skip this step.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The users tab displaying users in a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/the-users-tab-displaying-users-in-a-computer.png)
 3. Select your account and click the **Properties** button below it.
-4. Next, go to the **Group Membership** tab. Choose **Administrator** from the menu, then click **Apply** and **OK**.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Next, go to the **Group Membership** tab. Choose **Administrator** from the menu, then click **Apply** and **OK**.  
 ![Group membership tab for selecting standard user or administrator account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/group-membership-tab-for-selecting-standard-user-or-administrator-account.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, restart your computer and see if it resolves the problem. Otherwise, move to the next step.
 
@@ -84,41 +88,41 @@ thumbnail: https://thmb.techidaily.com/0fc33f78a6ac7efb4d7528f193803031f45ec9e70
 1. Open Windows search by pressing **Win** \+ **S**.
 2. Next, type **CMD**, right-click Command Prompt, and click **Run as administrator.**
 3. On the Command Prompt, run the following command: **net user administrator /active:yes**. This will unlock the administrator account.  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Prompt for enabling the hidden admin account in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/prompt-for-enabling-the-hidden-admin-account-in-windows.png)
 4. Log off the current account and switch to the newly enabled Administrator account. Using this account, you won't run into access problems, as it has more privileges than a normal admin account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Once you're done with the Administrator account, log off and sign into your main account again. Repeat steps 1 and 2, then run this command: **net user administrator /active:no.** This will disable the Administrator account.
 
  Switching back to your main account will cause the error to appear again. If you need to constantly access the files, use the hidden Administrator account to make the necessary changes to your system and fix the ownership or access issue. You might also consider copying the items to another location your usual account can access.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## 4\. Take Ownership of the File
 
  As mentioned previously, the "Access Denied" error sometimes stems from ownership problems. If this is the cause of the error, [taking ownership of the file](https://www.makeuseof.com/windows-10-11-own-folder/) can instantly give you the access you need:
 
 1. Locate the folder or file you want to access and right-click on it. Click **Properties** from the menu.
 2. Go to the **Security** tab and click the **Advanced** button.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Security tab in the Properties tab of a file in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/security-tab-in-the-properties-tab-of-a-file-in-windows.png)
 3. Next, look for the **Owner** section on the top of the window and click **Change**. This will open a new dialog box.  
 ![Permissions page for a file in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/permissions-page-for-a-file-in-windows-11.png)
 4. In the **Select User or Group** window, type your username or **Administrators** in the **Enter the object name** field.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select user or group tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/select-user-or-group-tab.png)
 5. Then, click the **Check Names** and **OK** buttons to save your changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Select user or group tab for a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/select-user-or-group-tab-for-a-file.png)
 6. Next, click **Apply.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. You'll see a Windows Security prompt. Click **OK**.
 8. In the main interface, click **OK** to save changes.
 
@@ -138,14 +142,6 @@ thumbnail: https://thmb.techidaily.com/0fc33f78a6ac7efb4d7528f193803031f45ec9e70
 
  Restart your computer once you're done with the steps above to check if the problem is resolved. But usually, after running these commands, you should regain access to the files and folders.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Disable Your Third-Party Antivirus Software
 
  On the off chance that the issue isn't resolved, consider turning off your third-party antivirus software.
@@ -156,11 +152,29 @@ thumbnail: https://thmb.techidaily.com/0fc33f78a6ac7efb4d7528f193803031f45ec9e70
 
  Resolving the "Access Denied" error is straightforward and does not require a lot of technical steps. You can regain control over your files and system by employing a few key strategies. Simply ensure your user account has the necessary permissions and, if needed, elevate your privileges to an administrator level.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-essential-steps-for-high-quality-twitch-broadcasts-for-2024/"><u>[New] Essential Steps for High-Quality Twitch Broadcasts for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-strategies-for-effectively-swapping-gender-identity-in-digital-media-images/"><u>[New] In 2024, Strategies for Effectively Swapping Gender Identity in Digital Media Images</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-embedding-your-pre-recorded-video-in-a-live-facebook-showcase/"><u>[Updated] In 2024, Embedding Your Pre-Recorded Video in a Live Facebook Showcase</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-frequencies-fused-mac-studios-soundscapes/"><u>2024 Approved Frequencies Fused Mac Studios Soundscapes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fun-at-no-cost-top-quality-gratuitous-meme-templates/"><u>In 2024, Fun at No Cost Top Quality, Gratuitous Meme Templates</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-innovative-video-marketing-youtube-trailers-with-filmora/"><u>In 2024, Innovative Video Marketing YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-tutorial-how-to-securely-get-your-asus-wifi-drivers-installed/"><u>Quick Tutorial: How To Securely Get Your ASUS Wifi Drivers Installed.</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-lenovo-laptops-dead-pixels-fixes-for-unresponsive-keys/"><u>Reviving Your Lenovo Laptop's Dead Pixels: Fixes for Unresponsive Keys</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-females-in-youtube-a-list-of-leading-creators-for-2024/"><u>Top Females in YouTube A List of Leading Creators for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-dvd-menus-into-mp4-format-using-handbrake/"><u>Transforming DVD Menus Into MP4 Format Using HandBrake</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-avchd-video-edits-in-davinci-resolve-step-by-step-solutions/"><u>Troubleshooting AVCHD Video Edits in DaVinci Resolve - Step-by-Step Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-to-dvd-conversion-top-tools-for-seamless-format-changes-from-videoaudio/"><u>Ultimate Guide to DVD Conversion: Top Tools for Seamless Format Changes From Video/Audio</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-securely-transferring-your-tunes-downloading-and-storing-music-on-usb/"><u>Ultimate Guide: Securely Transferring Your Tunes – Downloading & Storing Music on USB</u></a></li>
+<li><a href="https://win11.techidaily.com/windowsandroidiosdiscord/"><u>Windows/Android/iOSでのDiscord音声会話録音法：ハイクオリティサウンドガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/xbox/"><u>Xbox</u></a></li>
+</ul></div>
+

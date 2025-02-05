@@ -1,7 +1,7 @@
 ---
 title: "Elevating Your PC's Gaming: Win 11 Edition - A Guide to 7 Tips"
-date: 2025-01-20T19:46:50.845Z
-updated: 2025-01-24T22:23:59.781Z
+date: 2025-01-31T08:58:59.792Z
+updated: 2025-02-04T03:21:33.403Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn On Game Mode
 
  Turning on Game Mode does a lot to improve gaming performance. It redirects more system resources to gaming applications, turns off notifications, and reduces most background activities, thus improving your gaming sessions.
@@ -40,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 ![Screenshot showing how to turn on game mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-on-how-to-turn-on-game-mode.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Auto HDR
@@ -52,12 +48,16 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 ![Screenshot showing how to switch on HDR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-of-display-screen-to-switch-on-hdr.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Choose your display from the drop-down menu if you have multiple displays connected. Then, check under**Display Capabilities** . If the option to Use HDR is supported, toggle the options**Use HDR** and**Auto HDR** to the**On** positions.
 
  Once they're on you should be able to enjoy an immersive gaming experience. And if you're unsure as to what HDR does exactly, be sure to read[HDR vs. SDR: what's the difference?](https://www.makeuseof.com/hdr-vs-sdr-whats-the-difference/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Ensure Your Games Use Your Primary GPU
 
@@ -79,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
  This action opens the**Mouse Properties** menu. From there, open the**Pointer Options** tab and untick the**Enhanced pointer precision** checkbox. Click**Apply** then**OK** to save your changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Update Your GPU's Drivers
 
  NVIDIA, AMD, Intel, and other graphics cards are at their peak performance when their drivers are up-to-date. So, to enjoy a good gaming experience, you must update your GPU drivers regularly.
@@ -91,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
  There are a few ways you can update your GPU's drivers, from downloading them manually to using special software released by the GPU's manufacturer. Fortunately, all the[ways to update your GPU on Windows 10](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) also work on Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Update Windows
 
  Just as it's important to update your GPU drivers, it's also best to regularly update the Windows 11 OS on your PC. Before you install games and applications on your PC you should check if there are any pending OS updates. These usually come with performance and user experience improvements.
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
  If you're not sure how to do this, be sure to read[how to install Windows 11 updates](https://www.makeuseof.com/windows-11-install-updates/) for more information. Note that Windows won't automatically update on metered connections. So if you’re on one, you must manually check for pending updates periodically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Apply Generic Windows Performance Tweaks
@@ -130,22 +130,24 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unlock-fb-livestream-potential-with-recorded-content-know-how/"><u>[New] 2024 Approved Unlock FB Livestream Potential with Recorded Content Know-How</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-engaging-audiences-with-dynamic-photoviewer-content-in-pixiz/"><u>[New] In 2024, Engaging Audiences with Dynamic Photoviewer Content in Pixiz</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-quick-recap-how-to-locate-youtube-comments-post-upload-for-2024/"><u>[Updated] Quick Recap How to Locate YouTube Comments Post-Upload for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-top-8-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>[Updated] Top 8 Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boosting-gmail-safety-a-comprehensive-guide-to-turn-on-two-factor-authentication/"><u>Boosting Gmail Safety: A Comprehensive Guide to Turn On Two-Factor Authentication</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-navigating-windows-11-with-a-customizable-taskbar/"><u>Efficiently Navigating Windows 11 with a Customizable Taskbar</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-task-sequence-fails-with-code-0x8007000f/"><u>Fixing Windows Task Sequence Fails with Code 0X8007000f</u></a></li>
-<li><a href="https://win11.techidaily.com/ideal-vm-setups-for-windows-11-maximizing-potential-and-efficiency/"><u>Ideal VM Setups for Windows 11: Maximizing Potential & Efficiency</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-12-pro-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 12 Pro Without Previous Owner?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-tecno-pop-7-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Tecno Pop 7 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oppo-a56s-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Oppo A56s 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/installing-chrome-on-windows-11-everything-you-need-to-know/"><u>Installing Chrome on Windows 11: Everything You Need to Know</u></a></li>
-<li><a href="https://win11.techidaily.com/manipulating-windows-defense-display-settings/"><u>Manipulating Windows Defense Display Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-memory-usage-in-windows-systems/"><u>Maximizing Memory Usage in Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-windows-marketplace-malfunctions-error-0x80073cf3/"><u>Navigating Through Windows' Marketplace Malfunctions (Error 0X80073CF3)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-instagram-guide-for-curating-and-sharing-podcasts/"><u>The Instagram Guide for Curating and Sharing Podcasts</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-os-anomalies-a-step-by-step-approach-to-identifying-and-fixing-error-codes-using-commands/"><u>Unveiling OS Anomalies: A Step-by-Step Approach to Identifying and Fixing Error Codes Using Commands</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfecting-narrative-scripts-dialogue-excellence/"><u>[New] Perfecting Narrative Scripts Dialogue Excellence</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ultimate-chuckles-and-pixels-suite-for-2024/"><u>[New] Ultimate Chuckles and Pixels Suite for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-decoding-the-best-free-video-apps-for-os-multiplicity-for-2024/"><u>[Updated] Decoding the Best Free Video Apps for OS Multiplicity for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-snapedit-overview-in-depth-editor-review/"><u>[Updated] In 2024, SnapEdit Overview – In-Depth Editor Review</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-unique-window-11-lock-patterns/"><u>Crafting Unique Window 11 Lock Patterns</u></a></li>
+<li><a href="https://fox-where.techidaily.com/descubra-como-localizar-imagens-em-um-hd-externo-com-estas-quatro-estrategicas-tecnicas/"><u>Descubra Como Localizar Imagens Em Um HD Externo Com Estas Quatro Estratégicas Técnicas</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-realme-c53-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Realme C53 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-your-virtual-experience-moving-to-virtualbox-v70-on-windows-11/"><u>Elevating Your Virtual Experience: Moving to VirtualBox v7.0 on Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oppo-reno-11-pro-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo Reno 11 Pro 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-s17-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo S17 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-optimizing-call-recording-on-facetime-platforms/"><u>In 2024, Optimizing Call Recording on FaceTime Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/installing-windows-compressed-archive-cab-files-simplified/"><u>Installing Windows Compressed Archive (CAB) Files Simplified</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-to-windows-11s-dialer/"><u>Navigate to Windows 11'S Dialer</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-system-rename-user-folders-win11-style/"><u>Optimize Your System: Rename User Folders, Win11 Style</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-notification-failures-in-outlook-top-strategies-for-windows-users/"><u>Overcoming Notification Failures in Outlook: Top Strategies for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-reversing-text-entry-errors-in-windows/"><u>Strategies for Reversing Text Entry Errors in Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209974021-9781633411883-tarot-no-questions-asked/"><u>Tarot: No Questions Asked | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-restart-non-operational-nvidia-cp-win11/"><u>Tips to Restart Non-Operational NVidia CP, Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-top-windows-based-ndsswitch-games/"><u>Ultimate Guide: Top Windows-Based NDS/Switch Games</u></a></li>
 </ul></div>
 

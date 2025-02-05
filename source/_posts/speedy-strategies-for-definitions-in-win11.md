@@ -1,7 +1,7 @@
 ---
 title: Speedy Strategies for Definitions in Win11
-date: 2024-08-08T13:18:35.002Z
-updated: 2024-08-09T13:18:35.002Z
+date: 2025-02-03T04:14:54.484Z
+updated: 2025-02-03T18:47:43.808Z
 tags:
   - windows10
   - windows11
@@ -20,11 +20,12 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 
  On the bright side, Windows 11 offers you multiple quick ways to look up definitions without hassle. To help you save time and increase your productivity, we are putting together a list of three easy ways to find definitions on Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Get Definitions in Microsoft Edge
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Mini menu showing Define option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mini-menu-showing-dictionary-definition-in-edge.jpg)
 
  Whether you are reading web pages or PDFs, one of[Microsoft Edge's best hidden features](https://www.makeuseof.com/best-hidden-features-in-microsoft-edge/) is its built-in dictionary functionality to quickly find the correct meanings for unknown words. To make it more convenient, Edge will not take you to another tab to display the definitions, thus helping you stay focused on whatever you are reading.
@@ -38,14 +39,16 @@ These are the steps to use the dictionary in Microsoft Edge:
  Edge will now show a popup containing the different meanings of that word. However, if you do not like the Mini menu, the browser's right-click context menu also includes the**Define** option. You can get definitions of words from the context menu, too.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Find Definitions in the Windows 11 Search Box
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows search box showing dictionary definition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/define-brief-search-n.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows 11 search box can come in handy to find meanings of words, mainly when you see an unknown word in a document in printed form. In that case, it is super convenient to use the search box instead of opening a printed dictionary.
 
@@ -57,26 +60,25 @@ Here's how:
 
  If this doesn't work, see[how to fix the Windows 11 search bar](https://www.makeuseof.com/windows-11-search-bar-cant-type/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Ask the Cortana App for a Definition
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Cortana app showing dictionary definition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/define-brief-cortana-n.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Cortana app is another helpful tool in Windows 11 to help you look up definitions. To use the app as a tool to find the meanings of words, follow the below steps:
 
 1. Click on the Windows 11 Start icon and type "Cortana."
 2. Click on**Open** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Searching Cortana app via Windows Start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/searching-cortana-app-via-windows-start-icon.png)
 3. Type "define" followed by the word you want to know the meaning of.
 4. Press**Enter** on your keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Finding Definitions in Windows 11
 
@@ -84,14 +86,11 @@ Here's how:
 
  However, if you prefer third-party tools to native solutions, they are available to help you look up definitions in Windows 11.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -100,4 +99,24 @@ Here's how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-comprehensive-guide-to-choosing-podcast-names-plus-creative-ideas-list/"><u>[Updated] 2024 Approved Comprehensive Guide to Choosing Podcast Names + Creative Ideas List</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-capturing-attention-from-content-creation-to-commerce-for-2024/"><u>[Updated] Capturing Attention From Content Creation to Commerce for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-becoming-a-zoom-pro-the-comprehensive-tutorial-for-professional-audio-recordings/"><u>[Updated] In 2024, Becoming a Zoom Pro The Comprehensive Tutorial for Professional Audio Recordings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-5-alternative-editors-beyond-youtubes-limits/"><u>[Updated] Top 5 Alternative Editors Beyond Youtube's Limits</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photogenius-ai-suite-elevate-your-edits/"><u>2024 Approved PhotoGenius AI Suite Elevate Your Edits</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-boot-up-windows-startup-with-notebooks-available/"><u>Efficient Boot-Up: Windows Startup with Notebooks Available</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-breakpoint-errors-on-windows-pcs-quick-guide/"><u>Fixing Breakpoint Errors on Windows PCs - Quick Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/maintaining-exclusive-access-to-insider-batches/"><u>Maintaining Exclusive Access to Insider Batches</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-through-digital-profit-landscapes-for-2024/"><u>Navigating Through Digital Profit Landscapes for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-web-visiting-tools-a-compreran-test-of-lightweight-browsers/"><u>Optimal Web Visiting Tools: A Compreran Test of Lightweight Browsers</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-palette-for-windows-users-our-top-7-drawing-apps/"><u>Perfect Palette for Windows Users: Our Top 7 Drawing Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pushing-boundaries-with-yuneecs-typhoon-h-drone/"><u>Pushing Boundaries with Yuneec's Typhoon H Drone</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-multiple-ms-users-error-on-windows/"><u>Resolving Multiple MS Users' Error on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-savvy-bootable-media-generate-an-efficient-win-11-usb-quickly/"><u>Tech-Savvy Bootable Media: Generate an Efficient Win 11 USB Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/time-travel-files-top-utilities-in-win8-for-date-alteration/"><u>Time Travel Files: Top Utilities in Win8 for Date Alteration</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-xiaomi-14-ultra-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Xiaomi 14 Ultra Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unpacking-the-power-of-the-netgear-c3700-an-in-depth-modem-functionality-overview/"><u>Unpacking the Power of the Netgear C3700: An In-Depth Modem Functionality Overview</u></a></li>
+</ul></div>
 

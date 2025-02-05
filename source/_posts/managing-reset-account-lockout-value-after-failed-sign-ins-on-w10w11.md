@@ -1,7 +1,7 @@
 ---
 title: Managing Reset Account Lockout Value After Failed Sign-Ins on W10/W11
-date: 2025-01-19T09:07:53.949Z
-updated: 2025-01-24T16:04:30.327Z
+date: 2025-02-02T09:55:15.698Z
+updated: 2025-02-04T04:32:36.952Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Reset the Windows Account Lockout Counter in Windows via Local Security Policy
 
  This method should be your preferred choice if the system is running the Pro, Enterprise, or Education edition of Windows 10 or 11\.
@@ -37,21 +41,17 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 ![Change Windows account lockout in Security Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/02-windows-account-policies.jpg)
 4. On the right pane, double-click on the **Reset account lockout counter after** option.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows account logon counter setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-reset-windows-account-logon-counter.jpg)
 5. Choose a number between one and 99,999, and hit **OK** to change how long the system will require to automatically reset any failed logon attempts.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Set Windows account logon reset timer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/04-choose-windows-account-logon-reset-timer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Change Account Lockout Counter Reset Time via Command Prompt
@@ -64,22 +64,22 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 ![Using the command prompt to list Windows account policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/05-command-prompt-net-accounts-02.jpg)
 3. This will pull up information on how long a user has to wait before their account lockout counter is reset. It will be under the heading **Lockout observation window**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. To change the account lockout counter reset duration on Windows 10 and 11, type the following command into the console and hit **Enter**:  
 `net accounts /lockoutwindow:60`  
 ![Use the command prompt to change account lockout counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/06-change-account-lockout-counter-command-prompt.jpg)
 5. Replace the number “60” in the command with any other number from one to 99,999 to set how many minutes a user will have to wait before their failed logon attempts are reset.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A related setting, the [account lock-out duration](https://www.makeuseof.com/change-lockout-duration-windows/), must equal or exceed the time for the system to automatically reset the number of failed login attempts. If you want, you can [change the account lock-out duration on Windows](http://www.makeuseof.com/change-lockout-duration-windows/) to something that suits you best.
 
  You can also [limit the number of failed logon attempts on Windows](https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/) with a similar setting change.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Control How Long Before the Incorrect Logon Counter Is Reset
 
@@ -97,18 +97,22 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-choosing-the-best-video-editor-gopro-hero-vs-polaroid-cube/"><u>[New] Choosing the Best Video Editor GoPro Hero Vs. Polaroid Cube</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-starting-with-hauls-a-step-by-step-editing-manual-for-2024/"><u>[Updated] Starting with Hauls A Step-by-Step Editing Manual for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-a-list-ps3-mimicry-software-on-pcs-ranked-1-5/"><u>2024 Approved A-List PS3 Mimicry Software on PCs, Ranked #1-5</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-iphones-best-5-podcast-audio-platforms/"><u>2024 Approved IPhone's Best 5 Podcast Audio Platforms</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-nubia-red-magic-9-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Nubia Red Magic 9 Pro Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-the-power-within-wintoys-an-in-depth-user-friendly-guide-for-windows-os-users/"><u>Discover the Power Within WinToys: An In-Depth, User-Friendly Guide for Windows OS Users</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-inactive-notifications-from-phone-link-app-in-windows-environment/"><u>Fixing Inactive Notifications From Phone Link App in Windows Environment</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-fixing-roblox-error-code-403-on-pc/"><u>Guide to Fixing Roblox Error Code 403 on PC</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-launching-google-meet-on-youtube/"><u>In 2024, Step-by-Step Launching Google Meet on YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/live-microphone-input-addressing-recording-issues-with-obs-w11-edition/"><u>Live Microphone Input: Addressing Recording Issues with OBS, W11 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmissable-bargain-alert-snag-an-asus-laptop-for-a-sweet-99-before-time-runs-out-zdnet/"><u>Unmissable Bargain Alert! Snag an Asus Laptop for a Sweet $99 Before Time Runs Out | ZDNET</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/s-best-short-videos-download-now-free-for-2024/"><u>World's Best Short Videos – Download Now! (Free) for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/x-recorder-software-efficient-pc-sound-recording-for-2024/"><u>X-Recorder Software Efficient PC Sound Recording for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-a-step-by-step-guide-to-using-polarr-for-stunning-images-for-2024/"><u>[Updated] A Step-by-Step Guide to Using Polarr for Stunning Images for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-immerse-in-imagery-top-10-sticker-apps-for-appleandroid-users/"><u>[Updated] Immerse in Imagery – Top 10 Sticker Apps for Apple/Android Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reviewing-the-impression-of-high-dynamic-range-on-aurora-tv/"><u>[Updated] Reviewing the Impression of High Dynamic Range on Aurora TV</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-windows-11s-top-video-capture-tools-essentials-edition-for-2024/"><u>[Updated] Windows 11'S Top Video Capture Tools Essentials Edition for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-manage-apps-using-window-11-shortcuts/"><u>Efficiently Manage Apps Using Window 11 Shortcuts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-asus-touchpad-driver-download-and-installation-tips-for-windows-11-users/"><u>Effortless ASUS Touchpad Driver Download & Installation Tips for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-lost-network-discoveries-on-windows-pc/"><u>Enabling Lost Network Discoveries on Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/give-your-inbox-a-personal-touch-with-fav-photos/"><u>Give Your Inbox a Personal Touch with Fav Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-not-enough-memory-available-error-for-vms/"><u>How to Overcome 'Not Enough Memory Available' Error for VMs</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-custom-folder-options-adding-movecopy-to-context-menu/"><u>Implementing Custom Folder Options: Adding 'Move'/'Copy' To Context Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-to-buy-adobe-reader-in-microsoft-store/"><u>Navigate to Buy Adobe Reader in Microsoft Store</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-red-screen-errors-on-windows-10-a-simple-fix-guide/"><u>Resolve Your Red Screen Errors on Windows 10 - A Simple Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/shortening-windows-screen-saver-timeout/"><u>Shortening Windows Screen Saver Timeout</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-pairing-process-for-airpods-and-windows-pcs/"><u>Streamlined Pairing Process for AirPods and Windows PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-missing-d3dx9e933dll-issue/"><u>Troubleshooting the Missing d3dx9_e9_33.dll Issue</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-troubleshooting-how-to-hard-reset-problematic-software-in-windows-11/"><u>Ultimate Troubleshooting: How to Hard Reset Problematic Software in Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-iphone-11-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From iPhone 11</u></a></li>
 </ul></div>
 

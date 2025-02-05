@@ -1,7 +1,7 @@
 ---
 title: "The Insider's Look: Changing UserName in Windows 11"
-date: 2025-01-22T19:32:17.302Z
-updated: 2025-01-25T10:07:28.315Z
+date: 2025-02-02T18:44:13.984Z
+updated: 2025-02-04T08:09:07.172Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before We Get Started…
 
@@ -62,6 +66,10 @@ To change your username using the Run command, follow these steps:
 ![Run Netplwiz Command in the Windows Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-run-netplwiz-command-in-the-windows-run-command.jpg)
 3. Click**Yes** in the**User Account Control (UAC)** window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. In the**User Accounts** window, select the user account for which the username needs to be changed.
 5. Click on**Properties** .  
 ![Go to Properties in the User Accounts Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/5-go-to-properties-in-the-user-accounts-window.jpg)
@@ -83,7 +91,7 @@ To change your username using the Run command, follow these steps:
 3. Click**"Yes"** in the**User Account Control (UAC)** window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Select the**Users** tab in the left sidebar.
@@ -93,13 +101,13 @@ To change your username using the Run command, follow these steps:
 7. Enter the new username you want to use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Afterward, close the local user and group management tool, sign out of your account once, and you'll see your new username on the sign-in screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. How to Change Your Username Using Windows PowerShell
@@ -119,14 +127,6 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 ![Changing Username in Windows Powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/changing-username-in-windows-powershell.jpg)
 5. Then, log back into your account after logging out.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. How to Change Your Profile Username From the Microsoft Website
 
  If you use a Microsoft account on your computer, change your username on the Microsoft website. To update your profile username on the Microsoft website, follow these steps:
@@ -138,12 +138,12 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 ![Click on Your info and Edit name to Change Username of a Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-your-info-and-edit-name-to-change-username-of-a-microsoft-account.jpg)
 5. Remove your current username and add the one you wish to switch to.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. After that, click**Save** .  
 ![Click on Save to Change the Username of Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-save-to-change-the-username-of-microsoft-account.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Changing the username associated with your Microsoft account may not take effect immediately. Sometimes, you may not see the new username after signing out from your account once, as we do in the other methods. To prevent that from happening, we recommend[restarting your device](https://www.makeuseof.com/windows-restart-methods/) instead of just signing out.
 
@@ -168,22 +168,24 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-from-zero-to-hero-solo-podcast-trendsetters-secrets/"><u>[New] 2024 Approved From Zero to Hero Solo Podcast Trendsetters' Secrets</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-unseen-yet-seen-how-to-conceal-faces-and-objects-digitally/"><u>[New] 2024 Approved Unseen Yet Seen How to Conceal Faces and Objects Digitally</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-anchor-audios-to-corresponding-slides-in-ppt/"><u>[Updated] Anchor Audios to Corresponding Slides in PPT</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-youtube-tricks-for-enhancing-screen-real-estate/"><u>[Updated] In 2024, YouTube Tricks for Enhancing Screen Real Estate</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/american-students-preferred-overseas-dialects/"><u>American Students' Preferred Overseas Dialects</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-windows-bar-to-reflect-internet-speed/"><u>Customizing Windows Bar to Reflect Internet Speed</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/free-file-resurrection-stellar-restoration/"><u>Free File Resurrection - Stellar Restoration</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-sony-xperia-5-v-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Sony Xperia 5 V in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-graphics-prowess-in-windows-11s-shielded-mode/"><u>Leveraging Graphics Prowess in Windows 11'S Shielded Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/mitigating-high-end-hardware-overuse-in-games/"><u>Mitigating High-End Hardware Overuse in Games</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-grammarly-freeze-on-windows-systems/"><u>Overcoming Grammarly Freeze on Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-nvidia-experience-connection-issues-on-win-11/"><u>Overcoming Nvidia Experience Connection Issues on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/rectify-non-working-shortcuts-guide-to-solving-win-11-issues/"><u>Rectify: Non-Working Shortcuts - Guide to Solving Win 11 Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-cwindowssystem32configsystemprofile-desktop-error-on-your-pc/"><u>Resolving C: Windows System32 Config SystemProfile Desktop Error on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-window-to-climate-control-best-apps-for-windows-11/"><u>Ultimate Window to Climate Control: Best Apps for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-vcplusplus-distributor-functions/"><u>Understanding VC++ Distributor Functions</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/unlocking-the-power-of-online-presence-mastering-web-page-ranking-techniques/"><u>Unlocking the Power of Online Presence: Mastering Web Page Ranking Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-step-by-step-guide-to-outstanding-color-grading-top-11/"><u>[New] A Step-by-Step Guide to Outstanding Color Grading (Top 11)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-enhancing-vimeo-videos-with-effective-end-credits/"><u>[New] Enhancing Vimeo Videos with Effective End Credits</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-sourav-joshis-predictions-on-youtube-profits-in-the-new-year/"><u>[Updated] Sourav Joshi's Predictions on YouTube Profits in the New Year</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-streamlined-techniques-for-discovering-highly-engaged-youtube-remarks/"><u>[Updated] Streamlined Techniques for Discovering Highly Engaged YouTube Remarks</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/boost-your-pcs-performance-with-this-secret-windows-11-feature-to-instantly-close-frozen-programs/"><u>Boost Your PC's Performance with This Secret Windows 11 Feature to Instantly Close Frozen Programs</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/comment-initialiser-avec-succes-votre-disque-dur-etapes-cles-a-suivre-pour-une-configuration-optimale/"><u>Comment Initialiser Avec Succès Votre Disque Dur : Étapes Clés À Suivre Pour Une Configuration Optimale</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-system-performance-by-reducing-tiworkerexe-load/"><u>Enhancing System Performance by Reducing TiWorker.exe Load</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-successful-run-as-user-permissions/"><u>Essential Tips for Successful Run As User Permissions</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-app-launch-failures-demystifying-error-code-xc000003e-on-win11-and-11/"><u>Fixing App Launch Failures: Demystifying Error Code Xc000003e on Win11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-retrieving-disappeared-data-on-pcs/"><u>Guide to Retrieving Disappeared Data on PCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-beginners-guide-to-mastering-final-cut-pro/"><u>In 2024, The Ultimate Beginner’s Guide to Mastering Final Cut Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/live-streaming-mastery-with-manycam-advanced-video-softwares-and-online-cameras/"><u>Live Streaming Mastery with ManyCam: Advanced Video Softwares & Online Cameras</u></a></li>
+<li><a href="https://win11.techidaily.com/making-sense-of-stuff-a-guide-to-obsidian-notes/"><u>Making Sense of Stuff: A Guide to Obsidian Notes</u></a></li>
+<li><a href="https://win11.techidaily.com/reset-your-trust-5-paths-to-fixed-windows-family-protection/"><u>Reset Your Trust: 5 Paths to Fixed Windows Family Protection</u></a></li>
+<li><a href="https://win11.techidaily.com/significance-of-the-x-mark-on-computer-files/"><u>Significance of the X Mark on Computer Files</u></a></li>
+<li><a href="https://win11.techidaily.com/studio-2-insight-near-perfect-tool-by-microsoft-unveiled/"><u>Studio 2 Insight: Near-Perfect Tool by Microsoft Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/tactics-to-resolve-dxgi-error-after-deletion-of-devices/"><u>Tactics to Resolve DXGI Error After Deletion of Devices</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/top-5-solutions-for-restoring-the-partition-table-on-windows-10-11-8-and-7/"><u>Top 5 Solutions for Restoring the Partition Table on Windows (10, 11, 8, and 7)</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/ultimate-pulp-fiction-collection-full-hd-wallpapers-backgrounds-and-images-for-dynamic-displays-curated-by-yl-computing/"><u>Ultimate Pulp Fiction Collection: Full HD Wallpapers, Backgrounds and Images for Dynamic Displays - Curated by YL Computing</u></a></li>
 </ul></div>
 

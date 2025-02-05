@@ -1,7 +1,7 @@
 ---
 title: Effective Steps to Update Login Credentials on Win 11
-date: 2024-08-08T13:17:42.380Z
-updated: 2024-08-09T13:17:42.380Z
+date: 2025-01-27T18:09:18.104Z
+updated: 2025-02-03T23:45:13.715Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/a26306e3d205a36c4a6b9d44bd1cf9f948f504e38
 
  Even if you prefer a PIN over the conventional password sign-in, you can set an account password as a backup option. It is a handy way to sign in if you forget your PIN or encounter an error. But what if you have forgotten your account password? Let's explore the many ways to change your account password in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## What If You Have Forgotten Your Windows Administrator Password?
 
  Most Windows computers have more than one sign-in option. So, if your[Windows user account PIN isn’t working](https://www.makeuseof.com/something-happened-your-pin-isnt-available-windows/) , you can use the account password to sign in and vice versa.
@@ -30,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/a26306e3d205a36c4a6b9d44bd1cf9f948f504e38
  To be able to change your account password, you must either remember your current password or be able to log in to your PC with an alternate sign-in option. If you are locked out of your account without no option to sign in, follow our guide to[reset a forgotten Windows administrator password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/) instead.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Change the Account Password Using Ctrl + Alt + Delete
 
  Ctrl + Alt + Delete combo is often used if an app causes the PC to become unresponsive and if you want to perform a restart or access Task Manager. However, the combo offers access to other useful tools, including a password change option.
@@ -40,15 +38,9 @@ thumbnail: https://thmb.techidaily.com/a26306e3d205a36c4a6b9d44bd1cf9f948f504e38
 
 1. Press**Ctrl + Alt + Delete** on your keyboard to view the available options.
 2. Next, click on**Change** **a password** option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![ctrl alt delete change password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ctrl-alt-delete-change-password.jpg)
 3. Next, enter your old account password.
 4. Next, you need to provide a new password and confirm the same.  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ctrl alt delete change password new password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ctrl-alt-delete-change-password-new-password.jpg)
 5. Press**Enter** or click the right arrow icon to change the password.
 6. It’s a quick way to change your account password. If this doesn’t work, you can use the Settings app to do the same.
@@ -63,6 +55,11 @@ To change the account password:
 2. In the left pane, open the**Accounts** tab.  
 ![change user account password settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-user-account-password-settings.jpg)
 3. Next, click on**Sign-in options.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click and expand the**Password** option.
 5. Click on**Change** and enter your current password.
 6. Click**Next** .  
@@ -70,6 +67,10 @@ To change the account password:
 7. Next, enter your new password and re-enter the password to confirm the same.
 8. You can also add a password hint. If not, leave it blank.
 9. Click**Next** and then click on**Finish** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reset Windows User Account Password Using User Accounts (If You Have Forgotten Your Password)
 
@@ -83,27 +84,19 @@ To reset the user account password:
 2. Next, press**Win + R** to open**Run** .
 3. Type**netplwiz** and click**OK** .
 4. Select the user account to reset the password in the**User Accounts** dialog.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![user accounts reset password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/user-accounts-reset-password.jpg)
 5. Next, click on the**Reset Password** button.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![user accounts reset password new password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/user-accounts-reset-password-new-password.jpg)
 6. In the**Reset Password** dialog, enter your new password and confirm the same.
 7. Click**OK** to save the changes.
 8. Close the**User Account** dialog, and you can now log in with your new password.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Reset Account Password Using Command Prompt
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![reset user account password command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-user-account-password-command-prompt.jpg)
 
  An easy way to change your account password is via Command Prompt. Again, useful if you want to change your password without knowing the old password.
@@ -125,9 +118,6 @@ To reset the user account password:
 4. Once the password is reset, you’ll see the**command completed successfully** message in Command Prompt.
 5. Type**exit** and press**Enter** to close Command Prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Change the Account Password Using the Control Panel
 
  The classic Control Panel still has most of its system setting functions intact. You can use it in Windows 11 to change your user account password and more.
@@ -141,23 +131,25 @@ To change the Windows account password using Control Panel:
 4. Next, click on**Manage another account.**  
 ![user accounts control panel manage another account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/user-accounts-control-panel-manage-another-account.jpg)
 5. Select the user account for which you want to change the password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Next, click on the**Change the password** option under**Make changes to User’s account.**  
 ![user accounts control panel change the password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/user-accounts-control-panel-change-the-password.jpg)
 7. Type your current password and then enter the new password. Confirm the new password and type in a hint. This will be useful if you forget your password again.  
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![user accounts control panel change the password new password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/user-accounts-control-panel-change-the-password-new-password.jpg)
 8. Click**Change password** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Change Account Password Using Local Users and Groups
 
@@ -176,18 +168,21 @@ To change the Windows account password using Control Panel:
 6. Click**OK** to reset the password and save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Change Microsoft Account Password
 
  If you sign in with a Microsoft account, you can reset the password for the Microsoft account online. Here’s how to do it.
 
 1. Go to the[Microsoft account security page](https://account.microsoft.com/security) and sign in with your username and password.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![microsoft account online password security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-online-password-security.jpg)
 2. Next, click on the**Password** security block.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![change my password microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-my-password-microsoft-account.jpg)
 3. To change the password, fill in your current password. Then, fill in your new password and re-enter the password to confirm.
 4. Click**Save** to change the password.
@@ -200,14 +195,11 @@ To change the Windows account password using Control Panel:
 
  That said, you can still reset your forgotten admin account password using a Command Prompt hack and the Windows Recovery Environment.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -216,4 +208,16 @@ To change the Windows account password using Control Panel:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-advanced-5-internet-screen-grabbers/"><u>[New] 2024 Approved Advanced 5 Internet Screen Grabbers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-essential-video-gear-the-ultimate-12-camera-guide/"><u>[Updated] Essential Video Gear The Ultimate 12 Camera Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-download-of-updated-drivers-for-your-tp-link-ub400-wireless-adapter/"><u>Easy Download of Updated Drivers for Your TP-Link UB400 Wireless Adapter</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-steps-to-get-your-sony-vaio-drivers-installed-in-windows/"><u>Easy Steps to Get Your Sony VAIO Drivers Installed in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/file-resurrection-made-simple-8-methods-for-windows-users/"><u>File Resurrection Made Simple: 8 Methods for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-windows-index-adjustment-steps/"><u>Guide: Windows Index Adjustment Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-efficiency-in-it-support-with-troubleshooters-shortcut-guide/"><u>Maximize Efficiency in IT Support with Troubleshooters Shortcut Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-wellness-routine-using-chatgpt-top-9-tips/"><u>Revolutionize Your Wellness Routine Using ChatGPT - Top 9 Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-utorrent-download-interruptions-on-pcs/"><u>Tackling uTorrent Download Interruptions on PCs</u></a></li>
+</ul></div>
 

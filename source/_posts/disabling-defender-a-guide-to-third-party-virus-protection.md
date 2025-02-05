@@ -1,7 +1,7 @@
 ---
 title: "Disabling Defender: A Guide to Third-Party Virus Protection"
-date: 2025-01-20T21:52:55.325Z
-updated: 2025-01-25T02:55:57.077Z
+date: 2025-02-01T03:27:31.457Z
+updated: 2025-02-04T01:10:18.299Z
 tags:
   - windows10
   - windows11
@@ -25,19 +25,11 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fix Microsoft Defender Blocking Third-Party Antivirus Software
 
  When you install a third-party antivirus program, Windows Defender may get automatically disabled. However, if you receive a notification or prompt stating that Microsoft Defender is blocking your third-party antivirus software, it means that both security solutions are active.
 
  This may result in conflicts and compromise the overall protection of your system. If you encounter such an issue, here is what to do.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Disable Tamper Protection
 
@@ -49,11 +41,11 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 ![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
 4. Next, toggle off the **Tamper Protection** switch. If prompted for confirmation, click **Yes**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Disable Tamper Protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/disable-tamper-protection.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After disabling Tamper Protection, see if your third-party antivirus works.
 
@@ -74,11 +66,15 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 4. Under **Virus & threat protection settings**, click on **Manage settings**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
 5. Scroll down and you'll find the **Exclusions** option. Click on **Add or remove exclusions**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Add or remove exclusions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-or-remove-exclusions.jpg)
 6. If the UAC prompts you for permission, click **Yes**.
@@ -86,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 7. Click on the **Add an exclusion** button and select **Folder**. In File Explorer, navigate to the folder where your third-party antivirus is installed.  
 ![Add an exclusion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-an-exclusion.jpg)
 8. Select the file and click on **Select Folder**. You'll see the folder added under the Exclusions section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After adding the exclusion, close the settings window and restart your computer. Once the computer restarts, Microsoft Defender should stop blocking third-party antivirus programs.
 
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
  Next, navigate to the official website and download the latest version. Once installed, restart your computer again. This should resolve any conflicts between Microsoft Defender and the third-party antivirus software.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix Microsoft Defender Blocking Your Third-Party Antivirus
@@ -119,24 +119,22 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-comprehensively-understanding-azure-speech-to-text/"><u>[Updated] Comprehensively Understanding Azure Speech to Text</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-revolutionizing-iphone-photography-with-hdr-techniques/"><u>[Updated] In 2024, Revolutionizing iPhone Photography with HDR Techniques</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-footage-a-step-by-step-guide-to-gopros-timelapse/"><u>2024 Approved Transforming Footage A Step-by-Step Guide to GoPro's Timelapse</u></a></li>
-<li><a href="https://win11.techidaily.com/a-deep-dive-into-optical-character-recognition-ocr-understanding-image-based-text-capture-with-copernic-software/"><u>A Deep Dive Into Optical Character Recognition (OCR): Understanding Image-Based Text Capture with Copernic Software</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/achieving-smaller-file-sizes-without-sacrificing-quality-transition-from-h264-to-h265/"><u>Achieving Smaller File Sizes Without Sacrificing Quality: Transition From H.264 To H.265</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-effective-power-indicators-in-windows/"><u>Crafting Effective Power Indicators in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-windows-11s-spotify-connectivity-fails/"><u>Eliminating Windows 11'S Spotify Connectivity Fails</u></a></li>
-<li><a href="https://win11.techidaily.com/find-your-inbox-efficiency-discover-faster-email-recovery-with-outlook-and-copernics-lightning-quick-search/"><u>Find Your Inbox Efficiency: Discover Faster Email Recovery with Outlook and Copernic's Lightning-Quick Search</u></a></li>
-<li><a href="https://win11.techidaily.com/1723809008305-find-your-inbox-efficiency-discover-faster-email-recovery-with-outlook-and-copernics-lightning-quick-search/"><u>Find Your Inbox Efficiency: Discover Faster Email Recovery with Outlook and Copernic's Lightning-Quick Search!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723003799909-fixing-chromes-sluggishness-fast-and-simple-solutions/"><u>Fixing Chrome's Sluggishness: Fast and Simple Solutions</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-majestic-celestial-images-at-your-command/"><u>In 2024, Majestic Celestial Images at Your Command</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-x8b-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor X8b</u></a></li>
-<li><a href="https://win11.techidaily.com/1723809006534-mastering-social-media-growth-with-seamless-menu-expand-functions-on-fb-li-yt-top-level-navigation-essentials/"><u>Mastering Social Media Growth with Seamless Menu Expand Functions on FB, LI, YT - Top-Level Navigation Essentials!</u></a></li>
-<li><a href="https://win11.techidaily.com/personalizing-windows-inactive-session-limit/"><u>Personalizing Windows Inactive Session Limit</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaim-original-look-for-discoloured-extend-volume/"><u>Reclaim Original Look for Discoloured Extend Volume</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/secure-your-crypto-investments-with-expert-tips-from-yl-computings-software-solutions/"><u>Secure Your Crypto Investments with Expert Tips From YL Computing's Software Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-document-discovery-using-copernics-expert-text-search-features-for-professionals/"><u>Streamline Document Discovery Using Copernic's Expert Text Search Features for Professionals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essentials-for-successful-intel-lan-setup-on-vista/"><u>The Essentials for Successful Intel LAN Setup on Vista</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-role-of-hugging-face-in-machine-learning-explained/"><u>The Role of Hugging Face in Machine Learning - Explained</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-innovative-strategies-for-maximizing-your-facebook-videos/"><u>[New] In 2024, Innovative Strategies for Maximizing Your Facebook Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204141485-fixing-the-print-to-pdf-feature-for-windows-users-of-both-windows-10-and-11-solutions-uncovered/"><u>Fixing the 'Print to PDF' Feature for Windows Users of Both Windows 10 & 11 - Solutions Uncovered</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-find-n3-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo Find N3 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-gt-10-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix GT 10 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-unlocking-the-secrets-of-profitability-on-vimeo-platform/"><u>In 2024, Unlocking the Secrets of Profitability on Vimeo Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-saving-conversations-a-step-by-step-guide-to-preserving-your-chatgpt-interactions/"><u>Mastering the Art of Saving Conversations: A Step-by-Step Guide to Preserving Your ChatGPT Interactions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ncaa-mens-hoops-roadshow-from-march-frenzy-to-final-four-triumphs/"><u>NCAA Men's Hoops Roadshow: From March Frenzy to Final Four Triumphs</u></a></li>
+<li><a href="https://article-files.techidaily.com/seamless-video-and-photo-upload-from-pc-to-iphone-for-2024/"><u>Seamless Video & Photo Upload From PC to iPhone for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-steps-for-seamless-dv-format-changes-experience-limit-free-video-enjoyment/"><u>Simple Steps for Seamless DV Format Changes - Experience Limit-Free Video Enjoyment!</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-steps-transforming-videos-into-avc-format-with-ease/"><u>Simple Steps: Transforming Videos Into AVC Format with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-your-ipad-videos-into-mp4-format/"><u>Step-by-Step Guide: Converting Your iPad Videos Into MP4 Format</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-mastering-the-basics-of-free-mpeg-video-converter-factory/"><u>Step-by-Step Guide: Mastering the Basics of Free MPEG Video Converter Factory</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-removing-custom-kodi-modifications-and-restoring-default-settings/"><u>Step-by-Step Guide: Removing Custom Kodi Modifications & Restoring Default Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-setting-up-the-latest-enzo-plugins-on-kodi-leia-and-krypton-for-reliable-live-tv/"><u>Step-by-Step Guide: Setting Up the Latest Enzo Plugins on Kodi (Leia and Krypton) for Reliable Live TV</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1060350-9781476729640-the-secret-of-life-wellness/"><u>The Secret of Life Wellness | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-list-of-top-11-youtube-downloaders-latest-version/"><u>The Ultimate List of Top 11 YouTube Downloaders - Latest Version</u></a></li>
+<li><a href="https://win11.techidaily.com/top-3-no-cost-solutions-for-seamless-xvid-to-avi-conversion-across-windows-macos-and-web-services/"><u>Top 3 No-Cost Solutions for Seamless Xvid to AVI Conversion Across Windows, MacOS, and Web Services</u></a></li>
 </ul></div>
 

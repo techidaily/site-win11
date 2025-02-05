@@ -1,7 +1,7 @@
 ---
 title: Encrypted Enigma Broken? No Urgent Change Needed
-date: 2025-01-18T18:30:41.267Z
-updated: 2025-01-25T04:27:29.447Z
+date: 2025-02-02T07:58:02.658Z
+updated: 2025-02-03T17:35:59.889Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 * [Is It Time to Ditch BitLocker?](#is-it-time-to-ditch-bitlocker)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
  Microsoft's BitLocker is one of the most popular full-disk encryption tools, and is built into Windows 10 and 11 Pro providing an easy encryption option for millions of Windows users worldwide. But BitLocker's reputation as a leading encryption tool could be under threat after a YouTuber successfully stole encryption keys and decrypted private data in just 43 seconds—using a Raspberry Pi Pico costing $6\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Was BitLocker's Encryption Broken?
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
  Tools like the [Raspberry Pi Pico, the minute $6 single-board computer](https://www.makeuseof.com/raspberry-pi-pico-projects/) that has a bunch of uses. In this case, Stacksmashing connected a Raspberry Pi Pico to unused connectors on a test laptop and managed to read the binary data as the machine booted. The resulting data contained the Volume Master Key stored on the TPM, which he could then use to decrypt other data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is It Time to Ditch BitLocker?
@@ -84,18 +84,18 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ultimate-campaigns-selecting-the-best-7-total-war-victories/"><u>[New] In 2024, Ultimate Campaigns Selecting the Best 7 Total War Victories</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-discovering-the-best-top-hexa-copters/"><u>2024 Approved Discovering the Best Top Hexa-Copters</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/download-high-quality-hd-4k-3d-videos-with-ultimate-360-video-grabber/"><u>Download High-Quality HD 4K 3D Videos with Ultimate 360° Video Grabber</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-how-mixed-reality-transforms-experience-for-2024/"><u>Exploring How Mixed Reality Transforms Experience for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-decoding-youtubes-strategic-approach-to-short-form-video-promotion/"><u>In 2024, Decoding YouTube's Strategic Approach to Short-Form Video Promotion</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-folders-not-open-glitch-in-windows-outlook/"><u>Steps to Overcome 'Folders Not Open' Glitch in Windows Outlook</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlined-tactics-for-shifting-between-windows-terminals-zones-of-attention-and-rest/"><u>Streamlined Tactics for Shifting Between Windows Terminal’s Zones of Attention and Rest</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-collection-of-ps5-adornments/"><u>The Ultimate Collection of PS5 Adornments</u></a></li>
-<li><a href="https://win11.techidaily.com/the-underrated-world-of-windows-11-what-youre-missing-out-on/"><u>The Underrated World of Windows 11 - What You're Missing Out On</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-rectifying-disk-read-issues/"><u>Understanding and Rectifying Disk Read Issues</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/windows-10-meeting-mastery-with-zoom-tools-for-2024/"><u>Windows 10 Meeting Mastery with Zoom Tools for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-how-to-restore-missing-desktop-icons-effectively/"><u>Windows 11: How to Restore Missing Desktop Icons Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-know-how-6-pathways-for-prop-discovery/"><u>Windows Know-How: 6 Pathways for Prop Discovery</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-7-key-tools-to-convert-youtube-videos-easily/"><u>[New] 2024 Approved 7 Key Tools to Convert YouTube Videos Easily</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1716069842884-updated-2024-approved-leveraging-huaweis-inbuilt-screen-capture-tech-on-its-phones/"><u>[Updated] 2024 Approved Leveraging Huawei's Inbuilt Screen Capture Tech on Its Phones.</u></a></li>
+<li><a href="https://win11.techidaily.com/enriched-user-experience-embedding-resource-consumption-data/"><u>Enriched User Experience: Embedding Resource Consumption Data</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fine-tuning-online-discussions-with-advanced-zooming-skills/"><u>In 2024, Fine-Tuning Online Discussions with Advanced Zooming Skills</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-itel-p55-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Itel P55 5G?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-m34-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy M34 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-lava-blaze-2-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Lava Blaze 2 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-pathway-of-earning-through-bug-hunting-at-openai/"><u>Navigating the Pathway of Earning Through Bug Hunting at OpenAI</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-windows-update-failures-with-error-x80246007-fixes/"><u>Stop WIndows Update Failures with Error X80246007 Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-non-windows-screen-capturing-solutions/"><u>The Ultimate Guide to Non-Windows Screen Capturing Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-code-0x0000004e-in-win11/"><u>Troubleshooting Code 0X0000004E in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-fix-for-error-0x0000011b-on-win11-operations/"><u>Unraveling the Fix for Error 0X0000011B on Win11 Operations</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-complete-guide-of-top-video-language-translators/"><u>Updated In 2024, Complete Guide of Top Video Language Translators</u></a></li>
 </ul></div>
 

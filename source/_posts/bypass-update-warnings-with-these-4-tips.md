@@ -1,7 +1,7 @@
 ---
 title: Bypass Update Warnings with These 4 Tips
-date: 2024-07-29T15:55:56.319Z
-updated: 2024-07-30T15:55:56.319Z
+date: 2025-02-03T00:30:30.075Z
+updated: 2025-02-03T19:17:51.709Z
 tags:
   - windows10
   - windows11
@@ -28,14 +28,8 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 2. Select**Windows Update** from the left sidebar.
 3. Select**Advanced options** .
 4. Disable the toggle next to**Receive updates for other Microsoft products** .  
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stop Automatic Office Updates Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stop-automatic-office-updates-using-the-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How to Stop Automatic Office Updates Using One of Its Apps
 
  You can also opt out of automatic Office updates by using one of its apps, such as Word or Excel. Here’s how you can go about it.
@@ -66,14 +60,20 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 6. Select all the**admx files** and press**Ctrl + C** to copy them.
 7. Head to**C: > Windows > PolicyDefinitions** folder.
 8. Paste all the admx files in the**PolicyDefinitions** folder.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Copy Office ADMX files to PolicyDefinitions Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-office-admx-files-to-policydefinitions-folder.jpg)
 9. Return to the folder where you extracted the files and open the**admx** folder again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Open the**en-US** folder and copy all the**adml files** within.
 11. Head to**C: > Windows > PolicyDefinitions** \>**en-US** folder and paste all the**adml files** .  
 ![Copy Office ADML files to PolicyDefinitions Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-office-adml-files-to-policydefinitions-folder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After completing the above steps, you’re all set to disable automatic Office updates via the Group Policy Editor. Here are the steps you can follow.
 
@@ -81,17 +81,23 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 2. Type**gpedit.msc** in the box and select the first result that appears. This will open the Local Group Policy Editor.
 3. Use the left pane to navigate to **Local Computer Policy > Computer Configuration > Administrative Templates > Microsoft Office 2016 > Updates** .
 4. Double-click the**Enable Automatic Updates** policy on your right.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Stop Automatic Office Updates Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stop-automatic-office-updates-using-group-policy-editor.jpg)
 5. Select the**Disabled** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Hit**Apply** followed by**OK** .
 7. Next, press**Win + R** to open the Run dialog.
 8. Type**cmd** in the text box and press**Ctrl + Shift + Enter** to[open Command Prompt with administrative privileges](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
 9. Type**gpupdate /force** in the console and hit**Enter** to apply the Group Policy changes.
 
  If you want to re-enable automatic updates for Office apps later, simply set the**Enable Automatic Updates** policy to**Enabled** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Stop Automatic Office Updates With the Registry Editor
 
@@ -105,11 +111,12 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 2. Type**regedit** in the text box and press**Enter** to open the Registry Editor.
 3. Select**Yes** when the User Account Control (UAC) prompt appears.
 4. Use the left pane to navigate to **Computer > HKEY\_LOCAL\_MACHINE > SOFTWARE > Policies > Microsoft** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Registry Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor.jpg)
 5. Right-click the**Microsoft** key and select**New > Key** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Rename the key as**Office** .
 2. Right-click on the**Office** key and select**New > Key** .
@@ -120,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 7. Right-click the**OfficeUpdate** key and select**New > DWORD (32-bit) Value** . Name this new DWORD**EnableAutomaticUpdates** .
 8. Double-click**EnableAutomaticUpdates** DWORD and set its**Value Data** to**0** .
 9. Click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![Turn Off Automatic Office Updates Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-automatic-office-updates-using-registry-editor.jpg)
 
  After completing the above steps, restart your computer. Following that, Office apps won’t update automatically on your computer. If you want to undo this change, open the Registry Editor again and delete the**EnableAutomaticUpdates** DWORD.
@@ -132,14 +135,11 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
 
  It is almost always preferable to keep your Office apps up to date so that you can benefit from new features and security updates. Hence, if you disable automatic Office updates for some reason, don’t forget to check for new updates manually every once in a while.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,4 +148,24 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-economical-mic-options-for-youtube-vloggers-for-2024/"><u>[Updated] Economical Mic Options for YouTube Vloggers for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-unleashing-potential-with-the-vida-editing-suite/"><u>[Updated] In 2024, Unleashing Potential with the Vida Editing Suite</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-reveal-8-authentic-online-video-advancement-hacks/"><u>[Updated] Reveal 8 Authentic Online Video Advancement Hacks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-interaction-to-new-heights-discover-how-the-innovative-vision-pro-extension-converts-any-surface-into-an-intuitive-virtual-pad/"><u>Elevate Interaction to New Heights: Discover How the Innovative Vision Pro Extension Converts Any Surface Into an Intuitive Virtual Pad</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-and-google-face-the-call-for-greater-regulation-against-fraudulent-ads/"><u>Facebook & Google Face the Call for Greater Regulation Against Fraudulent Ads</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-printer-driver-issues-on-windows-10/"><u>Fix Printer Driver Issues on Windows 10</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-instantly-design-custom-coverage-for-your-short-videos/"><u>How To Instantly Design Custom Coverage For Your Short Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-tricks-effective-methods-to-reduce-email-attachments-by-compressing-videos/"><u>Simple Tricks: Effective Methods to Reduce Email Attachments by Compressing Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/solve-your-firefox-video-problems-with-these-8-proven-strategies/"><u>Solve Your Firefox Video Problems with These 8 Proven Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-on-setting-up-wonderfox-dvd-ripper-software/"><u>Step-by-Step Guide on Setting Up WonderFox DVD Ripper Software</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-webm-videos-to-mp4-on-windows-11/"><u>Step-by-Step Guide: Converting WebM Videos to MP4 on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-restoring-dvd-functionality-on-an-asus-notebook/"><u>Step-by-Step Guide: Restoring DVD Functionality on an ASUS Notebook</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-setting-up-the-torque-racing-sport-extension-in-your-kodi-media-player/"><u>Step-by-Step Guide: Setting Up the Torque Racing Sport Extension in Your Kodi Media Player</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-movierulz-kodi-add-on-tutorial-for-unlimited-streaming-of-top-cinema-hits/"><u>Step-by-Step MovieRulz Kodi Add-On Tutorial for Unlimited Streaming of Top Cinema Hits</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-tutorial-on-correcting-video-layouts-and-rotation-techniques/"><u>Step-by-Step Tutorial on Correcting Video Layouts & Rotation Techniques</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-12-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 12 You Should Try Out</u></a></li>
+</ul></div>
 

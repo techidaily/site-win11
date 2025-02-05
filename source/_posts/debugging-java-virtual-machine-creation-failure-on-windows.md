@@ -1,7 +1,7 @@
 ---
 title: Debugging Java Virtual Machine Creation Failure on Windows
-date: 2025-01-23T16:15:15.069Z
-updated: 2025-01-24T20:54:03.234Z
+date: 2025-01-30T03:22:32.747Z
+updated: 2025-02-04T03:54:13.260Z
 tags:
   - windows10
   - windows11
@@ -27,13 +27,13 @@ thumbnail: https://thmb.techidaily.com/405adc45ebf84824c8425ce7d2ecb9e77863385d3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Verify Your Java Installation
 
 ![verify java installation command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/verify-java-intallation-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Verifying your Java installation can help you determine issues with the release itself. You can use the**java -version** command in Command Prompt to check the current version of Java installed along with the date of installation.
 
@@ -46,23 +46,19 @@ To check the Java version installed on Windows:
 4. The output will list the JDK version installed on your computer and the installation date.
 5. If you have recently installed an update, check if the information checks out. If not, try to install the latest version available from the[Java website](https://www.oracle.com/in/java/technologies/downloads/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. End the Java Process in Task Manager
 
 ![end java process task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/end-java-process-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the error is triggered when installing Java, check if a Java process is running in the background. You can use Task Manager to find and end background processes that may prevent you from installing the Java Runtime Environment or the development kit.
 
 1. Press**Win + X** to open the**WinX menu** and select**Task Manager** .
 2. In Task Manager, open the**Processes** tab and locate instances of**Java Virtual Machine** .
 3. Select and click**End Task** to close the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Run Java as an Administrator
 
@@ -84,6 +80,10 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 ![edit the system environmental variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edit-the-system-environmental-variables.jpg)
 2. Next, select**Edit the system environment variables** to open**System Properties** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the**Advanced** tab, click**Environment Variables** .  
 ![The Environment Variables button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/environment-variables-button.jpg)
 4. In the**System Variables** section, click**New** . It is important to select the correct section.  
@@ -91,14 +91,14 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 ![Windows new system variable java options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-new-system-variable-java-options.jpg)
 5. Type**\-JAVA\_OPTIONS** in the**Variable name** field.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Next, type**\-Xmx512M** in the**Variable value** field. Here,**\-Xmx512M** defines the amount of memory you want to allocate. In this case, it is**512MB** of system memory.
 7. Click**OK** , and**OK** once more to save the changes.
 
  Next, launch the app that shows the error and check if the error is resolved. If not, open**Environmental Variables** again. Select the -**JAVA\_OPTIONS** variable and click**Edit** . In the**Value data** field, type**\-Xmx1024M** to increase the memory size to 1**024 MB (1GB)** . Click**OK** and check for any improvements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Increase Java Heap Size Using the Java Control Panel
 
@@ -118,16 +118,12 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 7. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall and Reinstall Java
 
 ![uninstall java Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-java.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the issue persists, a reinstall may be necessary. You can uninstall and reinstall Java to fix any issues with the release. These issues may remain even if you install a newer version. To fix the issue, uninstall Java using the Java uninstaller and then reinstall the latest version available.
 
@@ -140,6 +136,10 @@ To clean install Java:
 5. Restart your computer to apply the changes.
 6. Next, go to the[Java Downloads page](https://www.java.com/en/download/manual.jsp/) and download the latest version available for your operating system. Make sure to download the correct version (32-bit/64-bit), depending on the system architecture.
 7. Run the installer and click**Install** . Follow the on-screen instructions to complete the installation and restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Install Java in a WindowsClean Boot State
 
@@ -166,22 +166,24 @@ To clean install Java:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-syma-x5c-reviewed-ideal-entry-level-flying-machine/"><u>[Updated] Syma X5C Reviewed Ideal Entry-Level Flying Machine</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-digital-dominion-rise-as-a-youtube-guru/"><u>2024 Approved Digital Dominion Rise as a YouTube Guru</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-elevate-your-creative-process-mastering-the-use-of-luts-in-pscc/"><u>2024 Approved Elevate Your Creative Process Mastering the Use of LUTs in PSCC</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-obs-mac-integration-step-by-step-installation-walkthrough/"><u>2024 Approved OBS Mac Integration Step-by-Step Installation Walkthrough</u></a></li>
-<li><a href="https://win11.techidaily.com/easily-modify-windows-11-highlight-features/"><u>Easily Modify Windows 11 Highlight Features</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-pcs-space-top-7-free-volume-enhancers-for-windows/"><u>Elevate Your PC's Space: Top 7 Free Volume Enhancers for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-error-code-0x80070522-secure-privilege-protocol-in-windows/"><u>Fixing Error Code 0X80070522: Secure Privilege Protocol in Windows</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-gamers-pathway-to-impeccable-recordings/"><u>In 2024, Gamers' Pathway to Impeccable Recordings</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo V30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-perfect-your-minecraft-recording-with-these-hacks/"><u>In 2024, Perfect Your Minecraft Recording with These Hacks</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-repair-tool-access-crafting-shortcuts-for-win-1011/"><u>Mastering Repair Tool Access: Crafting Shortcuts for Win 10/11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722997675208-mastering-star-wars-fighter-squadron-collisions-resolved/"><u>Mastering Star Wars: Fighter Squadron Collisions - Resolved!</u></a></li>
-<li><a href="https://win11.techidaily.com/mimicking-macos-layout-in-windows-5-essential-tweaks/"><u>Mimicking macOS Layout in Windows: 5 Essential Tweaks</u></a></li>
-<li><a href="https://win11.techidaily.com/the-hidden-dangers-opting-for-budgeted-windows-auth-keys/"><u>The Hidden Dangers: Opting for Budgeted Windows Auth Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/top-5-affordable-drivers-to-elevate-your-windows-system/"><u>Top 5 Affordable Drivers to Elevate Your Windows System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-tablets-comprehensive-reviews-and-testing-by-tech-experts/"><u>Top Rated Tablets : Comprehensive Reviews & Testing by Tech Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-slowdown-beneath-calm-exteriors-lurk-resource-hogging-tools/"><u>Windows 11 Slowdown: Beneath Calm Exteriors Lurk Resource Hogging Tools</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-decisional-balance-for-2024/"><u>[New] Decisional Balance for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/arths-richest-digital-content-wizard/"><u>[New] Earth's Richest Digital Content Wizard</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhanced-engagement-with-effective-youtube-video-outros-strategies-for-2024/"><u>[Updated] Enhanced Engagement with Effective YouTube Video Outros Strategies for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-unlinking-your-gadget-from-the-google-assistant-ecosystem/"><u>Complete Guide: Unlinking Your Gadget From the Google Assistant Ecosystem</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-unique-screensavers-for-your-win11-experience/"><u>Crafting Unique Screensavers for Your Win11 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/dismantling-windows-11s-tpm-barriers/"><u>Dismantling Windows 11'S TPM Barriers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-techniques-for-resolving-acrocefexe-malfunction/"><u>Effective Techniques for Resolving 'acrocef.exe' Malfunction</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-spotify-error-correction-in-win11/"><u>Essential Tips for Spotify Error Correction in Win11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-offers-on-cutting-edge-electronics-grab-amazon-firestick-at-a-discount-charge-up-with-ecoflow-station-and-get-your-hands-on-samsungs-newest-model.5/"><u>Exclusive Offers on Cutting-Edge Electronics: Grab Amazon Firestick at a Discount, Charge Up with EcoFlow Station, and Get Your Hands on Samsung's Newest Model!</u></a></li>
+<li><a href="https://win11.techidaily.com/file-time-fixes-efficient-methods-to-change-createdmodified-dates/"><u>File Time Fixes: Efficient Methods to Change Created/Modified Dates</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-evaluation-of-googles-calling-app-features/"><u>In-Depth Evaluation of Google's Calling App Features</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/r-guide-to-youtube-community-expectations-for-2024/"><u>Master Guide to YouTube Community Expectations for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-printer-access-management-on-windows-11/"><u>Mastering Printer Access Management on Windows 11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-top-mkv-video-cutting-software-for-mac/"><u>New In 2024, The Top MKV Video Cutting Software for Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-active-windows-11-context-menus/"><u>Restoring Active Windows 11 Context Menus</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-solving-geforce-nows-error-xc0f1103f-on-windows-11/"><u>Swiftly Solving GeForce Now's Error: Xc0f1103f on Windows 11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/e-trouble-how-to-handle-three-tubes-of-content-at-once/"><u>Triple Trouble How to Handle Three Tubes of Content at Once</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-qbittorrents-freeze-in-windows-environment/"><u>Troubleshooting qBittorrent's Freeze in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-want-current-pass-window-error/"><u>Unlocking the ‘Want Current Pass’ Window Error</u></a></li>
 </ul></div>
 

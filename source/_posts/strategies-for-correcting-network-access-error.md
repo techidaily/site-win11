@@ -1,7 +1,7 @@
 ---
 title: Strategies for Correcting Network Access Error
-date: 2025-01-22T01:06:20.399Z
-updated: 2025-01-24T23:51:36.645Z
+date: 2025-01-27T19:21:14.360Z
+updated: 2025-02-03T22:53:10.504Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 2. In the following dialog, head over to the **Sharing tab** and check the status of Network Path.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. If it says Not Shared, then click on the **Advanced Sharing** button.  
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 
 ![Type folder name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-share-this-folder.jpg)
 5. Once done, click on **Apply** \> **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can now check if the drive is accessible after following the steps above.
 
@@ -59,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
  If you are using a third-party security program on your operating system, we recommend that you disable it temporarily and then try connecting to the remote computer and sharing files. If the antivirus was causing the problem, disabling it should fix the issue for you. If this happens, you can consider switching to a better security program to avoid such issues in the future. See our guide on [the best antivirus apps for Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) to make an informed decision.
 
  You can also try [disabling Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) if you are using it and see if that helps. However, once you are done sharing the files, make sure you enable the antivirus back immediately since keeping it disabled for a long period can expose your PC to threats.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Try to Connect Using an IP Address
 
@@ -77,15 +77,19 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 ![ipconfig all command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ipconfig-all.jpg)
 4. Scroll down and bit and note down the address for IPv4 Address.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ipv4 address in cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ipconfig-all-ipv4-address.jpg)
 5. Now, open a Run dialog again and paste the IPv4 Address you noted in the text field here.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ipv4 address in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/cmd-ipv4-address.jpg)
 6. Click **Enter** and see if you can connect to the remote computer successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Restart the TCP/IP NetBIOS Helper Service
 
@@ -100,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 ![Properties of TCP/IP helper service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/services-tcp-ip-netbios-helper-properties.jpg)
 5. In the following dialog, click on the **Stop** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Stop button in Properties dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/services-tcp-ip-netbios-helper-stop.jpg)
 6. Wait for a few seconds and then click **Start**.
 
@@ -112,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 8. Click **Apply** \> **OK** to save the changes.
 
  Once done, check if that fixes the issue for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Enable SMB 1.0
 
@@ -126,18 +130,18 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 ![Programs option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/control-panel-programs.jpg)
 3. Choose **Turn Windows features on or off** from the left pane.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Turn Windows feature on or off option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/turn-windows-features-on-or-off.jpg)
 4. Now, look for "SMB 1.0/CIFS File Sharing Support" and checkmark the box associated with it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![SMB 1.0 option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/smb-cifs-file-sharing-support.jpg)
 5. Click **OK** to save the changes and check if the error is now fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Modify Network Security Settings
@@ -151,10 +155,6 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
 4. Expand the dropdown and choose **Send LM & NTLM-use NTLMv2 session security if negotiated**.  
 ![Modify network security settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/local-security-policy-settings.jpg)
 5. Click **Apply** \> **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reset TCP/IP
 
@@ -178,24 +178,17 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-ffpm-a-guide-to-firefoxs-pip-feature/"><u>[New] Mastering FFPM A Guide to Firefox's PIP Feature</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-myvidhub-testing-a-quest-for-more-features/"><u>[New] MyVidHub Testing A Quest for More Features?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ransforming-viewership-into-viewer-funds-on-youtube-for-2024/"><u>[New] Transforming Viewership Into Viewer Funds on YouTube for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-capturing-moments-on-facebook-beyond-the-screen/"><u>[Updated] In 2024, Capturing Moments on Facebook Beyond the Screen</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-access-immediate-professional-results-free-plus-purchased-luts-for-canon/"><u>2024 Approved Access Immediate Professional Results - FREE + Purchased LUTs for Canon</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unleash-your-potential-on-facebook-keyword-strategies-reviewed/"><u>2024 Approved Unleash Your Potential on Facebook Keyword Strategies Reviewed</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-7-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 7 Plus to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-lenovo-thinkphone-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Lenovo ThinkPhone</u></a></li>
-<li><a href="https://win11.techidaily.com/conquer-pc-conflicts-with-pct-guide/"><u>Conquer PC Conflicts with PCT Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-and-disabling-the-mystery-of-0x8007045d-on-windows-11/"><u>Decoding and Disabling the Mystery of 0X8007045d on Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fallout-76-update-brings-an-end-to-troublesome-gameplay-hiccups-and-freezes/"><u>Fallout 76 Update Brings an End to Troublesome Gameplay Hiccups and Freezes</u></a></li>
-<li><a href="https://win11.techidaily.com/family-fortification-the-top-5-corrections-for-safe-haven/"><u>Family Fortification: The Top 5 Corrections for Safe Haven</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-steams-unauthorized-files-problem-in-win11/"><u>Fixing Steam's Unauthorized Files Problem in Win11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-6-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/rectify-round-corners-on-windows-11/"><u>Rectify Round Corners on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-stream-disconnection-in-remote-pc-mode/"><u>Resolving Stream Disconnection in Remote PC Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/shake-off-frozen-clicks-top-6-tips-for-windows-users/"><u>Shake Off Frozen Clicks: Top 6 Tips for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocketing-output-5-essential-windows-productivity-hacks/"><u>Skyrocketing Output: 5 Essential Windows Productivity Hacks</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-adjusting-creation-and-modification-dates-in-windows/"><u>Understanding and Adjusting Creation & Modification Dates in Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-ensuring-precision-the-art-of-skype-call-documentation/"><u>[New] In 2024, Ensuring Precision The Art of Skype Call Documentation</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-exploring-japanese-artistry-adding-anime-filters-on-snaps/"><u>[Updated] 2024 Approved Exploring Japanese Artistry Adding Anime Filters on Snaps</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-common-windows-crash-codes-0xc0000001/"><u>Correcting Common Windows Crash Codes (0xC0000001)</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/download-our-universal-free-media-player-compatible-with-video-audio-and-dvd-formats/"><u>Download Our Universal Free Media Player: Compatible with Video, Audio & DVD Formats</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-webcam-activity-notifications-for-ws11-users/"><u>Enabling Webcam Activity Notifications for WS11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/enlarge-your-windows-11-pin-for-better-protection/"><u>Enlarge Your Windows 11 PIN for Better Protection</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-tecno-camon-20-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Tecno Camon 20 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-a2plus-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi A2+ to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/mastering-fb-story-sharing-a-four-step-guide-for-2024/"><u>Mastering FB Story Sharing A Four-Step Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-overcome-silent-microphone-on-pc-while-recording/"><u>Methods to Overcome Silent Microphone on PC While Recording</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/reliable-ipad-pro-usb-c-hub-always-on-hand-a-zdnet-review/"><u>Reliable iPad Pro USB-C Hub: Always on Hand - A ZDNet Review</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-recycle-bin-glitch-in-win-11/"><u>Solutions to Recycle Bin Glitch in Win 11</u></a></li>
 </ul></div>
 

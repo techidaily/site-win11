@@ -1,7 +1,7 @@
 ---
 title: How to Rectify the 'Outlook Failed' Error in Windows
-date: 2024-08-08T13:19:17.277Z
-updated: 2024-08-09T13:19:17.277Z
+date: 2025-01-31T18:14:35.498Z
+updated: 2025-02-04T01:16:24.588Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 
  To help out, we have listed all the possible ways to fix the “Something went wrong” error in Outlook for Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 1\. Edit Registry Files
 
  Autodiscover is a nifty feature that allows Outlook to automatically configure email account settings without requiring manual input from the user. If this service receives any unexpected results from the third-party web server, Outlook might display the "Something went wrong" error message. To resolve this, you will need to make a few changes to the registry files on your PC.
@@ -36,11 +33,11 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 `Computer\HKEY_CURRENT_USER\Software\Microsoft\Office\XX.0\Outlook\AutoDiscover`  
  Replace **XX.0** in the above path with your version of Office (**16.0** \= Office 365, Office 2019, and Office 2016, **15.0** \= Office 2013).
 5. Right-click on the **AutoDiscover** key and select **New > DWORD (32-bit) Value**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Create DWORD in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-dword-in-registry.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Rename the DWORD to **ExcludeHttpsRootDomain**.
 2. Double-click the newly created DWORD and set its value to **1**.
@@ -48,6 +45,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 4. Double-click the **ExcludeHttpsAutoDiscoverDomain** DWORD and set its value to **1**.
 5. Create two more DWORD values named **ExcludeSrvRecord** and **ExcludeLastKnownGoodUrl** and set their values to **1**.  
 ![AutoDiscover in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/autodiscover-in-registry-editor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your PC after this and check if you still get the “Something went wrong” error in Microsoft Outlook.
 
@@ -61,16 +62,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. In the **Outlook Options** window, select the **Add-ins** tab from the left sidebar.
 3. Click the **Go** button next to **COM Add-ins**.
 4. Clear all the checkboxes to disable your add-ins and then click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Disable Outlook Add-Ins-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-outlook-add-ins-1.jpg)
 
  Restart the Outlook app and enable your add-ins one by one until the error occurs again. Once you find the troublesome add-in, consider removing it to avoid such issues.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Clear the Outlook Cache
 
  Outdated or corrupted cache data can cause Outlook to misbehave and display unusual errors. If this is the cause of your problems, clearing the Outlook app cache should get things going again. To do so, use these steps:
@@ -78,14 +73,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 1. Press **Win + R** to open the Run command (see [how to open the Windows Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for more information).
 2. Type **%localappdata%\\Microsoft\\Outlook** in the text box and press **Enter**.
 3. In the **RoamCache** folder that opens, press **Ctrl + A** to select all the files, and click the **trash** icon at the top to delete them.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![Delete Outlook Cache Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-outlook-cache-data.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Repair Your Outlook Profile
 
@@ -98,6 +90,10 @@ No advertising on the website.
 
  Allow Outlook to repair your profile and then restart the app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Remove and Re-Add Your Account
 
  If repairing your Outlook profile does not help, your next best option is to remove your email account from the Outlook app and add it back. Here's how to do it.
@@ -106,10 +102,11 @@ No advertising on the website.
 2. Navigate to **File > Info > Account Settings > Account Settings**.
 3. Under the **Email** tab, select your account and click **Remove**.
 4. Select **Yes** to continue.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Remove Outlook Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/remove-outlook-account.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once removed, click the **New** option under the **Email** tab and set up your account again.
 
@@ -121,23 +118,12 @@ No advertising on the website.
 2. Type **credential manager** in the box and select the first result that appears.
 3. Select **Windows Credentials**.
 4. Select the entry related to your account and click **Remove**.  
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Remove Outlook Credentials From Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/remove-outlook-credentials-from-windows-pc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Run the Office Repair Tool
 
  Running Microsoft’s Office repair tool is an effective way to resolve issues with Office apps like Outlook. So, if the above tips don't help, you can run the Office repair tool as a last resort.
@@ -161,11 +147,28 @@ No advertising on the website.
 
  To help out, we have listed all the possible ways to fix the “Something went wrong” error in Outlook for Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-an-overview-of-youtube-short-content-basics-for-2024/"><u>[New] An Overview of YouTube Short Content Basics for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-8-suggestions-for-high-quality-iphone-videography-projects/"><u>[Updated] 2024 Approved Top 8 Suggestions for High-Quality iPhone Videography Projects</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unveiling-magix-video-pro-x-capabilities/"><u>[Updated] 2024 Approved Unveiling Magix Video Pro X Capabilities</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/4-ways-to-mirror-apple-iphone-7-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>4 Ways to Mirror Apple iPhone 7 to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-guide-square-windows-interface/"><u>Direct Guide: Square Windows' Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-operation-failed-code-0x0000011b-on-win11/"><u>Eradicating Operation Failed Code 0X0000011B on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-windows-converter-software-list/"><u>Essential Windows Converter Software List</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-photovideo-loss-in-windows-camera-app/"><u>Fixing Photo/Video Loss in Windows Camera App</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-vivo-x-fold-2-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo X Fold 2 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-realme-12-pro-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Realme 12 Pro 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-nubia-z50s-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Nubia Z50S Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/leveraging-streamlabs-obs-for-engaging-live-streams/"><u>Leveraging Streamlabs OBS for Engaging Live Streams</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-with-microsofts-copilot-key-insights/"><u>Mastering Windows 11 with Microsoft's Copilot Key Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-overcoming-windows-10-bsod-issues/"><u>Quick Guide: Overcoming Windows 10 BSOD Issues</u></a></li>
+</ul></div>
+

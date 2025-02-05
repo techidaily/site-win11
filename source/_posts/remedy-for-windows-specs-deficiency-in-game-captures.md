@@ -1,7 +1,7 @@
 ---
 title: Remedy for Windows Specs Deficiency in Game Captures
-date: 2025-01-18T06:20:44.523Z
-updated: 2025-01-24T19:54:39.875Z
+date: 2025-01-28T06:05:01.601Z
+updated: 2025-02-04T04:55:23.041Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Enable Game DVR With Game DVR Config
 
  Game DVR Config is third-party software with which some users have resolved the “PC doesn't meet the hardware requirements for captures” error. That software includes settings users can select to enable Game DVR along with audio and microphone capture.
@@ -46,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 7. Exit Game DVR Config and [open Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/).
 8. Look for the Broadcast DVR server on the **Processes** tab. Right-click Broadcast DVR Server and select **End task** if you can find that process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Edit the Control Registry Key
 
  Editing the Control registry key is a fix that’s worked for some users. Try editing that key like this:
@@ -58,14 +58,22 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 ![The New and Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-key-options.jpg)
 5. Double-click on the **PortableOperatingSystem** DWORD in the Control key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Delete the **0** number and input **1** within the **Value data** box.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window.jpg)
 7. Set the value by clicking **OK** inside the Edit DWORD window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Then close out of the Registry Editor app and restart Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Update Your Graphics Adapter’s Driver
@@ -73,14 +81,6 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
  An outdated or faulty graphics driver might be causing this recording issue on your PC. Try installing the latest graphics driver for your GPU if you haven’t updated it in a while (or ever). This guide tells you [how to update a PC’s graphics driver in Windows](http://www.makeuseof.com/update-graphics-drivers-in-windows-10/).
 
 ![The NVIDIA graphics driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/nvidia-driver-download.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enable the Windows Game Recording and Broadcasting Policy
 
@@ -99,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 ![The Enables or disables Windows Game Recording and Broadcasting policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-game-and-recording-policy-window.jpg)
 7. Close Group Policy Editor, bring up your Start menu and select **Power** \> **Restart**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Erase Data in the GameDVR Registry Key
 
  Corrupted GameDVR entries within the registry can cause the “PC doesn't meet the hardware requirements for captures” error. You can fix that by deleting DWORDs and strings in the GameDVR registry key, which will automatically regenerate. However, we still recommend users back up the registry before applying this potential solution.
@@ -116,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 4. Then right-click and select **Delete** \> **Yes**.  
 ![the-delete-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-delete-option.jpg)
 5. Click the Start menu’s Power button and select **Restart**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Recording Again With the Xbox Game Bar
 
@@ -133,18 +133,14 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-silent-spectators-101-the-essentials-for-unnoticed-instagram-livestreams/"><u>[Updated] Silent Spectators 101 The Essentials for Unnoticed Instagram Livestreams</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-tech-savvy-gamers-revenue-predictions-2024/"><u>[Updated] Tech-Savvy Gamers' Revenue Predictions 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/d-links-pl-2000-powerline-solution-evaluation-user-friendly-setup-lightning-fast-data-sharing/"><u>D-Link's PL 2000 Powerline Solution Evaluation - User-Friendly Setup, Lightning-Fast Data Sharing!</u></a></li>
-<li><a href="https://win11.techidaily.com/direct-routes-to-windows-11s-safe-mode-for-it-professionals/"><u>Direct Routes to Windows 11'S Safe Mode for IT Professionals</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-unwanted-quit-alerts-from-roblox-installations/"><u>Eliminating Unwanted 'Quit' Alerts From Roblox Installations</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-performance-with-virtual-memory-on-windows-11/"><u>Enhancing Performance with Virtual Memory on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-windows-explorer-photo-functionality/"><u>Enhancing Windows Explorer Photo Functionality</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-oppo-reno-11-pro-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Reno 11 Pro 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-stop-users-from-changing-the-screensaver-on-windows/"><u>How to Stop Users From Changing the Screensaver on Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-realme-narzo-60-pro-5g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Realme Narzo 60 Pro 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-warhammers-precision-gameplay-end-stuttering-on-windows/"><u>Mastering Warhammer's Precision Gameplay - End Stuttering on Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-your-airpods-volume-imbalance-try-these-4-solutions/"><u>Troubleshooting Your AirPods' Volume Imbalance? Try These 4 Solutions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-expert-strategies-for-choosing-valheim-crops-for-2024/"><u>[New] Expert Strategies for Choosing Valheim Crops for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-price-tag-of-a-million-viewed-youtube-video/"><u>[New] In 2024, The Price Tag of a Million-Viewed YouTube Video</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-discover-the-art-of-curating-music-on-youtube-with-our-steps/"><u>In 2024, Discover the Art of Curating Music on YouTube with Our Steps</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/master-the-art-of-digital-cleanup-invaluable-lessons-and-articles-by-astral-advisors/"><u>Master the Art of Digital Cleanup: Invaluable Lessons & Articles by Astral Advisors</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-powershell-not-available-error-on-pcs/"><u>Remedy for 'PowerShell Not Available' Error on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-isdonedll-isarcextract-failure-on-winoss/"><u>Remedy for ISDone.dll (ISArcExtract) Failure on WinOSs</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-techniques-for-uninstalling-windows-apps/"><u>Simplified Techniques for Uninstalling Windows Apps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/your-device-pace-youtube-audio-control-guide/"><u>Sync Your Device Pace YouTube Audio Control Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-wi-fi-prowess-silence-your-neighbors/"><u>Windows Wi-Fi Prowess: Silence Your Neighbors</u></a></li>
 </ul></div>
 

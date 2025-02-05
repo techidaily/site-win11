@@ -1,7 +1,7 @@
 ---
 title: Tailor Keyboard Funnels for Windows Programs
-date: 2025-01-18T19:11:13.189Z
-updated: 2025-01-25T05:35:38.860Z
+date: 2025-01-30T00:21:43.340Z
+updated: 2025-02-04T04:17:37.830Z
 tags:
   - windows10
   - windows11
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 ![Add a keyboard shortcut via the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/01-add-keyboard-shortcut-desktop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows shortcuts must take the form:
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 * Ctrl + Shift + Alt + \[key\]
 
  Now, when you press the shortcut key combination, the program will be launched.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Assign a Keyboard Shortcut to a Shortcut Link in the Start Menu
 
@@ -74,12 +78,16 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 3. Add a keyboard shortcut to the **Shortcut key** field.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. How to Remove Previously Assigned Keyboard Shortcuts
 
  To remove a keyboard shortcut, navigate to the program shortcut’s properties and delete the entry in the **Shortcut key** field. This should reset it to **None** and remove the associated keyboard shortcut.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. How to Add a Keyboard Shortcut to Literally Any Program in Windows, Using Microsoft PowerToys
 
@@ -105,22 +113,14 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 2. Under **Action**, click on the drop-down and select **Run Program**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Microsoft PowerToys keyboard shortcut setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/07-powertoys-shortcut-action.jpg)
 3. Under **App**, either enter the path of the program you want to add to this shortcut, or click the **Select program** button to browse and select an application.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![PowerToys shortcut program path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/08-powertoys-shortcut-program-path.jpg)
 4. If you leave the **Start in** field blank, the shortcut will work throughout the Windows environment. If you select a path here, the shortcut will only work when you are in that environment or program.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. The **If running** field tells Windows how to handle the command if the program is already open and running. You can set this to one of several options: show the open window; open another instance of the program (if possible); close the program; do nothing; or end the entire program task.
 
@@ -140,16 +140,22 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-elevating-your-iphone-with-custom-ringtones/"><u>[New] Elevating Your iPhone with Custom Ringtones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guffaw-guild-robotic-raiders/"><u>[New] Guffaw Guild Robotic Raiders</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-converge-your-viewing-proficiently-using-netflix-pip-mode/"><u>[New] In 2024, Converge Your Viewing Proficiently Using Netflix PIP Mode</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-latest-sound-card-drivers-compatible-with-windows-os/"><u>Download Latest Sound Card Drivers Compatible with Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-address-invalid-profiles-in-win11-devices/"><u>How to Address 'Invalid Profiles' In Win11 Devices</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/o-prevent-thumbnail-absence-in-shorts-uploads/"><u>How to Prevent Thumbnail Absence in Shorts Uploads</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-steam-network-errors-in-win11/"><u>Overcoming Steam Network Errors in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/perfect-your-notification-management-skills-on-win-11/"><u>Perfect Your Notification Management Skills on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/securely-updating-windows-without-internet/"><u>Securely Updating Windows Without Internet</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-input-flows-disable-mouse-acceleration-on-win-devices/"><u>Streamline Your Input Flows: Disable Mouse Acceleration on Win Devices</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-embrace-evolution-from-paper-originals-to-digital-archives/"><u>[New] In 2024, Embrace Evolution From Paper Originals to Digital Archives</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-lightning-foldout-sculpting-rapidly-produced-google-collage-pics/"><u>[Updated] Lightning Foldout Sculpting Rapidly Produced Google Collage Pics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-ideal-extras-for-improving-gopro-experience/"><u>2024 Approved Ideal Extras for Improving GoPro Experience</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-14-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 14</u></a></li>
+<li><a href="https://win11.techidaily.com/embark-on-a-journey-to-windows-insider-program/"><u>Embark on a Journey to Windows Insider Program</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-steam-performance-halting-slowdowns/"><u>Enhancing Steam Performance: Halting Slowdowns</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-to-windows-alteration-via-hotkeys/"><u>Essential Guide to Windows Alteration via Hotkeys</u></a></li>
+<li><a href="https://win11.techidaily.com/examining-surface-laptop-studio-2-a-near-perfect-toolkit-revealed/"><u>Examining Surface Laptop Studio 2 - A Near-Perfect Toolkit Revealed</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-wsresetexe-not-working-on-windows/"><u>How to Fix WSReset.exe Not Working on Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-smooth-operator-mastering-video-stabilization-in-fcpx/"><u>In 2024, Smooth Operator Mastering Video Stabilization in FCPX</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-basic-battery-power-schemes-win-11/"><u>Reinstating Basic Battery Power Schemes (Win 11)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/screenflow-for-mac-review-for-2024/"><u>ScreenFlow for Mac Review for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-stop-unwanted-teams-authentication-messages-on-pc/"><u>Steps to Stop Unwanted Teams Authentication Messages on PC</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-subscribe-to-kindle-unlimited-exploring-the-four-key-benefits/"><u>Why Subscribe to Kindle Unlimited? Exploring the Four Key Benefits</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-wizardry-the-art-of-multi-app-closure/"><u>Windows Wizardry: The Art of Multi-App Closure</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Xbox Not Responding? Unfreeze and Get Back In
-date: 2025-01-20T06:51:04.922Z
-updated: 2025-01-24T19:00:32.662Z
+date: 2025-01-30T02:30:26.760Z
+updated: 2025-02-03T17:37:03.089Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,10 @@ Restart the Xbox app after this and see if it works fine.
 
  If the clock keeps messing up after this fix, check out[the reasons why your Windows 10 or 11 time is wrong](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) for more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Sign Out and Back Into the Xbox App
 
  Authentication issues with your account can also cause the Xbox app to stop working. One way to fix such issues is to sign out of the Xbox app and sign back in.
@@ -50,10 +54,6 @@ Restart the Xbox app after this and see if it works fine.
  In the Xbox app, click on your username in the top left corner and select**Sign out** . Then, click the**Sign in** option and enter your account details. Then, try using the app again.
 
 ![Sign Out of Xbox App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Sign-Out-of-Xbox-App.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Reinstall the Gaming Services App
 
@@ -72,14 +72,10 @@ Restart the Xbox app after this and see if it works fine.
 6. Click the**Install** button to download the app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Restart your PC](https://www.makeuseof.com/windows-restart-methods/) after this and try to use the Xbox app again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Run the Windows Store Apps Troubleshooter
 
@@ -92,6 +88,10 @@ To run the Windows Store Apps troubleshooter:
 3. Select**Other troubleshooters** .
 4. Click the**Run** button next to**Windows Store Apps** and follow the on-screen prompts to run the troubleshooter.  
 ![Run the Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-the-Windows-Store-Apps-Troubleshooter-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Repair or Reset Xbox App
 
@@ -111,7 +111,7 @@ To repair the Xbox app on Windows:
  If any Windows apps begin to misbehave in the future, check out[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) for similar steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Update the Xbox App
@@ -125,7 +125,7 @@ To repair the Xbox app on Windows:
 ![Windows Update Tab in Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Check-for-Updates-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Leave the Xbox Insider Program
@@ -142,11 +142,11 @@ To leave the Xbox Insider Program:
 6. Select**Continue** when prompted.  
 ![Leave Xbox Insider Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Leave-Xbox-Insider-Program.jpg)
 
-Restart the Xbox app after this and try to use it again.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Restart the Xbox app after this and try to use it again.
 
 ## Troubleshooting the Xbox App on Windows
 
@@ -169,17 +169,22 @@ Restart the Xbox app after this and try to use it again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-elevate-your-instagram-feed-vertical-video-edits-in-fcpx/"><u>[Updated] 2024 Approved Elevate Your Instagram Feed Vertical Video Edits in FCPX</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-designing-a-trailer-blueprint-to-amplify-channel-income/"><u>[Updated] Designing a Trailer Blueprint to Amplify Channel Income</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-iphone-photography-lighting-tips/"><u>[Updated] IPhone Photography Lighting Tips</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-crafting-professional-level-sessions-utilizing-mask-and-filter-techniques/"><u>2024 Approved Crafting Professional-Level Sessions Utilizing Mask & Filter Techniques</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-11-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 11 Pro to Android? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/infinix-note-30-vip-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 VIP Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/reversing-the-effect-of-zoom-failure-1132-in-windows-11/"><u>Reversing the Effect of Zoom Failure #1132 in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-solve-windows-email-application-error-code-0x800713f/"><u>Steps to Solve Windows' Email Application Error (Code 0X800713F)</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-typing-how-to-adjust-windows-key-filters/"><u>Streamlining Typing: How to Adjust Windows' Key Filters</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-your-typhoon-mouse-traveling/"><u>Taming Your Typhoon Mouse Traveling</u></a></li>
-<li><a href="https://win11.techidaily.com/uncover-the-invisible-how-to-check-pc-security-manually/"><u>Uncover the Invisible: How to Check PC Security Manually</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/online-wifi-tiff-jpg/"><u>오픈 원(Online)용 무세금 WiFi TIFF-JPG 변환 서비스 - 모바이브아이</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-apowersofts-place-in-the-screen-capture-market/"><u>[New] Apowersoft's Place in the Screen Capture Market</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-deciding-on-live-stream-software-streamlabs-vs-obs-comparison/"><u>[Updated] 2024 Approved Deciding on Live Stream Software Streamlabs Vs. OBS Comparison</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-designing-engrossing-videography-storylines/"><u>[Updated] In 2024, Designing Engrossing Videography Storylines</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-evolution-of-auto-hdr-and-its-role-in-todays-photography/"><u>[Updated] The Evolution of Auto HDR and Its Role in Today's Photography</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/compact-powerful-and-discreet-why-the-size-matters-when-choosing-a-personal-safety-device-expert-insights-on-top-brands/"><u>Compact, Powerful and Discreet - Why the Size Matters When Choosing a Personal Safety Device – Expert Insights on Top Brands</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-task-manager-addressing-erroneous-processor-use/"><u>Correcting Task Manager: Addressing Erroneous Processor Use</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-windows-11s-novelty-post-update-features/"><u>Discover Windows 11'S Novelty Post-Update Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-newest-nvidia-geforce-drivers-compatible-with-games-windows-version/"><u>Download the Newest Nvidia GeForce Drivers Compatible with Games - Windows Version</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-perfecting-visual-virality-crafting-engaging-square-videos/"><u>In 2024, Perfecting Visual Virality Crafting Engaging Square Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/insightful-evaluation-of-the-amazon-fire-hd-8-a-budget-tablet-worth-its-cost/"><u>Insightful Evaluation of the Amazon Fire HD 8 : A Budget Tablet Worth Its Cost</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-customization-of-fax-pages-in-win11/"><u>Navigating Through Customization of Fax Pages in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-resuming-lol-after-disconnects-in-windows/"><u>Quick Guide: Resuming LoL After Disconnects in Windows</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/refreshing-individual-webpages-without-overhauling-your-entire-project-with-flipbuilder-tools/"><u>Refreshing Individual Webpages Without Overhauling Your Entire Project with FlipBuilder Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionizing-your-window-experience-with-top-product-key-deals/"><u>Revolutionizing Your Window Experience with Top Product Key Deals</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-solutions-nine-fixes-to-avoid-wwe-crashes-windows-11/"><u>Speedy Solutions: Nine Fixes to Avoid WWE Crashes Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-blueprint-mastering-windows-insight-views/"><u>Unlock the Blueprint: Mastering Windows Insight Views</u></a></li>
+<li><a href="https://win11.techidaily.com/utilizing-windows-11-calendar-for-organization/"><u>Utilizing Windows 11 Calendar for Organization</u></a></li>
 </ul></div>
 

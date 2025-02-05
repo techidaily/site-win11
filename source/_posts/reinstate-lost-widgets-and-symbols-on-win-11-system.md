@@ -1,7 +1,7 @@
 ---
 title: Reinstate Lost Widgets and Symbols on Win 11 System
-date: 2024-08-08T13:18:52.696Z
-updated: 2024-08-09T13:18:52.696Z
+date: 2025-02-02T00:03:48.275Z
+updated: 2025-02-04T04:54:43.050Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 
  If you're facing this baffling problem, this guide will help you restore the missing desktop icons in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable Show Desktop Icons
 
  On Windows 11, you can show or hide desktop icons with a couple of clicks. So, if you’ve accidentally hidden your desktop icons, getting them back is fairly easy.
@@ -29,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 ![Show Desktop Icons on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Show-Desktop-Icons-on-Windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check Desktop Icon Settings
 
  If you're only missing a few desktop icons, such as This PC, Recycle Bin, Control Panel, and others, you may have disabled them in the "Desktop Icon Settings" window. In that case, you can use the following steps to re-enable those desktop icons.
@@ -71,19 +76,12 @@ To rebuild icon cache on Windows 11:
 `taskkill /f /im explorer.exe`
 6. Paste this command and press**Enter** to delete icon cache files:  
 `del iconcache*`  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![Rebuild Icon Cache Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Rebuild-Icon-Cache-Windows.jpg)
 7. Finally, type in the following text and hit**Enter** to restart Explorer:  
 `Explorer.exe`
 
  Once you complete the above steps, restart your PC and see if the desktop icons appear.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Update Your PC’s Graphics Driver
 
  An outdated graphics driver on Windows can also lead to such anomalies. You can try updating the faulty driver using Device Manager to see if that helps. Here's how to do it.
@@ -93,9 +91,6 @@ To rebuild icon cache on Windows 11:
 3. Expand**Display adapters** .
 4. Right-click on your graphics driver and select**Update driver** .
 5. Select**Search automatically for drivers** to let Windows find and install the best drivers.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Update Graphics Driver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-Graphics-Driver-on-Windows.jpg)
 
  If the issue persists even after updating the driver, your graphics driver may be corrupt. In that case, you'll need to reinstall the graphics driver on your PC. Refer to our guide on[how to fix corrupt drivers on Windows](https://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/) for more instructions on how to fix this.
@@ -112,10 +107,11 @@ To rebuild icon cache on Windows 11:
 4. Double-click the**Hide and disable all items on the desktop** policy on your right.
 5. Select**Not configured** or**Disabled** .
 6. Click**Apply** followed by**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable Desktop Icons on Windows 11 via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Deskop-Icons-on-Windows-11-via-Group-Policy-Editor-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Perform a System Restore
 
@@ -129,43 +125,43 @@ Follow these steps to perform a system restore on Windows:
 4. Click**Next** .
 5. Select a restore point before the issue first appeared and hit**Next** .
 6. Click on**Finish** .  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![System Restore Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/System-Restore-Dialog.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for Windows to reboot and revert to the specified restore point. Following that, your desktop icons should appear.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Manually Restore the Desktop Shortcut Icons
 
  If your desktop icons are still missing at this point, you can try restoring them manually.
 
  To add an icon to the desktop in Windows 11, open the**Start menu** and click on**All apps** . Scroll down to the app you want to add to the desktop. Finally, drag the app shortcut to your desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create Desktop Shortcut From Start Menu in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-From-Start-Menu-in-Windows.jpg)
 
  Alternatively, you can create a shortcut on your desktop by using the Create Shortcut wizard. To do so, right-click anywhere on the desktop and select**New > Shortcut** . Then, click the**Browse** button to locate the file, folder, or app you want to add to your desktop. Then, click**Next** followed by**Finish** .
 
  We covered this topic in more detail in our guide to[how to add icons to the desktop on Windows](https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Restore the Missing Desktop Icons on Windows 11
 
  Hopefully, the above-mentioned solutions have helped you restore the missing desktop icons on Windows 11 and things are back to normal. However, if none of the above solutions work, you may have to reset your Windows 11 PC as a last resort.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,4 +170,19 @@ Follow these steps to perform a system restore on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-decoding-youtubes-earning-rules-update/"><u>[Updated] 2024 Approved Decoding YouTube's Earning Rules Update</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-digital-dimensions-metaverse-vs-omniverse-explained/"><u>[Updated] 2024 Approved Digital Dimensions Metaverse Vs. Omniverse Explained</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-navigating-the-complexities-of-ps4-live-streaming-and-recording/"><u>[Updated] Navigating the Complexities of PS4 Live Streaming and Recording</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-optimize-your-instagram-media-flow-desktopmobile/"><u>[Updated] Optimize Your Instagram Media Flow (Desktop/Mobile)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-save-while-you-teach-hosting-low-cost-seminars-via-youtube/"><u>[Updated] Save While You Teach Hosting Low-Cost Seminars via YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-functional-status-of-windows-event-viewer/"><u>Ensuring Functional Status of Windows Event Viewer</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tial-apps-best-10-software-to-capture-your-screens-for-2024/"><u>Essential Apps Best 10 Software to Capture Your Screens for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/experience-freed-digital-conversations-winstyle/"><u>Experience Freed Digital Conversations, WinStyle</u></a></li>
+<li><a href="https://win11.techidaily.com/minecraft-wi-fi-connectivity-problems-solved-on-pc/"><u>Minecraft Wi-Fi Connectivity Problems, Solved on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-invalid-profile-error-windows-xpvista7-solution/"><u>Tackling Invalid Profile Error: Windows XP/Vista/7 Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/the-new-codex-of-operating-systems-post-windows-era/"><u>The New Codex of Operating Systems: Post-Windows Era</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-on-activating-the-microphone-in-your-meta-quest-headset/"><u>The Ultimate Tutorial on Activating the Microphone in Your Meta Quest Headset</u></a></li>
+</ul></div>
 

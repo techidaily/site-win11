@@ -1,7 +1,7 @@
 ---
 title: Optimize Win11 with Custom Screen Savers
-date: 2025-01-20T22:51:38.243Z
-updated: 2025-01-24T20:57:31.205Z
+date: 2025-01-28T03:02:35.189Z
+updated: 2025-02-04T02:49:02.738Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Customize Windows 11 3D Text and Photos Screensavers with Screen Saver Settings
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 ![The Screen Saver Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screen-saver-settings.jpg)
 6. After selecting one of those two screensavers, you can customize it by pressing the**Settings** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click**Apply** to set your chosen screensaver.
 
  Clicking**Settings** for 3D Text will bring up a 3D Text Settings window. There you can change the screensaver's text by clicking the**Custom Text** radio button and inputting different text in the box. Or you can choose**Time** to show a 3D digital clock instead. Press the**Font** button to select a different font and style.
@@ -58,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 ![The 3D text screensaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-text-screensaver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you choose the Photos screensaver, clicking its**Settings** button will open a window from which you can change the slideshow's folder and speed. Press the**Browse** button on that window to select a different image folder. Choose a**Fast** ,**Medium** , or**Slow** option on the**Slideshow** **speed** drop-down. Then click**Save** to apply the settings.
@@ -66,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 ![The Photos screen saver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photos-screensaver-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Wait time** and**On resume** are the only options you can change for the Photos and 3D Text screensavers outside the settings windows. Adjust the**Wait time** value to set a longer or shorter idle activation time for the screensaver. If you prefer to return to a log-in screen after resuming, select the**On resume** option.
@@ -97,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 
 ![The Ribbons screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/ribbons-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The ribbons blur and fade in the screensaver by default. However, you can change that by deselecting the**Apply Blur and Fade** checkbox. Then ribbons will fill up the screen without fading away.
 
  To customize Mystify, select that screensaver's tab. You can increase or reduce the number of lines Mystify has by dragging the slider on the**Number of Lines** bar. Drag the**Lines Width** bar's slider to set broader or narrower lines.
@@ -114,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Customize Windows 11's Screensavers for Better Effect
@@ -136,18 +136,22 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-vidvault-screen-recording-review-for-2efficiency-seekers/"><u>[New] 2024 Approved 'VidVault' Screen Recording Review for 2Efficiency Seekers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-affordable-methods-to-craft-your-own-youtube-intros/"><u>[Updated] 2024 Approved Affordable Methods to Craft Your Own YouTube Intros</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-converting-gifs-into-stickers-complete-step-by-step-tutorial/"><u>[Updated] Converting GIFs Into Stickers – Complete Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-bypass-the-hidden-shadowban-on-tiktok/"><u>[Updated] In 2024, Bypass the Hidden Shadowban on TikTok</u></a></li>
-<li><a href="https://win11.techidaily.com/delving-into-win-11-widget-features-efficiency-or-frivolous/"><u>Delving Into Win 11 Widget Features - Efficiency or Frivolous?</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-roblox-fatal-app-failures-in-windows/"><u>Fixing Roblox Fatal App Failures in Windows</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/high-res-gaming-the-best-screen-capture-options-for-2024/"><u>High-Res Gaming The Best Screen Capture Options for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-samsung-galaxy-m14-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Samsung Galaxy M14 5G PC | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Motorola Moto G84 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-resuscitate-non-responsive-spotify-app-in-win11/"><u>Strategies to Resuscitate Non-Responsive Spotify App in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/take-your-windows-11-search-to-the-next-level-top-five-insights/"><u>Take Your Windows 11 Search to the Next Level: Top Five Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-code-41-error-in-windows-device-manager-expert-advice/"><u>Troubleshooting Code 41 Error in Windows Device Manager – Expert Advice</u></a></li>
-<li><a href="https://win11.techidaily.com/unleashing-your-creative-potential-using-paint-cocreator-to-make-ai-images-on-windows-11/"><u>Unleashing Your Creative Potential: Using Paint Cocreator to Make AI Images on Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-amazon-prime-fan-favorites-highest-likes-and-view-counts/"><u>[New] 2024 Approved Amazon Prime Fan Favorites Highest Likes & View Counts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-video-presence-with-stellar-intros-in-imovie/"><u>[Updated] In 2024, Elevate Your Video Presence with Stellar Intros in iMovie</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-class-video-production-smooth-editing-skills-for-2024/"><u>[Updated] In-Class Video Production Smooth Editing Skills for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/co-pilot-revolutionizing-chatgpt-features-and-capabilities-explored/"><u>Co-Pilot Revolutionizing ChatGPT: Features and Capabilities Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-accuracy-and-efficiency-of-windowed-discord-search/"><u>Enhancing Accuracy and Efficiency of Windowed Discord Search</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unblock-error-0x80070091-empty-folder-issue-on-windows-11-and-11/"><u>How to Unblock Error #0X80070091 Empty Folder Issue on Windows 11 & 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-smooth-video-flow-from-your-photobooth-app/"><u>In 2024, Unlock Smooth Video Flow From Your Photobooth App</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726027162990-iphoneandroid/"><u>IPhoneやAndroidでダウンロード曲をメッセージ通知音として設定するコツ</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-the-investment-in-apple-vision-pro-paying-off/"><u>Is the Investment in Apple Vision Pro Paying Off?</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-microsoft-works-in-windows-11-instructions/"><u>Launching Microsoft Works in Windows 11: Instructions</u></a></li>
+<li><a href="https://win11.techidaily.com/reboot-for-richness-regain-windows-11s-vanished-enhancement-options/"><u>Reboot for Richness: Regain Windows 11'S Vanished Enhancement Options</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-error-code-0xc00ce556-a-guide/"><u>Resolving Windows' Error Code 0xC00CE556: A Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-your-pc-disableremove-ms-edge-w11/"><u>Simplify Your PC: Disable/Remove MS Edge W11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-itel-p40-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Itel P40 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-search-game-with-these-critical-windows-11-tricks/"><u>Transform Your Search Game with These Critical Windows 11 Tricks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/ultimate-iphone-video-editor-comparison-cameo-or-filmorago/"><u>Ultimate iPhone Video Editor Comparison Cameo or FilmoraGo</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-wizardry-for-the-webs-storage-effortless-access-to-cloud-drives/"><u>Windows Wizardry for the Web's Storage: Effortless Access to Cloud Drives</u></a></li>
 </ul></div>
 

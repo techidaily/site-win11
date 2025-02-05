@@ -1,7 +1,7 @@
 ---
 title: Proactive Steps to Excel on Windows 11
-date: 2025-01-19T01:21:05.200Z
-updated: 2025-01-25T08:03:17.061Z
+date: 2025-02-02T04:19:13.435Z
+updated: 2025-02-03T19:06:30.618Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Use Snap Layouts to Arrange Windows
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
  You can snap up to four windows on your Windows 11 PC. If you have a large screen and want to arrange more windows, you can get the PowerToys app from Microsoft.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Open Files Directly From Start
 
 ![The Windows 11 Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-start-menu-1.jpg)
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
  There is more fun. You can also make Windows 11 open files at startup, meaning you do not have to click or touch anywhere to open files. To make it happen, you need to create and shortcut to the file you want to open at startup and then copy or paste it into the Startup folder. The Startup folder can be accessed by going to "C:\\Users\\YourUserName\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup".
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Comprehensive Stats on Battery Usage
 
 ![Screenshot showing Windows 11 Battery stats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/battery-stats.jpg)
@@ -66,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
  Moreover, you can view screen on and screen off time from the Settings app. Also, you can change the time period of battery levels from the **Last 24 hours** to the **Last 7 days**. If you choose the seven days time period, your PC will show which apps consumed the most power in the last seven days alongside the screen off and screen on time.
 
  You can also sort by to see the battery stats of apps currently in use and the ones running in the background. Overall, the **Power & battery** page in the Settings app provides you with all kinds of information required to understand your laptop's battery usage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Customize the Quick Settings Panel
 
@@ -79,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
 ![Android apps on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/top-windows-11-features-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Microsoft's Windows Phone platform always suffered from a lack of apps, eventually leading to its demise. However, Microsoft does not want to make the same mistake with Windows 11 desktop.
 
  Microsoft has developed Windows Subsystem for Android to help you run Android apps available on Amazon Appstore natively on Windows 11\.
@@ -93,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
 ![Microsoft Teams integration in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/top-windows-11-features-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft Teams is available across all major platforms, but for Windows 11 users, getting access to Teams is a bit easier. Windows 11 taskbar has the Teams icon, clicking on which will open a small chat window for you to connect with people through text or video. You can also pop out chat windows, meaning you can chat with multiple people simultaneously. In other words, you can be a pro at multitasking while chatting on Teams.
 
  However, it is worth pointing out that what you see on the Windows 11 taskbar is not the full-fledged Teams experience with all the features and benefits. If that is what you want, you need to get the Teams app and remove the chat icon from the taskbar.
@@ -101,12 +97,16 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Widgets help you stay updated with the latest information from your favorite apps and services without opening them. The Widgets experience in Windows 11 is not perfect, but it has the basics covered. Besides Microsoft's stock apps, you can find widgets from third-party apps, including Facebook, Spotify, and more.
 
  You can see the Widgets icon on the left side of the screen. Moving over the mouse over the icon will open the Widgets board for you to add and remove widgets, plus so much more. If you are new to Windows 11, [learn tips and tricks to get the most out of the Widgets experience](https://www.makeuseof.com/windows-11-widgets-starter-tips/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Windows 11 Is Fun... but Don’t Play With Everything
@@ -125,22 +125,21 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-proart-pa-329q-examining-a-premium-4k-monitor-for-professionals/"><u>[New] In 2024, ProArt PA 329Q Examining a Premium 4K Monitor for Professionals</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-panoramic-photography-at-its-finest-top-11-camera-picks/"><u>[New] Panoramic Photography at Its Finest Top 11 Camera Picks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-hp-and-chromebook-guide-to-live-video-capture/"><u>[Updated] HP & Chromebook Guide to Live Video Capture</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-approach-harnessing-watch-for-mac-unlock/"><u>2024 Approved Advanced Approach Harnessing Watch for Mac Unlock</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-from-raw-footage-to-highlight-hits/"><u>2024 Approved From Raw Footage to Highlight Hits</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-xiaomi-14-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Xiaomi 14 Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-no-more-files-notifications-on-win-11/"><u>Disabling 'No More Files' Notifications on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/double-the-fun-with-a-swifter-mouse-click-process/"><u>Double the Fun with a Swifter Mouse Click Process</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-the-application-couldnt-start-0xc000003e-hexadecimal-error/"><u>Fixing The Application Couldn't Start 0xC000003E Hexadecimal Error</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-not-enough-usb-controller-resources-error-on-a-windows-computer/"><u>How to Fix “Not Enough USB Controller Resources” Error on a Windows Computer</u></a></li>
-<li><a href="https://win-best.techidaily.com/how-to-successfully-archive-webex-meetings-using-the-movavi-tool/"><u>How to Successfully Archive Webex Meetings Using the Movavi Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-your-drive-space-a-disc-usage-command-breakdown/"><u>Navigating Through Your Drive Space: A Disc Usage Command Breakdown</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/precise-practices-streamlined-capturing-for-dell-devices/"><u>Precise Practices Streamlined Capturing for Dell Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/shielding-windows-default-screen-display-from-user-changes/"><u>Shielding Windows Default Screen Display From User Changes</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-your-approach-to-fix-windows-charmap-woes/"><u>Streamlining Your Approach to Fix Windows CharMap Woes</u></a></li>
-<li><a href="https://win11.techidaily.com/total-methodology-for-disabling-windows-subsystem-for-linux/"><u>Total Methodology for Disabling Windows Subsystem for Linux</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726029484585-vlc/"><u>VLCマルチメディアプレーヤーで動画の拡大表示方法詳しく教えて</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hannel-elevation-reach-youtube-affiliate-level-with-10k-views-for-2024/"><u>[New] Channel Elevation Reach YouTube Affiliate Level with 10K Views for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-thriving-in-the-freefire-arena-with-pro-gamers-guide/"><u>[New] In 2024, Thriving in the FreeFire Arena with Pro Gamers' Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-slow-it-down-high-quality-moments-in-instagram-reels-for-2024/"><u>[New] Slow It Down High-Quality Moments in Instagram Reels for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-assemble-slide-decks-into-virtual-screenplays/"><u>[Updated] Assemble Slide Decks Into Virtual Screenplays</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-beyond-clickbait-whats-real-about-instagram-reels/"><u>[Updated] Beyond Clickbait What's Real About Instagram Reels?</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-the-code-solutions-for-prevalent-rainmeter-errors/"><u>Deciphering the Code: Solutions for Prevalent Rainmeter Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-steam-cloud-conflicts/"><u>Eradicating Steam Cloud Conflicts</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-keep-sticky-notes-always-on-top-on-windows-11-and-11/"><u>How to Keep Sticky Notes Always on Top on Windows 11 & 11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-livestreaming-facebook-made-simple-for-all-tech-users/"><u>In 2024, Livestreaming Facebook Made Simple for All Tech Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-asus-rog-phone-8-pro-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-telnet-into-win-1011-systems-tutorial/"><u>Integrating Telnet Into Win 10/11 Systems (Tutorial)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revouninstallers-techniques-to-forcibly-delete-stubborn-folders-on-your-windows-11-system/"><u>RevoUninstaller's Techniques to Forcibly Delete Stubborn Folders on Your Windows 11 System</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-handle-insufficient-ram-alerts-in-vmware-virtual-machines/"><u>Strategies to Handle Insufficient RAM Alerts in VmWare Virtual Machines</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-chrome-profiles-issues-in-windows-os/"><u>Streamlining Chrome Profiles Issues in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-prevent-date-modifications-on-windows/"><u>Techniques to Prevent Date Modifications on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-budget-friendly-windows-laptop-brands-comparing-acer-dell-and-others-zdnet-guide/"><u>Top Budget-Friendly Windows Laptop Brands: Comparing Acer, Dell & Others - ZDNet Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 'Essential Elements' Warning on Windows 11/Win11
-date: 2025-01-19T10:17:56.920Z
-updated: 2025-01-24T22:19:59.516Z
+date: 2025-01-29T19:32:30.567Z
+updated: 2025-02-04T04:24:27.193Z
 tags:
   - windows10
   - windows11
@@ -25,17 +25,9 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check for and Install Any Pending Windows Updates
 
 ![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  First, try checking for and installing all pending Windows patch updates. This is because some updates will feature fixes for DirectX, so if the error message points to DirectX as the culprit, this will hopefully put it to rest.
 
@@ -53,7 +45,15 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/modify-option.jpg)
 4. Select the **Repair** option in the Visual C++ window that opens.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Install the 2015-2022 Visual Studio C++ Packages
 
@@ -65,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 2. Then click the X64 (64-bit) architecture download link for Visual Studio 2015-2022.  
 ![The x64 download link for Visual Studio 2015-2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-x64-link.jpg)
 3. Click **I agree** \> **Install** in the Microsoft Visual C++ 2015-2022 window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The Install option for Visual C++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-button.jpg)
 4. Repeat steps two and three to download and install the 32-bit version of Visual Studio 2015-2022\. To do so, you’ll need to click on the X86 download link for Visual Studio 2015-2022\.
@@ -86,36 +90,32 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 6. Select **Next** to install the required DirectX components.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Repair .NET Framework Components
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
 
  Check out [how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Verify the Affected Game Within Your Game Launcher
 
 ![The Verify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-verify-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A few users say verifying games’ files works for fixing the “following components are required” error. You can only perform this step if you bought and downloaded the game using one of the big game launcher apps, such as Steam, Epic Games, EA Desktop, and Origin.
 
  If you're unsure how to do this, check out [how to repair game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Affected Game or Software
 
@@ -147,24 +147,22 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hashtag-mastery-enhancing-freefire-gameplay-videos/"><u>[New] 2024 Approved Hashtag Mastery Enhancing FreeFire Gameplay Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-stretched-seconds-capturing-slow-mo-videos-using-mobile-apps-and-internet-platforms/"><u>[New] The Ultimate Guide to Stretched Seconds Capturing Slow-Mo Videos Using Mobile Apps and Internet Platforms</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-conquer-audience-engagement-top-20-viral-tiktok-caption-approaches/"><u>[Updated] In 2024, Conquer Audience Engagement Top 20 Viral TikTok Caption Approaches</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unleashing-your-potential-saving-instagram-stories-like-a-pro-for-2024/"><u>[Updated] Unleashing Your Potential Saving Instagram Stories Like a Pro for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-efficiency-in-managing-swarms-of-tiktok-saves-through-editing/"><u>2024 Approved Efficiency in Managing Swarms of TikTok Saves Through Editing</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-the-no-scripts-allowed-error-in-windows-ps-four-fixes-at-hand/"><u>Conquering the 'No Scripts Allowed' Error in Windows PS: Four Fixes at Hand</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-resource-unavailable-on-windows-systems-149-chars/"><u>Correcting Resource Unavailable on Windows Systems (149 Chars)</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-blockers-fixing-office-activation-failures/"><u>Disabling Blockers: Fixing Office Activation Failures</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elite-6-heavyweight-lms-colossal-language-contenders/"><u>Elite 6 Heavyweight LMS: Colossal Language Contenders</u></a></li>
-<li><a href="https://win11.techidaily.com/guides-to-solve-unplayable-video-files-on-windows/"><u>Guides to Solve Unplayable Video Files on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/has-windows-subsystem-for-linux-helped-linux-gain-desktop-market-share/"><u>Has Windows Subsystem for Linux Helped Linux Gain Desktop Market Share?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-itel-p40plus-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Itel P40+ Device</u></a></li>
-<li><a href="https://win11.techidaily.com/modernize-your-vintage-tech-skip-windows/"><u>Modernize Your Vintage Tech, Skip Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/realigning-windows-paudio-with-audacity-software/"><u>Realigning Windows PAudio with Audacity Software</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-steam-cloud-malfunctions-in-windows/"><u>Resolving Steam Cloud Malfunctions in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-fix-windows-control-panel-writable-error/"><u>Steps to Fix Windows Control Panel' Writable Error</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Asus ROG Phone 8? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-apk-setup-made-simple-with-one-click/"><u>Windows 11 APK Setup Made Simple With One Click</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/winning-at-performance-advanced-tweaks-for-gamers-on-windows-11/"><u>Winning at Performance: Advanced Tweaks for Gamers on Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-the-code-to-perfect-instagrams-every-time-for-2024/"><u>[Updated] Unlocking the Code to Perfect Instagrams Every Time for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unraveling-the-mystery-of-apples-new-ios-camera/"><u>[Updated] Unraveling the Mystery of Apple's New iOS Camera</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-top-5-sd-cards-for-gopro-hero-series-including-model-8-and-7/"><u>2024 Approved Top 5 SD Cards for GoPro Hero Series - Including Model 8 & 7</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/2024-gifgif/"><u>2024年に人気! GIF制作ツールガイドとシンプルなGIF作成手順</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crucial-mobile-tools-for-windows-pc-holders-on-android/"><u>Crucial Mobile Tools for Windows PC Holders on Android</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-off-strangers-a-step-by-step-win-11-process/"><u>Cutting Off Strangers: A Step-by-Step Win 11 Process</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-install-and-run-windows-11-on-a-mac-using-parallels/"><u>How to Install and Run Windows 11 on a Mac Using Parallels</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-samsung-galaxy-m34-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Samsung Galaxy M34 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/master-zero-error-repair-windows-11-with-ease/"><u>Master Zero Error: Repair Windows 11 with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-file-naming-one-rename-at-a-time-with-powertoys/"><u>Masterful File Naming, One Rename at a Time With PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-error-code-win11s-uptime-hurdle-0x80246007/"><u>Navigating Error Code: Win11's Uptime Hurdle, 0X80246007</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-geforce-nows-error-xc0f1103f-on-win11/"><u>Navigating Through GeForce Now's Error Xc0f1103f on Win11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-crafting-your-own-bootable-windows-11-usb-for-immediate-use/"><u>Step-by-Step Guide: Crafting Your Own Bootable Windows 11 USB for Immediate Use</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-your-dells-sm-bus-controller-firmware/"><u>Step-by-Step Guide: Updating Your Dell's SM Bus Controller Firmware</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-of-iis-management-entry/"><u>Unveiling the Secrets of IIS Management Entry</u></a></li>
+<li><a href="https://win11.techidaily.com/what-if-my-latest-windows-discord-update-fails-heres-how/"><u>What if My Latest Windows Discord Update Fails? Here's How</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Open the Character Map in Windows 11
-date: 2024-08-08T13:17:29.212Z
-updated: 2024-08-09T13:17:29.212Z
+date: 2025-02-01T07:05:45.852Z
+updated: 2025-02-04T03:17:43.343Z
 tags:
   - windows10
   - windows11
@@ -21,35 +21,24 @@ thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3
  If you would like to access all of these characters, you will need to open up the Character Map application. Here is how to do that in Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Open Character Map Using Windows Search
 
  If you need to use special characters in your documents, the Character Map tool can help. This tool is built into Windows and can be opened using the Windows Search tool. Here's how to open it.
 
 1. Press**Win + Q** on your keyboard to open the Windows Search box.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Open Character Map Using the Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-Using-the-Search-Tool.jpg)
 2. Type "character map" in the search box and hit the**Enter** key.
 
  Once you've opened Character Map, you can select a font from the drop-down menu at the top of the window. Then, scroll through the list of available characters and click on the one you want to insert. Finally, click the Copy button and paste the character into your document or email.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How to Open Character Map Using the Run Dialog
 
  The Run command dialog is another way to quickly find the apps and programs you are looking for. In order to open the Character Map using the Run dialog box, follow these steps:
 
 1. Open Windows Run Dialog Box (see[how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Character Map Using the Search Tool Using the Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-Using-the-Search-Tool-Using-the-Run-Command.jpg)
 2. Type "charmap" into the text box and press the**Enter** key. The Character Map window will now appear on your screen.
 
@@ -63,6 +52,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. You will see a list of Windows tools on the next screen.
 5. Click twice on the**Character Map** . It will take you to the Character Map utility page.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. How to Open Character Map Using the Control Panel
 
  A control panel is a graphical user interface that allows users to view and change their computer's settings. With this application, you can also view and use any characters in the installed fonts. To do so, follow these steps:
@@ -75,8 +68,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 5. Double-click on the**Character Map** to open the utility.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. How to Open Character Map Through Task Manager
 
  In order to keep track of how your system is performing, be sure to check out Task Manager. With this tool, you can also open different applications, such as Character Map. Let me show you how you can do that.
@@ -88,9 +82,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  From here, you can choose the character or symbol that you want to insert and then click on the Select button. Now click the Copy button and paste it where you need it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## 6\. How to Open Character Map Via File Explorer
 
  Getting things on a Windows PC is easy with the address bar in File Explorer. All you need to do is open Windows Explorer, search for the program you are looking for, and it will do the rest. Check out the following steps for opening the Character Map:
@@ -99,9 +90,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Type "charmap" in the address bar and press Enter.
 3. This will open the Character Map window on your computer screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. How to Open Character Map Using a Desktop Shortcut
 
  Creating a desktop shortcut is a great way to save time and energy. You can use it to open your character map so that you can quickly find and insert special characters. Here's how:
@@ -112,6 +100,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Click**Next** and then give your shortcut a name.  
 ![Name of the desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Name-of-the-desktop-shortcut.jpg)
 4. Finally, click**Finish** to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A shortcut will appear on the desktop of your computer; double-click it to open the Character Map application.
 
@@ -133,32 +125,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Now press the**Enter** key. The Character Map application will appear on your screen.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Pin the Command Prompt to the Start menu or Taskbar
 
  Furthermore, you can also pin the Character Map application to the taskbar for easy access. Follow these steps to take so:
 
 1. Click on Start and type "Character Map."
 2. Under Character Map, select**Pin to taskbar** on the right side.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![Pin Character Map to taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Character-Map-to-taskbar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This way you can now easily access the tool from the taskbar.
 
@@ -166,14 +146,11 @@ This way you can now easily access the tool from the taskbar.
 
  If you've ever wanted to insert a special character into a document or email but couldn't find the symbol on your keyboard, Character Map is a tool that can help. Character Map is a utility on Windows that allows you to view and use characters from any installed font. Check out this guide for instructions on opening this tool.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -182,4 +159,18 @@ This way you can now easily access the tool from the taskbar.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-average-income-derived-from-each-video-watcher/"><u>[New] 2024 Approved The Average Income Derived From Each Video Watcher</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-transforming-your-story-game-with-animation-techniques-for-text/"><u>2024 Approved Transforming Your Story Game with Animation Techniques for Text</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/call-of-duty-update-eliminates-black-ops-cold-war-ui-issue-error-27711/"><u>Call of Duty Update Eliminates Black Ops: Cold War UI Issue - Error 27711</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x100-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo X100 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-gionees-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Gionees Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win11.techidaily.com/ranking-windows-finest-encrypted-software-choices-149-chars/"><u>Ranking Windows' Finest Encrypted Software Choices (149 Chars)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-achieving-ideal-sync-with-bose-soundlink-devices/"><u>Step-by-Step Tutorial: Achieving Ideal Sync with Bose Soundlink Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-your-laptop-or-desktop-into-a-wireless-internet-source/"><u>Turn Your Laptop or Desktop Into a Wireless Internet Source</u></a></li>
+<li><a href="https://win11.techidaily.com/uncover-9-steps-to-mastering-volume-controls-in-windows-11/"><u>Uncover 9 Steps to Mastering Volume Controls in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-secure-tests-with-win-11s-sandbox/"><u>Unlocking Secure Tests with Win 11'S Sandbox</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-true-potential-of-windows-11-the-best-changes-to-make/"><u>Unlocking the True Potential of Windows 11: The Best Changes to Make</u></a></li>
+</ul></div>
 

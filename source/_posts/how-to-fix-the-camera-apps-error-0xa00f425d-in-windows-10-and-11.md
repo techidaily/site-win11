@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Camera App’s Error 0xA00F425D in Windows 10 & 11
-date: 2025-01-23T10:12:48.528Z
-updated: 2025-01-25T06:28:08.361Z
+date: 2025-01-31T00:31:34.721Z
+updated: 2025-02-03T19:00:49.055Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Camera and Recording Audio Troubleshooters
 
  Windows includes two troubleshooters that can feasibly resolve error 0xA00F425D. The camera troubleshooter specifically addresses webcam issues. Users who’ve fixed error 0xA00F425D have also found running the recording audio troubleshooter can resolve this issue.
@@ -40,19 +36,11 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 ![The Troubleshoot navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/troubleshoot-option.jpg)
 3. Click**Run** for the Camera troubleshooter.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Run Camera troubleshooter option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/camera-troubleshooter.jpg)
 4. Then click**Yes** in the**Get help** window to apply automated troubleshooting.  
 
 ![The Camera troubleshooting window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/camera-troubleshooter-window.jpg)
 5. If the Camera troubleshooter doesn’t help much, try selecting**Run** for the Recording Audio troubleshooter.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Select your PC’s microphone device in the troubleshooter.  
 ![A Recording Audio troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/recording-audio-troubleshooter.jpg)
@@ -72,6 +60,10 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 ![The Enable device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-device-option.jpg)
 4. Press**Windows** logo +**I** to go into Settings, and select**Privacy** there.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Microphone** to access settings for that device.
 6. Turn on the**Microphone access** (or**Allow apps to access your Microphone**) option.  
 ![The Microphone access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microphone-access-option.jpg)
@@ -82,7 +74,7 @@ This is how you can run those troubleshooters in Windows 10 and 11:
  This potential error 0xA00F425D fix is for users who utilize external webcams with the Camera app. Some people have said they resolved error 0xA00F425D by plugging their external webcams into an alternative USB 2.0 port on their PCs. It's worth a try if you use an external camera for recording.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Edit the Registry’s Platform Keys
@@ -99,18 +91,31 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 1. Select**DWORD (32-bit) Value** option and input**EnableFrameServerMode** for the name.  
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dword-option.jpg)
 2. Double-click the**EnableFrameServerMode** DWORD you’ve just added.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. The**EnableFrameServerMode’s** value might be set to**0** by default. If it isn’t, however, input**0** in the data box to set that value.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-dword-option.jpg)
 4. Exit the Edit DWORD window by clicking**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Erase the current registry location in the address bar, and input the following alternative path there:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Media Foundation\Platform`  
 ![A Platform key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enableframeserver-dword.jpg)
 6. Repeat steps six to 10 for the second**Platform** key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update Your Webcam’s Driver
 
@@ -128,10 +133,6 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/services-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Delete Your PC’s Most Recent Windows Patch Update
 
  Sometimes error 0xA00F425D can be triggered by a newly installed Windows patch update. Such updates have introduced bugs that have broken webcams on Windows 10 in the past. The KB4601319 cumulative update is a recent example. If your PC has recently received an update, there’s a slight possibility that could have caused 0xA00F425D.
@@ -141,7 +142,7 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 ![Install updates in the Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installed-updates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Record Videos With the Camera App Again
@@ -163,16 +164,16 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-vimeo-and-youtube-a-compreayer-of-their-core-philosophies/"><u>[Updated] Vimeo and YouTube A Compreayer of Their Core Philosophies</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-guide-to-resolving-win-os-audacity-error-code-9999/"><u>Expert Guide to Resolving Win OS Audacity Error Code: 9999</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722974414386-high-current-levels-increase-the-likelihood-of-arc-blow-with-voltage-also-playing-a-significant-role/"><u>High Current Levels Increase the Likelihood of Arc Blow, with Voltage Also Playing a Significant Role</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-m14-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy M14 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-realme-11-proplus-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Realme 11 Pro+ Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138595817-9781504351966-keys-to-your-divine/"><u>Keys to Your Divine | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-dark-mode-microsoft-paint-guide/"><u>Mastering Dark Mode: Microsoft Paint Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-troubleshooting-quick-repairs-for-windows-software-glitches/"><u>Mastering Troubleshooting: Quick Repairs for Windows Software Glitches</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-not-a-valid-user-errors-in-win1011/"><u>Overcoming 'Not a Valid User' Errors in Win10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/spot-real-vs-ruse-unveiling-authentic-windows-apps/"><u>Spot Real Vs. Ruse: Unveiling Authentic Windows Apps</u></a></li>
-<li><a href="https://discover-best.techidaily.com/streamline-media-playback-with-macx-converter-transform-dvd-content-into-apple-tv-compatible-videos-for-mac-users/"><u>Streamline Media Playback with MacX Converter: Transform DVD Content Into Apple TV Compatible Videos for Mac Users</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/counteract-vibration-for-clear-captures-for-2024/"><u>Counteract Vibration for Clear Captures for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ng-exposure-cost-effective-promotion-hacks-for-youtubers/"><u>Gaining Exposure Cost-Effective Promotion Hacks for YouTubers</u></a></li>
+<li><a href="https://win11.techidaily.com/highlighting-the-unique-aspects-of-ai-machines/"><u>Highlighting the Unique Aspects of AI Machines</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-nokia-105-classic-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Nokia 105 Classic Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/invalid-inf-service-setup-resolved/"><u>Invalid INF Service Setup - Resolved</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-wlanextexe-for-minimal-cpu-load/"><u>Optimizing WLANEXT.EXE for Minimal CPU Load</u></a></li>
+<li><a href="https://win11.techidaily.com/safely-erasing-the-windows-bt-folder-without-issues/"><u>Safely Erasing the Windows ~BT Folder Without Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-11-taskbar-functions/"><u>Streamlining Windows 11 Taskbar Functions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-rainbow-six-siege-doesnt-open-up/"><u>Troubleshooting Steps When Rainbow Six Siege Doesn't Open Up</u></a></li>
+<li><a href="https://win11.techidaily.com/uninstalling-and-reinstalling-utorrent-for-windows-users/"><u>Uninstalling and Reinstalling uTorrent for Windows Users</u></a></li>
 </ul></div>
 

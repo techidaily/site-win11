@@ -1,7 +1,7 @@
 ---
 title: "Simplified Security: 4 Efficient Actions to Banish Users From Win11 Systems"
-date: 2024-08-08T13:17:10.684Z
-updated: 2024-08-09T13:17:10.684Z
+date: 2025-02-01T19:11:29.367Z
+updated: 2025-02-04T09:09:03.443Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/09207a7f08746a7a51db3d8aa3727dd060158727f
 
  But what if you need to stop someone from accessing their account without deleting it? While you can temporarily disable a user account on Windows 11 using the block sign-in option, there are a few other ways to disable specific or all user accounts on Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. How to Disable a User Account in Windows Settings
 
  Windows allows the system administrator to manage user accounts on Windows 11\. Not only can you[add a local user account](https://www.makeuseof.com/windows-11-create-local-user-account/) there, but you can also block sign-in to disable an account temporarily.
@@ -31,11 +28,13 @@ To disable user accounts via Settings:
 
 1. Press**Win + I** to open the**Settings** panel.
 2. In the left pane, click on the**Accounts** tab.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![windows 11 settings account family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-account-family-1.jpg)
 3. Next, in the right pane, scroll down and click on**Family** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Under**Your family** , scroll down and click on the account you want to disable.  
 ![windows 11 settings account family block sign in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-account-family-block-sign-in-1.jpg)
 5. Next, click the**Block sign in** button and click**Block** in the confirmation dialog.  
@@ -45,8 +44,9 @@ To disable user accounts via Settings:
  Note that you must log in to your administrator account to make changes to user accounts. Also, you can only block sign-in for members of**Your family** in the Family groups from Settings. If you need to disable a local user account, you must use the PowerShell and Command Prompt methods below.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Disable a User Account Using Windows PowerShell
 
  If you need to disable and enable user accounts frequently, PowerShell can help you do it efficiently. To do this, you can use the Disable-LocalUser cmdlet and specify the user account name you want to disable.
@@ -58,6 +58,11 @@ To disable a user account using PowerShell:
 3. If not, click the drop-down icon in the**Terminal** tabs section and select**Windows PowerShell** .  
 ![powerhsell user account list view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powerhsell-user-account-list-view.jpg)
 4. Next, type the following command to find all the user accounts on your PC:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Get-LocalUser`
 5. Locate the user account name in the**Name** column.
 
@@ -87,14 +92,20 @@ To disable a user account using Command Prompt:
 5. Next, type the following command to disable the specified user account:  
 `net user NewUser /active:no`
 6. In the above command, replace**NewUser** with the user account name you want to disable.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![command prompt net user disable account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/command-prompt-net-user-disable-account.jpg)
 7. Next, type**exit** and press Enter to close Command Prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. If you need to enable the account again, execute the following command:  
 `net user NewUser /Active:yes`
 9. Make sure to replace NewUser with the account name you want to enable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable a User Account From the Computer Management Console
 
@@ -107,26 +118,21 @@ To disable a user account using Command Prompt:
 1. Click on the**Search icon** in**Taskbar** .
 2. Type**computer management** and click on**Computer Management** from the search result.
 3. In the**Computer Management** console, expand**System Tools** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![computer management local users groups users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/computer-managemnet-local-users-groups-users.jpg)
 4. Next, locate and select**Local Users and Groups.**
 5. Select the**Users** folder**.**
 
 1. In the right pane, you can view all the user accounts on your PC.
 2. To disable a user account, right-click on the**User Account Name** and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![computer management local users groups users account is disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/computer-managemnet-local-users-groups-users-account-is-disabled.jpg)
 3. In the**Properties** dialog, select the**Account is disabled** option.
 4. Click**Apply** and**OK** to save the changes.
 5. To enable the account gain, uncheck the**Account is disabled** option and click**Apply** and**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Disable User Account Using Local Users and Groups on Windows 11 Home
 
  Windows 11 Home users will have to rely on a third-party tool to disable a user account via the Local User and Groups console. Lusrmgr is a third-party snap-in that offers similar functionalities as the Local Users and Groups Management console.
@@ -139,9 +145,6 @@ To disable a user account using Command Prompt:
 ![run lusrmgr exe file edit account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-lusrmgr-exe-file-edit-account.jpg)
 4. Next, open the**Account** tab.
 5. Select the**Account is disabled** option.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run lusrmgr exe file edit account disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-lusrmgr-exe-file-edit-account-disabled.jpg)
 6. Click**Apply** and**OK** to save the changes.
 
@@ -157,8 +160,6 @@ To disable a user account using Command Prompt:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +167,20 @@ To disable a user account using Command Prompt:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-excellent-video-and-picture-capture-for-iphones-and-androids-here/"><u>[New] Excellent Video & Picture Capture for iPhones & Androids Here!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-playbook-top-20-best-practices-for-maximizing-facebook-video-success/"><u>[New] The Ultimate Playbook Top 20 Best Practices for Maximizing Facebook Video Success</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-commanding-voice-scrutiny-refined-version-8-for-2024/"><u>[Updated] Commanding Voice Scrutiny Refined Version 8 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gamers-top-picks-1-ranked-4k-laptops/"><u>[Updated] Gamers' Top Picks #1 Ranked 4K Laptops</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-brainy-brigade-top-11-quiz-channels/"><u>[Updated] In 2024, Brainy Brigade Top 11 Quiz Channels</u></a></li>
+<li><a href="https://fox-links.techidaily.com/amplify-aesthetics-with-customized-canva-video-music-for-2024/"><u>Amplify Aesthetics with Customized Canva Video Music for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/facile-duplication-de-commentaires-pour-windows-server-2019-guide-ultime/"><u>Facile Duplication De Commentaires Pour Windows Server 2019: Guide Ultime</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-black-ops-cold-war-bug-resolving-error-887a0005/"><u>Fixing Black Ops Cold War Bug: Resolving Error 887A0005</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-look-the-most-important-news-and-announcements-from-apple-wwdc-2025/"><u>Inside Look: The Most Important News & Announcements From Apple WWDC 2025</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-motion-capture-top-gear-recommendations-for-2024/"><u>Mastering Motion Capture - Top Gear Recommendations for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-windows-pc-changing-pin-now/"><u>Secure Windows PC: Changing PIN Now</u></a></li>
+<li><a href="https://win11.techidaily.com/which-windows-11-services-are-safe-to-disable/"><u>Which Windows 11 Services Are Safe to Disable?</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-customization-keeping-the-look-unaltered/"><u>Win11 Customization: Keeping the Look Unaltered</u></a></li>
+</ul></div>
 

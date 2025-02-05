@@ -1,7 +1,7 @@
 ---
 title: Removing Visual Elements From Windows Search
-date: 2025-01-03T16:39:38.347Z
-updated: 2025-01-06T20:59:08.494Z
+date: 2025-01-28T08:33:05.647Z
+updated: 2025-02-04T01:36:09.929Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Are There Pictures in Your Search Box?
 
  The illustrations in the search bar are a part of the "Search Highlights" feature that Microsoft introduced beforehand. When you hover your cursor over the illustration or click it, you will see relevant content and images.
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
  This information is different for both organizations and regular users. If you are signed in to Windows using your work account, you will see information regarding your organization and its employees. On your home PC, you'll see more generic informational content.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Disable the Illustrations in Windows Search Icons
@@ -48,7 +52,7 @@ Here is how you can do that:
 ![Taskbar menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/search-highlights-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you have unchecked the Search highlights option, the illustrations will disappear immediately. If this does not work for you, you can also[use the Group Policy to disable search highlights](https://www.makeuseof.com/windows-10-remove-search-highlights/) .
@@ -59,25 +63,21 @@ If you are a Windows 11 user, you can use these steps as well:
 ![Privacy & Security section in Windows settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-privacy--security.jpg)
 2. Click on**Search permissions** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Search permissions option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/search-permissions.jpg)
 3. Head over to the More settings section and turn the toggle off for**Show search highlights** .  
 
-![Search Highlights toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/show-search-highlights-1.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Search Highlights toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/show-search-highlights-1.jpg)
 
  Alternatively, you can also press the Win + S keys together to open the Windows Search utility. Click on the three-dot icon and choose**Search settings** . Once the Settings window launches, you can scroll down to the More settings section and disable**Show search highlights** .
 
 ![Access the Search settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Search Illustrations, Solved
@@ -99,18 +99,24 @@ If you are a Windows 11 user, you can use these steps as well:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-finding-premium-free-music-without-breaking-copyrights/"><u>[New] 2024 Approved Finding Premium, Free Music Without Breaking Copyrights</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-quick-tips-screen-capture-on-ipad-pro/"><u>[New] 2024 Approved Quick Tips Screen Capture on iPad Pro</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-premium-8-editors-compatible-with-linux/"><u>[Updated] Premium 8 Editors Compatible with Linux</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-streamlining-your-video-creation-ootd-on-a-mac/"><u>[Updated] Streamlining Your Video Creation OOTD on a Mac</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/cinematic-francophone-tales-of-love/"><u>Cinematic Francophone Tales of Love</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-why-zdnet-ranks-the-ecoflow-river-3-as-a-must-have-in-our-pick-for-top-beginners-portable-battery-pack/"><u>Discover Why ZDNet Ranks the EcoFlow River 3 as a Must-Have in Our Pick for Top Beginner's Portable Battery Pack!</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-restarts-for-distro-and-catroot2-in-latest-ws11-os/"><u>Efficient Restarts for Distro & Catroot2 in Latest WS11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/regaining-control-over-pubgs-save-functionality-windows/"><u>Regaining Control Over PUBG's Save Functionality (Windows)</u></a></li>
-<li><a href="https://games-able.techidaily.com/restoring-harmony-steam-deck-and-cloud-synching/"><u>Restoring Harmony: Steam Deck and Cloud Synching</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-windows-11s-calculator-opening-process/"><u>Simplifying Windows 11'S Calculator Opening Process</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-returning-windows-11-to-original-search-layout/"><u>Step-by-Step: Returning Windows 11 to Original Search Layout</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-overheating-pcs-with-windows-resource-monitor-insights/"><u>Tackling Overheating PCs with Windows Resource Monitor Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-unresponsive-audio-hardware-in-windows/"><u>Troubleshooting Unresponsive Audio Hardware in Windows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-creating-a-seamless-virtual-workspace-slack-filmora-combo-for-teams/"><u>[Updated] 2024 Approved Creating a Seamless Virtual Workspace Slack-Filmora Combo for Teams</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-a-year-in-the-market-top-15-finance-videos/"><u>[Updated] A Year in the Market Top 15 Finance Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-ensuring-privacy-4-steps-to-safely-log-fb-calls/"><u>2024 Approved Ensuring Privacy 4 Steps to Safely Log FB Calls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bandwidth-breakdown-4-ways-to-measure-your-ethernets-pace/"><u>Bandwidth Breakdown: 4 Ways to Measure Your Ethernet's Pace</u></a></li>
+<li><a href="https://article-posts.techidaily.com/dive-into-editing-a-complete-look-at-final-cut-pro-for-2024/"><u>Dive Into Editing A Complete Look at Final Cut Pro for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-unzip-several-zips-at-once-in-windows/"><u>Efficiently Unzip Several ZIPs at Once in Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-creativity-with-top-ai-enhanced-pdf-tools/"><u>Effortless Creativity with Top AI-Enhanced PDF Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/expedited-troubleshoot-utility-access-via-windows-hotkey-setups/"><u>Expedited Troubleshoot Utility Access via WIndows Hotkey Setups</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-g22-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from G22?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-switch-off-sound-amplification-and-effects-on-windows-11/"><u>How to Switch Off Sound Amplification and Effects on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/identifying-older-windows-systems-quickly/"><u>Identifying Older Windows Systems Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/master-swift-keystrokes-through-powertoys-use/"><u>Master Swift Keystrokes Through PowerToys Use</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-your-surfing-adding-trusted-websites/"><u>Secure Your Surfing: Adding Trusted Websites</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocketing-back-to-basics-three-windows-restarts/"><u>Skyrocketing Back to Basics: Three Windows Restarts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-strategies-selecting-comparing-and-acquiring-the-ideal-televisions-for-your-household/"><u>Step-by-Step Strategies: Selecting, Comparing & Acquiring the Ideal Televisions for Your Household</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-quick-repair-of-call-failed-on-windows-1011/"><u>Strategies for Quick Repair of 'Call Failed' On Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/top-10-fixes-fbm-stuck-in-windows-interface/"><u>Top 10 Fixes: FBM Stuck in Windows Interface</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/troubleshooting-unrecognized-devices-solutions-from-yl-computing-and-software/"><u>Troubleshooting Unrecognized Devices: Solutions From YL Computing & Software</u></a></li>
+<li><a href="https://win11.techidaily.com/whisper-mode-diminishing-windows-11-activity/"><u>Whisper Mode: Diminishing Windows 11 Activity</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mending Badge Icons Disappearance
-date: 2025-01-19T08:19:22.034Z
-updated: 2025-01-25T06:12:19.988Z
+date: 2025-01-29T07:58:22.150Z
+updated: 2025-02-04T09:52:22.258Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 5. Tick the checkbox that reads**Show badges on taskbar apps** .  
 ![Enable Badges on Taskbar Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-badges-on-taskbar-apps-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Following this, apps should display notification badges on the taskbar.
 
 ## 2\. Make Sure App Notifications Are Enabled
@@ -53,7 +49,11 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 ![Enable Notifications for Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-notifications-for-apps-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Allow Apps to Run in the Background
@@ -67,10 +67,14 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 5. Use the drop-down menu under**Background apps permissions** to select**Always** .  
 ![Allow Xbox to Run in the Background on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/allow-xbox-to-run-in-the-background-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Unable to find the background app permissions option in the Settings app? Check our guide on[how to restore a missing background apps permission option in Windows](https://www.makeuseof.com/windows-11-restore-background-apps-permissions/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Restart the Windows Explorer Process
@@ -81,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
  Note that your taskbar will disappear for a brief moment when you restart the Windows Explorer process. After that, check if notification badges appear on the taskbar apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Unpin the Apps From the Taskbar and Pin Them Again
 
  If Windows is failing to display notification badges for only one or two apps, you can try to unpin the affected apps from the taskbar and pin them back again. To do so, use these steps:
@@ -90,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 3. Type the name of the app in the search box.
 4. Select**Pin to taskbar** from the right pane.  
 ![Unpin App From Windows Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/unpin-app-from-windows-taskbar.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Repeat the above steps for all the apps that are not displaying badges on the taskbar.
 
@@ -121,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
  Exit the Registry Editor window and restart your PC to apply the changes. After that, notification badges should appear on taskbar apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stay on Top of App Alerts With Notification Badges
 
  Taskbar notification badges are useful as they inform you about apps and programs awaiting your attention. Hopefully, one of the above fixes has helped you resolve the underlying issue and Windows is now showing notification badges for taskbar apps.
@@ -146,18 +146,24 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-crafting-youtube-masterpieces-with-powerful-hashtag-strategies/"><u>[Updated] 2024 Approved Crafting YouTube Masterpieces with Powerful Hashtag Strategies</u></a></li>
-<li><a href="https://extra-information.techidaily.com/17-best-background-remover-apps-to-remove-image-background-easily-for-2024/"><u>17 Best Background Remover Apps to Remove Image Background Easily for 2024</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/best-4-alternative-file-sharing-solutions-to-airdrop-on-windows-versions-11-10-8-and-7/"><u>Best 4 Alternative File Sharing Solutions To AirDrop on Windows Versions (11, 10, 8, and 7)</u></a></li>
-<li><a href="https://win11.techidaily.com/discovering-windows-11s-core-data-the-registry-files/"><u>Discovering Windows 11'S Core Data: The Registry Files</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-pc-game-5-crucial-speed-up-tools/"><u>Elevate Your PC Game: 5 Crucial Speed-Up Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/enable-handwritten-entry-on-windows-using-simple-steps/"><u>Enable Handwritten Entry on Windows Using Simple Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/game-files-unlocked-3-windows-techniques-explored/"><u>Game Files Unlocked: 3 Windows Techniques Explored</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-zte-axon-40-lite-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on ZTE Axon 40 Lite</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovating-code-workflow-the-impact-of-artificial-intelligence-on-programmers/"><u>Innovating Code Workflow: The Impact of Artificial Intelligence on Programmers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/launch-your-clips-free-intro-downloads/"><u>Launch Your Clips Free Intro Downloads</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-activate-windows-11s-elevated-powershell-console/"><u>Steps to Activate Windows 11'S Elevated PowerShell Console</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-access-to-safe-mode-on-your-windows-11-pc/"><u>Swift Access to Safe Mode on Your Windows 11 PC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nlock-video-potential-leading-tools-turning-youtubes-to-avis-for-2024/"><u>[New] Unlock Video Potential Leading Tools Turning YouTubes to Avis for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-a-comprehensive-guide-to-business-on-snapchat/"><u>[Updated] A Comprehensive Guide to Business on Snapchat</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-shift-dimensions-quickly-virtually/"><u>[Updated] Shift Dimensions Quickly, Virtually</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ultimate-checklist-for-installing-vrecorder-for-2024/"><u>[Updated] Ultimate Checklist for Installing VRecorder for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-redefining-the-greatest-movies-2023-edition/"><u>2024 Approved Redefining The Greatest Movies 2023 Edition</u></a></li>
+<li><a href="https://fox-links.techidaily.com/adjusting-sound-settings-gently-in-windowsmacos-for-2024/"><u>Adjusting Sound Settings Gently in Windows/macOS for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/delineating-differences-comparative-analysis-of-microsoft-and-native-windows-logins/"><u>Delineating Differences: Comparative Analysis of Microsoft & Native Windows Logins</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-display-a-comprehensive-guide-to-hdr-on-windows-11/"><u>Enhance Your Display: A Comprehensive Guide to HDR on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-volume-with-no-file-erasure/"><u>Enhancing Windows Volume with No File Erasure</u></a></li>
+<li><a href="https://discover-data.techidaily.com/how-can-i-access-the-flip-programs-user-guide-for-effective-management-with-flipoffice-pro/"><u>How Can I Access the Flip Program's User Guide for Effective Management with FlipOffice Pro?</u></a></li>
+<li><a href="https://win-lab.techidaily.com/la-mejor-opcion-alternativa-a-los-kits-de-clonacion-de-ssd-y-hdd-con-comoda-uso-sin-corsair/"><u>La Mejor Opción Alternativa a Los Kits De Clonación De SSD Y HDD Con Cómoda Uso Sin Corsair</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-productivity-in-windows-11-with-a-superior-run-command-setup/"><u>Maximize Productivity in Windows 11 with a Superior Run Command Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-changes-in-windows-11-app-settings/"><u>Navigating Changes in Windows 11 App Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-error-code-c0000022-in-microsoft-windows/"><u>Tackling Error Code C0000022 in Microsoft Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-automatic-power-down-for-idle-windows-systems/"><u>Tailoring Automatic Power-Down for Idle Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-and-tricks-for-a-fresh-file-explorer-startup/"><u>Tips & Tricks for a Fresh File Explorer Startup</u></a></li>
+<li><a href="https://win11.techidaily.com/transitioning-mobile-titles-android-in-windows-11-and-google-play/"><u>Transitioning Mobile Titles: Android in Windows 11 and Google Play</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/ultimate-how-to-safely-reboot-your-toshiba-external-hdd-with-simple-steps/"><u>Ultimate How-To: Safely Reboot Your Toshiba External HDD with Simple Steps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-honor-90-gt-by-drfone-android/"><u>Universal Unlock Pattern for Honor 90 GT</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Guide to Swift Control Panel Navigation in Windows
-date: 2024-08-08T13:18:32.125Z
-updated: 2024-08-09T13:18:32.125Z
+date: 2025-01-30T01:21:53.583Z
+updated: 2025-02-04T07:57:58.815Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 
  In this article, we'll look at the 11 different methods for accessing this incredible tool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Access the Control Panel via the Windows Start Menu Search Bar
 
  One of the best ways to access Windows features is through the Start Menu search bar. So, let's show you how to use this tool to access the Control Panel:
@@ -40,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 2. Type **Control Panel** in the search bar.
 3. Click the **Control Panel icon** when it appears.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## 2\. Access the Control Panel via the Run Command Dialog Box
 
  The Run command dialog box helps you quickly search for the apps on your PC. Here's how you can use it to access the Control Panel:
@@ -50,10 +44,11 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 1. Press **Win + R** to open the Run command dialog box. Alternatively, check out [the different methods for accessing the Run command dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/).
 2. Type **Control Panel** and then click **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![Opening the Control Panel Via the Run Command Dialog Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Run-Command-Dialog-Box.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Access the Control Panel via the Windows Start Menu
 
@@ -65,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 
 ![Opening the Control Panel Via the Windows Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Windows-Start-Menu.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Access the Control Panel via the Quick Access Menu
 
  If you want to easily access a couple of Windows built-in system tools, the Quick Access menu can help. In this case, we’ll show you how this tool can help you to open the Control Panel.
@@ -79,11 +71,16 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 
 ![Opening the Control Panel Via the Quick Access Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Quick-Access-Menu.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finally, type **Control Panel** in the search box and press **Enter**.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Access the Control Panel via the File Explorer Address Bar
 
  File Explorer's address bar makes it easy for you to access the software programs on your device. So, let's take you through the process of using this tool to access the Control Panel:
@@ -91,12 +88,13 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 1. Press **Win + E** to open File Explorer.
 2. Navigate to **File Explorer’s address bar**, type **Control Panel**, and then press **Enter**.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Opening the Control Panel Via File Explorer's Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-File-Explorers-Address-Bar.png)
 
  Alternatively, type **C:\\Windows\\System32** in the File Explorer address bar and click **control.exe** or **control** in the next window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Access the Control Panel via the Task Manager
 
@@ -108,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 
 ![Opening the Control Panel Via the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Task-Manager.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Access the Control Panel via Windows Settings
 
  Did you know that you can also access the Control Panel via the Windows settings? Here’s how:
@@ -116,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 2. Type **Control Panel** in the search field and click the relevant option from the search results.
 
 ![Opening the Control Panel Via the System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-System-Settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Access the Control Panel via the Command Prompt or PowerShell
 
@@ -146,14 +152,8 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 3. Navigate to **Windows > System32**.
 4. Scroll down and select **control** to open the Control Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Clicking the control option in the System32 Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clicking-the-control-option-in-the-system32-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 10\. Access the Control Panel Using a Desktop Shortcut
 
  Do you have a Desktop shortcut for the Control Panel? If so, then click on it to easily access the Control Panel!
@@ -166,11 +166,12 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 
 ![Creating a Control Panel desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/creating-a-control-panel-desktop-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the next window, type **Control Panel** in the name field and then click **Finish** to save the shortcut. Now, you can easily access the Control Panel anytime by clicking on its Desktop shortcut.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 11\. Pin the Control Panel to Your Taskbar or Start Menu
 
  If you tend to use the Control Panel more often, then it'd be a good idea to pin it to your taskbar or Start menu. That way, you can access the tool with just a few quick clicks.
@@ -181,16 +182,14 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 2. Right-click on the **Best match** result.
 3. Select either **Pin to taskbar** or **Pin to Start** from the options.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![Clicking the Pin to taskbar option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clicking-the-pin-to-taskbar-option.jpg)
 
  And that's it! You can now access the Control Panel by clicking its icon in the taskbar or Start menu, depending on where you've pinned it.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What's Your Favorite Method for Opening the Control Panel?
 
  The Control Panel is a critical tool that helps you easily configure your system settings. If you're unsure about how to open this tool, try any of the methods we’ve covered. And if you still can’t access the Control Panel, then perhaps you need to try a few troubleshooting fixes.
@@ -199,11 +198,29 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 
  In this article, we'll look at the 11 different methods for accessing this incredible tool.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-mastering-powerpoint-recording-on-camera-for-professionals-for-2024/"><u>[New] Mastering PowerPoint Recording on Camera for Professionals for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-essential-tutorial-for-facebook-live-on-roku-tv/"><u>[New] The Essential Tutorial for Facebook Live on Roku TV</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-crafting-impressive-instagram-story-bokeh-art/"><u>2024 Approved Crafting Impressive Instagram Story Bokeh Art</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/discover-free-software-for-saving-your-desktop-display/"><u>Discover Free Software for Saving Your Desktop Display</u></a></li>
+<li><a href="https://win11.techidaily.com/identifying-hidden-results-from-your-windows-1011-search-tool/"><u>Identifying Hidden Results From Your Windows 10/11 Search Tool</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-top-10-cinemagraphic-cameras-a-guide-from-novices-to-experts/"><u>In 2024, Top 10 Cinemagraphic Cameras A Guide From Novices to Experts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/inside-the-speech-of-cyberspace-must-know-vr-terms/"><u>Inside the Speech of Cyberspace Must-Know VR Terms</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-solutions-for-create-failed-issue-windows-error-30005/"><u>Mastering Solutions for Create Failed Issue - Windows Error 30005</u></a></li>
+<li><a href="https://win11.techidaily.com/redefining-the-start-page-for-windows-task-manager/"><u>Redefining the Start Page for Windows Task Manager</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/mline-your-youtube-experience-manage-video-comments/"><u>Streamline Your YouTube Experience Manage Video Comments</u></a></li>
+<li><a href="https://win11.techidaily.com/tactics-for-dodging-enter-credentials-message-in-windows/"><u>Tactics for Dodging 'Enter Credentials' Message in Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unlocking-success-with-the-right-instagram-video-dimensions-for-2024/"><u>Unlocking Success with the Right Instagram Video Dimensions for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-11s-full-potential-with-microsofts-copilot-key/"><u>Unlocking Windows 11'S Full Potential with Microsoft's Copilot Key</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-code-4-spotify-connection-problem-in-w10w11/"><u>Unraveling the Code 4 Spotify Connection Problem in W10/W11</u></a></li>
+</ul></div>
+

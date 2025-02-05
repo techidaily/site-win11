@@ -1,7 +1,7 @@
 ---
 title: Removing Recycle Icon Inactivity Issue in Win11
-date: 2024-08-08T13:17:00.177Z
-updated: 2024-08-09T13:17:00.177Z
+date: 2025-02-02T05:20:13.176Z
+updated: 2025-02-04T02:09:18.380Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
  Fortunately, you can fix the issue by reverting specific changes in the Registry Editor or the Group Policy Editor.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Bring Back the Recycle Bin Using the Group Policy Editor
 
  The Group Policy Editor lets you show or hide the Recycle Bin icon from the desktop. Check if you have modified and accidentally disabled the Recycle Bin group policy recently. If so you can set the Remove Recycle Bin icon from the desktop policy to "Not Configured" which will restore it.
@@ -33,15 +34,22 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
 1. Press **Win + R** to open **Run**.
 2. Type **gpedit.msc** and click **OK** to open the **Group Policy Editor**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![gpedit msc windows 11 run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/gpedit-msc-windows-11-run.jpg)
 3. Next, navigate to the following location:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `User Configuration > Administrative Templates > Desktop`
 4. In the right pane, locate and double-click on the **Remove Recycle Bin icon from the desktop** option to open its properties.  
 ![edit remove recycle bin icon from settings gpedit policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-remove-recycle-bin-icon-from-settings-gpedit-policy.jpg)
 5. In the **Properties** dialog, select **Not Configured**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![edit remove recycle bin icon from settings gpedit policy not configured](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-remove-recycle-bin-icon-from-settings-gpedit-policy-not-configured.jpg)
 6. Click **Apply** and **OK** to save the changes.
 
@@ -54,12 +62,18 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 3. Click on **Themes**.  
 ![desktop icon settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/desktop-icon-settings-windows-11.jpg)
 4. Click on **Desktop icon settings** under the **Related settings** section.
-5. In the **Desktop Icon Settings** dialog, select **Recycle Bin**.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. In the **Desktop Icon Settings** dialog, select **Recycle Bin**.  
 ![enable recycle bin desktop icon settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-recycle-bin-desktop-icon-settings-windows-11.jpg)
 6. Click **Apply** and **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you can’t access Group Policy Editor or if the issue persists, you can use the Registry Editor to fix this problem.
 
@@ -76,33 +90,21 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 3. In the Registry Editor, navigate to the following location. You can copy and paste the path in the editor for quicker navigation:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\NonEnum`
 4. In the right pane, locate the **{645FF040-5081-101B-9F08-00AA002F954E}** DWORD (32-bit) value.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![registry editor nonnum new dword value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/registry-editor-nonnum-new-dword-value.jpg)
 5. If it does not exist, you’ll need to create a new value. To do this, right-click on the **NonEnum** subkey folder in the left pane and select **New > DWORD (32-bit) Value**.
 6. Rename the value as **{645FF040-5081-101B-9F08-00AA002F954E}**.
 7. Next, double-click on the new DWORD value to open its properties.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![registry editor nonnum new dword value edit 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/registry-editor-nonnum-new-dword-value-edit-0.jpg)
 8. Type **0** in the Value data field and click **OK** to save the changes.
 9. Close Registry Editor and restart your computer. Sometimes, you’ll need to restart your computer for the new registry modifications to work.
 
  If the issue persists, try to [create a new user account with administrative rights](https://www.makeuseof.com/windows-11-create-local-user-account/), [perform a system restore](https://www.makeuseof.com/use-system-restore-windows/), or [repair corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## Get Access to the Recycle Bin Desktop Icon Setting Again
 
  An incorrectly modified group policy can gray out the Recycle Bin icon in the Desktop Icon Settings dialog. Fortunately, it's an easy fix, and you should now have your Recycle Bin back to how you like it.
 
  Fortunately, you can fix the issue by reverting specific changes in the Registry Editor or the Group Policy Editor.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -110,3 +112,25 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-flips-mastering-the-video-360-turn/"><u>[New] In 2024, Instagram Flips Mastering the Video 360-Turn</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-finding-the-right-sound-for-movie-previews/"><u>[Updated] Finding the Right Sound for Movie Previews</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-exclusive-list-top-business-vault/"><u>2024 Approved Exclusive List Top Business Vault</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-explore-the-world-of-kinemaster-and-ranking-10-online-competitors/"><u>2024 Approved Explore the World of KineMaster & Ranking 10 Online Competitors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-new-frontier-of-android-gaming-with-kinemaster-for-2024/"><u>Exploring the New Frontier of Android Gaming with KineMaster for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fix-film-fractures-on-mac-unveil-the-power-of-stellar-phoenix/"><u>Fix Film Fractures on Mac - Unveil the Power of Stellar Phoenix</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-redmi-a2-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Xiaomi Redmi A2 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-add-effects-on-tiktok/"><u>New In 2024, How to Add Effects on TikTok</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-and-effective-methods-for-converting-your-wma-audio-to-wav-quality/"><u>Quick & Effective Methods for Converting Your WMA Audio to WAV Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-crafting-tailored-listening-sessions-with-windows-media-player/"><u>Quick Guide to Crafting Tailored Listening Sessions with Windows Media Player</u></a></li>
+<li><a href="https://win11.techidaily.com/returning-to-basics-the-revival-of-apples-traditional-roots/"><u>Returning to Basics: The Revival of Apple's Traditional Roots</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/rising-stars-in-digital-domain/"><u>Rising Stars in Digital Domain</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-transition-the-ultimate-guide-to-watching-dvds-on-an-ipad/"><u>Seamless Transition: The Ultimate Guide to Watching DVDs on an iPad</u></a></li>
+<li><a href="https://win11.techidaily.com/seamlessly-transfer-and-enjoy-iphone-content-on-android-with-these-2-effective-solutions/"><u>Seamlessly Transfer and Enjoy iPhone Content on Android with These 2 Effective Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-video-playback-from-usb-on-your-sharp-aquos-television/"><u>Smooth Video Playback From USB on Your Sharp Aquos Television</u></a></li>
+<li><a href="https://win11.techidaily.com/solution-found-bypassing-the-time-restriction-for-ripping-longer-segments-with-winx-dvd-ripper/"><u>Solution Found: Bypassing the Time Restriction for Ripping Longer Segments with WinX DVD Ripper</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-shrinking-large-video-files-down-to-manageable-mb-sizes/"><u>Step-by-Step Guide: Shrinking Large Video Files Down to Manageable MB Sizes</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Learn the Art of Handling Several Zipped Items with One Command
-date: 2024-08-08T13:18:23.454Z
-updated: 2024-08-09T13:18:23.454Z
+date: 2025-01-28T06:08:29.123Z
+updated: 2025-02-03T19:50:56.619Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
  So, Windows’ built-in extraction tool isn’t ideal when you need to unzip numerous ZIP files. It’s better to utilize a third-party app like 7-Zip or ExtractNow that enables you to extract multiple ZIP archives. This is how you can simultaneously extract multiple ZIP files with those software packages.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Simultaneously Extract Multiple ZIP Archives With 7-Zip
 
  7-Zip is one of the [best file compression and extraction tools](https://www.makeuseof.com/tag/the-top-3-file-compression-extraction-softwares/) for Windows. That software is freely available and widely compatible with Windows platforms dating back to 2000\. You can batch extract multiple archives to different folders with that software as follows.
@@ -31,6 +32,11 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 2. Click **Download** for the 64-bit 7-Zip software.  
 ![The 7-Zip download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/7-zip-download-page.jpg)
 3. Click the pinned taskbar shortcut for [opening Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and go to the folder your browser downloaded 7-Zip to.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Double-click the **7z2301-x64** file.
 5. Click **Install** to install 7-Zip in the directory specified within the **Destination folder** box.
 6. Select **Close** to exit the installer.
@@ -46,13 +52,14 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-extract-window.jpg)
 6. Select **OK** to extract the selected ZIP archives.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will extract all the selected ZIP archives to different subfolders. Those extracted subfolders will have the same names as the ZIP files you extracted. Close out of 7-Zip and then bring up the directory you selected to extract the archives in to open the extracted folders from there.
 
  The "**\*\\**" in 7-Zip’s **Extract** window means the archives get extracted to new folders. If you prefer to extract all selected archives to the same subfolder, delete the "**\*\\"** from the text box. Input a new folder name at the end of the chosen path. Then 7-Zip will batch extract all the ZIP files to the new folder added in the **Extract to** box.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Simultaneously Extract Multiple ZIP Archives With ExtractNow
 
  ExtractNow is freeware software more specifically designed for extracting multiple archives all in one go. You can batch extract ZIP and RAR archives, among others, on Windows platforms dating back to 1995 with this software. This is how you can batch-extract your ZIP files with ExtractNow:
@@ -62,18 +69,12 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 3. Double-click the **extractnow.exe** file to start the setup wizard.
 4. Click **I Agree** for the software’s license terms.
 5. Select **Next** twice more, and then click **Install** to finish.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![The ExtractNow Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extractnow-setup-window.jpg)
 6. Click **Close** to open ExtractNow.
 
  Now it's time to use the app:
 
 1. Right-click inside the ExtractNow window and select **Add archives**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![The Add archives option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-archives-option.jpg)
 2. Select multiple ZIP archives by holding the **Ctrl** key and clicking **Open**.
 3. Click **Extract** to unzip the ZIP files.  
@@ -83,25 +84,25 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 
  By default, this software will always ask you where to extract files. However, you can change ExtractNow to automatically unzip ZIP files without asking via its settings. To do so, click the **Settings** button and select the **Destination** tab. Then select the **Automatically extract archives to** radio button.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![The Destination tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/destination-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to set a location to always extract selected ZIPs, click the **Browse for Folder** button; select a directory within the Browse for Folder window and click **OK**. Then select **OK** on the Settings window to save options.
 
  ExtractNow also has lots of other settings you can configure. Check out the [ExtractNow manual](https://extractnow.com/#/documentation) for details about what all those settings do.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Batch Extract ZIP Files Quicker in Windows
 
  ExtractNow and 7-Zip are two of the best freely available Windows desktop apps for simultaneously extracting multiple ZIP files. It’s quick and easy to batch-extract hundreds of ZIP archives in just a few clicks with those software packages. So, they’re invaluable utilities for anybody who needs to bulk extract many ZIP files.
 
  So, Windows’ built-in extraction tool isn’t ideal when you need to unzip numerous ZIP files. It’s better to utilize a third-party app like 7-Zip or ExtractNow that enables you to extract multiple ZIP archives. This is how you can simultaneously extract multiple ZIP files with those software packages.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -109,3 +110,25 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-effortless-presentation-recording-with-modern-webcams/"><u>[New] In 2024, Effortless Presentation Recording with Modern Webcams</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-gameplay-streaming-tools-revealed-obs-or-fraps/"><u>[Updated] In 2024, Gameplay Streaming Tools Revealed OBS or Fraps?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-video-transfer-youtube-to-dailymotion-conversion/"><u>[Updated] Mastering Video Transfer YouTube to Dailymotion Conversion</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-find-x6-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/complete-guide-to-safe-file-removal-using-stellar-file-eraser-5-expert-tips-and-techniques-for-windows-devices/"><u>Complete Guide to Safe File Removal Using Stellar File Eraser 5 - Expert Tips & Techniques for Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-screen-real-estate-win11s-best-practices/"><u>Customizing Screen Real Estate: Win11's Best Practices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/discover-the-finest-android-and-iphone-photo-overlays-at-no-cost-for-2024/"><u>Discover the Finest Android & iPhone Photo Overlays at No Cost for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-best-of-both-worlds-windows-and-games/"><u>Exploring the Best of Both Worlds: Windows & Games</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-the-gap-restoring-lost-bluetooth-connectivity-in-win-11/"><u>Fix the Gap: Restoring Lost Bluetooth Connectivity in Win 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-msvcrt10dll-not-found-or-missing-errors/"><u>How to Fix Msvcrt10.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-video-calls-synchronizing-zoom-and-gmail-for-better-communication/"><u>In 2024, Streamlined Video Calls Synchronizing Zoom & Gmail for Better Communication</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-honor-x7b-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Honor X7b without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-data-protection-ranked-encryption-tools-for-windows-150-chars/"><u>Mastering Data Protection: Ranked Encryption Tools for Windows (150 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-error-code-fixation-in-win10win11s-shop/"><u>Mastering Error Code Fixation in Win10/Win11's Shop</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-windows-potential-through-efficient-use-of-law-filters/"><u>Maximizing Windows Potential Through Efficient Use of LAW Filters</u></a></li>
+<li><a href="https://win11.techidaily.com/mute-to-noise-fixing-your-google-meet-mic-on-windows-pc/"><u>Mute to Noise? Fixing Your Google Meet Mic on Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-win1011s-network-error-code-0x800704b3/"><u>Solving Win10/11's Network Error Code: 0X800704B3</u></a></li>
+</ul></div>
+

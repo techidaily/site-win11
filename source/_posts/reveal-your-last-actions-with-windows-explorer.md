@@ -1,7 +1,7 @@
 ---
 title: Reveal Your Last Actions with Windows Explorer
-date: 2025-01-21T20:43:49.941Z
-updated: 2025-01-25T03:03:46.901Z
+date: 2025-01-27T20:47:47.176Z
+updated: 2025-02-03T18:51:02.518Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
  Moreover, Quick Access does not allow you to sort recently opened files by specific parameters, which is easy to do in the Recent Items folder. Let's see how you can access recently opened files on Windows using both methods.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to View Recently Opened Files in Quick Access
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
  In most cases, Quick Access displays the recently opened files in File Explorer; however, there are times when it breaks and stops showing them. If that's the case for you, check out our article on[fixing Quick Access when it doesn't show recent files](https://www.makeuseof.com/windows-11-fix-quick-access-not-showing-recent-files/) .
 
  If you cannot fix the Quick Access to show recently opened files or want to do a deeper analysis of recently opened items, you can check recently opened items in the Recent Items folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to View Recently Opened Items in the Recent Items Folder
 
@@ -74,11 +70,11 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![Sorting Data by Checking the Box for Author Field by Clicking on the More button in the Sort By Dropdown Menu in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Sorting-Data-by-Checking-the-Box-for-Author-Field-by-Clicking-on-the-More-button-in-the-Sort-By-Dropdown-Menu-in-File-Explorer.jpg)
 5. After that, the parameter will appear in the**Sort by** menu, where you can select it to sort the recently opened items.  
 
-![Sorting the Files or Folder by Author by Clicking on the Sort By Option in the Recent Items Folder in File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/5-Sorting-the-Files-or-Folder-by-Author-by-Clicking-on-the-Sort-By-Option-in-the-Recent-Items-Folder-in-File-Explorer-in-Windows.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Sorting the Files or Folder by Author by Clicking on the Sort By Option in the Recent Items Folder in File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/5-Sorting-the-Files-or-Folder-by-Author-by-Clicking-on-the-Sort-By-Option-in-the-Recent-Items-Folder-in-File-Explorer-in-Windows.jpg)
 
 ## How to View Recently Opened Files for Specific Apps on Windows
 
@@ -91,7 +87,11 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![Viewing Recently Opened Files for Specific Apps by Navigating to Recent File Section in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/6-Viewing-Recently-Opened-Files-for-Specific-Apps-by-Navigating-to-Recent-File-Section-in-Windows-Search.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to See Recently Opened Files Removed From Quick Access
@@ -108,11 +108,11 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 ![Restoring Previous Version of Windows Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Restoring-Previous-Version-of-Windows-Folder-in-Windows-File-Explorer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If neither of these folders has a previous version, your only recourse should be to[use third-party recovery software to recover the data](https://www.makeuseof.com/windows-best-data-recovery-tools-guides/) in the Recent Items folder, albeit with low chances of success.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Access Recently Opened Files With Ease
 
@@ -135,24 +135,18 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-lift-the-tab-listen-up-fb-music-secrets-for-2024/"><u>[New] Lift the Tab, Listen Up FB Music Secrets for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-fiverr-cover-content-proportions/"><u>[Updated] 2024 Approved Fiverr Cover Content Proportions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-shutter-speed-supreme-the-ultimate-camera-guide-for-slow-videos/"><u>2024 Approved Shutter Speed Supreme The Ultimate Camera Guide for Slow Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-obstructed-video-feed-from-webcam/"><u>Fixing Obstructed Video Feed From Webcam</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-7-plus-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 7 Plus with iTunes | Dr.fone</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/how-microsoft-creates-a-sense-of-normalcy-with-ai-for-solo-users-insights-from-zdnet/"><u>How Microsoft Creates a Sense of Normalcy with AI for Solo Users | Insights From ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-steams-missing-file-privileges-error-in-windows-11/"><u>How to Fix Steam's Missing File Privileges Error in Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-a34-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy A34 5G</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-expert-insight-screening-sweet-indulgences/"><u>In 2024, Expert Insight Screening Sweet Indulgences</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-samsung-galaxy-m34-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Samsung Galaxy M34? Try These Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-device-control-in-windows-11-updates/"><u>Mastering Device Control in Windows 11 Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/mouse-double-click-mastery-3-easy-steps-for-speed-enhancement/"><u>Mouse Double-Click Mastery: 3 Easy Steps for Speed Enhancement</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-slideshow-mastery-unlocking-the-power-of-final-cut-pro/"><u>New Slideshow Mastery Unlocking the Power of Final Cut Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-upgrade-obstacles-windows-11-update-error-0x80246007/"><u>Overcoming Upgrade Obstacles: Windows 11 Update Error 0X80246007</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-non-functional-outlook-push-notifications/"><u>Reviving Non-Functional Outlook Push Notifications</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-reinstate-disappearing-registry-management-tool/"><u>Steps to Reinstate Disappearing Registry Management Tool</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-x90s-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo X90S Device</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-the-look-of-your-windows-cursor/"><u>Transforming the Look of Your Windows Cursor</u></a></li>
-<li><a href="https://win11.techidaily.com/uncover-the-power-of-window-tabbing-for-streamlined-productivity/"><u>Uncover the Power of Window Tabbing for Streamlined Productivity</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-decoding-snapchat-emoji-language/"><u>[New] Decoding Snapchat Emoji Language</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-leading-10-covert-media-collection-tools/"><u>[New] In 2024, Leading 10 Covert Media Collection Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-journey-through-the-land-of-costless-image-mastery-for-2024/"><u>[New] Journey Through the Land of Costless Image Mastery for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimizing-your-podcasts-rss-feed-performance-and-structure/"><u>[New] Optimizing Your Podcast's RSS Feed Performance and Structure</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/treamline-your-experience-with-these-top-7-mobile-adblockers/"><u>[New] Streamline Your Experience with These Top 7 Mobile AdBlockers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-tecno-pova-6-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Tecno Pova 6 Pro 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-a-smooth-in-place-windows-11-update/"><u>Expert Tips for a Smooth, In-Place Windows 11 Update</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/explore-the-dynamic-world-of-robotics-with-wonder-workshops-dash-a-revolutionary-rolling-companion/"><u>Explore the Dynamic World of Robotics with Wonder Workshop's Dash - A Revolutionary Rolling Companion!</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-cortana-on-windows-using-vivetool-guide/"><u>How to Enable Cortana on Windows Using ViveTool Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-empty-directory-assertion-eradicate-error-0x80070091/"><u>Mastering Windows' Empty Directory Assertion - Eradicate Error 0X80070091</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-resolve-solving-bcm2045a0-driver-errors-in-minutes/"><u>Quick Resolve: Solving BCM2045A0 Driver Errors in Minutes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-photographers-guide-mobile-for-high-angle-views/"><u>The Photographer's Guide Mobile for High-Angle Views</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11s-swift-apk-installation-how-to-do-it/"><u>Win 11'S Swift APK Installation: How to Do It</u></a></li>
 </ul></div>
 

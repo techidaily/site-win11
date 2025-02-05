@@ -1,7 +1,7 @@
 ---
 title: Confronting and Correcting DirectDraw Mistakes in Win10/11 Systems
-date: 2025-01-23T16:24:36.674Z
-updated: 2025-01-24T22:32:00.590Z
+date: 2025-02-03T02:41:49.233Z
+updated: 2025-02-04T02:53:41.196Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Configure Affected Apps to Run in Compatibility Mode
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
  If selecting the compatibility mode setting doesn’t work, consider utilizing the Program Compatibility Troubleshooter. This [Program Compatibility Troubleshooter guide](https://www.makeuseof.com/program-compatibility-troubleshooter-windows-11-guide/) provides guidelines for accessing and utilizing that troubleshooter.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Set a 640 x 480 Resolution for the Game
 
  The DirectX error can also occur because your monitor’s resolution is incompatible with that of the affected game or software. Remember that higher resolutions of today might not have existed in an old game’s release year.
@@ -62,16 +66,8 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ![The Display resolution option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/display-resolution-setting.jpg)
 5. Select a lower-resolution option on the menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Resolution options in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/resolution-options.jpg)
 6. Then click the **Keep Changes** button to set the selected resolution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Try starting the game or software.
 
@@ -102,14 +98,18 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ![The Download option for Microsoft DirectX End-User Runtime](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-download-option3.jpg)
 3. [Open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/#:~:text=the%20Command%20Prompt%3A-,Press%20Win%20%2B%20R%20to%20open%20the%20Run%20command%20dialog%20box,Explorer%20and%20then%20press%20Enter.) to go to whatever folder your browser is set to download files to.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Double-click the DirectX End-User Runtime Web Installer file (otherwise **dxwebsetup.exe**) to bring up an Installing Microsoft (R) DirectX (R) window.
 5. Then click **I accept** to make your agreement with Microsoft.  
 ![The DirectX Runtime installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/directx-installer.jpg)
 6. Select **Next** to install DirectX 9, 10, and 11 runtime components.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Try Some Basic Windows Fixes
 
@@ -122,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ![The NVIDIA graphics driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/nvidia-driver-downloads-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Run the Affected App in Windowed Mode
@@ -132,7 +132,7 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ![The Target box for a Windows game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/target-box-for-a-game-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reinstall the Affected Game or Software
@@ -144,7 +144,7 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
  When you’ve done that, restart Windows and reinstall the game with your gaming client software. If the game has a DVD/CD, you’ll need to reinstall it with that disc.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enjoy Your Retro Games or Apps on Windows
@@ -163,22 +163,24 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-crafting-captivating-presentations-by-adding-tunes/"><u>[New] In 2024, Crafting Captivating Presentations by Adding Tunes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-audio-clarity-10-pro-tips-for-high-quality-recordings-for-2024/"><u>[Updated] Audio Clarity 10 Pro Tips for High-Quality Recordings for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-guide-transforming-images-into-youtube-desktop-thumbnails/"><u>[Updated] In 2024, Fast Guide Transforming Images Into YouTube Desktop Thumbnails</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-and-erasing-your-windows-11-actions-trail/"><u>Decoding and Erasing Your Windows 11 Actions Trail</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-accessibility-custom-pin-lengths-for-windows-users/"><u>Enhance Accessibility: Custom PIN Lengths for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-preparations-what-you-need-prior-to-windows-overhaul/"><u>Essential Preparations: What You Need Prior To Windows Overhaul</u></a></li>
-<li><a href="https://win11.techidaily.com/harness-tdarr-to-multiply-windows-pc-video-conversion-efficiency/"><u>Harness Tdarr to Multiply Window's PC Video Conversion Efficiency</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-watch-all-star-wars-movies-in-the-correct-order-on-disneyplus-your-ultimate-roadmap/"><u>How To Watch All Star Wars Movies In The Correct Order on Disney+ - Your Ultimate Roadmap</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-easy-reduction-of-footage-for-instagram-on-a-mac/"><u>In 2024, Easy Reduction of Footage for Instagram on a Mac</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-nokia-g310-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Nokia G310 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-unraveling-the-secrets-to-effortlessly-record-seascapes/"><u>In 2024, Unraveling the Secrets to Effortlessly Record Seascapes</u></a></li>
-<li><a href="https://facebook.techidaily.com/interactive-communal-territories-now-on-facebook/"><u>Interactive Communal Territories Now on Facebook</u></a></li>
-<li><a href="https://win11.techidaily.com/pros-choice-top-video-trimming-apps-for-windows-pcs/"><u>Pro's Choice: Top Video Trimming Apps for Windows PCs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/professional-peril-does-generative-ai-threaten-jobs/"><u>Professional Peril: Does Generative AI Threaten Jobs?</u></a></li>
-<li><a href="https://win11.techidaily.com/staying-ahead-insights-into-windows-11s-enhanced-security-updates/"><u>Staying Ahead: Insights Into Windows 11'S Enhanced Security Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/transition-to-nighttime-paints-dark-aesthetics/"><u>Transition to Nighttime: Paint's Dark Aesthetics</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-power-of-bulk-directory-formation-on-windows-10-and-11-systems/"><u>Unlock the Power of Bulk Directory Formation on Windows 10 & 11 Systems</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-mastering-youtube-title-creation-the-perfect-formula/"><u>[New] 2024 Approved Mastering YouTube Title Creation The Perfect Formula</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-beginners-guide-to-luts-and-downloading-tools-for-2024/"><u>[New] The Beginner's Guide to LUTs and Downloading Tools for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-celebrity-inspired-glamour-videos/"><u>[Updated] Celebrity-Inspired Glamour Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-how-to-render-and-upload-youtube-videos-faster-in-2024/"><u>[Updated] How to Render and Upload YouTube Videos Faster, In 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unlocking-the-secrets-to-increasing-video-engagement-on-youtube/"><u>[Updated] In 2024, Unlocking the Secrets to Increasing Video Engagement on YouTube</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-poco-c51-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Poco C51 Activity | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-windows-11-geforce-x0001-hiccup/"><u>Eradicating Windows 11 GeForce X0001 Hiccup</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-nubia-red-magic-9-proplus-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Nubia Red Magic 9 Pro+ Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-motorola-razr-40-ultra-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Motorola Razr 40 Ultra IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-the-latest-usb-c-driver-for-seamless-windows-11-integration-downloads-available/"><u>Install the Latest USB-C Driver for Seamless Windows 11 Integration – Downloads Available</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-maze-of-steam-login-failures-with-windows-and-rust-code/"><u>Navigating the Maze of Steam Login Failures with Windows & Rust Code</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-non-detection-hardware-errors/"><u>Overcoming Non-Detection Hardware Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-access-and-efficiency-5-handy-tips-for-managing-windows-folders/"><u>Quick Access & Efficiency: 5 Handy Tips for Managing Windows Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-stuck-windows-media-center-sounds/"><u>Reactivating Stuck Windows Media Center Sounds</u></a></li>
+<li><a href="https://win11.techidaily.com/spinning-visuals-easy-6-tips-to-flip-image-on-your-pc/"><u>Spinning Visuals Easy: 6 Tips to Flip Image on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-guide-for-using-winstall-for-group-applications-on-windows-11/"><u>The Essential Guide for Using Winstall for Group Applications on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/trim-tabs-before-they-tab-w11-guide-to-disabling-edge/"><u>Trim Tabs Before They Tab: W11 Guide to Disabling Edge</u></a></li>
+<li><a href="https://win-premium.techidaily.com/troubleshooting-guide-for-correcting-vmware-vcenter-upstream-unhealthy-notification/"><u>Troubleshooting Guide for Correcting VMware vCenter 'Upstream Unhealthy' Notification</u></a></li>
+<li><a href="https://win11.techidaily.com/win-over-lags-6-key-fixes-for-a-swift-windows-11/"><u>Win Over Lags: 6 Key Fixes for a Swift Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Swiftly Navigate Win11's Bluescreen by Adopting These Tips
-date: 2025-01-22T18:11:14.005Z
-updated: 2025-01-25T10:29:56.033Z
+date: 2025-02-03T00:04:26.395Z
+updated: 2025-02-04T03:24:35.454Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/3df80ed0f3ba1234db4e3fe9b6b618140f5c8ecbd
 ![blue screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/blue-screen.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Blue screens can happen for many reasons, which we'll dig into below. Common BSOD causes include bad drivers, problems with hardware, and operating system errors.
@@ -52,16 +52,12 @@ thumbnail: https://thmb.techidaily.com/3df80ed0f3ba1234db4e3fe9b6b618140f5c8ecbd
 ![Image of the Windows crash page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  MitrandirLK/[Wikipedia](https://en.wikipedia.org/wiki/Blue%5Fscreen%5Fof%5Fdeath#/media/File:Bsodwindows10.png)
 
  The most important part is to note the stop code listed on the page, which will help you narrow your troubleshooting. If you miss the code initially, follow our[guide to retrieving stop codes in Windows 10](https://www.makeuseof.com/find-stop-codes-and-fix-windows-errors/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Try Specific Troubleshooting for Your Blue Screen Error Code
 
@@ -91,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/3df80ed0f3ba1234db4e3fe9b6b618140f5c8ecbd
 
 ![winodws 11 view update history uninstall updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winodws-11-view-update-history-uinstall-updates.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The same goes for software. If you started noticing the blue screens after installing a new program, try[removing the app from Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and see if that fixes your issues.
 
 ## 4\. Check for Windows and Driver Updates
@@ -104,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/3df80ed0f3ba1234db4e3fe9b6b618140f5c8ecbd
  You can right-click an entry and choose**Update driver** to check for updates, but this isn't always reliable.
 
 ![Updating Generic USB Hub drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Updating-Generic-USB-Hub-drivers.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Instead, you should visit the manufacturer's website and grab the latest drivers from there. Follow our[guide to updating Windows drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) for help.
 
@@ -127,13 +123,13 @@ thumbnail: https://thmb.techidaily.com/3df80ed0f3ba1234db4e3fe9b6b618140f5c8ecbd
 
 ![malwarebytes version 4.30 antimalware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/malwarebytes-version-4.30-antimalware.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Malware can damage your Windows system files and result in a blue screen. You should run a scan for infection to rule out anything like this.
 
  We recommend using[Malwarebytes](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36655/https://www.malwarebytes.com/pricing?cjdata=MXxOfDB8WXww&c=cj&s=4112715&k=13801426&utm%5Fsource=cj&utm%5Fmedium=aff&utm%5Fcontent=13801426&utm%5Fcampaign=AFF-CJ%5F4112715&tracking=cj&x-wts=cj&x-affid=4112715&ADDITIONAL%5FAFFID=cj-4112715&cjevent=7bdb2e575d5411ee82c858940a82b832&clickid=7bdb2e575d5411ee82c858940a82b832&pid=cj%5Fint) to run a scan. This will look for all sorts of rogue software and remove it for you. If it finds anything, reboot after the cleaning and see if your blue screen errors go away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Test Your Computer Hardware
 
@@ -145,6 +141,10 @@ thumbnail: https://thmb.techidaily.com/3df80ed0f3ba1234db4e3fe9b6b618140f5c8ecbd
 
 ![Running SFC in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/Running-SFC-in-Command-Prompt.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows includes a command line tool called**SFC** (System File Checker). Running it checks for damaged Windows system files and attempts to fix them. Doing so may solve your blue screen issue.
 
  Again, press**Win + X** (or right-click on the Start button) to open the power user shortcut menu. Choose**Command Prompt (Admin)** ,**Windows PowerShell (Admin)** , or**Windows Terminal (Admin)** , then type the following:
@@ -152,10 +152,6 @@ thumbnail: https://thmb.techidaily.com/3df80ed0f3ba1234db4e3fe9b6b618140f5c8ecbd
 `sfc /scannow`
 
  Give this some time to run, and you'll see the results before long. If it found and applied any fixes, reboot and see if the blue screen issue stops.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Boot Into Safe Mode
 
@@ -165,19 +161,23 @@ thumbnail: https://thmb.techidaily.com/3df80ed0f3ba1234db4e3fe9b6b618140f5c8ecbd
 
  While in safe mode, you can run a malware scan, use System Restore, and otherwise troubleshoot as we've discussed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Use Advanced Blue Screen Troubleshooting Tools
 
  For deeper troubleshooting, you can utilize tools that interpret the information Windows dumps after it crashes to a blue screen_._ These are typically only for advanced users.
 
  Follow our instructions on[how to fix blue screen errors with WinDbg and BlueScreenView](https://www.makeuseof.com/tag/solve-blue-screen-errors/) for help using a few of these tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. Reinstall Windows
 
 ![Windows 10 Recovery Refresh](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-10-Recovery-Refresh.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If all else fails, you'll need to reinstall Windows on your computer. At this point, you've ruled out drivers, hardware, malware, and software issues, so there must be some deeper underlying problem on your system.
 
@@ -204,22 +204,18 @@ thumbnail: https://thmb.techidaily.com/3df80ed0f3ba1234db4e3fe9b6b618140f5c8ecbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-top-ten-screencasting-apps-for-modern-teachers/"><u>[Updated] In 2024, Top Ten Screencasting Apps for Modern Teachers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-iphone-x-handbook-for-users/"><u>[Updated] The Ultimate iPhone X Handbook for Users</u></a></li>
-<li><a href="https://win11.techidaily.com/cracking-the-code-locating-blue-screens-in-log-files/"><u>Cracking the Code: Locating Blue Screens in Log Files</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-compelling-stories-with-your-gopro-footage-for-2024/"><u>Crafting Compelling Stories with Your GoPro Footage for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/hibernate-havoc-heres-how-to-quell-the-chaos/"><u>Hibernate Havoc? Here's How to Quell the Chaos</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-youtube-cover-pics-made-easy-top-5-free-downloader-lists/"><u>In 2024, YouTube Cover Pics Made Easy – Top 5 Free Downloader Lists</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/inshot-cut-mastery-creating-fluid-movements-for-2024/"><u>Inshot Cut Mastery Creating Fluid Movements for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/instructions-for-resetting-customized-windows-settings/"><u>Instructions for Resetting Customized Windows Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-kali-linux-setup-on-windows/"><u>Mastering Kali Linux Setup on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-fullscreen-challenges-with-sonic-gameplay-w11-version/"><u>Navigating Fullscreen Challenges with Sonic Gameplay, W11 Version</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-remedy-restoring-functionality-to-your-windows-pen-device/"><u>Quick Remedy: Restoring Functionality to Your Windows Pen Device</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-windows-adjustments-through-quick-key-tricks/"><u>Seamless Windows Adjustments Through Quick Key Tricks</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/self-healing-concrete-contains-healing-agents-that-are-activated-when-cracks-form-enabling-automatic-repair-and-extending-structure-life/"><u>Self-Healing Concrete Contains Healing Agents that Are Activated when Cracks Form, Enabling Automatic Repair and Extending Structure Life.</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-potential-virus-clues-in-windows-task-scheduling/"><u>Understanding Potential Virus Clues in Window's Task Scheduling</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-advanced-technology-at-affordable-prices-the-ford-f-150-lightning/"><u>Unlocking Advanced Technology at Affordable Prices: The Ford F-150 Lightning</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-wisdom-3-strategies-for-directory-expedition/"><u>Windows Wisdom: 3 Strategies for Directory Expedition</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-a-step-by-step-guide-to-outstanding-color-grading-top-11/"><u>[New] 2024 Approved A Step-by-Step Guide to Outstanding Color Grading (Top 11)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-mobile-gif-software-for-the-latest-iphones/"><u>2024 Approved Best Mobile GIF Software for the Latest iPhones</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-understanding-watermarks-and-protecting-fb-pics/"><u>2024 Approved Understanding Watermarks & Protecting FB Pics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gratis-herramienta-de-conversion-on-line-para-archivos-ogv-por-movavi/"><u>Gratis Herramienta De Conversión On-Line Para Archivos OGV Por Movavi</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-captivating-spokesperson-appraisal-8th-analysis/"><u>In 2024, Captivating Spokesperson Appraisal 8Th Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-portal-elevated-terminal-at-your-fingertips/"><u>Quick Portal: Elevated Terminal at Your Fingertips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/record-gameplay-in-samsung-galaxy-phones/"><u>Record Gameplay in Samsung Galaxy Phones</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-sleepy-batch-processes-in-windows-os/"><u>Revitalizing Sleepy Batch Processes in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/scaling-up-how-to-tap-into-all-available-windows-ram/"><u>Scaling Up: How to Tap Into All Available Windows RAM</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rectify-no-sound-output-windows/"><u>Steps to Rectify No Sound Output Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/swipe-150-off-your-favorite-immersive-game-audio-system-available-exclusively-at-amazon-check-out-the-review-from-zdnet/"><u>Swipe $150 Off Your Favorite Immersive Game Audio System Available Exclusively at Amazon – Check Out the Review From ZDNet!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-verdict-on-genius-widecam-f1-navigating-through-blurry-images-and-reverberant-noise/"><u>The Verdict on Genius WideCam F1# - Navigating Through Blurry Images & Reverberant Noise</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-secure-telnet-access-on-modern-windows/"><u>Unlocking Secure Telnet Access on Modern Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the MMC Could Not Create the Snap-In Error in Windows
-date: 2025-01-19T22:54:53.760Z
-updated: 2025-01-25T06:08:59.190Z
+date: 2025-02-02T22:06:18.588Z
+updated: 2025-02-04T07:04:04.111Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Fix the Broken Registry Configuration for the Snap-In
 
 ![delete-registry-key-mmc-snap-in-windows-registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-registry-key-mmc-snap-in-windows-registry.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the registry configuration for the affected snap-in is broken, it may trigger the "MMC could not create the snap-in" error. To fix the issue, you’ll need to delete the corrupt registry entry associated with the snap-in. Here’s how to do it.
 
@@ -50,13 +50,13 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 4. Close the **Registry Editor** and restart your computer.
 5. After the restart, open the administrative tool snap-in to see if the error is resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Enable .NET Framework
 
 ![enable net framework 3 5 windows features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-net-framework-3-5-windows-features.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also fix this error by enabling .NET Framework 3.5\. The idea is that one of the snap-ins on your PC may need .NET Framework 3.5 to work. So, if the feature is disabled, you may encounter an error.
 
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 5. Once installed, you’ll be prompted to restart the computer. Restart your system, and the MMC snap-in should work now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check for and Repair Corrupt System Files
@@ -84,13 +84,13 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
  If you're not sure how to run either of these tools, we cover both in our guide on [how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Remove and Reinstall the Microsoft Visual C++ Redistributable
 
 ![repair microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-microsoft-visual-c-plus-plus-distributable-package.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the issue persists, try to fix and repair issues with the Visual C++ Redistributable package. If there are any issues with the package, it can cause the MMC snap-ins to stop working.
 
@@ -108,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 ![uninstall microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/uninstall-microsoft-visual-c-plus-plus-distributable-package.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Select the **Microsoft Visual C++ package** in Control Panel and click on **Uninstall**.
@@ -137,19 +137,18 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-superior-console-emulation-best-ps1-games-for-your-pc/"><u>[New] In 2024, Superior Console Emulation Best PS1 Games for Your PC</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-groundbreaking-companies-at-the-vr-content-frontier/"><u>2024 Approved Groundbreaking Companies at the VR Content Frontier</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prestige-choices-top-rated-sites-for-securing-snapalert-music/"><u>2024 Approved Prestige Choices Top-Rated Sites for Securing SnapAlert Music</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-unlocking-earning-potential-with-youtube-shorts-crucial-elements-possible-returns/"><u>2024 Approved Unlocking Earning Potential with Youtube Shorts Crucial Elements, Possible Returns</u></a></li>
-<li><a href="https://win11.techidaily.com/confronting-the-def5-error-code-in-onedrive-w11-style/"><u>Confronting the Def5 Error Code in OneDrive, W11 Style</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/crafting-compact-comforts-essential-mc-abodes-for-beginners-for-2024/"><u>Crafting Compact Comforts Essential MC Abodes for Beginners for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/hush-your-background-processes-in-win11/"><u>Hush Your Background Processes in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-actions-against-windows-11-search-failures/"><u>Immediate Actions Against Windows 11 Search Failures</u></a></li>
-<li><a href="https://win11.techidaily.com/increase-windows-storage-securely/"><u>Increase Windows Storage Securely</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211373526-9798990783232-liberandote-de-libro-de-ejercicio/"><u>Liberándote de... libro de ejercicio | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/reconstructed-windows-log-a-guide-to-clearing-defender-data/"><u>Reconstructed Windows Log: A Guide to Clearing Defender Data</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/securing-yourself-from-motion-sickness-in-vr/"><u>Securing Yourself From Motion Sickness in VR</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/selecting-the-best-ai-therapist-chatgpts-role-considerations/"><u>Selecting the Best AI Therapist - ChatGPT's Role Considerations</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/top-list-best-5-tools-for-creating-talking-avatars/"><u>Top List Best 5 Tools for Creating Talking Avatars</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-cultivating-community-in-stardews-ginger-territory-for-2024/"><u>[Updated] Cultivating Community in Stardew’s Ginger Territory for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-virtual-reality-grips-the-ultimate-selection/"><u>[Updated] In 2024, Virtual Reality Grips The Ultimate Selection</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-5-ios-platforms-for-experiencing-classic-psp-games-for-2024/"><u>[Updated] Top 5 iOS Platforms for Experiencing Classic PSP Games for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028360556-7/"><u>「最適なビデオ寸法変更サイト・上位7推奨」</u></a></li>
+<li><a href="https://win11.techidaily.com/44cm44km44kn44ow44ox44os44k844oz44og44o844k344on44oz44gu44gf44kb44gr44k544op44kk44oj44k344on44o844ot44oh44kq44ks5yq55p6c55qe44gr57eo6zug44gz44kl5oqa6kgt44cn1/"><u>「ウェブプレゼンテーションのためにスライドショービデオを効果的に編集する技術」</u></a></li>
+<li><a href="https://win11.techidaily.com/a-beginners-guide-to-converting-dvd-content-into-avi-format-with-minimal-hassle/"><u>A Beginner's Guide to Converting DVD Content Into AVI Format with Minimal Hassle</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-2022-pick-me-ups-on-the-go-expert-reviews-of-hot-and-cold-mug-options-by-zdnet/"><u>Best 2022 Pick-Me-Ups on the Go: Expert Reviews of Hot and Cold Mug Options by ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-nokia-c22-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Nokia C22 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028106781-dvd/"><u>DVDの正常再生を保証する!理解しやすく簡単に修復する方法</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-infinix-smart-8-hd-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Infinix Smart 8 HD Phone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-s18-pro-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo S18 Pro FRP Without Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029205926-iphone/"><u>IPhoneにおける「読み込めない動画エラー」を克服する方法</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028985392-mp3/"><u>MP3音量比率変更ツールをご利用いただける場所と使い方ガイド</u></a></li>
 </ul></div>
 

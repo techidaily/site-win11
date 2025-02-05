@@ -1,7 +1,7 @@
 ---
 title: Reducing System Alert Errors in Win10/Win11 Defender
-date: 2025-01-23T09:20:01.015Z
-updated: 2025-01-25T06:10:15.426Z
+date: 2025-01-28T16:53:09.756Z
+updated: 2025-02-03T21:08:00.128Z
 tags:
   - windows10
   - windows11
@@ -32,11 +32,7 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 ![The Reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run System File and Image Scans
@@ -45,13 +41,13 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-sfc-scannow-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It’s also recommended to run a Deployment Image Servicing and Management scan, which can resolve Windows system image issues. The System File Checker tool doesn’t work when there are issues with the system image. So, try executing this command before the SFC scan as well:
 
 `Dism /Online /Cleanup-Image /RestoreHealth`
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Remove Third-Party Antivirus Software
 
@@ -60,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
  If disabling the third-party antivirus software works, you have two options. You can re-enable that antivirus software and utilize the alternative antivirus scanner it provides. Or you can completely uninstall the third-party antivirus software if you prefer Microsoft Defender. Our guide to removing Windows software includes numerous methods for uninstalling programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Modify the Windows Defender Registry Key
@@ -74,17 +70,13 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 ![The New and Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-new-key-options.jpg)
 4. Type**DisableAntiSpyware** in the DWORD’s text box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Double-click the**DisableAntiSpyware** DWORD to access its**Value** box.
 6. Input**0** in the data box if that’s not the current value set.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-edit-dword-window.jpg)
 7. Select**OK** to confirm the value for the DWORD.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reset the Windows Security App
@@ -106,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 ![The Install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-button-for-malwarebytes.jpg)
 7. Select**Me or my family** (for personal use) at the production selection step and click**Next** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click**Skip this for now** if you prefer not to install the additional Malwarebytes Browser Guard software.  
 ![The Skip this for now option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/skip-this-for-now-option.jpg)
 9. Select**Done** to finish.
@@ -115,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 12. Select Malwarebytes’**Scan** option.  
 ![The Scan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-option.jpg)
 13. Press the**Quarantine** button after the scan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this potential resolution works, you can keep Malwarebytes installed for manual scanning. It’s a 14-day trial of the Premium version, and the real-time protection will only last a couple of weeks. However, you can disable the Malwarebytes protection to ensure it doesn’t conflict with Microsoft Defender by right-clicking the utility’s system tray icon and deselecting the**Malware** ,**Ransomware** ,**Exploit** , and**Web Protection** options.
 
@@ -135,7 +135,7 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 5. Select the policy’s**Apply** and**OK** options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset Windows or Perform an In-Place Upgrade
@@ -169,16 +169,24 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-comparing-livestream-tools-is-streamlabs-the-answer-to-your-broadcast-needs/"><u>[New] 2024 Approved Comparing Livestream Tools Is Streamlabs the Answer to Your Broadcast Needs?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-guffaw-generator-pictorial-editor/"><u>[New] Guffaw Generator Pictorial Editor</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-seamless-slack-filmora-synergy-your-guide-to-meeting-organization/"><u>[New] In 2024, Seamless Slack-Filmora Synergy Your Guide to Meeting Organization</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-the-best-in-class-our-comprehensible-guide-to-top-12-vlogging-cameras/"><u>[New] In 2024, The Best in Class Our Comprehensible Guide to Top 12 Vlogging Cameras</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-fundamentals-of-captivating-video-scripts/"><u>[New] The Fundamentals of Captivating Video Scripts</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminate-no-servers-frustration-9-fixes-for-pc-apex-legends-errors-(156-chars/"><u>Eliminate 'No Servers' Frustration: 9 Fixes for PC Apex Legends Errors (<156 Chars)</u></a></li>
-<li><a href="https://win11.techidaily.com/enriched-learning-through-ed-themed-ui-on-win-11/"><u>Enriched Learning Through Ed-Themed UI on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicating-file-notifications-in-windows-outlook/"><u>Eradicating File Notifications in Windows Outlook</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-disregard-the-upcoming-expiry-alert-in-windows-1011/"><u>How To Disregard the “Upcoming Expiry” Alert in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-regain-credential-manager-entry/"><u>How to Regain Credential Manager Entry</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-unveiling-new-ways-to-record-presentations/"><u>In 2024, Unveiling New Ways to Record Presentations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-solutions-for-an-unresponsive-obs-video-source-for-2024/"><u>[Updated] Solutions for an Unresponsive OBS Video Source for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-battle-between-youtubes-copyright-clause-and-cc-license/"><u>2024 Approved The Battle Between YouTube’s Copyright Clause & CC License</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-next-level-entertainment-with-hitachi-ultra-hd-smart-tvs-featuring-roku-streaming/"><u>Experience Next-Level Entertainment with Hitachi Ultra HD Smart TVs Featuring Roku Streaming</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782380-9781591438946-extra-planetary-experiences/"><u>Extra-Planetary Experiences | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-remedying-winscomrssvsvc-startup-issues/"><u>Guide to Remedying WinscomrssvSvc Startup Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-open-the-component-services-in-windows-11/"><u>How to Open the Component Services in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-re-establish-failed-connections-in-windows-os/"><u>How To Re-Establish Failed Connections in Windows OS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-improving-user-experience-vimeo-video-subtitles/"><u>In 2024, Improving User Experience Vimeo Video Subtitles</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-epson-xp-330-with-official-updated-drivers-today/"><u>Install Your Epson XP-330 with Official, Updated Drivers Today</u></a></li>
+<li><a href="https://win11.techidaily.com/overhauling-custom-power-plans-in-windows/"><u>Overhauling Custom Power Plans in Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pixel-watch-vs-apple-watch-comparing-the-latest-tech-giants-offerings-for-your-wrist/"><u>Pixel Watch Vs. Apple Watch - Comparing the Latest Tech Giants' Offerings for Your Wrist</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-address-windows-app-malfunctions-on-devices/"><u>Strategies to Address Windows App Malfunctions on Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/the-best-practices-for-getting-most-from-windows-11s-launchpad/"><u>The Best Practices for Getting Most From Windows 11'S Launchpad</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-guide-for-altering-windows-pin/"><u>The Essential Guide for Altering Windows PIN</u></a></li>
+<li><a href="https://win11.techidaily.com/top-tier-software-selecting-the-most-effective-fps-counters-for-windows-11/"><u>Top-Tier Software: Selecting The Most Effective FPS Counters For Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/transformative-strategies-for-outdated-windows-systems/"><u>Transformative Strategies for Outdated Windows Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-tips-restoring-chatgpts-conversation-memory/"><u>Troubleshooting Tips: Restoring ChatGPT's Conversation Memory</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/zdnet-exclusive-apples-shift-to-permitting-used-parts-in-iphone-repairs-for-select-models/"><u>ZDNet Exclusive: Apple's Shift to Permitting Used Parts in iPhone Repairs for Select Models</u></a></li>
 </ul></div>
 

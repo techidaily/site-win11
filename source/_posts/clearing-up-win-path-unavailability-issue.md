@@ -1,7 +1,7 @@
 ---
 title: Clearing Up WIN Path Unavailability Issue
-date: 2024-07-29T15:56:34.833Z
-updated: 2024-07-30T15:56:34.833Z
+date: 2025-01-30T18:25:44.878Z
+updated: 2025-02-03T21:29:49.647Z
 tags:
   - windows10
   - windows11
@@ -34,13 +34,19 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 3. If it says Not Shared, then click on the **Advanced Sharing** button.  
 ![Advanced sharing button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-properties-advanced-sharing.jpg)
 4. Checkmark the box associated with **Share this folder** and note the Share name of the drive.  
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Type folder name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-share-this-folder.jpg)
 5. Once done, click on **Apply** \> **OK** to save the changes.
 
  You can now check if the drive is accessible after following the steps above.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Temporarily Disable Your Antivirus
 
@@ -52,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
  You can also try [disabling Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) if you are using it and see if that helps. However, once you are done sharing the files, make sure you enable the antivirus back immediately since keeping it disabled for a long period can expose your PC to threats.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Try to Connect Using an IP Address
 
  You can also connect to the remote computer using the IP address. In this method, we will be using Command Prompt to make this work.
@@ -65,16 +68,15 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 2. Type "cmd" in the text field of Run and hit **Ctrl** \+ **Shift** \+ **Enter** to open Command Prompt as an administrator.
 3. In the Command Prompt window, type the command mentioned below and hit **Enter** to execute it:  
 `ipconfig /all​​​`  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ipconfig all command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ipconfig-all.jpg)
 4. Scroll down and bit and note down the address for IPv4 Address.  
 ![ipv4 address in cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ipconfig-all-ipv4-address.jpg)
 5. Now, open a Run dialog again and paste the IPv4 Address you noted in the text field here.  
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![ipv4 address in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/cmd-ipv4-address.jpg)
 6. Click **Enter** and see if you can connect to the remote computer successfully.
 
@@ -93,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 ![Stop button in Properties dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/services-tcp-ip-netbios-helper-stop.jpg)
 6. Wait for a few seconds and then click **Start**.
 7. Now, expand the dropdown for Startup type and choose **Automatic**.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Startup type of service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/services-tcp-ip-netbios-helper-automatic.jpg)
 8. Click **Apply** \> **OK** to save the changes.
 
@@ -111,28 +110,25 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 1. Type Control Panel in Windows search and click **Open**.
 2. In the following window, head over to **Programs** \> **Programs and Features**.  
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Programs option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/control-panel-programs.jpg)
 3. Choose **Turn Windows features on or off** from the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![Turn Windows feature on or off option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/turn-windows-features-on-or-off.jpg)
 4. Now, look for "SMB 1.0/CIFS File Sharing Support" and checkmark the box associated with it.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![SMB 1.0 option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/smb-cifs-file-sharing-support.jpg)
 5. Click **OK** to save the changes and check if the error is now fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Modify Network Security Settings
 
@@ -147,24 +143,20 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
 5. Click **Apply** \> **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reset TCP/IP
 
  Finally, if the methods above have not worked for you, then you can consider [resetting TCP/IP](https://www.makeuseof.com/windows-connection-failed-error-651-fix/#:~:text=next%20method%20below.-,3.%20Reset%20TCP/IP,-You%20might%20also), which will revert all the IP protocols and DNS entries to their default state.
 
  This fix is known to fix almost all the network-related issues that pop up in Windows now and then, and will hopefully fix the error at hand for you as well.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## The Windows Network Path Error, Resolved
 
  Connecting to another device over the network and sharing files should be a seamless process. Hopefully, the troubleshooting methods mentioned above will help you get the network functionality up and running in no time. However, if the error persists, you can consider using another file-sharing service like Google Drive till Microsoft launches an official fix for this issue.
 
  One such common issue is the "network path name was not found" error, which occurs when users attempt to connect to a remote device. If you are facing a similar problem, we have discussed six troubleshooting methods below that will help you fix the error in no time.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -172,3 +164,25 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-capturing-horizon-views-for-successful-drone-livestreams-for-2024/"><u>[New] Capturing Horizon Views for Successful Drone Livestreams for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevating-video-branding-the-art-and-science-of-youtube-image-designs/"><u>[New] Elevating Video Branding The Art and Science of Youtube Image Designs</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-essential-tips-for-mac-based-tiktok-video-edits/"><u>[Updated] 2024 Approved Essential Tips for Mac-Based TikTok Video Edits</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-sneak-peeks-into-slow-motion-mastery-on-instagram/"><u>[Updated] 2024 Approved Sneak Peeks Into Slow-Motion Mastery on Instagram</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expanding-photography-quality/"><u>2024 Approved Expanding Photography Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/3-easy-methods-for-saving-your-favorite-overwatch-game-moments/"><u>3 Easy Methods for Saving Your Favorite Overwatch Game Moments</u></a></li>
+<li><a href="https://win11.techidaily.com/5bplusr6ygp57eo6zug77ya44or44k944kz44oz5zcr44gr44gr5oml6lu944k44kk44og44op44ox44k55yuv55s75l2c5oiq44ks44kk44oj/"><u>快適編集：パソコン向けに手軽タイムラプス動画作成ガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028053556-dvdmp3/"><u>生動画DVDからMP3ファイルへの変換技術</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-oneplus-open-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for OnePlus Open Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/craze-worthy-halloween-contest-from-wonderfox-win-big-this-haunted-season/"><u>Craze-Worthy Halloween Contest From WonderFox – Win Big This Haunted Season!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-samsung-galaxy-tab-a-2020-the-critical-element-it-lacks/"><u>Expert Analysis: Samsung Galaxy Tab A 2020 - The Critical Element It Lacks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/next-gen-conversational-agents-envisioning-the-progressive-landsebor-generative-ai-post-chatgpt/"><u>Next-Gen Conversational Agents: Envisioning the Progressive Landsebor Generative AI Post-ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029091926-pc/"><u>PC上のビデオファイルを成功させるダウンロードおよび録画テクニック</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stream-and-watch-in-stunning-detail-with-hitachis-4k-smart-televisions-and-built-in-roku-technology/"><u>Stream & Watch in Stunning Detail with Hitachi's 4K Smart Televisions and Built-In Roku Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029324974-windows-11/"><u>Windows 11における最新動画合成技術【詳細マニュアル】</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028664984-youtube/"><u>YouTubeトラックをウォークマンに移し替える方法</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029078458-windows/"><u>ビデオの長さ編集手順: Windowsプラットフォームにおすすめ</u></a></li>
+</ul></div>
+

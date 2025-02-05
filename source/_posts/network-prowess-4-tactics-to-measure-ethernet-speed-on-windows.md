@@ -1,7 +1,7 @@
 ---
 title: "Network Prowess: 4 Tactics to Measure Ethernet Speed on Windows"
-date: 2024-08-08T13:17:47.505Z
-updated: 2024-08-09T13:17:47.505Z
+date: 2025-01-31T07:29:44.406Z
+updated: 2025-02-03T17:22:51.759Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
  Whether you want to upgrade your internet plan or diagnose your network for performance issues, there are several ways to determine the network adapter speed on Windows. Let’s go over all of them one by one.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Check the Network Adapter Connection Speed Using the Settings App
 
  The quickest way to check the connection speed for a Wi-Fi or Ethernet adapter is through the Windows Settings app. Aside from network speed, the Settings app also provides important information like network band, local IP address, MAC address, and more.
@@ -33,10 +34,15 @@ To check the network adapter speed via the Settings app:
 2. Select**Network & internet** from the left sidebar.
 3. Click on**Properties** at the top.
 4. Scroll down to the**Link speed (Receive/Transmit)** field to check the connection speed.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check Network Adapter Speed Using the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-network-adapter-speed-using-the-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Check the Network Adapter Connection Speed Using Control Panel
 
@@ -49,23 +55,14 @@ To check the network adapter speed via the Settings app:
 5. Click the**Change adapter settings** link from the left pane.
 6. Double-click on your Ethernet or Wi-Fi adapter to open its properties.
 7. Check the connection speed of your network adapter in the**Speed** field.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Check Network Adapter Speed Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-network-adapter-speed-using-control-panel.jpg)
 
  Seeing too many network adapter entries on your Windows computer? Learn[how to get rid of old or inactive network adapters from Windows](https://www.makeuseof.com/how-to-remove-network-adapter-windows/) in a few easy steps.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Check Network Adapter Connection Speed via Command Prompt
 
  Not a fan of GUI? No problem. You can also use a command-line utility like Command Prompt to check the network adapter connection speed on Windows. Here are the steps for the same.
@@ -76,6 +73,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 `netsh wlan show interfaces`
 4. Check the values next to**Receive rate** and**Transmit rate** to determine the speed of your network adapter.  
 ![Check Network Adapter Speed Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-network-adapter-speed-using-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Like using Command Prompt? Check our guide on[how to master Command Prompt on Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) .
 
@@ -89,28 +90,19 @@ To check network adapter connection speed via PowerShell:
 2. Type**Windows PowerShell** in the search box and press**Enter** .
 3. Paste the following command in the console and press**Enter** .  
 `Get-NetAdapter | select interfaceDescription, name, status, linkSpeed`  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![Check Network Adapter Speed Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-network-adapter-speed-using-powershell.jpg)
 
  Once you run the above command, PowerShell will display a list of all the Ethernet and Wi-Fi adapters on your Windows computer, along with their link speeds.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Checking Network Adapter Connection Speed on Windows
 
  As we just learned, determining the network adapter connection speed on Windows is relatively simple. Do you know what else is easy? Speeding up the internet connection speed on your Windows computer.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,4 +111,23 @@ To check network adapter connection speed via PowerShell:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-premier-screenshare-software-reviews/"><u>[New] In 2024, Premier Screenshare Software Reviews</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-from-play-to-pixels-compreehensive-ps4-recording-with-obs-studio-for-2024/"><u>[Updated] From Play to Pixels Compreehensive PS4 Recording with OBS Studio for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-artists-guide-to-the-leading-6-nft-creation-suites/"><u>2024 Approved The Artist's Guide to the Leading 6 NFT Creation Suites</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-honor-x8b-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Honor X8b in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-imoinstant-messaging-service/"><u>In-Depth Analysis of the ImoInstant Messaging Service</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-the-speedy-assistance-mechanism-in-w11/"><u>Launching the Speedy Assistance Mechanism in W11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/live-streaming-made-easy-explore-manycam-top-choice-for-virtual-webcams-and-recording/"><u>Live Streaming Made Easy: Explore ManyCam - Top Choice for Virtual Webcams and Recording</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/navigating-the-landscape-of-firefox-picture-in-picture-for-2024/"><u>Navigating the Landscape of Firefox Picture-in-Picture for 2024</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/perfect-strategies-for-tune-in-success-at-beat-1-radio/"><u>Perfect Strategies for Tune-In Success at Beat 1 Radio</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-overcome-windows-11-update-error-0x800f0922/"><u>Quick Guide to Overcome Windows 11 Update Error 0X800f0922</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-black-window-after-system-ignition/"><u>Remedying Black Window After System Ignition</u></a></li>
+<li><a href="https://win11.techidaily.com/routine-for-accessing-and-clearing-activity-in-windows-11/"><u>Routine for Accessing and Clearing Activity in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-full-disk-alerts-in-windows-1011/"><u>Solutions for Full Disk Alerts in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-overcoming-the-error-in-windows-activation-0x803f700f/"><u>Strategies for Overcoming the Error in Windows Activation 0X803F700f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-clearing-up-windows-update-jams/"><u>The Ultimate Guide to Clearing Up Windows Update Jams</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-ordinary-to-extraordinary-with-ms-winning-choices-2023/"><u>Transform Ordinary to Extraordinary with MS Winning Choices, 2023</u></a></li>
+</ul></div>
 

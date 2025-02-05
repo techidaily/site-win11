@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows' No Access Error: Securing File Viewer Rights"
-date: 2025-01-23T05:01:40.777Z
-updated: 2025-01-25T05:27:25.352Z
+date: 2025-02-02T02:40:37.830Z
+updated: 2025-02-04T08:44:56.381Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
  Now you know what causes this error, let's explore the solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Grant Full Control Permissions
@@ -59,25 +59,25 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 ![Advanced Security Settings for Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/advanced-security-settings-for-folders.jpg)
 5. In the dialog box, type **Everyone** and click **Check Names**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Enter the object name to select user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enter-the-object-name-to-select-user.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. If it seems correct, click **OK**.
 2. Check the box next to **Replace owner on subcontainers and objects**.  
 ![Take Ownership of the Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/take-ownership-of-the-folder.jpg)
 3. Now click Apply. A pop-up appears and asks you to confirm the ownership change.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click **Yes** and wait for the process to finish.
 5. Once done, click **OK** and close the window.
 
  After that, restart your computer and try accessing the folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Reset the Photos App
 
@@ -93,23 +93,23 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 ![Reset Microsoft Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-microsoft-photos-app.jpg)
 6. If a pop-up appears, click **Reset** again to confirm your action.
 
- After that, try to open photos on your external hard drive.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After that, try to open photos on your external hard drive.
 
 ## 4\. Disable UAC Temporarily
 
  You may often find that you don’t have enough permissions to perform specific tasks. In such cases, [disabling UAC](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) may do the trick. So, disable it temporarily and see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Run the Program Compatibility Troubleshooter
 
  If you're still encountering the error, try [running the Program Compatibility Troubleshooter](http://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/). This tool scans for compatibility issues with installed programs and solves them automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Files Without a Problem Again on Windows
 
@@ -127,24 +127,18 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-10-best-high-security-androidios-video-calling-tools-available-for-free/"><u>[New] 10 Best High-Security Android/iOS Video Calling Tools Available for Free</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-unlock-words-full-potential-with-easy-speech-to-text-features/"><u>2024 Approved Unlock Word's Full Potential with Easy Speech-to-Text Features</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-motorola-edge-40-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Motorola Edge 40 Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/best-tips-to-resolve-rockstar-games-launcher-problems-as-of-2024/"><u>Best Tips to Resolve Rockstar Games Launcher Problems as of 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/customize-win11-optimal-predefined-window-sizes/"><u>Customize Win11: Optimal Predefined Window Sizes</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-and-dismantling-error-0x80246007-in-w10w11/"><u>Deciphering and Dismantling Error 0X80246007 in W10/W11</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-ui-quality-with-dpi-tuning/"><u>Elevating UI Quality with DPI Tuning</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/guide-facile-pour-configurer-un-formatage-de-cle-usb-en-mode-de-lecture-unique/"><u>Guide Facile Pour Configurer Un Formatage De Clé USB en Mode De Lecture Unique</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-adopt-educational-aesthetics-in-win-11/"><u>How to Adopt Educational Aesthetics in Win 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-15-pro-max-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone 15 Pro Max The Right Way</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-common-rainmeter-issues-on-windows/"><u>How to Fix Common Rainmeter Issues on Windows</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-cineblend-app-seamless-video-mashups-for-instagram/"><u>In 2024, CineBlend App Seamless Video Mashups for Instagram</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mastering-free-translation-top-8-choices-revealed/"><u>Mastering Free Translation Top 8 Choices Revealed</u></a></li>
-<li><a href="https://win11.techidaily.com/recovering-from-frozen-windows-itunes-a-step-by-step-approach/"><u>Recovering From Frozen Windows iTunes: A Step-by-Step Approach</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211322957-9798989482269-threads-of-the-father/"><u>Threads of the Father | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/top-7-strategies-for-successful-folders-management-in-win-11/"><u>Top 7 Strategies for Successful Folders Management in Win 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-ai-visual-effects-system-for-2024/"><u>Ultimate AI Visual Effects System for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-ai-in-windows-11-the-co-pilot-effect/"><u>Understanding AI in Windows 11: The Co-Pilot Effect</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-roblox-error-403-on-windows/"><u>Unraveling Roblox Error 403 on Windows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-directface-vidcutter-utility/"><u>[New] DirectFace VidCutter Utility</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rotecting-privacy-during-youtube-to-mp4-conversion/"><u>[New] Protecting Privacy During YouTube-to-MP4 Conversion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-learn-photoshops-core-techniques-for-shade-adjustment/"><u>2024 Approved Learn Photoshop's Core Techniques for Shade Adjustment</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-windows-error-code-0x80040610-a-detailed-breakdown/"><u>Conquering Windows Error Code 0X80040610: A Detailed Breakdown</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-windows-speech-failure-at-launch-point/"><u>Correcting Windows Speech Failure at Launch Point</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-safari-issues-top-10-solutions-for-your-iphone/"><u>Fixing Safari Issues: Top 10 Solutions for Your iPhone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How to Change Netflix Location to Get More Country Version On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-cpu-management-in-modern-hosts/"><u>Mastering CPU Management in Modern Hosts</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-remedies-to-address-compatibility-issues-on-windows-xp/"><u>Quick Remedies to Address Compatibility Issues on Windows XP.</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-minimum-hardware-requirements-with-intel-error-correction/"><u>Rectifying Minimum Hardware Requirements with Intel Error Correction</u></a></li>
+<li><a href="https://win11.techidaily.com/rewiring-qbittorrent-fixing-the-freeze-problems/"><u>Rewiring qBittorrent: Fixing the Freeze Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secure-your-network-a-detailed-walkthrough-to-modify-anothers-pc-password-in-windows/"><u>Secure Your Network: A Detailed Walkthrough to Modify Another's PC Password in Windows</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/transition-seamlessly-secure-your-data-with-these-3-tips-for-iphone-backup-prior-to-an-upgrade/"><u>Transition Seamlessly: Secure Your Data with These 3 Tips for iPhone Backup Prior to an Upgrade</u></a></li>
 </ul></div>
 

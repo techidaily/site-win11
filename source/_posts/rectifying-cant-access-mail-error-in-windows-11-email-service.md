@@ -1,7 +1,7 @@
 ---
 title: Rectifying Can't Access Mail Error in Windows 11 Email Service
-date: 2024-08-08T13:17:27.333Z
-updated: 2024-08-09T13:17:27.333Z
+date: 2025-02-02T08:01:35.678Z
+updated: 2025-02-04T01:02:16.821Z
 tags:
   - windows10
   - windows11
@@ -24,31 +24,23 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 
  Before making any significant changes to your computer, try logging out and back into the Mail app. This will eliminate any temporary bugs or glitches that may be causing the error.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Log In and Out of Mail, Then Restart the App
 
  To log out of the Mail app, right-click on your account in the left sidebar and choose**Account settings.** Then, select the**Delete account** **from this device** option and click**Delete** in the following window.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Delete account from this device option in the Mail app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-account-from-this-device-option.jpg)
 
  Now, restart the Mail app and click the**Gear icon** at the bottom right corner of the left sidebar. In the Settings window that crops up, choose**Manage accounts** and then**Add account.** Then, enter the credentials to log in with your account.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Add account option in the Mail app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-account.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Check the Date and Time on Windows
 
  As mentioned earlier, incorrect date and time settings can also be a prime reason behind the Mail error. If it's wrong, check out[how to change the date and time on Windows](https://www.makeuseof.com/windows-11-change-date-time/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Allow Mail Through the Windows Firewall
 
@@ -60,18 +52,23 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 
 ![Check for Updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-updates-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Use the Windows Update Troubleshooter
 
  It's common for UWP apps to run into issues. Fortunately, you can quickly get rid of all such issues using the[built-in troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) . To eliminate the Mail app issue, you'll have to use the Windows Store Apps troubleshooter. Here's how to use it:
 
 1. Open the Settings app and go to**System** \>**Troubleshoot** \>**Other troubleshooters** .
 2. Click the**Run** button next to**Windows** **Store Apps** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-run-button.jpg)
 
  Next, go through the troubleshooter and apply all suggestions to fix the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Change the Mail App Privacy Settings
 
@@ -83,12 +80,13 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 ![Email access toggle in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/email-access.jpg)
 4. Click the drop-down icon next to**Let apps access your email** to view its expanded options.
 5. Enable the toggle next to**Mail and Calendar** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![Mail and Calendar toggle in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mail-and-calendar-toggle.jpg)
 
 Now, restart your system and check for the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Repair and Reset the Mail App
 
@@ -96,15 +94,13 @@ Now, restart your system and check for the issue.
 
 1. Open Settings and go to**Apps** \>**Installed apps.**
 2. Click the**three dots** next to**Mail and Calendar** app and choose**Advanced options.**  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Advanced options in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options.jpg)
 3. Click the**Repair** button.  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![Repair option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the repair process is complete, you'll see a checkmark next to the Repair button. Next, restart your system and check for the issue. If it continues, reset the Mail app as a last resort.
 
@@ -113,23 +109,20 @@ Now, restart your system and check for the issue.
 ![Reset option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use the Mail App to Access Your Emails Again on Windows
 
  Accessing emails is an essential aspect of our daily communication, and with the Mail app in Windows 11, you can easily do that. However, you might face the 'System error can't get mail' error while using the Mail app.
 
  Encountering this error can be frustrating as it prevents you from accessing your vital emails. Fortunately, the above solutions can help you troubleshoot the issue quickly.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +131,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cutting-edge-techniques-youtube-trailers-through-filmoras-lens/"><u>[New] 2024 Approved Cutting Edge Techniques YouTube Trailers Through Filmora's Lens</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-efficiently-redistributing-your-creative-works/"><u>[New] In 2024, Efficiently Redistributing Your Creative Works</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unmatched-download-experience-with-our-top-tools-list/"><u>[New] Unmatched Download Experience with Our Top Tools List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-virtual-battles-real-money-gamer-prospects-2024/"><u>[New] Virtual Battles, Real Money Gamer Prospects 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premier-avi-media-player-for-all-platforms/"><u>[Updated] Premier AVi Media Player for All Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/decrypting-the-secure-key-conundrum-a-guide-to-five-fixes-for-windows-users/"><u>Decrypting the Secure Key Conundrum: A Guide to Five Fixes for Windows Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevated-image-tale-crafting-package/"><u>Elevated Image Tale Crafting Package</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-webp-conversion-by-chrome-on-your-computer/"><u>Eliminate WebP Conversion by Chrome on Your Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-advice-on-mastering-your-ipad-10-must-know-settings-and-tricks-for-apple-enthusiasts-featured-by-zdnet/"><u>Expert Advice on Mastering Your iPad: 10 Must-Know Settings and Tricks for Apple Enthusiasts | Featured by ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-blocked-notification-errors-for-your-pc/"><u>Fixing Blocked Notification Errors for Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-erratic-media-playback-on-pcs/"><u>Fixing Erratic Media Playback on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-force-camera-activation-notification-in-windows-11/"><u>How to Force Camera Activation Notification in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-seamlessly-correct-error-code-0x800f0831-through-automatic-windows-patching/"><u>How to Seamlessly Correct Error Code 0X800f08^31 Through Automatic Windows Patching</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-correcting-transfer-problems-with-windows-usb-drives/"><u>Techniques for Correcting Transfer Problems with Windows USB Drives</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-sustainable-wlanextexe-operation/"><u>Techniques for Sustainable WLANEXT.EXE Operation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/standing-intellectual-property-rights-on-video-screen-captures-for-2024/"><u>Understanding Intellectual Property Rights on Video Screen Captures for 2024</u></a></li>
+</ul></div>
 

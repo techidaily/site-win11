@@ -1,7 +1,7 @@
 ---
 title: Bridging Gaps Between Windows & WSL With Post-Update Strategies
-date: 2024-07-29T15:56:02.298Z
-updated: 2024-07-30T15:56:02.298Z
+date: 2025-01-28T08:43:46.669Z
+updated: 2025-02-03T23:48:43.355Z
 tags:
   - windows10
   - windows11
@@ -24,17 +24,15 @@ thumbnail: https://thmb.techidaily.com/3e134df3d1e30ff21305cf90a72d9a508b70a320e
 
  Here are several ways to get the Windows Subsystem for Linux working again after upgrading to Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Check That WSL Is Enabled
 
  It isn't unusual that upgrading to a newer version of the OS will break some apps and features. So although it might sound obvious, checking WSL hasn't simply been disabled during the upgrade process should be your first step. Here's how to check:
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![checking if WSL is enabled in Windows Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wsl-enabled.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. In Windows Search, type**Turn Windows features on or off** and click the search result that should appear at the top.
 2. In the Windows System dialog, scroll down until you see**Windows Subsystem for Linux** .
@@ -59,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/3e134df3d1e30ff21305cf90a72d9a508b70a320e
 4. You will need to restart your computer to complete the installation of these tools.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Repair the Linux Distribution App
 
  Your Linux distribution app, such as Ubuntu, Kali, or Debian, could be corrupted or require updating. This can cause WSL to appear to be broken. Repairing Windows apps is very easy.
@@ -72,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/3e134df3d1e30ff21305cf90a72d9a508b70a320e
 4. Click the**Repair** button and follow the on-screen instructions if repairs are necessary.  
 ![repairing an app in Windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-wsl-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check if WSL is working. If not, try uninstalling and reinstalling the Linux distribution app.
 
 ## 4\. Force WSL to Open Using the Microsoft Store
@@ -80,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/3e134df3d1e30ff21305cf90a72d9a508b70a320e
 
 1. Open the Microsoft Store app and search for**WSL** .
 2. On the store page for WSL, you should see an**Open** button. If the button says**Update** , click it to update the app.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![opening the WSL app in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/force-open-store.jpg)
 3. Click the**Open** button, and the default Linux distro app should launch.
 4. If a command line interface window opens instead, it will probably tell you a required feature is missing. See**Enable Hyper-V and Virtual Machine Platform** above.
@@ -90,8 +90,9 @@ thumbnail: https://thmb.techidaily.com/3e134df3d1e30ff21305cf90a72d9a508b70a320e
  If forcing WSL to open doesn't work, try the same with the Linux distro app you are using. Open the Store, search for your distro, and click the**Open** button.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Uninstall Recent Updates to Fix WSL
 
  If WSL stopped working after installing an update, the update could be the cause. You can uninstall the most recent update to see if that fixes the problem.
@@ -101,13 +102,9 @@ thumbnail: https://thmb.techidaily.com/3e134df3d1e30ff21305cf90a72d9a508b70a320e
  If, after uninstalling the update, WSL still does not work, it is a good idea to reinstall it. Updates can often include security and performance tweaks, so it is generally recommended to keep Windows updated.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Check That Malware Isn't Blocking WSL
 
  The final thing to try to get WSL working is scanning for malware. The potential for malware to prevent Windows Subsystem for Linux from working is low but not unheard of.
@@ -118,14 +115,11 @@ thumbnail: https://thmb.techidaily.com/3e134df3d1e30ff21305cf90a72d9a508b70a320e
 
  Upgrading to Windows 11 usually goes smoothly, but apps and features can occasionally break. If you find that WSL is no longer working after upgrading to the newest Windows OS, don't worry, there is usually an easy fix. You might only need to re-enable the feature in the Windows system settings, but if not, running through the other fixes here will usually solve the problem.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,4 +128,24 @@ thumbnail: https://thmb.techidaily.com/3e134df3d1e30ff21305cf90a72d9a508b70a320e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-color-depth-explored-windows-hdri-for-editors/"><u>[New] Color Depth Explored Windows HDRI for Editors</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/lv-file-symphony-creating-a-single-youtube-playlist-for-2024/"><u>[New] FLV File Symphony Creating a Single YouTube Playlist for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-maximizing-subscribers-youtubes-expansion-blueprint/"><u>[New] In 2024, Maximizing Subscribers YouTube's Expansion Blueprint</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-techniques-in-producing-accelerated-video-narratives/"><u>[Updated] In 2024, Techniques in Producing Accelerated Video Narratives</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-copyrights-demystified-understanding-and-managing-strikes/"><u>[Updated] In 2024, YouTube Copyrights Demystified Understanding and Managing Strikes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-videotwit2mp4-simple-conversion-for-2024/"><u>[Updated] VideoTwit2MP4 Simple Conversion for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/become-an-audio-trailblazer-exclusive-vocal-change-techniques-in-free-fire-free-for-2024/"><u>Become an Audio Trailblazer – Exclusive Vocal Change Techniques in Free Fire (Free) for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/enabling-windows-defender-a-step-by-step-guide-by-yl-computing/"><u>Enabling Windows Defender: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-integrating-audio-tracks-with-avi-files-seamlessly/"><u>Quick Guide: Integrating Audio Tracks with AVI Files Seamlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-transforming-avi-videos-into-gifs-with-speed/"><u>Quick Guide: Transforming AVI Videos Into GIFs with Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-on-effortlessly-transforming-snd-tracks-into-mp3-files/"><u>Quick Tips on Effortlessly Transforming SND Tracks Into MP3 Files</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-conversion-a-step-by-step-guide-to-transferring-dvds-onto-your-iphone-7-or-7-plus/"><u>Seamless Conversion: A Step-by-Step Guide to Transferring DVDs Onto Your iPhone 7 or 7 Plus</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-adding-the-ghost-add-on-to-your-kodi-version-20-and-19-setup/"><u>Step-by-Step Guide: Adding the Ghost Add-On to Your Kodi (Version 20 & 19) Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-videos-into-mov-format/"><u>Step-by-Step Guide: Converting Videos Into MOV Format</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-downloading-karaoke-tracks-from-youtube-without-restrictions/"><u>Step-by-Step Guide: Downloading Karaoke Tracks From YouTube Without Restrictions</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-process-for-clipping-movies-at-15-second-markers-the-ultimate-tutorial/"><u>Step-by-Step Process for Clipping Movies at 15-Second Markers: The Ultimate Tutorial</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-zmi-powerpack-20000-examined-the-perfect-compact-power-device-reviewed/"><u>Top-Rated ZMI PowerPack 20000 Examined: The Perfect Compact Power Device Reviewed</u></a></li>
+</ul></div>
 

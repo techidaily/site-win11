@@ -1,7 +1,7 @@
 ---
 title: "Overcome Key Missteps: A Comprehensive Guide to Rectify Windows Non-Working Shortcuts"
-date: 2025-01-21T17:18:04.864Z
-updated: 2025-01-25T04:19:27.234Z
+date: 2025-02-01T20:46:49.022Z
+updated: 2025-02-03T20:40:52.409Z
 tags:
   - windows10
   - windows11
@@ -25,21 +25,25 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Keyboard Hardware
 
  Let’s start by ensuring that keyboard shortcuts aren’t working because of a hardware problem. Try and use a different keyboard shortcut to make sure it’s not just a [broken key that you should fix](https://www.makeuseof.com/how-to-fix-keyboard-keys/).
 
  If you’ve tried multiple keyboard shortcuts and still had no success, use a different USB port and or connect it to a different computer and check if the problem persists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Turn Off the Keyboard’s Gaming Mode
 
  If you're [using a gaming keyboard](https://www.makeuseof.com/best-tkl-mechanical-keyboards-gaming/), it may automatically disable specific keys, such as the **Windows** key. This way, you can’t accidentally hit a keyboard shortcut while playing.
 
  Launch the keyboard’s app and turn off any mode that could stop keyboard shortcuts from working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update Keyboard Drivers
 
@@ -49,15 +53,7 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 
 ![Update relevant keyboard driver in windows device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-relevant-keyboard-driver-in-windows-device-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’re using a gaming keyboard, head to the manufacturer's website and check if there’s an update available.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run the Keyboard Troubleshooter
 
@@ -69,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 4. Select **Run the troubleshooter** to start the scan.
 
 ![Running keyboard troubleshooter in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/keyboard-troubleshooter-1-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Enable Sticky Keys
 
@@ -87,10 +79,14 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 ![Sticky keys settings in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/sticky-keys-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to turn on or off Sticky Keys using a keyboard shortcut, check the box next to **Allow the shortcut key to start Sticky Keys**. This will allow you to turn it on or off by pressing **Shift** five times.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Turn On Windows 10's Hotkeys
 
@@ -103,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 5. Click **Apply** to save the new settings.
 
 ![Group policy editor in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/group-policy-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reset the Keyboard Settings
 
@@ -134,7 +134,7 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
  If you’re using a third-party app to configure your keyboard, you should take a look at its customization options. Even if you don’t own a gaming keyboard, certain apps such as [Windows' built-in PowerToys](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/), can change your keyboard layout.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make Your Keyboard Shortcuts Work Again
@@ -157,21 +157,16 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-explore-costless-methods-for-superior-photo-quality/"><u>[New] Explore Costless Methods for Superior Photo Quality</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-art-of-audio-in-a-virtual-world-your-ultimate-zoom-recording-tutorial/"><u>[New] In 2024, The Art of Audio in a Virtual World Your Ultimate Zoom Recording Tutorial</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-top-techniques-live-streaming-games-via-obs-for-2024/"><u>[New] Top Techniques Live-Streaming Games via OBS for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-a-fresh-start-with-the-win11-control-panel/"><u>Crafting a Fresh Start with the Win11 Control Panel</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/discount-hunting-for-chinese-made-vr-devices-for-2024/"><u>Discount Hunting for Chinese-Made VR Devices for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/empowering-cortana-in-windows-with-vivetool/"><u>Empowering Cortana in Windows with ViveTool</u></a></li>
-<li><a href="https://win11.techidaily.com/get-inside-windows-credentials-manager-with-win11s-11-strategies/"><u>Get Inside Windows Credentials Manager with Win11's 11 Strategies</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12, Apples New iPhone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/inside-track-on-battling-concurrently-decreased-frame-rates-in-pc-gaming-sessions/"><u>Inside Track on Battling Concurrently Decreased Frame Rates in PC Gaming Sessions</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-windows-10-activity-log-with-ease/"><u>Navigate Windows 10 Activity Log with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pcbigo-live/"><u>PCでBigo Live動画キャプチャーテクニック</u></a></li>
-<li><a href="https://win11.techidaily.com/rectify-keyboard-errors-windows-11s-function-keys/"><u>Rectify: Keyboard Errors - Windows 11'S Function Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-perfect-performance-to-microsoft-outlook/"><u>Restoring Perfect Performance to Microsoft Outlook</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-6-iphone-security-applications-the-ultimate-protection-list/"><u>Top 6 iPhone Security Applications: The Ultimate Protection List</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-common-22h2-windows-errors/"><u>Troubleshooting Common 22H2 Windows Errors</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/turbocharging-your-journey-10-must-have-srt-converters/"><u>Turbocharging Your Journey 10 Must-Have SRT Converters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-get-blessed-gospel-music-as-your-ringtone/"><u>[New] How to Get Blessed Gospel Music as Your Ringtone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-easy-ways-to-screen-record-instagram-story-for-2024/"><u>[Updated] Easy Ways to Screen Record Instagram Story for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-impact-on-employment-what-positions-are-at-risk/"><u>ChatGPT's Impact on Employment: What Positions Are at Risk?</u></a></li>
+<li><a href="https://win11.techidaily.com/curb-the-vibrant-contrast-in-windows-os/"><u>Curb the Vibrant Contrast in Windows OS</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/migliori-programmi-editoria-video-basati-su-intelligenza-artificiale-quelli-che-non-puoi-saltare-nel-2024/"><u>Migliori Programmi Editoria Video Basati Su Intelligenza Artificiale - Quelli Che Non Puoi Saltare Nel 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-tasks-with-bar-tools-in-mspcm-for-w11/"><u>Perfecting Tasks with Bar Tools in MSPCM for W11</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-windows-update-xerror-0x80246007/"><u>Quick Fixes for Windows Update XError 0X80246007</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-to-fix-your-pcs-gpu-issues-on-windows-by-professionals-at-yl-software/"><u>Step-by-Step Guide to Fix Your PC's GPU Issues on Windows by Professionals at YL Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-strategies-to-find-the-right-surge-protector-for-your-appliances/"><u>Step-by-Step Strategies to Find the Right Surge Protector for Your Appliances</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-brightening-your-windows-11-cursor/"><u>Step-by-Step: Brightening Your Windows 11 Cursor</u></a></li>
+<li><a href="https://win11.techidaily.com/the-evolution-of-windows-marching-towards-feb23/"><u>The Evolution of Windows: Marching Towards FEB23</u></a></li>
 </ul></div>
 

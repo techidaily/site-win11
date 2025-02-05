@@ -1,7 +1,7 @@
 ---
 title: How to Capture Audio Seamlessly with Windows 11'S Snipping Tool (Max 156)
-date: 2025-01-22T01:35:10.435Z
-updated: 2025-01-24T23:33:54.261Z
+date: 2025-01-28T02:18:28.544Z
+updated: 2025-02-03T23:31:27.095Z
 tags:
   - windows10
   - windows11
@@ -41,25 +41,17 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 ![Start a new recording in Snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/start-a-new-recording-in-snipping-tool.jpg)
 4. Click and drag the selection tool to highlight the area you want to record. You will notice two new icons in the top bar alongside the timer and Start button; these enable you to control the system audio recording and microphone audio recording.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click on the **microphone** icon. You will have to allow the app to use your PC's microphone for audio recordings.
 6. Then, click on the **Open Microphone privacy settings** option. Click on the **Yes** button to continue.  
 ![Adjust mic settings in Snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/adjust-mic-settings-in-snipping-tool.jpg)
 7. Navigate to the **Let apps and access your microphone** section. Scroll down and find the **Snipping Tool** app in the list.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Click on the toggle to allow the Snipping Tool to access the system’s microphone.  
 ![Grant mic access to Snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/grant-mic-access-to-snipping-tool.jpg)
 9. Close the Settings app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, the Snipping Tool is ready to capture audio. Here’s how to do it:
@@ -71,11 +63,19 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 ![Select mic input in Snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/select-mic-input-in-snipping-tool.jpg)
 5. Click on the **microphone** icon again. Since it is muted by default, click on the **Mute** option to deselect it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click on **Mute System Audio** if you want to mute the system sounds while recording the audio.
 7. Hit the **Start** button to proceed to record the screen and your audio.
 8. Once done, click on the **s** **top recording** icon.
 9. Play the clip to check the recorded session. Press **Ctrl + S** to open the Save window. Enter a name for your video clip and save it to a preferred location on your PC.  
 ![saving recorded video from snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/saving-recorded-video-from-snipping-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change the Audio Capture Settings in the Snipping Tool
 
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 3. If you want to always enable microphone recording, click the toggle next to **Include microphone input by default when a screen recording starts**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. To prevent the system audio capture, disable the toggle next to **Include system audio by default when a screen recording starts**.  
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 5. Close the Snipping Tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is the Audio Recording Feature Any Good?
@@ -118,21 +118,24 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-avoiding-obscured-games-fixes-for-obs-black-screen-issues/"><u>[New] Avoiding Obscured Games Fixes for OBS Black Screen Issues</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-depth-samsung-picture-editor-features-and-proscons-for-2024/"><u>[New] In-Depth Samsung Picture Editor Features and Pros/Cons for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-vct-pro-capture-assessment-full-review/"><u>[New] VCT Pro Capture Assessment Full Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-swift-screen-preserve-audio-accompanying/"><u>[Updated] 2024 Approved Swift Screen Preserve Audio Accompanying</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-explore-androids-best-moba-experiences-in-10/"><u>[Updated] In 2024, Explore Android's Best MOBA Experiences in #10</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ced-presentation-techniques-youtube-in-slides-for-2024/"><u>Advanced Presentation Techniques YouTube in Slides for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-how-lenovos-new-laptops-simplify-iphone-file-transfer-exclusive-feature-inside/"><u>Discover How Lenovo's New Laptops Simplify iPhone File Transfer: Exclusive Feature Inside!</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-block-windows-11-from-collecting-data/"><u>How to Block Windows 11 From Collecting Data</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g34-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G34 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-gear-helmet-cams-the-most-trusted-choice-riders/"><u>In 2024, Top Gear Helmet Cams - The Most Trusted Choice Riders</u></a></li>
-<li><a href="https://win11.techidaily.com/masterful-windows-11-password-management-top-11-easy-steps-unveiled/"><u>Masterful Windows 11 Password Management: Top 11 Easy Steps Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-windows-settings-for-flawless-valorant/"><u>Optimizing Windows Settings for Flawless Valorant</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-obstacles-battlenet-not-opening-issue/"><u>Overcoming Obstacles: Battle.net Not Opening Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-potential-of-a-fresh-windows-update-start/"><u>Unlocking the Potential of a Fresh Windows Update Start</u></a></li>
-<li><a href="https://win11.techidaily.com/what-to-do-if-googles-nearby-share-app-is-not-working-on-windows/"><u>What to Do if Google’s Nearby Share App Is Not Working on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11s-0x800f0922-update-fix-strategies/"><u>Windows 11'S 0X800F0922 Update Fix Strategies</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-top-drone-propellers-selecting-prime-quadcopter-engines/"><u>[Updated] Top Drone Propellers Selecting Prime Quadcopter Engines</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-streamline-your-listening-exclusive-access-to-this-curated-list-of-24-free-rippers/"><u>2024 Approved Streamline Your Listening Exclusive Access to This Curated List of 24 Free Rippers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-vivo-s17t-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Vivo S17t to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-correcting-non-responsive-asana-features-in-windows/"><u>Deciphering and Correcting Non-Responsive Asana Features in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-hardware-reserved-memory-on-windows-platforms/"><u>Dissecting Hardware Reserved Memory on Windows Platforms</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-setup-canon-pro-usb-printer-drivers-on-windows-pcs/"><u>Easy Setup: Canon PRO ^ USB Printer Drivers on Windows PCs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-kodi-streaming-service-windows-media-replacement/"><u>In 2024, Kodi Streaming Service Windows Media Replacement</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-a23-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy A23 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-tips-for-addressing-winscomrsvdll-failures-in-windows-systems/"><u>Masterful Tips for Addressing WinscomrsvDll Failures in Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-1011-for-noticeable-notes/"><u>Mastering Windows 10/11 for Noticeable Notes</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-active-directory-errors-impacting-w11-prints/"><u>Overcoming Active Directory Errors Impacting W11 Prints</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pioneering-sustainability-transforming-metropolitan-environments-for-2024/"><u>Pioneering Sustainability Transforming Metropolitan Environments for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-quality-control-overcoming-common-freezes-in-wwe/"><u>Quick Quality Control: Overcoming Common Freezes in WWE</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-active-workflows-for-office-365outlook-mail/"><u>Reinstating Active Workflows for Office 365/Outlook Mail</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-efficiency-select-windows-software-for-success/"><u>Supercharge Efficiency: Select Windows Software for Success</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/troubleshooting-guide-fixes-for-malfunctioning-graphics-drivers-tips-by-yl-computing/"><u>Troubleshooting Guide: Fixes for Malfunctioning Graphics Drivers - Tips by YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-pc-access-windows-1110-key-retrieval-methods/"><u>Unlocking PC Access: Windows 11/10 Key Retrieval Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mystery-of-0x0000004e-errors/"><u>Unraveling the Mystery of 0X0000004E Errors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Disabling Windows' Not Empty Directive with Error X80070091 Fixes
-date: 2024-08-08T13:17:33.873Z
-updated: 2024-08-09T13:17:33.873Z
+date: 2025-01-31T08:48:49.941Z
+updated: 2025-02-04T01:32:58.928Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 
  The 0x80070091 message suggests that the error occurs because a folder isn’t empty. Yet, you should be able to erase directories that contain files without any issues. Furthermore, that error can also arise for empty folders. If you’re seeing the same folder error 0x80070091 in Windows, try applying these potential fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Try Erasing the Folder With the Command Prompt
 
  The Command Prompt gives users another way to delete folders in Windows 11/10\. So, you might be able to erase an affected folder without issues by using the Command Prompt. Using the Command Prompt might be more of a workaround, but at least you’ll get the folder deleted if works.
@@ -32,14 +36,12 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 
 `rmdir /s "C:\Users\New folder"`
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The delete folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-folder-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Restart Windows File Explorer
 
  Restarting File Explorer can resolve issues that occur with that file manager. However, closing and reopening the Explorer window doesn’t restart the file manager. You’ll need to restart the Explorer process via Task Manager like this:
@@ -49,18 +51,20 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 ![The Restart option for File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restart-options-for-file-explorer.jpg)
 3. Press the**Restart** button for the selected Explorer process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Scan System Files With an SFC Scan
 
  Error 0x80070091 can be caused by some corrupted system files that need repairing. Running an SFC scan might both detect and repair corrupted system files and fix error 0x80070091 in the process. You can scan with SFC as instructed in our post for[running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-scannow-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Check for Errors With a Disk Scan
 
  The 0x80070091 error is often due to corrupted or bad hard drive sectors. A lot of users have said they’ve resolved that issue by using the Check Disk (CHKDSK) utility for repairing bad drive sectors. This is how you can check for and repair bad sectors with Check Disk:
@@ -69,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 2. Type in this Check Disk command and press**Enter:**  
 `chkdsk /f /r C:`
 3. Press**Y** to schedule the scan for a restart.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![The chkdsk scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk-scan-command.jpg)
 4. Click**Start** and select**Power** \>**Restart** to reboot.
 
@@ -82,27 +83,23 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
  Error 0x80070091 can arise because of insufficient folder permission. You might need to set an affected folder to full permission to resolve error 0x80070091\. To do that, change the folder’s permission settings as follows:
 
 1. Open Explorer and right-click the affected folder to select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/properties-option.jpg)
 2. Click the window’s**Security** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Next, press the**Advanced** button.  
 ![The Security tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/security-tab.jpg)
 4. Click**Change** beside the owner’s name.  
 ![The Advanced Security Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/advanced-security-settings-window.jpg)
 5. Enter your Windows user account name inside the object name text box.  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Select a User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/select-a-user-or-group.jpg)
 6. Then select the**Check Names** option and**OK** .
 7. Click**Replace owner on subcontainers and objects** to select that setting.
 8. Press the Advanced Security Settings window’s**Apply** and**OK** buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 6\. Run an Antivirus Scan
 
  Malware could also feasibly be causing error 0x80070091 on your PC. If you’re still trying to fix that issue after going through all the potential fixes above, run an antivirus scan with Windows Security or alternative third-party software. This is how to run a scan with the Windows Security app.
@@ -111,6 +108,11 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 2. Click**Virus & threat protection** \>**Scan options** to view all options for scanning.  
 ![The Scan options navigation link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-scan-options-link.jpg)
 3. Select the most thorough**Full Scan** option, which could take more than an hour to finish.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Full scan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-scan-option.jpg)
 4. Press**Scan now** to start the antivirus scanning.
 5. Then wait to see if the scan detects anything, and select**Remove** if it does.
@@ -126,8 +128,6 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,19 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-the-artists-pathway-journeying-from-hobbyist-to-professional/"><u>[New] The Artist's Pathway Journeying From Hobbyist to Professional</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-cutting-edge-professional-guide-to-youtube-editing/"><u>[Updated] Cutting Edge Professional Guide to YouTube Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-your-images-with-movavis-on-line-tool-fast-free-from-tga-to-gif/"><u>Convert Your Images with Movavi's On-Line Tool - Fast, Free, From TGA to GIF</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-show-internet-speed-using-desktop-widgets/"><u>Efficiently Show Internet Speed Using Desktop Widgets</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-nokia-130-music-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nokia 130 Music Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/fixing-distorted-video-output-from-handbrake-dvd-conversion-tips-and-tricks/"><u>Fixing Distorted Video Output From Handbrake DVD Conversion: Tips & Tricks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-setup-of-asus-touchpad-drivers-in-minutes-for-windows-10-users/"><u>Hassle-Free Setup of ASUS Touchpad Drivers in Minutes for Windows 10 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-install-websites-as-desktop-apps-on-windows/"><u>How to Install Websites as Desktop Apps on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-efficiency-essential-windows-apps-for-peak-performance/"><u>Maximize Efficiency: Essential Windows Apps for Peak Performance</u></a></li>
+<li><a href="https://solve-help.techidaily.com/mp4-windows-10vob/"><u>MP4に変換: Windows 10用VOBファイルを変換するためのベストソフトウェアと詳細手順解説</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-your-way-through-credential-manager/"><u>Unlock Your Way Through Credential Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windows-11s-backup-functionality-details/"><u>Unveiling Windows 11'S Backup Functionality Details</u></a></li>
+</ul></div>
 

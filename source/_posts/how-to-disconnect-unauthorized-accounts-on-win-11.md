@@ -1,7 +1,7 @@
 ---
 title: How to Disconnect Unauthorized Accounts on Win 11
-date: 2025-01-18T22:07:40.506Z
-updated: 2025-01-25T08:05:54.956Z
+date: 2025-01-31T01:57:35.196Z
+updated: 2025-02-04T09:07:13.240Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -49,12 +53,16 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 ![Winx Menu Task Manager Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/winx-menu-task-manager-windows-11.png)
 3. In the **Users** tab, locate the account you want to sign off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click on the user account and select **Sign off**.  
 ![Users Tab in Task Manager with Logoff Option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/users-tab-in-task-manager-with-logoff-option-in-windows-11.jpg)
 5. Click **Sign out user**. Windows will close all the open apps and running processes and then log out the user.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Sign Out Other Users Using the Command Prompt
@@ -71,14 +79,14 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 ![Command Prompt With Query Session Command Running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/command-prompt-with-query-session-command-running-on-windows-11.jpeg)
 5. Type the following command to sign out the specified user. Replace **2** below with the user account ID you want to sign out:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `Logoff 3`
 6. Upon successful execution, Windows will sign out the specified user account.  
 ![Command Prompt With Logoff Command Running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/command-prompt-with-logoff-command-running-on-windows-11.jpg)
 7. Once done, type **exit** and press Enter to close the Command Prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Log Off Other Users Using Process Explorer
 
@@ -90,28 +98,20 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 ![Download Process Explorer Web Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/download-process-explorer-web-page.jpg)
 2. Right-click on the **ProcessExplorer.zip** archive, and select **Extract All**. Select a location and extract the folder.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Process Explorer Exe File Run as Administrator Option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-exe-file-run-as-administrator-option-in-windows-11.jpg)
 3. Open the **ProcessExplorer** folder, right-click on **procexp64.exe**, and select **Run as administrator**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Process Explorer App User Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-option-selected-in-windows-11.jpg)
 4. In the **Process Explorer** window, click **Users** to view all the active user sessions.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Process Explorer App User Account Logoff Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-account-logoff-option-selected-in-windows-11.jpg)
 5. Hover your cursor over the user account name and select **Logoff**.
 
  Process Explorer will sign out the selected user account from your computer. If you get an [access denied error](https://www.makeuseof.com/windows-11-fix-access-denied-error/), run the procexp64.exe executable with administrator privileges and try again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Ask Other Users Before You Sign Them Out
 
@@ -127,17 +127,24 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-essential-vids-summary-uncovered-for-2024/"><u>[New] Essential Vids Summary Uncovered for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-effortless-image-quest-at-pexels/"><u>[New] In 2024, Effortless Image Quest at Pexels</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-the-easy-route-to-capturing-every-gameplay-moment-for-2024/"><u>[New] The Easy Route to Capturing Every Gameplay Moment for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-step-by-step-guide-to-optimize-your-instagram-posts-using-hashtags/"><u>[Updated] 2024 Approved Step-by-Step Guide to Optimize Your Instagram Posts Using Hashtags</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-art-of-video-presentation-in-adobe-captivate/"><u>[Updated] In 2024, The Art of Video Presentation in Adobe Captivate</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-the-mechanics-of-zoom-techniques-for-top-notch-podcast-recordings/"><u>2024 Approved Mastering the Mechanics of Zoom Techniques for Top-Notch Podcast Recordings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-proficiency-in-generating-secure-and-beneficial-workout-routines-is-it-up-to-par/"><u>ChatGPT's Proficiency in Generating Secure & Beneficial Workout Routines – Is It Up to Par?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/check-your-pc-specs-vanguards-essential-hardware-needs-clarified/"><u>Check Your PC Specs - Vanguard's Essential Hardware Needs Clarified</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-improve-fps-and-reduce-lag-in-roblox-windows-edition/"><u>Strategies to Improve FPS & Reduce Lag in Roblox Windows Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-call-journals-on-windows-pcs/"><u>Streamlining Call Journals on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/top-5-gripes-windows-11-user-experience/"><u>Top 5 Gripes: Windows 11 User Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-screen-grabs-snip-tool-versus-print-screen-efficacy/"><u>Windows Screen Grabs: Snip Tool Versus Print Screen Efficacy</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-revolutionizing-remote-work-selecting-the-best-live-streamers/"><u>[Updated] In 2024, Revolutionizing Remote Work Selecting the Best Live Streamers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-illuminate-focus-leading-lines-in-iphone-composition/"><u>2024 Approved Illuminate Focus Leading Lines in iPhone Composition</u></a></li>
+<li><a href="https://os-tips.techidaily.com/breathing-fresh-life-into-your-vintage-iphone-ultimate-guide-for-a-newer-experience/"><u>Breathing Fresh Life Into Your Vintage iPhone - Ultimate Guide for a Newer Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/creating-a-consistent-note-taking-space-in-windows-11/"><u>Creating a Consistent Note-Taking Space in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhancing-system-performance-by-troubleshooting-devices-dm/"><u>Enhancing System Performance by Troubleshooting Devices (DM)</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/essential-techniques-resolving-windows-10-glitches-and-optimizing-system-functionality/"><u>Essential Techniques: Resolving Windows 10 Glitches and Optimizing System Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-refine-user-access-in-windows-environment/"><u>Guidelines to Refine User Access in Windows Environment</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-11-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 11 Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-g54-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola G54 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-art-of-amplifying-audience-engagement-on-igtv/"><u>In 2024, The Art of Amplifying Audience Engagement on IGTV</u></a></li>
+<li><a href="https://win11.techidaily.com/network-fixation-six-easy-ways-to-get-windows-network-hardware-working-again/"><u>Network Fixation: Six Easy Ways to Get Windows Network Hardware Working Again</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-motorola-moto-g04-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Motorola Moto G04 has been deleted</u></a></li>
+<li><a href="https://win11.techidaily.com/restore-the-lost-search-feature-in-windows-11s-tm-environment/"><u>Restore the Lost Search Feature in Windows 11'S TM Environment</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ess-offline-experience-best-playlist-downloader-tools-reviewed/"><u>Seamless Offline Experience Best Playlist Downloader Tools Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/sleuthing-out-stealthy-cyber-menaces-on-pcs/"><u>Sleuthing Out Stealthy Cyber Menaces on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-wi-fi-connectivity-issues-in-winmc-minecraft/"><u>Tackling Wi-Fi Connectivity Issues in WinMC Minecraft</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-the-mechanism-of-winos-gpu-ordering-suspension/"><u>Understanding the Mechanism of WinOS GPU Ordering Suspension</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-best-weather-app-picks-compiled/"><u>Window's Best Weather App Picks, Compiled</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-choices-top-windows-tools-for-video-conversion/"><u>Winning Choices: Top Windows Tools For Video Conversion</u></a></li>
 </ul></div>
 

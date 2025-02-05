@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the Hurdles: Fixing Spotify Errors on Win11"
-date: 2024-08-08T13:17:46.085Z
-updated: 2024-08-09T13:17:46.085Z
+date: 2025-01-28T17:44:22.324Z
+updated: 2025-02-04T04:52:45.026Z
 tags:
   - windows10
   - windows11
@@ -20,17 +20,26 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
 
  Users who need to fix error code 4 can’t utilize the Spotify app online. That means things like radio and streaming don’t work. This is how you can fix Spotify error code 4 on a Windows 10 or 11 PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Flush DNS Command
 
 ![The flushdns command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/flushdns-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One confirmed solution for error code 4 is to flush the DNS cache. The DNS (Domain Name System) cache is a local storage repository of IP addresses on your PC. Your web browser retrieves DNS lookup data from that cache.
 
  Clearing the DNS cache will flush out and refresh its data. You can clear the DNS cache by running a flush DNS command in Command Prompt or Run. Check out our guide about[how to flush the DNS](https://www.makeuseof.com/flush-dns-cache-windows-11/) on Windows for further details about how to apply this solution.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Select the HTTP Option in Spotify
 
  Spotify includes alternative proxy settings you can select to configure how that app connects with the Internet. Changing the proxy option to**HTTP** can reputedly resolve error code 4\. You can select the**HTTP** option in Spotify as follows:
@@ -44,22 +53,17 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
 5. Then select**Restart App** to apply.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Change DNS Server Settings
 
  Error code 4 often occurs because Spotify can’t recognize your PC’s default DNS server set by your ISP. In such a scenario, the app can’t load required online resources correctly, resulting in error 4\. Many users have addressed that issue by changing their PCs’ DNS server to the universally recognized Google DNS.
 
  Our guide to[changing the DNS server in Windows](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) post includes step-by-step guidelines for how to apply this solution via the Control Panel and Settings among other methods. You’ll need to set the preferred and alternative DNS server settings to Google addresses. Input**8.8.8.8** for the preferred DNS server and**8.8.4.4** for the alternative DNS setting.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![DNS server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dns-server-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Tweak the Registry
 
  Some Spotify users have confirmed tweaking a DWORD value in the registry resolved error 4 for them. Those users changed the EnableActiveProbing DWORD’s value, which was set to 0 (disabled) on their PCs. These are the steps for fixing error code 4 by editing the registry:
@@ -71,16 +75,14 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
 5. Go to the Internet key by inputting the following path:  
 `Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet`
 6. Then right-click the**EnableActiveProbing** DWORD and select**Modify** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/modify-option.jpg)
 7. If**EnableActiveProbing** is set to**0** , clear the**Value data** box. Then input**1** inside that data box.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Edit DWORD window for the EnableActiveProbing DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-dword-window.jpg)
 8. Select**OK** to save the new**EnableActiveProbing** value.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Exclude Spotify From Your Antivirus Software
 
@@ -91,8 +93,9 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
  Our article about[setting Windows Security exclusions](https://www.makeuseof.com/windows-11-security-exclusions/) includes instructions for adding software to that app’s exception list. If you’re utilizing a third-party antivirus tool, look for an exclusion list within its settings tab. The antivirus software’s website will also likely include guidelines for how to use its exclusion list.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Turn Off the Windows Defender Firewall
 
  Windows Defender Firewall is a component of Windows Security for filtering network traffic. Turning that firewall off could resolve error 4 if Spotify isn’t allowed through it. You can turn off WDF as outlined in our guide to[disabling the Windows Defender firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) .
@@ -101,10 +104,11 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
 
  Should this solution work, it’s not a good idea to keep the firewall disabled. Open Windows Defender Firewall’s allowed app list and select the Spotify checkboxes there to permit that app through it. Check out our how to guide about[allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for further details.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![The firewall's allowed apps settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allowed-app-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Of course, numerous standalone third-party firewalls can block Spotify much the same. If you have installed a third-party firewall, try disabling it to see if that resolves error 4\. Then add Spotify to its allowed apps and turn the firewall back on if it does.
 
@@ -119,9 +123,6 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
 4. If you’ve installed the desktop Spotify app, Programs and Features will open from which you can select the software and click**Uninstall** . Users who’ve installed the UWP Spotify app can select**Uninstall** on a confirmation prompt.
 5. Then open the[Spotify Windows](https://www.spotify.com/us/download/windows/) download page.
 6. Click**Download** to get the installer for the desktop Spotify app.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![The Download Spotify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-option.jpg)
 7. Open the Explorer file manager along with the folder in which Spotify downloaded.
 8. Double-click the**SpotifySetup.exe** file to bring up the setup wizard and install Spotify.
@@ -138,8 +139,6 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +146,20 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-captivating-concepts-explore-14-innovative-text-movements/"><u>[Updated] 2024 Approved Captivating Concepts Explore 14 Innovative Text Movements</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-innovatively-deploy-music-stickers-on-instafeatures/"><u>[Updated] In 2024, How to Innovatively Deploy Music Stickers on InstaFeatures</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-approaches-to-modify-user-numbers-in-tiktok/"><u>[Updated] Innovative Approaches to Modify User Numbers in TikTok</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-public-assessment-of-vllo-functionality/"><u>2024 Approved Public Assessment of VLLO Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/frozen-ground-ripped-apart-from-prey-to-predator-unleashed/"><u>Frozen Ground Ripped Apart: From Prey to Predator Unleashed</u></a></li>
+<li><a href="https://win11.techidaily.com/key-factors-ahead-your-checklist-before-buying-a-notebook-windows/"><u>Key Factors Ahead: Your Checklist Before Buying a Notebook Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/must-have-tech-for-clear-streamed-content-for-2024/"><u>Must-Have Tech for Clear Streamed Content for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/save-smart-establish-a-weekly-windows-backup-routine/"><u>Save Smart: Establish a Weekly Windows Backup Routine</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-earning-trajectory-of-youtube-star-pewdopeep/"><u>The Earning Trajectory of YouTube Star PewDoPeep</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-fix-typing-incorrect-characters-on-your-keyboard/"><u>Troubleshooting: How to Fix Typing Incorrect Characters on Your Keyboard</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/uncovering-notable-versions-within-microsofts-movie-maker-for-2024/"><u>Uncovering Notable Versions Within Microsoft's Movie Maker for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/utilizing-gpresult-for-in-depth-gpo-evaluation/"><u>Utilizing GPResult for In-Depth GPO Evaluation</u></a></li>
+<li><a href="https://win11.techidaily.com/winstore-issue-correcting-error-code-0x80073d26/"><u>WinStore Issue: Correcting Error Code 0X80073D26</u></a></li>
+</ul></div>
 

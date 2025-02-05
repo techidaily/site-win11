@@ -1,7 +1,7 @@
 ---
 title: Disabling Personalized Game Recommendations on W11
-date: 2024-08-08T13:19:01.220Z
-updated: 2024-08-09T13:19:01.220Z
+date: 2025-01-27T23:43:30.059Z
+updated: 2025-02-04T06:50:47.058Z
 tags:
   - windows10
   - windows11
@@ -21,14 +21,16 @@ thumbnail: https://thmb.techidaily.com/ae200a2185b5d6e93408c97ace7b66b8254fa8676
  Let's look at how we can disable the "games for you" recommendation on Windows 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Do I See a "Games for You" Recommendation?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![screenshot of the windows search menu with games for you recommended](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_of_games_for_you_search.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Anything that appears in a search that isn't related to what you're searching for is because of a feature called Search Highlights. This includes trending news, trending videos, and trending searches.
 
@@ -36,23 +38,8 @@ thumbnail: https://thmb.techidaily.com/ae200a2185b5d6e93408c97ace7b66b8254fa8676
 
  Luckily, there's a way to disable this feature.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## How to Toggle Off Search Highlights and Remove the "Games for You" Recommendations
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of searching for search highlights in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_of_search_highlights_in_windows_11_start_menu.jpg)
 
  Turning this feature off is straightforward. Open up your start menu, search for **Search Highlights**, and click on the result.
@@ -62,11 +49,16 @@ thumbnail: https://thmb.techidaily.com/ae200a2185b5d6e93408c97ace7b66b8254fa8676
  Restart your system, and the Games for You section will be gone.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Will Doing This Turn Off Other Ads?
 
 ![screenshot of the search menu with no highlights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_of_search_menu_no_highlights.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Yes. Switching off this feature will disable all the search highlights mentioned before. You won't be suggested videos or shown trending news articles.
 
@@ -75,15 +67,14 @@ thumbnail: https://thmb.techidaily.com/ae200a2185b5d6e93408c97ace7b66b8254fa8676
  Unfortunately, there's no way to disable individual sections. Search Highlights is an all-in-one package.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Remove Redundant Information on Windows
 
  For users who want less clutter on their screen, it's great that we're able to quickly turn search highlights off. For users who appreciate search highlights, but might not care for games, it's disappointing that it's an all-or-nothing setting. Hopefully, Microsoft will make this feature more modular in the future.
 
  Let's look at how we can disable the "games for you" recommendation on Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -91,3 +82,25 @@ thumbnail: https://thmb.techidaily.com/ae200a2185b5d6e93408c97ace7b66b8254fa8676
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-mirthful-melodies-where-to-find-hilarious-tunes/"><u>[New] Mirthful Melodies Where to Find Hilarious Tunes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-essential-history-vids-student-edition-of-top-10-lists/"><u>[Updated] In 2024, Essential History Vids Student Edition of Top 10 Lists</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-stepwise-steps-to-install-windows-movie-maker-6/"><u>[Updated] Stepwise Steps to Install Windows Movie Maker 6</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-elevate-your-conversations-pro-level-whatsapp-tips/"><u>2024 Approved Elevate Your Conversations Pro-Level WhatsApp Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-unable-to-open-issue-on-ges-sharing-feature/"><u>Correcting Unable to Open Issue on GE's Sharing Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-efficiency-with-near-power-button-shortcuts-on-windows-11/"><u>Enhance Efficiency with Near-Power Button Shortcuts on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-must-have-components-warning-on-windows-1011/"><u>Eradicating Must-Have Components Warning on Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/error-x-demystified-correcting-the-0x80072746-mail-flaw/"><u>Error X Demystified: Correcting the 0X80072746 Mail Flaw</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/how-does-chromecast-with-google-tv-stack-up-against-amazon-firetv-a-detailed-review/"><u>How Does Chromecast with Google TV Stack Up Against Amazon FireTV? A Detailed Review</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-asus-rog-phone-8-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Asus ROG Phone 8 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-mastering-youtube-videos-without-spending-a-dime-with-the-8-best-tools/"><u>In 2024, Mastering YouTube Videos Without Spending A Dime - With the 8 Best Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/navigating-the-world-of-public-domain-photography-the-pexels-experience-for-2024/"><u>Navigating the World of Public Domain Photography The Pexels Experience for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-steamuidll-not-found-complication/"><u>Overcoming Steamui.dll Not Found Complication</u></a></li>
+<li><a href="https://win11.techidaily.com/recover-unseen-window-extra-monitor/"><u>Recover Unseen Window Extra Monitor</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-steam-cloud-issues-in-win-10/"><u>Resolving Steam Cloud Issues in Win 10</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-frozen-epic-game-launcher-instances/"><u>Troubleshooting Frozen Epic Game Launcher Instances</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/whispers-from-the-past-secrets-unveiled-in-age-old-texts-for-2024/"><u>Whispers From the Past Secrets Unveiled in Age-Old Texts for 2024</u></a></li>
+</ul></div>
+

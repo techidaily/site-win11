@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Responsive Email Alerts in Windows
-date: 2024-08-08T13:17:12.560Z
-updated: 2024-08-09T13:17:12.560Z
+date: 2025-01-31T00:22:58.107Z
+updated: 2025-02-03T20:06:41.463Z
 tags:
   - windows10
   - windows11
@@ -21,13 +21,9 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
  Fortunately, there are several ways to fix this problem. So, let's get started and discover the various ways for fixing Outlook's notifications on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Disable Offline Mode in Outlook
 
  First, you should get the most obvious fix out of the way. If you have inadvertently enabled the Work Offline feature, Outlook will stop receiving any new emails from the servers. It's one of the first few things you should check for if[Outlook isn't receiving any emails](https://www.makeuseof.com/fix-outlook-wont-receive-emails/) or showing notifications.
@@ -37,6 +33,10 @@ You can fix this by disabling offline mode in Outlook:
 1. Open Outlook and switch to the**Send / Receive** tab.
 2. Click the option that says**Work Offline** to disable it.  
 ![Send / Receive Tab in Outlook App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disable-Work-Offline-in-Outlook-App-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check Outlook's In-App Notification Settings
 
@@ -48,10 +48,11 @@ Follow these steps to check Outlook’s notification settings:
 2. Select**Options** from the left pane.
 3. In the**Outlook Options** window, select**Mail** from the left sidebar.
 4. Under the**Message arrival** section, enable desktop and sound alerts by checking the corresponding boxes. Then, hit**OK** to save changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Mail tab in Outlook Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Outlook-In-App-Notification-Settings-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you complete the above steps, you should start receiving Outlook notifications on Windows.
 
@@ -65,11 +66,16 @@ Follow these steps to check Outlook’s notification settings:
 4. Enable**Notifications** toggle for Outlook. Then, check the boxes that read**Show notification banners** and**Show notifications in notification center** .  
 ![Enable Notifications in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-notifications-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Optionally, you can also enable sound alerts for Outlook notifications from the same menu.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Turn Off Do Not Disturb
 
  Do Not Disturb is a useful feature in Windows that allows you to work in a distraction-free environment. When enabled, this feature silences notifications for all apps unless specified otherwise. To avoid any confusion, it's best to disable Do Not Disturb in Windows.
@@ -101,9 +107,6 @@ Here's how you can access Outlook's rules:
 3. Under**Email Rules** , you'll see all the rules that you've created for your emails. Find and disable any rule that may be interfering with Outlook notifications. Then, hit**Apply** followed by**OK** .  
 ![Manage Outlook Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/manage-outlook-rules.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## 7\. Clear the Outlook Cache
 
  Outlook, like most apps, saves cache files on your computer to improve performance and reduce loading times. However, once this cache gets old or corrupted, it hurts more than it helps. Thankfully, you can get rid of the Outlook cache data fairly easily.
@@ -113,33 +116,20 @@ Follow these steps to delete Outlook's cache data on Windows:
 1. Press the**Win + R** keys to open the Run dialog.
 2. Type**%localappdata%\\Microsoft\\Outlook** in the Open field and press**Enter** .
 3. In the**RoamCache** folder that appears,[select all the files](https://www.makeuseof.com/windows-11-file-explorer-select-all-files/) and click the trash icon at the top to delete them.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![RoamCache Folder in File Explorer Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Delete-Outlook-Cache-Data-1.jpg)
 
  Restart Outlook after this and check if the notifications are working now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 8\. Update the Outlook App
 
  Using an outdated version of the Outlook app can result in a variety of problems, including the one discussed here. You can try updating the Outlook app to the most recent version to see if that helps. Here's how you can go about it.
 
 1. Open Outlook on your PC and head over to**File > Office Account** .
 2. In the pane on the right, select**Update Options > Update Now** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![Update Outlook App in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-outlook-app-in-windows.jpg)
 
  Wait for Outlook to find and install the latest updates on your computer. Once updated, check if the notifications are working now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Repair Your Email Account
 
  If Outlook is failing to display notifications only for a specific email account, you can try repairing it. Here are the steps for the same.
@@ -149,9 +139,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Click the**Account Settings** drop-down menu and select**Account Settings** .
 4. Select the problematic account and click the**Repair** option.
 5. Click**Repair** to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Repair Outlook Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-outlook-account.jpg)
 
 ## 10\. Repair the Microsoft Office Suite
@@ -162,12 +149,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Go to**Programs and Features** .
 3. Locate and select Microsoft Office on the list. Then, click the**Change** button at the top.
 4. Select**Quick Repair** and then click**Repair** .  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Repair Microsoft Office Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Repair-Microsoft-Office.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the process to finish and check if notifications are working. If the problem persists, repeat the above steps to perform an**Online Repair** . As the name implies, the process does necessitate an active internet connection. So, make sure your PC is connected to the internet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Never Miss an Outlook Notification Again
 
@@ -175,14 +167,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  However, if nothing works, you can consider switching to Microsoft's Mail app for Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -191,4 +180,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ank-8-real-world-video-promoters-for-success/"><u>[New] Rank 8 Real-World Video Promoters for Success</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-chart-success-using-youtube-statistics-to-grow-engagement-for-2024/"><u>[Updated] Chart Success Using YouTube Statistics to Grow Engagement for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-harmonizing-your-spotify-queue-with-youtube-music-catalogs-for-2024/"><u>[Updated] Harmonizing Your Spotify Queue with YouTube Music Catalogs for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oppo-a78-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Oppo A78 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a79-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Oppo A79 5G Phone without Google Account?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-innovating-your-viewing-experience-android-and-vr-videos/"><u>In 2024, Innovating Your Viewing Experience Android & VR Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-nacon-revolution-x-controller-a-comprehensive-guide-for-gamers-2022-edition/"><u>In-Depth Analysis of the Nacon Revolution X Controller: A Comprehensive Guide for Gamers - 2022 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-multitasking-with-a-simple-90-degree-rotation-trick/"><u>Innovative Multitasking with a Simple 90-Degree Rotation Trick</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-bypassing-frozen-screen-lol/"><u>Strategies for Bypassing Frozen Screen LOL</u></a></li>
+<li><a href="https://win11.techidaily.com/taskbar-transformation-in-windows-history-1985-2023/"><u>Taskbar Transformation in Windows History (1985-2023)</u></a></li>
+<li><a href="https://win11.techidaily.com/the-secret-of-secure-windows-design-and-implement-personal-patterns/"><u>The Secret of Secure Windows: Design and Implement Personal Patterns</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-know-how-pinpointing-exact-ram-type/"><u>Windows Know-How: Pinpointing Exact RAM Type</u></a></li>
+</ul></div>
 

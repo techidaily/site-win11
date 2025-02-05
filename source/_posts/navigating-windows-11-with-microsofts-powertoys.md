@@ -1,7 +1,7 @@
 ---
 title: Navigating Windows 11 with Microsoft's PowerToys
-date: 2025-01-18T19:33:50.181Z
-updated: 2025-01-25T02:34:43.581Z
+date: 2025-02-02T22:56:37.834Z
+updated: 2025-02-03T16:46:23.273Z
 tags:
   - windows10
   - windows11
@@ -38,13 +38,13 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 ![Installing PowerToys Through Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/installing-powertoys-through-microsoft-store.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once installation is complete, open the Microsoft PowerToys app from the Start menu. All features are ready to use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Install Microsoft PowerToys From the GitHub Page
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 3. Now look for a file that is named something like **PowerToysSetup-0.##.#-x64.exe**. Here, the **#** represents the version number. Click on this file to start the download. After that, navigate to your downloads folder and double-click on it. This will start the installation process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. A window might pop up asking for permission to change your device. Click **Yes** to continue. The setup wizard will then open. Here, follow the installation prompts. Typically, you just need to click **Next** a few times and then **Install**.
@@ -82,13 +82,13 @@ winget install --id Microsoft.PowerToys
 5. Now hit Enter to execute the command. This will download and install Microsoft PowerToys.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The process might take a few minutes, so be patient. Once it's finished, you'll find Microsoft PowerToys in your Start Menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Download Microsoft PowerToys Easily on Windows
@@ -109,20 +109,21 @@ winget install --id Microsoft.PowerToys
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-sky-cameras-battle-dji-pro-versus-gopro-fury/"><u>[Updated] Sky Cameras Battle DJI Pro Versus GoPro Fury</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-iphone-se-2020-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the iPhone SE (2020) iCloud Lock</u></a></li>
-<li><a href="https://video-capture.techidaily.com/discover-every-aspect-of-io-visual-logging-for-2024/"><u>Discover Every Aspect of IO Visual Logging for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/easily-arrange-spreadsheet-cells-based-on-shade-with-excels-color-feature/"><u>Easily Arrange Spreadsheet Cells Based on Shade with Excel's Color Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/excel-tips-and-tricks-effectively-displaying-data-with-icon-sets-for-clarity-and-impact/"><u>Excel Tips & Tricks: Effectively Displaying Data with Icon Sets for Clarity and Impact</u></a></li>
-<li><a href="https://win11.techidaily.com/excel-tricks-writing-your-own-function-to-count-business-days/"><u>Excel Tricks: Writing Your Own Function to Count Business Days</u></a></li>
-<li><a href="https://win11.techidaily.com/excel-the-perfect-alternative-for-non-wearable-tech-enthusiasts-to-monitor-their-wellness/"><u>Excel: The Perfect Alternative for Non-Wearable Tech Enthusiasts to Monitor Their Wellness</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-for-cleaning-up-smart-tags-in-your-excel-spreadsheets/"><u>Expert Tips for Cleaning Up Smart Tags in Your Excel Spreadsheets</u></a></li>
-<li><a href="https://video-capture.techidaily.com/framemaker-hd-recorder-tips-for-2024/"><u>FrameMaker HD Recorder Tips for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/genuine-deal-alert-claim-your-50-savings-on-microsoft/"><u>Genuine Deal Alert: Claim Your 50% Savings on Microsoft</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-highlighting-incorrect-values-using-circular-boundaries-in-excel-spreadsheets/"><u>Guide to Highlighting Incorrect Values Using Circular Boundaries in Excel Spreadsheets</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-y200e-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo Y200e 5G</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-economical-cloud-options/"><u>In 2024, The Ultimate Guide to Economical Cloud Options</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ipad-pro-vs-macbook-pro-a-comprehensive-feature-analysis/"><u>IPad Pro vs MacBook Pro: A Comprehensive Feature Analysis</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/rclass-in-time-the-top-10-youtube-channels-for-history-students/"><u>Masterclass in Time The Top 10 YouTube Channels For History Students</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-active-screen-capture-pro-does-it-reign-supreme/"><u>[New] 2024 Approved Active Screen Capture Pro Does It Reign Supreme?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-exclusive-twitter-gif-compiler-for-avid-scribes/"><u>[New] Exclusive Twitter GIF Compiler for Avid Scribes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-optimizing-audio-quality-during-video-calls-on-win11/"><u>[Updated] Optimizing Audio Quality During Video Calls on Win11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-optimal-viewing-solution-projector-or-tv-for-top-4k-quality/"><u>2024 Approved Optimal Viewing Solution Projector or TV for Top 4K Quality</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ive-gaming-techniques-by-pros/"><u>Adaptive Gaming Techniques by Pros</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-your-display-rgb-in-win11/"><u>Customizing Your Display: RGB in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-hidden-menus-finding-missing-configurations-in-win11/"><u>Discover Hidden Menus: Finding Missing Configurations in Win11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-setting-up-your-camera-drivers-for-all-windows-versions/"><u>Easy Guide to Downloading and Setting Up Your Camera Drivers for All Windows Versions</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-learning-experience-winning-strategies-for-effective-windows-studying/"><u>Elevate Learning Experience: Winning Strategies for Effective Windows Studying</u></a></li>
+<li><a href="https://win11.techidaily.com/epic-launcher-stability-guide-for-windows/"><u>Epic Launcher Stability Guide for Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/insufficient-disk-space-resolving-not-enough-storage-errors/"><u>Insufficient Disk Space: Resolving 'Not Enough Storage' Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/tricks-to-turbocharge-your-epic-launcher-speed/"><u>Tricks to Turbocharge Your Epic Launcher Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-stuck-display-brightness-fn-key-in-windows-11/"><u>Unblocking Stuck Display Brightness Fn Key in Windows 11</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-demystifying-ai-game-generators/"><u>Updated Demystifying AI Game Generators</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-taskmgr-incorporating-command-prompt-toolbar/"><u>Windows 11 TaskMgr: Incorporating Command Prompt Toolbar</u></a></li>
 </ul></div>
 

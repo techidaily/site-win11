@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Disk Identities (C vs D): A Review"
-date: 2024-08-08T13:18:42.129Z
-updated: 2024-08-09T13:18:42.129Z
+date: 2025-01-30T05:52:47.914Z
+updated: 2025-02-03T21:06:35.387Z
 tags:
   - windows10
   - windows11
@@ -21,18 +21,20 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
  Let's compare both drives to see if their differences change your storage preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Local Drive C?
 
  First, a local disk or [local drive is a hardware storage device](https://www.makeuseof.com/what-is-local-drive/) installed directly within your computer to enable you to store and retrieve data easily. Unlike external storage devices that you have to mount to access data, or cloud storage that requires an internet connection, local drives live inside your computer.
 
  Computers come with a local disk (more commonly known as a [hard disk drive or solid-state drive](https://www.makeuseof.com/choose-ssd-or-hdd-storage/)) installed. If the pre-installed hard drive size is insufficient, you can purchase other storage devices, like USB drives, CD-ROMs, and memory cards to use with your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![CD, hard drive, flash drive, and floppy disk on a wooden surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/external-storage-devices.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, your Windows computer assigns alphabets to enable you to access these drives. It’ll also assign alphabets to partitions—defined areas with a determined size on a drive. For example, if your computer has a 500GB hard disk drive (HDD) or solid-state drive (SSD), you might have two partitions with 250GB each.
 
@@ -43,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 ![A screenshot showing Windows (C:) in the File Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/drive-c.jpg)
 
  The C drive is typically denoted as **(C:)**, **Windows (C:)**, or **Local Disk (C:)**. You can access your local disk C: by clicking **My Computer** (on older Windows versions) or **This PC** (on newer Windows versions) in File Explorer. To open File Explorer on your computer, press the **Windows key + E.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Characteristics of the C: Drive
 
@@ -58,13 +64,11 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
  Remember that the letter C in itself doesn't mean anything. However, it's typically assigned as an identifier for the local drive containing your Windows OS.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Local Drive D?
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![USB stick, disc, and SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/recover-sd-card-data.jpg)
 
 Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/image-photo/sd-card-flash-drive-usb30-cd-1337495969)
@@ -80,8 +84,9 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 ![A screenshot showing Windows (C:) and a USB Drive (D:) in the File Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/drive-d-and-c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Characteristics of the D: Drive
 
  Drive D: is a secondary local drive attached to your system after the primary drive with your OS. Here are the common features of the D: drive:
@@ -94,9 +99,6 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 
  Similar to the C: drive, the "D" here isn't indicative of anything on its own. However, the letter D is usually assigned to any storage device that's installed after the drive containing your Windows OS.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What About macOS and Linux Computers?
 
  You'll only find the C: and D: drive on a Windows computer. While Windows assigns letters from C to storage devices to access them easily, Linux and macOS don't use letters. Instead, they use a unified system hierarchy, placing all files under a root directory.
@@ -111,11 +113,26 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 
  Let's compare both drives to see if their differences change your storage preferences.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-diy-youtube-trailer-production-via-filmora-software-for-2024/"><u>[New] DIY YouTube Trailer Production via Filmora Software for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-advancing-beyond-vp9-a-look-at-av1/"><u>[Updated] Advancing Beyond VP9 A Look at AV1</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-10-gaming-pc-graphics-for-ultimate-youtube-viewing-experience/"><u>[Updated] Top 10 Gaming PC Graphics For Ultimate YouTube Viewing Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-cannot-create-window-errors-on-windows/"><u>Decoding the 'Cannot Create' Window Errors on Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/face-id-vs-snapchats-face-unlock-the-apple-vs-samsung-debate/"><u>Face ID Vs. Snapchat's Face Unlock The Apple Vs. Samsung Debate</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-silver-to-core-xbox-live-gold-upgrade/"><u>From Silver to Core: Xbox Live Gold Upgrade</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-6s-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 6s</u></a></li>
+<li><a href="https://win11.techidaily.com/isolating-and-remedying-solo-sideheadphone-glitches-in-win/"><u>Isolating and Remedying Solo Sideheadphone Glitches in WIN</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-search-configurations-reset/"><u>Mastering Windows 11 Search Configurations Reset</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-email-experience-less-keystrokes-fewer-typos-using-google-snippets-zdnet/"><u>Revolutionize Your Email Experience - Less Keystrokes, Fewer Typos Using Google Snippets | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-microsoft-store-errors-the-quick-fix-for-0x80072efd/"><u>Tackling Microsoft Store Errors: The Quick Fix for 0X80072EFD</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-basics-of-capturing-switch-gaming-moments-for-2024/"><u>The Basics of Capturing Switch Gaming Moments for 2024</u></a></li>
+</ul></div>
+

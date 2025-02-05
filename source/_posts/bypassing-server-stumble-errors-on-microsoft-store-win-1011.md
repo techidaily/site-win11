@@ -1,7 +1,7 @@
 ---
 title: Bypassing Server Stumble Errors on Microsoft Store, Win 10/11
-date: 2024-07-29T15:56:00.560Z
-updated: 2024-07-30T15:56:00.560Z
+date: 2025-01-31T06:58:09.327Z
+updated: 2025-02-03T17:22:33.229Z
 tags:
   - windows10
   - windows11
@@ -47,8 +47,13 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 4. Press the**Sync now** button to synchronize with the Windows time server.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Start or Restart the Windows Update Service
 
  MS Store users have confirmed they’ve fixed the “server stumbled” error by starting or restarting the Windows Update service. The Windows Update service is linked with Microsoft Store. So, make sure that the update service is enabled and running as follows:
@@ -56,17 +61,15 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 1. Press**Win + S** to access the Windows Search tool.
 2. Type "services," then select**Services** to access the app.
 3. Double-click**Windows Update** to view the various settings for that service.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-update-service.jpg)
 4. Select**Automatic** if any other option is set on the**Startup** type drop-down menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Then click the service’s**Start** option if Windows Update is stopped.
 6. Press**Apply** to set the service settings.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Windows Update Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-update-properties-window.jpg)
 7. Click**OK** or the**X** button to exit Windows Update’s properties window.
 
@@ -75,17 +78,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![The Restart option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Reset the Microsoft Store Cache
 
  The Microsoft Store has a cache containing temporary, thumbnail, and log file data. A clogged-up cache with corrupted data can cause many MS Store issues. So, some users might need to reset (clear) that cache to fix the “server stumbled” error.
 
  You can clear that cache by entering the**WSreset.exe** command as outlined in method two within our guide on[how to reset the Microsoft Store](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![The wsreset command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wsreset-command.jpg)
 
 ## 5\. Turn Off Any Active Proxy Server Settings
@@ -94,10 +95,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Our guide on[how to disable the proxy server settings on Windows](https://www.makeuseof.com/windows-11-disable-proxy/) provides step-by-step instructions for both methods.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![The Use a proxy server for your LAN checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/use-a-proxy-server-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Set Up a Connection to Google's DNS Servers
 
@@ -105,18 +107,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  It is indeed the case some users have confirmed setting a Google DNS fixed this error on their PCs. To do that, check out our article about[how to change a DNS server](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) , which also includes Google’s IPv4 addresses.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![DNS settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dns-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Disable Any Active Third-Party Security Software
 
  Third-party security software packages that incorporate antivirus shields and firewalls can interfere with MS Store’s network connection. The firewall components of security apps will more likely do so since they monitor inbound and outbound network traffic. So, try temporarily disabling a firewall within any third-party security installed on your PC before opening MS Store.
@@ -126,8 +122,9 @@ No advertising on the website.
  Should this troubleshooting method work, you don’t necessarily need to leave your security software disabled or uninstall it. Instead, add MS Store to the firewall’s allowed app list within your antivirus software. In addition, add that app to the antivirus component’s whitelist.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Enable TLS
 
  If you’re seeing a “server stumbled” error with 80072EFD or 80072EFF codes, you might need to enable some TLS (Transport Layer Security) protocol settings to resolve the issue. Enable TLS with the following steps:
@@ -136,9 +133,6 @@ No advertising on the website.
 2. Type**inetcpl.cpl** (for Internet Options) inside Run and select OK.
 3. Click**Advanced** to view that tab’s options.
 4. Select the Use**TLS 1.0** ,**1.1** ,**1.2** , and**1.3** checkboxes there.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The TLS checkboxes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/tls-settings.jpg)
 5. Press**Apply** in the Internet Properties window.
 6. Click**OK** to exit Internet Properties.
@@ -161,8 +155,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +162,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-smallscreen-capture-critique-plus-options/"><u>[New] 2024 Approved SmallScreen Capture Critique + Options</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/levate-your-content-seo-mastery-starts-here-in-2024/"><u>[New] Elevate Your Content SEO Mastery Starts Here, In 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unlocking-success-optimizing-gaming-videos-via-smart-use-of-hashtags/"><u>[New] In 2024, Unlocking Success Optimizing Gaming Videos via Smart Use of Hashtags</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-premium-windows-11-webcam-recorder-lineup-for-2024/"><u>[New] Premium Windows 11 Webcam Recorder Lineup for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-streamline-your-gameplay-memory-with-these-6-steps/"><u>[Updated] 2024 Approved Streamline Your Gameplay Memory with These 6 Steps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-television-innovation-integrating-fb-live-experiences/"><u>[Updated] In 2024, Television Innovation Integrating FB Live Experiences</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-windows-11-gaming-recordings/"><u>[Updated] In 2024, The Ultimate Guide to Windows 11 Gaming Recordings</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-master-image-transformations-today/"><u>2024 Approved Master Image Transformations Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-level-performance-pdw4-for-gamers-and-creators/"><u>Next Level Performance: PDW4 for Gamers & Creators</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-8-screen-recorder-apps-compatible-with-mac-and-windows-pc-top-picks-for-easy-recording/"><u>Ultimate 8 Screen Recorder Apps Compatible with Mac & Windows PC: Top Picks for Easy Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-top-7-excellent-choices-instead-of-kodi/"><u>Ultimate Guide: Top 7 Excellent Choices Instead of Kodi</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-top-dvd-ripper-tools-for-seamless-plex-media-server-integration/"><u>Ultimate Guide: Top DVD Ripper Tools for Seamless Plex Media Server Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-tutorial-for-implementing-the-black-lightning-extension-in-kodi-versions-19-and-18/"><u>Ultimate Tutorial for Implementing the Black Lightning Extension in Kodi Versions 19 & 18</u></a></li>
+</ul></div>
 

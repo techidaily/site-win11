@@ -1,7 +1,7 @@
 ---
 title: Mending Winget Glitches on Modern Windows
-date: 2025-01-18T03:17:36.039Z
-updated: 2025-01-25T00:00:10.835Z
+date: 2025-02-02T20:33:24.545Z
+updated: 2025-02-03T22:11:44.932Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
  After that, open Command Prompt or PowerShell with administrator privileges on your system. Type Winget and press the **Enter** key to check if Winget works now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Check if the Winget Servers Are Down
 
  Winget is an online tool that needs a robust internet connection to search for a package in various repositories and then download and install them. If the Winget servers are down or inactive, it won’t be able to fetch results from repositories. So, check if Winget servers are down using [DownDetector](https://redirect.viglink.com/?format=go&jsonp=vglnk%5F168667664973511&key=eac202ea7a96cf485281d6c4ffa2069e&libId=liuggg0i0103es17000ULlmtlntd&loc=https%3A%2F%2Fwww.makeuseof.com%2Fhow-to-fix-0x8004def5-onedrive-error-code-windows-11%2F&ccpaConsent=1---&v=1&opt=true&optExText=false&out=https%3A%2F%2Fdowndetector.com%2F&ref=https%3A%2F%2Fwww.makeuseof.com%2Fauthor%2Fabhishekkumar-mishra%2F&title=9%20Ways%20to%20Fix%20the%200x8004def5%20OneDrive%20Error%20Code%20on%20Windows%2011&txt=DownDetector) or a similar website.
@@ -61,15 +57,7 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 ![Completely Shutdown your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/completely-shutdown-your-pc.jpg)
 3. Your system will shut down. It will take longer than a usual shutdown because Windows will close everything.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Power on your system and try to run Winget using the Terminal app to check if it works now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Update App Installer
 
@@ -78,10 +66,14 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 ![Update App Installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-app-installer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So, open Microsoft Store and check the library section for any pending updates for the App Installer. Manually search and install the update and check if Winget works now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Enable the App Execution Alias
 
@@ -106,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 5. Open the Terminal app and check if Winget works or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Re-register Winget Using PowerShell
 
  If Winget isn’t working on your PC, you can re-register it using PowerShell. Since it is a part of the App Installer which is a system app, it is possible to re-register it. Repeat the following steps:
@@ -117,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 ![Re-register Winget Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/re-register-winget-using-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Try Some Generic Windows Fixes
@@ -125,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
  If none of the methods work for you, try our generic fixes like SFC and DISM scans that find and fix the system file corruption and service Windows Image components. You must [run the SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) first and allow it to find and replace the corrupt system files, if any. After that, [run the DISM scan](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) in online mode.
 
  After running these scans, you can use System Restore to revert the PC to a point in time when everything worked fine. Lastly, you can perform a complete system reset. You can choose the Keep my files option to preserve all your files while [factory resetting Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make Winget Functional Again
 
@@ -142,19 +142,21 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-essential-guide-to-4-premium-fullscreen-software/"><u>[New] 2024 Approved The Essential Guide to 4 Premium Fullscreen Software</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-comparing-gopro-and-yi-4k-cams-new-insights-on-high-speed-cameras-for-2024/"><u>[New] Comparing GoPro and Yi 4K Cams New Insights on High-Speed Cameras for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unleash-your-potential-with-top-igtv-creators/"><u>[New] In 2024, Unleash Your Potential with Top IGTV Creators</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/olvedhow-to-blur-faces-or-objects-in-youtube-videos-for-2024/"><u>[New] Solved How to Blur Faces or Objects in YouTube Videos for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-exploring-advanced-features-of-zoom-on-windows-11-systems/"><u>[Updated] In 2024, Exploring Advanced Features of Zoom on Windows 11 Systems</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-twittersphere-treasure-trove-for-2024/"><u>[Updated] The Twittersphere Treasure Trove for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-productivity-with-ai-assistance-how-to-make-the-most-of-chatgpt-during-virtual-team-sessions/"><u>Boosting Productivity with AI Assistance: How to Make the Most of ChatGPT During Virtual Team Sessions</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-microsoft-office-glitch-error-30015-26/"><u>Fixing Microsoft Office Glitch: Error 30015-26</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-best-8-linux-platforms-for-video-mastery/"><u>In 2024, Best 8 Linux Platforms for Video Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/lost-voice-troubleshoot-microphone-errors-in-google-meet-windows/"><u>Lost Voice? Troubleshoot Microphone Errors in Google Meet (Windows)</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-nvidia-cp-access-issues-on-ws1110-systems/"><u>Resolving Nvidia CP Access Issues on WS11/10 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/succeed-without-upgrading-to-windows-11-heres-how/"><u>Succeed without Upgrading to Windows 11, Here's How</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-the-0x800736cc-windows-update-hurdle/"><u>Tackling the 0X800736CC Windows Update Hurdle</u></a></li>
-<li><a href="https://win11.techidaily.com/utilizing-windows-blue-screen-data-for-precise-repairs/"><u>Utilizing Windows Blue Screen Data for Precise Repairs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-uniting-fans-anime-opening-songs-showcase/"><u>[New] 2024 Approved Uniting Fans Anime Opening Songs Showcase</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-the-art-of-finding-influential-voices-in-your-space/"><u>[Updated] 2024 Approved Mastering the Art of Finding Influential Voices in Your Space</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-find-the-best-options-to-apply-vhs-photo-effects-on-computeronline/"><u>[Updated] Find The Best Options to Apply VHS Photo Effects on Computer/Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-top-ranked-manycam-ultimate-live-streaming-and-remote-webcam-solution/"><u>1. Top-Ranked ManyCam: Ultimate Live Streaming and Remote Webcam Solution</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-accessing-the-troubleshooting-hub/"><u>Efficiently Accessing the Troubleshooting Hub</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exciting-virtual-activities-a-list-of-7-kid-friendly-internet-games/"><u>Exciting Virtual Activities: A List of 7 Kid-Friendly Internet Games</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-microsoft-wireless-mouse-5000-up-and-running-fast-easy-drivers/"><u>Get Your Microsoft Wireless Mouse 5000 Up and Running – Fast, Easy Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-effortlessly-configuring-data-sources-in-windows/"><u>How-To: Effortlessly Configuring Data Sources in Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-incorporating-s2t-features-into-ppt/"><u>In 2024, The Art of Incorporating S2T Features Into PPT</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-basics-of-pc-cleanup-with-these-12-programs/"><u>Master the Basics of PC Cleanup with These 12 Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/microsofts-innovation-unveiled-ai-companion-for-windows-11-enhanced-productivity/"><u>Microsoft's Innovation Unveiled: AI Companion for Windows 11 Enhanced Productivity</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-your-gaming-experience-on-windows-xbox/"><u>Simplify Your Gaming Experience on Windows Xbox</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-renaming-files-and-modifying-extensions-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Renaming Files and Modifying Extensions on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-chromes-automatic-new-tab-generations-in-windows-os/"><u>Stop Chrome's Automatic New Tab Generations in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-connect-to-devices-via-win-11s-rdc/"><u>Swiftly Connect to Devices via Win 11'S RDC</u></a></li>
 </ul></div>
 
