@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Inconsistent Inputs: Xbox Mic & Windows 11"
-date: 2025-01-30T06:18:21.178Z
-updated: 2025-02-04T08:29:01.165Z
+date: 2025-02-11T02:25:04.141Z
+updated: 2025-02-15T21:16:59.894Z
 tags:
   - windows10
   - windows11
@@ -40,29 +40,21 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 6. Then click**Recording Audio** to open that troubleshooter.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Recording Audio troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/troubleshooter-list.jpg)
 7. Select**Next** to proceed to the list of devices to troubleshoot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Choose a microphone to troubleshoot and click**Next** .
 9. Select**Apply this fix** for troubleshooting suggestions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Connect a Headset Microphone with a Different PC Port
 
  To ensure a headset microphone or other mic device is connected properly, try plugging it into an alternative port. Are you using a headset microphone that supports USB and jack connections? If so, connect it with your PC’s jack port instead of the USB alternative.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check the Microphone Permission Settings for the Xbox App
@@ -79,8 +71,16 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 ![The Let apps access your microphone setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/let-apps-access-microphone-setting.jpg)
 6. Then scroll down and click the toggle switch for the Xbox app to turn on its mic access.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The microphone permission setting for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-app.jpg)
 7. Restart Windows before opening the Xbox app to check if the issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Change the Default Format Output Option
 
@@ -98,7 +98,15 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 ![The Default Format setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/default-format-setting.jpg)
 8. Press**Apply** to save the new default format output setting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Click**OK** to exit the**Advanced** tab and properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Select the Right Audio Input Device in the Xbox App
 
@@ -122,11 +130,7 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 ![The Reset app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-app-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall the Driver for the Audio Input Device
@@ -139,21 +143,17 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/device-manager-window.jpg)
 4. Click**Uninstall** to confirm and remove the device.
 
-5. Then reboot your Windows 11/10 PC for automatic driver reinstallation.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Then reboot your Windows 11/10 PC for automatic driver reinstallation.
 
 ## 8\. Reinstall the Xbox App
 
  The last troubleshooting method for this microphone issue is to try reinstalling the Xbox app. The app you’re using might be an outdated version, or there could be other issues with it that only reinstallation will resolve. You can remove the Xbox app in Settings as outlined in method two in[how to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
 ![The Uninstall option for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-uninstall-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After uninstalling the Xbox app, open its[Microsoft Store page](https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z) ; select the**Get in Store** **app** option to bring up the Microsoft Store; then click**Get** on the Xbox app page.
 
@@ -176,20 +176,24 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-essential-video-concepts-fueling-creativity-in-youtube-channels/"><u>[Updated] Essential Video Concepts Fueling Creativity in YouTube Channels</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-hone-your-iphone-skills-with-shortened-and-customized-vids/"><u>[Updated] Hone Your iPhone Skills with Shortened & Customized Vids</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-unleash-potential-the-ultimate-guide-to-spectacous-tiktok-openers-mac/"><u>[Updated] In 2024, Unleash Potential The Ultimate Guide to Spectacous TikTok Openers (Mac)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/chinas-homegrown-ai-success-mass-production-of-powerful-cixin-p1-processor-with-45-tops-and-advanced-arm-architecture/"><u>China's Homegrown AI Success: Mass Production of Powerful Cixin P1 Processor with 45 TOPS and Advanced Arm Architecture</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-fixes-for-winupdater-errors-solve-x80246007/"><u>Efficient Fixes for WinUpdater Errors – Solve X80246007</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/full-inventory-of-ps-vr-games-unveiled-a-deep-dive-into-announced-selections/"><u>Full Inventory of PS VR² Games Unveiled: A Deep Dive Into Announced Selections</u></a></li>
-<li><a href="https://win11.techidaily.com/handling-dxgierrordevicehunk-on-windows-11-systems/"><u>Handling DXGI_ERROR_DEVICE_HUNK on Windows 11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-enable-a-devices-driver-to-load-on-your-win11-pc/"><u>How to Enable a Device's Driver to Load on Your Win11 PC</u></a></li>
-<li><a href="https://win11.techidaily.com/incorporating-sound-in-windows-11-snipping-tool-recordings-max-156/"><u>Incorporating Sound in Windows 11 Snipping Tool Recordings (Max 156)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-the-release-of-apple-watch-series-8-specs-revealed-and-how-much-it-will-cost-you/"><u>Inside the Release of Apple Watch Series 8 – Specs Revealed and How Much It Will Cost You</u></a></li>
-<li><a href="https://win-web3.techidaily.com/mp4-windows-10/"><u>MP4コンテンツ音量アップ方法 - Windows 10利用者向け</u></a></li>
-<li><a href="https://win11.techidaily.com/refashion-your-documents-key-tools-to-alter-file-timestamps-in-win8/"><u>Refashion Your Documents: Key Tools to Alter File Timestamps in Win8</u></a></li>
-<li><a href="https://win11.techidaily.com/showcasing-peak-and-base-states-of-your-cpu-in-windows/"><u>Showcasing Peak and Base States of Your CPU in Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-macbook-enhancers-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated MacBook Enhancers : Comprehensive Reviews by Tech Gurus</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-against-apex-legends-crashes-in-windows-11/"><u>Winning Against Apex Legends Crashes in Windows 11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-boosting-your-videos-chance-on-vimeo-staff-list/"><u>[New] 2024 Approved Boosting Your Video's Chance on Vimeo Staff List</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-effective-techniques-for-creating-podcast-rss-feeds/"><u>[Updated] Effective Techniques for Creating Podcast RSS Feeds</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ios-meets-android-an-in-depth-look-at-facial-tech-for-2024/"><u>[Updated] IOS Meets Android An In-Depth Look at Facial Tech for 2024</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/1728495739662-uefi/"><u>怎麼樣才能在UEFI中切換到老版本的操作方法</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-guide-to-boosting-indoor-reception-for-digital-tv-channels/"><u>A Guide to Boosting Indoor Reception for Digital TV Channels</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-silent-speaker-issues-in-windows/"><u>Dealing with Silent Speaker Issues in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fixes-for-the-erased-characters-phenomenon-in-windows/"><u>Fixes for the Erased Characters Phenomenon in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/interpretation-of-red-x-markings-in-file-folders/"><u>Interpretation of Red X-Markings in File Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/key-apps-to-integrate-your-windows-pc-with-android/"><u>Key Apps to Integrate Your Windows PC with Android</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-plain-text-and-mouse-jumps-with-powertoys-guide/"><u>Mastering Plain Text & Mouse Jumps with PowerToys Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/navigate-the-transfer-of-social-media-photos-to-hard-drive/"><u>Navigate the Transfer of Social Media Photos to Hard Drive</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/pruning-context-menu-on-windows-11-for-efficiency/"><u>Pruning Context Menu on Windows 11 for Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-combat-license-ends-soon-alert-on-windows-11/"><u>Strategies to Combat License Ends Soon Alert on Windows 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/streamlined-transcoding-xml-and-ttml-into-professional-srt/"><u>Streamlined Transcoding XML & TTML Into Professional SRT</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-domain-services-errors-affecting-print-on-w11/"><u>Tackling Domain Services Errors Affecting Print on W11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-lava-blaze-2-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Lava Blaze 2 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-creative-edge-advanced-tips-for-shooting-with-gopro-hero5-black/"><u>The Creative Edge Advanced Tips for Shooting with GoPro Hero5 Black</u></a></li>
+<li><a href="https://win11.techidaily.com/top-9-advantages-switching-to-windows-latest-outlook/"><u>Top 9 Advantages: Switching to Windows' Latest Outlook</u></a></li>
 </ul></div>
 

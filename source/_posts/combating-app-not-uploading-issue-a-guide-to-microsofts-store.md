@@ -1,7 +1,7 @@
 ---
 title: "Combating App Not Uploading Issue: A Guide to Microsoft's Store"
-date: 2024-07-29T15:54:12.379Z
-updated: 2024-07-30T15:54:12.379Z
+date: 2025-02-13T17:30:12.453Z
+updated: 2025-02-16T03:40:31.965Z
 tags:
   - windows10
   - windows11
@@ -20,14 +20,8 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 
  The problem can be as simple as a corrupted Microsoft Store cache or issues with system files. Here are a few troubleshooting steps to quickly resolve this error and get Microsoft Store working again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## 1\. Run the Microsoft Store Troubleshooter
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![windows store apps troubleshooter 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-apps-troubleshooter-1.jpg)
 
  You can quickly fix common Microsoft Store problems using the Windows Store Apps troubleshooter. It is a built-in troubleshooting utility that can scan and fix issues preventing the Microsoft Store from installing apps.
@@ -39,24 +33,13 @@ To run the Windows Store Apps troubleshooter:
 3. Next, click on**Other troubleshooters.**
 4. Scroll down and click on the**Run** button for Windows Store Apps. The troubleshooter will perform a scan and recommend fixed. Apply any recommended fixes and check for improvements.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Clear and Reset the Windows Store Cache Using WSReset
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wsreset clear microsoft store cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsreset-clear-microsoft-store-cache.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  WSReset or Windows Store Reset is a built-in utility to reset or clear Windows Store Cache. Resetting the store cache can help you fix temporary glitches preventing you from installing apps from Microsoft Store.
 
@@ -77,15 +60,9 @@ To restart Microsoft Store Install Service:
 1. Press**Win + R** to open**Run** .
 2. Type**services.msc** and click**OK** .
 3. In the**Services** snap-in, locate the**Microsoft Store Install Service** entry.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![microsoft store install service properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-store-install-service-properties.jpg)
 4. Right-click on the service entry and select**Properties** .
 5. In the**Properties** dialog, check if the**Startup type** is set to**Disabled** .  
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![microsoft store install service manual startup type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-store-install-service-manual-startup-type.jpg)
 6. If yes, click the**Startup type** drop-down and select**Manual** .  
 ![microsoft store install service restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-store-install-service-restart.jpg)
@@ -95,8 +72,9 @@ To restart Microsoft Store Install Service:
  Close the Services snap-in and launch Microsoft Store. Then, try to install the app and check if the error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Perform a Microsoft Store Repair
 
 ![repair microsoft store windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-store-windows-11.jpg)
@@ -113,8 +91,9 @@ To restart Microsoft Store Install Service:
 8. Once done, relaunch Microsoft Store and try to install the app to see if the error is resolved.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Manually Reset Microsoft Store Apps
 
 ![reset microsoft store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-microsoft-store.jpg)
@@ -138,6 +117,10 @@ To reset Microsoft Store:
 
 ![powershell re_register microsoft store app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/powershell-re_register-microsoft-store-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another way to fix the "this app couldn’t be installed" error is to re-register the Microsoft Store using PowerShell. Here’s how to do it.
 
 1. Make sure**Microsoft Store** is closed.
@@ -148,8 +131,9 @@ To reset Microsoft Store:
 5. Wait for the command to process and close PowerShell. Relaunch Microsoft Store and check if you can install the app without the error.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reinstall the Microsoft Store
 
  You can reinstall Microsoft Store to fix issues with the app due to corrupt app files or bugs. Since clearing the cache didn’t help, you can perform a reinstall to resolve the error.
@@ -173,20 +157,21 @@ To reinstall Microsoft Store:
 ![reinstall microsoft store powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reinstall-microsoft-store-powershell.jpg)
 6. Press**Win** key and type**Microsoft Store** to launch the app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixing the "This App Couldn’t Be Installed" Error on Windows
 
  This error is often due to issues with the corrupt app cache and temporary glitches. Use the Windows Store Apps troubleshooter or run the WSreset tool to fix common problems with Microsoft Store. If the issue persists, you can perform a reset or re-register the app to resolve the error.
 
  That said, if the issue persists with a specific app, you can download the Microsoft Store apps using a third-party service and install them manually on your PC.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -195,4 +180,23 @@ To reinstall Microsoft Store:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-audio-extraction-made-easy-youtube-music-on-your-mac/"><u>[New] 2024 Approved Audio Extraction Made Easy YouTube Music on Your Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-audioalert-essentials-downloading-and-editing-tamil-melodies/"><u>[New] AudioAlert Essentials Downloading & Editing Tamil Melodies</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhance-video-storytelling-with-smart-chapter-insertion-techniques-on-youtube/"><u>2024 Approved Enhance Video Storytelling with Smart Chapter Insertion Techniques on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-gearing-up-for-youtube-success-cross-platform-strategies/"><u>2024 Approved Gearing Up for YouTube Success Cross-Platform Strategies</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ace-set-of-rotational-recording-devices-for-2024/"><u>Ace Set of Rotational Recording Devices for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-poco-x5-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Poco X5 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-window-11-password-resets/"><u>Mastering Window 11 Password Resets</u></a></li>
+<li><a href="https://fox-place.techidaily.com/maximizing-your-machine-expert-tips-for-clearing-up-space-by-yl-computing/"><u>Maximizing Your Machine: Expert Tips for Clearing Up Space by YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-compatibility-hurdles-with-easy-to-follow-steps/"><u>Navigate Compatibility Hurdles with Easy-to-Follow Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/precision-policies-allocating-settings-to-single-windows-accounts/"><u>Precision Policies: Allocating Settings to Single Windows Accounts</u></a></li>
+<li><a href="https://win-updates.techidaily.com/protect-your-system-from-failure-expert-advice-by-yl-computings-team/"><u>Protect Your System From Failure: Expert Advice by YL Computing's Team</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-to-skyrocket-downloads-in-battlenet-pcs/"><u>Quick Tips to Skyrocket Downloads in Battle.net PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-lowering-dropboxs-resource-intensity-on-windows/"><u>Strategies for Lowering Dropbox's Resource Intensity on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-rectification-overcoming-directdraw-woes-in-win1011/"><u>Swift Rectification: Overcoming DirectDraw Woes in Win10/11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-bottom-line-on-chatgpt-as-an-earnings-engine/"><u>The Bottom Line on ChatGPT as an Earnings Engine</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-adoption-lag-seven-major-obstacles-explored/"><u>Windows 11 Adoption Lag: Seven Major Obstacles Explored</u></a></li>
+</ul></div>
 

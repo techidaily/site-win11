@@ -1,7 +1,7 @@
 ---
 title: "Reviving Windows: Upgrading Obsolete System Drivers"
-date: 2025-02-02T02:36:31.435Z
-updated: 2025-02-03T19:47:37.639Z
+date: 2025-02-13T01:42:39.171Z
+updated: 2025-02-16T02:32:51.077Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
  When you come across a date associated with a driver, this usually refers to when the driver was published, not necessarily when you installed it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Use Device Manager
 
  A user-friendly way to check drivers is through Device Manager. There are plenty of [ways to open Device Manager](https://www.makeuseof.com/windows-open-device-manager/); a simple method is to press **Windows key + X** and select **Device Manager**.
@@ -47,14 +51,10 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 ![device manager driver details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/device-manager-driver-details.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This method is great if you only need to check a handful of drivers, but it's a bit tedious if you want to see all your drivers. In that case, use an alternative method detailed below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use DriverView
 
@@ -68,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 * Export the data via **File > Save Selected Items** or **View > HTML Report** (then save the page).
 * If you require additional information about a driver, select the row and go to **File > Google Search**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Use Command Prompt
 
  Windows' Command Prompt can generate a report of all your drivers. Historically, this worked well, but the information is often unreliable on Windows 10 and Windows 11\.
@@ -83,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
  To get the information in a handy text file that you can refer to later, type **driverquery > driver.txt**. The file saves wherever your Command Prompt path is set. See [Microsoft's driverquery page](https://learn.microsoft.com/windows-server/administration/windows-commands/driverquery) for more advanced parameters.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Update Outdated Windows Drivers
@@ -100,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
 ![windows 11 windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-11-windows-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can [disable automatic driver updates on Windows](https://www.makeuseof.com/windows-stop-automatic-driver-updates/) if you want, perhaps if the latest version is causing trouble, but generally you should let Windows Update do its thing.
 
  Windows Update also provides some drivers as optional downloads—in other words, the drivers aren't automatically updated. Generally, you should only install optional driver updates if you have a specific problem. To do that, from the Windows Update page:
@@ -110,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 4. Click **Download and install**.
 
 ![windows 11 view optional updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-11-view-optional-updates.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use the Manufacturer's Website
 
@@ -128,10 +132,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 7. Click **Next** and follow the wizard to completion.
 
 ![windows 10 browse for drivers on your computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-10-browse-for-drivers-on-your-computer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Drivers Keep Your Computer Running Smoothly
 
@@ -153,24 +153,22 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-science-behind-engaging-video-content-on-fb/"><u>[New] In 2024, The Science Behind Engaging Video Content on FB</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-rhythm-rulebook-seamlessly-mixing-music-into-instagram-posts-for-2024/"><u>[New] The Rhythm Rulebook Seamlessly Mixing Music Into Instagram Posts for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-busting-myths-essential-facts-on-instagrams-reels-for-2024/"><u>[Updated] Busting Myths Essential Facts on Instagram's Reels for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-13-pro-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone 13 Pro Max to PC | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-exact-video-editing-a-step-by-step-guide/"><u>Mastering the Art of Exact Video Editing: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/mp4pcgif5/"><u>MP4ビデオをPC上でGIFへの変換方法:5選ベストガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/offline-entertainment-unlimited-quick-download-movies-shows-songs-and-special-features-for-on-the-go-viewing/"><u>Offline Entertainment Unlimited: Quick-Download Movies, Shows, Songs, and Special Features for On-The-Go Viewing</u></a></li>
-<li><a href="https://win11.techidaily.com/playing-japanese-region-bddvd-on-american-systems-without-a-specialized-disc-player/"><u>Playing Japanese Region BD/DVD on American Systems Without a Specialized Disc Player</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-conversion-top-3-techniques-for-turning-your-google-slides-into-videos/"><u>Seamless Conversion: Top 3 Techniques for Turning Your Google Slides Into Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-audio-conversion-discover-the-three-best-avi-to-mp3-transformation-techniques/"><u>Simplify Audio Conversion: Discover the Three Best AVI to MP3 Transformation Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-ac3-audio-format-conversion-the-ultimate-tool-for-fast-and-effortless-mp3-creation/"><u>Speedy AC3 Audio Format Conversion: The Ultimate Tool for Fast and Effortless MP3 Creation</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-on-downloading-snappea-software-for-your-windows-computer/"><u>Step-by-Step Guide on Downloading Snappea Software for Your Windows Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-your-dvd-collection-into-common-video-formats-like-mp4-mkv-and-more/"><u>Step-by-Step Guide: Converting Your DVD Collection Into Common Video Formats Like MP4, MKV & More</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-your-entire-itunes-library-into-high-quality-mp3-format/"><u>Step-by-Step Guide: Converting Your Entire iTunes Library Into High-Quality MP3 Format</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/unraveling-the-art-of-screencasts-a-step-by-step-approach/"><u>Unraveling the Art of Screencasts A Step-by-Step Approach</u></a></li>
-<li><a href="https://facebook.techidaily.com/whatsapp-pauses-policy-change-rollout-beyond-may-15/"><u>WhatsApp Pauses Policy Change Rollout Beyond May 15</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-from-feedback-to-fanbase-the-video-journey/"><u>[Updated] 2024 Approved From Feedback to Fanbase The Video Journey</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-curated-array-of-chat-catalyzing-queries-for-podcasters/"><u>[Updated] Curated Array of Chat-Catalyzing Queries for Podcasters</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-exploring-metaverse-laughter-creating-your-own-funny-online-jokes/"><u>[Updated] In 2024, Exploring Metaverse Laughter Creating Your Own Funny Online Jokes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/behind-the-scenes-of-virtual-reality-films-for-2024/"><u>Behind the Scenes of Virtual Reality Films for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-common-media-errors-on-windows-11-os/"><u>Combatting Common Media Errors on Windows 11 OS</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/crafting-and-gauging-the-success-of-fb-instream-ads-for-2024/"><u>Crafting and Gauging the Success of FB Instream Ads for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-motorola-moto-g14-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Motorola Moto G14 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-youtubes-creator-hub-explained-simply/"><u>In 2024, YouTube's Creator Hub Explained Simply</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-xbox-app-settings-for-optimal-gaming/"><u>Mastering Xbox App Settings for Optimal Gaming</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-simplify-your-reaction-video-creation-a-step-by-step-guide-with-filmora/"><u>New 2024 Approved Simplify Your Reaction Video Creation A Step-by-Step Guide with Filmora</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-defragmenter-not-activating-problems/"><u>Overcoming Windows Defragmenter Not Activating Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-win-11s-wi-fi-settings/"><u>Streamlining Win 11'S Wi-Fi Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-blend-taskview-into-win-11-ui/"><u>Techniques to Blend TaskView Into Win 11 UI</u></a></li>
+<li><a href="https://win11.techidaily.com/the-transformative-power-of-microsofts-copilot-key-for-windows-11-users/"><u>The Transformative Power of Microsoft's Copilot Key for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-current-login-failed-window-error/"><u>Troubleshooting Current Login Failed Window Error</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-roblox-error-262-quickly/"><u>Troubleshooting Roblox Error 262 Quickly</u></a></li>
 </ul></div>
 

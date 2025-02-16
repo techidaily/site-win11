@@ -1,7 +1,7 @@
 ---
 title: "Bypassing the Default Settings: Forcefully Remove Print Devices"
-date: 2024-07-29T15:53:00.884Z
-updated: 2024-07-30T15:53:00.884Z
+date: 2025-02-10T20:46:54.204Z
+updated: 2025-02-15T17:56:24.382Z
 tags:
   - windows10
   - windows11
@@ -20,15 +20,16 @@ thumbnail: https://thmb.techidaily.com/9e54865f3f57ec57dc69d69631538169245afb52f
 
  You can remove any connected printer from the Settings panel. If that does not work, you can use the Command Prompt and other ways to remove the printer. Here, we show you the many ways to delete a printer on Windows computers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Remove a Printer From Windows via Settings
 
  You can easily [add or remove printers](https://www.makeuseof.com/tag/printer-setup-windows-10/) from the Settings app. Here’s how to do it:
 
 1. Press **Win + I** to open **Settings**.
 2. Open the **Bluetooth & devices** tab in the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Printers and Scanners Settings in Windows 11 Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/printers-and-scanners-Windows-settings.jpg)
 3. Scroll down and click on **Printers & scanners**. This will list all the printers connected to your computer.
 4. Click on the printer device that you want to remove.  
@@ -47,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/9e54865f3f57ec57dc69d69631538169245afb52f
 2. Typ**e services.msc** and click **OK** to open the **Services snap-in.**
 3. In the Services window, locate the **Print Spooler service.**
 4. Right-click on **Print Spooler** and select **Stop**.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![Print Spooler Service Stop Option in Services MMC on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-stop-1.jpg)
 5. Minimize the **Services** window.
 6. Now open the **Windows Settings pane**l, go to **Bluetooth & devices > Scanners and Printer**, and try to remove your printer device.
@@ -59,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/9e54865f3f57ec57dc69d69631538169245afb52f
 
 [Restarting the Printer Spooler service](https://www.makeuseof.com/windows-restart-print-spooler-service/) is necessary. If disabled, you may encounter the [printer spooler service is not running](https://www.makeuseof.com/print-spooler-service-not-running-windows/) error on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Remove the Printer Software to Delete the Printer
 
 ![Remove HP Printer Software in Windows 11 Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/hp-printer-remove-software.jpg)
@@ -87,22 +82,13 @@ thumbnail: https://thmb.techidaily.com/9e54865f3f57ec57dc69d69631538169245afb52f
 1. Press **Win + R** to open **Run**.
 2. Type **control** and click **OK** to open the Control Panel. You can also search for the app using the Windows search bar.
 3. In the Control Panel, go to **Hardware and Sound.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![Windows 11 Control Panel Showing the Hardware and Sound Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/control-panel-hardware-and-sound.jpg)
 4. Next, click on **Devices and Printers.**
 5. Under the **Printers** section, locate and select the printer device you want to remove.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Remove Printer Option in Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/remove-printer-ccontrol-panel.jpg)
 6. Right-click on the printer and select **Remove Device.**
 7. Click **Yes** to confirm the action.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Remove the Printer Using Windows' Print Server Properties
 
  Sometimes, removing the printer device does not remove the drivers completely and can [cause your printer to stop working](https://www.makeuseof.com/windows-11-printer-not-working/). In such a situation, you can use the Print Server Properties dialog to remove the installed printer drivers.
@@ -112,22 +98,30 @@ thumbnail: https://thmb.techidaily.com/9e54865f3f57ec57dc69d69631538169245afb52f
 1. Press **Win + R** to open **Run**.
 2. Type **control** and click **OK**.
 3. In the Control Panel window, go to **Hardware and Sound > Devices and Printers.**  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Hardware and Sound Option in Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/control-panel-hardware-and-sound-1.jpg)
 4. Select any available printer and click on **Print server properties.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Print Server Properties Option in Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-server-properties.jpg)
 5. Open the **Drivers** tab in the **Print Server Properties** dialog.
 6. Under **Installed printer drivers**, select the printer driver to uninstall and click **Remove**.  
 ![Print Server Properties Dialog in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/remove-printer-driver-prin-server-properties.jpg)
 7. Next, select the **Remove driver and driver package** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click **OK** to confirm the action and remove the driver.
 9. Restart your PC to complete the driver removal process.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Uninstall the Printer Using the Device Manager
 
  Device Manager lets you manage all your peripheral and internal devices connected to your system. You can [use the device manager to troubleshoot your Windows system](https://www.makeuseof.com/how-to-use-device-manager-windows-10/), update the driver, add a new device, and remove connected devices.
@@ -139,15 +133,28 @@ thumbnail: https://thmb.techidaily.com/9e54865f3f57ec57dc69d69631538169245afb52f
 3. In Device Manager, click on **View** and select **Show hidden devices.**  
 ![Device Manager App With Show Hidden Devices Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/device-manager-show-hidden-devices.jpg)
 4. Next, expand the **Printers** section to view your printer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Right-click on the printer and select **Uninstall device.**  
 ![Uninstall Printer Option Selected in Device Manager on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/uninstall-printer-device-manager.jpg)
 6. Select the **Delete the driver software for this device** option and click **Uninstall**.
 7. If the **Printers** section is unavailable, expand the **Print queues** section and repeat the steps to remove the printer.
 8. Close Device Manager and restart your computer to complete the uninstall process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. How to Uninstall a Printer Using the Command Prompt
 
 ![Command Prompt with Remove Printer Command in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/remove-printer-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you prefer the Command Prompt over the traditional UI, you can delete the printer from your PC using the dl command.
 
@@ -162,9 +169,6 @@ thumbnail: https://thmb.techidaily.com/9e54865f3f57ec57dc69d69631538169245afb52f
 5. In the above command, replace **Your\_Printer\_Name** with the name of your printer.
 6. Hit **Enter** to execute the command.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Remove the Printer Drive Using Print Management
 
  Print Management is a Windows utility controlling printers, drivers, ports, and servers. You can use the tool to remove printer drivers from your Windows computer. The Print Management utility is not available in the Home edition of the Windows operating system.
@@ -173,31 +177,21 @@ thumbnail: https://thmb.techidaily.com/9e54865f3f57ec57dc69d69631538169245afb52f
 
 1. Press **Win + R** to open **Run**.
 2. Type **printmanagement**.**msc** and click **OK** to open **Print Management**.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Print Management Using Run Dialog in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-print-management.jpg)
 3. In the left pane, expand the **Print Servers** section,
 4. Click on your **Local Printer** server name to expand it.
 5. Next, select **Printers** to view all the installed printers.  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Delete a Printer Using the Print Management Snap-in On Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-printer-print-management-windows.jpg)
 6. In the right pane, select and right-click on the printer you want to remove.
 7. Select **Delete** and click **Yes** to confirm the action.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## 8\. Delete a Printer Driver with PowerShell
 
 ![PowerShell Console Running the Remove Printer Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/remove-printer-powershell.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatively, you can delete the printer driver package using PowerShell as an alternative to Print Management. This is also a quicker way to remove multiple printers in your Windows computer.
 
@@ -211,13 +205,15 @@ thumbnail: https://thmb.techidaily.com/9e54865f3f57ec57dc69d69631538169245afb52f
 `Remove-PrinterDriver -Name "Printer-Name"`
 5. In the above command, replace Printer-Name with the printer name you want to remove.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Many Ways to Remove a Printer in Windows 10 and 11
 
  You can easily remove a printer in Windows using the Settings panel. However, if the deleted printer keeps reappearing, you can use the print server properties, Command Prompt, or delete the printer software to remove the printer altogether.
 
  You can remove any connected printer from the Settings panel. If that does not work, you can use the Command Prompt and other ways to remove the printer. Here, we show you the many ways to delete a printer on Windows computers.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -225,3 +221,24 @@ thumbnail: https://thmb.techidaily.com/9e54865f3f57ec57dc69d69631538169245afb52f
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-scaling-up-on-youtube-a-roadmap-for-million-sub-club/"><u>[New] 2024 Approved Scaling Up on YouTube A Roadmap for Million-Sub Club</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-premier-iphone-watermark-apps-reviewed/"><u>[Updated] Premier iPhone Watermark Apps Reviewed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mycams-evolution-a-new-era-of-home-video-capture/"><u>2024 Approved MyCam's Evolution A New Era of Home Video Capture</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-downloads-for-behringer-speaker-systems-click-now/"><u>Complete Downloads for Behringer Speaker Systems - Click Now</u></a></li>
+<li><a href="https://win11.techidaily.com/empowering-user-experience-with-phones-and-windows-11/"><u>Empowering User Experience with Phones & Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-3050-printer-driver-download-for-windows/"><u>HP Deskjet 3050 Printer Driver Download for Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-screen-space-unique-snaps-using-powertoys/"><u>Optimize Your Screen Space: Unique Snaps Using PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-control-of-highlighted-text-in-windows-pdfs/"><u>Regain Control of Highlighted Text in Windows PDFs</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-code-x80780119-error-in-windows-imaging/"><u>Remedy Code X80780119 Error in Windows Imaging</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/simplified-techniques-for-correcting-profile-ages-for-2024/"><u>Simplified Techniques for Correcting Profile Ages for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-file-organization-windows-11s-folder-annotations-guide/"><u>Streamlining File Organization: Windows 11'S Folder Annotations Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-rectifying-windows-non-operational-charmap/"><u>Swiftly Rectifying Windows' Non-Operational CharMap</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-shrunk-windows-11-icons-restore-original-size/"><u>Tackling Shrunk Windows 11 Icons: Restore Original Size</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-bookworms-companion-inside-look-at-the-2018-kindle-paperwhite/"><u>The Ultimate Bookworm's Companion - Inside Look at the 2018 Kindle Paperwhite</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-face-blur-mastery-a-step-by-step-guide-to-free-video-editing-tools/"><u>Updated In 2024, Face Blur Mastery A Step-by-Step Guide to Free Video Editing Tools</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Context Menu Innovations: Adding Program Troubleshooting Aids"
-date: 2025-02-01T05:36:40.433Z
-updated: 2025-02-04T08:16:49.247Z
+date: 2025-02-08T21:15:04.668Z
+updated: 2025-02-15T20:15:59.658Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What to Do Before Tweaking the Registry Editor
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
  Before you go about making big changes to your Windows PC, it’s always a good idea to have some sort of backup in case things go wrong. To do that, we highly recommend reading our guide on[creating a system restore with Command Prompt](https://www.makeuseof.com/windows-create-restore-point-command-prompt-powershell/) . If you want, you can also read our other guide on[how to back up and restore the Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) if you want to have a copy of it somewhere.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a "Troubleshoot Compatibility" Option to the Context Menu With the Registry Editor
@@ -46,14 +46,10 @@ HKEY_CLASSES_ROOT\cmdfile\shellEx\ContextMenuHandlers
 ![Adding a new key to the ContextMenuHandler key for the EXE files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/new-key-compatibility-troubleshooter-context-menu.jpg)
 4. Select the**Compatibility** key, double-click**Default** on the right, and set**Value data** to**{1d27f844-3a1f-4410-85ac-14651078412d}** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Entering value data for a string value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enter-value-data.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, you’re going to repeat the steps above to add the**Troubleshoot Compatibility** to the context menu of other BAT and CMD files. Just replace the key path in step two with**HKEY\_CLASSES\_ROOT\\batfile\\shellEx\\ContextMenuHandlers\\** for BAT files and**HKEY\_CLASSES\_ROOT\\cmdfile\\shellEx\\ContextMenuHandlers\\** for CMD files.
@@ -62,10 +58,14 @@ HKEY_CLASSES_ROOT\cmdfile\shellEx\ContextMenuHandlers
 
 ![The Troubleshoot compatibility option in the context menu on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/troubleshoot-compatibility-context-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you have one more way to[run the Program Compatibility Troubleshooter](https://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Run the Program Compatibility Troubleshooter Easily
@@ -87,14 +87,18 @@ HKEY_CLASSES_ROOT\cmdfile\shellEx\ContextMenuHandlers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11.techidaily.com/1-mastering-multimedia-a-comprehensive-guide-on-leveraging-the-power-of-video-to-audio-conversion-with-factory-pro/"><u>1. Mastering Multimedia: A Comprehensive Guide on Leveraging the Power of Video-to-Audio Conversion with Factory Pro</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-getting-started-with-adobe-presenter-video-recordings/"><u>2024 Approved Getting Started with Adobe Presenter Video Recordings</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-top-recruiter-shorts-find-your-motivation/"><u>2024 Approved Top Recruiter Shorts Find Your Motivation!</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-and-mac4/"><u>動画画角トリミング: Windows & Macで実行可能な4手法</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/articulate-english-100-mastered-twisters-guide/"><u>Articulate English: 100 Mastered Twisters Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/capturing-the-moment-a-practical-guide-to-google-meetings-screen-recordings-for-2024/"><u>Capturing the Moment A Practical Guide to GooGle Meetings' Screen Recordings for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-errcachemiss-error-in-google-chrome/"><u>How to Fix ERR_CACHE_MISS Error in Google Chrome</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-dvd-8/"><u>Windows 11対応 DVD コピープロテクトを解除するための無料ツール、ベスト8推薦</u></a></li>
-<li><a href="https://win11.techidaily.com/wmamp3-top3/"><u>WMAファイルからMP3への変換が簡単! ベストオンラインツールTOP3</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-complete-overview-regulating-snapchats-video-velocity/"><u>[New] A Complete Overview Regulating Snapchat's Video Velocity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-top-10-photography-frame-tools/"><u>[Updated] Ultimate Guide Top 10 Photography Frame Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-selecting-podcasts-for-iphone-devices/"><u>2024 Approved The Art of Selecting Podcasts for iPhone Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-x80131500-windows-store-breakdown/"><u>Correcting X80131500: Windows Store Breakdown</u></a></li>
+<li><a href="https://win11.techidaily.com/create-a-window-showcase-customizing-with-spotlight-picture-inspired-backgrounds/"><u>Create a Window Showcase: Customizing with Spotlight Picture-Inspired Backgrounds</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-to-sticky-notes-in-win11win10-apps/"><u>Expert Guide to Sticky Notes in Win11/Win10 Apps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/future-frameworks-exclusive-list-of-top-cameras-for-2024/"><u>Future Frameworks Exclusive List of Top Cameras for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-xiaomi-redmi-12-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Xiaomi Redmi 12 Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-windows-1011-update-reminder-feature/"><u>Implementing Windows 10/11 Update Reminder Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-self-updating-windows/"><u>Mastering the Art of Self-Updating Windows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/premier-gif-application-selection-for-iphone-users-for-2024/"><u>Premier GIF Application Selection for iPhone Users for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/replacement-compatible-and-platform-names-like-macos-and-windows/"><u>Replacement, Compatible, and Platform Names Like macOS and Windows.</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-shorts-money-making-guide-key-requirements-and-potential-income-for-2024/"><u>Youtube Shorts Money-Making Guide Key Requirements & Potential Income for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Debugging Java Virtual Machine Creation Failure on Windows
-date: 2025-01-30T03:22:32.747Z
-updated: 2025-02-04T03:54:13.260Z
+date: 2025-02-12T00:43:53.296Z
+updated: 2025-02-15T22:06:16.061Z
 tags:
   - windows10
   - windows11
@@ -27,13 +27,13 @@ thumbnail: https://thmb.techidaily.com/405adc45ebf84824c8425ce7d2ecb9e77863385d3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Verify Your Java Installation
 
 ![verify java installation command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/verify-java-intallation-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Verifying your Java installation can help you determine issues with the release itself. You can use the**java -version** command in Command Prompt to check the current version of Java installed along with the date of installation.
 
@@ -49,10 +49,6 @@ To check the Java version installed on Windows:
 ## 2\. End the Java Process in Task Manager
 
 ![end java process task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/end-java-process-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the error is triggered when installing Java, check if a Java process is running in the background. You can use Task Manager to find and end background processes that may prevent you from installing the Java Runtime Environment or the development kit.
 
@@ -72,6 +68,10 @@ To check the Java version installed on Windows:
 
  To remedy this issue, you can increase the Java heap size. You can do this by modifying the**Runtime Parameters** from**Java Runtime Environment Settings** or changing the**\_JAVA\_OPTIONS** variable value to your preference.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Increase Java Heap Size by Manually Modifying Variables
 
 To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
@@ -80,13 +80,13 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 ![edit the system environmental variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edit-the-system-environmental-variables.jpg)
 2. Next, select**Edit the system environment variables** to open**System Properties** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. In the**Advanced** tab, click**Environment Variables** .  
 ![The Environment Variables button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/environment-variables-button.jpg)
 4. In the**System Variables** section, click**New** . It is important to select the correct section.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Windows new system variable java options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-new-system-variable-java-options.jpg)
 5. Type**\-JAVA\_OPTIONS** in the**Variable name** field.
@@ -95,10 +95,6 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 7. Click**OK** , and**OK** once more to save the changes.
 
  Next, launch the app that shows the error and check if the error is resolved. If not, open**Environmental Variables** again. Select the -**JAVA\_OPTIONS** variable and click**Edit** . In the**Value data** field, type**\-Xmx1024M** to increase the memory size to 1**024 MB (1GB)** . Click**OK** and check for any improvements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Increase Java Heap Size Using the Java Control Panel
 
@@ -118,12 +114,16 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 7. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall and Reinstall Java
 
 ![uninstall java Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-java.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the issue persists, a reinstall may be necessary. You can uninstall and reinstall Java to fix any issues with the release. These issues may remain even if you install a newer version. To fix the issue, uninstall Java using the Java uninstaller and then reinstall the latest version available.
 
@@ -137,13 +137,13 @@ To clean install Java:
 6. Next, go to the[Java Downloads page](https://www.java.com/en/download/manual.jsp/) and download the latest version available for your operating system. Make sure to download the correct version (32-bit/64-bit), depending on the system architecture.
 7. Run the installer and click**Install** . Follow the on-screen instructions to complete the installation and restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Install Java in a WindowsClean Boot State
 
  In Clean Boot State, Windows starts with only essential Microsoft services and apps. It’s a troubleshooting method to determine and find third-party app conflicts causing system errors. If you continue to see the error when installing Java,[start your Windows computer in a clean boot state](https://www.makeuseof.com/clean-boot-windows-11/) and try installing it again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the "Could Not Create the Java Virtual Machine" Error on Windows
 
@@ -166,24 +166,17 @@ To clean install Java:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-decisional-balance-for-2024/"><u>[New] Decisional Balance for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/arths-richest-digital-content-wizard/"><u>[New] Earth's Richest Digital Content Wizard</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enhanced-engagement-with-effective-youtube-video-outros-strategies-for-2024/"><u>[Updated] Enhanced Engagement with Effective YouTube Video Outros Strategies for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-guide-unlinking-your-gadget-from-the-google-assistant-ecosystem/"><u>Complete Guide: Unlinking Your Gadget From the Google Assistant Ecosystem</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-unique-screensavers-for-your-win11-experience/"><u>Crafting Unique Screensavers for Your Win11 Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/dismantling-windows-11s-tpm-barriers/"><u>Dismantling Windows 11'S TPM Barriers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-techniques-for-resolving-acrocefexe-malfunction/"><u>Effective Techniques for Resolving 'acrocef.exe' Malfunction</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-spotify-error-correction-in-win11/"><u>Essential Tips for Spotify Error Correction in Win11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-offers-on-cutting-edge-electronics-grab-amazon-firestick-at-a-discount-charge-up-with-ecoflow-station-and-get-your-hands-on-samsungs-newest-model.5/"><u>Exclusive Offers on Cutting-Edge Electronics: Grab Amazon Firestick at a Discount, Charge Up with EcoFlow Station, and Get Your Hands on Samsung's Newest Model!</u></a></li>
-<li><a href="https://win11.techidaily.com/file-time-fixes-efficient-methods-to-change-createdmodified-dates/"><u>File Time Fixes: Efficient Methods to Change Created/Modified Dates</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-evaluation-of-googles-calling-app-features/"><u>In-Depth Evaluation of Google's Calling App Features</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/r-guide-to-youtube-community-expectations-for-2024/"><u>Master Guide to YouTube Community Expectations for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-printer-access-management-on-windows-11/"><u>Mastering Printer Access Management on Windows 11</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-top-mkv-video-cutting-software-for-mac/"><u>New In 2024, The Top MKV Video Cutting Software for Mac</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-active-windows-11-context-menus/"><u>Restoring Active Windows 11 Context Menus</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-solving-geforce-nows-error-xc0f1103f-on-windows-11/"><u>Swiftly Solving GeForce Now's Error: Xc0f1103f on Windows 11</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/e-trouble-how-to-handle-three-tubes-of-content-at-once/"><u>Triple Trouble How to Handle Three Tubes of Content at Once</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-qbittorrents-freeze-in-windows-environment/"><u>Troubleshooting qBittorrent's Freeze in Windows Environment</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-want-current-pass-window-error/"><u>Unlocking the ‘Want Current Pass’ Window Error</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-motion-magic-mixtures/"><u>[Updated] Motion Magic Mixtures</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-c51-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/context-menu-enhancement-adding-compatibility-tools/"><u>Context Menu Enhancement: Adding Compatibility Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-new-gadgets-with-toms-electronics-expertise/"><u>Discover New Gadgets with Tom's Electronics Expertise</u></a></li>
+<li><a href="https://win11.techidaily.com/from-blank-canvases-to-full-screen-restore-your-windows-10-and-11/"><u>From Blank Canvases to Full Screen: Restore Your Windows 10 & 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-13-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 13 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-start-guide-zooming-into-fb-live-on-the-web/"><u>In 2024, Quick Start Guide Zooming Into FB Live on the Web</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-barnes-and-noble-nook-glowlight-3-your-ultimate-guide/"><u>In-Depth Analysis of the Barnes & Noble Nook GlowLight 3 - Your Ultimate Guide!</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-stealth-disguise-windows-key-in-start-menu/"><u>Mastering Stealth: Disguise Windows Key in Start Menu</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-honor-magic-6-pro-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Honor Magic 6 Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/ready-set-edit-top-15-fast-and-fun-tricks-to-use-in-pixlr-for-2024/"><u>Ready, Set, Edit! Top 15 Fast and Fun Tricks to Use in Pixlr for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reducing-the-heavy-load-from-unrealcefsubprocess-on-windows-pcs/"><u>Reducing the Heavy Load From UnrealCEFSubprocess on Windows PCs</u></a></li>
 </ul></div>
 

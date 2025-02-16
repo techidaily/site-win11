@@ -1,7 +1,7 @@
 ---
 title: "Bypassing Frozen Startup Screen in Win: LOL"
-date: 2024-07-29T15:53:56.049Z
-updated: 2024-07-30T15:53:56.049Z
+date: 2025-02-12T00:36:11.335Z
+updated: 2025-02-16T04:48:18.206Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 
  This article will discuss the causes of League of Legends not opening and how to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Does League of Legends Refuse to Open on Windows Devices?
 
  There could be several reasons why League of Legends doesn't open on your device or gets stuck on the loading screen. Here are a few major ones:
@@ -37,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 
  If you encounter a specific error when you launch the game, then you should search for solutions specific to that error. Since every error has a different solution, applying the same fixes covered in this article may not fix all of them.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Apply Preliminary Checks
 
  You should first apply the following preliminary fixes, as they may resolve the problem right away:
@@ -52,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 
  If the above fixes don't help, start applying the remaining fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Wait It Out
 
 ![Round silver-colored analog stopwatch on brown wooden panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/pexels-anton-makarenko-1078057.jpg)
@@ -60,20 +58,22 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 
  If the screen stays stuck for a few minutes, the problem lies elsewhere. Therefore, begin applying the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Check Your Internet Connection
 
  The League of Legends is a server-dependent multiplayer game. To play the game, your device needs to be connected to the internet. If you're not connected to the internet, or the connection itself is unstable, the game may not launch or run correctly. Therefore, make sure your device has an active internet connection.
 
 ![router placed on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-router.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the device is connected, [check the stability of the internet connection](https://www.makeuseof.com/check-stability-internet-connection-windows/). If the connection appears to be unstable, [apply the appropriate fixes to stabilize it](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable Cheat Software
 
  League of Legends does not tolerate the use of cheats and hacks to gain an advantage in the game. If you modify game files or use cheat software to hack into the game, League of Legends will not let you in. Due to this, the game may not turn on or get stuck on the loading screen.
@@ -87,10 +87,11 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 1. Type **"Device Manager"** in Windows Search and open the **Task Manager** app.
 2. Find all Riot and LoL processes.
 3. To end each process, right-click on it and click **End task**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Ending the Riot Process in Windows Task Manager App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2-ending-the-riot-process-in-windows-task-manager-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Free Up System Resources
 
@@ -100,9 +101,6 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 
  If that is the case, you will need to close graphics-intensive tasks simultaneously running alongside the game. By closing them, your system will have more resources available that League of Legends can use to function smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## 7\. Delete the Config and Logs Folders
 
  Files in the Logs folder contain information about errors and problems you encounter in the game. Likewise, the Config folder contains information regarding game configuration and settings. The issue under discussion can be caused by interference by these files. Therefore, you should delete the aforementioned folders.
@@ -115,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 3. Find the **Logs** and **Config** folders.
 4. To delete these folders, simply right-click on them and select **Delete**.  
 ![Deleting the Config Folder of League of Legends in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/3-deleting-the-config-folder-of-league-of-legends-in-windows-file-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Disable Any Active In-Game Overlays
 
@@ -130,17 +132,10 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 1. Click the **gear icon (User Settings)** in the bottom right corner.
 2. Navigate to the **Registered Games** tab on the left.
 3. Click the **monitor icon** next to League of Legends.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Disable Discord Overlay for a Specific Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-discord-overlay-for-a-specific-game-1.jpg)
 
  If you use any other overlay, you can also turn it off in a similar manner within the settings of the app.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Whitelist League of Legends From the Windows Defender Firewall
 
  If the game opens for a few seconds and then closes down, the Windows Defender Firewall might be blocking it. To rule out this possibility, you should whitelist League of Legends from Windows Defender Firewall. If you've never done that before, check out our guide on [how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/).
@@ -148,8 +143,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Similarly, if you're using a third-party antivirus that you think may interfere with the game process, either disable it or whitelist the game files through it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Reinstall League of Legends
 
  If none of the above fixes solve your problem and the game doesn't open, you may need to reinstall it. Before you begin the installation process, you should uninstall the existing installation. Once you have uninstalled it, you can reinstall the game after downloading it from the official website, just as you did the first time.
@@ -162,11 +158,30 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  This article will discuss the causes of League of Legends not opening and how to resolve the issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-gigglegadget-assistant/"><u>[New] 2024 Approved GiggleGadget Assistant</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-guide-the-ultimate-list-of-video-converters/"><u>[New] In 2024, Guide The Ultimate List of Video Converters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cross-platform-computing-installing-windows-11-via-parallels/"><u>Cross Platform Computing: Installing Windows 11 via Parallels</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/dealing-with-a-failed-gpu-action-plan-and-support-from-yl-software-experts/"><u>Dealing with a Failed GPU: Action Plan and Support From YL Software Experts</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/detecting-and-fixing-hard-disk-failures-guidance-by-yl-software-experts/"><u>Detecting and Fixing Hard Disk Failures: Guidance by YL Software Experts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/doom-eternal-wont-launch-yet-here-are-quick-fixes-you-need-to-know-about/"><u>DOOM Eternal Won't Launch Yet? Here Are Quick Fixes You Need to Know About</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-common-window-10-cc-glitches-simplified/"><u>Fixing Common Window 10 CC Glitches Simplified</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/flip-the-script-on-instagram-vids-complete-guide/"><u>Flip the Script on Instagram Vids [Complete Guide]</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-fix-blinded-hdd-on-pcs/"><u>Guide to Fix Blinded HDD on PCs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2020-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2020) with/without SIM Card</u></a></li>
+<li><a href="https://win11.techidaily.com/key-steps-to-amplify-your-wsl-2-and-docker-synergy/"><u>Key Steps to Amplify Your WSL 2 & Docker Synergy</u></a></li>
+<li><a href="https://win11.techidaily.com/making-most-of-w11s-advanced-visual-features-auto-hdr/"><u>Making Most of W11's Advanced Visual Features: Auto HDR</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-network-errors-in-windows-11-os/"><u>Navigating Through Network Errors in Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/navigational-wizardry-mastering-the-use-of-system-tray-keys/"><u>Navigational Wizardry: Mastering the Use of System Tray Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-your-pdf-experience-fix-selective-features-on-windows/"><u>Simplify Your PDF Experience: Fix Selective Features on Windows</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/validate-video-rights-a-guide-to-pre-uploading-on-tiktok/"><u>Validate Video Rights A Guide to Pre-Uploading on TikTok</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Bypassing Error While Opening Sound Device in Audacity for Windows
-date: 2024-07-29T15:54:03.643Z
-updated: 2024-07-30T15:54:03.643Z
+date: 2025-02-14T02:02:39.430Z
+updated: 2025-02-16T02:27:56.032Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
 
  Audacity isn’t much use when you can’t record or play music with the software because of the “error while opening sound device” issue. There are numerous ways you can feasibly resolve that Audacity recording/playback error in Windows. This is how you can fix the “error while opening sound device” issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable Desktop Apps to Access Microphone
 
  You can’t record with Audacity if microphone access for that app is disabled. So, the first thing you should check is the microphone access settings in Windows. Check the microphone is enabled for Audacity like this:
@@ -29,21 +33,18 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
 3. Select the**Microphone app permission** option.  
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/microphone-navigation-option.jpg)
 4. Toggle on the**Microphone access** option if you find that setting disabled.
-5. Scroll down to Audacity on the app list below the**Microphone access** option.  
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Scroll down to Audacity on the app list below the**Microphone access** option.  
 ![The Microphone access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-microphone-access-option.jpg)
 6. Click Audacity’s toggle switch on if it’s off to enable mic access for that app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check Sound Devices Are Enabled
 
@@ -55,16 +56,14 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
 4. If the**Playback** tab shows a peripheral you’re trying to utilize in Audacity is disabled, right-click that device and select**Enable** .
 5. Click**Recording** to switch to that tab.
 6. Right-click the input recording device you want to utilize and select**Enable** if disabled.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Enable device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-option.jpg)
 7. Then right-click the playback and recording devices you need to utilize with Audacity and select**Set as default devices** and**Set as Default Communication Device** .  
 ![The Set as Default Device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/set-as-default-device.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Check Audacity’s Device Settings Match up With Your Default Devices
 
  The device settings in Audacity need to match up with those you’ve set on the Sound window. So, check those settings match up like this:
@@ -72,11 +71,6 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
 1. Bring up the Audacity software.
 2. Click**Edit** on Audacity’s menu bar.
 3. Select**Preferences** to bring up a settings window.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![The Preferences option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/preferences-tab.jpg)
 4. Next, select the**Devices** tab.  
 ![The Devices tab in Audacity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/devices-tab.jpg)
@@ -85,9 +79,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 7. Also, select**Windows WASAPI** on the**Host** drop-down menu if that option is set differently.
 8. Select**OK** on the Preferences Devices window.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## 4\. Change Audacity’s Sample Rate
 
  The “Error While Opening Sound Device” issue can sometimes arise because Audacity’s sample rate doesn’t match that of your recording microphone. Some Audacity users have said they were able to fix this error by adjusting the sampling rate. This is how you can change Audacity’s sample rate.
@@ -97,12 +88,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 3. Click**Advanced** to view that tab’s options. There you’ll see the sample rate of your sound device in the drop-down menu.
 4. Next, open the**Preferences** window in Audacity as instructed for the first three steps of the third resolution above.
 5. Then click the**Quality** tab.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Sample Rate drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/default-sample-rate.jpg)
 6. Set the**Default Sample Rate** option there to match the sampling rate of your recording device.
 7. Alternatively, you can change the sampling rate on the**Default format** drop-down menu for the recording device to match the one set in Audacity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Turn Off Software Playthrough
 
@@ -111,10 +103,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. Click**Edit** \>**Preferences** in Audacity.
 2. Select the**Recording** tab.
 3. Deselect the**Software playthrough** **of input** if you’ve got that setting selected.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![The Software playthrough option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sofware-playthrough-option.jpg)
 4. Click the Preferences window’s**OK** button.
 
@@ -124,16 +112,15 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 1. Press**Win + S** to activate Windows Search.
 2. Enter**services** and open the Services app.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. ![The Restart service option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-restart-service-option.jpg)
 4. Right-click the**Windows Audio Endpoint Builder** service and select**Restart** .
-5. If you find the Windows Audio Endpoint Builder service isn’t running, right-click it and select the**Start** context menu option instead.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. If you find the Windows Audio Endpoint Builder service isn’t running, right-click it and select the**Start** context menu option instead.
+
 ## 7\. Update Your PC’s Audio Device Driver
 
  If none of the above possible fixes do the trick, try updating your PC’s sound driver. The issue could be arising because your PC’s sound driver is outdated or corrupted. Our guide on[updating audio drivers on Windows](https://www.makeuseof.com/update-audio-drivers-windows/) includes instructions for applying this potential solution.
@@ -149,13 +136,14 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-driver-option.jpg)
 5. Select the**Delete** **the driver for this software box** on the Uninstall Device prompt.
 6. Click**Uninstall Device** to confirm the action.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Delete the driver software for this device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-the-driver-option.jpg)
 7. Restarting Windows should then automatically reinstall a sound driver on your PC. If not, click**Action** \>**Scan for hardware changes** in Device Manager to reinstall the missing driver.
 
  There could also be an issue with the driver for the microphone you’re trying to utilize when Audacity’s recording isn’t working right. So, consider reinstalling the driver for the audio input device as well. You can do so by double-clicking the**Audio inputs and outputs** category and selecting to uninstall the microphone from there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Back to Recording and Playing Audio in Audacity
 
@@ -167,8 +155,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +162,19 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-go-from-gaming-to-socializing-streaming-xbox-to-fb-live-for-2024/"><u>[Updated] Go From Gaming to Socializing Streaming Xbox to FB Live for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-box-opening-marketing-mastery/"><u>2024 Approved Box-Opening Marketing Mastery</u></a></li>
+<li><a href="https://win-news.techidaily.com/1728492120233-windows-11/"><u>解決 Windows 11 磁碟包無法打開問題：迅速修復方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creating-interactive-web-platforms-with-gpt-3-integration/"><u>Creating Interactive Web Platforms with GPT-3 Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-guide-adjusting-smartfilter-on-modern-windows-version/"><u>Easy Guide: Adjusting SmartFilter on Modern Windows Version</u></a></li>
+<li><a href="https://win11.techidaily.com/end-the-struggle-winning-over-chrome-file-upload-snags/"><u>End the Struggle: Winning Over Chrome File Upload Snags</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/evolving-realities-the-modern-vr-sphere-for-2024/"><u>Evolving Realities The Modern VR Sphere for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-your-grandparents-existing-windows-pc-more-accessible/"><u>How to Make Your Grandparents' Existing Windows PC More Accessible</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721268135997-opt-for-impeccable-photo-restoration-services-order-now/"><u>Opt for Impeccable Photo Restoration Services – Order Now</u></a></li>
+<li><a href="https://win11.techidaily.com/reconnect-microsoft-outlook-with-windows-heres-how/"><u>Reconnect Microsoft Outlook with Windows, Here's How</u></a></li>
+<li><a href="https://win11.techidaily.com/stay-ahead-of-the-curve-vivetool-for-enhanced-windows-experience/"><u>Stay Ahead of the Curve: ViVeTool for Enhanced Windows Experience</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/upgrade-your-channels-visual-appeal/"><u>Upgrade Your Channel's Visual Appeal</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bypassing ‘Stranded’ Status: A Quick Guide for Xbox Users"
-date: 2024-07-29T15:52:11.730Z
-updated: 2024-07-30T15:52:11.730Z
+date: 2025-02-12T01:10:00.513Z
+updated: 2025-02-15T20:41:57.207Z
 tags:
   - windows10
   - windows11
@@ -26,10 +26,11 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 
  Click the **Account & profile** and **Apps & mobile** sections on that page to view status details for those categories. Does that page show limited or outage indicators for any services? If so, wait a few days for such server-side issues to be sorted.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Xbox server status page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/xbox-server-status.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Utilize the Windows Store Apps Troubleshooter
 
@@ -43,16 +44,21 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 5. Then apply potential resolutions proposed within the troubleshooter.  
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-store-apps-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The same troubleshooter is available in Windows 10, but that platform’s Settings app has a slightly different layout. You can access it in Windows 10’s Settings app by selecting **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters**. Then click on Windows Store Apps to access a **Run the troubleshooter** option.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Reinstall Your Xbox App
 
  Finally, reinstall your Xbox app if nothing else works for fixing the “Looks like you’re stranded” error. You can do that by removing Xbox with the Settings method in our [guide to uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). Then open the [Xbox Microsoft Store page](https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z) and click **Get in Store app** \> **Open Microsoft Store**. Select **Get** within the Microsoft Store window to reinstall the latest Xbox app on your PC.
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-uninstall-option-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Try Some Generic Windows App Fixes
 
@@ -62,36 +68,29 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 
  Updates often include fixes for app bugs reported by users. So, check for and download any available Xbox app updates. Our guide to [updating Windows apps](https://www.makeuseof.com/update-apps-windows-11/) has instructions for downloading app updates via Microsoft Store.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Update all apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-update-all-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Select the Xbox App’s Reset Option
 
  Resetting the Xbox app is a confirmed fix for the “Looks like you’re stranded” error. Doing so will clear away any corrupted or old app data that could be causing the error. It’s easy to clear the Xbox app’s data with the **Reset** option in Settings. You can apply this potential resolution by following the instructions in our article about [resetting Microsoft Store apps](https://www.makeuseof.com/windows-reset-app/).
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Reset button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-button-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Change Your DNS Server to Google's Public DNS
 
  The “Looks like you’re stranded” error can arise because of internet connectivity issues. Changing your Domain Name System server to a better, more reliable public one could resolve such issues. So, try setting Google to be your DNS server instead.
 
  Our [guide to changing DNS servers in Windows](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) tells you how to apply this possible resolution and includes the primary and alternative DNS addresses for Google.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![DNS server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dns-server-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get the Xbox App Working Again
 
@@ -99,11 +98,26 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 
  Users can’t utilize the Windows Xbox app when this error keeps reoccurring. Does the same thing happen when you try to utilize the Xbox app on Windows? If it does, this is how you can fix the Xbox app’s “Looks like you’re stranded” error in Windows 10 and 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-the-connected-world-sharing-twitter-media-in-whatsapp-chat/"><u>[New] The Connected World Sharing Twitter Media in WhatsApp Chat</u></a></li>
+<li><a href="https://article-files.techidaily.com/alpine-adventure-2022s-spectacular-snowboard-cross-olympic-moments/"><u>Alpine Adventure 2022'S Spectacular Snowboard Cross Olympic Moments</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-into-windows-11s-enhancements-for-feb-update/"><u>Dive Into Windows 11'S Enhancements for Feb Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-repair-non-functional-dell-usb-ports/"><u>How to Troubleshoot and Repair Non-Functional Dell USB Ports</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-the-versatile-and-powerful-samsung-galaxy-tab-s4-for-android-users/"><u>In-Depth Look at the Versatile and Powerful Samsung Galaxy Tab S4 for Android Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/master-guide-fixing-the-persistent-crash-problem-in-the-surge-2/"><u>Master Guide: Fixing the Persistent Crash Problem in The Surge 2</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-your-desktop-space-with-fancywm/"><u>Maximize Your Desktop Space with FancyWM</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-common-windows-11-gripes/"><u>Navigating Through Common Windows 11 Gripes</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-s23-ultra-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy S23 Ultra Reset Code | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-itel-p55-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Itel P55 Phone Pattern Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unreachable-windows-hello-error/"><u>Troubleshooting Unreachable Windows Hello Error</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-cleanup-how-to-delete-focus-wallpaper-icon/"><u>Win11 Cleanup: How to Delete Focus Wallpaper Icon</u></a></li>
+</ul></div>
+

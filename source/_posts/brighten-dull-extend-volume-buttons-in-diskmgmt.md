@@ -1,7 +1,7 @@
 ---
 title: Brighten Dull Extend Volume Buttons in DiskMgmt
-date: 2024-07-29T15:51:34.115Z
-updated: 2024-07-30T15:51:34.115Z
+date: 2025-02-11T16:29:43.375Z
+updated: 2025-02-16T04:30:58.280Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 
  If this is happening to you, try the below solutions for a grayed-out "extend volume" option on Windows
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is the Extend Volume Option Grayed Out on Windows?
 
  If you see the extend volume option is grayed out in the Disk Management tool, there are a few possible reasons:
@@ -30,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 
  Now that you know all the possible culprits behind the issue, let's check out all the solutions that can help fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Convert the Partition to an NTFS File System
 
  Windows only supports certain [file systems](https://www.makeuseof.com/tag/from-fat-to-ntfs-to-zfs-file-systems-demystified-makeuseof-explains/) for partitions. If the partition you want to extend is formatted in a file system incompatible with Windows, you will not be able to extend it.
@@ -48,17 +49,15 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
  The formatting process may take some time, depending on the amount of data on the partition. Once done, restart your computer and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Delete a Partition and Create Unallocated Space
 
  The "extend volume" option will gray out if there is no unallocated space next to the partition you want to extend. To create unallocated space, you will have to delete a partition that is next to the partition you want to extend.
 
  If the partition is a normal volume, you can simply right-click on it and select **Delete Volume**. However, if the partition contains data, make sure to back it up before deleting it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Delete Volume option in Disk Management tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-volume-option.jpg)
 
  If the partition is a recovery partition, you cannot delete it using Disk Management. You'll have to delete it using the Command Prompt. Here are the steps to do it:
@@ -66,30 +65,26 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 1. Press the **Win** key to open the Start Menu, type **Command** **Prompt**, and choose **Run as administrator** from the right pane. If this method doesn't work, check out other [ways to launch Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/).
 2. Type **DiskPart** and press **Enter**.
 3. Type **list disk** and press **Enter**. This command will display all the available disks.  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![list disk command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/list-disk-command-2.jpg)
 4. Select the disk that you want to extend. For example, if you want to extend disk 0, type **select disk 0** and press **Enter**.
 5. Type **list partition** and press **Enter**. This will list all the partitions on the disk.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![list partition command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/list-partition.jpg)
 6. In the Type column, look for the partition that says **Recovery**. Note the partition number. For example, if the partition number is 4, type **select partition 4** and press **Enter**. This will select the recovery partition.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. To delete the recovery partition, type **delete partition override** and press **Enter**.  
 ![delete partition override command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-partition-override.jpg)
 
  You will see the message **DiskPart successfully deleted the selected partition**. This indicates that the recovery partition has been deleted.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![DiskPart successfully deleted the selected partition message in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/diskpart-successfully-deleted-the-selected-partition.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, open the Disk Management tool, and you will see an unallocated space next to the partition you want to extend. Right-click on the partition, choose **Extend** **Volume**, and then click **Next**.
 
@@ -97,13 +92,15 @@ No advertising on the website.
 
  Once the wizard completes, you will see the partition size has been increased.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Extend Your Windows Partitions Without Any Further Issues
 
  If you run out of space on a drive, you can use the unallocated space to increase storage. However, you will not be able to do so if the extend volume option is grayed out in the Disk Management tool. Fortunately, you can quickly troubleshoot this issue using the solutions above.
 
  If this is happening to you, try the below solutions for a grayed-out "extend volume" option on Windows
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -111,3 +108,23 @@ No advertising on the website.
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-optimizing-video-conference-set-ups-slack-and-filmora-guide/"><u>[Updated] Optimizing Video Conference Set-Ups Slack & Filmora Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/advanced-dell-alienware-aurora-r9-gaming-laptop-assessment-a-look-at-its-cutting-edge-architecture/"><u>Advanced Dell Alienware Aurora R9 Gaming Laptop Assessment: A Look at Its Cutting-Edge Architecture</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/discover-your-favorite-songs-with-20-new-hits-on-karaoke-cloud-pro-subscription-this-weeks-additions-12192016-update/"><u>Discover Your Favorite Songs with 20 New Hits on Karaoke Cloud Pro Subscription - This Week's Additions (12/19/2016 Update)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/immediate-countermeasures-for-the-w10-photos-crash-dilemnas-for-2024/"><u>Immediate Countermeasures for the W10 Photos Crash Dilemnas for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/leveraging-built-in-recorders-on-mate-1020-and-p2010-series-to-screen-capture-for-2024/"><u>Leveraging Built-In Recorders on Mate 10/20 & P20/10 Series to Screen Capture for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-10-restore-eliminating-error-code-0x80042306/"><u>Mastering Windows 10 Restore: Eliminating Error Code 0X80042306</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-mmc-snaps-not-displayed-on-windows/"><u>Navigating Through MMC Snaps Not Displayed on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-screen-mirroring-failure-a-guide-to-solutions/"><u>Overcoming Screen Mirroring Failure: A Guide to Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-usb-recognition-failures-on-windows-11/"><u>Resolving USB Recognition Failures on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-hibernation-4-techniques-for-windows-users/"><u>Reviving Hibernation: 4 Techniques for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/selecting-the-optimal-nearby-sharing-technique-googles-or-windows-way/"><u>Selecting the Optimal Nearby Sharing Technique: Google's or Windows' Way</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-access-to-tools-setting-up-command-line-tricks/"><u>Speedy Access to Tools: Setting up Command-Line Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-enjoying-dvd-films-across-all-xbox-one-variants/"><u>Step-by-Step Tutorial: Enjoying DVD Films Across All Xbox One Variants</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>What Pokémon Evolve with A Dawn Stone For Apple iPhone 7? | Dr.fone</u></a></li>
+</ul></div>
+

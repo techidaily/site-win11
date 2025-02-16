@@ -1,7 +1,7 @@
 ---
 title: Essential Tips to Install Dormant Windows Apps & Extras
-date: 2025-02-02T16:27:12.681Z
-updated: 2025-02-03T18:53:47.253Z
+date: 2025-02-08T16:17:36.732Z
+updated: 2025-02-15T18:06:54.696Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Use the DISM Tool
 
@@ -55,13 +59,13 @@ To check your system using SFC, follow these steps:
 ![SFC Utility In Windows Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-utility-in-windows.jpg)
 3. Once SFC scans for errors, make sure to restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Want to know the best part?
 
  The best part is that the System File Checker not only helps you fix the optional features problem but also any other Windows issues. In fact, it's one of the best[ways to repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Reset the Windows Update Components
 
@@ -87,10 +91,6 @@ net start msiserver`
 
 ![Update Components Reset In CMD Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-components-reset-in-cmd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  While the commands may look intimidating, you don't need to worry, as all the commands mentioned above will not cause any harm to your system.​​​​
 
 ## 4\. Run the Windows Update Troubleshooter
@@ -106,10 +106,6 @@ Follow these steps to run the update troubleshooter on Windows:
 
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
 4. Follow the prompts to complete the troubleshooting process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
 
@@ -127,9 +123,17 @@ Here's how you can update Windows to the latest version:
 2. Click on**Windows** **Update > Check for updates** on Windows 11\. For Windows 10, click on **Update & Security > Windows Update > Check for Updates** .  
 ![Windows Update In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it. Now, you can install any update that is available for your computer.
 
  By default, Windows automatically downloads and installs updates, but you can also check for updates manually by following the steps above.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Restart the Windows Module Installer Service
 
@@ -148,7 +152,7 @@ Here's how you can update Windows to the latest version:
  Once the service restarts, try installing the optional feature again, and it should work now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Restore Windows Features Using PowerShell
@@ -170,7 +174,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 5. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will add the feature back to your system and should make it available for you to enable or disable in the features window.
@@ -178,10 +182,6 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
  This method only allows you to restore a specific feature and, not all the features at once. So, you need to copy and paste the same command and edit the**FEATURENAME** every time.
 
  If these steps don't fix the problem, you may need to ask Microsoft or a technical support professional for more help.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Back the Windows Optional Features
 
@@ -202,20 +202,22 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-lightning-lens-work-a-guide-to-speedy-google-collage-creation/"><u>[New] Lightning Lens Work A Guide to Speedy Google Collage Creation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-throughput-your-videos-8-top-android-apps/"><u>[New] Throughput Your Videos 8 Top Android Apps</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-masterpiece-maker-top-free-editors-for-android-devices/"><u>[Updated] 2024 Approved Masterpiece Maker Top Free Editors for Android Devices</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-essential-vlogging-tools-for-beginners-for-2024/"><u>[Updated] Essential Vlogging Tools for Beginners for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-2023-horror-film-collections-buy-or-download-blu-ray-and-dvd-versions/"><u>Best 2023 Horror Film Collections: Buy or Download Blu-Ray and DVD Versions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-audio-troubles-on-windows-effective-solutions-for-gamers/"><u>Cyberpunk 2077 Audio Troubles on Windows: Effective Solutions for Gamers</u></a></li>
-<li><a href="https://win11.techidaily.com/empowering-your-galaxy-on-pc-essentials-of-the-samsung-app/"><u>Empowering Your Galaxy on PC: Essentials of the Samsung App</u></a></li>
-<li><a href="https://win11.techidaily.com/enhanced-windows-interface-with-right-click-contextual-help/"><u>Enhanced Windows Interface with Right-Click Contextual Help</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/proficient-powershell-commands-for-seamless-archive-management/"><u>Proficient PowerShell Commands for Seamless Archive Management</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-reactivate-missing-windows-apps-and-options/"><u>Quick Guide to Reactivate Missing Windows Apps & Options</u></a></li>
-<li><a href="https://win11.techidaily.com/release-trapped-windows-handbrake/"><u>Release Trapped Windows HandBrake</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-files-with-powertoys-locksmith-utility/"><u>Secure Files with PowerToys' Locksmith Utility</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-top-2-methods-to-create-iphone-ringtones-from-mp3-files-a-step-by-step-guide/"><u>The Top 2 Methods to Create iPhone Ringtones From MP3 Files: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-modify-the-default-browser/"><u>Windows 11: Modify the Default Browser</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-essential-travel-vloggers-the-ultimate-10-list/"><u>[Updated] 2024 Approved Essential Travel Vloggers The Ultimate 10 List</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-cuts-windows-11-shutdown-shortcuts/"><u>Efficient Cuts: Windows 11 Shutdown Shortcuts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-camon-20-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Camon 20 Pattern Lock Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-adjusting-text-highlight-on-windows-11/"><u>Guide to Adjusting Text Highlight on Windows 11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Come up With the Best Pokemon Team On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-inshots-music-integration-techniques/"><u>In 2024, InShot's Music Integration Techniques</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-xcover-7frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy XCover 7FRP Lock</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-13t-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi 13T Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-unlocking-efficiency-in-video-editing-with-these-top-10-apps/"><u>In 2024, Unlocking Efficiency in Video Editing with These Top 10 Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-xp-error-0x80300024/"><u>Overcoming Windows XP Error 0X80300024</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-tips-for-streamlining-remote-desktop-on-win-11/"><u>Pro-Tips for Streamlining Remote Desktop on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-preferred-keyboard-settings-in-windows-11/"><u>Reclaiming Preferred Keyboard Settings in Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/speedlite-iv-review-easy-controls-meets-economical-savings/"><u>Speedlite IV Review: Easy Controls Meets Economical Savings</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-resource-in-use-status-on-windows-11-devices/"><u>Steps to Overcome Resource In-Use Status on Windows 11 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-your-pc-affordable-key-aficionados-edition-of-windows-11-on-black-friday/"><u>Unlock Your PC: Affordable Key Aficionado's Edition of Windows 11 on Black Friday</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-technique-for-effective-photos-app-blur-on-w11/"><u>Unveiling the Technique for Effective Photos App Blur on W11</u></a></li>
+<li><a href="https://facebook.techidaily.com/when-is-the-best-time-to-post-on-facebook/"><u>When Is the Best Time to Post on Facebook?</u></a></li>
 </ul></div>
 

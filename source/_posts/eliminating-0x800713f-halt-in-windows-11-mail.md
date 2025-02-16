@@ -1,7 +1,7 @@
 ---
 title: Eliminating 0X800713F Halt in Windows 11 Mail
-date: 2025-02-01T00:33:25.904Z
-updated: 2025-02-04T02:18:02.083Z
+date: 2025-02-13T02:54:59.013Z
+updated: 2025-02-15T16:51:32.769Z
 tags:
   - windows10
   - windows11
@@ -36,17 +36,17 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-troubleshooter-list.jpg)
 5. Go through the troubleshooter and apply all suggestions it makes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-store-apps-troubleshooter2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The same troubleshooter is available in Windows 10, but the steps for accessing it in Settings are a little different. You’ll need to select the**Update & Security** category in Windows 10’s Settings app. Then select the**Troubleshoot** tab and**Additional troubleshooters** to view the list of troubleshooting tools.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Change the Privacy Settings for the Mail App
 
@@ -59,16 +59,12 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 4. Turn on**Email access** if that option isn’t enabled.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Let apps access your email** to expand options.  
 ![The Let apps access your email option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/let-apps-access-your-email.jpg)
 6. Toggle the**Mail and Calendar** app on if it’s not already.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Also, turn on the**People** app listed there.
 
@@ -81,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Allow Mail and Calendar Through Windows Defender Firewall
@@ -96,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-windows-defender-firewall-options.jpg)
 4. Next, press the**OK** button below the firewall settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Then bring up Mail and try adding an email account to it.
 
  If disabling the firewall resolves error 0x800713f, WDF was probably blocking Mail when it was on. We don’t recommend leaving the firewall off. Allow Mail through WDF as outlined within our guide for[allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Then turn the firewall back on.
@@ -107,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![Windows Defender Firewall's allowed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/allowed-firewall-app.jpg)
 
  Do you have a third-party firewall on your desktop or laptop? If you do, that software could also be causing Mail app issues. Try disabling third-party firewall software to see if that makes a difference. If it does, check the firewall’s permission settings to ensure Mail is allowed through.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Log in to Windows With a Local User Account
 
@@ -124,14 +120,14 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![Local account info boxes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enter-your-local-account-info.jpg)
 3. Press the**Sign out** **and** **Finish** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Sign out and finish button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-sign-out-and-finish-button.jpg)
 4. Log in to your local user account.
 
 5. Open**Mail** to check if the 0x800713f error has been fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reinstall Mail and Calendar
 
@@ -152,6 +148,10 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
  The steps for reinstalling Mail in Windows 10 Settings are similar. You’ll need to select the**Apps** category in Settings. Then select Mail and Calendar in Apps & features, and press its**Uninstall** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Send More Emails With the Mail App
 
  Those are six fixes that will probably resolve Mail’s 0x800713f error in most cases. They’re relatively quick and straightforward potential solutions to apply. With the 0x800713f error sorted, you’ll be able to add your email account and send messages in Mail again.
@@ -171,18 +171,22 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-drone-balance-the-top-7-gimbals/"><u>[New] In 2024, Drone Balance The Top 7 Gimbals</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-critical-aspects-of-leveraging-chatgpt-effectively-for-mental-health-support/"><u>5 Critical Aspects of Leveraging ChatGPT Effectively for Mental Health Support</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-driven-solutions-streamlining-user-experience-through-smart-marketing-automation/"><u>Cookiebot Driven Solutions: Streamlining User Experience Through Smart Marketing Automation</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/elevating-your-instagram-post-visibility-and-interaction/"><u>Elevating Your Instagram Post Visibility and Interaction</u></a></li>
-<li><a href="https://win11.techidaily.com/elite-forecasting-apps-for-the-modern-windows-user/"><u>Elite Forecasting Apps for the Modern Windows User</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-track-to-windows-11-app-accessibility/"><u>Fast-Track to Windows 11 App Accessibility</u></a></li>
-<li><a href="https://win11.techidaily.com/icloud-setup-woes-fixes-for-windows-users-here/"><u>ICloud Setup Woes? Fixes for Windows Users Here</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-discovering-advanced-video-formats-av1-and-vp9/"><u>In 2024, Discovering Advanced Video Formats AV1 & VP9</u></a></li>
-<li><a href="https://win11.techidaily.com/innovative-ways-to-bypass-tpm-on-windows-11/"><u>Innovative Ways to Bypass TPM on Windows 11</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/mixing-tunes-with-videos-on-vimeo-platform-for-2024/"><u>Mixing Tunes with Videos on Vimeo Platform for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/quick-guide-sharing-igtv-in-the-world-of-insta-stories-for-2024/"><u>Quick Guide Sharing IGTV in the World of Insta Stories for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210769681-9781644118160-seven-heavens/"><u>Seven Heavens | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/unveil-the-synergy-essential-apps-to-enhance-your-windows-11-life/"><u>Unveil the Synergy: Essential Apps to Enhance Your Windows 11 Life</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-correct-yt-monetization-checklist-maximize-your-earnings/"><u>[New] 2024 Approved Correct YT Monetization Checklist – Maximize Your Earnings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-save-music-files-from-fb/"><u>[New] Save Music Files From Fb</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-bridging-scripts-with-voices-turning-xmlttml-into-srt/"><u>[Updated] 2024 Approved Bridging Scripts with Voices Turning XML/TTML Into SRT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-thumbnail-downloader-solutions-online/"><u>[Updated] 2024 Approved Free Thumbnail Downloader Solutions Online</u></a></li>
+<li><a href="https://win11.techidaily.com/customize-windows-11-for-optimal-performance/"><u>Customize Windows 11 for Optimal Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-processor-generations-in-windows-with-8-steps/"><u>Deciphering Processor Generations in Windows with 8 Steps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-the-sleek-and-compact-acer-chromebook-r-11-a-comprehensive-review/"><u>Discovering the Sleek and Compact Acer Chromebook R 11: A Comprehensive Review</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-logitech-steering-wheel-utility-for-windows-7810-free/"><u>Download Logitech Steering Wheel Utility for Windows 7/8/10 (Free)</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-resource-handling-on-windows-subsystem-for-android/"><u>Effective Resource Handling on Windows Subsystem for Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-apples-secure-operating-system-project-enhancing-safety-for-ai-data-center-operations-discover-the-latest-insights/"><u>Inside Apple's Secure Operating System Project: Enhancing Safety for AI Data Center Operations - Discover the Latest Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-quick-keys-in-3d-paint/"><u>Mastering Quick Keys in 3D Paint</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-correcting-windows-11s-error-0x0000011b/"><u>Strategies for Correcting Windows 11'S Error: 0X0000011B</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-10-best-drones-with-camera-for-filming-and-photography/"><u>Top 10 Best Drones with Camera for Filming and Photography</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-desktops-into-artworks-discover-8-elegant-bubble-ui-methods/"><u>Transforming Desktops Into Artworks - Discover 8 Elegant Bubble UI Methods</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/understanding-black-hat-seo-definitions-methods-and-potential-pitfalls/"><u>Understanding Black Hat SEO: Definitions, Methods, and Potential Pitfalls</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-windows-11s-theme-concealment-with-registry-techniques/"><u>Unraveling Windows 11'S Theme Concealment with Registry Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/win-error-0x80070141-device-reachability-fixes-made-simple/"><u>Win Error 0X80070141 - Device Reachability Fixes Made Simple</u></a></li>
 </ul></div>
 

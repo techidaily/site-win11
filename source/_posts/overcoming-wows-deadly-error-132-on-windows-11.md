@@ -1,7 +1,7 @@
 ---
 title: Overcoming WoW's Deadly Error #132 on Windows 11
-date: 2025-01-30T08:24:29.090Z
-updated: 2025-02-03T20:45:31.082Z
+date: 2025-02-09T03:09:48.320Z
+updated: 2025-02-15T18:49:23.893Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disable Game DVR for Recording Clips
 
  This somewhat unusual potential solution is also among the most widely confirmed to work. Many WoW players have been able to fix error 132 simply by disabling Game DVR background recording. So, maybe that potential fix could work for you as well. Try disabling Game DVR as follows:
@@ -37,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 2. Click **Gaming** \> **Captures** in Settings.
 3. Turn Off the **Record in the background while I’m playing a game** option.  
 ![A screenshot of the Captures setting screen for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/record-in-the-background-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Windows 11 Settings app doesn’t include that option. However, you can access the same option within the Game Bar app. Press the **Windows** key + **G** and select **Settings** \> **Capturing** in the Game Bar. Then deselect the **Record in the background while I’m playing a game** checkbox.
 
@@ -54,8 +46,16 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 ![A screenshot of the Show In Explorer option for World of Warcraft in Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/show-in-file-explorer.jpg)
 4. Next, open either the **\_retail\_** or **\_classic\_** subfolder. For example, open the **\_classic\_** folder if you play World of Warcraft Classic or **\_retail\_** for the current version.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A screenshot of the Retail folder in the system files for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/retail-folder.jpg)
 5. Then right-click on the **Interface** subfolder, select **Rename**, and input **InterfaceOld** for the new name.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Repeat the previous step for the **Classic** and **WTF** folders. Rename those folders to **ClassicOld** and **WTFOld**.  
 ![A screenshot of the system file options for the Cache folder for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-option.jpg)
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
  If error 132 still affects your game, even after renaming folders, you may want to try other ways to [fix World of Warcraft not launching in Windows 10/11](https://www.makeuseof.com/windows-11-10-world-of-warcraft-not-launching/). Some potential fixes associated with launching WoW may also fix error 132\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable DirectX Legacy Mode
@@ -85,14 +85,10 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 6. Press **Done** to set World of Warcraft’s command line argument.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart the Blizzard software after setting this new command line argument for World of Warcraft. Then start WoW to see if this possible resolution makes a difference.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Add World of Warcraft to Your Security Software Exclusions List
 
@@ -103,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
  To ensure your security software never blocks World of Warcraft, add the game’s .exe (application) file to your antivirus and firewall exception lists. You can [whitelist files for Microsoft Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/#:~:text=Under%20Protection%20areas%2C%20select%20Virus,type%2C%20or%20process%20to%20exclude.) by clicking the **Add an exclusion** button in the Windows Security app. If you’ve installed a third-party antivirus tool, set a WoW exception in that app’s exclusion list instead.
 
  If adding World of Warcraft to your Windows Defender Exclusion List doesn’t fix error 132, you may want to [run the System File Checker for Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) instead. This could repair any corrupted files causing the error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enjoy World of Warcraft Again
 
@@ -120,19 +120,20 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-unveiling-the-secrets-how-to-save-your-google-meet/"><u>[New] In 2024, Unveiling the Secrets How to Save Your Google Meet</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-ios-and-android-asmr-experience-leaders/"><u>[New] IOS and Android ASMR Experience Leaders</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-simple-steps-to-make-ipad-screen-captures-a-breeze/"><u>[New] Simple Steps to Make iPad Screen Captures a Breeze</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725285608122-ai/"><u>「高效且免費的AI製作人工智能手動照片修复軟件」</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/best-hidden-instagram-tool-for-clandestine-stories-for-2024/"><u>Best Hidden Instagram Tool for Clandestine Stories for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/display-diversity-adjusting-each-monitors-aesthetic-in-win-1011/"><u>Display Diversity: Adjusting Each Monitor's Aesthetic in WIN 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-developer-skills-with-github-desktop-on-windows-oses/"><u>Elevate Your Developer Skills with GitHub Desktop on Windows OSes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-guide-converting-hevc-videos-into-mp4-format-no-cost/"><u>Free Guide: Converting HEVC Videos Into MP4 Format - No Cost!</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-patching-with-4-essentials/"><u>Mastering Windows Patching with 4 Essentials</u></a></li>
-<li><a href="https://win11.techidaily.com/preserving-your-digital-post-its-in-windows/"><u>Preserving Your Digital Post-Its in Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-best-innovations-in-technology-for-2er-year-as-selected-by-the-experts-at-zdnet/"><u>The Best Innovations in Technology for 2Er Year, as Selected by the Experts at ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-password-less-windows-11-rdp/"><u>The Ultimate Guide to Password-Less Windows 11 RDP</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-automatic-fixes-for-wake-up-sound-issues/"><u>The Ultimate Guide: Automatic Fixes for Wake-Up Sound Issues</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-a-list-of-the-top-spongebob-voice-generators-for-2024/"><u>Updated A List of The Top SpongeBob Voice Generators for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/easypathtodarkviewinwinnotepadapp/"><u>EasyPathToDarkViewInWinNotepadApp</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-error-0x800f0922-on-windows-11-updates-step-by-step/"><u>Fixing Error 0X800F0922 on Windows 11 Updates: Step-by-Step</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-alternative-windows-filmmakers/"><u>In 2024, Alternative Windows Filmmakers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-xiaomi-redmi-note-12-4g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Xiaomi Redmi Note 12 4G Phone?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-maximize-mobile-video-quality-top-4-strategies-to-brighten-iphone-hdr-in-adobe/"><u>In 2024, Maximize Mobile Video Quality Top 4 Strategies to Brighten iPhone HDR in Adobe</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/navigate-the-world-of-digital-media-with-ease-using-digiartys-specialized-conversion-solutions/"><u>Navigate the World of Digital Media with Ease Using Digiarty’s Specialized Conversion Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-best-video-editing-apps-for-young-creators-free-and-paid-editions/"><u>New In 2024, Best Video Editing Apps for Young Creators Free and Paid Editions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-oppo-find-x7-ultra-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo Find X7 Ultra Black and White | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/redressing-taskbar-icon-anomalies/"><u>Redressing Taskbar Icon Anomalies</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/while-you-teach-hosting-low-cost-seminars-via-youtube/"><u>Save While You Teach Hosting Low-Cost Seminars via YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-data-organization-quickly-open-disk-management-in-win11/"><u>Simplify Data Organization: Quickly Open Disk Management in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/stepping-around-windows-11s-tpm-and-secure-boot-rufus-guide/"><u>Stepping Around Windows 11'S TPM & Secure Boot: Rufus Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rectify-disabled-mute-button/"><u>Steps to Rectify Disabled Mute Button</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-teamsters-freeze-in-w11-and-w10/"><u>Troubleshooting Teamsters Freeze in W11 & W10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Direct Download Approaches for New Users
-date: 2025-02-01T08:50:00.753Z
-updated: 2025-02-03T22:35:15.700Z
+date: 2025-02-10T01:48:48.172Z
+updated: 2025-02-15T22:12:54.527Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/7f563c6cc49d9e48b9aa551214712c5134f2db518
  When installing a browser, be sure to check the publisher to avoid installing fake apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Install Browsers Using Commands
@@ -61,6 +61,10 @@ Let's talk about how you can use these to download a browser.
 
 ![installing chrome using the winget packet manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-winget.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Exit the PowerShell window after the browser has been installed and you'll be ready to start browsing.
 
 ### Download a Browser Using the Curl Command
@@ -78,7 +82,7 @@ Paste the link in quotation marks like so:
 ![installing chrome using the curl command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-curl.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The command essentially asks Curl to navigate to a specific URL, make a download request, follow HTTP redirects, and save the files as download.exe.
@@ -86,7 +90,7 @@ Paste the link in quotation marks like so:
  Once the file has been downloaded, run the installation wizard to complete the installation process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Download a Browser Using Chocolatey
@@ -116,7 +120,7 @@ Next, run the following command:
 Once the process is complete, you can start using the new browser.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use a Invoke-WebRequest PowerShell Script
@@ -136,10 +140,6 @@ Run the following command in PowerShell:
 `Invoke-WebRequest link -o download.exe`
 
 ![installing chrome using powershell scripting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-powershell-script.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Replace the word link with the link to your browser's setup file. Once you execute the command, you'll see PowerShell downloading the file. Once the download is complete, exit PowerShell and run the download.exe file stored on your desktop. Follow the installation wizard's instructions and you're set.
 
@@ -162,22 +162,16 @@ Run the following command in PowerShell:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-rapid-access-accelerating-vimeo-videos/"><u>[New] 2024 Approved Rapid Access Accelerating Vimeo Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-narrative-flow-expert-tips-on-using-jump-cuts/"><u>[New] In 2024, Elevate Narrative Flow Expert Tips on Using Jump Cuts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-seamless-live-recording-on-fb-uncover-4-critical-steps-for-2024/"><u>[New] Seamless Live Recording on FB Uncover 4 Critical Steps for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-discover-the-power-of-nikon-1j5s-4k-video/"><u>[Updated] Discover the Power of Nikon 1J5's 4K Video</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-exploring-high-definition-chroma-blade-photography-for-2024/"><u>[Updated] Exploring High-Definition Chroma Blade Photography for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-to-fixing-missing-gpeditmsc-windows/"><u>Comprehensive Guide to Fixing Missing Gpedit.msc Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-connection-problems-between-windows-11-and-nvidia-experience/"><u>Eliminating Connection Problems Between Windows 11 & NVIDIA Experience</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-12-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 12 Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-google-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Google?</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-running-elevated-powershell-in-windows-11/"><u>Mastering the Art of Running Elevated PowerShell in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-fix-of-windows-intruder-error-messages/"><u>Mastering the Fix of Windows' Intruder Error Messages</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-productivity-and-convenience-with-cmd-shortcuts-in-win11/"><u>Maximize Productivity and Convenience with Cmd Shortcuts in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-0xc0000142-faults-in-win10win11/"><u>Overcoming 0XC0000142 Faults in WIN10/Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-11-glitches-apex-legends-issues/"><u>Overcoming Windows 11 Glitches: Apex Legends Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivating-shutdown-how-to-open-apps-again-in-w11/"><u>Reactivating Shutdown: How to Open Apps Again in W11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-repairing-your-xbox-one-when-it-shows-a-no-signal/"><u>Step-by-Step Solutions for Repairing Your Xbox One When It Shows a 'No Signal'</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/zoom-webinars-for-newbies-a-practical-starter-manual-for-2024/"><u>Zoom Webinars for Newbies A Practical Starter Manual for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-premiered-5-screen-options-for-ps5-gamers/"><u>[New] Premiered 5 Screen Options for PS5 Gamers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-how-to-find-your-niche-and-style-a-starters-guide/"><u>[Updated] 2024 Approved How to Find Your Niche and Style - a Starter's Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-unveiling-best-video-software-vlc-against-mx/"><u>[Updated] 2024 Approved Unveiling Best Video Software VLC Against MX</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-common-mistakes-tips-on-switch-account-security/"><u>Avoid Common Mistakes: Tips on Switch Account Security</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-system-interactions-with-ps/"><u>Enhancing System Interactions with PS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-selective-sharpening-photo-editing-techniques/"><u>In 2024, Mastering Selective Sharpening Photo Editing Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/innovate-your-way-to-windows-11-excellence/"><u>Innovate Your Way to Windows 11 Excellence</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-iphone-15-why-seasoned-professionals-should-embrace-this-new-release/"><u>Inside Look at iPhone 15 - Why Seasoned Professionals Should Embrace This New Release</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-daily-stressors-with-chatgpt-proven-methods-for-calmness/"><u>Overcoming Daily Stressors with ChatGPT: Proven Methods for Calmness</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-pc-maintenence-assigning-win-11-troubleshooter-buttons/"><u>Personalize PC Maintenence: Assigning Win 11 Troubleshooter Buttons</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-rectifying-the-cannot-start-application-error-0xc000003e/"><u>Understanding and Rectifying the Cannot Start Application Error 0XC000003E</u></a></li>
 </ul></div>
 

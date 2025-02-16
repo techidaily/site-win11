@@ -1,7 +1,7 @@
 ---
 title: Remedy for Invisible HDD in PCs
-date: 2025-02-02T07:40:10.924Z
-updated: 2025-02-04T01:08:06.549Z
+date: 2025-02-13T21:11:39.808Z
+updated: 2025-02-16T04:49:21.378Z
 tags:
   - windows10
   - windows11
@@ -29,31 +29,23 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
 ![external hard drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/external-hard-drive.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have recently connected a new external hard drive to your PC, it can lead you to all sorts of problems. Indeed, the hard drive detection error on your Windows might be caused just because of that. While plugging in external devices to Windows is second nature to most of us, it can definitely leave us at a hard drive failure for various reasons: an incompatibility issue, driver conflicts, hardware faults, and so on.
 
  So, in cases like this, we recommend you unplug the external hard drive and plug it back in again later.
 
  If your hard drive starts working as soon as you pull out your external drive, then that means there was some issue with the hard drive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Check the Hardware Connection
 
 ![man fixing a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/man-fixing-a-computer-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Like any technical system, the hardware connections in your PC can go awry at times. In the case of your hard drive, a loose wire or a faulty port can leave you with a defective hard drive connection on your PC.
 
  So we suggest you check all the connections to your hard drive. Give it a thorough look and ensure you fit everything into its proper place.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Change the Drive's Formatting to NTFS
 
@@ -83,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
  Now reboot your PC to solidify the changes and see if you are still left with the hard drive detection error on your Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Use the Disk Management Tool
 
  The Disk Management tool, as its name irrevocably suggests, is a tool that can manage all things related to the disk partition of your hard drive. From creating and deleting to tweaking and so on—the tool can do it all.
@@ -98,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
  If your hard drive(s) is visible, then you can try a couple of things to get things back to the way they were: a complete partition allocation or formatting an existing partition. Let's look at them both.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Allocating the 'Unallocated' Partition (Volume)
 
  Most hard disks divide their total storage into multiple, smaller parts called Partitions. So if you are using multiple disks, you must allocate some disk space to the partition for its normal functioning.
@@ -112,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
  Click on **Finish** to finalize the setup and then see if you are still left with your hard drive error.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Format an Allocated Partition
@@ -124,7 +124,7 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
  Follow the rest of the on-screen instructions and your partition will be wiped clean in a few minutes. If your hard drive detection error was indeed caused by a corrupted partition, it will be gone by the end of the formatting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing Your Hard Drive Detection Issues on Your Windows
@@ -145,24 +145,18 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-designing-a-trailer-blueprint-to-amplify-channel-income/"><u>[New] 2024 Approved Designing a Trailer Blueprint to Amplify Channel Income</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-basics-of-designing-your-own-facebook-reel-experience/"><u>[New] In 2024, The Basics of Designing Your Own Facebook Reel Experience</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-premium-watchlists-highest-youtube-movie-selections-for-2024/"><u>[Updated] Premium Watchlists Highest YouTube Movie Selections for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-turning-viewers-into-valuables-a-creators-guide-to-youtube-monetization-for-2024/"><u>[Updated] Turning Viewers Into Valuables A Creator’s Guide to YouTube Monetization for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-why-gamers-love-windows-more/"><u>Decoding Why Gamers Love Windows More</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-frame-rate-stability-strategies-to-increase-fps-on-rainbow-six-extraction/"><u>Enhancing Frame Rate Stability – Strategies to Increase FPS on Rainbow Six Extraction</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-instability-problems-with-persona-3-reloaded-on-your-computer/"><u>How to Resolve Instability Problems with Persona 3 Reloaded on Your Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-revamp-windows-dashboard-imagery-anytime/"><u>How to Revamp Window's Dashboard Imagery Anytime</u></a></li>
-<li><a href="https://win11.techidaily.com/implementing-restricted-folder-access-via-group-policy-on-windows-10/"><u>Implementing Restricted Folder Access via Group Policy on Windows 10</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-seamless-google-meet-integration-for-youtube-enthusiasts/"><u>In 2024, Seamless Google Meet Integration for YouTube Enthusiasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ipad-air-4-versus-ipad-air-5-is-it-time-to-upgrade-insights-and-reviews/"><u>IPad Air 4 Versus iPad Air 5: Is It Time to Upgrade? Insights & Reviews</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-email-formatting-excising-extraneous-html-in-windows-11/"><u>Mastering Email Formatting: Excising Extraneous HTML in Windows 11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210073347-9781682682524-morning-altars-a-7-step-practice-to-nourish-your-spirit-through-nature-art-and-ritual/"><u>Morning Altars: A 7-Step Practice to Nourish Your Spirit through Nature, Art, and Ritual | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-for-slow-battlenet-downloads-on-windows/"><u>Quick Fix for Slow Battle.net Downloads on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/rectify-shortcut-problems-fixing-function-keys-in-windows-11/"><u>Rectify: Shortcut Problems - Fixing Function Keys in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-basic-settings-for-your-windows-explore/"><u>Restoring Basic Settings for Your Windows Explore</u></a></li>
-<li><a href="https://win11.techidaily.com/tactical-toolbox-techniques-disguise-power-buttons-in-win11/"><u>Tactical Toolbox Techniques: Disguise Power Buttons in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-search-methods-for-enhancing-performance/"><u>Windows 11 Search: Methods for Enhancing Performance</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-whatsapp-video-transfers-from-tweeted-content-for-2024/"><u>[New] WhatsApp Video Transfers From Tweeted Content for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-perfecting-your-pics-with-facetune-a-full-guide/"><u>2024 Approved Perfecting Your Pics with Facetune - A Full Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-90-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/enjoy-every-dribble-pass-and-shot-nba-livestream-hacks-top-15/"><u>Enjoy Every Dribble, Pass & Shot - NBA Livestream Hacks (Top 15)</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-active-microphone-input-for-obs-on-win-11/"><u>Ensuring Active Microphone Input for OBS on Win 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-optimizing-your-live-broadcasts-with-obs-and-zoom/"><u>In 2024, Optimizing Your Live Broadcasts with OBS & Zoom</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-resolving-win11s-installer-issues/"><u>Mastering the Art of Resolving Win11's Installer Issues</u></a></li>
+<li><a href="https://driver-download.techidaily.com/obtaining-and-installing-the-newest-canon-mx490-driver-for-windows-117/"><u>Obtaining and Installing the Newest Canon MX490 Driver for Windows 11/7</u></a></li>
+<li><a href="https://win11.techidaily.com/the-complete-playbook-to-win-the-battle-against-bsod/"><u>The Complete Playbook to Win the Battle Against BSOD</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-creative-possibilities-with-these-5-amazing-free-ai-imagery-tools/"><u>Unlock Creative Possibilities with These 5 Amazing Free AI Imagery Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-silent-windows-headset-microphone/"><u>Unlocking Your Silent Window's Headset Microphone</u></a></li>
+<li><a href="https://win11.techidaily.com/version-compatibility/"><u>Version Compatibility</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-memory-caching-definition-and-deletion-tips/"><u>Windows Memory Caching: Definition and Deletion Tips</u></a></li>
 </ul></div>
 

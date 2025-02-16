@@ -1,7 +1,7 @@
 ---
 title: How to Regain Original Settings in Win11 Terminal
-date: 2025-01-28T09:29:44.429Z
-updated: 2025-02-04T02:59:19.781Z
+date: 2025-02-11T16:17:20.981Z
+updated: 2025-02-15T17:37:07.988Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Would You Reset Your Windows Terminal?
 
  Windows Terminal is an amazing tool for power users and developers. It allows you to access a variety of tools, all in one place, with custom settings and themes that make it easy to work from anywhere. But over time, your Windows Terminal may become cluttered with old settings or themes that have become redundant or are no longer relevant.
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
  Let's now move to the below sections and see how it can be reset.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings by Clearing JSON Files
@@ -51,14 +47,14 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
 ![Open JSON file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-json-file.jpg)
 4. If you're asked which app to use to open the file, then double-click on**Notepad** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. On the next page, select all the contents and**Delete** them.
 6. Now press**Ctrl + S** on your keyboard to save it.
 
  Next time you open the app, a new configuration with all the default settings will be created automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings Using Command Prompt
 
@@ -75,7 +71,7 @@ del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe
 4. You can now exit the command prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings Using Windows PowerShell
@@ -98,12 +94,16 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 ![Reset Windows Terminal Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-terminal-using-file-explorer.jpg)  
 %LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. On the next page, right-click on**settings.json** and select**Delete** from the context menu.
 
  Once you perform the above steps, Settings.json will automatically be created with the default settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Resetting the Windows Terminal, Made Easy
@@ -125,22 +125,22 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-complete-zoomers-guide-achieving-exceptional-video-and-audio-recordings-on-zoom/"><u>[New] In 2024, The Complete Zoomer's Guide Achieving Exceptional Video & Audio Recordings on Zoom</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-potential-of-multi-stream-video-on-microsoft-edge/"><u>2024 Approved Unlocking the Potential of Multi-Stream Video on Microsoft Edge</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/decoding-the-process-your-comprehensive-guide-to-filing-a-dispute-report-on-discord/"><u>Decoding the Process Your Comprehensive Guide to Filing a Dispute Report on Discord</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-smooth-operation-of-microsoft-nearby-share/"><u>Ensuring Smooth Operation of Microsoft Nearby Share</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-track-windows-screensaver-adjustment/"><u>Fast Track: Windows Screensaver Adjustment</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-hobbyist-to-pro-the-audacity-journey/"><u>From Hobbyist to Pro The Audacity Journey</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-11x-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Realme 11X 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/methoden-zur-wiederherstellung-nicht-gespeicherter-dateien-in-wordpad/"><u>Methoden Zur Wiederherstellung Nicht Gespeicherter Dateien in WordPad</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/optimizing-audacity-a-guide-to-premium-sound-capture-for-2024/"><u>Optimizing Audacity A Guide to Premium Sound Capture for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/remedies-for-click-anomalies-in-the-latest-windows-version/"><u>Remedies for Click Anomalies in the Latest Windows Version</u></a></li>
-<li><a href="https://win11.techidaily.com/set-up-your-pc-for-win-11-ease-create-bootable-media-in-3-steps/"><u>Set Up Your PC for Win 11 Ease: Create Bootable Media in 3 Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/simultaneous-wi-fi-and-ethernet-use-guide-for-windows-pcs/"><u>Simultaneous Wi-Fi & Ethernet Use Guide for Windows PCs</u></a></li>
-<li><a href="https://games-able.techidaily.com/six-simple-steps-to-engage-your-ps5-console/"><u>Six Simple Steps To Engage Your PS5 Console</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-cutting-down-on-browsers-load-time/"><u>Strategies for Cutting Down on Browsers Load Time</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-sony-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Sony FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://win11.techidaily.com/unknown-subjects-under-edge-in-tasker/"><u>Unknown Subjects Under Edge in Tasker</u></a></li>
-<li><a href="https://win11.techidaily.com/what-is-the-system-cooling-policy-on-windows-and-how-do-you-set-it/"><u>What Is the System Cooling Policy on Windows and How Do You Set It?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unseen-strategies-how-to-tap-into-your-facebook-message-library/"><u>[New] 2024 Approved Unseen Strategies How to Tap Into Your Facebook Message Library</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-streamlining-your-edit-with-jump-cut-tips/"><u>[New] Streamlining Your Edit with Jump Cut Tips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-picturemosaic-maker-blend-videos-and-pics-macos/"><u>[Updated] PictureMosaic Maker Blend Videos & Pics macOS</u></a></li>
+<li><a href="https://win11.techidaily.com/enhanced-command-control-always-open-terminal-as-administrator/"><u>Enhanced Command Control: Always Open Terminal as Administrator</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-mythical-device-spec-error-in-windows-11/"><u>Fixing Mythical Device Spec Error in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-help-for-windows-11-login-failures/"><u>Immediate Help for Windows 11 Login Failures</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-master-your-favorite-games-with-obs-streaming-tips/"><u>In 2024, Master Your Favorite Games with OBS Streaming Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/installing-windows-11-with-a-disallowed-cpu-step-by-step-guide/"><u>Installing Windows 11 with a Disallowed CPU: Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pinnacle-enterprise-data-vaulting/"><u>Pinnacle Enterprise Data Vaulting</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/pro-grade-video-stabilization-in-fcpx-a-step-by-step-guide/"><u>Pro-Grade Video Stabilization in FCPX A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/stepwise-guide-to-buying-and-installing-adobe-reader/"><u>Stepwise Guide to Buying and Installing Adobe Reader</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-10-log-inspection-and-mainten-point-tips-to-review-and-clear-windows-10-activity-record/"><u>Streamlining Windows 10 Log Inspection & Mainten Point: Tips to Review and Clear Windows 10 Activity Record</u></a></li>
+<li><a href="https://win11.techidaily.com/technique-to-turn-off-keyboard-for-your-win-run-devices/"><u>Technique to Turn Off Keyboard for Your Win-Run Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-picks-unbeatable-headphone-offers-in-march-2023/"><u>Top Picks: Unbeatable Headphone Offers in March 2023</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-8-plus-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 8 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-full-potential-restoring-windows-photo-viewer-features-on-win11/"><u>Unlock the Full Potential: Restoring Windows Photo Viewer Features on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/win11s-autodelete-a-compreenas-guide-to-disk-management/"><u>Win11's Autodelete: A Compreenas Guide to Disk Management</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Bypassing 'Service Failed' Errors on Disk Management
-date: 2024-07-29T15:55:12.257Z
-updated: 2024-07-30T15:55:12.257Z
+date: 2025-02-10T21:10:57.390Z
+updated: 2025-02-16T02:50:54.935Z
 tags:
   - windows10
   - windows11
@@ -24,24 +24,20 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
 
  First, try disconnecting all non-essential USB devices from your PC. Make sure there aren’t any external drives, USB sticks, mobile phones, or card readers connected to your PC. Then try [opening the Disk Management utility](https://www.makeuseof.com/ways-open-disk-management-windows-10/) again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Run System File and Image Repair Scans
 
  System file corruption could feasibly cause the Disk Management Virtual Disk Service error. So, check the integrity of system files on your PC with the Windows System File Checker command-line tool. That utility will also usually repair corrupted system files detected. This [how to run the System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) guide includes instructions for utilizing that tool.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![The System File Checker command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scannow-command.jpg)
 
  If SFC detects corrupted system files but can’t repair them, you may need to run a Deployment Image Service Management scan. That’s a tool for fixing issues with the Windows system image. You can run that utility by executing this Deployment Image command within the Command Prompt:
 
 `DISM /Online /Cleanup-Image /RestoreHealth`
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Enable and Run the Virtual Disk Service
 
  A disabled Virtual Disk service is a common cause of the Disk Management VDS error. Disk Management can’t connect to VDS when the Virtual Disk service is disabled. So, try enabling and running the Virtual Disk service like this:
@@ -49,44 +45,31 @@ The powerful video editing program for your Windows PC</a>
 1. To access Run, press **Win + R**.
 2. Enter **services.msc** inside the Run command dialog and press **Return**.
 3. Scroll down and double-click on **Virtual Disk** within the Services window.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/services-window.jpg)
 4. Select the **Automatic** setting on the **Startup type** menu.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-type-drop-down-menu.jpg)
 5. Press **Start** within the Virtual Disk Properties window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Select the window’s **Log on** tab.
 2. Next, click the **Allow service to interact with desktop** checkbox to select that option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/log-on-tab.jpg)
 3. Click **Apply** to save your new Virtual Disk service settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select the Virtual Disk Properties window’s **OK** option.
 5. If you encounter the Disk Management VDS error within a remote connection environment, repeat the above steps to check the Virtual Disk service is enabled on both the local and remote PCs.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Allow Remote Volume Management Through Windows Defender Firewall
 
  Windows Defender Firewall can cause the Disk Management VDS error by blocking that utility from connecting with Virtual Disk. So, make sure Remote Volume Management is allowed through that firewall on both local and remote PCs. Our [guide to allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) includes instructions for applying this resolution.
@@ -101,13 +84,15 @@ Key features:
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Manage Your Drives With Disk Management Again
 
  The potential solutions in this guide aren’t totally guaranteed, but they’re the most likely ways to fix the Disk Management VDS error on a Windows PC. So, maybe one will get the Disk Management VDS issue sorted on your PC. Then you can manage and partition your drives with Disk Management again.
 
  This error means users can’t access and utilize Disk Management. The issue more typically arises in remote connection environments. This is how you can fix the Disk Management Virtual Disk Service error in Windows 10 and 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -115,3 +100,27 @@ Key features:
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-comprehensive-guide-to-advanced-fcp-features-for-2024/"><u>[Updated] Comprehensive Guide to Advanced FCP Features for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-free-video-fiddling-unleash-potential-with-vimeo-editing-for-2024/"><u>[Updated] Free Video Fiddling Unleash Potential with Vimeo Editing for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-tap-into-tagging-techniques-for-6kplus-youtube-vistas-for-2024/"><u>[Updated] Tap Into #Tagging Techniques for $6K+ YouTube Vistas for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-master-the-art-of-time-extension-creating-stunningly-slow-mo-video-online/"><u>2024 Approved Master the Art of Time Extension Creating Stunningly Slow-Mo Video Online</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-drive-space-a-comprehensible-guide-to-using-diskusage-commands/"><u>Decoding Drive Space: A Comprehensible Guide to Using DiskUsage Commands</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-to-rectify-server-stumbled-issues-on-windows/"><u>Efficient Methods to Rectify Server Stumbled Issues on Windows</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/expert-tips-on-fixing-memory-glitches-a-comprehebly-by-yl-software-experts/"><u>Expert Tips on Fixing Memory Glitches: A Comprehebly by YL Software Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-the-cutting-edge-13-inch-macbook-air-m2-for-a-record-low-this-cyber-monday-tech-insights-revealed/"><u>Get the Cutting-Edge 13-Inch MacBook Air (M2) for a Record Low This Cyber Monday – Tech Insights Revealed!</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-bypassing-missing-windows-logins-on-pcs/"><u>Guide to Bypassing Missing Windows Logins on PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hot-hands-on-10-must-have-vr-peripherals-for-2024/"><u>Hot Hands-On 10 Must-Have VR Peripherals for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-scoop-on-the-upcoming-iphone-cost-guesswork-projected-release-moment-and-technical-insights/"><u>Inside Scoop on the Upcoming iPhone 지판: Cost Guesswork, Projected Release Moment & Technical Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/insights-on-ignoring-notifications-risks-of-silencing-wins-11/"><u>Insights on Ignoring Notifications: Risks of Silencing Wins 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-fresh-canon-mg3000-drivers-for-optimal-print-performance/"><u>Installing Fresh Canon MG3000 Drivers for Optimal Print Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/open-local-group-policy-quick-and-secure-methods-on-win11/"><u>Open Local Group Policy: Quick and Secure Methods on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-eradicating-directdraw-failures-on-win1011-systems/"><u>Quick Guide: Eradicating DirectDraw Failures on WIN10/11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-winerror-0xc0000005-in-windows-systems/"><u>Resolving WinError 0Xc0000005 in Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-resuming-lost-remote-access-in-windows/"><u>Strategies for Resuming Lost Remote Access in Windows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/s-that-you-should-know-about-youtube-keyword-research-for-2024/"><u>Things That You Should Know About YouTube Keyword Research for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-anomaly-correction-controlling-a-roaming-pointer/"><u>Win11 Anomaly Correction: Controlling a Roaming Pointer</u></a></li>
+</ul></div>
+

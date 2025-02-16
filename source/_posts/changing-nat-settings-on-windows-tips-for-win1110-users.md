@@ -1,7 +1,7 @@
 ---
 title: "Changing NAT Settings on Windows: Tips for Win11/10 Users"
-date: 2024-07-29T15:55:06.290Z
-updated: 2024-07-30T15:55:06.290Z
+date: 2025-02-09T17:16:17.655Z
+updated: 2025-02-15T16:31:52.896Z
 tags:
   - windows10
   - windows11
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/75acee6ab640019b74d394195d334c99ef1bc0059
 
 ## Changing NAT Settings on Windows: Tips for Win11/10 Users
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Changing the NAT type from strict to open can improve network connectivity and reduce network-related issues when playing multiplayer games online.
@@ -42,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/75acee6ab640019b74d394195d334c99ef1bc0059
  Your default NAT type depends on your router configuration. If you experience network-related issues, changing your NAT type from Strict or Moderate to Open can help. However, be wary of potential security risks associated with changing your NAT type to Open.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set a Static Private IP Address
 
  Whether you want to change the NAT type using the UPnP method or port forwarding, you'll need a static IP address to make it work. Since most routers assign a dynamic IP address, you must manually configure a static IP for your Windows device.
@@ -63,15 +61,9 @@ thumbnail: https://thmb.techidaily.com/75acee6ab640019b74d394195d334c99ef1bc0059
 2. Click the **Edit** button beside **IP assignment.**  
 ![Windows 11 Settings App Edit Ethernet Adapter IP Assignment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/edit-ethernet-adapter-ip-assignment-windows-11-settings.jpg)
 3. Select the **Automatic (DCHP)** drop-down and choose **Manual.**  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Manual IP assignment Ethernet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manual-ip-assignment-ethernet-windows-11-settings.jpg)
 4. Toggle the switch to enable **IPv4**.
 5. Enter the IP address by ensuring the first three octets of your IP address match the IPv4 address obtained using the ipconfig command—for example, type **192.168.0.200**. As you can see, we have kept the first three octets of the IP address (**192.168.0**) but changed the fourth octet to **200** from **101**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Save Static IP Settings Ethernet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/windows-11-settings-manual-ethernet-adapter-ip-configuration-1.jpg)
 6. Enter the **Subnet mask**, and **Default gateway** address for the Ethernet adapter obtained using the ipconfig command.
 7. In the **Preferred DNS** field, enter **8.8.8.8**;for **Alternate DNS**, enter **8.8.4.4**. This is a public DNS server offered by Google.
@@ -85,19 +77,22 @@ thumbnail: https://thmb.techidaily.com/75acee6ab640019b74d394195d334c99ef1bc0059
 
 1. Press **Win + I** to open **Settings**.
 2. Open the **Network & internet** tab in the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows 11 Settings Advanced Network Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-11-advanced-network-settings.jpg)
 3. Click on **Advanced network settings**.  
 ![Advanced Sharing Settings Network and Internet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/advanced-sharing-settings-network-and-internet-windows-11.jpg)
 4. Scroll down and click **Advanced sharing settings** under the **More settings** section.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Advanced Sharing Settings Network and Internet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/advanced-sharing-settings-network-and-internet-windows-11.jpg)
 5. Toggle the switch for **Network Discovery** to turn it on for public networks.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Enable UPnP On Your Router
 
 ![TP-Link Router Web Interface with UPnP Enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/enable-upnp-tp-link-router.jpg)
@@ -136,17 +131,10 @@ UDP: 3074-3079`
 1. Log in to your router's web app. In this instance, we'll use TP-Link's web-based utility.
 2. Open the **Advanced** tab.
 3. In the left pane, click to expand **NAT Forwarding**.  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![TP-Link Web Interface for Port Forwarding Add](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tp-link-port-forwarding-add.jpg)
 4. Open the **Port Forwarding** tab.
 5. Click the **\+ Add** icon in the top right corner to create a new port forwarding entry.
 6. In the **Add a Port Forwarding** **Entry** dialog, type a name for **Service Name**. Make sure to add a name to make it easy to identify this port forwarding entry for future reference.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![TP-Link Web Interface Add a Port Forwarding Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-a-port-forwarding-entry-tp-link.jpg)
 7. In **Device IP Address**, type your computer's static IP address for Ethernet or Wi-Fi.
 8. Type your game's port number in the **External** and **Internet Port** fields. You can use a UDP or TCP port, but use the same port in both the **External** **Port** and **Internal Port** fields.
@@ -194,22 +182,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 5. Next, press **Win + I** to open **Settings**.
 
 1. Go to **Network & internet**, and click on **Ethernet** to open the Ethernet adapter properties.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![Windows 11 Settings App Showing Ethernet Network and Internet Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-11-ethernet-network-and-internet-1.jpg)
 2. Click the **Edit** button beside **IP assignment.**  
 ![Windows 11 Settings App Edit Ethernet Adapter IP Assignment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/edit-ethernet-adapter-ip-assignment-windows-11-settings.jpg)
 3. Select the **Automatic (DCHP)** drop-down and choose **Manual.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![Manual IP assignment Ethernet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manual-ip-assignment-ethernet-windows-11-settings.jpg)
 4. Toggle the switch to enable **IPv4**.
 5. Enter the IP address by ensuring the first three octets of your IP address match the IPv4 address obtained using the ipconfig command—for example, type **192.168.0.200**. As you can see, we have kept the first three octets of the IP address (**192.168.0**) but changed the fourth octet to **200** from **101**.  
 ![Save Static IP Settings Ethernet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/windows-11-settings-manual-ethernet-adapter-ip-configuration-1.jpg)
 6. Enter the **Subnet mask**, and **Default gateway** address for the Ethernet adapter obtained using the ipconfig command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. In the **Preferred DNS** field, enter **8.8.8.8**;for **Alternate DNS**, enter **8.8.4.4**. This is a public DNS server offered by Google.
 8. Leave other settings as default and click **Save** to set up your static IP address for the device.
 
@@ -221,14 +207,8 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 1. Press **Win + I** to open **Settings**.
 2. Open the **Network & internet** tab in the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Windows 11 Settings Advanced Network Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-11-advanced-network-settings.jpg)
 3. Click on **Advanced network settings**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Advanced Sharing Settings Network and Internet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/advanced-sharing-settings-network-and-internet-windows-11.jpg)
 4. Scroll down and click **Advanced sharing settings** under the **More settings** section.  
 ![Advanced Sharing Settings Network and Internet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/advanced-sharing-settings-network-and-internet-windows-11.jpg)
@@ -237,6 +217,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ## 2\. Enable UPnP On Your Router
 
 ![TP-Link Router Web Interface with UPnP Enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/enable-upnp-tp-link-router.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can change your NAT type to Open by enabling Universal Plug and Play (UPnP) in your router settings. This is the easiest way to change the NAT type, provided you can access your router configuration page. However, there are [security concerns with the UPnP method](https://www.makeuseof.com/tag/what-is-upnp-and-why-is-it-dangerous-makeuseof-explains/), which hackers may exploit.
 
@@ -251,6 +235,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 5. Toggle the switch to enable **UPnP**.
 
  You can now close your router's web-based utility and check for any improvements in your network connectivity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Change NAT Type Using Port Forwarding
 
@@ -276,27 +264,18 @@ UDP: 3074-3079`
 4. Open the **Port Forwarding** tab.
 5. Click the **\+ Add** icon in the top right corner to create a new port forwarding entry.
 6. In the **Add a Port Forwarding** **Entry** dialog, type a name for **Service Name**. Make sure to add a name to make it easy to identify this port forwarding entry for future reference.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![TP-Link Web Interface Add a Port Forwarding Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-a-port-forwarding-entry-tp-link.jpg)
 7. In **Device IP Address**, type your computer's static IP address for Ethernet or Wi-Fi.
 8. Type your game's port number in the **External** and **Internet Port** fields. You can use a UDP or TCP port, but use the same port in both the **External** **Port** and **Internal Port** fields.
 9. Set the **Protocol** field to **All**.
 10. Once done, click **Save** to save the port forwarding entry.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![TP-Link Web Interface Showing Port Forwarding Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/port-forwarding-entry-tp-link.jpg)
 
  The entry will be saved in the Port Forwarding table. You can enable or disable the entry using the Status toggle switch.
 
  Apart from port forwarding, you can also change the NAT type by modifying your router's configuration file. However, some router manufacturers, including TP-Link, encrypt the configuration file, making it extremely difficult to make necessary modifications.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Changing NAT Type on Windows to Fix Network Issues
 
  Changing the NAT type may be necessary to troubleshoot network-related issues. You can enable UPnP or turn on Network Discovery to ease network restrictions. However, we recommend port forwarding to reduce network restrictions without compromising network security.
@@ -306,8 +285,9 @@ UDP: 3074-3079`
  You can change the NAT type on Windows to ease restrictions, resulting in a faster and more reliable network connection. But you must balance your needs with potential security risks when changing the NAT.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is NAT, and What Are the NAT Types?
 
 [Network Address Translation](https://www.makeuseof.com/tag/what-is-network-address-translation-nat-and-how-does-it-work/) (NAT) is a feature in routers (and firewalls) that translates the private IPv4 address from devices in your home and office to the public IPv4 address assigned to your router by the ISP and vice versa. NAT helps address the limited number of public IPv4 addresses available worldwide.
@@ -320,14 +300,6 @@ UDP: 3074-3079`
 
  Your default NAT type depends on your router configuration. If you experience network-related issues, changing your NAT type from Strict or Moderate to Open can help. However, be wary of potential security risks associated with changing your NAT type to Open.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## How to Set a Static Private IP Address
 
  Whether you want to change the NAT type using the UPnP method or port forwarding, you'll need a static IP address to make it work. Since most routers assign a dynamic IP address, you must manually configure a static IP for your Windows device.
@@ -342,19 +314,22 @@ UDP: 3074-3079`
 ![Command Prompt Windows Showing Ipconfig Ethernet Adapter Network Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cmd-ipconfig-ethernet-adapter-network-information.jpg)
 5. Next, press **Win + I** to open **Settings**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Go to **Network & internet**, and click on **Ethernet** to open the Ethernet adapter properties.  
 ![Windows 11 Settings App Showing Ethernet Network and Internet Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-11-ethernet-network-and-internet-1.jpg)
 2. Click the **Edit** button beside **IP assignment.**  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows 11 Settings App Edit Ethernet Adapter IP Assignment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/edit-ethernet-adapter-ip-assignment-windows-11-settings.jpg)
 3. Select the **Automatic (DCHP)** drop-down and choose **Manual.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![Manual IP assignment Ethernet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manual-ip-assignment-ethernet-windows-11-settings.jpg)
 4. Toggle the switch to enable **IPv4**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Enter the IP address by ensuring the first three octets of your IP address match the IPv4 address obtained using the ipconfig command—for example, type **192.168.0.200**. As you can see, we have kept the first three octets of the IP address (**192.168.0**) but changed the fourth octet to **200** from **101**.  
 ![Save Static IP Settings Ethernet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/windows-11-settings-manual-ethernet-adapter-ip-configuration-1.jpg)
 6. Enter the **Subnet mask**, and **Default gateway** address for the Ethernet adapter obtained using the ipconfig command.
@@ -363,9 +338,6 @@ UDP: 3074-3079`
 
  Once you have a static IP, you can follow the steps below to change the NAT type on your Windows computer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Turn On Discovery Mode on Windows
 
  Network Discovery is a built-in Windows feature to help you allow other computers on the network to detect your computer. You can [turn On or Off the Network Discovery mode on Windows 10](https://www.makeuseof.com/windows-network-discovery-turn-on-off/) from the Settings apps. Here's how to do it on Windows 11:
@@ -376,17 +348,11 @@ UDP: 3074-3079`
 3. Click on **Advanced network settings**.  
 ![Advanced Sharing Settings Network and Internet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/advanced-sharing-settings-network-and-internet-windows-11.jpg)
 4. Scroll down and click **Advanced sharing settings** under the **More settings** section.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Advanced Sharing Settings Network and Internet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/advanced-sharing-settings-network-and-internet-windows-11.jpg)
 5. Toggle the switch for **Network Discovery** to turn it on for public networks.
 
 ## 2\. Enable UPnP On Your Router
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![TP-Link Router Web Interface with UPnP Enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/enable-upnp-tp-link-router.jpg)
 
  You can change your NAT type to Open by enabling Universal Plug and Play (UPnP) in your router settings. This is the easiest way to change the NAT type, provided you can access your router configuration page. However, there are [security concerns with the UPnP method](https://www.makeuseof.com/tag/what-is-upnp-and-why-is-it-dangerous-makeuseof-explains/), which hackers may exploit.
@@ -433,18 +399,12 @@ UDP: 3074-3079`
 9. Set the **Protocol** field to **All**.
 10. Once done, click **Save** to save the port forwarding entry.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![TP-Link Web Interface Showing Port Forwarding Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/port-forwarding-entry-tp-link.jpg)
 
  The entry will be saved in the Port Forwarding table. You can enable or disable the entry using the Status toggle switch.
 
  Apart from port forwarding, you can also change the NAT type by modifying your router's configuration file. However, some router manufacturers, including TP-Link, encrypt the configuration file, making it extremely difficult to make necessary modifications.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Changing NAT Type on Windows to Fix Network Issues
 
  Changing the NAT type may be necessary to troubleshoot network-related issues. You can enable UPnP or turn on Network Discovery to ease network restrictions. However, we recommend port forwarding to reduce network restrictions without compromising network security.
@@ -453,10 +413,6 @@ UDP: 3074-3079`
 
  You can change the NAT type on Windows to ease restrictions, resulting in a faster and more reliable network connection. But you must balance your needs with potential security risks when changing the NAT.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## What Is NAT, and What Are the NAT Types?
 
 [Network Address Translation](https://www.makeuseof.com/tag/what-is-network-address-translation-nat-and-how-does-it-work/) (NAT) is a feature in routers (and firewalls) that translates the private IPv4 address from devices in your home and office to the public IPv4 address assigned to your router by the ISP and vice versa. NAT helps address the limited number of public IPv4 addresses available worldwide.
@@ -484,9 +440,6 @@ UDP: 3074-3079`
 5. Next, press **Win + I** to open **Settings**.
 
 1. Go to **Network & internet**, and click on **Ethernet** to open the Ethernet adapter properties.  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows 11 Settings App Showing Ethernet Network and Internet Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-11-ethernet-network-and-internet-1.jpg)
 2. Click the **Edit** button beside **IP assignment.**  
 ![Windows 11 Settings App Edit Ethernet Adapter IP Assignment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/edit-ethernet-adapter-ip-assignment-windows-11-settings.jpg)
@@ -494,9 +447,6 @@ UDP: 3074-3079`
 ![Manual IP assignment Ethernet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manual-ip-assignment-ethernet-windows-11-settings.jpg)
 4. Toggle the switch to enable **IPv4**.
 5. Enter the IP address by ensuring the first three octets of your IP address match the IPv4 address obtained using the ipconfig command—for example, type **192.168.0.200**. As you can see, we have kept the first three octets of the IP address (**192.168.0**) but changed the fourth octet to **200** from **101**.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Save Static IP Settings Ethernet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/windows-11-settings-manual-ethernet-adapter-ip-configuration-1.jpg)
 6. Enter the **Subnet mask**, and **Default gateway** address for the Ethernet adapter obtained using the ipconfig command.
 7. In the **Preferred DNS** field, enter **8.8.8.8**;for **Alternate DNS**, enter **8.8.4.4**. This is a public DNS server offered by Google.
@@ -512,26 +462,17 @@ UDP: 3074-3079`
 2. Open the **Network & internet** tab in the left pane.  
 ![Windows 11 Settings Advanced Network Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-11-advanced-network-settings.jpg)
 3. Click on **Advanced network settings**.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![Advanced Sharing Settings Network and Internet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/advanced-sharing-settings-network-and-internet-windows-11.jpg)
 4. Scroll down and click **Advanced sharing settings** under the **More settings** section.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Advanced Sharing Settings Network and Internet Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/advanced-sharing-settings-network-and-internet-windows-11.jpg)
 5. Toggle the switch for **Network Discovery** to turn it on for public networks.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Enable UPnP On Your Router
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![TP-Link Router Web Interface with UPnP Enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/enable-upnp-tp-link-router.jpg)
 
  You can change your NAT type to Open by enabling Universal Plug and Play (UPnP) in your router settings. This is the easiest way to change the NAT type, provided you can access your router configuration page. However, there are [security concerns with the UPnP method](https://www.makeuseof.com/tag/what-is-upnp-and-why-is-it-dangerous-makeuseof-explains/), which hackers may exploit.
@@ -548,9 +489,6 @@ UDP: 3074-3079`
 
  You can now close your router's web-based utility and check for any improvements in your network connectivity.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Change NAT Type Using Port Forwarding
 
  Alternatively, you can use the safer [port forwarding method to change your NAT type](https://www.makeuseof.com/tag/what-is-port-forwarding-and-how-can-it-help-me/) for a specific game title or application. While the process is a little complicated compared to UPnP, port forwarding gives greater control over open ports and their usage with enhanced security.
@@ -571,25 +509,16 @@ UDP: 3074-3079`
 1. Log in to your router's web app. In this instance, we'll use TP-Link's web-based utility.
 2. Open the **Advanced** tab.
 3. In the left pane, click to expand **NAT Forwarding**.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![TP-Link Web Interface for Port Forwarding Add](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tp-link-port-forwarding-add.jpg)
 4. Open the **Port Forwarding** tab.
 5. Click the **\+ Add** icon in the top right corner to create a new port forwarding entry.
 6. In the **Add a Port Forwarding** **Entry** dialog, type a name for **Service Name**. Make sure to add a name to make it easy to identify this port forwarding entry for future reference.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![TP-Link Web Interface Add a Port Forwarding Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-a-port-forwarding-entry-tp-link.jpg)
 7. In **Device IP Address**, type your computer's static IP address for Ethernet or Wi-Fi.
 8. Type your game's port number in the **External** and **Internet Port** fields. You can use a UDP or TCP port, but use the same port in both the **External** **Port** and **Internal Port** fields.
 9. Set the **Protocol** field to **All**.
 10. Once done, click **Save** to save the port forwarding entry.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![TP-Link Web Interface Showing Port Forwarding Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/port-forwarding-entry-tp-link.jpg)
 
  The entry will be saved in the Port Forwarding table. You can enable or disable the entry using the Status toggle switch.
@@ -606,8 +535,6 @@ UDP: 3074-3079`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -615,4 +542,19 @@ UDP: 3074-3079`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/rilliant-setups-top-17-gear-for-online-videographers/"><u>[New] Brilliant Setups Top 17 Gear for Online Videographers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-win11s-lightning-quick-visualizer/"><u>[New] In 2024, Win11's Lightning Quick Visualizer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-become-a-zen-master-learn-to-quiet-down-distractions-in-gmeet/"><u>[Updated] In 2024, Become a Zen Master Learn to Quiet Down Distractions in GMeet</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-code-uncovering-windows-program-hideouts/"><u>Decoding the Code: Uncovering Windows Program Hideouts</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-grayed-out-extend-button-revive-it-for-discmgmt/"><u>Fix Grayed-Out Extend Button, Revive It for DiscMgmt</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-s24-ultra-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy S24 Ultra without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-skys-playground-discovering-the-husqvarna-x4-fpv/"><u>In 2024, The Sky's Playground Discovering the Husqvarna X4 FPV</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-device-performance-a-guide-to-hardware-widgets/"><u>Maximize Device Performance: A Guide to Hardware Widgets</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-blocked-downloads-in-the-ms-store/"><u>Overcoming Blocked Downloads in the MS Store</u></a></li>
+<li><a href="https://win11.techidaily.com/smartphone-integrating-with-windows-pc-mic/"><u>Smartphone: Integrating with Windows PC Mic</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-0x87e00017-error-on-windows-store/"><u>Tackling 0X87e00017 Error on Windows Store</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-biggest-tweet-waves-of-2023-decoded-for-2024/"><u>The Biggest Tweet Waves of 2023 Decoded for 2024</u></a></li>
+</ul></div>
 

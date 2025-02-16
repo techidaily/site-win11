@@ -1,7 +1,7 @@
 ---
 title: "Unblocking Launch Failed: Lunar Client Error on PC"
-date: 2025-02-02T18:44:01.787Z
-updated: 2025-02-04T01:30:38.216Z
+date: 2025-02-15T01:17:13.158Z
+updated: 2025-02-15T20:14:24.809Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,6 @@ First off, carry out the following preliminary checks:
 
  If the above checks do not solve the problem, apply the remaining fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Run Lunar Client as an Administrator
 
  You may encounter the error under discussion if Lunar Client doesn't have access to some system files. To ensure that the restricted access isn't causing the problem, run the client as an administrator. Doing so will allow Lunar Client to access files or resources that would otherwise be inaccessible.
@@ -50,10 +46,14 @@ Follow these steps to run Lunar Client as an administrator:
 3. Right-click on Lunar Client's EXE file and select**Run as administrator** from the context menu.  
 ![Run Lunar Client as an Administrator on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-run-lunar-client-as-an-administrator-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If launching Lunar Client as an administrator fixes the problem, this indicates that operating system restrictions are causing this error. So, you should[configure the application to always run as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Delete Lunar Client's Cache Folders
@@ -88,7 +88,15 @@ To change Lunar Client's memory allocation, follow these steps:
 3. To change the memory allocation, drag the slider under**Allocated Memory** .  
 ![Change the Allocated Memory in the Lunar Client Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-change-the-allocated-memory-in-the-lunar-client-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  How much memory you should allocate depends entirely on the amount of memory you have on your computer. If you have 16GB of RAM installed, allocating 5GB would be a better decision. If the overall memory is less than that, you can allocate it accordingly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Delete the Old Renderer Log File
 
@@ -102,15 +110,15 @@ To change Lunar Client's memory allocation, follow these steps:
 4. Right-click on the**Renderer.old** file and click on the**Delete** icon.  
 ![Delete the Old Renderer Log File in Lunar Client's Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-delete-the-old-renderer-log-file-in-lunar-client-s-installation-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Whitelist Lunar Client in Windows Defender and Your Antivirus
 
  Lunar Client is a third-party software application. So, Windows Defender and other antivirus programs installed on your device can interfere with the client's processing. To prevent this, whitelisting the lunar client from security software is necessary.
 
  Our guide on[how to allow apps through Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) describes the steps to whitelist apps from Windows' built-in security suite. If you use a third-party antivirus as an extra layer of protection, you can find instructions about whitelisting apps through it on its official website.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall Java Runtime Environment
 
@@ -127,10 +135,6 @@ To change Lunar Client's memory allocation, follow these steps:
 5. Then click on the**Install** button.  
 ![Install Java Runtime Environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-install-java-runtime-environment.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you encounter any problems during installation, uninstall the existing installation. To do that, open the**Settings** app and go to the**Apps** tab on the left. Then, find the**Java**  package from the list of installed programs, click on the**three horizontal dots** next to it, and click**Uninstall** .
 
 ![Uninstall the Existing Java Package From Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-uninstall-the-existing-java-package-from-windows-settings-app.jpg)
@@ -138,10 +142,6 @@ To change Lunar Client's memory allocation, follow these steps:
  If the installation window automatically detects an old Java version, uninstall it by clicking**Uninstall** .
 
 ![Uninstalling the Older Java Version From Java Setup Wizard on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstalling-the-older-java-version-from-java-setup-wizard-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Play Minecraft Smoothly Again on Windows
 
@@ -162,20 +162,22 @@ To change Lunar Client's memory allocation, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-capture-and-convert-your-instagram-feeds-top-15-free-exporters-for-windows-and-macos-users/"><u>[New] Capture and Convert Your Instagram Feeds Top 15 Free Exporters For Windows & macOS Users</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-6-tools-for-audiovisual-interpretation/"><u>[New] Ultimate 6 Tools for Audio/Visual Interpretation</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://ai-video.techidaily.com/an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation/"><u>An Exhaustive List of Lip Sync Apps for Vibrant Video Creation</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-script-execution-with-newly-minted-run-software/"><u>Elevate Script Execution with Newly Minted Run Software</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-isdonedll-issue-in-windows-10-and-11-systems/"><u>Fixing ISDone.dll Issue in Windows 10 & 11 Systems</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/fixing-printer-network-issues-a-step-by-step-guide-by-yl-technology-experts/"><u>Fixing Printer Network Issues: A Step-by-Step Guide by YL Technology Experts</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-11-sound-settings-solutions-for-nonfunctional-volume-control/"><u>Fixing Windows 11 Sound Settings: Solutions for Nonfunctional Volume Control</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-steam-initialization-failed-a-step-by-step-guide/"><u>How to Resolve 'Steam Initialization Failed': A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/old-pcs-new-life-without-windows/"><u>Old PCs, New Life without Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/saving-system-resources-manage-multiple-processes/"><u>Saving System Resources: Manage Multiple Processes</u></a></li>
-<li><a href="https://win11.techidaily.com/synergy-of-senses-how-meditation-enhances-thought-and-feeling/"><u>Synergy of Senses: How Meditation Enhances Thought & Feeling</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-high-graphics-usage-by-wm/"><u>Troubleshooting High Graphics Usage by WM</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-powertoys-text-and-click-efficiency/"><u>Unlocking PowerToys' Text and Click Efficiency</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-maximize-your-impact-strategic-approaches-to-facebook-bios/"><u>[New] In 2024, Maximize Your Impact Strategic Approaches to Facebook Bios</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-simplified-methods-for-logging-videos-on-vimeo-for-2024/"><u>[New] Simplified Methods for Logging Videos on Vimeo for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/amplify-earnings-monetize-youtube-on-the-go-with-effective-techniques-for-2024/"><u>Amplify Earnings Monetize YouTube on the Go with Effective Techniques for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/carminatis-gig-economy-ajays-youtube-wealth-stream/"><u>Carminati's Gig Economy AJay's YouTube Wealth Stream</u></a></li>
+<li><a href="https://win11.techidaily.com/excellent-win-software-alternatives-to-procreate/"><u>Excellent Win Software Alternatives To Procreate</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-compatibility-issues-tool-accessible-via-clipboard-menu/"><u>Fix Compatibility Issues: Tool Accessible Via Clipboard Menu</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-panasonic-hx-a1-wearable-camera-explored/"><u>In 2024, Panasonic HX-A1 Wearable Camera Explored</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-streamline-creativity-with-1-to-5-mac-editors-for-sierra-users/"><u>In 2024, Streamline Creativity with #1 to #5 Mac Editors for Sierra Users</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-double-click-opener-techniques-for-w11w10-folders/"><u>Mastering Double-Click Opener Techniques for W11/W10 Folders</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-16-best-free-avi-video-rotator-software-for-windows-mac-android-and-iphone/"><u>New In 2024, 16 Best Free AVI Video Rotator Software for Windows, MAC, Android, and iPhone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premiere-pro-speed-blackouts-for-2024/"><u>Premiere Pro Speed Blackouts for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/removed-in-the-new-wave-windows-characteristics/"><u>Removed in the New Wave: Windows Characteristics</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-borders-enhancing-images-with-style-on-social-platforms-for-2024/"><u>Step By Step Borders Enhancing Images with Style on Social Platforms for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-to-a-fresh-start-new-username-on-windows-11/"><u>Step-by-Step to a Fresh Start: New UserName on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/switching-shades-a-guide-to-paints-dark-mode/"><u>Switching Shades: A Guide to Paint's Dark Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/track-down-windows-shot-files-home/"><u>Track Down Windows Shot Files' Home</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-effectively-utilizing-powershell-policies/"><u>Understanding and Effectively Utilizing PowerShell Policies</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Clearing Up Confusion: How to Fix 0X8007045d Blue Screen in Win11"
-date: 2024-07-29T15:51:30.760Z
-updated: 2024-07-30T15:51:30.760Z
+date: 2025-02-13T03:04:45.826Z
+updated: 2025-02-15T18:24:19.290Z
 tags:
   - windows10
   - windows11
@@ -30,8 +30,9 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
  The error mostly occurs when your computer fails to find or read your files. It can be caused by a host of other reasons as well, be it software or hardware; however, more often than not, the underlying issue is an inability to read files or some error in copying them. So let's look at all the methods you can try to fix the error.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Perform a Windows Update
 
  A simple Windows Update is enough to solve many problems. That's why Microsoft provides a free update service that lets you download and install new patches to fix and update your operating systems' issues.
@@ -43,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 
 ![windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you're done, check and see if the 0x8007045d error persists.
 
 ## 2\. Restart Your PC
@@ -51,19 +56,12 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 
  In this case, too, you can try a restart and see if it fixes the 0x8007045d error.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Use an Alternate USB Slot
 
  Check your USB stick. See if it's plugged into the USB slot properly. Or take it out and insert it into an alternate slot.
 
  It isn't unheard of to encounter the 0x8007045d error because of a loosely connected USB stick or CD/DVD drive. So disconnect the external storage from your PC, reconnect it, and then check if it still works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 4\. Download the Affected Files Again
 
  Did you download your files from an external source? If the 0x8007045d error popped up when trying to open a downloaded file, there might have been a glitch during the download, and now you've got yourself a corrupt or incomplete file.
@@ -71,8 +69,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If that's the case, it's best to download your files from the original source and try your hand at the installation (or copying) of them again.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Run the Hardware and Device Windows Troubleshooter
 
  Microsoft has made a host of tools available that help you clean things up on your Windows PC. The device diagnostic Windows troubleshooter is one such tool.
@@ -86,21 +85,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 `msdt.exe -id DeviceDiagnostic`
 * This will launch the**Hardware and Devices** dialog box for you. From there, select**Next** . The software will start scanning your Windows for problems.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![hardware and device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-device.jpg)
 
  As soon as it finds the error, the tool will fix it right then and there. Check and see if the Windows 0x8007045d error is still present.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Copy Your Files From the USB Drive Onto Your PC
 
  Remember the connection problem? If the connection problem is caused by a USB device, moving your files to your local driver first will be a step in the right direction. So, copy your files to any local driver on your PC.
 
  Once done, try and run the installer or the program from your PC, and see if you're still facing the 0x8007045d error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Check for Driver Errors
 
@@ -120,14 +121,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you're still struggling with it, though, you should probably give Safe mode a go—an alternate mode of starting up your PC with as few drivers as possible.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +134,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-replay-anywhere-instant-guide-to-youtube-video-loops/"><u>[New] In 2024, Replay Anywhere Instant Guide to YouTube Video Loops</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unlocking-window-11s-best-kept-secrets-for-maximum-productivity/"><u>[New] In 2024, Unlocking WINDOW 11'S Best-Kept Secrets for Maximum Productivity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-srt-primer-for-enthusiasts/"><u>[New] The Ultimate SRT Primer for Enthusiasts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-attract-1000-viewers-quickly-on-youtube/"><u>2024 Approved Attract 1,000 Viewers Quickly on YouTube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-oppo-a56s-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Oppo A56s 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-realme-gt-5-pro-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Realme GT 5 Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-transferring-dvd-content-from-winx-dvd-ripper-for-mac-to-your-ipadapple-tv-devices/"><u>Comprehensive Guide to Transferring DVD Content From WinX DVD Ripper for Mac to Your iPad/Apple TV Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-windows-11-to-monitor-kids-internet-use/"><u>Configuring Windows 11 to Monitor Kids' Internet Use</u></a></li>
+<li><a href="https://blog-min.techidaily.com/descargar-conversion-de-archivos-jpeg-a-jp2-sin-costo-con-moviavi/"><u>Descargar Conversion De Archivos JPEG a JP2 Sin Costo Con Moviavi</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-window-11-icons-to-maximize-efficiency/"><u>Essential Window 11 Icons to Maximize Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/harness-the-power-of-new-amd-drivers-for-enhanced-window-11-performance/"><u>Harness the Power of New AMD Drivers for Enhanced Window 11 Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-performance-of-windows-edge-on-win10w11/"><u>Improving Performance of Windows Edge on Win10/W11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-switch-in-windows-11-replace-pin-with-secure-passwords/"><u>Navigating the Switch in Windows 11: Replace PIN with Secure Passwords</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-success-9-essential-steps-for-flawless-windows-media-views/"><u>Streamline Success: 9 Essential Steps for Flawless Windows Media Views</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-endless-scroll-problems-with-excel-on-windows/"><u>Tackle Endless Scroll Problems with Excel on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-failed-screen-mirroring-troubleshooting-guide-for-windows-users/"><u>Tackling Failed Screen Mirroring: Troubleshooting Guide for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/the-top-5-replacements-for-windows-snipping-capability-in-other-oses/"><u>The Top 5 Replacements for Windows' Snipping Capability in Other OSes</u></a></li>
+<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Update your drivers with Device Manager on Windows 11/10</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boost Your VM Capabilities: Upgrading to VirtualBox 7.0 in Win11"
-date: 2024-08-08T13:11:24.363Z
-updated: 2024-08-09T13:11:24.363Z
+date: 2025-02-13T04:05:20.483Z
+updated: 2025-02-15T21:38:52.652Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
  If you use VirtualBox 6.1 on your system, it is better to upgrade to the newest version. Unlike most apps that auto-update, VirtualBox needs manual efforts to update to the new version. We will elaborate on the methods to update to VirtualBox 7.0 on Windows 11 and install the necessary add-ons.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What’s New in VirtualBox 7.0?
 
  VirtualBox comes with support for Secure Boot in UEFI mode. It can now emulate TPM chips which are a mandatory requirement for Windows 11\. Along with that, there are some subtle but useful design changes that make it feel like a latest-gen app. Some menu options appear in new places, but it isn’t something to worry about. Plus, you can enjoy the dark mode on VirtualBox now and protect your eyes!
@@ -33,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
  But that’s not all! If you connect USB devices to VirtualBox virtual machines, you will have to remove the old extension pack and install the latest one released for the new build. Lastly, you will have to install the new guest additions pack for VirtualBox 7.0\. So, let’s begin.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Download the VirtualBox 7.0 Installer File and the Extension Pack
 
  Repeat the following steps to download all the necessary files for VirtualBox 7.0.
@@ -43,16 +37,21 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 1. Launch the VirtualBox app on your system. Navigate to**Help > VirtualBox Web Site** .
 2. The app will redirect you to the official VirtualBox website.
 3. Navigate to the left-hand side menu and click on the**Downloads** option.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![Download VirtualBox 7.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-virtualbox-7-0.jpg)
 4. Locate the**VirtualBox 7.0.4 platform packages** section. Click on the**Windows Hosts** option to download the installer file on your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Scroll down and find the**VirtualBox 7.0.4 Oracle VM VirtualBox Extension Pack** section. Click on the**All supported platforms** option to download the extension pack file for version 7.0.4.
 6. Wait for both downloads to finish and close the browser.
 
 Now, you have all the necessary files to upgrade to VirtualBox 7.0.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Install VirtualBox 7.0
 
@@ -70,9 +69,6 @@ To install VirtualBox 7.0, repeat the following steps:
 
  VirtualBox 7.0 will launch on your system. But wait! Don’t close the app yet.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ### 3\. Install the New Extension Pack
 
  Even after you upgrade the VirtualBox app to the newest version, the extension pack doesn’t upgrade along with it. So, it will have the older version of the extension pack which worked with the older VirtualBox version. You need to remove it and install the new extension pack that you download in the second method.
@@ -88,19 +84,18 @@ To install the VirtualBox 7.0 extension pack, do as follows:
 
 1. Now, click on the**Install Extension Pack** button located at the top. Locate the extension pack file you downloaded previously and select it. Click on the**Open** button.
 2. VirtualBox extension pack installer will pop up. Click on the**Install** button.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Install the New Extension Pack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-the-new-extension-pack.jpg)
 3. Accept the**EULA** by scrolling down. Click on the**I Agree** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. UAC will pop up. Click on the**Yes** button to begin the extension pack installation.
 5. Once the extension pack installs, it will appear in the list of installed extension packs.
 
  Now, you can easily connect the USB devices to one or many virtual machines that you created using VirtualBox. Check out our guide on [how to add a USB device to VirtualBox on Windows](https://www.makeuseof.com/windows-virtualbox-add-usb/) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Install the Guest Additions
 
  VirtualBox Guest Additions offers all the necessary drivers for a virtual machine. Since VirtualBox supports DirectX 11, it is advisable to install Guest Additions as it will offer drivers for all the components.
@@ -114,9 +109,11 @@ To install the VirtualBox 7.0 extension pack, do as follows:
 5. Double-click to open the CD image directory. Scroll down and right-click on the**VBoxWindowsAdditions–amd64.exe** file. Select**Run as administrator** from the context menu.  
 ![Install the Guest Additions 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-the-guest-additions-1.jpg)
 6. UAC will pop up. Click on**Yes** to continue.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Install the Guest Additions 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-the-guest-additions-2.jpg)
 7. Follows the on-screen prompts to install the Guest Additions on your system.
 8. Click on the**Reboot now** option to apply changes to the Windows virtual machine.
@@ -127,18 +124,19 @@ To install the VirtualBox 7.0 extension pack, do as follows:
 
  Yes. VirtualBox 7.0 will run the old virtual machines that you created without any issues. But you have to install the extension pack and the guest additions otherwise it could crash or not run at all. We tried running old Windows 10 and 11 virtual machines that we created in version 6.1.32, and they worked fine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Upgrade to VirtualBox 7.0 With Ease
 
  VirtualBox 7.0 is the first third-party hypervisor to introduce emulation of TPM 2.0 chips. Microsoft still impedes Windows 11 installation as a virtual machine if the hypervisor cannot emulate the chip. But VirtualBox 7.0 can now install Windows 11 after enabling the passthrough of the TPM 2.0 chip for a virtual machine.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,6 +145,20 @@ To install the VirtualBox 7.0 extension pack, do as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-post-photos-and-videos-on-twitter-from-smartphones-for-2024/"><u>[New] How To Post Photos and Videos on Twitter From Smartphones for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-reverse-image-retrieval-in-social-media-fb-explained/"><u>[New] Reverse-Image Retrieval in Social Media (FB) Explained</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-ultimate-mobile-and-web-photo-booster-at-no-cost/"><u>[Updated] Ultimate Mobile & Web Photo Booster at No Cost</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-visual-excellence-roundup-top-6-high-definition-dslrs-for-2024/"><u>[Updated] Visual Excellence Roundup Top 6 High-Definition DSLRs for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/asmr-and-you-understanding-its-healing-power/"><u>ASMR and You Understanding Its Healing Power</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/effortless-fb-movie-access-top-8-tools-of-23/"><u>Effortless FB Movie Access Top #8 Tools of '23</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-mfc71u-dll-loss-in-windows-system/"><u>Fixing Mfc71u DLL Loss in Windows System</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-oppo-f23-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Oppo F23 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maintain-your-mixers-audio-preferences-in-windows-10/"><u>Maintain Your Mixer's Audio Preferences in Windows 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/secure-free-downloads-of-movies-and-videos-winxdvd-portal/"><u>Secure Free Downloads of Movies & Videos: WinXDVD Portal</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/solving-the-bootmgr-not-found-issue-on-windows-11-post-cloning-a-guide-with-7-methods/"><u>Solving the 'Bootmgr Not Found' Issue on Windows 11 Post-Cloning: A Guide with 7 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/studio-2-analysis-microsofts-near-perfect-device-for-designers/"><u>Studio 2 Analysis: Microsoft's Near-Perfect Device for Designers</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-windows-11-firewall-settings-through-the-context-menu/"><u>Tailoring Windows 11 Firewall Settings Through the Context Menu</u></a></li>
+</ul></div>
 

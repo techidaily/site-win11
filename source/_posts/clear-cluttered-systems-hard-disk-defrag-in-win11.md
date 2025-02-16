@@ -1,7 +1,7 @@
 ---
 title: "Clear Cluttered Systems: Hard Disk Defrag in Win11"
-date: 2024-07-29T15:52:53.109Z
-updated: 2024-07-30T15:52:53.109Z
+date: 2025-02-08T20:55:17.401Z
+updated: 2025-02-16T04:15:09.705Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 
  Defragging a drive reorganizes the fragmented data on it more efficiently by filling storage gaps. Doing so can boost a hard disk drive’s read-write speed since data is less spread out. This is how you can defrag a drive with Windows 11’s pre-installed defrag tools and the Defraggler software.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Defrag a Hard Drive With the Optimize Drives App
 
  Defragment and Optimize Drives is one of the defrag tools included with Windows 11\. That’s a slightly basic defrag tool compared with some third-party alternatives. However, Optimize drives will probably be sufficient for most users and does at least include scheduling settings. You can manually analyze and defrag a hard drive with that utility as follows:
@@ -32,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 3. Select**Defragment and Optimize** drives to open that defrag tool.
 4. Next, select your local disk (drive C) in the Optimize drives window.
 5. Press the**Analyze drives** button. Then the utility will display a fragmentation percentage in the**Current Status** column.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Optimize Drives window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/optimize-drives-window.jpg)
 6. Select the**Optimize** option to defrag the drive.
 
@@ -51,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 ![The drive selection window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/drive-selection-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Defrag a Hard Drive With the Command Prompt
 
  Alternatively, you can utilize a defragger command-line tool within the Command Prompt. That tool is more flexible because it has various parameters you can set in commands. This is how to defrag your hard drive with the Command Prompt in Windows 11.
@@ -66,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 `defrag c:`  
 ![The defrag c command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/defrag-c-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As mentioned, this command-line tool has numerous parameters for configuring the defragment operation. Those parameters give you extra optimization options and enable you to tweak the defragging more. You can view the parameter switches by inputting and executing this command:
 
 `defrag /?`
@@ -74,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 
 ![The defrag help command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/defrag-parameter-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Defrag a Hard Drive With Defraggler
 
  Piriform Defraggler is a more advanced drive optimization tool than Defragment and Optimize Drives, which you can utilize on Windows platforms dating back to XP. It enables you to defrag whole drive volumes, specific folders, or even single files. You can defrag a hard drive with Defraggler like this:
@@ -86,15 +82,14 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 3. Double-click the**dfsetup222.exe** installer to bring up the Defraggler setup wizard.
 4. If you want to configure the installation in any way, click the**Customization** option. Then you can change the folder path by clicking**More** \>**Browse** .
 5. Select Defraggler’s**Install** option.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Install button for Defraggler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-install-button2.jpg)
 6. Click**Run Defraggler** in the Piriform window.
-7. Next, click the**Analyze** button to view a report with a fragmentation percentage figure.  
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Next, click the**Analyze** button to view a report with a fragmentation percentage figure.  
 ![The Defraggler tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-defraggler-tool.jpg)
 8. Press the**Defrag** button. Or you click that button’s arrow to select**Quick defrag** if preferred.
 
@@ -106,13 +101,18 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
 
 ![The Action menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-action-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To set automatic drive optimization, click the**Settings** menu and select**Schedule** ; choose a drive in the drop-down menu and select**Schedule drive optimization for chosen volume** . Then choose one of the period options to configure according to preference. You can also select one of four optimization settings on the**Defrag type** drop-down menu. Click**OK** to set the schedule.
 
 ![The Schedule window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-schedule-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can I Defrag a Solid-State Drive?
 
  You can defrag an SSD drive with the tools in this guide, but it’s rather pointless. Solid-state drives are a different type of non-mechanical storage that’s faster than hard drives. Defragging such drives offers little to no performance benefit.
@@ -129,8 +129,6 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +136,18 @@ thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-from-zero-to-viral-video-top-10-user-friendly-youtube-concepts/"><u>[New] In 2024, From Zero to Viral Video Top 10 User-Friendly YouTube Concepts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-from-idea-to-screen-smartphone-video-creation-tips/"><u>[Updated] In 2024, From Idea to Screen Smartphone Video Creation Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-erroneous-onedrive-tags-in-windows-file-system/"><u>Correcting Erroneous OneDrive Tags in Windows File System</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/harness-the-power-of-fb-lives-selecting-the-top-5-downloading-apps-for-2024/"><u>Harness the Power of FB Lives Selecting the Top 5 Downloading Apps for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-device-hang-how-to-fix-dxgierrordevicehunk/"><u>Overcoming Device Hang: How to Fix DXGI_ERROR_DEVICE_HUNK</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-windows-11-parental-guidance-features/"><u>Setting Up Windows 11 Parental Guidance Features</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-minimized-tiworkerexe-cpu-activity/"><u>Solutions for Minimized TiWorker.exe CPU Activity</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-overcoming-initialization-errors-in-team-fortress-2/"><u>Solved! Overcoming Initialization Errors in Team Fortress 2</u></a></li>
+<li><a href="https://article-tips.techidaily.com/sounds-of-laughter-top-ringtones-downloaders/"><u>Sounds of Laughter Top Ringtones Downloaders</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-systems-with-microsofts-pc-manager-setup-on-win11/"><u>Streamlining Systems with Microsoft's PC Manager Setup on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-power-couple-in-mindfulness-cognitive-function-and-emotional-mastery/"><u>The Power Couple in Mindfulness: Cognitive Function & Emotional Mastery</u></a></li>
+</ul></div>
 

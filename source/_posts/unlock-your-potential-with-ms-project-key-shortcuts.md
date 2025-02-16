@@ -1,7 +1,7 @@
 ---
 title: Unlock Your Potential with MS Project Key Shortcuts
-date: 2025-02-03T05:52:26.699Z
-updated: 2025-02-03T17:24:44.058Z
+date: 2025-02-10T23:08:51.247Z
+updated: 2025-02-16T00:48:06.720Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Microsoft Project Keyboard Shortcuts
 
  Here are some shortcuts that you may need frequently to use in Microsoft Project:
@@ -33,24 +37,16 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
 **Ctrl + O:** It is important to keep track of all projects that are being worked.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Save a Project File
 
 **Ctrl + S:** It is essential to save all changes made to a project often as it helps to keep track of and prevent data loss.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Create a Task
 
 **Ctrl + T:** This will open up a new task window and allow you to enter the necessary information for their project.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Close the Program Window
@@ -62,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 **Shift + F11:** This will open up a blank window that can be used for any tasks or projects that need to be created.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Activate the Project Control Menu
@@ -74,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 **Shift + F2:** This will open up a window with detailed information about any selected tasks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 9\. Turn On or off Auto Calculate
@@ -85,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
 **Ctrl + Del:** This will clear any data that is currently entered in the selected field and reset it to its default value.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 11\. Copy the Selected Data
 
 **Ctrl + C:** This will automatically copy the data that is currently selected and allow it to be pasted into any other location.
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 **Ctrl + X:** This will remove the data from its current location.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 13\. Set the Task to Auto Schedule
@@ -228,17 +228,20 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-securing-memories-a-comprehensive-guide-for-scanning-and-storing-vintage-photos/"><u>[New] 2024 Approved Securing Memories A Comprehensive Guide for Scanning and Storing Vintage Photos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-secrets-of-firefoxs-pip-mode/"><u>2024 Approved Unlocking the Secrets of Firefox's PIP Mode</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/bringing-sketches-to-life-foremost-ipados-apps/"><u>Bringing Sketches to Life Foremost iPadOS Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/guiding-through-the-process-of-managing-services-on-windows-11-boot-up/"><u>Guiding Through the Process of Managing Services on Windows 11 Boot-Up</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Itel P40+? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Vivo Y100i? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-frozen-windows-mice-with-easy-steps-to-follow/"><u>Navigating Frozen Windows Mice with Easy Steps to Follow</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-video-codec-selection/"><u>Navigating Windows' Video Codec Selection</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/superior-cinematic-introductions-set-for-2024/"><u>Superior Cinematic Introductions Set for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-stop-internal-laptop-keys-in-operating-systems/"><u>Tips to Stop Internal Laptop Keys in Operating Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-runtime-brokers-their-role-in-systems/"><u>Understanding Runtime Brokers: Their Role in Systems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-trendsetting-images-their-histories-for-2024/"><u>[New] Trendsetting Images Their Histories for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-chuckling-chambers-humor-for-special-days-for-2024/"><u>[Updated] Chuckling Chambers Humor for Special Days for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-compre-written-analysis-hero4-black-operations/"><u>[Updated] Compre Written Analysis Hero4 Black Operations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-blur-faces-or-objects-in-youtube-videos-for-2024/"><u>[Updated] How to Blur Faces or Objects in YouTube Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-from-download-to-usage-setting-up-obs-on-a-mac/"><u>[Updated] In 2024, From Download to Usage Setting Up OBS on a Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/command-line-utility-mastery-handling-zipped-data-with-ease/"><u>Command Line Utility Mastery: Handling Zipped Data with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/compre-written-remedy-for-windows-0x0000004e/"><u>Compre Written Remedy for Windows' 0X0000004E</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-methods-for-converting-mkv-to-mp4-on-windows/"><u>Effective Methods for Converting MKV to MP4 on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-remedies-for-the-vanishing-gpeditmsc-error/"><u>Effective Remedies for the Vanishing Gpedit.msc Error</u></a></li>
+<li><a href="https://win11.techidaily.com/erased-windows-elegance-top-6-features/"><u>Erased Windows Elegance: Top 6 Features</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-convert-microsoft-word-docx-files-to-pdfs-in-windows-11/"><u>How to Convert Microsoft Word DOCX Files to PDFs in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-group-policy-for-msi-service-adjustment/"><u>How to Use Group Policy for MSI Service Adjustment</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-nokia-c12-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Nokia C12 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-se-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone SE Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-heart-of-windows-11-home-section/"><u>Navigating the Heart of Windows 11: Home Section</u></a></li>
 </ul></div>
 

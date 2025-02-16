@@ -1,7 +1,7 @@
 ---
 title: Clear Path to Fixed System Control Disruption by Rogue Windows Software
-date: 2024-07-29T15:53:31.663Z
-updated: 2024-07-30T15:53:31.663Z
+date: 2025-02-10T18:25:34.178Z
+updated: 2025-02-15T23:50:17.383Z
 tags:
   - windows10
   - windows11
@@ -34,30 +34,26 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 
  The “app preventing Windows from shutting down” error message may be caused by corrupted system files. The first thing to do is to run the System File Checker on Windows. System File Checker is a tool built into the OS that can scan and restore Windows system files to restore your system to a healthy state.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the results of an sfc scan in Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scan-results.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, it’s advised that you run the DISM tool first. This tool uses Windows Update to make sure that your system files are all in order, so it's a good idea to do a DISM to ensure the SFC scan goes off without a hitch. You can read about both of these tools in our guide on[the difference between CHKDSK, DISM, and SFC](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Disable Fast Startup
 
  Even though it has its advantages, there are many[reasons to disable Windows Fast Startup](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) . One of these is that it can interfere with how Windows shuts down. With Fast Startup enabled, your computer goes into a state of hibernation, and not a full shutdown, when you turn it off.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off fast boot by clicking on change unavailable settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/change-unavailable-settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Settings are saved and start-up times are reduced, but as reported on[Windows Learn](https://learn.microsoft.com/en-us/troubleshoot/windows-client/deployment/updates-not-install-with-fast-startup) , it is known to affect Windows updates. So,[turn off Fast Startup on Windows](https://www.makeuseof.com/windows-11-turn-on-or-off-fast-startup/) and check whether this solves the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ### 3\. Tweak Your Sign-In Options
 
  With Windows 10, Microsoft included an option to make your life easier when updating to newer builds and versions. This uses your sign-in information to finish setting up your PC after an update. But this can cause problems with shutting down your computer. Follow these steps to change your sign-in options.
@@ -66,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 2. Click on**Accounts** and navigate to**Sign-in options** on the left pane.  
 ![Sign-in options on Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/01-windows-sign-in-options-01.jpg)
 3. Scroll down to the**Privacy** section and turn off the option to use your sign-in info to automatically finish setting up your device after an update or restart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Additionally, you can[block Microsoft sign-ins on Windows 10](https://www.makeuseof.com/windows-block-allow-microsoft-accounts/) altogether.
 
@@ -78,22 +78,14 @@ Here’s how you can run the power troubleshooter on Windows:
 1. Access**Settings** via the Start menu.
 2. Click on**Update & Security** and navigate to**Troubleshoot** on the left pane.
 3. Scroll down to the**Power** section and click on it to expand it.  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run the Windows power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/02-windows-power-troubleshooter.jpg)
 4. Click on**Run the troubleshooter** .
 
  The system will scan for errors and let you know if there’s something that might need fixing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Manually Kill or Update the Problematic Task
 
@@ -104,20 +96,18 @@ Here’s how you can run the power troubleshooter on Windows:
  If the problem persists, the[task host may be preventing Windows from shutting down](https://www.makeuseof.com/windows-task-host-preventing-shutdown/) .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Clean Up Your Shutdown Procedure on Windows
 
  It isn’t always easy to pinpoint the error that prevents Windows from shutting down or logging off. Resetting things to the way they were before the error started showing up may help solve the problem. Mostly, however, it is likely just third-party apps causing the trouble.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +116,24 @@ Here’s how you can run the power troubleshooter on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-revenue-revolution-how-to-design-effective-animated-fb-ads-for-2024/"><u>[New] Revenue Revolution How to Design Effective Animated FB Ads for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-redmi-12-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Redmi 12 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experiencing-the-future-of-tech-my-first-encounter-with-lenovos-transparent-notebook-at-mwc/"><u>Experiencing the Future of Tech - My First Encounter with Lenovo's Transparent Notebook at MWC</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-fix-for-microsoft-store-error-on-win1111/"><u>Guiding Fix for Microsoft Store Error on Win11/11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-realign-windows-task-managers-cpu-utilization-figures/"><u>How to Realign Windows Task Manager's CPU Utilization Figures</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-zte-blade-a73-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from ZTE Blade A73 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-spectrum-analysis-of-vsco-editing-features/"><u>In 2024, Full Spectrum Analysis of VSCO Editing Features</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-xr-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone XR Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-step-by-step-building-a-viral-instagram-film-empire/"><u>In 2024, Step-by-Step Building a Viral Instagram Film Empire</u></a></li>
+<li><a href="https://win11.techidaily.com/initiating-a-new-era-of-usability-top-6-recommendations-for-the-windows-11-taskbar/"><u>Initiating a New Era of Usability: Top 6 Recommendations for the Windows 11 Taskbar</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-missing-files-issue-on-windows-11/"><u>Overcoming Missing Files Issue on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-image-snapshots-in-win11-ui/"><u>Personalize Image Snapshots in Win11 UI</u></a></li>
+<li><a href="https://win11.techidaily.com/redefining-windows-interaction-the-rise-of-ai/"><u>Redefining Windows Interaction: The Rise of AI</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-reactivate-a-stuck-download-section-on-windows/"><u>Strategies to Reactivate a Stuck Download Section on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-the-continuous-reboot-issue-in-windows-10/"><u>Ultimate Guide: Solving the Continuous Reboot Issue in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-potential-increasing-pin-size-safely-on-windows/"><u>Unlock Potential: Increasing Pin Size Safely on Windows</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enabling Google Play Through Windows 11
-date: 2025-01-30T22:44:40.420Z
-updated: 2025-02-03T23:02:55.145Z
+date: 2025-02-13T19:11:45.597Z
+updated: 2025-02-15T19:51:06.902Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Install Google Play Store on Windows 11
 
  As discussed earlier, you can[sideload and run Android apps on Windows 11](https://www.makeuseof.com/windows-11-sideload-android-apps/) . However, finding APKs and installing them via the Command Prompt is cumbersome. You also need to configure Android Debug Bridge (ADB) to install Android apps.
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
  Note that this process requires installing third-party modified files and packages and involves potential risks. Before proceeding,[create a restore point in Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) or[recovery drive](http://www.makeuseof.com/create-recovery-drive-system-repair-disc-windows-10/) . These recovery options can help you undo the changes or repair the system if something goes wrong.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 1: Uninstall Android Subsystem for Android
@@ -52,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 ![uninstall windows subsystem for android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/uninstall-windows-subsystem-for-android.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have Windows Subsystem for Android installed, you can uninstall it from the Apps & features section.
@@ -65,9 +61,17 @@ To uninstall WSA:
 4. Locate and click on**Windows Subsystem for Android** under**App list** .
 5. Click the**three dots** and select**Uninstall** . Click**Uninstall** again to confirm the action.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 2: Enable Developer Mode in Windows 11
 
 ![enable-developer-mode-windows-11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/enable-developer-mode-windows-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Developer Mode allows you to sideload apps and access other developer features, including remote installation apps via SSH services.
 
@@ -77,10 +81,6 @@ To enable Developer Mode:
 2. Open the**Privacy and Security** tab in the left pane.
 3. In the right pane, click on**For Developers.**
 4. Toggle the switch for**Developer Mode** and set it to**On** . Click**Yes** to confirm the action.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 3: Enable Virtual Machine to Run Android Apps
 
@@ -98,7 +98,7 @@ To configure the Virtual Machine:
 If successful, you will see an update status message during restart.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 4: Setup and Install Windows Subsystem for Linux and Linux Distro on Windows 11
@@ -152,26 +152,30 @@ cd scripts`
 ![build arch masigkonwsa local](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/build-arch-masigkonwsa-local.jpg)
 3. Next, for**WSA release** type, select**Retail Stable Channel** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![WSA retail type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wsa-retail-type.jpg)
 4. Select**No** in the**Do you want to** **Root WSA dialog** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Select**Yes** in the**Do you want to install GApps** dialog.  
 ![which GApps you want to install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/which-gapps-you-want-to-install.jpg)
 6. Select**OpenGApps** in the**Which GApps do you want to install** dialog.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Next, in the**Do you want to keep Amazon Appstore** dialog, select**Yes** or**No** , depending on your requirement.
 8. Select**No** in the**Do you want to compress the output** dialog.
 9. MagiskOnWSALocal will start generating custom Windows subsystem for the Android image.
 
  This process may take some time to complete. So, wait for the process to complete.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 7: Install Windows Subsystem for Android
 
@@ -190,6 +194,10 @@ or
 ![magiskonwsalocal copy folders files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/magiskonwsalocal-copy-folders-files.jpg)
 4. Copy all the files and folders inside the**WSA** folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, go to your installation drive**C:\\** and create a new folder named**WSA** .  
 ![WSA folder Windows C drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wsa-folder-windows-c-drive.jpg)
 
@@ -198,10 +206,6 @@ or
 3. Press the**Win** key and type**cmd** . Right-click on**Command Prompt** and select**Run as administrator** .  
 ![install Windows subsystem for Android windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-windows-subsystem-for-android-windows-11.jpg)
 4. In the Command Prompt window, type the following command to change the directory to the WSA folder:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `cd C:\WSA`
 5. Next, run the following command to execute the following command to install the WSA package:  
@@ -212,10 +216,6 @@ or
 To enable Developer mode on Windows Subsystem for Android:
 
 ![Windows subsystem for android enable developer mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-subsystem-for-android-enable-developer-mode.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Press the**Win** key, type**Windows Subsystem for Android** , and open the app from the search results.
 2. Next, open the**Developer** tab in the left pane.
@@ -247,24 +247,18 @@ To enable Developer mode on Windows Subsystem for Android:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-seamlessly-transfer-spotify-songs-to-youtube-with-these-tools/"><u>[New] 2024 Approved Seamlessly Transfer Spotify Songs to YouTube with These Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ecoding-youtube-analytics-insights-for-every-content-creator-for-2024/"><u>[New] Decoding YouTube Analytics Insights for Every Content Creator for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-full-explainer-leveraging-google-docs-for-audio-to-text-conversion/"><u>[New] Full Explainer Leveraging Google Docs for Audio to Text Conversion</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-enhancing-your-tiktok-intro-with-mac-techniques-for-2024/"><u>[Updated] Enhancing Your TikTok Intro with Mac Techniques for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-ensuring-compliance-in-zoom-meetings-a-recording-guide/"><u>[Updated] Ensuring Compliance in Zoom Meetings A Recording Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-explaining-the-gopro-burst-mode/"><u>[Updated] Explaining the GoPro Burst Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-guide-to-quick-fixes-configuring-windows-troubleshooting-commands/"><u>Expert Guide to Quick Fixes: Configuring Windows Troubleshooting Commands</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-for-mastering-windows-lav-filter-usage-and-functionality/"><u>Expert Tips for Mastering Window's LAV Filter Usage and Functionality</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/important-aspects-to-examine-when-selecting-a-modern-printer-model/"><u>Important Aspects to Examine When Selecting a Modern Printer Model</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-honor-v-purse-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Honor V Purse to Gmail | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/novel-methods-to-execute-software-on-windows-os/"><u>Novel Methods to Execute Software on Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-active-state-for-windows-11-user-interface/"><u>Reinstating Active State for Windows 11 User Interface</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-screen-settings-the-drivers-rebooting-roadmap/"><u>Tailoring Screen Settings: The Drivers' Rebooting Roadmap</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-and-resolve-multiversus-crashes-discover-the-eight-best-techniques/"><u>Troubleshoot & Resolve MultiVersus Crashes: Discover the Eight Best Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-audacity-paudio-internal-issue-in-windows/"><u>Troubleshooting Audacity PAudio Internal Issue in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/turning-batches-into-windows-wonders-the-exe-guide/"><u>Turning Batches Into Windows Wonders: The Exe Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-showdown-comparing-features-of-roku-vs-fire-tv-stick-to-find-your-ideal-streamer/"><u>Ultimate Showdown: Comparing Features of Roku Vs. Fire TV Stick to Find Your Ideal Streamer</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11s-filesystem-glitches/"><u>Unlocking Windows 11'S Filesystem Glitches</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-troubleshoot-tool-integration-into-right-click-options/"><u>Windows Troubleshoot Tool Integration Into Right-Click Options</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-accelerate-youtube-visibility-select-top-8-rank-watchers/"><u>[New] In 2024, Accelerate YouTube Visibility - Select Top 8 Rank Watchers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-essentials-of-youtubes-latest-payment-policy/"><u>[New] In 2024, The Essentials of YouTube's Latest Payment Policy</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-transform-shots-to-boost-circular-vignette-features/"><u>[New] In 2024, Transform Shots to Boost Circular Vignette Features</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-revolutionize-your-reacting-skills-with-these-3-pro-level-youtube-tips/"><u>2024 Approved Revolutionize Your Reacting Skills with These 3 Pro-Level YouTube Tips</u></a></li>
+<li><a href="https://fox-place.techidaily.com/activate-automatic-playback-on-windows-10-a-step-by-step-guide-yl-software-solutions/"><u>Activate Automatic Playback on Windows 10: A Step-by-Step Guide - YL Software Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-tracking-anydesk-fixes-for-frequent-windows-glitches/"><u>Fast-Tracking AnyDesk Fixes for Frequent Windows Glitches</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-motorola-edgeplus-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/personalized-windows-voice-to-text-program-through-whisper-and-autohotkey/"><u>Personalized Window's Voice-to-Text Program Through Whisper & AutoHotkey</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-installing-msixbundle-and-msix-packages-via-microsoft-store/"><u>Quick Guide: Installing MSixBundle & MSIX Packages via Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-methods-to-temporarily-halt-windows-security-in-windows-11/"><u>Quick Methods to Temporarily Halt Windows Security in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-speaker-configuration-after-discrepancies/"><u>Resetting Speaker Configuration After Discrepancies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-strategy-a-comprehensive-2024-guide-to-roller-champions-multiplayer-tactics/"><u>Step-by-Step Strategy: A Comprehensive 2024 Guide to Roller Champions Multiplayer Tactics</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-correcting-error-0x800700e1-in-windows-11/"><u>Strategies for Correcting Error 0X800700E1 in Windows 11</u></a></li>
 </ul></div>
 

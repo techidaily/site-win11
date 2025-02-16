@@ -1,7 +1,7 @@
 ---
 title: Ceasing Edge Symbols' Regular Occurrence
-date: 2024-07-29T15:51:18.496Z
-updated: 2024-07-30T15:51:18.496Z
+date: 2025-02-12T19:04:50.612Z
+updated: 2025-02-15T19:03:14.606Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
  Fortunately, there's no requirement to manually delete the Edge desktop shortcut repeatedly. Here are some helpful tips that should help resolve the issue in no time.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Prevent Microsoft Edge From Opening at Startup
 
  By default, Microsoft Edge runs every time you start your Windows computer. Several users on the Microsoft forums reported fixing this particular issue by preventing Microsoft Edge from opening at startup. Hence, it’s the first thing you should try.
@@ -38,9 +39,9 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
  Additionally, you should also [access the startup folder on your Windows PC](https://www.makeuseof.com/access-startup-folder-windows/) and delete any shortcuts labeled Microsoft Edge.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Edit Registry Files
 
  Another way to prevent the Microsoft Edge shortcut from reappearing on your desktop involves editing registry files.
@@ -61,16 +62,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 8. Within the **EdgeUpdate** key, create another DWORD and name it **RemoveDesktopShortcutDefault**.
 9. Double-click the **RemoveDesktopShortcutDefault** DWORD and enter **0** in the Value data field.
 10. Click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![EdgeUpdate Key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edgeupdate-key-in-registry.jpg)
 
  Close the Registry Editor window and restart your PC. After that, check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Modify Group Policy Settings
 
  If the issue remains even after you edit registry files, you can try modifying the group policy settings.
@@ -99,6 +94,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If you need help picking a reliable browser, you can check out [the best browsers for Windows](https://www.makeuseof.com/windows-11-best-browsers/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Restrict Other Users From Creating Desktop Shortcuts
 
  If you share your computer with others, someone else may be creating shortcuts for Edge without your permission. If you don't want this to happen, you can use the Group Policy Editor to prevent other users from creating desktop shortcuts.
@@ -111,12 +110,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. Double-click on the **Prevent changing desktop icons** policy in the right pane.
 5. Select the **Enabled** option.
 6. Click **Apply** and then **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Using the Local Group Policy to Prevent Others From Changing Desktop Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-Local-Group-Policy-to-Prevent-Others-From-Changing-Desktop-Icons.jpg)
 
  And that's about it. Once you make the above changes, the other users won't be able to create, modify, or delete your desktop icons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Review Scheduled Tasks
 
@@ -134,9 +134,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Further, you can [restrict others from creating and running tasks in the Task Scheduler app](https://www.makeuseof.com/windows-block-task-manager/) by modifying the group policy settings or the registry files.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Uninstall Microsoft Edge From Your PC
 
  If none of the above tips help, you can consider uninstalling Microsoft Edge to fix the problem. This can be useful if Microsoft Edge isn’t your preferred browser anyway.
@@ -151,11 +151,30 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Fortunately, there's no requirement to manually delete the Edge desktop shortcut repeatedly. Here are some helpful tips that should help resolve the issue in no time.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-fastest-practices-powerpoint-recordings/"><u>[New] Fastest Practices PowerPoint Recordings</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-penny-pinching-picks-microphones-under-50/"><u>[New] In 2024, Penny-Pinching Picks Microphones Under $50</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-techniques-to-reformat-macscreenshot-extensions/"><u>[Updated] Techniques to Reformat MacScreenshot Extensions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-unbeatable-amazon-discounts-for-august-2eomv-2024-your-source-to-smart-shopping/"><u>Discover Unbeatable Amazon Discounts for August 2Eomv, 2024: Your Source to Smart Shopping</u></a></li>
+<li><a href="https://win11.techidaily.com/dxgidll-missing-solve-it-with-these-win11-fixes/"><u>Dxgi.dll Missing? Solve It with These Win11 Fixes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-change-video-speed-on-instagram-stories/"><u>How to Change Video Speed on Instagram Stories?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-customize-win11-connection-protocols/"><u>How to Customize Win11 Connection Protocols</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-high-quality-power-units-for-gopro-hero5-genuine-sources-and-copycats/"><u>In 2024, High-Quality Power Units for GoPro Hero5 Genuine Sources & Copycats</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-g34-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto G34 5GFRP Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/minimizing-wmi-service-resource-consumption/"><u>Minimizing WMI Service Resource Consumption</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-failed-system-call-in-windows-devices/"><u>Resolving 'Failed System Call' In Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-issue-of-dark-pixels-on-windows-steam/"><u>Tackling the Issue of Dark Pixels on Windows Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-list-of-windows-best-webp-image-viewers/"><u>The Ultimate List of Windows' Best WebP Image Viewers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-vpn-providers-ideal-for-secure-and-anonymous-torrenting-a-comprehensive-guide-by-zdnet/"><u>Top 4 VPN Providers Ideal for Secure and Anonymous Torrenting: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-keys-locked-here-are-quick-fixes-to-regain-accessibility-of-your-shortcut-commands/"><u>Windows Keys Locked? Here Are Quick Fixes to Regain Accessibility of Your Shortcut Commands</u></a></li>
+</ul></div>
+

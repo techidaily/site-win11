@@ -1,7 +1,7 @@
 ---
 title: Elevate Desktop Experience with Program Size Control on Win11
-date: 2025-01-30T22:41:44.372Z
-updated: 2025-02-04T00:33:06.492Z
+date: 2025-02-11T17:41:11.612Z
+updated: 2025-02-16T04:35:15.389Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 ![The Action to perform drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/autosize-window.jpg)
 3. Then select the**Resize** /**Position** option on the**Action to perform** drop-down menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the**Set size** checkbox.
 5. Input the window width and height values in the two text boxes. The left box sets the width and the right one is for height.
 6. Click the**OK** button. The software window you set a size for will then be resized to the values entered.
@@ -54,13 +58,13 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 
 ![General options for AutoSizer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/general-autosize-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To set a hotkey to restore windows to their preset sizes, click inside the**AutoSize Now! Shortcut key** box. Press a keyboard hotkey to set it. Then you’ll be able to restore windows to their preset dimensions after resizing them by pressing that hotkey.
 
  And if you're a big fan of hotkeys, be sure to check out[how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Set Custom Sizes for Software With WinSize2
 
@@ -77,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 5. ![The Extract all button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-extract-all-option3.jpg)
 6. Make sure**Show extracted files** is selected within the extraction utility.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click**Extract** to bring up the WinSize2\_2.38.04 folder.
 
 Now it's time to use WinSize2 to size our windows:
@@ -84,10 +92,6 @@ Now it's time to use WinSize2 to size our windows:
 1. Double-click the**WinSize2.exe** file to launch WinSize2.  
 ![The WinSize2 window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winsize2-window.jpg)
 2. Then open the software window for which to set the size.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Make sure the software window you’ve opened is the selected (active) window.
 4. Resize the window to a size you want to save.
@@ -99,7 +103,7 @@ Now it's time to use WinSize2 to size our windows:
 ![The Complete Title of the Window drop-down menu in WinSize2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-wintitle-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The window you set the preset size for will always open with its saved dimensions, so long as WinSize2 is running. Try it out by opening the software, resizing its window, and closing the program. The software’s window will still open at the size set when you launch it again.
@@ -115,11 +119,7 @@ Now it's time to use WinSize2 to size our windows:
 ![The define a new Hotkey box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-define-a-hotkey-box.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Your Software at Your Preferred Window Sizes
@@ -141,21 +141,22 @@ Now it's time to use WinSize2 to size our windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-enhance-your-story-game-applying-fun-sticker-themes/"><u>[Updated] 2024 Approved Enhance Your Story Game Applying Fun Sticker Themes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-key-elements-for-effective-spotify-ad-execution/"><u>[Updated] In 2024, The Key Elements for Effective Spotify Ad Execution</u></a></li>
-<li><a href="https://win11.techidaily.com/effortlessly-enable-and-customize-window-sandbox/"><u>Effortlessly Enable and Customize Window Sandbox</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicating-error-3-in-windows-nvidia-opengl-guide/"><u>Eradicating Error 3 in Windows: Nvidia OpenGL Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reactivate-regular-outlook-after-safe-mode-lockdown/"><u>How To Reactivate Regular Outlook After Safe Mode Lockdown</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Oppo Find X6? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-switching-off-persistent-dark-mode/"><u>Mastering the Art of Switching Off Persistent Dark Mode</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722978221859-non-state-actors-pose-a-unique-challenge-to-global-nuclear-security-governance-due-to-their-potential-to-acquire-illicit-nuclear-materials/"><u>Non-State Actors Pose a Unique Challenge to Global Nuclear Security Governance Due to Their Potential to Acquire Illicit Nuclear Materials.</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-undetected-hard-drive-issue/"><u>Resolving Undetected Hard Drive Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-windows-11-isp-settings-for-optimal-performance/"><u>Tailoring Windows 11 ISP Settings for Optimal Performance</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-of-the-line-laptops-faceoff-how-the-samsung-galaxy-book-3-ultra-stacks-up-against-the-macbook-pro-insights/"><u>Top-of-the-Line Laptops Faceoff: How the Samsung Galaxy Book 3 Ultra Stacks Up Against the MacBook Pro | Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-selection-the-6-greatest-mario-games-available-for-windows-and-mac/"><u>Ultimate Selection: The 6 Greatest Mario Games Available for Windows & Mac</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-access-failed-in-microsoft-windows/"><u>Unraveling the Access Failed in Microsoft Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-hugging-face-understanding-its-purpose-and-applications/"><u>Unveiling Hugging Face: Understanding Its Purpose & Applications</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>What is the best Pokemon for pokemon pvp ranking On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-growth-hackers-guide-the-ultimate-list-of-top-strategies-to-retain-youtube-viewers/"><u>[New] 2024 Approved Growth Hackers Guide The Ultimate List of Top Strategies to Retain YouTube Viewers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-enhancing-online-presence-obs-and-facebook-synergy-for-2024/"><u>[New] Enhancing Online Presence OBS & Facebook Synergy for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-flaunt-your-brand-with-ease-the-top-10-youtube-theme-designers/"><u>[Updated] 2024 Approved Flaunt Your Brand with Ease - The Top 10 YouTube Theme Designers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-optimal-hash-tags-for-youtube-success-story/"><u>[Updated] Optimal Hash Tags for YouTube Success Story</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-breakdown-hero4-black-functionality-for-2024/"><u>Complete Breakdown Hero4 Black Functionality for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-windows-functionality-compiling-and-reviewing-reports/"><u>Demystifying Windows Functionality: Compiling & Reviewing Reports</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/experience-next-level-entertainment-with-nvidia-shield-tv-pro-review-gaming-and-more/"><u>Experience Next-Level Entertainment with Nvidia Shield TV Pro Review: Gaming & More</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-reverse-error-80080300-on-microsoft-teams-w11/"><u>Guide to Reverse Error 80080300 on Microsoft Teams, W11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-foster-community-with-unique-insta-story-questions/"><u>In 2024, Foster Community with Unique Insta Story Questions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-intersecting-realities-metaverse-and-multiverse-differences/"><u>In 2024, Intersecting Realities Metaverse and Multiverse Differences</u></a></li>
+<li><a href="https://win11.techidaily.com/master-file-management-top-windows-strategies-max-156/"><u>Master File Management: Top Windows Strategies (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-high-privilege-commands-on-your-system/"><u>Mastering High-Privilege Commands on Your System</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-boost-security-with-vboxs-secure-boot/"><u>Step-by-Step: Boost Security with VBox's Secure Boot</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-ungrouping-taskbar-elements/"><u>Techniques for Ungrouping Taskbar Elements</u></a></li>
+<li><a href="https://win11.techidaily.com/the-clear-winner-in-the-gadget-rivalry-pcs-versus-macs-9/"><u>The Clear Winner in the Gadget Rivalry: PCs Versus Macs (#9)</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-index-configuration-tools/"><u>Understanding Index Configuration Tools</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-apowersoft-audio-recorder-tutorial-and-4-alternatives/"><u>Updated In 2024, Apowersoft Audio Recorder Tutorial and 4 Alternatives</u></a></li>
 </ul></div>
 

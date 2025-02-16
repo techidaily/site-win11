@@ -1,7 +1,7 @@
 ---
 title: "Harness the Power of Windows 11 Photo App: Crafting Impeccable Slideshows & Fixes"
-date: 2025-02-02T20:58:18.381Z
-updated: 2025-02-04T03:42:50.297Z
+date: 2025-02-11T20:23:14.960Z
+updated: 2025-02-15T18:45:10.974Z
 tags:
   - windows10
   - windows11
@@ -43,25 +43,21 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
 ![Download Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/download-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use the Slideshow Feature in the Photos App
 
  When you launch the Photos app, you will notice a **Start Slideshow** icon in the **All Photos** section next to the filters option. Click on it to begin the slideshow. Alternatively, you can press the **F5** key to start the slideshow.
 
 ![Start Slideshow in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/start-slideshow-in-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The slideshow will continue playing in the background even if you click on the music icon. You can press the **Spacebar** or click on the **Pause** icon to stop it.
 
  By default, the app will apply transitions, music, animation, and a loop to the slideshow. To adjust any of these features, **hover** on the slideshow and click on the **Music** icon. Now, you can enable or disable any of the four **toggles** to add or remove the effect from the slideshow.
 
 ![Slideshow options in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-options-in-photos-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  By default, you are stuck with a basic zoom-in animation effect, a fade-out transition, and an auto-loop option. The only customizable feature is the background music where you can choose tracks from multiple categories.
 
@@ -72,11 +68,11 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 ![Slideshow running in windowed mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-running-in-windowed-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Spot Fix Feature?
@@ -97,11 +93,11 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
 ![Spotfix feature in Photos App 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/spotfix-feature-in-photos-app-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Another gripe with the Spot Fix feature is that you cannot select an area in an image. You are left with the maximum size of the tool only. The circular size of the tool makes it difficult to tackle the corners of the object you want to remove from the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Other Improvements in the Photos App
 
@@ -112,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 ![Auto enhance in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/auto-enhance-in-photos-app.jpg)
 
  If you want to select consecutive photos, hold the **Shift** key and click on images. It is a faster way to select multiple images without having to click on each one of them. For non-consecutive photo selection, you can use the **Ctrl** key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Much-Needed Overhaul for Photos on Windows 11
 
@@ -129,19 +129,22 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-blitzing-through-images-on-win11-for-2024/"><u>[New] Blitzing Through Images on Win11 for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premier-video-tools-from-image-source/"><u>[New] Premier Video Tools From Image Source</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-next-gen-editors-the-ultimate-selection-of-instagram-tools/"><u>2024 Approved Next-Gen Editors The Ultimate Selection of Instagram Tools</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/establishing-a-visual-alert-for-system-checks-on-windows-11-systems/"><u>Establishing a Visual Alert for System Checks on Windows 11 Systems</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/leading-windows-apps-top-video-editing-picks/"><u>Leading Windows Apps Top Video Editing Picks</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-solutions-for-looter-shooter-lagginess/"><u>Leveraging Solutions for Looter Shooter Lagginess</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-media-maker-errors-x8007043c-x90017/"><u>Overcoming Media Maker Errors: X.8007043C, X.90017</u></a></li>
-<li><a href="https://win11.techidaily.com/should-pagefilesys-be-removed-regularly-pros-and-cons/"><u>Should Pagefile.sys Be Removed Regularly? Pros & Cons</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-to-fixing-acrocef-errors-for-smooth-operation/"><u>Step-by-Step Guide to Fixing AcroCEF Errors for Smooth Operation</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-workflow-with-these-five-steps/"><u>Streamline Your Workflow with These Five Steps</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95687184-9781440580031-the-modern-guide-to-witchcraft/"><u>The Modern Guide to Witchcraft | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/transformative-tech-journey-windows-and-android-via-flow/"><u>Transformative Tech Journey: Windows & Android via Flow</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-ensuring-your-shorts-videos-thumbnail-shows-up/"><u>[New] 2024 Approved Ensuring Your Shorts Video's Thumbnail Shows Up</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-image-clarity-reignited-exclusive-guide-to-top-10-photo-tools-for-2024/"><u>[Updated] Image Clarity Reignited Exclusive Guide to Top 10 Photo Tools for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209994133-9780786451388-an-introduction-to-parapsychology-5th-ed/"><u>An Introduction to Parapsychology, 5th ed. | Free Book</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/empower-yourself-learning-the-ins-and-outs-of-io-screen-recorder/"><u>Empower Yourself Learning the Ins and Outs of IO Screen Recorder</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-screen-going-black-while-gaming-on-windows/"><u>How to Fix the Screen Going Black While Gaming on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-tecno-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Tecno Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-apple-iphone-12-mini-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and Apple iPhone 12 mini iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leverage-the-power-of-cookiebot-in-your-online-marketing-efforts/"><u>Leverage the Power of Cookiebot in Your Online Marketing Efforts</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-parseerror-0xc00ce556-in-winoss/"><u>Overcoming ParseError: 0XC00CE556 in WinOSs</u></a></li>
+<li><a href="https://win11.techidaily.com/preventive-tips-for-keeping-epic-games-launcher-active/"><u>Preventive Tips for Keeping Epic Games Launcher Active</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-error-2e-to-propel-windows-update/"><u>Resolve Error 2E to Propel Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-team-interaction-with-efficiency/"><u>Revitalizing Team Interaction with Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-operations-with-crucial-cmd-command-knowledge/"><u>Streamline Operations with Crucial CMD Command Knowledge</u></a></li>
+<li><a href="https://win11.techidaily.com/unseen-toolbar-actions-the-sly-way-in-win-10/"><u>Unseen Toolbar Actions: The Sly Way in Win 10</u></a></li>
+<li><a href="https://win11.techidaily.com/zero-dollars-down-for-podcast-improvement-tools/"><u>Zero Dollars Down for Podcast Improvement Tools</u></a></li>
 </ul></div>
 

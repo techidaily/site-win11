@@ -1,7 +1,7 @@
 ---
 title: Clearing Up the Conflicting Audio Application Problem in Windows
-date: 2024-07-29T15:51:59.241Z
-updated: 2024-07-30T15:51:59.241Z
+date: 2025-02-13T01:01:31.373Z
+updated: 2025-02-15T20:54:36.441Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,13 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 
  This is error is often a case of incorrectly configured Windows Audio service. Other times, the audio issue is due to a corrupt audio device driver. Here we show you how to troubleshoot the "this device is being used by another application" error and restore audio on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Run the Windows Audio Troubleshooter
 
 ![Windows 11 settings troubleshoot other troubleshooters playing audio run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-troubleshoot-other-troubleshooters-playing-audio-run.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows has a built-in audio troubleshooter to find and fix issues with playing audio. The troubleshooter looks for common audio issues and tries to fix them automatically.
 
@@ -46,21 +47,25 @@ To disable Exclusive Mode for the audio device on Windows:
 1. Press**Win + I** to open**Settings** .
 2. In the**System** tab, click on**Sound** .
 3. Scroll down and click on**More sound settings** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![more sound settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/more-sound-settings-windows-11.jpg)
 4. Select the audio device in the**Sound** dialog and click the**Properties** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Open the**Advanced** tab in the**Properties** dialog.  
 ![disable exclusive mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-exclusive-mode.jpg)
 6. Uncheck the **Allow application to take exclusive control of this device** and**Give exclusive mode application priority** options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click**Apply** and**OK** to save the changes.
 
  Restart your computer and check if the error is resolved and if the audio device is working again.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Change Windows Audio Service Startup Type
 
  Windows Audio service is responsible for managing audio devices connected to your computer. If the service is disabled or not running, your audio device can stop working.
@@ -75,9 +80,6 @@ To change the Windows Audio service Startup type:
 ![windows audio service properties services snap in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-audio-service-properties-services-snap-in.jpg)
 4. Click the**Startup** type drop-down and select**Automatic** .
 5. Click**Apply** and**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![windows audio service startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-audio-service-startup-type-automatic.jpg)
 6. If the service is not running, right-click on**Windows Audio** and select**Start** .
 7. Close the Services snap-in and restart your PC. After the restart, your audio device should start working again.
@@ -88,12 +90,17 @@ To change the Windows Audio service Startup type:
 
  To disable the audio device, right-click on the audio device and select**Disable device** in**Device Manager** . Next, right-click on the audio device and**Enable Device** . Close Device Manager and check for any improvements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Uninstall and Reinstall the Audio Device and Driver
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Uninstalling an audio device in Windows 11.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/uninstalling-audio-device-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also troubleshoot your audio problems by uninstalling the audio device and the associated drivers. Reinstalling the audio device can help if the sound problem is due to corrupt audio drivers.
 
@@ -107,6 +114,10 @@ To uninstall your audio device on Windows:
 
  You may see a yellow exclamation mark on the uninstalled audio device. To reinstall the driver, click on**File** and select**Scan for hardware changes** . This should reinstall the sound device and driver. If not, restart your computer. As the system restarts, Windows will reinstall the missing audio device driver and restore sound on your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Perform a Driver Rollback
 
  If you have an external sound card and have installed an update, try a driver rollback. A new driver update can sometimes create more problems than it intends to fix. You can use the device driver rollback feature in Device Manager to undo the changes and reinstall the older version of the driver.
@@ -117,23 +128,14 @@ To uninstall your audio device on Windows:
 
 ## 7\. Install Pending Windows Updates
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![windows 11 view update history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winodws-11-view-update-history.jpg)
 
  If it is a Windows-specific issue, installing pending Windows updates can fix the problem. Check the Windows updates page for newer updates and install them to see if that helps resolve the issue.
 
  To install Windows update, go to**Settings > Windows Update** and click**Check for updates** . Windows will populate the screen with all the pending updates. You can install the updates or selectively install any audio device updates.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Check for Third-Party App Conflict
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![volume mixer windows 11 view audio applications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/volume-mixer-windows-11-view-audio-applications.jpg)
 
  If the issue persists, check if there is a third-party app conflict. You can use Volume Mixer to view applications accessing the audio devices and close the problematic app to fix the problem. Here’s how to do it.
@@ -148,14 +150,11 @@ To uninstall your audio device on Windows:
 
  This error is often the result of an audio device driver problem. To fix the error, check if a new driver is available. If not, perform a rollback to install the previous driver version. Also, disable exclusive application access to audio devices and configure the Windows Audio service to start automatically.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +163,26 @@ To uninstall your audio device on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/1723010504135-solved-epic-games-launcher-wont-open-quickly-and-easily/"><u>[SOLVED] Epic Games Launcher Won't Open | Quickly & Easily</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-mellow-music-playlist-20-tiktok-country-tracks-to-relax-with/"><u>[Updated] In 2024, Mellow Music Playlist 20 TikTok Country Tracks to Relax With</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-audiovisual-excellence-top-5-premium-slow-motion-gear/"><u>2024 Approved Audiovisual Excellence Top 5 Premium Slow-Motion Gear</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-step-by-step-approach-to-leveraging-anthropics-claude-3-for-enhanced-ai-interaction-via-the-prompt-store/"><u>A Step-by-Step Approach to Leveraging Anthropic's Claude 3 for Enhanced AI Interaction via the Prompt Store</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-contrast-microsoft-account-vs-standard-local-access-on-pcs/"><u>Comprehensive Contrast: Microsoft Account vs Standard Local Access on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-rectifying-error-0x8007251d-on-pcs/"><u>Deciphering and Rectifying Error 0X8007251d on PCs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-apple-iphone-15-pro-max-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from Apple iPhone 15 Pro Max Safe and Legal</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-realme-narzo-n53-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme Narzo N53 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-12-mini-by-drfone-ios/"><u>How To Unlock A Found iPhone 12 mini?</u></a></li>
+<li><a href="https://win11.techidaily.com/infuse-personalized-aesthenticity-in-window-apps/"><u>Infuse Personalized Aesthenticity in Window Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/inside-out-windows-style-mastery-of-opening-internal-personality-insight/"><u>Inside Out, Windows Style: Mastery of Opening Internal Personality Insight</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/leverage-automated-marketing-excellence-with-cookiebot-integration-solutions/"><u>Leverage Automated Marketing Excellence with Cookiebot Integration Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-the-continuous-run-of-edge-in-win11/"><u>Managing the Continuous Run of Edge in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rectify-microsoft-store-problem-on-windows/"><u>Steps to Rectify Microsoft Store Problem on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-boot-procedures-for-windows-audiovisual-service/"><u>Streamlining Boot Procedures for Windows Audiovisual Service</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-search-by-eliminating-artifacts/"><u>Streamlining Windows Search by Eliminating Artifacts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/thoroughly-assessing-the-performance-of-theta-s/"><u>Thoroughly Assessing the Performance of Theta S</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-rectifying-onedrives-invalid-tag-on-a-pc/"><u>Tips for Rectifying OneDrive’s Invalid Tag on a PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/x-audio-workstation-for-home-computers-for-2024/"><u>X-Audio Workstation for Home Computers for 2024</u></a></li>
+</ul></div>
 

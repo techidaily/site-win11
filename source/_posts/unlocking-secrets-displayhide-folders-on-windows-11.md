@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Secrets: Display/Hide Folders on Windows 11"
-date: 2025-02-02T22:17:26.673Z
-updated: 2025-02-04T02:59:59.923Z
+date: 2025-02-14T00:08:15.884Z
+updated: 2025-02-15T16:45:50.055Z
 tags:
   - windows10
   - windows11
@@ -48,7 +48,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 ![new-key-namespace-regedit-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-key-namespace-regedit-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once done, refresh File Explorer by hitting **F5**. Now you will see that the **3D Objects** folder has appeared in This PC.
@@ -56,13 +56,13 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 ![3d-objects-this-pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-objects-this-pc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To remove the folder again, just go back to the Registry Editor, right-click the **{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}** key, and select **Delete**. After you refresh File Explorer, the folder will be gone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Show or Hide the Documents, Music, Videos, Pictures, and/or Downloads Folders in This PC
@@ -82,7 +82,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 ![set-hideifenabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-hideifenabled.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now when you refresh This PC in File Explorer, you will see that the **Documents** folder is gone.
@@ -106,7 +106,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{088e3905-0323-4b02-9826-5d99428e115f}
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Choose the Folders You Want to Appear on This PC in Windows 11
@@ -130,24 +130,18 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-youtubes-buffering-blues-your-pathway-out-current-strategies/"><u>[Updated] 2024 Approved YouTube's Buffering Blues – Your Pathway Out (Current Strategies)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-premiere-moments-in-motion/"><u>[Updated] Premiere Moments in Motion</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-screen-commanders-clash-for-2024/"><u>[Updated] Screen Commanders Clash for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-leading-productivity-laptop-thats-not-from-lenovo-or-apple-exclusive-review/"><u>Discover the Leading Productivity Laptop That's Not From Lenovo or Apple: Exclusive Review</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-media-management-lowering-memory-and-cpu-demand-in-windows/"><u>Efficient Media Management: Lowering Memory and CPU Demand in Windows</u></a></li>
-<li><a href="https://win-hot.techidaily.com/guida-per-reimpostare-e-recuperare-file-cancellati-accidentalmente-in-windows-11/"><u>Guida per Reimpostare E Recuperare File Cancellati Accidentalmente in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-microsoft-teams-when-it-keeps-asking-you-to-sign-in-on-windows/"><u>How to Fix Microsoft Teams When It Keeps Asking You to Sign In on Windows</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-itel-p55plus-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Itel P55+ in Minutes | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-elevating-online-presence-with-obs-facebook-linking/"><u>In 2024, Elevating Online Presence with OBS-Facebook Linking</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-encouraging-student-participation/"><u>In 2024, Encouraging Student Participation</u></a></li>
-<li><a href="https://win11.techidaily.com/initiate-15-approaches-to-system-controls/"><u>Initiate: 15 Approaches to System Controls</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/leading-luminaries-of-livestreaming-success/"><u>Leading Luminaries of Livestreaming Success</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-screen-management-via-driver-rollbacks-in-win1011/"><u>Mastering Screen Management via Driver Rollbacks in Win10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-network-address-translation-change-in-win1110/"><u>Navigating Network Address Translation Change in Win11/10</u></a></li>
-<li><a href="https://win11.techidaily.com/pathway-to-the-canvas-launching-ms-paint-in-windows-11/"><u>Pathway to the Canvas: Launching MS Paint in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/rapid-renders-how-to-quickly-fix-wwe-2k23-on-pcs/"><u>Rapid Renders: How to Quickly Fix WWE 2K23 on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-smooth-full-screen-play-for-sonic-games-w11/"><u>Unlocking Smooth Full Screen Play for Sonic Games (W11)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-the-battle-against-file-error-0x80070570-fix-guide-for-windows-11/"><u>Winning the Battle Against File Error 0X80070570: Fix Guide for Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-strategic-approaches-to-share-ppt-powerfully-in-google-meet/"><u>[New] 2024 Approved Strategic Approaches to Share PPT Powerfully in Google Meet</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-creative-clips-excellent-tools-for-photoshopping-with-frames/"><u>[Updated] In 2024, Creative Clips Excellent Tools for Photoshopping with Frames</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-jake-paul-unveiled-charting-the-path-of-youtube-stardom-for-2024/"><u>[Updated] Jake Paul Unveiled Charting the Path of YouTube Stardom for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-nvidia-display-settings-are-not-available-error-on-the-nvidia-control-panel-for-windows/"><u>How to Fix the “Nvidia Display Settings Are Not Available” Error on the Nvidia Control Panel for Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-error-with-windows-previous-credentials/"><u>Navigating Error with Windows Previous Credentials</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/rapidly-constructing-a-dynamic-facebook-visual-narrative/"><u>Rapidly Constructing a Dynamic Facebook Visual Narrative</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-control-over-a-frozen-windows-start-button/"><u>Regaining Control over a Frozen Windows Start Button</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/saving-on-recording-expenses-free-cam-screen-recorders-evaluated/"><u>Saving on Recording Expenses Free Cam Screen Recorders Evaluated</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-walkthrough-how-to-install-and-configure-a-domain-controller-with-windows-server-201-generate-two-new-seo-titles-based-on-the-given-phrase-full22/"><u>Step-by-Step Walkthrough: How to Install and Configure a Domain Controller with Windows Server 201# Generate Two New SEO Titles Based on the Given Phrase Full Guide: Install Domain Controller on Windows Server 2012</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reset-microsoft-sql-access-for-malwarebytes/"><u>Steps to Reset Microsoft SQL Access for Malwarebytes</u></a></li>
+<li><a href="https://win11.techidaily.com/the-significance-of-dxvk-integration-in-win-based-games/"><u>The Significance of DXVK Integration in Win-Based Games</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Breathing Life Into a Non-Operational iTunes Windows App
-date: 2024-07-29T15:54:41.359Z
-updated: 2024-07-30T15:54:41.359Z
+date: 2025-02-10T20:07:09.522Z
+updated: 2025-02-15T20:44:27.018Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
 
  When iTunes doesn’t work, it throws up messages like “iTunes has stopped working” or “cannot run” and doesn’t launch. Its startup error messages can vary, but the result is the same with iTunes not opening. Users can’t access and utilize iTunes on Windows 11/10 PCs when that software doesn’t start.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Close All of iTunes' Processes in the Task Manager
 
  Sometimes iTunes freezes when users try to start it because a background process for that software is already running. Ending the iTunes process in Task Manager before selecting to run the software is a potential fix many users confirm works.
@@ -29,15 +33,9 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
 1. Right-click an empty area on your taskbar to select the **Task Manager** shortcut.
 2. Click **Processes** on Task Manager’s tab bar.
 3. If you can see an iTunes process under Apps, select it and click **End task**.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Processes tab in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/processes-tab.jpg)
 4. Look for and disable any other iTunes-related tasks under **Background processes**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Utilize the Windows Store App Troubleshooter
 
  The Windows Store App troubleshooter can fix UWP apps when they’re not working right. So, that tool could be useful for troubleshooting the iTunes MS Store app.
@@ -46,25 +44,24 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
 
 ![The Windows Store Apps window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-store-apps.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Set iTunes to Run With Administrator Rights
 
  Some users have said running iTunes with admin rights can help to fix that app when it’s not working. So, that’s another potential resolution worth trying. To do so, right-click iTunes on your Start menu and select **More** \> **Run as administrator**.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run-as-administrator-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/run-as-administrator-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also set the iTunes desktop software to always run as an administrator from its file location. Check out this guide about how to [always run programs with admin rights](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) for further instructions.
 
  However, you can’t set the iTunes UWP app to always run with elevated rights because its installation folder is not accessible.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run iTunes in Safe Mode
 
  If you’ve installed the iTunes desktop software, try fixing its startup error by running the app in safe mode. Doing so will launch iTunes with plugins disabled. You can activate safe mode by pressing and holding the **Ctrl** \+ **Shift** keys when you click to launch iTunes. Then click **Continue** on the safe mode dialog box that appears.
@@ -84,9 +81,6 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
 3. Click **Compatibility** on the iTunes Properties window.
 4. Select **Run this program in compatibility** mode to activate the drop-down menu for that setting.
 5. Select the **Windows 7** compatibility setting on the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![The Compatibility mode setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/compatibility-mode-settings.jpg)
 6. Click on the **Apply** button to set your selected options.
 7. Select **OK** to leave the iTunes Properties window.
@@ -97,16 +91,16 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
 
  Our guide to [repairing apps and programs in Windows](https://www.makeuseof.com/windows-repair-apps-programs/) tells you how to repair iTunes using either way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Reset the iTunes App
 
  The iTunes UWP app has a **Reset** option you can select via Apps & features in Settings. That troubleshooting option clears the app’s data, which is worth trying when iTunes isn’t working right.
 
  Our guide to [resetting apps on Windows PCs](https://www.makeuseof.com/windows-reset-app/) includes instructions for how to select that option on both platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![The Repair and Reset options for iTunes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/repair-and-reset-options.jpg)
 
 ## 8\. Turn Off Any Active Third-Party Security Software
@@ -117,9 +111,6 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Reinstall iTunes
 
  Reinstalling iTunes is a final troubleshooting method to try if nothing else works. This troubleshooting method will refresh the app’s files and likely resolve installation issues causing iTunes startup errors.
@@ -128,24 +119,27 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
 
 ![The Uninstall option for iTunes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/uninstall-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you’ve uninstalled iTunes, you can either install the UWP app or older Windows desktop software. To do so, click **Download iTunes for Windows 10 from the Microsoft Store** or **Download iTunes 12.10.11** on the [Apple page](https://support.apple.com/en-gb/HT210384). If you select the 12.10.11 option, you’ll need to open the installation file for iTunes in the folder it downloaded and install the software with that.
 
 ![The download links for iTunes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/itunes-download-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Installing iTunes from the Microsoft Store is recommended because you can be sure that it's the Windows-supported app and the latest version. 12.10.11 is the last version of the desktop software Apple hasn’t updated since 2020\.
 
  However, users have confirmed uninstalling iTunes and installing an older version of that software can resolve certain issues. To be more specific, the “iTunes cannot run” error message is one such issue users confirm installing older versions fixes. You can install an older version of iTunes by downloading its installation file from the [Apple Support page](https://support.apple.com/downloads/itunes).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Get iTunes Fixed on Your Windows PC
 
  Some users may be tempted to try other alternative multimedia software like PodTrans or doubleTwist when iTunes won’t open. However, the troubleshooting methods above will likely fix most iTunes launch errors that arise on Windows PCs. So, give them a try before ditching iTunes.
 
  When iTunes doesn’t work, it throws up messages like “iTunes has stopped working” or “cannot run” and doesn’t launch. Its startup error messages can vary, but the result is the same with iTunes not opening. Users can’t access and utilize iTunes on Windows 11/10 PCs when that software doesn’t start.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -153,3 +147,27 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-social-media-fame-on-instagram-for-2024/"><u>[New] Mastering Social Media Fame on Instagram for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-gazegraphic-reviews-synopsis/"><u>[Updated] 2024 Approved GazeGraphic Reviews Synopsis</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-elite-soundstage-storytelling-scripts/"><u>[Updated] Elite Soundstage Storytelling Scripts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-effortless-iphone-screen-recording-techniques-unveiled/"><u>[Updated] In 2024, Effortless iPhone Screen Recording Techniques Unveiled</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/enhance-computer-efficiency-a-guide-to-streamlining-startup-applications-with-expert-advice-from-yl-software/"><u>Enhance Computer Efficiency: A Guide to Streamlining Startup Applications with Expert Advice From YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-speed-in-the-download-process-microsoft-store-edition/"><u>Enhancing Speed in the Download Process - Microsoft Store Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicate-the-bluescreen-in-windows-11-expert-fixes-summarized/"><u>Eradicate the Bluescreen in Windows 11: Expert Fixes Summarized</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-techniques-for-inserting-code-snippets-into-documents-in-ms-word/"><u>Expert Techniques for Inserting Code Snippets Into Documents in MS Word</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-non-existent-file-detection-issue-on-win-11/"><u>Fixing Non-Existent File Detection Issue on Win 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-7-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 7</u></a></li>
+<li><a href="https://article-files.techidaily.com/jokesinframe-instant-memes-and-more/"><u>JokesInFrame Instant Memes & More</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-print-management-on-windows-11-keep-it-simple-max-52-chars/"><u>Mastering Print Management on Windows 11 (Keep It Simple) (Max 52 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-disconnected-ethernet-on-windows/"><u>Reviving Disconnected Ethernet on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/steady-surf-on-pcs-windows-internet-check-guide/"><u>Steady Surf on PCs: Windows Internet Check Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/the-premier-window-to-excellent-video-scripting-software/"><u>The Premier Window to Excellent Video Scripting Software</u></a></li>
+<li><a href="https://win11.techidaily.com/top-7-compact-free-media-players-for-pcs/"><u>Top 7 Compact, FREE Media Players for PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrade-classics-seamlessly-add-achievements-using-retroarch-software/"><u>Upgrade Classics: Seamlessly Add Achievements Using Retroarch Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2/"><u>パソコン上で画像を動画化するための2種類のテクニック</u></a></li>
+</ul></div>
+

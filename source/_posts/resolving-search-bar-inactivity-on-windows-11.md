@@ -1,7 +1,7 @@
 ---
 title: Resolving Search Bar Inactivity on Windows 11
-date: 2025-01-27T17:22:37.942Z
-updated: 2025-02-03T18:43:11.806Z
+date: 2025-02-14T16:52:06.125Z
+updated: 2025-02-16T02:33:21.440Z
 tags:
   - windows10
   - windows11
@@ -49,13 +49,13 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 ![The Search and Indexing troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-search-and-indexing-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The steps for opening the Search and Indexing troubleshooter in Windows 10’s Settings app aren’t exactly the same. Click**Update & Security** \>**Troubleshoot** in Windows 10’s Settings app. Selecting**Additional troubleshooters** will bring up the list. Then you can click**Run the troubleshooter** for Search and Indexing to open it from there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Select the Enhanced Search Option
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 4. Then select the**Enhanced** radio button.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Enhanced radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-enhanced-radio-button.jpg)
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 ![The Remove option for excluded folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-remove-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Start the Windows Search Service
@@ -99,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 
  If the Windows Search service is already running, try restarting it. Select the**Stop** option for Windows Search. Wait a few minutes, and click the**Start** button for the service to restart it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Run a Scan With the SFC Tool
 
  Microsoft recommends users run the System File Checker (SFC) tool when Windows functions aren’t working right. In this case, the search function isn’t displaying results, which could be because of corrupted Windows files on your PC. This is how you can start an SFC scan:
@@ -112,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 ![The SFC scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-sfc-scan-command.jpg)
 5. Wait for the SFC tool to show a Windows Resource Protection scan outcome.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Rebuild the Search Tool’s Index
 
  A corrupted or outdated search index database is another potential cause for the search tool not displaying results. In this case, you may need to select to rebuild the search index. Doing so will wipe the current index’s content and restart the indexing. These are the steps for rebuilding the search index in Windows:
@@ -125,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 ![The Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-large-icons-button.jpg)
 3. Click**Indexing Options** to view that applet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Advanced** in the Indexing Options window.
 5. Click**Rebuild** in the Index**Settings** tab.  
 ![The Rebuild button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-rebuild-option.jpg)
@@ -133,7 +137,7 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 7. Select**OK** \>**Close** to exit the indexing applet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall Cortana
@@ -151,7 +155,7 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 7. Press**Enter** to execute the PowerShell command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset Windows
@@ -159,10 +163,6 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
  If nothing else fixes the search tool not showing results, this is the last-resort resolution to try. Resetting Windows reinstalls the platform by restoring it to a default configuration, which will most likely be enough to resolve this search issue. However, you’ll need to reinstall any software you previously installed after a reset.
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-this-pc-tool.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can perform a reset with the Reset this PC recovery tool. That utility includes an option for preserving user files. Our guide on[how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) includes instructions for applying this resolution with that tool.
 
@@ -185,19 +185,14 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-is-taking-screenshots-of-youtube-videos-illegal/"><u>[Updated] 2024 Approved Is Taking Screenshots of YouTube Videos Illegal?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-comprehensive-guide-to-obtaining-visual-assets-for-2024/"><u>[Updated] Comprehensive Guide to Obtaining Visual Assets for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-mirrored-display-in-windows-10/"><u>Correcting Mirrored Display in Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-mystery-of-team-up-glitch-80080300-on-w11-systems/"><u>Decoding the Mystery of Team Up Glitch #80080300 on W11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnose-and-fix-unresponsive-usb-ports-on-dell-laptopsdesktops/"><u>Diagnose and Fix Unresponsive USB Ports on Dell Laptops/Desktops</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/direct-link-freshest-sound-blaster-z-driver-updates-for-your-windows-10-system/"><u>Direct Link: Freshest Sound Blaster Z Driver Updates for Your Windows 10 System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expand-your-display-seamlessly-linking-your-android-device-to-monitors-via-usb/"><u>Expand Your Display: Seamlessly Linking Your Android Device to Monitors via USB</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/maximizing-visual-variety-with-b-roll-elements-for-2024/"><u>Maximizing Visual Variety with B Roll Elements for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-fix-media-creators-issue-x8007043c-x90017/"><u>Methods to Fix Media Creator's Issue: X.8007043C, X.90017</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-design-your-dream-collage-top-online-photo-and-video-tools-for-2024/"><u>New Design Your Dream Collage Top Online Photo and Video Tools for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/silencing-autonomous-search-window-on-windows-11/"><u>Silencing Autonomous Search Window on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-secret-of-masking-windows-11s-search-icon/"><u>The Secret of Masking Windows 11'S Search Icon</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-12-prominent-sony-xperia-5-v-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Sony Xperia 5 V Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshoot-no-network-detection-by-windows/"><u>Troubleshoot No Network Detection by Windows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-apex-creators-video-giants-in-the-making/"><u>[New] 2024 Approved Apex Creators Video Giants in the Making</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-launching-hit-online-streams/"><u>2024 Approved The Ultimate Guide to Launching Hit Online Streams</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-windows-bt-directories-a-guide/"><u>Eliminating Windows ~BT Directories: A Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/file-fusion-and-drive-dynamics-win11s-defrag-guidebook/"><u>File Fusion & Drive Dynamics: Win11's Defrag Guidebook</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-response-guide-booting-into-safe-mode-in-windows-11/"><u>Immediate Response Guide: Booting Into Safe Mode in Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-apple-iphone-14-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From Apple iPhone 14?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-uncovering-stardews-depths-with-ginger-island-adventures/"><u>In 2024, Uncovering Stardew's Depths with Ginger Island Adventures</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/surviving-a-power-cut-with-modern-innovation-the-portable-battery-that-kept-us-lit-and-connected-zdnet/"><u>Surviving a Power Cut with Modern Innovation: The Portable Battery That Kept Us Lit and Connected | ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/top-10-windows-error-solvers-your-ultimate-fix-guide/"><u>Top 10 Windows Error Solvers: Your Ultimate Fix Guide</u></a></li>
 </ul></div>
 

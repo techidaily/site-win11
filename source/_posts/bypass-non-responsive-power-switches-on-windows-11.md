@@ -1,7 +1,7 @@
 ---
 title: Bypass Non-Responsive Power Switches on Windows 11
-date: 2024-07-29T15:51:02.739Z
-updated: 2024-07-30T15:51:02.739Z
+date: 2025-02-14T23:21:39.658Z
+updated: 2025-02-15T23:42:38.060Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/e350204044526aae4dc95dcf2061d143539918222
 
  Changing these modes is quite simple, but in some cases, users can face difficulty jumping from one mode to another. So, we examine what might be causing the problem and how to troubleshoot it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Why Can't You Change the Power Mode in Windows 11?
 
  Several factors can prevent you from changing the power mode in Windows. Here are the most common reasons behind this problem:
@@ -33,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/e350204044526aae4dc95dcf2061d143539918222
 
  Now that we know what can cause the problem, let's look at what you can do to solve it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Change the Power Plan
 
  The first thing we recommend you do is switch to a different power plan, especially if you are using a custom power plan. We suggest shifting to the Balanced plan and checking if that fixes the issue. This plan optimizes the performance automatically. This means it will activate the full performance mode when you are actively using the computer and switch to the power-saving mode when you are not.
@@ -42,24 +43,19 @@ Here is how you can proceed:
 1. Open a Run dialog box by pressing the Win + R keys together.
 2. Type control in the text field of Run and click**Enter** .
 3. In the following window, expand the**View by** category at the top and choose**Large icons** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Click on Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/large-icons-control-panel.jpg)
 4. Now, look for**Power options** and click on it.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Click on Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/win11-power-options.jpg)
 5. You should now be able to see your current power plan. Click on**Create a power plan** in the left pane.  
 ![Create a power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/create-power-plan-1.jpg)
 6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
 
 Once done, check if you can now change the power mode successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the Power Troubleshooter
 
@@ -72,16 +68,19 @@ Here is how you can run the troubleshooter:
 1. Press the Win + I keys together to open the Settings app.
 2. Choose**System** \>**Troubleshoot** in the following window.
 3. Click on**Other troubleshooters** .  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Click on Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-win11.jpg)
 4. Now, look for the Power troubleshooter and click on the**Run** button for it.  
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reset the Power Settings
 
@@ -105,14 +104,15 @@ Here is how you can do that:
 2. Now, head over to the following location:  
 Computer Configuration -> Administrative Templates -> System -> Power Management
 3. Locate the**Select an active power plan** option in the right pane and double-click on it.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Choose the Select an active power plan policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-an-active-power-plan.jpg)
 4. Choose**Enabled** and then choose the targeted power plan from the dropdown.
 5. Click**Apply** \>**OK** to save the changes, and then restart your computer.
 
 Hopefully, this will resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Revert the System to an Older Working State
 
@@ -128,14 +128,11 @@ Hopefully, this will resolve the issue.
 
  If nothing really works, you can always clean install Windows to give it a fresh, error-free start.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,4 +141,23 @@ Hopefully, this will resolve the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capture-spectacular-video-on-youtube-top-webcam-picks/"><u>[New] In 2024, Capture Spectacular Video on YouTube Top Webcam Picks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-the-power-of-windows-11s-media-importer-tools/"><u>[Updated] Unleash the Power of Windows 11'S Media Importer Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/18-best-tools-for-live-webcam-streaming-and-saving/"><u>18 Best Tools for Live Webcam Streaming & Saving</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-playstation-network-disruption-in-windows-os/"><u>Correcting PlayStation Network Disruption in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-an-inactive-window-control-center/"><u>Fixing an Inactive Window Control Center</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-same-user-ms-account-error-on-desktop/"><u>Fixing Same-User MS Account Error on Desktop</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-15-pro-max-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 15 Pro Max</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-note-12-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Redmi Note 12 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-15-evaluation-convincing-pros-and-enthusiasts-alike-the-ultimate-tech-guide/"><u>IPhone 15 Evaluation: Convincing Pros and Enthusiasts Alike - The Ultimate Tech Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/passos-faceis-para-disparar-a-tela-em-descord-e-smartphone-um-guia-completo/"><u>Passos Fáceis Para Disparar a Tela Em Descórd E Smartphone: Um Guia Completo</u></a></li>
+<li><a href="https://win11.techidaily.com/qbittorrent-relocation-from-one-pc-to-another-seamless-move/"><u>QBittorrent Relocation: From One PC, To Another Seamless Move</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-default-windows-options-after-restart/"><u>Regain Default Windows Options After Restart</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-functionality-to-windows-desktop-icons-and-menus/"><u>Restoring Functionality to Windows Desktop Icons and Menus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-up-to-32-off-xbox-one-fire-tv-stick-4k-and-control-pack-with-xbox-game-pass-promo-zdnet-exclusive-deals/"><u>Secure Up To 32% Off Xbox One Fire TV Stick 4K & Control Pack with Xbox Game Pass Promo - ZDNet Exclusive Deals</u></a></li>
+<li><a href="https://windows11.techidaily.com/shut-down-internal-keyboard-for-pcs-running-windows/"><u>Shut Down Internal Keyboard for PCs Running Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-correct-chrome-edge-firefox-pasting-problems/"><u>Steps to Correct Chrome, Edge, Firefox Pasting Problems</u></a></li>
+</ul></div>
 

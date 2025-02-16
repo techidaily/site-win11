@@ -1,7 +1,7 @@
 ---
 title: Make Office Automatically Open Attached Files as Text Only
-date: 2025-02-02T10:01:58.038Z
-updated: 2025-02-03T16:44:36.770Z
+date: 2025-02-15T03:04:49.891Z
+updated: 2025-02-16T04:15:44.848Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Change Microsoft Word Startup Settings to Always Open Email Attachments in Reading View
 
  You can modify Word's startup settings to specify how your documents are handled. From there, you can set Word to open all email attachments in reading mode by default. Here's how:
@@ -41,13 +37,13 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 ![Word Startup Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Word-Startup-Options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, Word will open email attachments in reading view by default.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Change the Local Group Policy to Open Email Attachments in Reading View in Microsoft Word
@@ -61,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 5. Select the**Enabled** option.
 6. Hit**Apply** followed by**OK** .  
 ![Configure Word to Open Email Attachments in Reading View Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Group-Policy-Editor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Tweak the Windows Registry to Open Email Attachments in Reading View in Microsoft Word
 
@@ -80,13 +80,13 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 ![Configure Word to Open Email Attachments in Reading View Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Registry-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your PC for the changes to take effect. Following that, Word will open all your email attachments in reading view.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening Email Attachments in Microsoft Word's Reading View
@@ -108,21 +108,20 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-navigating-the-world-of-unfollowed-instagrams/"><u>[New] 2024 Approved Navigating the World of Unfollowed Instagrams</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-how-to-make-your-solitary-voice-resonate/"><u>[New] In 2024, How To Make Your Solitary Voice Resonate</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-unlocking-youtube-potential-expert-tips-for-wirecast-streaming/"><u>2024 Approved Unlocking YouTube Potential Expert Tips for WireCast Streaming</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-one-change-transformed-my-workstation-setup-techadvisor/"><u>A Week with an Ergonomic Split Keyboard: How One Change Transformed My Workstation Setup | TechAdvisor</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/amazons-social-stardom-liking-and-viewing-leaderships-for-2024/"><u>Amazon's Social Stardom Liking and Viewing Leaderships for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/ending-recurring-edge-icon-placement/"><u>Ending Recurring Edge Icon Placement</u></a></li>
-<li><a href="https://win11.techidaily.com/host-free-windows-based-gpt-clones-using-gpt4all/"><u>Host Free Windows-Based GPT Clones Using GPT4All</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-apples-on-device-ai-system-realm-outshines-microsofts-gpt-4-unveiling-the-details-with-zdnet/"><u>How Apple's On-Device AI System, ReaLM, Outshines Microsoft's GPT-4: Unveiling the Details with ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-poco-c50-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Poco C50 Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-eliminate-microsoft-store-error-code-0-in-windows-11/"><u>How to Eliminate Microsoft Store Error Code 0 in Windows 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-htc-u23-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve HTC U23 Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-gpresult-for-dynamic-group-policy-reports/"><u>Leveraging GPResult for Dynamic Group Policy Reports</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-fixes-eradicating-freezing-issues-with-steam-on-win-11/"><u>Mastering Fixes: Eradicating Freezing Issues with Steam on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-error-403-in-roblox/"><u>Navigating Windows Error 403 in Roblox</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-gopro-quik-for-computer-top-picks-and-alternatives-for-2024/"><u>New GoPro Quik for Computer Top Picks and Alternatives for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/sprint-past-slow-spots-enhance-win-outlook/"><u>Sprint Past Slow Spots: Enhance WIN Outlook</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-clear-cinematic-vision-top-camera-stabilizers-reviewed-for-2024/"><u>[Updated] Clear Cinematic Vision - Top Camera Stabilizers Reviewed for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-guide-non-commercial-android-recorder-choice-for-2024/"><u>[Updated] Essential Guide Non-Commercial Android Recorder Choice for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-video-posting-dilemmnas-which-way-for-2024/"><u>[Updated] Facebook Video Posting Dilemmnas Which Way for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-discover-the-power-of-youtube-editing-a-compre-written-in-code-the-intricacies-of-javascript-functions/"><u>[Updated] In 2024, Discover the Power of YouTube Editing A Compre Written in Code The Intricacies of JavaScript Functions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-unleashing-inspiration-ideas-for-engaging-channels/"><u>[Updated] In 2024, Unleashing Inspiration Ideas for Engaging Channels</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-5-cutting-edge-capture-apps-for-macos-users-for-2024/"><u>[Updated] Top 5 Cutting-Edge Capture Apps for macOS Users for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-lava-blaze-curve-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Lava Blaze Curve 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/debugging-made-easy-the-best-fixers-for-windows/"><u>Debugging Made Easy: The Best Fixers for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-productivity-a-comprehensive-guide-to-making-multiple-directories-concurrently/"><u>Elevate Your Productivity: A Comprehensive Guide to Making Multiple Directories Concurrently</u></a></li>
+<li><a href="https://win11.techidaily.com/games-galore-directory-discovery-on-your-pc/"><u>Games Galore: Directory Discovery on Your PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-nokia-c32-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-your-windows-11-experience-through-customization/"><u>Maximize Your Windows 11 Experience Through Customization</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-activate-the-latest-widget-selection-tool/"><u>Steps to Activate the Latest Widget Selection Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-resource-usage-on-windows-11-for-better-performance/"><u>Streamline Resource Usage on Windows 11 for Better Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-epic-game-accounts-reconnect/"><u>Streamlining Windows Epic Game Accounts Reconnect</u></a></li>
 </ul></div>
 

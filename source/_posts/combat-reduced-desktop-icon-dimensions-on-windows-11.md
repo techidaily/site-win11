@@ -1,7 +1,7 @@
 ---
 title: Combat Reduced Desktop Icon Dimensions on Windows 11
-date: 2024-07-29T15:51:33.318Z
-updated: 2024-07-30T15:51:33.318Z
+date: 2025-02-15T04:15:46.510Z
+updated: 2025-02-16T03:10:48.924Z
 tags:
   - windows10
   - windows11
@@ -19,18 +19,24 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
  Do you remember that desktop shortcut icon being a little bit bigger than it is now? You're not going crazy. There's a rare bug in Windows 11 that may affect the size of your desktop icons. Here's how to fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Are My Icons Shrinking on Windows 11?
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot_of_small_icon_size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_small_icon_size.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you've noticed your icons seem to be getting smaller, there's a good chance you're running a device with a high resolution, or non-standard DPI settings.
 
  This bug occurs mostly upon changing resolution or when DPI settings are automatically adjusted. It affects non-Windows app icons exclusively, which means you have to have a keen eye if you're[using customized icons in Windows](https://www.makeuseof.com/tag/customize-icon-windows/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Restore Icon Size by Deleting Icon Cache
 
@@ -40,10 +46,11 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 
  The file titled **IconCache.db** is the first file we'll need to delete.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![screenshot of the icon cache files in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_icon_cache_windows_11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, click into the **Microsoft** folder, then **Windows,** and finally **Explorer**. There will be a large number of files with the extension **.db**. Delete all of these files.
 
@@ -51,28 +58,21 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 
  Now restart your computer. Your icon cache will rebuild itself and your icons should be fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Stop Icons From Shrinking
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of the windows 11 display settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_display_settings_windows_11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Unfortunately, it's not currently possible to permanently fix this error. Microsoft may notice this error and fix it in the future, but for now, the best way to keep your icons from shrinking is to avoid switching resolutions too much.
 
 [You can also make sure that your DPI settings are set to the recommended scale](https://www.makeuseof.com/change-display-dpi-windows-11/) and keep an eye out for anything that might be automatically changing it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## One Very Strange Shrinking Bug on Windows 11
 
  It's certainly not the only bug of Windows, but it's one of the stranger ones. While it's a shame there isn't a permanent fix for this frustrating bug, at least it's easy to correct whenever it does happen.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -80,3 +80,20 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-video-size-adjustments-imovies-mysterious-trimming/"><u>[New] In 2024, Video Size Adjustments IMovie's Mysterious Trimming</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-childs-delight-greatest-drone-selections/"><u>[Updated] 2024 Approved Child's Delight Greatest Drone Selections</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-focussnap-recorder-for-screen-masters/"><u>[Updated] In 2024, FocusSnap Recorder for Screen Masters</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ideal-screencasting-apps-that-transform-classroom-dynamics/"><u>2024 Approved Ideal Screencasting Apps That Transform Classroom Dynamics</u></a></li>
+<li><a href="https://facebook.techidaily.com/control-who-sees-your-stuff-on-fb-creating-a-restricted-list/"><u>Control Who Sees Your Stuff on FB: Creating a Restricted List</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-windows-experience-installs-msibundle-and-appxappxpack-files-from-store/"><u>Enhance Your Windows Experience: Installs MsiBundle & Appx/Appxpack Files From Store</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-techniques-to-tackle-outlook-error-0x80040610-in-windows/"><u>Expert Techniques to Tackle Outlook Error 0X80040610 in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-significance-of-copilot-key-with-windows-11/"><u>Exploring the Significance of Copilot Key with Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-personalized-and-no-cost-ending-music-samples-available/"><u>In 2024, Personalized & No-Cost Ending Music Samples Available</u></a></li>
+<li><a href="https://win11.techidaily.com/is-facebook-messenger-not-working-on-your-windows-pc-try-these-10-fixes/"><u>Is Facebook Messenger Not Working on Your Windows PC? Try These 10 Fixes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/private-executives-online-workshop-unlocking-exclusive-strategies-in-the-insurance-sector/"><u>Private Executives' Online Workshop: Unlocking Exclusive Strategies in the Insurance Sector</u></a></li>
+</ul></div>
+

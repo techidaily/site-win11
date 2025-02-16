@@ -1,7 +1,7 @@
 ---
 title: Capture Notes Effortlessly on Windows 11
-date: 2024-07-29T15:50:44.569Z
-updated: 2024-07-30T15:50:44.569Z
+date: 2025-02-10T23:22:37.956Z
+updated: 2025-02-15T16:32:48.484Z
 tags:
   - windows10
   - windows11
@@ -20,15 +20,13 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
  If like most people, your memory is not perfect, you can use these tools to remind yourself of important things while working. Here are five easy ways to take notes on Windows 11 without downloading any software.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## 1\. Use Notepad
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows 11 Notepad in dark mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-notepad-in-dark-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Notepad is a long-term favorite for offline note-taking on your PC. Its simplicity is liked by many, although since the release of Windows 11, Notepad has added some extra features to aid your writing experience. Notepad now offers dark mode support and options to change the font style and size.
 
@@ -36,11 +34,12 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
  If you use the app often, you can create a desktop shortcut for faster access. Navigate to the Start menu, hit **All Apps**, and find Notepad down the alphabetical list. Then drag the app to a space on the desktop to create a shortcut. You can also access Notepad faster by [pinning an app to the Windows 11 Taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Take Notes on WordPad
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![WordPad blank document demonstrating formatting features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wordpad-blank-document-demonstrating-formatting-features.jpg)
 
  WordPad is another pre-installed app offering a great method to take notes without downloading software. The app’s simple design resembles Notepad but offers more advanced features—notably its rich text editor—to upgrade your note-taking.
@@ -49,12 +48,17 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
  To access the app, go to the Start menu and search for “WordPad.” Files can be saved as a plain text file (as used in Notepad) or as a rich text document (.rtf) if you’d like to import your notes into other software.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Try Windows Sticky Notes
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![Windows 11 Colored Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-colored-sticky-notes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While there are many great [sticky note apps for Windows](https://www.makeuseof.com/tag/post-screen-x-sticky-note-apps-windows/), one of the best is offered directly by the operating system. Windows Sticky Notes is a note-taking app to jot down quick thoughts and ideas.
 
@@ -62,14 +66,15 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
 ## 4\. Take Notes Online With Memo Notepad
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Memo Notepad note-taking page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memo-notepad-note-taking-page.jpg)
 
  Another way you can take notes without downloading software is by using an online note-taking site. [Memo Notepad](https://www.memonotepad.com/) is a simple, no-nonsense note-taking app with minimal but powerful features to aid your writing.
 
  The text interface features key formatting tools, including bold, underlining, and italics. In the "style" tab, you can change the font style and increase the overall text size. The app’s cloud-based technology offers syncing to multiple devices, so you write notes wherever you are.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Use Windows Clipboard to Save Snippets of Text
 
@@ -81,16 +86,11 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
  You can access the clipboard at any point by using the shortcut **Ctrl + V**. For the most important pieces of information, you can pin notes by hitting the small pin icon. Now, you no longer have to remember bits of information while browsing online.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Take Notes Easily on Windows 11
 
  Whether you want to remind yourself of small things or take long-from notes, Windows offers many tools to get you started with note-taking. Using these tools, you avoid the effort of downloading and setting up software to write things down. Take notes easily using these simple tips.
 
  If like most people, your memory is not perfect, you can use these tools to remind yourself of important things while working. Here are five easy ways to take notes on Windows 11 without downloading any software.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -98,3 +98,19 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-artist-writes-an-ipad-guide-to-time-lapse-photography/"><u>[New] In 2024, The Artist' Writes An iPad Guide to Time-Lapse Photography</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-video-sources-and-uploading-on-instagram/"><u>[New] Navigating Video Sources and Uploading on Instagram</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-tech-savvy-tips-to-ensure-perfect-call-recording-on-facetime/"><u>[New] Tech-Savvy Tips to Ensure Perfect Call Recording on FaceTime</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-elite-lockpicking-games-for-thrill-seekers/"><u>[Updated] Elite Lockpicking Games for Thrill Seekers</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-drives-division-4-tactics-for-removal-in-windows/"><u>Conquering Drives' Division: 4 Tactics for Removal in Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-record-screen-and-video-on-android-for-2024/"><u>How to Record Screen and Video on Android for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-soundscapes-for-editing-films-and-vids/"><u>In 2024, Ideal Soundscapes for Editing Films & Vids</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-procedures-for-surface-hardware-firmware-updates/"><u>Optimal Procedures for Surface Hardware Firmware Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-win-11s-extra-view-command-in-menu/"><u>Streamlining Win 11'S Extra View Command in Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-resolving-windows-update-errors-specifically-0x80070003/"><u>Understanding & Resolving Windows Update Errors: Specifically, 0X80070003</u></a></li>
+<li><a href="https://win11.techidaily.com/why-you-cant-see-a-drive-letter-on-your-pc-insights-and-remedies-for-win-users/"><u>Why You Can't See a Drive Letter On Your PC? Insights & Remedies for Win Users</u></a></li>
+</ul></div>
+

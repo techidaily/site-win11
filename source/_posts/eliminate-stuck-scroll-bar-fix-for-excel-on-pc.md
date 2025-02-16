@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Stuck Scroll Bar: Fix for Excel on PC"
-date: 2025-01-30T23:22:44.787Z
-updated: 2025-02-03T21:49:09.685Z
+date: 2025-02-14T01:50:09.341Z
+updated: 2025-02-15T17:11:18.432Z
 tags:
   - windows10
   - windows11
@@ -25,31 +25,23 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn Off Scroll Lock
 
  A common reason why you may be unable to scroll in Microsoft Excel is if you have inadvertently enabled the Scroll Lock feature. To turn it off, right-click on the status bar at the bottom and click the **Scroll Lock** option to uncheck it.
 
 ![Turn Off Scroll Lock in Excel-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-off-scroll-lock-in-excel-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also disable Scroll Lock on Windows using your keyboard. The **Scroll Lock** (or **ScrLk**) key is typically located in the upper right corner of the keyboard. Pressing this key will deactivate Scroll Lock and allow you to scroll through your Excel spreadsheet again.
 
 ![Windows Print Screen Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-print-screen-key.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you can’t find the Scroll Lock key on your physical keyboard, [use the on-screen keyboard on Windows](https://www.makeuseof.com/windows-10-on-screen-keyboard-type-smarter/) to disable Scroll Lock. For that, press **Win + S** to access the search menu, type **osk** in the search box, and hit **Enter**. Then, click the **ScrLk** key to disable Scroll Lock.
 
 ![Screenshot of On Screen Keyboard with Scroll Lock key highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/scrlk.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Unfreeze Panes
 
@@ -63,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 
  Following this, your Excel spreadsheet should scroll as expected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Disable the Zoom on Roll With IntelliMouse Option
 
  Is your Microsoft Excel spreadsheet zooming in or out when you try to scroll through it? That could happen if you have enabled the "Zoom on roll with IntelliMouse" option in Excel. Here’s how to turn it off.
@@ -78,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 5. Clear the **Zoom on roll with IntelliMouse** checkbox.
 6. Click **OK** to save the changes.  
 ![Disable Zoom on Roll With IntelliMouse in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-zoom-on-roll-with-intellimouse-in-excel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enable Scroll Bars
 
@@ -109,10 +101,14 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 3. Click **Update Options > Update Now**.  
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for Microsoft Office to update Excel as well as other Office apps and check if that fixes the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Run the Office Repair Tool
@@ -127,7 +123,15 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 6. Select the **Quick Repair** option and then click **Repair**.  
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Allow the repair tool to fix any issues with the Office apps. If the problem persists, Microsoft recommends that you repeat the above steps and conduct an **Online Repair** instead. This will allow the tool to perform a more comprehensive repair. It's important to note that this process requires your PC to have an active internet connection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Apply Some Generic Fixes
 
@@ -136,10 +140,6 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 * **Restart Your PC:** Scrolling issues in Microsoft Excel can occasionally arise due to temporary glitches in Windows. You can try [restarting your Windows PC](https://www.makeuseof.com/windows-restart-methods/) to see if that helps.
 * **Repair Excel Workbook:** If you are unable to scroll in Excel only while working on a specific workbook, there may be an issue with the file itself. In that case, you can try [repairing the Excel workbook](https://www.makeuseof.com/repair-courrpted-excel-workbook/) to solve the problem.
 * **Check if the Shift Key Is Stuck:** Another reason why you might not be able to scroll in Excel is if the Shift key is stuck on your Windows computer. Carefully examine the Shift key on your keyboard for any dirt or damage, and take the appropriate actions to resolve the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing Scrolling Issues in Microsoft Excel
 
@@ -161,22 +161,18 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-playlists-that-dominate-spotify/"><u>[Updated] 2024 Approved Playlists That Dominate Spotify</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-gamers-galaxy-a-thousand-stars-in-gaming/"><u>[Updated] Gamers' Galaxy A Thousand Stars in Gaming</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-investigating-the-upside-down-issue-on-instavideos/"><u>[Updated] In 2024, Investigating the Upside-Down Issue on InstaVideos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/budget-friendly-power-station-transforms-long-drives-into-comfortable-journeys-a-zdnet-review/"><u>Budget Friendly Power Station Transforms Long Drives Into Comfortable Journeys - A ZDNet Review</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-techniques-for-downloading-vevo-video-content/"><u>Effortless Techniques for Downloading Vevo Video Content</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-youtube-downloads-top-tools-for-saving-your-favorite-videos/"><u>Effortless YouTube Downloads: Top Tools for Saving Your Favorite Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/effortlessly-convert-shn-files-with-our-leading-audio-converter-now-supports-mp3-flac-and-wav-formats/"><u>Effortlessly Convert SHN Files with Our Leading Audio Converter - Now Supports MP3, FLAC & WAV Formats!</u></a></li>
-<li><a href="https://win11.techidaily.com/free-trial-of-factory-pro-mp4-video-converter-with-secure-payment-option/"><u>Free Trial of Factory Pro MP4 Video Converter with Secure Payment Option</u></a></li>
-<li><a href="https://win11.techidaily.com/free-video-editing-tips-how-to-insert-texts-without-any-watermark-issues/"><u>Free Video Editing Tips: How to Insert Texts Without Any Watermark Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-changing-audio-format-from-m4a-to-wav-in-windows-10/"><u>Guide to Changing Audio Format From M4A to WAV in Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-import-and-watch-avi-videos-on-itunes-conversion-guide/"><u>How to Import and Watch AVI Videos on iTunes – Conversion Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-safely-download-movies-from-yesmovies-a-step-by-step-guide/"><u>How to Safely Download Movies From YesMovies: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-mac-to-apple-iphone-15-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share Mac to Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210877269-9781612833156-out-of-body-experiences/"><u>Out of Body Experiences | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/premium-collection-winning-windows-dsswitch-emulators-list/"><u>Premium Collection: Winning Windows DS/Switch Emulators List</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-keeping-your-audio-equipment-pristine-focus-on-speaker-maintenance/"><u>Step-by-Step Tutorial: Keeping Your Audio Equipment Pristine – Focus on Speaker Maintenance</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-navigating-facebook-live-your-2023-playbook/"><u>[New] Navigating Facebook Live Your 2023 Playbook</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unlock-the-power-of-your-fb-lives-with-these-picks/"><u>[New] Unlock the Power of Your Fb Lives with These Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/compromised-corecipher-evaluate-dont-rush-to-replace/"><u>Compromised CoreCipher? Evaluate, Don't Rush to Replace</u></a></li>
+<li><a href="https://win11.techidaily.com/diagnosing-frozen-lock-screen-timed-out-error/"><u>Diagnosing Frozen Lock Screen Timed Out Error</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-fcp-downloading-what-you-need-for-2024/"><u>Free FCP Downloading - What You Need for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-dism-commands-to-repair-windows-11-system-images/"><u>How to Use DISM Commands to Repair Windows 11 System Images</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-navigating-advanced-color-grading-techniques-using-luts/"><u>In 2024, Navigating Advanced Color Grading Techniques Using LUTs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Will iSpoofer update On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-windows-for-crystal-clear-wallpapers/"><u>Optimizing Windows for Crystal Clear Wallpapers</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-profile-corruption-in-modern-windows-versions/"><u>Overcoming Profile Corruption in Modern Windows Versions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-and-solutions-ending-the-blackout-on-your-facetime-connections/"><u>Quick Fixes & Solutions: Ending the Blackout on Your FaceTime Connections</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-upgrade-wisdom-efficiently-shifting-your-pcs-programming/"><u>Windows Upgrade Wisdom: Efficiently Shifting Your PC's Programming</u></a></li>
 </ul></div>
 

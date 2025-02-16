@@ -1,7 +1,7 @@
 ---
 title: "Bridging Generations: The Seven Timeless Windows Features of 11"
-date: 2024-07-29T15:53:59.448Z
-updated: 2024-07-30T15:53:59.448Z
+date: 2025-02-12T18:16:41.891Z
+updated: 2025-02-15T22:44:09.332Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,12 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
 
  Here are some ancient Windows features you can still find and use in Windows 11\. Some have been hanging around, unchanged, since the late 80s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Command Prompt
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![the command prompt tool in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-prompt.jpg)
 
  The Command Prompt, or cmd.exe, was the default command-line tool in Windows. It was first introduced over 35 years ago, way back in 1987, with the Windows NT version introduced in 1993\. Although its look has much improved over the years, it is essentially the same tool that appeared in Windows XP.
@@ -34,15 +34,13 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Check out our[beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to learn more about how to use this old, but venerable tool.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. The Run Dialog
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![the Run Dialog in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-dialog.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In terms of overall layout and function, the Run dialog is the same in Windows 11 as it was over 20 years ago. The Run Dialog can be used to directly open an application or document where the path is known. It was first user-accessible as a tool in Windows 95, using the same keyboard shortcut it uses today:**Win + R** .
 
@@ -50,10 +48,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Be sure to check out the[essential Windows Run commands](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/) for tips on how to use this tool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 3\. Disk Management
 
 ![The Disk Management tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disk-management.jpg)
@@ -62,20 +56,8 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  There are several powerful[Windows partition management tools](https://www.makeuseof.com/windows-disk-management-tools-changer-hdd/) available, such as those from EaseUS, that also look great. There is no immediately apparent reason why Microsoft has not improved the look and function of this essential tool in Windows 11\. Or even in Windows 10\. Of all the features in this list, Disk Management is the one that needs an overhaul the most.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## 4\. The Control Panel
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-panel.jpg)
 
  Windows 11 saw several improvements to the main settings app. Several new options and controls were added, and some old ones were moved in from elsewhere. And yet the Control Panel remains and still contains some necessary settings. In an update like Windows 11, which was so focused on design changes, that seems a strange choice.
@@ -94,11 +76,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  If you're running out of storage on your Windows computer, check out[how to free up some space on Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. The Character Map
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The character map tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/character-map.jpg)
 
  For most of us, the Character Map is probably a little-used tool. But it does have some use, and Microsoft clearly thinks it's still used and helpful to some people.
@@ -107,9 +90,17 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  The fact that the Character Map has never been particularly easy or intuitive to use adds further confusion. If it is no longer needed, get rid of it. If it's still used, improve it. It doesn't strike us as challenging to update, but perhaps it's just at the bottom of Microsoft's to-do list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. File Explorer
 
 ![The old file explorer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/explorer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Yes, File Explorer. One of the most prominent updates in Windows 11\. In the latest OS, the ribbon was simplified, and Explorer tabs were added several months after launch. And yet strangely, the old File Explorer style still appears. We're not talking about some downloadable customization here. With the click of a button, anyone can find the old design.
 
@@ -119,14 +110,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Anyone who has used Windows for any length of time will know how often it is updated. In such a large and complex operating system, it is understandable that not every app, tool, or feature can be given the same attention. But it can be surprising to learn that some parts of Windows haven't changed for years or even decades.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -135,4 +123,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-navigating-video-recording-and-editing-basics-with-adobe-connect-for-2024/"><u>[Updated] Navigating Video Recording & Editing Basics with Adobe Connect for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-what-is-ai-influencer/"><u>2024 Approved What Is AI Influencer?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/achieve-tabletop-greatness-with-ai-assistance-how-to-utilize-chatgpt-as-your-dream-dungeon-master-partner/"><u>Achieve Tabletop Greatness with AI Assistance: How to Utilize ChatGPT as Your Dream Dungeon Master Partner</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/complete-overview-the-eero-pro-routers-performance-in-whole-home-wifi-management/"><u>Complete Overview: The Eero Pro Router's Performance in Whole Home WiFi Management</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-mcuicntexe-not-found-message-in-win-1011/"><u>Correcting McUICnt.exe Not Found Message in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-wsl-performance-key-techniques-for-win-users/"><u>Enhancing WSL Performance: Key Techniques for Win Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-drivers-for-brother-hl-l2360dw-printer-download-now/"><u>How to Obtain Drivers for Brother HL-L2360DW Printer - Download Now</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-thorough-vsco-editor-user-manual/"><u>In 2024, Thorough VSCO Editor User Manual</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-and-efficient-command-setup-with-win11s-narrator/"><u>Quick & Efficient Command Setup with Win11's Narrator</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-the-classic-windows-photo-viewer-in-windows-1111-os/"><u>Reinstating the Classic Windows Photo Viewer in Windows 11/11 OS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/stealth-and-honor-find-your-favorite-games-like-tsushi/"><u>Stealth and Honor Find Your Favorite Games Like Tsushi</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-fix-list-for-a-dysfunctional-esc-key-on-windows/"><u>The Ultimate Fix List for a Dysfunctional Esc Key on Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/standing-and-exploiting-youtubes-featured-slot-for-maximum-reach-for-2024/"><u>Understanding and Exploiting YouTube's Featured Slot for Maximum Reach for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-steams-internet-connection-on-windows/"><u>Unlocking Steam's Internet Connection on Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/video-production-evolution-prime-lenses-for-youtube-enthusiasts/"><u>Video Production Evolution Prime Lenses for YouTube Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/yule-joy-tech-treats-through-ms-store-purchases/"><u>Yule Joy: Tech Treats Through MS Store Purchases</u></a></li>
+</ul></div>
 

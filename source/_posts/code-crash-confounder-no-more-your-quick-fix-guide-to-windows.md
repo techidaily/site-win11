@@ -1,7 +1,7 @@
 ---
 title: "Code Crash Confounder No More: Your Quick Fix Guide to Windows"
-date: 2024-07-29T15:52:57.467Z
-updated: 2024-07-30T15:52:57.467Z
+date: 2025-02-12T01:19:20.682Z
+updated: 2025-02-16T04:31:45.091Z
 tags:
   - windows10
   - windows11
@@ -29,11 +29,13 @@ thumbnail: https://thmb.techidaily.com/1aaa1948c8657f1c3ade15a5850d4145b4cb86fea
 1. Press**Win + R** to open**Run** .
 2. Type**control** and click**OK** to open**Control Panel.**
 3. Next, click on**Network and Internet.**  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![control panelinternet options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/control-panelinternet-options.jpg)
 4. Click on**Internet Options.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the Internet Properties dialog, open the**Advanced** tab.
 6. Scroll down to the**Browsing** section under**Settings** .  
 ![Internet-properties-disable-script-debugging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/interenet-properties-disable-script-debugging.jpg)
@@ -45,15 +47,16 @@ thumbnail: https://thmb.techidaily.com/1aaa1948c8657f1c3ade15a5850d4145b4cb86fea
 
  However, if the issue persists, clear your browser cache to delete the old cache that may be triggering the error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Delete Browser Cache
 
  You can delete your browser cache to fix the script error. Useful if the error continues to occur after disabling script debugging. You can[clear browser cache and temporary files on Windows](https://www.makeuseof.com/windows-11-clear-caches/) using the built-in disk cleanup and storage sense feature.
 
  In case the error occurs when using an app, try to[perform an app reset on Windows.](https://www.makeuseof.com/windows-reset-app/) This is a last-ditch effort before you can think of removing and reinstalling the app.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 3\. Update the Problematic App
 
 ![microsoft edge update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mcirosoft-edge-update.jpg)
@@ -65,13 +68,11 @@ thumbnail: https://thmb.techidaily.com/1aaa1948c8657f1c3ade15a5850d4145b4cb86fea
 * For Firefox, click the**Menu** icon in the top left corner, select**Help,** and click on**About Firefox.**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable Third-Party Antivirus Software and Extensions
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mcafee-webadvisor-edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mcafee-webadvisor-edge.jpg)
 
  Remove any third-party security extension or antivirus software on your computer to see if that helps resolve the error. For example, a McAfee browser extension seems to trigger this error on the Chrome browser.
@@ -92,9 +93,11 @@ To remove the Chrome extension:
 3. Next, click on**Real-time scan** under**Protect your PC.**  
 ![mcafee my protection real time scanning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mcafee-my-protection-real-time-scanning.jpg)
 4. Click the**Turn off** button for**Real-time scanning.**  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![mcafee real time scanning off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mcafee-real-time-scanning-off.jpg)
 5. In the**Turn off** dialog, click the drop-down for**When you want to resume Real-Time Scanning?** By default, it is set to 15 minutes, which should be sufficient to determine if the antivirus is creating conflict with your browser.
 6. Click**Turn off** to disable the antivirus.
@@ -104,8 +107,9 @@ To remove the Chrome extension:
  Note that, in some instances, you may need to uninstall the third-party antivirus program to resolve the error. If the error returns after McAfee real-time scanning resumes, consider switching to an alternative[antivirus app on Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the Script Error on Windows
 
  The script error often occurs if you have script debugging enabled in Internet Options, and disabling the same resolves the error in most cases. If the issue persists, review the extensions installed on your browser, specifically the security extension from antivirus makers, and remove them to resolve the error. Disabling any third-party antivirus can help you determine if the error is triggered by your overzealous security app.
@@ -116,8 +120,6 @@ To remove the Chrome extension:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +127,20 @@ To remove the Chrome extension:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-streamline-your-slide-share-experience-with-webcam/"><u>[Updated] 2024 Approved Streamline Your Slide Share Experience with Webcam</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-reliable-strategy-to-infuse-direct-urls-in-tiktok-bio/"><u>2024 Approved Reliable Strategy to Infuse Direct URLs in TikTok Bio</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-secure-boot-a-rufus-based-approach/"><u>Disabling Secure Boot: A Rufus-Based Approach</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-error-262-on-roblox-games/"><u>Eliminating Error 262 on Roblox Games</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-pc-efficiency-memory-reset-w11/"><u>Enhance PC Efficiency: Memory Reset W11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-endless-login-prompts-on-the-teams-windows-interface/"><u>Fixing Endless Login Prompts on the Teams Windows Interface</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/high-end-audio-or-excessive-spending-on-max-earbuds/"><u>High-End Audio or Excessive Spending on Max Earbuds?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pioneering-creations-cutting-edge-tips-for-gifs/"><u>In 2024, Pioneering Creations Cutting-Edge Tips for GIFs</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unrecognized-devices-on-w11w10-pcs/"><u>Overcoming 'Unrecognized Devices' On W11/W10 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-start-installing-office-on-modern-windows-os/"><u>Quick Start: Installing Office on Modern Windows OS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolve-compatibility-issues-with-ralink-wifilan-card-drivers-in-windows-a-complete-update-guide/"><u>Resolve Compatibility Issues with Ralink WiFi/LAN Card Drivers in Windows – A Complete Update Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-limits-why-chatgpt-struggles-with-self-identifying-text-creation/"><u>Unveiling the Limits: Why ChatGPT Struggles with Self-Identifying Text Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/wintime-troubleshoot-harmonize-your-systems-hours/"><u>WinTime Troubleshoot: Harmonize Your System's Hours</u></a></li>
+</ul></div>
 

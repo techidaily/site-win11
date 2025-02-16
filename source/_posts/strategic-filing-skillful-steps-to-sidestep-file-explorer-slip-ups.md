@@ -1,7 +1,7 @@
 ---
 title: "Strategic Filing: Skillful Steps to Sidestep File Explorer Slip-Ups"
-date: 2025-02-01T23:53:33.503Z
-updated: 2025-02-03T16:42:40.521Z
+date: 2025-02-14T03:05:13.764Z
+updated: 2025-02-15T22:29:17.030Z
 tags:
   - windows10
   - windows11
@@ -25,16 +25,12 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disregarding the Power of Tabs in File Explorer
 
 ![Windows 11 File Explorer with so many tabs open and scroll arrow buttons showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-explorer-title-bar-scroll-buttons.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're running Windows 11, version 22H2 with Moment 3 update, you can open multiple tabs in File Explorer, just like in a web browser. When you don't use the feature, you have multiple folders that are opened in multiple windows, making switching between folders inconvenient.
@@ -42,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
  There are more benefits to using tabs. Right-clicking on tabs will display options to **Close other tabs**, which closes all tabs except the one you're currently seeing.
 
  Tabs can save you time, as you don't have to click multiple times to close multiple windows. You can learn [how to use tabs in File Explorer](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) to become more productive on Windows 11\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Neglecting Keyboard Shortcuts
 
@@ -58,12 +58,16 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 * Press **Alt** \+ **Enter** to open the properties of the selected file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Avoiding Recent and Favorites Sections
 
 ![Screenshot showing File Explorer Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-home.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  File Explorer shows you recent files or folders you've opened, making them easier for you to quickly jump on later if needed. You shouldn't make the mistake of going to the folder location again to find something if you opened it recently. Instead, check the **Recent** section of File Explorer and get quick access to all the files you've opened recently.
 
@@ -87,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
 ![man using keyboard and mouse on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keyboard-and-mouse-on-desk.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
  If you aren't aware of checkboxes in File Explorer, you'll commit the mistake of selecting multiple files using both the keyboard and mouse.
@@ -94,10 +102,6 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
  Checkboxes appear right before the file name, and you can check those boxes to select files and perform several actions, including moving, deleting, copying, renaming, and more.
 
  You can check out how to [enable checkboxes in File Explorer](https://www.makeuseof.com/how-to-enable-checkboxes-select-files-windows-11/) to select multiple items more easily. This is the easiest way to select multiple files using your mouse or trackpad.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Not Knowing How To Name a File or Folder in File Explorer
 
@@ -108,10 +112,6 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
  There are also some restrictions to what you can use in a file or folder name. You must know all that to avoid getting surprises whenever you name them.
 
  To help you, we have some [pro tips for naming and organizing files in Windows](https://www.makeuseof.com/pro-tips-naming-organizingfiles-windows/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Not Taking Advantage of Customization Options in File Explorer
 
@@ -139,18 +139,19 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-perfect-your-instagram-vids-with-ease/"><u>[New] 2024 Approved Perfect Your Instagram Vids with Ease</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-best-matches-ultimate-websites-for-acquiring-snapchat-ringtones/"><u>[New] Best Matches Ultimate Websites for Acquiring Snapchat Ringtones</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-13-easy-to-master-revenue-strategies-on-reddit/"><u>[New] In 2024, Top 13 Easy-to-Master Revenue Strategies on Reddit</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instas-music-guide-essentials-for-2024/"><u>[Updated] Insta's Music Guide Essentials for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-samsung-galaxy-a14-4g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Samsung Galaxy A14 4G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-all-chromium-notifications-in-windows-pc/"><u>Disabling All Chromium Notifications in Windows PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-oppo-a79-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Oppo A79 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-the-art-of-film-crafting-with-kinemaster-tools/"><u>In 2024, The Art of Film Crafting with Kinemaster Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-non-opening-issues-with-photoscape/"><u>Navigating Through Non-Opening Issues with Photoscape</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-into-the-future-with-easy-online-controller-enhancement/"><u>Step Into the Future with Easy Online Controller Enhancement</u></a></li>
-<li><a href="https://win11.techidaily.com/unblocking-playstation-network-error-fix-for-windows-users/"><u>Unblocking PlayStation Network Error: Fix for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/unsigned-driver-installation-without-enforced-signatures/"><u>Unsigned Driver Installation Without Enforced Signatures</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-urban-ecosystem-fostering-resilience-through-green-policies/"><u>[New] The Urban Ecosystem Fostering Resilience Through Green Policies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unraveling-the-top-9-free-video-logo-creation-software-list/"><u>[New] Unraveling The Top 9 Free Video Logo Creation Software List</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-hide-identity-blurred-face-artistry/"><u>2024 Approved Hide Identity Blurred Face Artistry</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-task-management-on-your-pc/"><u>Fine-Tuning Task Management on Your PC</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oppo-f23-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo F23 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/how-cookiebot-enhances-your-digital-marketing-efforts-through-smart-bidding-and-automation/"><u>How Cookiebot Enhances Your Digital Marketing Efforts Through Smart Bidding and Automation</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-diagnose-and-resolve-runtimeexception-in-windows-applications/"><u>How to Diagnose and Resolve 'RuntimeException' In Windows Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-connection-problems-in-win10win11-nvidia-use/"><u>Overcoming Connection Problems in Win10/Win11 Nvidia Use</u></a></li>
+<li><a href="https://win11.techidaily.com/preserve-cortanas-digital-footprint-on-pc/"><u>Preserve Cortana's Digital Footprint on PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/the-impact-of-eradicating-the-chatting-feature-in-windows-11s-taskbar/"><u>The Impact of Eradicating the Chatting Feature in Windows 11'S Taskbar</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-samsung-galaxy-z-fold-5-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Samsung Galaxy Z Fold 5 without backup.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-wi-fi-protocols-a-comprehensive-guide-to-ieee-80211-standards-be-ax-ac-bgn-and-a/"><u>Understanding Wi-Fi Protocols: A Comprehensive Guide to IEEE 802.11 Standards (Be, Ax, Ac, B/G/N, and A)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-details-below-can-help-you-make-color-correction-simply-in-final-cut-pro-for-2024/"><u>Updated The Details Below Can Help You Make Color Correction Simply in Final Cut Pro for 2024</u></a></li>
 </ul></div>
 

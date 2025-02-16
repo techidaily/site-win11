@@ -1,7 +1,7 @@
 ---
 title: Establishing Default Settings in Windows Terminal
-date: 2025-01-29T00:54:48.028Z
-updated: 2025-02-04T00:55:21.850Z
+date: 2025-02-12T22:05:36.947Z
+updated: 2025-02-15T20:33:59.989Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Change the Default Terminal App via Windows Terminal's Settings
@@ -41,9 +41,17 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 6. Click the **Save** button at the bottom.  
 ![Set Windows Terminal as the Default App via Terminal Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-via-terminal-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to undo the above changes later, simply repeat the above steps and select **Windows console host** or **Let Windows decide** in the **Default terminal application** drop-down menu.
 
  Alternatively, you can also reset the Terminal app on your PC. If you are interested in doing that, check our guide on [how to reset the Windows Terminal settings to their defaults in Windows](https://www.makeuseof.com/windows-11-reset-terminal-settings/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Change the Default Terminal App Using Windows Console Host Properties
 
@@ -58,11 +66,7 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 ![Set Windows Terminal as the Default App via Console Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-via-console-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Change the Default Terminal App From Windows Settings
@@ -75,14 +79,10 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 4. Use the drop-down menu next to **Terminal** to select your chosen terminal app, or choose **Let Windows decide** to undo any changes you've made previously.  
 ![Set Windows Terminal as the Default App From Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-from-windows-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you complete the above steps, both Command Prompt and PowerShell will launch in the chosen app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Changing the Default Terminal App Is Easy
@@ -103,14 +103,24 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-top-10-drawing-apps-for-android-unleash-your-inner-artist-for-2024/"><u>[Updated] Top 10 Drawing Apps for Android Unleash Your Inner Artist for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensible-strategies-for-addressing-dll-shortage/"><u>Comprehensible Strategies for Addressing DLL Shortage</u></a></li>
-<li><a href="https://solve-news.techidaily.com/cookiebot-enabled-enhance-your-sites-engagement-with-leading-analytics/"><u>Cookiebot-Enabled: Enhance Your Site's Engagement with Leading Analytics</u></a></li>
-<li><a href="https://win11.techidaily.com/effortlessly-manage-image-display-on-your-pcs-lock-screen/"><u>Effortlessly Manage Image Display on Your PC's Lock Screen</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-s18-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo S18 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-common-xbox-game-pass-problems-error-0x00000001-included/"><u>Navigating Through Common Xbox Game Pass Problems, Error 0X00000001 Included</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-transferring-and-setting-up-windows-10-on-your-brand-new-hardware/"><u>Step-by-Step Guide: Transferring and Setting Up Windows 10 on Your Brand New Hardware</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-google-chromes-colors-in-windows/"><u>Unlocking Google Chrome's Colors in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/visual-clarity-and-efficiency-in-notetaking-via-obsidian-framework/"><u>Visual Clarity and Efficiency in Notetaking via Obsidian Framework</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-sharing-vimeo-content-instagram-tips/"><u>[New] In 2024, Sharing Vimeo Content Instagram Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-removing-wsl-on-windows/"><u>Comprehensive Guide: Removing WSL on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-future-at-ifa-with-these-top-laptops/"><u>Discover the Future at IFA with These Top Laptops</u></a></li>
+<li><a href="https://win11.techidaily.com/execute-os-commands-as-admin-essentials/"><u>Execute OS Commands as Admin Essentials</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-parsing-returned-error-0xc00ce556-in-windows-11-and-windows-10/"><u>How to Fix the Parsing Returned Error 0xC00CE556 in Windows 11 and Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-keep-your-pcs-w11-drivers-current/"><u>How To Keep Your PC's W11 Drivers Current</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-mend-error-code-0xc00d36b4-in-windows/"><u>How to Mend Error Code 0xC00D36B4 in Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-google-pixel-8-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Google Pixel 8 Lock Screen Password?</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-zoom-failures-code-1132-remediation/"><u>Navigating Windows Zoom Failures: Code 1132 Remediation</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-best-of-the-best-10-animated-text-tools-to-elevate-your-brand/"><u>New 2024 Approved The Best of the Best 10 Animated Text Tools to Elevate Your Brand</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-video-limitation-in-hogwarts-the-virtual-school-of-witchcraft-and-wizardry/"><u>Overcoming Video Limitation in Hogwarts: The Virtual School of Witchcraft and Wizardry</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/simple-steps-to-connect-internal-ssd-via-usb-c-interface-on-your-apple-or-windows-device-digitalsolvers/"><u>Simple Steps to Connect Internal SSD via USB-C Interface on Your Apple or Windows Device | DigitalSolvers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-correcting-bios-checksum-mismatches/"><u>Step-by-Step Solution: Correcting BIOS Checksum Mismatches</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-tutorial-on-retrieving-accidentally-deleted-rmvb-videos/"><u>Step-by-Step Tutorial on Retrieving Accidentally Deleted RMVB Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-realme-c55-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Realme C55 FRP Bypass</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/viral-video-to-visuals-converting-tweets-to-costless-cgi-for-2024/"><u>Viral Video to Visuals Converting Tweets to Costless CGI for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-permissions-guide-returning-to-basics/"><u>Win11 Permissions Guide: Returning to Basics</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-photo-tools-mastering-key-combinations/"><u>Windows Photo Tools: Mastering Key Combinations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Disable Tracking of Application Commands in Windows
-date: 2025-01-29T17:00:14.502Z
-updated: 2025-02-03T23:30:48.051Z
+date: 2025-02-14T00:46:42.862Z
+updated: 2025-02-15T19:29:26.886Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Disable App Launch Tracking Through Windows Settings
 
  To disable app launch tracking, open the Start menu and type **Settings** in the search bar. Select the **Settings** option in the search results. In the left-side menu, click the **Privacy & security** tab. Then click **General** under the Windows permissions section.
@@ -34,12 +38,16 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 ![Disable App Launch Tracking through Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-app-launch-tracking-through-windows-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After making the changes, Windows will stop tracking and recording your app launches.
 
  If you ever need to re-enable the feature, repeat the same steps and toggle the switch back on. This will enable Windows to start tracking and recording your app launches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Disable App Launch Tracking Using the Group Policy Editor
 
@@ -55,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 ![Disable App Launch Tracking using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-app-launch-tracking-using-group-policy-editor.jpg)
 5. On the next page, check the **Enabled** box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click **Apply** \> **OK** to save your changes.
 
  This way, you can disable app launch tracking using the group policy editor.
@@ -66,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
  To enable the feature again, follow the same steps and navigate to _User Configuration > Administrative Templates > Windows Components > Edge UI_. Then double-click on **Turn off tracking of app usage** and check the **Not Configured** or **Disabled** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Disable App Launch Tracking Through the Registry Editor
@@ -87,16 +91,12 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 ![Disable App Launch Tracking through the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-app-launch-tracking-through-the-registry-editor.jpg)
 9. Double-click on the **Start\_TrackProgs** DWORD and set its value to **0**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you're done, close the Registry Editor and restart your computer. Now, Windows won't track or record app launches.
 
  If you ever want to turn back on app launch tracking, double-click on the **Start\_TrackProgs** DWORD in Registry Editor and set its value to **1**. After that, restart your system for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Windows Won’t Track or Monitor the Apps You Use
@@ -115,24 +115,19 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-4k-camera-guide-low-cost-options-(1000/"><u>2024 Approved 4K Camera Guide Low-Cost Options <$1,000</u></a></li>
-<li><a href="https://common-error.techidaily.com/escaping-the-reboot-trap-in-windows-11-or-10-effective-fixes-to-try-today/"><u>Escaping the Reboot Trap in Windows 11 or 10 - Effective Fixes to Try Today!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/essential-tools-and-applications-for-restoring-deleted-or-corrupted-files-on-your-synology-storage-system/"><u>Essential Tools and Applications for Restoring Deleted or Corrupted Files on Your Synology Storage System</u></a></li>
-<li><a href="https://win11.techidaily.com/examining-energy-demand-in-your-windows-based-computer/"><u>Examining Energy Demand in Your Windows-Based Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-overcome-windows-printer-driver-recognition-issues-successfully/"><u>Guide to Overcome Windows Printer Driver Recognition Issues Successfully</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-merge-emulated-games-into-playnite-windows-edition/"><u>How to Merge Emulated Games Into Playnite Windows Edition</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Realme Narzo 60 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-12-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi 12 5G</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-midland-gxt1000vp4-radio-transceiver-exceptional-clarity-in-communications/"><u>In-Depth Analysis of the Midland GXT1000VP4 Radio Transceiver - Exceptional Clarity in Communications</u></a></li>
-<li><a href="https://win11.techidaily.com/infuse-educational-flair-into-your-win-11-display/"><u>Infuse Educational Flair Into Your Win 11 Display</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-live-feed-rates-on-task-monitor-win-11/"><u>Optimize Live Feed Rates on Task Monitor Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-the-mysterious-c0000005-issue-on-pcs/"><u>Quick Fixes for the Mysterious C0000005 Issue on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaim-your-hidden-windows-tips-for-10-and-11-pcs/"><u>Reclaim Your Hidden Windows: Tips for 10 & 11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/rehabilitate-your-windows-service-management-tool-with-these-7-tactics/"><u>Rehabilitate Your Windows Service Management Tool With These 7 Tactics</u></a></li>
-<li><a href="https://win-popular.techidaily.com/section-3b-five-fact/"><u>Section 3B: Five Fact</u></a></li>
-<li><a href="https://win11.techidaily.com/tackle-teammers-screens-not-showing/"><u>Tackle Teammers' Screens Not Showing</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-the-worst-js-error-on-discord-specifically-for-windows-users/"><u>Tackling the Worst JS Error on Discord, Specifically for Windows Users</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-powerhouse-trio-of-social-networks-understanding-facebook-twitter-instagram-and-youtube-dynamics/"><u>The Powerhouse Trio of Social Networks: Understanding Facebook, Twitter, Instagram, and YouTube Dynamics</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-30-affordable-and-robust-cloud-services-with-up-to-1tb-space/"><u>[New] 2024 Approved Top 30 Affordable & Robust Cloud Services with Up to 1TB Space</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-turning-onoff-comments-with-ease-on-youtube-platform/"><u>[New] 2024 Approved Turning On/Off Comments with Ease on YouTube Platform</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-exploring-tech-worlds-dissecting-ar-mr-and-vr/"><u>[New] Exploring Tech Worlds Dissecting AR, MR, & VR</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-down-on-decorative-images-in-win-search/"><u>Cutting Down on Decorative Images in Win Search</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-dilemnas-windows-fingerprint-hacking-concerns-rising/"><u>Digital Dilemnas: Windows Fingerprint Hacking Concerns Rising</u></a></li>
+<li><a href="https://win11.techidaily.com/future-proof-windows-notebooks-the-ultimate-guide-to-2024/"><u>Future-Proof Windows Notebooks: The Ultimate Guide to 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-m-audio-fast-track-driver-for-windows-11-7-8-and-81-today/"><u>Get Your M-Audio Fast Track Driver for Windows 11, 7, 8 and 8.1 Today!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-combine-mpeg-videos-for-free-top-rated-tools-for-2024/"><u>New Combine MPEG Videos for Free Top Rated Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-fixing-dxgierror-zerodx887a0006-in-win11/"><u>Quick Guide to Fixing DXGIError ZeroDX887A0006 in Win11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722123230450-revolutionize-how-you-find-answers-bings-cutting-edge-ai-integration-ready-for-smartphones/"><u>Revolutionize How You Find Answers: Bing's Cutting-Edge AI Integration Ready for Smartphones</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-epic-launcher-sign-in-woes-on-pc/"><u>Tackling the Epic Launcher Sign-In Woes on PC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/top-6-instagram-money-calculator-safe-and-effective/"><u>Top 6 Instagram Money Calculator - Safe & Effective</u></a></li>
+<li><a href="https://win-info.techidaily.com/top-troubleshooting-tips-for-resolving-windows-graphic-card-problems-expert-insights-by-yl-computing/"><u>Top Troubleshooting Tips for Resolving Windows Graphic Card Problems - Expert Insights by YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-safe-harbor-understanding-s-mode/"><u>Windows 11'S Safe Harbor: Understanding S Mode</u></a></li>
 </ul></div>
 

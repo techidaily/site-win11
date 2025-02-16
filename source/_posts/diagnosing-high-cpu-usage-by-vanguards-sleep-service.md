@@ -1,7 +1,7 @@
 ---
 title: Diagnosing High CPU Usage by Vanguard's Sleep Service
-date: 2025-02-01T07:55:11.123Z
-updated: 2025-02-03T21:06:04.501Z
+date: 2025-02-14T04:03:28.852Z
+updated: 2025-02-15T19:53:02.301Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Apply Some Preliminary Checks
 
  Start de-stressing your CPU by taking the following basic steps, as they may reduce resource usage immediately:
@@ -50,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
  Once these processes are disabled, give Valorant a fresh start, which will automatically restart Vanguard. If restarting the processes doesn't make a difference and the process continues to overstretch the CPU, move on to the next step.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Make the Vanguard User-Mode Service Process a Low Priority
 
  Windows allows users to limit the CPU resource usage of processes in two different ways. The first is to change the priority of the process, and the second is to turn on the efficiency mode. Using either of these methods limits the allocation of CPU resources to less essential processes, limiting their CPU usage.
@@ -62,13 +54,13 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
 ![Change the Priority of the Vanguard User Mode Service Process in the Set Priority Menu in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-set-the-vanguard-user-mode-service-process-a-low-priority-in-the-set-priority-menu-in-windows-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you choose the latter option to control CPU resource consumption, right-click on the same process and choose **Efficiency mode**.
 
 ![Enable the Efficiency Mode of Vgc in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-go-to-efficiency-mode-of-vgc-in-windows-task-manage.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Change the Processor Affinity
 
@@ -81,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
  Here, uncheck the boxes besides most of the **CPUs** and keep only a few of them checked.
 
 ![Disable Unnecessary CPUs From Processor Affinity Settings in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/6-disable-unnecessary-cpus-from-processor-affinity-settings-in-windows-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Stop the Vanguard Service and Restart It
 
@@ -98,7 +94,11 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 ![Choose Automatic From the Dropdown Menu Next to Startup Type in General Tab of Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/9-choose-automatic-from-the-dropdown-menu-next-to-startup-type-in-general-tab-of-properties-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Disable Third-Party Overlays
@@ -112,11 +112,7 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 ![Check the Assigned Hotkey Under Toggle Overlay Lock in the Discord's Game Overlay Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/7-check-the-assigned-hotkey-under-toggle-overlay-lock-in-the-discord-s-game-overlay-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Move Valorant to a Different Drive
@@ -124,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
  Installing Valorant on the same drive as your operating system has been reported to cause problems. If you've also installed the game on the same drive where your OS resides, it's possible that Windows security could be hindering Vanguard's activity, making it consume more resources.
 
  To ensure that's not the case, you should move Valorant to a different drive. Not sure how to do that? Refer to our guide on [how to move the installed apps and programs in Windows 10 or 11.](https://www.makeuseof.com/tag/move-installed-apps-programs-windows-10/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Install a Fresh Copy of Vanguard
 
@@ -133,11 +133,11 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
 ![installing riot vanguard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/installing-riot-vanguard-1.jpg)
 
- Valorant and other Riot Games products require Vanguard to function. If Valorant (or any other game) fails to install Vanguard on its own after uninstallation, restart your device once and then run the game again.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Valorant and other Riot Games products require Vanguard to function. If Valorant (or any other game) fails to install Vanguard on its own after uninstallation, restart your device once and then run the game again.
 
 ## Don't Let Vanguard Overstress Your CPU
 
@@ -157,21 +157,18 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-adding-time-stamps-to-pictures-step-by-step-tutorial-for-2024/"><u>[New] Adding Time Stamps to Pictures Step-by-Step Tutorial for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-bridging-video-and-gif-a-practical-path-from-vimeo-to-animation/"><u>[Updated] Bridging Video and GIF A Practical Path From Vimeo to Animation</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-insta-video-size-strategy-for-maximum-engagement/"><u>[Updated] In 2024, Insta Video Size Strategy for Maximum Engagement</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/adding-unique-watermarks-to-every-page-of-your-flipbooks-using-flipbuilder-online-tool/"><u>Adding Unique Watermarks to Every Page of Your Flipbooks Using FlipBuilder Online Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/command-line-convenience-and-efficiency-with-task-scheduler/"><u>Command Line Convenience & Efficiency with Task Scheduler</u></a></li>
-<li><a href="https://win11.techidaily.com/defending-windows-clocks-against-alterations/"><u>Defending Windows Clocks Against Alterations</u></a></li>
-<li><a href="https://win11.techidaily.com/from-future-to-past-windows-11-reskinned-as-98-version/"><u>From Future to Past: Windows 11 Reskinned as '98 Version</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-address-error-0x0000004e-in-windows-systems/"><u>How to Address Error 0X0000004E in Windows Systems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-nokia-105-classic-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Nokia 105 Classic</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-practical-techniques-for-downloading-youtube-srt/"><u>In 2024, Practical Techniques for Downloading YouTube SRT</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/increase-video-playback-speed-on-instagram-for-2024/"><u>Increase Video Playback Speed on Instagram for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-iphone-x-animoji-your-comprehensive-users-manual/"><u>Mastering iPhone X Animoji Your Comprehensive User's Manual</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-windows-11-functionality-overcoming-installation-hurdles-for-add-ons/"><u>Maximizing Windows 11 Functionality: Overcoming Installation Hurdles for Add-Ons</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-virtual-machine-start-issues-in-wm11plusvmware/"><u>Overcoming Virtual Machine Start Issues in WM11+VMware</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-operational-status-of-googles-windowed-nearby-share/"><u>Unlocking Operational Status of Google's Windowed Nearby Share</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-frame-by-frame-top-10-tools-to-convert-videos-to-images-for-2024/"><u>Updated Frame by Frame Top 10 Tools to Convert Videos to Images for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-no-rush-realms-top-12-serene-titles/"><u>[New] No-Rush Realms Top 12 Serene Titles</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-event-ready-top-dj-templates-download-guide/"><u>[Updated] 2024 Approved Event-Ready Top DJ Templates Download Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-5-gaming-chairs-on-a-shoestring-budget/"><u>[Updated] Top 5 Gaming Chairs on a Shoestring Budget</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-motorola-g24-power-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Motorola G24 Power to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-disabling-windows-aural-amplifiers/"><u>Guide to Disabling Windows Aural Amplifiers</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-games-not-opening-in-full-screen-mode-on-windows/"><u>How to Fix Games Not Opening in Full Screen Mode on Windows</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-subscriber-surge-strategy-on-flexible-budget/"><u>In 2024, Subscriber Surge Strategy on Flexible Budget</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-tackle-windows-snipshot-issue/"><u>Step-by-Step Guide to Tackle Windows Snipshot Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-ms-store-re-registration-on-windows-11-and-11/"><u>Streamlining MS Store Re-Registration on Windows 11 & 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-y17s-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo Y17s Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win11.techidaily.com/turbocharge-utorrent-file-download-speed-on-pcs/"><u>Turbocharge uTorrent File Download Speed on PCs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/vintage-visions-post-copyright-era/"><u>Vintage Visions Post-Copyright Era</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo Y100? | Dr.fone</u></a></li>
 </ul></div>
 

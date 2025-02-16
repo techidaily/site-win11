@@ -1,7 +1,7 @@
 ---
 title: "Bypassing Error Code: 0XA00F425D on Windows 10/11 Camera"
-date: 2024-07-29T15:52:58.279Z
-updated: 2024-07-30T15:52:58.279Z
+date: 2025-02-14T03:45:25.643Z
+updated: 2025-02-16T02:47:40.087Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/850c193e7db5e5c0dafad83a501e0d012a7f8ab4b
 
  As a result, users can’t capture video with the Camera app. Error 0xA00F425D has mostly been reported to happen on Windows 10, but that app error can also arise in 11\. This is how to fix error 0xA00F425D in Windows 10 and 11 if you need to resolve this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Camera and Recording Audio Troubleshooters
 
  Windows includes two troubleshooters that can feasibly resolve error 0xA00F425D. The camera troubleshooter specifically addresses webcam issues. Users who’ve fixed error 0xA00F425D have also found running the recording audio troubleshooter can resolve this issue.
@@ -30,26 +34,26 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 2. Select the**Troubleshoot** \>**Other trouble-shooters** navigation options.  
 ![The Troubleshoot navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/troubleshoot-option.jpg)
 3. Click**Run** for the Camera troubleshooter.  
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Run Camera troubleshooter option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/camera-troubleshooter.jpg)
 4. Then click**Yes** in the**Get help** window to apply automated troubleshooting.  
 ![The Camera troubleshooting window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/camera-troubleshooter-window.jpg)
 5. If the Camera troubleshooter doesn’t help much, try selecting**Run** for the Recording Audio troubleshooter.
-6. Select your PC’s microphone device in the troubleshooter.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Select your PC’s microphone device in the troubleshooter.  
 ![A Recording Audio troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/recording-audio-troubleshooter.jpg)
 7. Press**Next** to apply the troubleshooting.
 
  Accessing troubleshooters in Windows 10 isn’t quite the same. Select**Update & Security** and Troubleshooter in Windows 10’s Settings app. Then click**Additional troubleshooter** to bring up the window from which you can open the tools. Note that Windows 10 also has an alternative**Speech** troubleshooter that can also resolve microphone issues.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Enable Your PC’s Microphone
 
  Enabling the microphone is a confirmed solution for error 0xA00F425D. Running the Recording Audio troubleshooter might detect and enable a disabled microphone on your PC. However, you can manually enable your PC’s microphone as follows:
@@ -58,18 +62,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Then double-click**Audio inputs and outputs** to view all devices associated with that category.  
 ![The Audio inputs and output category](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/audio-inputs-and-outputs.jpg)
 3. Right-click your PC’s device and select**Enable device** if it’s disabled.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Enable device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-device-option.jpg)
 4. Press**Windows** logo +**I** to go into Settings, and select**Privacy** there.
 5. Click**Microphone** to access settings for that device.
 6. Turn on the**Microphone access** (or**Allow apps to access your Microphone**) option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![The Microphone access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microphone-access-option.jpg)
 7. Then toggle on the**Camera** option to enable microphone access for that app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Plug an External Webcam Into an Alternative USB Port
 
@@ -87,9 +94,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 5. Right-click**Platform** in the left sidebar to select the**New** submenu.
 
 1. Select**DWORD (32-bit) Value** option and input**EnableFrameServerMode** for the name.  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dword-option.jpg)
 2. Double-click the**EnableFrameServerMode** DWORD you’ve just added.
 3. The**EnableFrameServerMode’s** value might be set to**0** by default. If it isn’t, however, input**0** in the data box to set that value.  
@@ -97,9 +101,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. Exit the Edit DWORD window by clicking**OK** .
 5. Erase the current registry location in the address bar, and input the following alternative path there:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Media Foundation\Platform`  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![A Platform key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enableframeserver-dword.jpg)
 6. Repeat steps six to 10 for the second**Platform** key.
 
@@ -109,9 +110,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  After scanning your PC with Driver Booster or one of the alternatives, you’ll be able to select update driver options for the devices listed. If your PC’s camera is listed among the devices with an outdated driver, select to update it. The software will download and install the latest for it from its database.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Driver Booster software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/driver-booster.jpg)
 
  Alternatively, you can find and replace an outdated camera driver without third-party software. The other way to do it is to manually download the latest driver for your camera from the manufacturer’s website and install it.
@@ -120,9 +118,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  To prevent software conflicts that could potentially cause error 0xA00F425D, try setting Windows 11/10 to clean boot. Doing so will disable third-party apps and services from starting with Windows. Check out our guide about[clean booting on Windows](https://www.makeuseof.com/clean-boot-windows-11/) for details about how to apply this potential solution by disabling such startup items with Task Manager and MSConfig.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/services-tab.jpg)
 
 ## 7\. Delete Your PC’s Most Recent Windows Patch Update
@@ -134,8 +129,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Install updates in the Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installed-updates.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Record Videos With the Camera App Again
 
  Those are the most widely confirmed troubleshooting methods to fix error 0xA00F425D in Windows 10 and 11\. So, it’s likely one will fix the Camera’s app video recording on your PC too. Then you can record with that app to your heart’s content again.
@@ -146,8 +146,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +153,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-full-range-kinetics-review/"><u>[New] 2024 Approved Full Range Kinetics Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unmasking-imagerys-origins-a-complete-guide-to-reverse-picture-searching-in-instagram/"><u>[New] 2024 Approved Unmasking Imagery's Origins A Complete Guide to Reverse Picture Searching in Instagram</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-amplify-your-online-influence-with-these-best-5-youtube-marketing-techniques/"><u>[Updated] In 2024, Amplify Your Online Influence with These Best 5 YouTube Marketing Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-15-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 15 i Do? Get Answers here</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/overcoming-buffering-and-frame-skips-for-improved-playback/"><u>Overcoming Buffering and Frame Skips for Improved Playback</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-hibernation-freezes-windows-solutions/"><u>Overcoming Hibernation Freezes: Windows Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-uncover-inaccessible-ubisoft-hub/"><u>Techniques to Uncover Inaccessible Ubisoft Hub</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-m34-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy M34 FRP</u></a></li>
+<li><a href="https://win11.techidaily.com/top-10-strategies-for-swift-desktop-connection-w11-edition/"><u>Top 10 Strategies for Swift Desktop Connection, W11 Edition</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/verlorene-instagram-bilder-wiederentdecken-professionelle-wiederherstellungsstrategien-durch-myrecover/"><u>Verlorene Instagram-Bilder Wiederentdecken - Professionelle Wiederherstellungsstrategien Durch MyRecover</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-initiating-calculator-access/"><u>Windows 11: Initiating Calculator Access</u></a></li>
+</ul></div>
 

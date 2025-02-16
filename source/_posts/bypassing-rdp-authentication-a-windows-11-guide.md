@@ -1,7 +1,7 @@
 ---
 title: "Bypassing RDP Authentication: A Windows 11 Guide"
-date: 2024-07-29T15:55:14.022Z
-updated: 2024-07-30T15:55:14.022Z
+date: 2025-02-08T22:15:30.943Z
+updated: 2025-02-15T20:58:28.609Z
 tags:
   - windows10
   - windows11
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
  Remote Desktop connections let two computers share data and applications online. It's handy for accessing files and programs from afar. Although security measures often require passwords. But what if you could connect to your remote desktop without it? This article explains how to connect to a remote desktop without a password in Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Using Group Policy
 
  A group policy editor is a tool administrators use to set user access control policies. You can use this feature to disable passwords. Make sure you are running Windows Pro, Enterprise, or Education Edition.
@@ -35,21 +32,20 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 4. Then navigate to the following folders:  
 Windows Settings > Security Settings > Local Policies > Security Options
 5. In the right panel, double-click on **Accounts: Limit local account use of blank passwords to console logon only**. The Properties window will pop up.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Remote desktop connections without a password Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/remote-desktop-connections-without-a-password-using-group-policy.jpg)
 6. Choose **Disabled** and click **OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Limit local account use of blank passwords to console logon only](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/limit-local-account-use-of-blank-passwords-to-console-logon-only.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will allow users to connect remotely without using a password. If you want to enable the password prompt again, just follow the same steps and select **Enabled** instead of **Disabled** in the last step.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Using Security Policy
 
  Security policies are another way to connect remotely without passwords. This tool is similar to the group policy editor but specific to the local computer. This means any changes you make to the local security policy will only apply to the local computer while group policies are domain-wide.
@@ -64,6 +60,10 @@ Security Settings > Local Policies > Security Options
 5. Now move to the right panel and double-click on **Accounts: Limit local account use of blank passwords to console logon only**. This will open the Properties window for this policy.  
 ![Use Security Policy to Connect Remote Desktop Without a Password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/use-security-policy-to-connect-remote-desktop-without-a-password.jpg)
 6. Select **Disabled** and click on **Apply > OK** to save changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you save this setting, remote connections are possible without passwords.
 
@@ -90,6 +90,10 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
  If you ever want to re-enable the password prompt, navigate back to the same registry key and change the value data field to **1**. Now close the Registry Editor and you are ready to connect remotely without a password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Using Command Prompt
 
  If you prefer the command line over graphical tools, try this method. It works the same way as the registry editor but is done through the command prompt. Since this could be difficult for novice users, double-check each step. This ensures you don't make mistakes and damage your system.
@@ -101,6 +105,11 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 3. If the UAC dialog box pops up, click **Yes** to grant permission. This will open the Command Prompt with administrative privileges.  
 ![Make Passwordless Remote Desktop Connections Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/make-passwordless-remote-desktop-connections-using-command-prompt.jpg)
 4. Now type the following command and hit Enter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBlankPasswordUse /t REG_DWORD /d 0 /f
 
  Running this command will change the value data field to **0** and disable the remote password prompt.
@@ -109,9 +118,6 @@ Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBl
 
 Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBlankPasswordUse /t REG_DWORD /d 1 /f
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## 5\. Using a Reg File
 
  If you're not good at editing with the registry editor, create a .reg file instead. The .reg files are basically text files with predefined instructions. When executed, they change the registry and apply settings automatically.
@@ -125,9 +131,6 @@ Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBl
 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa  
 "LimitBlankPasswordUse"=dword:00000000`
 3. Now click **File** \> **Save as** and set the file type to **All files**.  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![Create a Reg File Connect Remote Desktop Without a Password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-a-reg-file-connect-remote-desktop-without-a-password.jpg)
 4. Name the file **no-password.reg** and save it to your desktop.
 5. Double-click on the file to execute it and apply the settings automatically.
@@ -145,11 +148,29 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
  Read this guide to access remote desktop without remembering and entering passwords each time. This creates a password-free experience, making it easier to connect with coworkers or friends whenever required.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-pushing-boundaries-with-time-lapse-full-slomo-review-2024/"><u>[New] Pushing Boundaries with Time-Lapse Full SloMo Review, 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-simplifying-video-editing-on-iphone-trim-and-adjust-sizes/"><u>[New] Simplifying Video Editing on iPhone Trim & Adjust Sizes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-chorus-cache-secure-and-inspect-audio-recordings/"><u>[Updated] Chorus Cache Secure & Inspect Audio Recordings</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-seamless-creation-with-xp-movie-maker-features/"><u>[Updated] In 2024, Seamless Creation with XP Movie Maker Features</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210711791-9781454933694-a-little-bit-of-reiki/"><u>A Little Bit of Reiki | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-data-evolution-understanding-ais-transfer-learning-processes/"><u>Decoding Data Evolution: Understanding AI's Transfer Learning Processes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-motorola-moto-g34-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Motorola Moto G34 5G Is Unlocked</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-mp3-conversion-transforming-digital-music-into-physical-form-using-windows-and-imgburn/"><u>Mastering MP3 Conversion: Transforming Digital Music Into Physical Form Using Windows & ImgBurn</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-for-activating-ms-defender-in-win-11-edge-browser/"><u>Quick Tips for Activating MS Defender in Win 11 Edge Browser</u></a></li>
+<li><a href="https://win11.techidaily.com/skillful-techniques-for-placing-toolbar-icons-on-desktop/"><u>Skillful Techniques for Placing Toolbar Icons on Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/supercharge-your-systems-task-handling-on-windows/"><u>Supercharge Your System's Task Handling on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-screen-saver-duration-on-windows/"><u>Tailoring Screen Saver Duration on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-the-wobble-of-windows-mouse-pointer/"><u>Taming the Wobble of Windows Mouse Pointer</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-tips-for-mac-style-window-enhancement-on-windows/"><u>Top 5 Tips for Mac-Style Window Enhancement on Windows</u></a></li>
+</ul></div>
+

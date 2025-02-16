@@ -1,7 +1,7 @@
 ---
 title: "Tick-Tock Troubleshooting: Chrome and System Sync"
-date: 2025-01-31T22:26:27.673Z
-updated: 2025-02-04T01:15:49.388Z
+date: 2025-02-11T16:21:24.894Z
+updated: 2025-02-16T01:49:19.165Z
 tags:
   - windows10
   - windows11
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Ensure the Date and Time Are Correctly Configured
 
  Since the error message states that your PC has incorrect date and time settings, it is advisable first to check that these settings are correct. Look in the bottom-right corner of your screen and see what date and time your computer shows. If it's accurate and your device uses a 12-hour clock, make sure the correct period (AM or PM) is selected; it's an easy mistake to overlook.
 
  If the settings don't match the actual date and time, you should adjust them. If you're unfamiliar with the process, refer to our guide on [changing the date and time in Windows 11](https://www.makeuseof.com/windows-11-change-date-time/). However, if the date and time are both correct but the error persists, it's time to try more complicated fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Perform Some Basic Chrome-Based Fixes
 
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 4. Uninstall Chrome and reinstall it.
 
  If this doesn't work, it's a sign that the problem lies outside of Chrome itself.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Check How Widespread the Issue Is
 
@@ -70,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 
 3. You can also turn on the toggle next to **Set time zone automatically** to adjust it automatically.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Manually Sync the Time and Date
 
  Windows regularly syncs the time and date on your device with respect to the time server you've set. However, the operating system sometimes takes a few hours or even days to update, especially if you don't connect to the internet for a long time.
@@ -83,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 1. Right-click on the time and date in the bottom-right corner and click **Adjust date and time**.
 2. Click **Sync now** to sync the date and time manually.  
 ![Click on the Sync Now Button to Manually Sync the Date and Time in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-click-on-the-sync-now-button-to-manually-sync-the-date-and-time-in-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Change the System Region
 
@@ -94,11 +90,11 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 ![Go to Language and Region Settings in the Time and Language Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-go-to-language-and-region-settings-in-the-time-and-language-tab-of-the-windows-settings-app.jpg)
 4. In the dropdown menu next to **Country or region**, select the region where you're located.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Select Your Region From the Region Dropdown Menu in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/5-select-your-region-from-the-region-dropdown-menu-in-the-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Change the Internet Time Server Settings
 
@@ -112,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 3. Navigate to the **Internet Time** tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click on the **Change settings** button.  
@@ -123,10 +119,14 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 ![Select the Correct Server in the Internet Time Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/8-click-ok-after-ensuring-the-right-server-is-added-and-the-checkbox-beside-synchronize-with-an-internet-time-server-is-checked.jpg)
 7. Finally, click **Apply** and then **OK**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If changing the time server settings does not resolve the issue, it's time to try something more advanced.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Replace the Computer's CMOS Battery
@@ -151,20 +151,22 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-charismatic-videos-with-diy-camera-setups/"><u>[New] 2024 Approved Crafting Charismatic Videos with DIY Camera Setups</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-top-25-instagram-hashtags-to-get-likes-and-followers/"><u>[New] In 2024, Top 25 Instagram Hashtags to Get Likes and Followers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-youtube-video-magic-best-tools-for-effortless-webm-conversion/"><u>2024 Approved YouTube Video Magic Best Tools for Effortless WebM Conversion</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/best-terraria-customization-choices-for-2024/"><u>Best Terraria Customization Choices for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exclusive-insight-sonys-revolutionary-xr-headset-unveiled-at-ces-2024-key-takeaw/"><u>Exclusive Insight: Sony's Revolutionary XR Headset Unveiled at CES 2024 – Key Takeaw</u></a></li>
-<li><a href="https://win11.techidaily.com/gateway-to-disks-windows-10-and-11-mastery-guide/"><u>Gateway to Disks: Windows 10 & 11 Mastery Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/get-back-your-invisible-5ghz-lan-with-simple-fixes-for-pcs/"><u>Get Back Your Invisible 5GHz LAN with Simple Fixes for PCs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-8-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone 8 Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-chatgpt-susceptible-to-potential-security-threats/"><u>Is ChatGPT Susceptible to Potential Security Threats?</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-windows-11-pinlist-tips-and-tricks/"><u>Maximize Windows 11 Pinlist - Tips & Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/photography-enhancements-how-to-clear-surrounding-areas/"><u>Photography Enhancements: How to Clear Surrounding Areas</u></a></li>
-<li><a href="https://win11.techidaily.com/realigning-windows-and-wsl-after-the-advent-of-windows-11/"><u>Realigning Windows & WSL After the Advent of Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-1011-0xc000003e-app-start-failure/"><u>Resolving Windows 10/11: 0XC000003E App Start Failure</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-iis-manager-opening/"><u>The Ultimate Guide to IIS Manager Opening</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-in-pursuit-of-excellence-tips-for-shooting-with-hero5-black/"><u>[New] 2024 Approved In Pursuit of Excellence Tips for Shooting with Hero5 Black</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-perfect-video-demos-in-adobe-captivate/"><u>[Updated] In 2024, Perfect Video Demos in Adobe Captivate</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/2024-ultimate-fix-how-to-troubleshoot-a-non-functioning-jabra-headset/"><u>2024 Ultimate Fix: How to Troubleshoot a Non-Functioning Jabra Headset</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-free-4k-video-player-apps-for-windows-and-macos-top-picks/"><u>Best FREE 4K Video Player Apps for Windows & macOS: Top Picks!</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-scripts-windows-conversion-to-powerful-exes/"><u>Elevate Scripts: Windows Conversion to Powerful EXEs</u></a></li>
+<li><a href="https://win11.techidaily.com/emerge-from-slumber-win-os-keyboard-plus-mouse-troubleshooting/"><u>Emerge From Slumber: Win OS, Keyboard + Mouse Troubleshooting</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-apple-iphone-6-plus-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from Apple iPhone 6 Plus or iPad?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/re-creativity-brainstorming-for-channels-names-for-2024/"><u>Inspire Creativity Brainstorming for Channels' Names for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-microsofts-innovations-into-win11/"><u>Integrating Microsoft's Innovations Into Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-defender-traces-secure-cleanup-steps-for-windows-users/"><u>Resetting Defender Traces: Secure Cleanup Steps for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocketing-pc-game-downloads-with-easy-steps/"><u>Skyrocketing PC Game Downloads with Easy Steps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/mlining-your-iphones-video-loops/"><u>Streamlining Your iPhones Video Loops</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-echo-of-valyria-prime-destinations-for-tts-downloads/"><u>The Echo of Valyria Prime Destinations for TTS Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-address-failed-opening-of-sound-devices-on-audacity/"><u>Tips to Address Failed Opening of Sound Devices on Audacity</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-bypass-access-denied-error-on-windows-devices/"><u>Tips to Bypass 'Access Denied' Error on Windows Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-iphone-14-pro-max-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile iPhone 14 Pro Max Before the Plan Expires</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-warfare-a-side-by-side-look-at-w10-and-w11-changes/"><u>Windows Warfare: A Side-by-Side Look at W10 and W11 Changes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Changing Windows 11 Registry Access Settings
-date: 2024-07-29T15:51:45.334Z
-updated: 2024-07-30T15:51:45.334Z
+date: 2025-02-14T22:06:02.166Z
+updated: 2025-02-15T21:17:01.525Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
  Fortunately, it’s possible to disable (or enable) Registry Editor access on your Windows 11 PC. Let's see how.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Disable or Enable Registry Editor Access via the Group Policy Editor
 
  The most straightforward way to block access to the Registry Editor on Windows is via the Group Policy Editor. However, it’s important to note that this tool is only available on Windows Pro, Education, and Enterprise editions. If you happen to be using Windows Home, refer to our guide on [how to access the Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before proceeding.
@@ -33,16 +34,18 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 4. Double-click the **Prevent access to registry editing tools** policy in the right pane.
 5. Select the **Enabled** option.
 6. Click **Apply** followed by **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Block Registry Editor Access via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/block-registry-editor-access-via-group-policy-editor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Following this, users will see the “Registry editing has been disabled by your administrator” message when they attempt to access the Registry Editor. If you want to re-enable Registry Editor later, repeat the above steps and set the **Prevent access to registry editing tools** policy to **Not configured** or **Disabled**.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Disable or Enable Registry Editor Access via the Registry Editor
 
  Another way to restrict the Registry Editor access on Windows involves using the Registry Editor itself. Here are the steps you can follow.
@@ -54,10 +57,11 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 5. Right-click on the **Policies** key and select **New > Key**. Name it **System**.
 6. Right-click on the **System** key and select **New > DWORD (32-bit) Value**. Name it **DisableRegistryTools**.
 7. Double-click the newly created DWORD, type **1** in the Value data field, and hit **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Block Registry Editor Access via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/block-registry-editor-access-via-registry-editor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you complete the above steps, the Registry Editor will be disabled on your PC.
 
@@ -68,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 3. In the notepad window, paste the following command.  
 `Windows Registry Editor Version 5.00  
 [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System] "DisableRegistryTools"=dword:00000000`  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![Create Reg File to Enable Registry Editor Access on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/create-reg-file-to-enable-registry-editor-access-on-windows.jpg)
 4. Click the **File** menu and select **Save as**.
 5. Select **Desktop** in the **Save as** dialog box.
@@ -84,15 +85,14 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
  Once you run the above command, the Registry Editor will become accessible again.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Allowing or Disallowing Registry Editor Access on Windows
 
  Blocking access to the Registry Editor is an effective way to protect your system from registry mishaps. Nonetheless, if you opt to re-enable access to the Registry Editor on your PC, make sure to exercise caution to avoid messing up the Windows Registry.
 
  Fortunately, it’s possible to disable (or enable) Registry Editor access on your Windows 11 PC. Let's see how.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -100,3 +100,27 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-navigating-recordings-in-windows-11-a-compreayers-guide/"><u>[Updated] 2024 Approved Navigating Recordings in Windows 11 A Compreayer's Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-key-ingredients-for-successful-instagram-unboxing-reels/"><u>[Updated] The Key Ingredients for Successful Instagram Unboxing Reels</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-the-power-of-any-video-with-these-free-online-editors/"><u>[Updated] Unlock the Power of Any Video With These Free Online Editors</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-free-iphone-xr-imei-checker-by-drfone-ios/"><u>Best Free iPhone XR IMEI Checker</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/boosting-stream-consistency-with-obs-fixes-for-2024/"><u>Boosting Stream Consistency with OBS Fixes for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-troubleshooting-guide-fixing-the-infamous-body-stream-error-in-7-steps/"><u>ChatGPT Troubleshooting Guide: Fixing the Infamous Body Stream Error in 7 Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-printer-problems-fast-win11-fixed/"><u>Eliminate Printer Problems Fast: Win11 Fixed</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/enhance-your-marketing-analytics-using-the-cookiebot-platform/"><u>Enhance Your Marketing Analytics Using the Cookiebot Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/guarding-your-gateway-identifying-authenticity-in-windows-apps/"><u>Guarding Your Gateway: Identifying Authenticity in Windows Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/hyper-v-integration-establishing-a-linux-environment-on-windows-host/"><u>Hyper-V Integration: Establishing a Linux Environment on Windows Host</u></a></li>
+<li><a href="https://win11.techidaily.com/installing-virtualbox-on-windows-set-up-the-dependencies-first-for-error-free-installation/"><u>Installing VirtualBox on Windows? Set Up the Dependencies First for Error-Free Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/methodology-to-rectify-managed-chromium-and-microsoft-edge-configurations/"><u>Methodology to Rectify Managed Chromium & Microsoft Edge Configurations</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-stuck-keyboard-arrows-effective-troubleshooting-tips-inside/"><u>Overcome Stuck Keyboard Arrows - Effective Troubleshooting Tips Inside!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/prime-android-space-savers-compendium-for-2024/"><u>Prime Android Space-Savers Compendium for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-tips-for-background-deletion-in-paint-3d/"><u>Pro Tips for Background Deletion in Paint 3D</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-immediate-edge-tabs-in-win11/"><u>Sidestep Immediate Edge Tabs in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/switch-to-shadows-making-paint-dark/"><u>Switch to Shadows: Making Paint Dark</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-review-of-linksys-wrt3200acm-router-unleashing-the-potential-of-open-source-wifi-solutions/"><u>The Ultimate Review of Linksys WRT3200ACM Router: Unleashing the Potential of Open Source WiFi Solutions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-vlog-editing-made-easy-top-14-software-for-creating-engaging-content/"><u>Updated In 2024, Vlog Editing Made Easy Top 14 Software for Creating Engaging Content</u></a></li>
+</ul></div>
+

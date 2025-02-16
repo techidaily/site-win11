@@ -1,7 +1,7 @@
 ---
 title: Navigate Through Fonts with Win11's Tool
-date: 2025-01-30T00:48:45.294Z
-updated: 2025-02-03T16:28:20.312Z
+date: 2025-02-08T17:01:44.425Z
+updated: 2025-02-15T21:24:05.155Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Open Character Map Using Windows Search
 
  If you need to use special characters in your documents, the Character Map tool can help. This tool is built into Windows and can be opened using the Windows Search tool. Here's how to open it.
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 2. Type "character map" in the search box and hit the**Enter** key.
 
  Once you've opened Character Map, you can select a font from the drop-down menu at the top of the window. Then, scroll through the list of available characters and click on the one you want to insert. Finally, click the Copy button and paste the character into your document or email.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Open Character Map Using the Run Dialog
 
@@ -73,11 +81,11 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 ![Open Character Map Using Task Manager.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-Using-Task-Manager.jpg)
 3. Type "charmap" into the Create new task window and press Enter.
 
- From here, you can choose the character or symbol that you want to insert and then click on the Select button. Now click the Copy button and paste it where you need it.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ From here, you can choose the character or symbol that you want to insert and then click on the Select button. Now click the Copy button and paste it where you need it.
 
 ## 6\. How to Open Character Map Via File Explorer
 
@@ -86,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 1. Press**Win + E** to open File Explorer. For other methods, see our guide to[opening Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
 2. Type "charmap" in the address bar and press Enter.
 3. This will open the Character Map window on your computer screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. How to Open Character Map Using a Desktop Shortcut
 
@@ -100,15 +104,11 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 ![Create Desktop Shortcut of Character Map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-of-Character-Map.jpg)
 3. Click**Next** and then give your shortcut a name.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Name of the desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Name-of-the-desktop-shortcut.jpg)
 4. Finally, click**Finish** to apply the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A shortcut will appear on the desktop of your computer; double-click it to open the Character Map application.
@@ -121,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 
  If Windows asks you to confirm before creating a shortcut, click**Yes** . The desktop shortcut will be created on your computer screen. The Character Map application will open when you double-click it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. How to Open Character Map Via Command Prompt or Windows PowerShell
 
  If you prefer a command-line interface, you can open the Character Map tool with PowerShell or Command Prompt. To do this, follow these steps:
@@ -130,10 +134,6 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 ![Open Character Map by running Command line](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-by-running-Command-line.jpg)
 3. Now press the**Enter** key. The Character Map application will appear on your screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Pin the Command Prompt to the Start menu or Taskbar
 
  Furthermore, you can also pin the Character Map application to the taskbar for easy access. Follow these steps to take so:
@@ -142,11 +142,11 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 2. Under Character Map, select**Pin to taskbar** on the right side.  
 ![Pin Character Map to taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Character-Map-to-taskbar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This way you can now easily access the tool from the taskbar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open a Character Map in a Snap
 
@@ -167,14 +167,19 @@ This way you can now easily access the tool from the taskbar.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11.techidaily.com/1726026337234-dvd/"><u>最適なレンタルDVDコピーツール選び - 使い勝手とセキュリティの両立!</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-infinix-note-30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Note 30 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/1726026382879-gif/"><u>GIFアニメ画質向上:高解像度への改良手順</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-google-pixel-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027369163-pcdvd/"><u>PCで安全にDVDのデータをバックアップする手順ガイド</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/schnell-und-einfach-verdeckte-iphone-apps-finden-entdecke-3-effektive-strategien/"><u>Schnell Und Einfach Verdeckte iPhone-Apps Finden - Entdecke 3 Effektive Strategien</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/synergy-of-social-media-embedding-linktree-in-your-tiktok-bio-for-2024/"><u>Synergy of Social Media Embedding Linktree in Your TikTok Bio for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/tips-and-tricks-for-editing-your-way-to-greatness-in-facebook-reels/"><u>Tips and Tricks for Editing Your Way to Greatness in Facebook Reels</u></a></li>
-<li><a href="https://win11.techidaily.com/1726026492605-gif/"><u>ダイナミックなGIFウェルカムバナー作成の基礎知識</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nlock-exclusive-youtube-visuals-top-5-tools-reviewed-for-2024/"><u>[New] Unlock Exclusive YouTube Visuals – Top 5 Tools Reviewed for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-eight-video-recording-apps-reviewed/"><u>[Updated] Top Eight Video Recording Apps Reviewed</u></a></li>
+<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/design-your-own-screen-capture-free-ways-on-pc-for-2024/"><u>Design Your Own Screen Capture - Free Ways on PC for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/discerning-safe-from-risky-windows-11-features/"><u>Discerning Safe From Risky Windows 11 Features</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-swift-safe-mode-access-in-windows-11/"><u>Expert Tips for Swift Safe Mode Access in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/finding-and-implementing-asus-wifi-adapter-drivers-a-step-by-step-process/"><u>Finding and Implementing ASUS WiFi Adapter Drivers – A Step-by-Step Process</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-and-compatible-drivers-for-the-epson-ds-530-on-64-bit-windows-10-computers/"><u>Latest & Compatible Drivers for the Epson DS-530 on 64-Bit Windows 10 Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-reinstalling-uninstalled-hdd-in-windows-11/"><u>Quick Tips: Reinstalling Uninstalled HDD in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/revival-of-a-non-responsive-search-restoring-functionality-on-windows-11-ui/"><u>Revival of a Non-Responsive Search: Restoring Functionality on Windows 11 UI</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-invisible-monitor-issue-on-w11/"><u>Tackle Invisible Monitor Issue on W11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-keyboards-of-2024-comprehensive-reviews-and-ratings-by-tech-experts/"><u>Top-Rated Keyboards of 2024: Comprehensive Reviews and Ratings by Tech Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-overcoming-code-0x800700e1-on-windows-11/"><u>Troubleshooting: Overcoming Code 0X800700E1 on Windows 11</u></a></li>
 </ul></div>
 

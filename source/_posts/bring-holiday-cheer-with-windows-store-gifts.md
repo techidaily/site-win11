@@ -1,7 +1,7 @@
 ---
 title: Bring Holiday Cheer with Windows Store Gifts
-date: 2024-07-29T15:52:26.631Z
-updated: 2024-07-30T15:52:26.631Z
+date: 2025-02-11T18:56:05.149Z
+updated: 2025-02-15T20:44:00.399Z
 tags:
   - windows10
   - windows11
@@ -29,18 +29,12 @@ To gift any of the apps mentioned above:
 1. Head over to the Microsoft Store on your Windows PC.
 2. Navigate to the product that you would like to purchase as a gift.
 3. Select “Buy as gift” (the Gift icon), as you can see in the screenshot below.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![Microsoft Store With Buy as Gift Option on Laptop Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/how-to-gift-a-microsoft-store-app.jpg)
 
  Then enter the email of the gift recipient to send the app code for redemption.
 
 ## 1. Movie Maker - Video Editor PRO
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Movie Maker Video Editor Pro App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/movie-maker-pro-windows-app.jpg)
 
  Movie Maker - Video Editor PRO is the best-selling Windows 10 and 11 movie maker and video editor app.
@@ -59,6 +53,10 @@ To gift any of the apps mentioned above:
 
 ![Adobe Photoshop Elements 2023 App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/adobe-photoshop-elements-2023-windows-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll find all your photo essentials in the easy-to-use Adobe Photoshop Elements 2023\. This creative app will make a perfect gift for friends who are photography enthusiasts or those who love to create unique photos to share.
 
  Equipped with the power of Adobe Sensei AI technology, you'll discover how easy it is to add movie magic to photos by choosing the direction and adjusting the speed.
@@ -71,14 +69,13 @@ To gift any of the apps mentioned above:
 
 **Download** :[Adobe Photoshop Elements 2023](https://apps.microsoft.com/store/detail/adobe-photoshop-elements-2023/9NVRJNJ1D93S) (Free trial, $99.99)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## 3. djay Pro
 
 ![djay Pro App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/djay-pro-windows-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This award-winning app would be a great gift for your friend or loved ones who would love to mix tracks and make music like a DJ.
 
@@ -92,15 +89,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 **Download** :[djay Pro](https://apps.microsoft.com/store/detail/djay-pro/9NBLGGH4VM4H?hl=en-us&gl=us) (Free trial, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4. Spotify - Music and Podcasts
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Spotify Premium App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/spotify-premium-windows-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Spotify is perhaps the most popular music app and player. You can stream the tracks you love and discover new music too.
 
@@ -115,13 +110,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 **Download** :[Spotify - Music and Podcasts](https://apps.microsoft.com/store/detail/spotify-music-and-podcasts/9NCBCSZSJRSB) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5. SOUND FORGE Audio Studio 15 Microsoft Store Edition
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Sound Forge Audio Studio 15 App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sound-forge-audio-studio-15-windows-app.jpg)
 
  Here is a quality app you can gift to friends and family who are into digital audio editing and creating podcasts and audiobooks.
@@ -132,9 +125,17 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 **Download** :[SOUND FORGE Audio Studio Studio 15 Microsoft Store Edition](https://apps.microsoft.com/store/detail/sound-forge-audio-studio-15-microsoft-store-edition/9PGSQ8HZLWR5?hl=en-us&gl=us) ($49.99)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6. Virtual Teleprompter PRO
 
 ![Virtual Teleprompter Pro App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/virtual-teleprompter-pro-windows-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A perfect gift for professionals, who spend their days moving from one online meeting to the next. The Virtual Teleprompter PRO app is also handy for online interviews and presentations, live streaming, content creation, or making pre-recorded content.
 
@@ -148,10 +149,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ## 7. Zen: Coloring Book for Adults
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Zen Coloring for Adults App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/zen-coloring-book-windows-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  How about gifting a digital way to create beautiful art that relaxes your loved ones?
 
@@ -163,14 +165,8 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 **Download** :[Zen: Coloring Book for Adults](https://apps.microsoft.com/store/detail/zen-coloring-book-for-adults/9NBLGGH5BTDM?hl=en-us&gl=us) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8. Betta Fish - Virtual Aquarium
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Betta Fish Virtual Aquarium App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/betta-fish-windows-app.jpg)
 
  Betta Fish - Virtual Aquarium captures the beauty of Betta fish like never seen before in a 3D virtual fish tank—it will bring the Windows desktop alive for your loved ones.
@@ -207,8 +203,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +210,24 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-keeping-track-of-itunes-audio-visual-files-for-2024/"><u>[New] Keeping Track of iTunes Audio-Visual Files for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-highlighted-20-anime-melodies-at-start/"><u>2024 Approved Highlighted 20 Anime Melodies at Start</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-zoom-setbacks-fixing-error-code-1132-on-windows/"><u>Conquer Zoom Setbacks: Fixing Error Code 1132 on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-best-ways-to-alter-image-size-on-your-windows-11-system/"><u>Discover the Best Ways to Alter Image Size on Your Windows 11 System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-access-free-dreamy-slumber-nighttime-videos-now-available-for-sharing-on-social-platforms/"><u>Easy Access: Free 'Dreamy Slumber' Nighttime Videos, Now Available for Sharing on Social Platforms!</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-pc-discussions-embracing-freedomgpt/"><u>Elevate PC Discussions: Embracing FreedomGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-camera-not-found-in-windows-11/"><u>How to Rectify Camera Not Found in Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-xiaomi-13t-phone-by-drfone-android/"><u>How to Unlock a Network Locked Xiaomi 13T Phone?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-motorola-moto-g-stylus-2023-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://win11.techidaily.com/interactive-device-management-via-windows-interface-elements/"><u>Interactive Device Management via Windows Interface Elements</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/is-hd-display-compatible-with-your-graphics-hardware-expert-advice-by-yl-software/"><u>Is HD Display Compatible with Your Graphics Hardware? Expert Advice by YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/modifying-windows-11-shutdown-duration-during-execution/"><u>Modifying Windows 11 Shutdown Duration During Execution</u></a></li>
+<li><a href="https://win11.techidaily.com/moving-onedrive-to-a-new-directory-in-windows-10/"><u>Moving OneDrive to a New Directory in Windows 10</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/seamless-communication-the-best-5-webcams-with-inbuilt-microphones-for-2024/"><u>Seamless Communication The Best 5 Webcams with Inbuilt Microphones for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-modifying-and-customizing-cell-edges-in-microsoft-excel/"><u>Step-by-Step Guide: Modifying and Customizing Cell Edges in Microsoft Excel</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-tips-for-correcting-autocorrect-mistakes-and-improving-your-iphones-spelling-skills/"><u>Top 6 Tips for Correcting AutoCorrect Mistakes & Improving Your iPhone's Spelling Skills</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-simplified-image-browsing-setup/"><u>Windows 11: Simplified Image Browsing Setup</u></a></li>
+</ul></div>
 

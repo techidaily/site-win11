@@ -1,7 +1,7 @@
 ---
 title: Lowering Resource Demand From UnrealCEFSubprocess for Better Performance
-date: 2025-02-03T05:01:09.558Z
-updated: 2025-02-04T06:32:39.636Z
+date: 2025-02-12T23:12:02.484Z
+updated: 2025-02-16T04:02:03.788Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
 
  As many users pointed out in a[Reddit thread](https://www.reddit.com/r/ValorantTechSupport/comments/z66n1b/unrealcefsubprocessexe%5Fmultiplying%5Fand%5Fputting/) , one of the major causes of high resource consumption by this process is the interference from Windows' built-in security suite, Windows Defender, and third-party antivirus software, primarily AVG antivirus and Avast antivirus. If you are using security software, then it might be causing the issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can You Disable the UnrealCEFSubprocess Process via the Task Manager?
 
  Disabling the UnrealCEFSubprocess process could adversely affect your active gaming session in Valorant. The gaming elements this process controls or handles will crash and behave abnormally. Because of this, we do not advocate closing it down.
@@ -53,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
 
  Consequently, you will be successful in reducing resource consumption without compromising your security.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Whitelist UnrealCEFSubprocess From Windows Defender
 
  Follow these steps to whitelist UnrealCEFSubprocess from Windows Defender:
@@ -66,11 +66,15 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
 4. Click on**Change settings** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click on**Allow another app** .  
 ![Click on Allow Another App in the Windows Defender Firewall Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-click-on-allow-another-app-in-the-windows-defender-firewall-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. In the**Add an app** window, click on the**Browse** button.  
 ![Click on the Browse Button in the Add an App Window in the Windows Defender Firewall Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-click-on-the-browse-button-in-the-add-an-app-window-in-the-windows-defender-firewall-settings.jpg)
@@ -83,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
 
 ![Click on the Add Button After Selecting the Relevant Process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-click-on-the-add-button-after-selecting-the-relevant-process.jpg)
 5. After that, check the**Public** and**Private** boxes next to the**UnrealCEFSubProcess** process and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Click OK After Checking the Public and Private Boxes Next to the UnrealCEFSubprocess in the Windows Firewall Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-click-ok-after-checking-the-public-and-private-boxes-next-to-the-unrealcefsubprocess-in-the-windows-firewall-settings.jpg)
 6. Restart your computer after whitelisting this process.
@@ -103,13 +103,13 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
 ![Go to Settings in Avast Antivirus App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/8-go-to-settings-in-avast-antivirus-app.jpg)
 4. Go to the**Exceptions** tab in the**General** settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click on**Add Exception** .  
 ![Click on Add Exception in the General Settings in Avast Antivirus App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/9-click-on-add-exception-in-the-general-settings-in-avast-antivirus-app.jpg)
 6. Click**Browse** in the**Add exception** window.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Click Browse in the Add Exception Window in Avast Antivirus App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/10-click-browse-in-the-add-exception-window-in-avast-antivirus-app.jpg)
 7. Navigate to the following path if you haven't changed the default installation path when installing Valorant:  
@@ -120,11 +120,7 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
 9. After that, restart your computer once, and hopefully, the process won't overtax your computer's resources anymore.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Whitelist UnrealCEFSubprocess From AVG Antivirus
@@ -136,6 +132,10 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
  Before doing that,[turn on Windows Defender](https://www.makeuseof.com/turn-on-microsoft-defender/) if it's off, or install alternative antivirus software to replace AVG and keep your computer safe from incoming threats.
 
  If you use an antivirus software other than the two listed above and the UnrealCEFSubprocess process consumes more than half of your system resources, you need to whitelist the UnrealCEFSubprocess file there as well. If you are not familiar with the whitelisting process, visit the antivirus software's official website.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Don't Let the UnrealCEFSubprocess Process Overburden Your Hardware
 
@@ -158,17 +158,24 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-record-powerpoint-presentation-with-webcam-for-2024/"><u>[New] How to Record PowerPoint Presentation with Webcam for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ranking-of-top-10-budget-friendly-video-meeting-tools-for-organizations-and-schools-for-2024/"><u>[Updated] Ranking of Top 10 Budget-Friendly Video Meeting Tools for Organizations & Schools for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-syncing-images-pc-to-iphone-file-sharing/"><u>[Updated] Syncing Images PC-to-iPhone File Sharing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-techniques-for-transforming-facespace-lives-into-tv-content-for-2024/"><u>[Updated] Techniques for Transforming Facespace Lives Into TV Content for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/advanced-tips-for-minecraft-gaming-streams/"><u>Advanced Tips for Minecraft Gaming Streams</u></a></li>
-<li><a href="https://win11.techidaily.com/delayed-windows-11-shutdown-techniques-amidst-running-programs/"><u>Delayed Windows 11 Shutdown Techniques Amidst Running Programs</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-hidden-additional-monitor-in-windows/"><u>Fix Hidden Additional Monitor in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/provide-transparency-publish-information-on-cdcss-operations-safety-measures-privacy-policies-and-compliance-efforts-to-reassure-customers-and-stakeholders-41/"><u>Provide Transparency: Publish Information on CDCS's Operations, Safety Measures, Privacy Policies, and Compliance Efforts to Reassure Customers and Stakeholders About the Company'alignment with Best Practices in the Drone Delivery Sector.</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-malwarebytes-link-to-services-after-failure-in-windows-11/"><u>Reinstating Malwarebytes Link to Services After Failure in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/supercharge-windows-with-these-powerful-powertoy-features/"><u>Supercharge Windows with These Powerful PowerToy Features</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-9-introductory-ai-tool-groups-for-newcomers/"><u>Top 9 Introductory AI Tool Groups for Newcomers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/total-system-collapses-game-publisher-accuses-defective-intel-processors-selling-faulty-13th-and-14th-gen-chips/"><u>Total System Collapses: Game Publisher Accuses Defective Intel Processors, Selling Faulty 13Th and 14Th Gen Chips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-your-blueprint-for-downloading-youtube-srt-in-3-steps/"><u>[New] 2024 Approved Your Blueprint for Downloading YouTube SRT in 3 Steps</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-analyzing-tseries-earnings-via-youtube-engagement/"><u>[New] Analyzing TSeries Earnings via YouTube Engagement</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-behind-the-screen-tiktoks-10-gaming-visionaries-for-2024/"><u>[Updated] Behind the Screen TikTok’s 10 Gaming Visionaries for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-top-10-hindi-video-translators-with-step-by-step-guidance/"><u>2024 Approved Top 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/dimming-high-contrast-feature-on-your-windows-machine/"><u>Dimming High Contrast Feature on Your Windows Machine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-permanently-eliminating-your-yahoo-email-account-a-comprehensive-tutorial/"><u>Guide to Permanently Eliminating Your Yahoo Email Account: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-12-pro-max-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 12 Pro Max Space | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-restrict-windows-11-from-monitoring-you/"><u>How to Restrict Windows 11 From Monitoring You</u></a></li>
+<li><a href="https://win11.techidaily.com/instruction-on-reverting-windows-control-panel-preferences/"><u>Instruction on Reverting Windows Control Panel Preferences</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-live-streaming-for-peak-engagement-for-2024/"><u>Mastering Live Streaming for Peak Engagement for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/re-enrollment-a-guide-to-resurrecting-microsoft-store-apps/"><u>Re-Enrollment: A Guide to Resurrecting Microsoft Store Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/revealing-the-extremes-processor-stages-in-windows/"><u>Revealing the Extremes: Processor Stages in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-rename-microsoft-admin-on-your-windows-11-system/"><u>Securely Rename Microsoft Admin on Your Windows 11 System</u></a></li>
+<li><a href="https://win11.techidaily.com/temporarily-counteracting-windows-11-security-in-4-ways/"><u>Temporarily Counteracting Windows 11 Security in 4 Ways</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/user-testimonials-in-action-mac-videos/"><u>User Testimonials in Action: Mac Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-excellence-a-guide-to-seamlessly-implement-optional-features/"><u>Windows Excellence: A Guide to Seamlessly Implement Optional Features</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-timeout-achieve-synchronized-timestamps/"><u>Windows Timeout: Achieve Synchronized Timestamps</u></a></li>
 </ul></div>
 

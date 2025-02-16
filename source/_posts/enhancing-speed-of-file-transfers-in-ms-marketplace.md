@@ -1,7 +1,7 @@
 ---
 title: Enhancing Speed of File Transfers in MS Marketplace
-date: 2025-02-02T04:26:53.147Z
-updated: 2025-02-04T02:39:09.239Z
+date: 2025-02-09T02:08:10.635Z
+updated: 2025-02-15T22:14:02.402Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
  If you are getting a slower download speed across all your internet-based apps, check out our guide on[how to boost your internet speed](https://www.makeuseof.com/tag/10-ways-to-improve-the-speed-of-your-current-router/) . If this guide resolves the slow downloading issue, you're good to go. But if you're still facing the problem, contact your internet service provider (ISP).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Close Network-Consuming Applications
@@ -47,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 1. In the Task Manager, right-click on the Microsoft Store.
 2. Click on the**Efficiency mode** option from the context menu.  
 ![Disabling the Efficiency Mode of the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disabling-the-efficiency-mode.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, restart your computer and check if there's any improvement in the downloading speed.
 
@@ -78,13 +74,17 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 ![Percentage of measured bandwidth (measured against the updates source) option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/percentage-of-measured-bandwidth-measured-against-the-updates-source.jpg)
 6. Check the **Limit how much bandwidth is used for downloading updates in the background** option, and drag the slider to**100%.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Then, check the **Limit how much bandwidth is used for downloading updates in the foreground** option and drag the slider to**100%.**  
 ![Limit how much bandwidth is used for downloading updates in the foreground option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/limit-how-much-bandwidth-is-used-for-downloading-updates-in-the-foreground.jpg)
 
  That's it. Check if there is an improvement in the downloading speed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Clear the Microsoft Store Cache Data
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 ![wsreset command in the Command Prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/wsreset-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Switch to the Google Public DNS
@@ -113,17 +113,13 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 ![Change Adapter settings option in Windows 11 Network and Sharing center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Change-Adapter-settings.jpg)
 5. Right-click on the connected network and choose**Properties.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Double-click on the**Internet Protocol Version 4 (TCP/IPv4)** and select the**Use the following DNS server addresses** bulletin.
 7. Type**8.8.8.8** in the**Preferred DNS** **server** box and**8.8.4.4** in the**Alternate DNS** **server** box.  
 ![Configuring the Google Public DNS in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-public-dns.jpg)
 8. Click**OK** to save the settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Re-register the Microsoft Store
@@ -151,6 +147,10 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 ![Reset now button to reset the network settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-now-button.jpg)
 4. Click**Yes** to the confirmation box that appears.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Improve Your Microsoft Store Download Speed
 
  Microsoft Store is the go-to place to download games and apps on a Windows computer. But sometimes, misconfigured Windows settings, a temporary glitch, or network-hogging applications running in the background can slow down the download speed on the Microsoft Store. Fortunately, you can quickly fix this issue by applying the above fixes.
@@ -170,24 +170,19 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-the-mechanics-of-whatsapp-voice-conversations/"><u>2024 Approved Understanding the Mechanics of WhatsApp Voice Conversations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-ai-with-vector-database-technology/"><u>Boosting AI with Vector Database Technology</u></a></li>
-<li><a href="https://win11.techidaily.com/creating-an-autohotkey-aided-window-speech-to-text-application/"><u>Creating an AutoHotkey-Aided, Window Speech-to-Text Application</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-safety-of-information-on-chatgpt-platforms/"><u>Exploring the Safety of Information on ChatGPT Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/fixed-backgrounds-in-a-dynamic-windows-world/"><u>Fixed Backgrounds in a Dynamic Windows World</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-error-code-0x800f0922-on-windows-11-updates/"><u>How to Fix Error Code 0X800F0922 on Windows 11 Updates</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-video-url-minification-the-best-tools-for-youtubers-convenience/"><u>In 2024, Video URL Minification The Best Tools for Youtubers' Convenience</u></a></li>
-<li><a href="https://win11.techidaily.com/lowering-the-high-resource-usage-by-ntoskrnlexe/"><u>Lowering the High Resource Usage by Ntoskrnl.exe</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-meaning-of-windows-mbr-error-messages/"><u>Mastering the Meaning of Windows MBR Error Messages</u></a></li>
-<li><a href="https://win11.techidaily.com/microsoft-store-repair-correcting-error-0x00000000-in-windows-10/"><u>Microsoft Store Repair: Correcting Error 0X00000000 in Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/no-need-for-windows-subsystem/"><u>No Need for Windows Subsystem</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-disconnects-with-nvidia-geforce-support-on-win10win11/"><u>Resolving Disconnects with Nvidia GeForce Support on Win10/Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/stopping-windows-from-always-entering-bios-at-system-restart/"><u>Stopping Windows From Always Entering BIOS at System Restart</u></a></li>
-<li><a href="https://win11.techidaily.com/tailored-for-success-maximizing-windows-10-and-11-pin-length/"><u>Tailored for Success: Maximizing Windows 10 & 11 PIN Length</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tailoring-text-with-chatgpt-teach-it-your-writing-style/"><u>Tailoring Text with ChatGPT: Teach It Your Writing Style</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-expert-insights-on-computer-components/"><u>Tom's Tech Hub: Expert Insights on Computer Components</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-unresponsive-click-components-in-win11/"><u>Troubleshooting Unresponsive Click Components in Win11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-mastering-the-art-of-connecting-your-devices-with-bose-soundlink/"><u>Ultimate Guide: Mastering the Art of Connecting Your Devices with Bose SoundLink</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-products-best-free-and-paid-macpc-video-decoders/"><u>[New] Prime Products Best Free & Paid Mac/PC Video Decoders</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-crafting-compelling-narratives-the-top-8-educational-hubs-for-2024/"><u>[Updated] Crafting Compelling Narratives The Top 8 Educational Hubs for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-visual-stories-in-minutes-using-windows-8-movie-maker/"><u>[Updated] Crafting Visual Stories in Minutes Using Window's 8 Movie Maker</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-honor-70-lite-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Honor 70 Lite 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-hot.techidaily.com/comment-fabriquer-un-peripherique-amovible-bootable-pour-windows-11-legacy-ou-uefi/"><u>Comment Fabriquer Un Périphérique Amovible Bootable Pour Windows 11 : Legacy Ou UEFI</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-network-unavailable-in-windows-xp7/"><u>Correcting Network Unavailable in Windows XP/7</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/diagnosing-scanner-issues-expert-advice-by-yl-computing-and-yl-software/"><u>Diagnosing Scanner Issues: Expert Advice by YL Computing & YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-failed-to-connect-usb-device-error-in-virtualbox-virtually-speaking/"><u>Fixing Failed to Connect USB Device Error in VirtualBox, Virtually Speaking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-tool-quickly-transform-wav-files-into-m4a-format-with-movavi/"><u>Free Online Tool: Quickly Transform WAV Files Into M4A Format with Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-self-extraction-power-with-the-newest-windows/"><u>Harnessing Self-Extraction Power with the Newest Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-sony-xperia-10-v-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Sony Xperia 10 V Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-vanguards-user-mode-service-issues-in-windows/"><u>Navigating Through Vanguard’s User-Mode Service Issues in Windows</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-t2-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-lost-changes-made-by-nvidia-gui-on-win11-systems/"><u>Restoring Lost Changes Made by Nvidia GUI on Win11 Systems</u></a></li>
 </ul></div>
 

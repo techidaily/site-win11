@@ -1,7 +1,7 @@
 ---
 title: Five Command Line Charades for a Chuckle
-date: 2025-02-03T00:12:28.482Z
-updated: 2025-02-04T06:07:54.629Z
+date: 2025-02-14T22:55:47.528Z
+updated: 2025-02-15T18:17:47.377Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Customize Your Look
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 ![screenshot of a customized command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_customized_cmd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You may know this one already, as it can be a great tool to play around with for accessibility purposes. Command Prompt can be fully customized, from background and text color, font, opacity, and more.
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
  You can make some pretty ridiculous Command Prompts this way, or further refine the window to your exact needs. The features are so extensive that it might be worth brushing up on [customizing the command prompt](https://www.makeuseof.com/windows-customize-command-prompt/) if it's something that interests you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Watch Star Wars on Command Prompt
@@ -67,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 2. **starwars**
 
  Lean back and enjoy a bizarre recreation of Star Wars!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. More Telnet Fun: Command Prompt Aquarium
 
@@ -94,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
  It's relatively useless outside organizing multiple Command Prompts, but it's a fun detail to keep in mind.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Trace Where Your Data Goes
 
  This one is as fun as it is interesting, and it has legitimate uses in networking and troubleshooting.
@@ -106,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
 [Consider reading more about Traceroute](https://www.makeuseof.com/traceroute-what-is-it/), as it can be helpful in network troubleshooting as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Shut Down Your Computer Without the Mouse or Power Button
 
 ![screenshot of the shutdown command in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_shutdown_command_cmd.jpg)
@@ -119,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
  All it requires is inputting the command **shutdown /s**. If you're feeling fancy, you can restart your device the same way using **shutdown /r.**
 
  Is there much purpose to this command? If you're working with batch files, maybe, but the average user might just prefer to shut down their computer the usual way. This command might not have much practical use, but it's a fun trick all the same.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fun With Command Prompt
 
@@ -136,22 +136,21 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-master-download-manager-facebook-and-firefox-edition-tools/"><u>[New] 2024 Approved Master Download Manager Facebook & FireFox Edition Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-transform-meetings-with-easy-to-follow-zoom-sharing-tips/"><u>[New] In 2024, Transform Meetings with Easy-to-Follow Zoom Sharing Tips</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-how-to-get-paid-to-review-products-on-youtube-for-2024/"><u>[Updated] How to Get Paid to Review Products on YouTube for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-guide-rectify-obs-studio-errors-on-win-11/"><u>Essential Guide: Rectify OBS Studio Errors on Win 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-emotion-to-entertainment-the-artisans-approach-to-making-memes-gifs/"><u>From Emotion to Entertainment The Artisan’s Approach to Making Memes (GIFs)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-data-recovery-recover-lost-data-from-honor-90-lite-by-fonelab-android-recover-data/"><u>Honor Data Recovery – recover lost data from Honor 90 Lite</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-digital-still-extraction-windows-11-guide-for-videos/"><u>In 2024, Digital Still Extraction Windows 11 Guide for Videos</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-file-type-alteration/"><u>Navigating Windows File Type Alteration</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-microsoft-store-error-0x80073cf3-in-windows-11/"><u>Resolving Microsoft Store Error 0X80073CF3 in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-common-itunes-malfunctions-on-a-windows-system/"><u>Solving Common iTunes Malfunctions on a Windows System</u></a></li>
-<li><a href="https://win11.techidaily.com/standardizing-the-initial-touchscreen-key-arrangement-in-windows-11/"><u>Standardizing the Initial Touchscreen Key Arrangement in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-remedy-error-0x80072f8f-0x20000-in-os/"><u>Steps to Remedy Error 0X80072f8f - 0X20000 in OS</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-freezing-excel-scrolls-on-your-windows-system/"><u>Stop Freezing Excel Scrolls on Your Windows System</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/the-quick-fix-hotkey-tricks-for-effective-program-management/"><u>The Quick Fix: Hotkey Tricks for Effective Program Management</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-understanding-the-significance-of-team-collaboration-in-cinematic-projects/"><u>Updated Understanding the Significance of Team Collaboration in Cinematic Projects</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-soulful-selection-candid-songs-that-perfectly-match-your-yes/"><u>[New] Soulful Selection Candid Songs that Perfectly Match Your 'Yes'</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-creativity-iosandroids-best-caption-apps/"><u>[Updated] Capture Creativity IOS/Android’s Best Caption Apps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-complete-rundown-on-dji-inspire-2/"><u>[Updated] In 2024, The Complete Rundown on DJI Inspire 2</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-ultimate-guide-to-choosing-best-free-srt-translators-online/"><u>[Updated] The Ultimate Guide to Choosing Best FREE SRT Translators Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-aspers-best-practices-secrets-to-deep-restful-sleep/"><u>2024 Approved Asper's Best Practices Secrets to Deep, Restful Sleep</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/beyond-increased-capabilities-a-thoughtful-look-at-the-sony-playstation-5/"><u>Beyond Increased Capabilities: A Thoughtful Look at the Sony PlayStation 5</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-list-of-narrator-commands-and-keys/"><u>Comprehensive List of Narrator Commands and Keys</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/effortless-avi-to-gif-migration-with-filmora-on-windows-and-macos-devices/"><u>Effortless AVI to GIF Migration with Filmora on Windows & macOS Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-wsl-a-complete-removal-manual/"><u>Eliminating WSL: A Complete Removal Manual</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-with-apple-studio-display-unveiled-luxurious-27-inch-5k-screen-tailored-for-mac-users-a-costly-yet-captivating-choice/"><u>Experience with Apple Studio Display Unveiled: Luxurious 27 Inch 5K Screen Tailored for Mac Users – A Costly Yet Captivating Choice!</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-playback-error-in-media-player/"><u>How to Resolve Playback Error in Media Player</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/iphotovidsyncer-seamless-imageplusvideo-playback-for-2024/"><u>IPhotoVidSyncer Seamless Image+Video Playback for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/lifetime-dormancy-protocols-for-ms-security-software/"><u>Lifetime Dormancy Protocols for MS Security Software</u></a></li>
+<li><a href="https://win11.techidaily.com/pointer-customization-a-complete-look-at-windows-11-controls/"><u>Pointer Customization: A Complete Look at Windows 11 Controls</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-on-how-to-fix-error-code-0x80071a90/"><u>Quick Guide on How To Fix Error Code: 0X80071A90</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-maintain-static-windows-11-screens/"><u>Strategies to Maintain Static Windows 11 Screens</u></a></li>
 </ul></div>
 

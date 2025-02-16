@@ -1,7 +1,7 @@
 ---
 title: "Clearing Up Access Issues: Fixing Files Not Displayed on Windows PC"
-date: 2024-07-29T15:51:38.447Z
-updated: 2024-07-30T15:51:38.447Z
+date: 2025-02-09T23:35:45.181Z
+updated: 2025-02-15T22:34:22.868Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 
  Now you know what causes this error, let's explore the solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Grant Full Control Permissions
 
  It looks like the main issue causing this error is that Windows doesn’t have sufficient permissions to access the file. To fix this, you must grant full control permissions to the account or user accessing the file. Here are the steps to follow:
@@ -34,11 +38,12 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 2. In the Properties window, go to the **Security** tab.
 3. Select the user account or group from the list and click **Edit**.
 4. Under the **Permissions** section, check the box next to **Full Control**.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Grant Full Control Permissions to an user account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/grant-full-control-permissions-to-an-user-account.jpg)
 5. Click **Apply** and **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After making these changes, try viewing the photos again and checking if the error has been resolved.
 
@@ -52,14 +57,19 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 4. Click on **Change** next to **Owner** in the top section.  
 ![Advanced Security Settings for Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/advanced-security-settings-for-folders.jpg)
 5. In the dialog box, type **Everyone** and click **Check Names**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Enter the object name to select user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enter-the-object-name-to-select-user.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. If it seems correct, click **OK**.
 2. Check the box next to **Replace owner on subcontainers and objects**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![Take Ownership of the Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/take-ownership-of-the-folder.jpg)
 3. Now click Apply. A pop-up appears and asks you to confirm the ownership change.
 4. Click **Yes** and wait for the process to finish.
@@ -74,23 +84,19 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 1. Press **Win + I** to open the Settings menu.
 2. From the left pane, click **Apps** \> **Installed apps**.
 3. Scroll down to find the **Microsoft Photos** app. You can also use the search bar to find it.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![Microsoft Photos App in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-photos-app-in-settings.jpg)
 4. Click on the three dots and select **Advanced options**.
-5. Under the **Reset** section, click the **Reset** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Under the **Reset** section, click the **Reset** button.  
 ![Reset Microsoft Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-microsoft-photos-app.jpg)
 6. If a pop-up appears, click **Reset** again to confirm your action.
 
  After that, try to open photos on your external hard drive.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## 4\. Disable UAC Temporarily
 
  You may often find that you don’t have enough permissions to perform specific tasks. In such cases, [disabling UAC](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) may do the trick. So, disable it temporarily and see if it works.
@@ -99,16 +105,11 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 
  If you're still encountering the error, try [running the Program Compatibility Troubleshooter](http://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/). This tool scans for compatibility issues with installed programs and solves them automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Open Files Without a Problem Again on Windows
 
  If you have the proper permissions, you should not encounter the "you don’t have permission to view this file” message. However, if you run into this issue, read this guide to resolve it quickly. Make sure you grant all permissions and take ownership of the folder.
 
  In this article, we explain how to fix this error, so you can view your photos again.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -116,3 +117,20 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-maximize-impact-best-practices-for-fb-video-posts/"><u>[Updated] In 2024, Maximize Impact Best Practices for FB Video Posts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fb-video-extractor-for-pc-mobile-and-mac/"><u>2024 Approved FB Video Extractor for PC, Mobile & Mac</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-comprehensive-look-at-the-newest-updates-of-lg-360-cameras-for-2024/"><u>A Comprehensive Look at the Newest Updates of LG 360 Cameras for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/audio-dimming-techniques-that-blend-perfectly-in-adobe-premiere-pro/"><u>Audio Dimming Techniques That Blend Perfectly in Adobe Premiere Pro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/cheapest-facetime-on-android-highest-rated-apps-for-2024/"><u>Cheapest FaceTime on Android Highest Rated Apps for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-x80131500-windows-appstore-issues/"><u>Correcting X80131500: Windows Appstore Issues</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-broadcasting-a-guide-to-chroma-key-excellence-for-2024/"><u>Innovative Broadcasting A Guide to Chroma Key Excellence for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-after-a-vivacious-windows-lifestyle/"><u>Resetting After a Vivacious Windows Lifestyle</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-speech-to-text-non-start-problems-in-windows/"><u>Solving Speech-to-Text Non-Start Problems in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-ensure-top-notifications-on-win-os/"><u>Strategies to Ensure Top Notifications on Win OS</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-device-management-with-windows-print-tools/"><u>Streamlining Device Management with Windows' Print Tools</u></a></li>
+</ul></div>
+

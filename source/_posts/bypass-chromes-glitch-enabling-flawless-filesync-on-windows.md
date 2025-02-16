@@ -1,7 +1,7 @@
 ---
 title: "Bypass Chrome’s Glitch: Enabling Flawless Filesync on Windows"
-date: 2024-07-29T15:51:15.078Z
-updated: 2024-07-30T15:51:15.078Z
+date: 2025-02-10T19:29:15.294Z
+updated: 2025-02-15T19:51:06.299Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
  If you're not ready to give up on your favorite browser just yet, here are some tips that should restore your ability to upload files in Google Chrome
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Start With Generic Fixes
 
  Before we get to any advanced troubleshooting tips, it’s a good idea to first try some basic solutions mentioned below.
@@ -41,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
 
  After that, try uploading files and check if the issue occurs again.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Disable Browser Extensions
 
  If you are able to upload files without issue in an incognito window, it is likely that one of your extensions is causing the problem. To identify it, you will need to disable all of the extensions and then re-enable them one at a time.
@@ -53,21 +51,13 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
 1. Open Google Chrome and click the **three-dot menu** icon in the top right corner.
 2. Hover the cursor over **More tools** and then select **Extensions** from the submenu.
 3. Use the toggles to disable all the extensions.  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable Chrome Extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-chrome-extensions.jpg)
 
  Restart Chrome after this, and then enable your extensions one at a time. You will need to upload a test file after enabling each extension until the issue occurs again. Once you find the extension that is causing the issue, consider removing it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Energy Saver Mode in Chrome
 
@@ -83,38 +73,19 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
  After completing the above steps, see if you can upload files without any issues.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Disable Your Antivirus
 
  Many third-party antivirus programs have web protection features that are intended to safeguard you while you browse the internet. However, these antivirus programs can sometimes be intrusive and prevent file uploads in Chrome.
 
  To check for this possibility, you can temporarily disable your antivirus program on Windows. To do so, simply right-click on the antivirus program's taskbar icon, and select **Disable > Disable until the next restart**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
  If this solves your problem, you will need to review the web protection settings in your antivirus program and make the necessary changes to avoid any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## 6\. Install Any Pending Google Chrome Updates
 
  Another reason why you might be unable to upload files in Google Chrome is if you are using an outdated or buggy version of the browser. Although Google Chrome typically updates automatically, this may not happen if you have not closed the browser in a while.
@@ -129,8 +100,9 @@ Key features:
  Once you have updated Chrome, your file uploads should work as expected.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Create a New Chrome Profile
 
  Issues with your Chrome profile can also cause the browser to malfunction. This could happen if your Chrome profile has become corrupted. You can try creating a new user profile in Chrome to see if that fixes the problem. Here's how to do that.
@@ -138,12 +110,17 @@ Key features:
 1. Open Google Chrome and click on your **profile icon** in the top-right corner.
 2. Select **Add** from the resulting menu.
 3. Choose whether you want to sign in with or without an account.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Set Up New Chrome Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-up-new-chrome-profile.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Switch to the newly created profile and try to upload files again. If this fixes your problem, you can consider [deleting the old Google Chrome profile](https://www.makeuseof.com/how-to-delete-google-chrome-profile/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Reset Chrome Settings
 
@@ -166,11 +143,31 @@ Key features:
 
  If you're not ready to give up on your favorite browser just yet, here are some tips that should restore your ability to upload files in Google Chrome
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-deciphering-how-t-series-earns-via-youtube/"><u>[New] In 2024, Deciphering How T-Series Earns via Youtube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-record-screen-and-upload-to-youtube-pc-mac-online/"><u>[Updated] Record Screen and Upload to YouTube [PC, Mac, Online]</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ts/"><u>網路上無障礙的電影TS版本 - 美略維</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-troubleshooting-techniques-for-renaming-folders-issue-on-windows-11/"><u>Easy Troubleshooting Techniques for Renaming Folders Issue on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/erase-unnecessary-highlighted-icon-on-win11/"><u>Erase Unnecessary Highlighted Icon on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/expertise-in-escaping-frozen-update-troubleshooter/"><u>Expertise in Escaping Frozen Update Troubleshooter</u></a></li>
+<li><a href="https://win11.techidaily.com/flip-and-turn-images-6-easy-techniques-on-your-win11-pc/"><u>Flip and Turn Images: 6 Easy Techniques on Your Win11 PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-bypassing-common-drone-mistakes-with-this-essential-checklist/"><u>In 2024, Bypassing Common Drone Mistakes with This Essential Checklist</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learning-for-living-top-10-reasons-to-be-bilingual-or-multilingual/"><u>Learning for Living: Top 10 Reasons to Be Bilingual or Multilingual</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-windows-navigation-made-simple-with-key-combinations/"><u>Quick Windows Navigation Made Simple with Key Combinations</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-integrity-to-nonworking-troubleshooters-in-modern-windows/"><u>Restoring Integrity to Nonworking Troubleshooters in Modern Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/surface-pro-8-durability-unleashed-with-brydge-sp-max-plus-the-ultimate-protective-keyboard-cover/"><u>Surface Pro #8 Durability Unleashed with Brydge SP Max Plus - The Ultimate Protective Keyboard Cover</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-6-best-online-retailers-for-tvs/"><u>The 6 Best Online Retailers for TVs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rugal-filmmakers-guide-to-affordable-camera-gear/"><u>The Frugal Filmmaker's Guide to Affordable Camera Gear</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/troubleshooting-image-free-cards-solutions-from-yl-computing/"><u>Troubleshooting Image-Free Cards: Solutions From YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-rectifying-windows-error-0x80071a90/"><u>Understanding and Rectifying Windows Error: 0X80071A90</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-how-to-manually-adjust-your-clock-region/"><u>Windows: How to Manually Adjust Your Clock Region</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Unlock Personalized Clock Settings, Bypass Automatic Windows Change
-date: 2025-01-29T21:28:58.434Z
-updated: 2025-02-04T07:28:43.039Z
+date: 2025-02-11T21:50:50.061Z
+updated: 2025-02-16T05:05:41.409Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 
  To restart your computer, save all your work and close any running applications. After that, open the Start menu and click **Restart**. Once your computer restarts, check if that fixes the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Turn on Location Services in the Settings
 
  If restarting your computer didn't fix the issue, check if location services are enabled. Location services allow Windows to automatically detect the time zone and set it accordingly.
@@ -42,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 ![Enable Location Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-location-services.jpg)
 
  Now restart your computer and check if Windows can set the time zone automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Set the Windows Time Service to Automatic
 
@@ -63,13 +63,13 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 ![Windows Time Service Status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-time-service-status.jpg)
 6. Now check the **Service status**. If it reads **Stopped**, click the **Start** button to start the service.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click **Apply** and **OK** to save the changes.
 
  Once you've done this, restart your PC and check the time zone settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Tweak the Registry Editor
 
@@ -88,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 ![Modify Registry to change the Set time zone automatically setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modify-registry-to-change-the-set-time-zone-automatically-setting.jpg)
 6. When the Edit DWORD Value window pops up, set the Value data to **3** and click **OK**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. After doing this, you must change the location setting. To do this, navigate to the following key:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\location`  
  You can also copy and paste the path into the Registry Editor address bar. Now press Enter and this directs you to the Location key.
@@ -96,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 9. In the Edit String window, type **Allow** in the **Value data** field and click OK.
 
  After that, close the Registry Editor and restart your PC. Windows should detect the time zone automatically and set it correctly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Use the Group Policy Editor
 
@@ -114,16 +114,12 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 5. In the pop-up window, check the **Not Configured** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click **Apply** and **OK** to save the changes.
 
  Now close the Group Policy Editor and restart your PC. After restarts check if your Windows detects the time zone automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reset the Windows Time Service
 
@@ -147,6 +143,10 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 2. **Perform a Clean Boot:** If that didn't work, [try a Windows clean boot](https://www.makeuseof.com/clean-boot-windows-11/). This determines if third-party applications interfere with Windows Time Service.
 3. **Update Windows:** Finally, [update Windows to the latest version](https://www.makeuseof.com/update-windows-manually/) to ensure you have all the latest fixes and security patches.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Windows Can Now Automatically Set the Time Zone
 
  We hope the article helped you resolve timing issues on your Windows computer. It may occur due to missing or corrupted system files or incorrect time zone settings. Make sure to try these solutions and perform a System Restore if the problem persists.
@@ -161,24 +161,24 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-enhancing-gameplay-with-switch-pro-a-compreran-guide-for-steam-gamers/"><u>[New] Enhancing Gameplay with Switch Pro A Compreran Guide for Steam Gamers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-the-essential-blueprint-for-home-based-podcasting/"><u>[New] The Essential Blueprint for Home-Based Podcasting</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-seamless-integration-of-fb-video-on-tv-screens/"><u>[Updated] In 2024, Seamless Integration of Fb Video on TV Screens</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-strategic-locations-to-upgrade-youtube-content-for-2024/"><u>[Updated] Strategic Locations to Upgrade YouTube Content for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-top-five-protocols-for-documenting-youtube-live-broadcasts-for-2024/"><u>[Updated] Top Five Protocols for Documenting YouTube LIVE Broadcasts for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/convert-and-save-the-quick-guide-from-esd-to-iso-format-on-pcs/"><u>Convert and Save: The Quick Guide From ESD to ISO Format on PCs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exceptional-endurance-a-moto-g-power-assessment-stellar-battery-performance-meets-style/"><u>Exceptional Endurance: A Moto G Power Assessment - Stellar Battery Performance Meets Style</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-tracking-your-path-to-epic-game-access/"><u>Fast Tracking Your Path to Epic Game Access</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-the-microsoft-store-error-on-win11-with-code-0x80073cf3/"><u>Fixing the Microsoft Store Error on Win11 with Code 0X80073cf3</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-11s-0x8007045d-blue-screen-issue/"><u>Fixing Windows 11'S 0X8007045D Blue Screen Issue</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/immerse-in-gaming-bliss-discover-the-ultimate-philips-49-curved-oled-monitor-experience/"><u>Immerse in Gaming Bliss: Discover the Ultimate Philips 49 Curved OLED Monitor Experience</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-realme-gt-5-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Realme GT 5 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-15-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 15 Plus to Android? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-rectify-disabled-windows-menu-items/"><u>Methods to Rectify Disabled Windows Menu Items</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-svchostexes-excessive-cpu-drain-in-windows-10-comprehensive-fixes/"><u>Resolving svchost.exe's Excessive CPU Drain in Windows 10 - Comprehensive Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-reduce-cpu-load-from-dropbox-applications/"><u>Techniques to Reduce CPU Load From Dropbox Applications</u></a></li>
-<li><a href="https://win11.techidaily.com/timely-updates-pick-the-superior-time-screen-savers/"><u>Timely Updates: Pick the Superior Time Screen Savers</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-inactive-shadow-copy-on-pc/"><u>Troubleshooting Inactive Shadow Copy on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/unleashing-potential-analyzing-windows-reliable-tools/"><u>Unleashing Potential: Analyzing Windows' Reliable Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-10-best-live-streaming-services-for-church-you-should-know/"><u>[New] 2024 Approved 10 Best Live Streaming Services for Church You Should Know</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-ultimate-roadmap-to-crafting-memorable-tiktok-videos/"><u>[Updated] 2024 Approved The Ultimate Roadmap to Crafting Memorable TikTok Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-boost-online-presence-innovative-youtube-channel-names-for-2024/"><u>[Updated] Boost Online Presence Innovative YouTube Channel Names for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-parrots-in-flight-a-deep-dive-into-bebops-essence/"><u>[Updated] Parrots in Flight A Deep Dive Into Bebop's Essence</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-guide-to-using-obs-in-android-for-2024/"><u>[Updated] The Ultimate Guide to Using OBS in Android for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/de-clog-your-desktop-with-order/"><u>De-Clog Your Desktop with Order</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-your-way-through-typical-anydesk-troubles-on-windows-os/"><u>Easing Your Way Through Typical AnyDesk Troubles on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-errant-apps-resolving-0xc000003e-on-windows-11-and-11/"><u>Fixing Errant Apps: Resolving 0xC000003E on Windows 11 & 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-11-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change OnePlus 11 5G Lock Screen Password?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-poco-m6-pro-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Poco M6 Pro 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-call-of-duty-vanguard-bugs-how-the-pc-edition-has-improved-by-2024/"><u>Overcoming Call of Duty Vanguard Bugs: How the PC Edition Has Improved by 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overriding-defenders-firewall-restrictions-in-win11/"><u>Overriding Defender's Firewall Restrictions in Win11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-lava-blaze-curve-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Lava Blaze Curve 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722991745791-rainbow-six-siege-connections-woes-heres-how-you-can-repair-them/"><u>Rainbow Six Siege Connections Woes? Here's How You Can Repair Them!</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-smoothness-in-windows-hellos-fingerprint-functionality/"><u>Reclaiming Smoothness in Windows Hello's Fingerprint Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-a-non-operational-discord-widget-in-your-os/"><u>Reviving a Non-Operational Discord Widget in Your OS</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-your-in-store-file-transfers-on-microsoft-devices/"><u>Revolutionize Your In-Store File Transfers on Microsoft Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-logitech-m525-mouse-experience-with-official-drivers-and-downloads/"><u>Secure Your Logitech M525 Mouse Experience with Official Drivers & Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/switching-off-geforce-visual-enhancements-on-pc/"><u>Switching Off GeForce Visual Enhancements on PC</u></a></li>
 </ul></div>
 

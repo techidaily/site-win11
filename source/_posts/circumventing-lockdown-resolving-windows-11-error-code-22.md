@@ -1,7 +1,7 @@
 ---
 title: "Circumventing Lockdown: Resolving Windows 11 Error Code 22"
-date: 2024-07-29T15:55:16.588Z
-updated: 2024-07-30T15:55:16.588Z
+date: 2025-02-12T20:07:59.709Z
+updated: 2025-02-16T03:59:30.796Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
  Fortunately, it's very easy to fix the error code 22 on Windows. Let's look at what the error code 22 means on Windows, some common reasons why it occurs, and how to quickly fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the “This Device Is Disabled (Code 22)” Error on Windows?
 
  When you connect an external device to your computer for the first time, Windows installs the driver that is compatible with the device. The device driver then establishes a connection between the removable device and Windows. This allows Windows to identify the device and use it properly.
@@ -41,16 +42,14 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 
  One of the simplest ways to fix error code 22 is to manually enable the device throwing the error. To do that, open the **Device Manager** (check how to [launch Device Manager on Windows](https://www.makeuseof.com/windows-open-device-manager/)), right-click on the problematic device, and choose **Properties**. Then, click the **Enable Device** button.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable device option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-device-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Device Manager will refresh, and the device will be back online. Check if you still get the error message. If yes, try the next solution on the list.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check for Physical Damage on the Device
 
  The error message can also stem from physical damage to your device. To confirm this, look for cracks, dents, or other signs of damage on the device. If you are using a connector, make sure it isn't bent out of shape..
@@ -58,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
  You should also look for signs of liquid damage, such as corrosion or discoloration on your device. If you find any physical damage, it is likely the culprit behind the error message. In this case, the best thing you can do is to replace the device.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Update Your Device Driver
 
  If your device driver is outdated or corrupt, you may be more likely to experience hardware device issues, such as error code 22\. The solution, in this case, is to update your device driver.
@@ -67,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
  To do this, open the **Settings app**. On the left side of the window, select **Windows Update**. Then, click the **Check for updates** button.
 
 ![Check for updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your computer will now check the Microsoft servers for updates to your current operating system, including its drivers. If any updates are found, they will be downloaded and installed automatically. Otherwise, you will see a message that says **You're up to date**.
 
@@ -82,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 
 ![Apply repairs automatically option of Hardware troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Apply-repairs-automatically.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the wizard completes, the troubleshooter will let you know of any issues it found and how to fix them.
 
 ## 5\. Clear Your Computer's CMOS
@@ -95,9 +103,6 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 
  After that, put back the cover of your computer and plug in all the devices.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## 6\. Update Your Computer's BIOS
 
  An outdated BIOS can prevent your PC from working properly with certain devices and may cause errors such as code 22\.
@@ -112,9 +117,6 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 
  To do that, start re-enabling the services you disabled for performing the clean boot until the error returns. Once you find the problematic service, consider uninstalling it or downloading its update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Perform a System Restore
 
  If you are still struggling with the error, you can [try a system restore on Windows](https://www.makeuseof.com/use-system-restore-windows/) to see if that fixes your problem. This will restore your computer to a prior point in time, which is useful if the issue started recently.
@@ -125,11 +127,31 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 
  Fortunately, it's very easy to fix the error code 22 on Windows. Let's look at what the error code 22 means on Windows, some common reasons why it occurs, and how to quickly fix it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-to-the-netgear-c3000-is-your-old-school-cable-modemrouter-still-effective/"><u>Comprehensive Guide to the Netgear C3000: Is Your Old-School Cable Modem/Router Still Effective?</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-blank-filespace-and-delete-them-using-windows-tools/"><u>Discover Blank Filespace and Delete Them Using Windows Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-0x80d03801-glitches-on-microsoft-store/"><u>Eliminating 0X80D03801 Glitches on Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-windows-update-error-0x800736cc-instantly/"><u>Eliminating Windows Update Error 0X800736CC Instantly</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-benefits-of-dxvk-on-your-windows-pc/"><u>Exploring the Benefits of DXVK on Your Windows PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-y200-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo Y200 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-z-fold-5-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-chatgpt-a-trustworthy-source-for-medical-advice/"><u>Is ChatGPT a Trustworthy Source for Medical Advice?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-fixing-fifa-2e-crashes-on-windows-machines-an-authoritative-repair-manual/"><u>Master the Art of Fixing FIFA 2E Crashes on Windows Machines - An Authoritative Repair Manual</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-new-wave-with-copilot-key-for-windows-11-enthusiasts/"><u>Navigating the New Wave with Copilot Key for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-win11s-dns-cache-a-comprehensive-guide/"><u>Resetting Win11's DNS Cache: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/solved-how-to-fix-the-issue-when-stardew-valley-fails-to-start/"><u>Solved: How to Fix the Issue When Stardew Valley Fails to Start</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-file-explorer-by-omitting-onedrive/"><u>Streamlining Your File Explorer by Omitting OneDrive</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/top-techniques-for-professional-looking-ig-video-content/"><u>Top Techniques for Professional-Looking IG Video Content</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/unlimited-singing-fun-expand-your-karaoke-playlist-with-28-new-tracks-on-karaoke-cloud-pro-updated-april-9th/"><u>Unlimited Singing Fun: Expand Your Karaoke Playlist with 28 New Tracks on Karaoke Cloud Pro, Updated April 9Th!</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-performance-reducing-boot-time/"><u>Win11 Performance: Reducing Boot Time</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721268170674-stellar-repair/"><u>スマートな画像修正ツール「Stellar Repair」、瞬時にお取りできます</u></a></li>
+</ul></div>
+

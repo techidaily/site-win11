@@ -1,7 +1,7 @@
 ---
 title: "Overcome Key Missteps: A Comprehensive Guide to Rectify Windows Non-Working Shortcuts"
-date: 2025-02-01T20:46:49.022Z
-updated: 2025-02-03T20:40:52.409Z
+date: 2025-02-11T20:01:37.376Z
+updated: 2025-02-15T16:20:29.721Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check Your Keyboard Hardware
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 
  Launch the keyboard’s app and turn off any mode that could stop keyboard shortcuts from working.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Update Keyboard Drivers
 
  If you’ve ruled out a hardware issue, let’s move on and try to figure out if there’s something wrong with your software. First, you should ensure that you’re running the latest keyboard drivers available.
@@ -53,7 +49,15 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 
 ![Update relevant keyboard driver in windows device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-relevant-keyboard-driver-in-windows-device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re using a gaming keyboard, head to the manufacturer's website and check if there’s an update available.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run the Keyboard Troubleshooter
 
@@ -65,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 4. Select **Run the troubleshooter** to start the scan.
 
 ![Running keyboard troubleshooter in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/keyboard-troubleshooter-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Enable Sticky Keys
 
@@ -78,15 +86,7 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 
 ![Sticky keys settings in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/sticky-keys-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to turn on or off Sticky Keys using a keyboard shortcut, check the box next to **Allow the shortcut key to start Sticky Keys**. This will allow you to turn it on or off by pressing **Shift** five times.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Turn On Windows 10's Hotkeys
 
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 ![Group policy editor in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/group-policy-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reset the Keyboard Settings
@@ -116,6 +116,10 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 4. Click **Add a language** and choose your preferred language
 
 ![Setting a new language in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/set-new-language-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Check Human Interface Device Service
 
@@ -132,10 +136,6 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 ## 9\. Check Third-Party Apps
 
  If you’re using a third-party app to configure your keyboard, you should take a look at its customization options. Even if you don’t own a gaming keyboard, certain apps such as [Windows' built-in PowerToys](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/), can change your keyboard layout.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Make Your Keyboard Shortcuts Work Again
 
@@ -157,16 +157,24 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-get-blessed-gospel-music-as-your-ringtone/"><u>[New] How to Get Blessed Gospel Music as Your Ringtone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-easy-ways-to-screen-record-instagram-story-for-2024/"><u>[Updated] Easy Ways to Screen Record Instagram Story for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-impact-on-employment-what-positions-are-at-risk/"><u>ChatGPT's Impact on Employment: What Positions Are at Risk?</u></a></li>
-<li><a href="https://win11.techidaily.com/curb-the-vibrant-contrast-in-windows-os/"><u>Curb the Vibrant Contrast in Windows OS</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/migliori-programmi-editoria-video-basati-su-intelligenza-artificiale-quelli-che-non-puoi-saltare-nel-2024/"><u>Migliori Programmi Editoria Video Basati Su Intelligenza Artificiale - Quelli Che Non Puoi Saltare Nel 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/perfecting-tasks-with-bar-tools-in-mspcm-for-w11/"><u>Perfecting Tasks with Bar Tools in MSPCM for W11</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-windows-update-xerror-0x80246007/"><u>Quick Fixes for Windows Update XError 0X80246007</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-to-fix-your-pcs-gpu-issues-on-windows-by-professionals-at-yl-software/"><u>Step-by-Step Guide to Fix Your PC's GPU Issues on Windows by Professionals at YL Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-strategies-to-find-the-right-surge-protector-for-your-appliances/"><u>Step-by-Step Strategies to Find the Right Surge Protector for Your Appliances</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-brightening-your-windows-11-cursor/"><u>Step-by-Step: Brightening Your Windows 11 Cursor</u></a></li>
-<li><a href="https://win11.techidaily.com/the-evolution-of-windows-marching-towards-feb23/"><u>The Evolution of Windows: Marching Towards FEB23</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-shots-to-screens-the-importance-of-camera-lenses-in-vlogs-for-2024/"><u>[New] From Shots to Screens The Importance of Camera Lenses in Vlogs for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-complete-assessment-of-macos-and-screenflow-v4/"><u>[Updated] 2024 Approved Complete Assessment of macOS and ScreenFlow V4</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ideal-slide-show-apps-from-iphone-6-to-xs-max-for-2024/"><u>[Updated] Ideal Slide Show Apps From iPhone 6 to XS Max for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/are-you-getting-value-from-your-applecareplus-coverage/"><u>Are You Getting Value From Your AppleCare+ Coverage?</u></a></li>
+<li><a href="https://win11.techidaily.com/costs-beyond-price-the-reality-of-affordable-windows-licenses/"><u>Costs Beyond Price: The Reality of Affordable Windows Licenses</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-net-neutrality-everything-you-need-to-know/"><u>Demystifying Net Neutrality: Everything You Need To Know</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-ui-incorporating-an-indicator-of-current-weather-on-your-pcs-taskbar/"><u>Enhancing UI: Incorporating an Indicator of Current Weather on Your PC's Taskbar</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unlocking-the-secrets-of-facebooks-live-feature/"><u>In 2024, Unlocking the Secrets of Facebook's Live Feature</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-gpt-3-enabling-web-browser-and-plugin-beta/"><u>Mastering GPT-3: Enabling Web Browser & Plugin Beta</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-security-excluding-bitlocker-options/"><u>Navigating Windows Security: Excluding BitLocker Options</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-sluggish-excel-on-windows-desktop-computers/"><u>Overcoming Sluggish Excel on Windows Desktop Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/rediscover-lost-controllers-with-ease-on-windows-steam/"><u>Rediscover Lost Controllers with Ease on Windows Steam</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-roar-of-victory-resolving-fortnites-sound-problems-easily/"><u>Revive the Roar of Victory: Resolving Fortnite's Sound Problems Easily</u></a></li>
+<li><a href="https://fox-http.techidaily.com/revolutionizing-art-into-nfts-top-7-tools-explored-for-2024/"><u>Revolutionizing Art Into NFTs - Top 7 Tools Explored for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-steps-for-transforming-cr2-photos-into-compatible-jpgs-in-windows/"><u>Simple Steps for Transforming CR2 Photos Into Compatible JPGs in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-flawless-windows-performance-using-pct/"><u>Unleash Flawless Windows Performance Using PCT</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unveiling-the-mystery-of-english-language-contractions-and-their-usage/"><u>Unveiling the Mystery of English Language Contractions and Their Usage</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-freeze-no-more-disabling-autolock/"><u>Windows Freeze No More: Disabling AutoLock</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-transformed-lost-aesthetic-aspects/"><u>Windows Transformed: Lost Aesthetic Aspects</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Install and Set Up Windows 11 Without an Internet Connection
-date: 2025-02-02T22:48:09.984Z
-updated: 2025-02-03T22:56:18.143Z
+date: 2025-02-14T18:21:24.085Z
+updated: 2025-02-15T21:48:08.508Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Does Windows 11's Setup Require an Internet Connection?
 
@@ -58,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 4. Click **Install Now.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Windows 11 setup i dont have product key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-i-dont-have-product-key.jpg)
@@ -76,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![oobe bypass nro command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/oobe-bypass-nro-command-prompt.jpg)
 2. In the Command Prompt window, type the following command and press **Enter**:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `OOBE\BYPASSNRO`
 3. Upon successful execution, your system will restart and relaunch the OOBE dialog.  
 ![Windows-11-setup-select-installation-i-don't-have-internet-connection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-i-don-t-have-internet-connection.jpg)
@@ -89,7 +81,15 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![Windows 11 setup select installation continue with limited setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-continue-with-limited-setup.jpg)
 6. Accept the **License Agreement** and proceed to create your local user account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure to add security questions. This will help you recover your local user account in case you forget your password. Once done, follow the on-screen instructions to complete the setup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. End Network Connection Flow Process Using Task Manager
 
@@ -104,14 +104,14 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![open task manager command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/open-task-manager-command-prompt.png)
 3. Alternatively, use the **Ctrl + Shift + Esc** shortcut to launch Task Manager without Command Prompt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **More Details** to open Task Manager in full view.
 5. In the **Processes** tab, locate **Network Connection Flow.** Use the search bar in Task Manager to find the Network Connection Flow process.  
 ![Windows 11 setup select installation task manager kill network connection flow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-task-manager-kill-network-connection-flow.jpg)
 6. Select the **Network Connection Flow** process and then click the **End task** button. Wait for the process to end and then close the Task Manager.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Type **exit** in the Command Prompt and hit enter.
 
@@ -122,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![end network connection flow command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/end-network-connection-flow-command-prompt.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you are unable to end the Network Connect Flow through Task Manager, you can directly kill it using the Command Prompt. Here’s how to do it.
@@ -133,7 +133,7 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 3. Once executed, close the Command Prompt window to continue with the setup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Skip Let’s Connect You to a Network Page with Alt + F4
@@ -162,22 +162,24 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-fostering-resilience-in-the-face-of-cyber-haters-for-2024/"><u>[New] Fostering Resilience in the Face of Cyber Haters for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-unveiling-luxury-transforming-standard-shipments-into-memories/"><u>[New] In 2024, Unveiling Luxury Transforming Standard Shipments Into Memories</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-engaging-verbal-communicator-study-part-8/"><u>[Updated] Engaging Verbal Communicator Study, Part 8</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-ignite-a-sizzling-online-presence-with-these-instagram-9-strategies/"><u>[Updated] Ignite a Sizzling Online Presence with These Instagram #9 Strategies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-video-file-cant-be-played-problem-with-error-22403/"><u>How to Overcome 'Video File Can't Be Played' Problem with Error 22403</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-cutting-edge-video-editing-strategies-for-impactful-obs-content/"><u>In 2024, Cutting-Edge Video Editing Strategies for Impactful OBS Content</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On iPhone 12 mini?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-xiaomi-redmi-k70e-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Xiaomi Redmi K70E Phone?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-motorola-g24-power-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Motorola G24 Power</u></a></li>
-<li><a href="https://win11.techidaily.com/iphonespecific-quicktime/"><u>IPhonespecific QuickTimeムービー視聴・再生に支障があります - 解消策</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-youtube-to-mp3-conversion-using-vidtomp3-solving-common-issues-and-fixes/"><u>Mastering YouTube-to-MP3 Conversion Using VidToMp3 – Solving Common Issues & Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/mp4-to-mp3-in-a-flash-master-the-art-of-quick-video-to-audio-file-conversions/"><u>MP4 to MP3 in a Flash! Master the Art of Quick Video-to-Audio File Conversions</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-your-website-with-quick-and-effective-video-downsizing-methods/"><u>Optimizing Your Website with Quick and Effective Video Downsizing Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/ps4-pro-dvd-plays-flawlessly-ultimate-troubleshooting-guide/"><u>PS4 Pro DVD Plays Flawlessly: Ultimate Troubleshooting Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/recent-update-reveals-true-identity-of-9-anime-series/"><u>Recent Update Reveals True Identity of 9 Anime Series</u></a></li>
-<li><a href="https://win11.techidaily.com/risk-free-deal-on-factorypro-for-ipads-professional-video-conversion-software-now-available-online/"><u>Risk-Free Deal on FactoryPro for iPads – Professional Video Conversion Software Now Available Online!</u></a></li>
-<li><a href="https://win11.techidaily.com/iuocpoodoeodvoocuoobiplusociewniplusocgeocipluswlleeuupluswitus9ndrjgrnjg4bjg4pjg5fjg5djgqtjgrnjg4bjg4pjg5fjgqzjgqtjg4ki/"><u>イメージから始める動画制作:ステップバイステップガイド</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-expert-evaluation-best-action-capture-systems/"><u>[Updated] Expert Evaluation Best Action Capture Systems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/100-killer-facebook-bios-to-make-profile-attractive2/"><u>100 Killer Facebook Bios to Make Profile Attractive2</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-blueprint-for-viral-video-mastery/"><u>2024 Approved The Blueprint for Viral Video Mastery</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-measures-to-resolve-windows-service-not-responding-errors/"><u>Effective Measures to Resolve Windows' 'Service Not Responding' Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-multilingual-translation-with-windows-shortcut-hotkeys/"><u>Efficient Multilingual Translation with Windows Shortcut Hotkeys</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-strategies-to-fix-delayed-start-up-response-addressing-error-1053/"><u>Efficient Strategies to Fix Delayed Start-Up Response - Addressing Error 1053</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-user-experience-in-win11-with-customized-cmd-shortcuts/"><u>Enhance User Experience in Win11 with Customized Cmd Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-effortless-device-cooperation-between-android-and-pc/"><u>Exploring Effortless Device Cooperation Between Android and PC</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/er-free-video-conversion-the-best-alternatives-for-youtube-upload-for-2024/"><u>Flutter Free Video Conversion The Best Alternatives for YouTube Upload for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/get-started-fast-one-click-android-apk-installation-guide-on-w11/"><u>Get Started Fast: One Click Android APK Installation Guide on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/gratis-gems-a-compreeled-list-for-superior-windows-11-use/"><u>Gratis Gems: A Compreeled List for Superior Windows 11 Use</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-effortlessly-gain-premium-quality-pictures-online-for-2024/"><u>How to Effortlessly Gain Premium Quality Pictures Online for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-chrome-opening-new-tabs-by-itself-on-windows/"><u>How to Fix Chrome Opening New Tabs by Itself on Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-k70-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Xiaomi Redmi K70 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-your-images-in-canva-without-clutter/"><u>In 2024, Streamline Your Images in Canva Without Clutter</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-file-download-problems-on-windows-11-and-11-pcs-2/"><u>Solving File Download Problems on Windows 11 & 11 PCs (2)</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-tapestry-woven-together-windows-for-iosipados-pc-unveiled/"><u>Tech Tapestry Woven Together: Windows for iOS/iPadOS, PC Unveiled</u></a></li>
 </ul></div>
 

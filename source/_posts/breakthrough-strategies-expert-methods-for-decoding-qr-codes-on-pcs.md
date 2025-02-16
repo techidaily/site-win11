@@ -1,7 +1,7 @@
 ---
 title: "Breakthrough Strategies: Expert Methods for Decoding QR Codes on PCs"
-date: 2024-07-29T15:53:08.928Z
-updated: 2024-07-30T15:53:08.928Z
+date: 2025-02-08T18:22:18.378Z
+updated: 2025-02-15T16:54:46.553Z
 tags:
   - windows10
   - windows11
@@ -17,8 +17,9 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 ## Breakthrough Strategies: Expert Methods for Decoding QR Codes on PCs
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Scan QR Codes Using the Windows Camera App](#how-to-scan-qr-codes-using-the-windows-camera-app)
@@ -26,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 * [How to Scan QR Codes Using the Codex App on Windows](#how-to-scan-qr-codes-using-the-codex-app-on-windows)
 
  You're probably used to scanning QR codes with your smartphone to access email addresses, phone numbers, and website links. But how do you scan them on a Windows PC without your phone? Let's see.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. How to Scan QR Codes Using the Windows Camera App
 
@@ -45,20 +50,16 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 4. Enable the toggle next to **Try out new experimental features**.  
 ![Enable Experimental Features in Windows Camera](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enable-experimental-features-in-windows-camera.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart the Camera app after completing the above steps, and you should see the QR code scanner option.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Scan QR Codes From an Image on Windows
 
  Although the Windows Camera app makes it simple to scan QR codes, it has some limitations. The biggest hurdle is that it can't scan QR codes from existing images on your computer. To do this, you can use an online QR code scanning service. Here's how:
@@ -66,15 +67,13 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 1. Open any web browser and head to the [ScanQR](https://scanqr.org/) website.
 2. Under the **Scan QR code from image** section, click the **Drag & Drop or Browse** option.
 3. Select the image containing the QR code from your computer and click **Open**.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Scan QR Code From an Image Using an Online Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/scan-qr-code-from-an-image-using-an-online-service.jpg)
 4. Once you upload the image, the website should scan it automatically and show the result in the **Scanned Data** box. You can copy the result from there if you want.  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Scan QR Code From an Image on Windows PC Using an Online Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/scan-qr-code-from-an-image-on-windows-pc-using-an-online-service-copy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Scan QR Codes Using the Codex App on Windows
 
@@ -84,17 +83,11 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 
 1. [Download and install the Codex app](https://apps.microsoft.com/store/detail/codex-qr-reader-generator/9NBLGGH5M02G?hl=en-us&gl=us) on your PC, then open it.
 2. Click the **Scan QR Code** button.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Scan QR Code in Codex App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-qr-code-in-codex-app.jpg)
 3. Select the **Camera** option.
 4. Allow the Codex app permission to use the camera by selecting **Yes**.
 5. Place the QR code in front of the camera.
 6. The app will automatically scan your QR code and open it in the in-app browser.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Scan QR Code in Codex App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-qr-code-in-codex-app-on-windows.jpg)
 
  If you want to scan a QR code from an existing image on your computer, follow these steps instead:
@@ -110,11 +103,29 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 
  You're probably used to scanning QR codes with your smartphone to access email addresses, phone numbers, and website links. But how do you scan them on a Windows PC without your phone? Let's see.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-enablingdisabling-pip-on-youtube-for-ios-devices-step-by-step-guide/"><u>[New] 2024 Approved Enabling/Disabling PIP on YouTube for iOS Devices Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-beginning-virtual-conversations-zoom-meeting-setup-for-android-users/"><u>[New] Beginning Virtual Conversations Zoom Meeting Setup for Android Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-techniques-in-no-cost-windows-software-recording-for-2024/"><u>[Updated] Expert Techniques in No-Cost Windows Software Recording for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximizing-fun-finding-hot-images-at-pexelscom/"><u>2024 Approved Maximizing Fun Finding Hot Images at Pexels.com</u></a></li>
+<li><a href="https://win-able.techidaily.com/enabling-hyper-v-virtualization-on-your-pc-with-windows-11-instructions/"><u>Enabling Hyper-V Virtualization on Your PC with Windows 11 Instructions</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-visual-clarity-win11-scaling-tips/"><u>Enhancing Visual Clarity: Win11 Scaling Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/escape-01kbs-slowness-with-effective-fixes-for-valorant/"><u>Escape 0.1KB/S Slowness with Effective Fixes for Valorant</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-advice-how-to-avoid-most-common-errors-in-windows-11-as-a-beginner/"><u>Essential Advice: How to Avoid Most Common Errors in Windows 11 as a Beginner</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-inaccessible-wi-fi-connectivity-in-mc-win/"><u>Fixing Inaccessible Wi-Fi Connectivity in MC Win</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-12-pro-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 12 Pro System? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/multisystem-harmony-windows-launches-across-iphone-ipad-mac-and-windows/"><u>Multisystem Harmony: Windows Launches Across iPhone, iPad, Mac & Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/solved-usbasp-driver-troubles-on-windows-editions-10781/"><u>Solved USBasp Driver Troubles on Windows Editions (10/7/8.1)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-apple-bargains-in-july-2024-iphone-apple-watch-ipad-offers-explored-by-zdnet/"><u>Top Apple Bargains in July 2024: IPhone, Apple Watch, iPad Offers Explored by ZDNet</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/troubleshooting-and-component-swapout-techniques-by-yl-software-how-to-fix-your-computers-hardware-issues/"><u>Troubleshooting and Component Swapout Techniques by YL Software - How to Fix Your Computer's Hardware Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/win11s-hypervisorbsod-here-are-5-fixes-you-need/"><u>Win11's HYPERVISOR_BSOD? Here Are 5 Fixes You Need</u></a></li>
+</ul></div>
+

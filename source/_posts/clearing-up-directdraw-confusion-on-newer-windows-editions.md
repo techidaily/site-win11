@@ -1,7 +1,7 @@
 ---
 title: Clearing Up DirectDraw Confusion on Newer Windows Editions
-date: 2024-07-29T15:53:24.400Z
-updated: 2024-07-30T15:53:24.400Z
+date: 2025-02-14T16:35:53.724Z
+updated: 2025-02-15T20:22:43.649Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
  Consequently, players can’t play older games like Age of Empires, Might and Magic 7, and Diablo because of the DirectDraw error. The same error can also occur for art and design software. This is how you can fix the DirectDraw error on a Windows 11/10 PC.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Configure Affected Apps to Run in Compatibility Mode
 
  Running games and software in compatibility mode is a resolution that’s fixed the DirectDraw error for many users. As the DirectDraw error usually arises for older games and software, it makes sense to do so. You can set games to run in compatibility mode like this:
@@ -31,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
 2. Right-click the game’s EXE (application) file and select **Properties**.
 3. Click on **Compatibility** within the properties window.
 4. Select **Run this program in compatibility** **mode** to activate that setting’s drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Run the program in compatibility mode option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-this-program-in-compatibility-mode-for.jpg)
 5. Then select the latest Windows platform that was available in the game’s release year. If you’re not sure, choose a **Windows 8** or 7 option on the menu.
 6. Select **Apply** to set the new compatibility option.
@@ -57,12 +55,13 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
 4. Next, click on the **Display resolution** drop-down menu.  
 ![The Display resolution option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/display-resolution-setting.jpg)
 5. Select a lower-resolution option on the menu.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Resolution options in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/resolution-options.jpg)
 6. Then click the **Keep Changes** button to set the selected resolution.
 7. Try starting the game or software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable Legacy Component Features
 
@@ -75,12 +74,18 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
 4. Then select the **DirectPlay** checkbox.  
 ![The DirectPlay option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/directplay-option.jpg)
 5. Select the **.NET Framework 3.5 (includes .NET 2.0 and 3.0)** checkbox if it’s not selected.  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The .NET Framework 3.5 option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-features-options.jpg)
 6. Press **OK** to install the features.
 7. Restart Windows after installing the features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Install Missing DirectX Runtime Components
 
@@ -88,43 +93,36 @@ thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca42
 
 1. Bring up this [DirectX End-User Runtime Web Installer](https://www.microsoft.com/en-us/download/details.aspx?id=35) page in your browsing software.
 2. Press **Download** on that webpage.  
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![The Download option for Microsoft DirectX End-User Runtime](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-download-option3.jpg)
 3. [Open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/#:~:text=the%20Command%20Prompt%3A-,Press%20Win%20%2B%20R%20to%20open%20the%20Run%20command%20dialog%20box,Explorer%20and%20then%20press%20Enter.) to go to whatever folder your browser is set to download files to.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Double-click the DirectX End-User Runtime Web Installer file (otherwise **dxwebsetup.exe**) to bring up an Installing Microsoft (R) DirectX (R) window.
 5. Then click **I accept** to make your agreement with Microsoft.  
 ![The DirectX Runtime installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/directx-installer.jpg)
 6. Select **Next** to install DirectX 9, 10, and 11 runtime components.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Try Some Basic Windows Fixes
 
  If nothing has worked yet, there are some simple Windows tricks that usually fix display issues with software and games.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Update Your Video Card’s Driver
 
  This error can also feasibly occur because an outdated or corrupted graphics driver is causing DirectDraw display component issues. Installing the latest graphics driver available for your PC’s GPU could remedy such issues. Our guide to [updating GPU drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) includes instructions for installing new graphics drivers in five different ways.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The NVIDIA graphics driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/nvidia-driver-downloads-page.jpg)
 
 ### Run the Affected App in Windowed Mode
 
  Running the game or software in windowed mode can also address resolution issues. To do so, check out our article about [forcing games into windowed mode on Windows](https://www.makeuseof.com/windows-10-11-windowed-mode-games/). Follow the instructions for that guide’s third method to set the software to start in windowed mode.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![The Target box for a Windows game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/target-box-for-a-game-shortcut.jpg)
 
 ### Reinstall the Affected Game or Software
@@ -133,19 +131,17 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-option-in-epic-games.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you’ve done that, restart Windows and reinstall the game with your gaming client software. If the game has a DVD/CD, you’ll need to reinstall it with that disc.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Enjoy Your Retro Games or Apps on Windows
 
  Those are the best and most likely potential resolutions to work for fixing the DirectDraw error on Windows 11/10 PCs. One of the possible solutions in this guide will likely get the DirectDraw error sorted on your PC since many users have fixed that issue by applying them. Then you can return to playing the games that didn’t start because of that error.
 
  Consequently, players can’t play older games like Age of Empires, Might and Magic 7, and Diablo because of the DirectDraw error. The same error can also occur for art and design software. This is how you can fix the DirectDraw error on a Windows 11/10 PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -153,3 +149,20 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-pushing-boundaries-with-intova-x-action-tech/"><u>[New] Pushing Boundaries with Intova X Action Tech</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-strategic-approach-to-crafting-youtube-content-headlines/"><u>[Updated] Strategic Approach to Crafting YouTube Content Headlines</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-guide-to-smooth-video-extraction-via-funimate/"><u>2024 Approved The Ultimate Guide to Smooth Video Extraction via Funimate</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-consumer-experience-with-stellars-newly-refined-data-recovery-software-version/"><u>Enhanced Consumer Experience with Stellar’s Newly Refined Data Recovery Software Version</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/exploring-the-various-aspects-of-module-integration-projects/"><u>Exploring the Various Aspects of Module Integration Projects</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/get-ready-for-another-surge-in-spotify-subscription-costs/"><u>Get Ready for Another Surge in Spotify Subscription Costs.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-youtube-playlist-reordering-simplified/"><u>In 2024, YouTube Playlist Reordering Simplified</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-solve-error-3-in-nvidia-opengl-win1011/"><u>Strategies to Solve Error 3 in NVIDIA OpenGL (Win10/11)</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-network-connections-toolset-on-windows/"><u>Understanding Network Connections Toolset on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-device-on-windows-11-post-code-22-issue/"><u>Unlocking Device on Windows 11 Post Code 22 Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-potential-of-inbox-notifications-in-a-windows-setting/"><u>Unlocking the Potential of Inbox Notifications in a Windows Setting</u></a></li>
+</ul></div>
+

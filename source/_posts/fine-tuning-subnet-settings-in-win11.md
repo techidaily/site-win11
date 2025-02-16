@@ -1,7 +1,7 @@
 ---
 title: Fine-Tuning Subnet Settings in Win11
-date: 2025-01-30T09:47:14.683Z
-updated: 2025-02-04T08:31:20.360Z
+date: 2025-02-11T00:54:53.563Z
+updated: 2025-02-16T01:12:29.773Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,13 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
 
  In the result that appears, you can see the subnet mask under the Wireless LAN adapter Wi-Fi section.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Change the Subnet Mask in Windows 11
 
  Now that you know how to find the subnet mask on your computer, let's check out how to change it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Change the Subnet Mask Using the Windows Settings
 
@@ -74,19 +74,23 @@ Here's how to do it:
 ![Network name in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-name.jpg)
 5. Choose**Properties** from the window that appears.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select the IP version you're using. For instance, if you're using IPv4, select**Internet Protocol Version 4 (TCP/IPv4)** and click the**Properties** button.  
 ![IPv4 properties option in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ipv4-properties.jpg)
 7. Select the**Use the following address** option and enter the details.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Changing the Subnet Mask in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/changing-the-subnet-mask.jpg)
 8. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Change the Subnet Mask Using Windows PowerShell
@@ -105,11 +109,7 @@ Here's how to do it:
 ![Command to change the subnet mask in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-change-the-subnet-mask.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Changing the Subnet Mask in Windows 11
@@ -133,20 +133,17 @@ Here's how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-film-like-a-pro-scenic-filter-ideas-for-tiktok-stars/"><u>[Updated] Film Like a Pro Scenic Filter Ideas for TikTok Stars</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-viberushers-top-10-themes-betterdiscord-style-for-2024/"><u>[Updated] VibeRusher’s Top 10 Themes - BetterDiscord Style for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-snapchat-storytelling-learn-to-zoom-like-pros/"><u>2024 Approved Transform Your Snapchat Storytelling Learn to Zoom Like Pros</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unseen-strategies-how-to-tap-into-your-facebook-message-library/"><u>2024 Approved Unseen Strategies How to Tap Into Your Facebook Message Library</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-instructions-for-adding-intel-lan-drivers-to-pcs/"><u>Comprehensive Instructions for Adding Intel LAN Drivers to PCs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/dominance-index-top-ten-royale-survival-games-for-2024/"><u>Dominance Index Top Ten Royale Survival Games for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-security-add-trusted-sites-to-windows-11/"><u>Enhancing Security: Add Trusted Sites to Windows 11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-redmi-12-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Xiaomi Redmi 12 FRP Locks</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Is Fake GPS Location Spoofer a Good Choice On Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/masterful-microsoft-store-apps-await-you-2023/"><u>Masterful Microsoft Store Apps Await You, 2023</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-0x800700e1-in-surface-pro-win10/"><u>Overcoming 0X800700E1 in Surface Pro (Win10)</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-bluetooth-device-music-without-mutevolume-control/"><u>Overcoming Windows Bluetooth Device - Music Without Mute/Volume Control</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/snag-the-perfect-pair-premium-earbud-and-over-ear-deals-for-march-2-insider-tips/"><u>Snag the Perfect Pair: Premium Earbud and Over-Ear Deals for March 2^ | Insider Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-how-to-fix-no-signal-issue-when-linking-your-dvd-player-to-an-hdtv/"><u>Troubleshooting Guide: How To Fix No-Signal Issue When Linking Your DVD Player to an HDTV</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11s-leap-forward-unpacking-patch-release-wxx-features/"><u>Windows 11'S Leap Forward: Unpacking Patch Release W.x.x Features</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-practical-steps-in-mastering-telegram-web-services-for-2024/"><u>[New] Practical Steps in Mastering Telegram Web Services for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/creating-an-intuitive-taskbar-experience-on-windows-11-tablets/"><u>Creating an Intuitive Taskbar Experience on Windows 11 Tablets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/demystifying-the-livekernelevent-error-144-tips-to-get-your-system-running-smoothly-again/"><u>Demystifying the LiveKernelEvent Error 144 – Tips to Get Your System Running Smoothly Again</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/faceoff-of-giants-comparing-llama-3-and-gpt-n-to-find-the-best/"><u>Faceoff of Giants: Comparing Llama 3 and GPT-N to Find the Best</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mitigating-graphics-driver-fails-without-system-lockup/"><u>Mitigating Graphics Driver Fails Without System Lockup</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-showdown-ps5-versus-low-cost-gaming-machine/"><u>Next-Gen Showdown: PS5 Versus Low-Cost Gaming Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-connection-reestablishing-obs-link-on-pc-top-7-strategies/"><u>Seamless Connection: Reestablishing OBS Link on PC (Top 7 Strategies)</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-triadic-widget-display-for-enhanced-productivity/"><u>Setting up Triadic Widget Display for Enhanced Productivity</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-reviving-non-responsive-ctrl-in-windows-11/"><u>Troubleshooting: Reviving Non-Responsive Ctrl in Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ate-selection-10-budget-friendly-youtube-caption-tools/"><u>Ultimate Selection 10 Budget-Friendly YouTube Caption Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-fast-steam-downloads-on-windows-systems/"><u>Unlock Fast Steam Downloads on Windows Systems</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-best-video-highlight-makers-for-pc-mac-android-and-ios/"><u>Updated In 2024, Best Video Highlight Makers for PC, Mac, Android, and iOS</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Charting the Course for User SID Discovery on Windows 11
-date: 2024-07-29T15:55:20.026Z
-updated: 2024-07-30T15:55:20.026Z
+date: 2025-02-12T19:48:59.971Z
+updated: 2025-02-15T22:31:18.251Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/3afd30f31da7656743dda52f15a6af22d0fe17904
 
  The most common means to find a SID on Windows is using the "whoami"command. But there are several other ways to view the SID of one or all users on your Windows PC. Let’s discuss them in detail.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Using the Command Prompt
 
  The simplest way to check the SID of the currently logged-in user on your PC is by using the whoami command. It will display the SID with the help of the “user” argument with the command. The only drawback is that it cannot display more than one user’s SID.
@@ -36,9 +40,6 @@ whoami /user > C:\SID.txt
 5. The above command will create a text file named **SID** in the **C** drive. You can open it with Notepad or any other text editor app.
 6. Close the Command Prompt window.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Using WMIC
 
  You can easily view the SID of all the users or a single user on your PC using the WMIC command-line tool. You don’t need to [open an elevated Command Prompt window](https://www.makeuseof.com/windows-run-command-prompt-admin/) for using WMIC to view the SIDs.
@@ -51,11 +52,13 @@ wmic useraccount get name,sid
 3. The above command will display the user name and the corresponding SID of all the user accounts. In our instance, it shows three local accounts (a,b, and t), and the administrator, guest, default account, and WDAGUtility account.
 4. You can export all this data into a text file on the D drive by executing the following command:  
 wmic useraccount get name,sid > D:\SID.txt  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check SID Using the WMIC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-wmic-1.jpg)
 5. If you want to get the details of a specific user account on your PC, the syntax of the command is:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 wmic useraccount where name="USER" get sid
 6. Replace the **USER** part of the command with an actual username. In our case, the command becomes:  
 wmic useraccount where name="a" get sid  
@@ -63,8 +66,13 @@ wmic useraccount where name="a" get sid
 7. Close the Command Prompt window.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Using a PowerShell Cmdlet
 
  PowerShell offers the Get-WmiObject cmdlet using which you can view the SID of all the user accounts on a Windows PC. Like the WMIC method, you can view the SIDs of all users with a single command.
@@ -75,19 +83,12 @@ wmic useraccount where name="a" get sid
 2. The User Account Control window will pop up. Click on the **Yes** button to open the app with admin rights if prompted.
 3. Type the following command and press the Enter key:  
 Get-WmiObject win32_useraccount | Select name,sid  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check SID Using the Powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-powershell-1.jpg)
 4. The above command will display all the user accounts and their respective SIDs. To export the results in a text file, execute the following command:  
 Get-WmiObject win32_useraccount | Select name,sid > C:\SID.txt
 5. The command will save the file in the **C** drive. Visit the location using File Explorer and open the file in a text editor app.
 6. Close the PowerShell window.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## 4\. Using the Registry Editor
 
  If the Command Prompt or [PowerShell isn’t working on your PC](https://www.makeuseof.com/windows-powershell-has-stopped-working-error-fix/), you can use the Registry Editor to view all the SIDs on your PC. This method isn’t as convenient as viewing the complete SID list in the terminal or in a text file. You will have to do some manual digging to find the SIDs and their user name.
@@ -104,6 +105,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
 6. Similarly, you can check the other SID keys and open their **ProfileImagePath** value to find their corresponding user name.
 7. Close the Registry Editor app afterward.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Using a Batch File
 
  If you find the Terminal route cumbersome, you can create a batch file to display the SID of all the users at once. Repeat the following steps to create a batch file:
@@ -116,9 +121,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
  cmd.exe /k wmic useraccount get name,sid  
  pause`
 5. Press **Ctrl + Shift + S** to open the **Save as** window. Keep the file name as **SID.bat** and the **Save as Type** field as **All Files**.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Check SID Using the Batch FIle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-batch-file-1.jpg)
 6. Navigate to the folder location where you saved the batch file. Double-click on it to run it.
 7. A Terminal window will launch and display all the users on your PC and their respective SIDs.  
@@ -132,11 +134,31 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
 
  The most common means to find a SID on Windows is using the "whoami"command. But there are several other ways to view the SID of one or all users on your Windows PC. Let’s discuss them in detail.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-post-tweets-on-facebook/"><u>[New] 2024 Approved How to Post Tweets on Facebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fundamental-tale-structuring/"><u>[New] Fundamental Tale Structuring</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-xiaomi-redmi-k70-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Xiaomi Redmi K70 to Roku | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/crop-resize-and-reform-mastering-video-shape-editing/"><u>Crop, Resize, and Reform Mastering Video Shape Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-mystery-how-to-rectify-microsoft-store-error-0x80072efd/"><u>Decoding the Mystery: How to Rectify Microsoft Store Error 0X80072EFD</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-photo-editing-the-eraser-guide-in-psx/"><u>In 2024, Mastering Photo Editing The Eraser Guide in PSX</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-maximizing-memories-the-ultimate-guide-for-overwatch-players/"><u>In 2024, Maximizing Memories The Ultimate Guide for Overwatch Players</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-m4aavi/"><u>Movavi에서 쉽게 M4A/AVI 형식 변환 기술 - 무료 오프라인 도구</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/portable-fun-for-less-exploring-the-features-and-performance-of-nintendos-switch-lite/"><u>Portable Fun for Less: Exploring the Features and Performance of Nintendo's Switch Lite</u></a></li>
+<li><a href="https://win11.techidaily.com/solution-for-windows-11-recovering-absent-pin-post-update/"><u>Solution for Windows 11: Recovering Absent PIN Post-Update</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-win11-wm-peakgpu-issues-7-strategies/"><u>Taming Win11 WM PeakGPU Issues (7 Strategies)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/thwarting-vr-discomfort-tips-for-a-smooth-experience/"><u>Thwarting VR Discomfort Tips for a Smooth Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-preventing-pc-overheating-in-gamers-laptops/"><u>Understanding and Preventing PC Overheating in Gamers’ Laptops</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-the-impact-of-sudos-arrival/"><u>Understanding the Impact of Sudo's Arrival</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-ways-to-prevent-note-clutter-in-win-os/"><u>Unveiling Ways to Prevent Note Clutter in Win OS</u></a></li>
+<li><a href="https://win11.techidaily.com/win-gaming-mastering-intel-graphics-for-live-streams/"><u>Win Gaming: Mastering Intel Graphics for Live Streams</u></a></li>
+<li><a href="https://win11.techidaily.com/win10-illustrators-guide-to-the-7-best-drawing-tools/"><u>Win10 Illustrators' Guide to the 7 Best Drawing Tools</u></a></li>
+</ul></div>
+

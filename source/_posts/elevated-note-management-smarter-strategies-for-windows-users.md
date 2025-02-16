@@ -1,7 +1,7 @@
 ---
 title: "Elevated Note Management: Smarter Strategies for Windows Users"
-date: 2025-01-29T20:18:53.669Z
-updated: 2025-02-04T03:00:07.290Z
+date: 2025-02-10T19:26:44.955Z
+updated: 2025-02-15T16:23:16.497Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use Microsoft PowerToys to Keep Sticky Notes Always on Top
 
 [Microsoft PowerToys](https://www.makeuseof.com/tag/windows-10-powertoys/) features a collection of advanced Windows customization utilities. You can use it to disable sleep mode on your PC, resize images, perform bulk renaming using search-replace, and keep apps always on top.
@@ -41,13 +45,13 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
 ![power toys always on top](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top.jpg)
 4. Next, toggle the**Enable Always on Top** switch and set it to**On** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, under**Activation** , note down the**Activation shortcut** . By default, it is set to**Win + Ctrl + T** . To change the shortcut combo, click the**Edit** button (Pencil icon) and make changes.  
 ![power toys always on top border off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top-border-off.jpg)
 6. Under**Appearances & behavior** , toggle the**Shows a border around the Pinned window** to disable the highlighted border for the pinned app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Next, open the Sticky Notes app. To do this, press the**Win** key**,** type**sticky notes** and open the app.
 8. To pin Sticky Notes, click on the app window and press**Win + Ctrl + T.** You will hear a sound when the window is pinned.
@@ -55,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
  Once pinned, Sticky Notes will always stay on top of other apps. To unpin the window, Press**Win + Ctrl + T** , and the app will act like any other open window on Windows. Make sure to allow PowerToys to run in the background for the Always On Top feature to work. Also, you’ll need to pin the apps each time you close and relaunch them.
 
  Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use DeskPins to Pin Sticky Notes
 
@@ -70,29 +78,21 @@ To pin Sticky Notes using DeskPins:
 ![desk pins system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-system-tray.jpg)
 4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
 5. Next, click on the**Sticky Note** app window to keep it always on top.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click the**Pin** icon to unpin the window.
 
 ![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Keep Sticky Notes Always on Top in Windows 10 and 11
@@ -114,24 +114,15 @@ To pin Sticky Notes using DeskPins:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-power-of-persuasion-how-to-boost-instagram-post-reach/"><u>[New] 2024 Approved The Power of Persuasion How to Boost Instagram Post Reach</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-control-over-your-ig-content-exposure-for-2024/"><u>[New] Control Over Your IG Content Exposure for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-eight-high-performing-tablets-for-future-photography-titans/"><u>[New] Eight High-Performing Tablets for Future Photography Titans</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212265344-apex-legends-basic-anti-tamper-bug-effortless-solution-inside/"><u>Apex Legends Basic Anti-Tamper Bug - Effortless Solution Inside!</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-steps-to-handle-windows-empty-directory-claims/"><u>Comprehensive Steps to Handle Windows' Empty Directory Claims</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-common-issues-with-windows-11s-installers/"><u>Eliminating Common Issues with Windows 11'S Installers</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-inadequate-memory-notifications-in-virtual-machines/"><u>Fixing Inadequate Memory Notifications in Virtual Machines</u></a></li>
-<li><a href="https://discover-data.techidaily.com/guia-paso-a-paso-tratar-el-error-del-respaldo-de-windows-con-3-metodos-diferentes/"><u>Guía Paso a Paso: Tratar El Error Del Respaldo De Windows Con 3 Métodos Diferentes</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-7-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 7 Plus</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-disable-unrequested-file-explorer-launches/"><u>How to Disable Unrequested File Explorer Launches</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reshape-your-windows-identity-with-a-new-username/"><u>How to Reshape Your Windows Identity with a New UserName</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-magix-composition-wizard-an-audio-editing-experience/"><u>In 2024, Magix Composition Wizard An Audio Editing Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/razer-synapse-recovery-guide-steps-to-revive-in-windows/"><u>Razer Synapse Recovery Guide: Steps to Revive in Windows</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/l-broadcast-battleground-fb-live-yt-live-twitvision/"><u>Social Broadcast Battleground FB Live, YT Live, TwitVision</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-evolution-from-calculators-to-comedians-tracing-the-humor-in-artificial-intelligence/"><u>The Evolution From Calculators to Comedians: Tracing the Humor in Artificial Intelligence</u></a></li>
-<li><a href="https://win11.techidaily.com/the-hidden-flaws-in-windows-modern-standby-tech/"><u>The Hidden Flaws in Windows Modern Standby Tech</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-creative-communication-get-free-voice-effects-today-for-2024/"><u>Unlock Creative Communication - Get FREE Voice Effects Today for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-complexity-of-error-0x8007251d-solutions/"><u>Unraveling the Complexity of Error 0X8007251D: Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-strategy-for-allocated-memory-management/"><u>Windows' Strategy for Allocated Memory Management</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-best-live-streaming-tools-exploring-manycam-virtual-camera-and-screen-capture-solutions/"><u>1. Best Live Streaming Tools: Exploring ManyCam - Virtual Camera and Screen Capture Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-latest-on-tesla-phone-when-is-it-coming-out-what-will-it-cost-and-the-advanced-tech-specs-that-make-heads-turn/"><u>Decoding the Latest on 'Tesla Phone': When Is It Coming Out? What Will It Cost? And The Advanced Tech Specs That Make Heads Turn</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-game-aids-vrs-top-picks/"><u>Innovative Game Aids VR's Top Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-os-limits-with-win11-upgrade-guide/"><u>Overcoming OS Limits with Win11 Upgrade Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-successful-boots-for-vms-in-win11-with-vmware/"><u>Securing Successful Boots for VMs in Win11 with VMware</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-to-fix-battlefield-2042-and-directx-interaction-challenges/"><u>Step-by-Step Solution to Fix Battlefield 2042 and DirectX Interaction Challenges</u></a></li>
+<li><a href="https://win11.techidaily.com/teamwork-enhanced-agile-communication-tech/"><u>Teamwork Enhanced: Agile Communication Tech</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-13-reproductores-de-pantalla-gratuitos-y-de-codigo-aberto-una-guia-completa-por-movavi/"><u>Top 13 Reproductores De Pantalla Gratuitos Y De Código Aberto: Una Guía Completa Por Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-windows-audio-device-graph-isolation-and-is-it-a-problem/"><u>What Is Windows Audio Device Graph Isolation and Is It a Problem?</u></a></li>
 </ul></div>
 

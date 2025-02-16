@@ -1,7 +1,7 @@
 ---
 title: "Mastering Aliases: Enhancing Developer Efficiency"
-date: 2025-01-30T05:06:31.835Z
-updated: 2025-02-04T06:16:25.792Z
+date: 2025-02-11T02:38:15.744Z
+updated: 2025-02-15T21:17:08.627Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are App Execution Aliases?
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
  Windows 10 and 11 both allow aliases to be declared for some apps by default. The available apps vary but are often those commonly associated with command line tools. Giving an app an alias allows it to be executed using a shorter title rather than the full name or path.
 
  App aliases can be used in several[Windows Command Line Interfaces](https://www.makeuseof.com/what-is-cli-what-does-it-stand-for/) (CLI), including the Run Dialog, Command Prompt, and[PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . If you use these tools with any regularity, app aliases can help to streamline entering commands.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Enable App Execution Aliases in Settings
 
@@ -52,7 +48,7 @@ In Windows 11:
 ![app aliases in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-alias-win11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In Windows 10:
@@ -63,11 +59,11 @@ In Windows 10:
 
 ![app aliases in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-alias-win10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  By default, in both Windows 10 and 11, you can only enable or disable existing app aliases. But if you don't mind editing the Registry, you can create new aliases for many other apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Create App Execution Aliases in Registry Editor
 
@@ -83,12 +79,16 @@ In Windows 10:
 ![editing app aliases in registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-alias-regedit.jpg)
 6. In the Value data field, you will need to enter the full path to the app executable file. For example**C:\\Program Files (x86)\\Calendar.exe** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Right-click in the right pane and select**New > String value** . Name the string**path** . The change the Value data to the same path as above, but without the app filename.
 
  You can now close the Registry Editor. The new App Execution Alias will now be available to use in the Windows CLIs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using and Creating App Execution Aliases
@@ -110,14 +110,18 @@ In Windows 10:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-best-practices-boosting-your-game-videos-with-tags-for-2024/"><u>[New] Best Practices Boosting Your Game Videos with Tags for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-enhance-with-ease-introduction-to-video-enhancer-v22-for-2024/"><u>[New] Enhance with Ease Introduction to Video Enhancer V2.2 for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-the-ultimate-drone-racing-headset-compilation/"><u>[New] In 2024, The Ultimate Drone Racing Headset Compilation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-end-uavs-purchase-without-delay/"><u>2024 Approved High-End UAVs Purchase Without Delay</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-windows-compressed-archives-cab-and-their-setup/"><u>Decoding Windows Compressed Archives (CAB) & Their Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-seamless-windows-11-sign-in/"><u>Essential Tips for Seamless Windows 11 Sign-In</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-could-not-create-java-virtual-machine-error/"><u>Rectifying 'Could Not Create Java Virtual Machine' Error</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-metas-exclusive-512gb-quest-3-offer-top-pick-for-october-prime-day-saves-in-virtual-reality/"><u>Snag Meta's Exclusive 512GB Quest 3 Offer - Top Pick for OctoBER Prime Day SAVES in Virtual Reality!</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-power-of-windows-internet-services-manager/"><u>Unlocking the Power of Windows Internet Services Manager</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-soaring-visions-with-dji-mavic-pro-insight/"><u>[New] In 2024, Soaring Visions with DJI Mavic Pro Insight</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-prime-firefox-video-capturing-software-for-2024/"><u>[New] Prime Firefox Video Capturing Software for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-racing-game-compilation/"><u>[Updated] Ultimate Racing Game Compilation</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-boot-overhaul-simplified-windows-restarts-in-8-steps/"><u>Easy Boot Overhaul: Simplified Windows Restarts in 8 Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-directory-is-not-empty-problem-error-0x80070091-in-win11-and-11/"><u>Fixing Directory Is Not Empty Problem (Error #0X80070091) in Win11 & 11</u></a></li>
+<li><a href="https://win-community.techidaily.com/how-to-fix-an-unresponsive-video-detection-tool-while-transferring-content/"><u>How to Fix an Unresponsive Video Detection Tool While Transferring Content</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-vboxs-0x80004005-error-efail/"><u>Overcoming Windows VBox's 0X80004005 Error: E_FAIL</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-frozen-grammarly-errors-on-windows-systems/"><u>Resolving Frozen Grammarly Errors on Windows Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/step-by-step-guide-creating-your-nintendo-network-account-on-the-3ds/"><u>Step-by-Step Guide: Creating Your Nintendo Network Account on the 3DS</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-tutorial-on-implementing-volume-shadow-copy-on-windows-server-2019/"><u>Step-by-Step Tutorial on Implementing Volume Shadow Copy on Windows Server 2019</u></a></li>
+<li><a href="https://win11.techidaily.com/thorough-guide-to-completely-uninstall-wsl-in-win-1011/"><u>Thorough Guide to Completely Uninstall WSL in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-access-issue-with-your-files/"><u>Troubleshooting Windows Access Issue with Your Files</u></a></li>
+<li><a href="https://win-blog.techidaily.com/vanguard-requirement-notice-ensure-adequate-cpu-strength-before-installing/"><u>Vanguard Requirement Notice: Ensure Adequate CPU Strength Before Installing</u></a></li>
 </ul></div>
 

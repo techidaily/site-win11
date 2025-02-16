@@ -1,7 +1,7 @@
 ---
 title: "Condensed Explore: Streamline Your File Explorer Layout"
-date: 2025-01-30T17:54:54.574Z
-updated: 2025-02-03T20:45:44.440Z
+date: 2025-02-08T21:49:41.059Z
+updated: 2025-02-15T22:02:29.269Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Enable Compact View in File Explorer Using the Command Bar
@@ -37,11 +37,11 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 2. Choose the **Compact view** option to enable it.  
 ![Compact view option in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/comapct-view-option.jpg)
 
- That's it. You might need to restart your computer for the changes to take effect.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ That's it. You might need to restart your computer for the changes to take effect.
 
 ## 2\. Enable Compact View in File Explorer Using Folder Options
 
@@ -57,23 +57,23 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 
 ![Control folders command in the Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-folders-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Folder option, switch to the **View** tab and check the **Decrease space between item (compact view)** box. Then, click **Apply** \> **OK** to save the changes.
 
 ![Decrease space between item (compact view) option in the Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/decrease-space-between-item-compact-view-option.jpg)
 
- With that, you should have less space between your files in File Explorer.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ With that, you should have less space between your files in File Explorer.
 
 ## 3\. Enable Compact View in File Explorer Using the Registry Editor
 
 ![Enabling Compact view in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enabling-compact-view.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Registry files on your system contain important settings for Windows. If you're an advanced Windows user, you can enable the compact view in File Explorer using the Registry Editor.
 
@@ -88,7 +88,7 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 6. Type **1** in **Value data** and click OK. This will enable the Compact View. To disable, type **0** in the **Value data** and click **OK.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Change the File Explorer Look Anytime
@@ -112,21 +112,20 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-break-through-the-crowd-key-youtube-seo-strategies-to-rank-high-for-2024/"><u>[New] Break Through the Crowd Key YouTube SEO Strategies to Rank High for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-reviewing-ion-air-pro-3-capturing-life-in-high-definition/"><u>[New] Reviewing ION Air Pro 3 - Capturing Life in High Definition</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-ultimate-guide-the-art-of-background-music-for-video-unboxing-for-2024/"><u>[New] Ultimate Guide The Art of Background Music for Video Unboxing for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-endless-possibilities-with-chatgpts-my-bot-capabilities/"><u>Discover Endless Possibilities With ChatGPT's My Bot Capabilities</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Does Life360 Notify When You Log Out On Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-elevation-for-power-users-on-pc/"><u>Enabling Elevation for Power Users on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-file-or-directory-is-corrupted-error-0x80070570-on-windows-11-and-11/"><u>How to Fix the “File or Directory Is Corrupted” Error 0X80070570 on Windows 11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-microsoft-teams-error-80080300-in-windows-11/"><u>How to Fix the Microsoft Teams Error 80080300 in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reactivate-the-frozen-windows-start-button/"><u>How to Reactivate the Frozen Windows Start Button</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-no-audio-from-realtek-dac-issue-on-your-pc-solutions/"><u>How to Resolve 'No Audio From Realtek DAC' Issue on Your PC | Solutions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-spectacular-video-connections-quest/"><u>In 2024, Spectacular Video Connections Quest</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-the-essential-camera-toolkit-for-yt-enthusiasts/"><u>In 2024, The Essential Camera Toolkit for YT Enthusiasts</u></a></li>
-<li><a href="https://win11.techidaily.com/remedies-for-unstartable-speech-to-text-on-windows-platform/"><u>Remedies for Unstartable Speech-to-Text on Windows Platform</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-complete-encyclopedia-of-tweetresponses/"><u>The Complete Encyclopedia of TweetResponses</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-fix-list-for-defective-mail-alerts-in-os-windows/"><u>The Ultimate Fix List for Defective Mail Alerts in OS Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-shortcuts-gaining-infinite-capabilities/"><u>Windows Shortcuts: Gaining Infinite Capabilities</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-mastering-fbs-look-back-feature-edit-tutorial/"><u>[New] Mastering FB's Look Back Feature Edit Tutorial</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-mp3-skype-recorder-record-skype-call-for-free-for-2024/"><u>[New] The Ultimate Guide to MP3 Skype Recorder| Record Skype Call For Free for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-simplify-slide-sharing-at-work-webcam-assisted-tips-for-2024/"><u>[Updated] Simplify Slide Sharing at Work Webcam-Assisted Tips for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amazon-fire-tv-cube-unboxed-the-ultimate-guide-to-your-newest-super-fast-streamer/"><u>Amazon Fire TV Cube Unboxed: The Ultimate Guide to Your Newest Super-Fast Streamer</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/combined-imagery-and-action-mastering-iphone-recording/"><u>Combined Imagery & Action Mastering iPhone Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-to-installing-microsoft-copilot-for-macs/"><u>Comprehensive Guide to Installing Microsoft Copilot for Macs</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-fixes-for-unwanted-new-tabs-in-chrome-browser/"><u>Easy Fixes for Unwanted New Tabs in Chrome Browser</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-impact-of-artificial-intelligence-proficiency-on-wage-levels-across-job-titles-insights-from-zdnet/"><u>Exploring the Impact of Artificial Intelligence Proficiency on Wage Levels Across Job Titles - Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/missing-out-regain-access-to-windows-11s-hidden-upgrades-and-tools/"><u>Missing Out? Regain Access to Windows 11'S Hidden Upgrades and Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/premier-experts-innovative-instragram-hlv-designs/"><u>Premier Experts Innovative Instragram HLV Designs</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-full-functional-capacity-of-ctrl-key-in-windows-11/"><u>Restoring Full Functional Capacity of CTRL Key in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/should-i-get-ahead-of-the-curve-with-apples-vision-pro-reserved-listing-find-out-by-asking-these-5-key-questions-expert-advice/"><u>Should I Get Ahead of the Curve with Apple's Vision Pro Reserved Listing? Find Out by Asking These 5 Key Questions | Expert Advice</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reclaim-faulty-wi-fi-settings-on-a-windows-machine/"><u>Steps to Reclaim Faulty Wi-Fi Settings on a Windows Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-permission-based-save-errors-in-windows-os/"><u>Tackling Permission-Based Save Errors in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-if-file-explorer-keeps-opening-by-itself-on-windows/"><u>What to Do if File Explorer Keeps Opening by Itself on Windows</u></a></li>
 </ul></div>
 

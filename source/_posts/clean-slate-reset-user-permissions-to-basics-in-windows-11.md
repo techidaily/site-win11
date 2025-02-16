@@ -1,7 +1,7 @@
 ---
 title: "Clean Slate: Reset User Permissions to Basics in Windows 11"
-date: 2024-07-29T15:51:09.927Z
-updated: 2024-07-30T15:51:09.927Z
+date: 2025-02-09T03:38:02.958Z
+updated: 2025-02-15T20:57:29.302Z
 tags:
   - windows10
   - windows11
@@ -23,8 +23,9 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 Let's now explore them in detail.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Run the Icacls Command
 
  The Icacls command allows you to view, modify, and reset file system permissions on files and folders. To reset Windows Update permissions using this command, you will first have to[take ownership of the folders on Windows](https://www.makeuseof.com/windows-10-11-own-folder/) . Then[open an elevated Command Prompt on Windows](https://www.makeuseof.com/windows-run-command-prompt-admin/) and type in the following command:
@@ -41,31 +42,28 @@ In the above command, here are the parameters explained:
 * /c – Continues the operation even if errors occur.
 * /reset – This parameter resets the permission options to their default values.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Run the Secedit command
 
  Windows provides the Secedit command to configure and analyze system security. To reset all user permissions using this command, run the command prompt with admin access, then type in the following command:
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run the Secedit command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-the-secedit-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `secedit /configure /cfg %windir%\inf\defltbase.inf /db defltbase.sdb /verbose`
 
  Now press Enter to execute the command. Wait for the process to finish and restart your computer. This will reset the user permissions to the default system settings.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the Subinacl Tool
 
  If you're not comfortable using the command prompt, you may use the Subinacl tool. This is a command-line utility from Microsoft that can be used to reset user permissions. Here's how to do it:
@@ -74,11 +72,13 @@ In the above command, here are the parameters explained:
 2. Once downloaded, double-click on the installer package. This will open the installation wizard.  
 ![Open the installation wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-the-installation-wizard.jpg)
 3. Click on**Next** and then accept the license agreement terms.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![Install the Subinacl tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-the-subinacl-tool.jpg)
 4. Next, copy and paste the following path into the Destination folder:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `C:\Windows\System32`  
  Note: If you have installed Windows on a different drive, use that path instead.
 5. Now click on**Install now** and wait for the Subinacl tool to be installed. This may take several minutes, so be patient.
@@ -93,9 +93,6 @@ subinacl /subkeyreg HKEY_CURRENT_USER /grant=system=f
 subinacl /subkeyreg HKEY_CLASSES_ROOT /grant=system=f  
 subinacl /subdirectories %SystemDrive% /grant=system=f`
 2. On the Save As window, set the File name to**Reset.cmd** and then select**All Files** from the drop-down menu next to it.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Reset Windows Update permissions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-windows-update-permissions.jpg)
 3. Next, select**Desktop** from the left pane and click on**Save** .
 4. Now double-click on it to reset the user permissions to default.
@@ -103,21 +100,15 @@ subinacl /subdirectories %SystemDrive% /grant=system=f`
 
  Once done, close any running program, and then restart your computer. Your Windows Update permissions will be reset to their default settings. These are three different methods you can use to reset the user permission settings on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Restore User Permissions to Default on Windows
 
  User permissions play a crucial role in computer security. If you're experiencing user permission issues, you must reset them to their default settings. This guide helps you reset all user permissions on Windows using three different methods. You can use the ICACLS command, Secedit command, or Subinacl tool, depending on your preference.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +117,19 @@ subinacl /subdirectories %SystemDrive% /grant=system=f`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-exploring-self-through-instagram-a-diverse-set-of-100-captions/"><u>[New] 2024 Approved Exploring Self Through #Instagram - A Diverse Set of 100 Captions</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-quick-guide-to-modifying-your-vocal-characteristics-in-pubg/"><u>2024 Approved The Quick Guide to Modifying Your Vocal Characteristics in PUBG</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-youtube-premium-subscription-should-you-get-one/"><u>2024 Approved YouTube Premium Subscription - Should You Get One?</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-the-distinctions-between-terminal-and-powershell/"><u>Dissecting the Distinctions Between Terminal & PowerShell</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-access-secure-your-spot-for-amazon-prime-day-with-early-bird-offers-registration-guide/"><u>Exclusive Access: Secure Your Spot for Amazon Prime Day with Early Bird Offers - Registration Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-remove-0xc0f1103f-on-nvidias-geforce-now/"><u>How to Remove 0Xc0f1103f on Nvidia's GeForce Now</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-x-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone X To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-safe-to-use-chatgpt-at-work-evaluating-risks-and-consequences-in-10-scenarios/"><u>Is It Safe to Use ChatGPT at Work? Evaluating Risks and Consequences in 10 Scenarios</u></a></li>
+<li><a href="https://win11.techidaily.com/stealthy-settings-showcase-hiding-power-command-on-win11/"><u>Stealthy Settings Showcase: Hiding Power Command on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-personalize-your-theme-settings-in-win11/"><u>Step-by-Step Guide to Personalize Your Theme Settings in Win11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/top-rated-4k-video-conversion-software-2023s-best-picks-for-2024/"><u>Top-Rated 4K Video Conversion Software 2023S Best Picks for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-invisible-bluetooth-items-in-device-hub-win/"><u>Unveiling Invisible Bluetooth Items in Device Hub WIN</u></a></li>
+</ul></div>
 

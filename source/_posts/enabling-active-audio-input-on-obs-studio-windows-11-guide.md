@@ -1,7 +1,7 @@
 ---
 title: Enabling Active Audio Input on OBS Studio - Windows 11 Guide
-date: 2025-01-29T01:34:28.311Z
-updated: 2025-02-03T17:01:54.343Z
+date: 2025-02-09T16:47:08.924Z
+updated: 2025-02-16T00:56:54.900Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart OBS Studio
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
  Before getting into advanced troubleshooting, consider restarting OBS Studio. The best way is to[launch the Task Manager](https://www.makeuseof.com/windows-open-device-manager/) and close all the OBS Studio-related processes.
 
  Next, relaunch the OBS Studio and check if it is able to record audio. If not, it's time for some more complicated fixes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Launch OBS Studio With Administrative Rights
 
@@ -52,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 4. Click**Apply** \>**OK** to save the settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Unmute OBS Studio in the Settings App
@@ -65,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 4. Under the**Apps section,** unmute OBS Studio if muted and adjust the slider accordingly.  
 ![Unmute OBS Studio in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/unmute-obs-studio.jpg)
 5. Also, click the drop-down icon next to OBS Studio, then choose the correct input device.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Choosing default audio device for OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-default-audio-device.jpg)
 
@@ -86,7 +78,11 @@ Restart OBS Studio and check if the problem persists.
 5. Click**Apply** and then**OK.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Allow OBS Studio to Access Microphone
@@ -101,11 +97,11 @@ Restart OBS Studio and check if the problem persists.
 ![Microphone access option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microphone-access.jpg)
 4. Next, enable the toggle next to**Let desktop apps to access your microphone** option.  
 
-![Allow desktop apps to access microphone option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-desktop-apps-to-access-microphone.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Allow desktop apps to access microphone option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-desktop-apps-to-access-microphone.jpg)
 
 ## 6\. Change the OBS Studio Settings
 
@@ -121,6 +117,10 @@ Restart OBS Studio and check if the problem persists.
 ![Audio settings of OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/audio-settings.jpg)
 6. Choose**Apply** \>**OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7 . Adjust the Audio Mixer Settings
 
  The next solution on the list is to adjust the audio mixer settings of the OBS Studio. Here's how:
@@ -130,10 +130,6 @@ Restart OBS Studio and check if the problem persists.
 ![Adjusting dB in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adjusting-db.jpg)
 3. Click the three dots next to Mic/Aux and choose**Properties.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click the drop-down icon next to**Device,** select your default recording device and click**OK.**  
 ![Choosing correct Mic in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-correct-mic.jpg)
 5. Next, click the three dots next to Mic/Aux again and choose**Advanced Audio Properties.**  
@@ -141,6 +137,14 @@ Restart OBS Studio and check if the problem persists.
 6. Under the**Audio Monitoring** tab, choose**Monitor** **and Output** for**Desktop Audio** and**Monitor Only** **(mute output)** for**Mic/Aux.**  
 
 ![Adjusting Advanced Properties in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adjusting-advanced-properties.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Download the Latest Audio Driver Updates
 
@@ -159,10 +163,6 @@ You can do that by following the below steps:
 ## 9\. Reinstall OBS Studio
 
  Are you still facing the issue? If yes, then there's something wrong with the OBS Studio installation file that's causing the problem. The only solution, in this case, is to reinstall the OBS Studio.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enjoy Uninterrupted Recording Again on OBS Studio for Windows
 
@@ -185,24 +185,24 @@ You can do that by following the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-boomerang-edge-captivating-your-instagram-audience/"><u>[New] 2024 Approved The Boomerang Edge Captivating Your Instagram Audience</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/udio-aesthetics-high-quality-dj-template-videos-downloaded/"><u>[New] Audio Aesthetics High-Quality DJ Template Videos Downloaded</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-amplify-impact-strategies-for-growing-youtube-fans/"><u>[New] In 2024, Amplify Impact Strategies for Growing YouTube Fans</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-enrich-image-narratives-how-to-employ-titles-and-captions-on-videos-via-windows/"><u>[Updated] 2024 Approved Enrich Image Narratives How to Employ Titles and Captions on Videos via Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-an-experts-approach-to-cpu-settings-on-pc/"><u>Crafting an Expert's Approach to CPU Settings on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/cultivating-a-rich-comic-reading-experience-with-win11/"><u>Cultivating a Rich Comic-Reading Experience with Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/dual-screen-power-combining-android-and-windows-11/"><u>Dual-Screen Power: Combining Android and Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-identify-premium-hassle-free-free-srt-translator-services-for-2024/"><u>How to Identify Premium, Hassle-Free Free SRT Translator Services for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mac-users-guide-to-best-4k-display-technology/"><u>In 2024, Mac Users' Guide to Best 4K Display Technology</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/longer-pins-in-win1011-best-practices-and-methods/"><u>Longer PINs in Win10/11: Best Practices and Methods</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/managing-notification-preferences-avoiding-amber-warnings-on-android/"><u>Managing Notification Preferences: Avoiding Amber Warnings on Android</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-non-loading-messages-issue-in-windows-discord/"><u>Overcoming Non-Loading Messages Issue in Windows Discord</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/preparing-for-interaction-with-an-advanced-ai-ally/"><u>Preparing for Interaction with an Advanced AI Ally</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-links-at-the-touch-of-a-button-microsoft-store-uwp-apps/"><u>Quick Links at the Touch of a Button: Microsoft Store UWP Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/reimagine-onedrive-storage-space-a-step-by-step-guide-for-win10/"><u>Reimagine OneDrive Storage Space: A Step-by-Step Guide for Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remote-fix-faulty-gpu-driver-repaired/"><u>Remote Fix: Faulty GPU Driver Repaired</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-advanced-taskbar-functions-with-end-task-in-windows-11/"><u>Unlocking Advanced Taskbar Functions with End Task in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/upgrading-search-functionality-on-disk-based-discord/"><u>Upgrading Search Functionality on Disk-Based Discord</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-melody-filled-visuals-the-fusion-project/"><u>[New] Melody-Filled Visuals The Fusion Project</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-download-instagram-highlights-in-2-ways/"><u>[Updated] In 2024, How to Download Instagram Highlights in 2 Ways?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-asus-tuf-gaming-a14s-durability-and-performance/"><u>Comprehensive Analysis of Asus TUF Gaming A14's Durability and Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/cut-the-excess-12-non-essential-windows-software-for-removal/"><u>Cut the Excess: 12 Non-Essential Windows Software for Removal</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-mystery-of-non-adjustable-gif-sizes-on-discowin11/"><u>Decoding the Mystery of Non-Adjustable GIF Sizes on DiscoWin11</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-windows-11-firewall-on-demand/"><u>Disabling Windows 11 Firewall on Demand</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-realme-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Realme</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-method-to-address-error-0x80246007-on-win11/"><u>Efficient Method to Address Error 0X80246007 on Win11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-change-or-reset-the-password-protecting-screen-time-on-apple-devices/"><u>How to Change or Reset the Password Protecting Screen Time on Apple Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-from-fandom-to-fame-gamers-livestream-success-strategies/"><u>In 2024, From Fandom to Fame Gamers' Livestream Success Strategies</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-industry-insiders-reveal-their-favorite-gif-makers/"><u>In 2024, Industry Insiders Reveal Their Favorite GIF Makers</u></a></li>
+<li><a href="https://win11.techidaily.com/patching-the-black-screen-problem-in-window-8-pcs/"><u>Patching the Black Screen Problem in Window 8 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/pinpoint-disk-technology-using-windows-features/"><u>Pinpoint Disk Technology Using Windows Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-plus-weighing-the-subscription-value-against-fee/"><u>PlayStation Plus: Weighing the Subscription Value Against Fee</u></a></li>
+<li><a href="https://win11.techidaily.com/revise-record-times-essential-tools-for-altering-createdmodified-dates-in-win8/"><u>Revise Record Times: Essential Tools for Altering Created/Modified Dates in Win8</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/set-up-windows-defender-firewall-with-specific-rules-that-limit-access-to-your-nas-ports-such-as-smb-default-is-445-rdp-3389-etc-only-from-authorized-device167/"><u>Set up Windows Defender Firewall with Specific Rules that Limit Access to Your NAS Ports, Such as SMB (Default Is 445), RDP (3389), Etc., Only From Authorized Devices or IP Ranges.</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steam-disk-errors-on-pc/"><u>Troubleshooting Steam Disk Errors on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-power-of-dism-in-win11-repairs/"><u>Unlocking the Power of Dism in Win11 Repairs</u></a></li>
 </ul></div>
 

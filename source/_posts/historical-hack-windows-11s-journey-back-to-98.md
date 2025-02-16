@@ -1,7 +1,7 @@
 ---
 title: "Historical Hack: Windows 11'S Journey Back to 98"
-date: 2025-02-03T06:28:15.822Z
-updated: 2025-02-04T09:01:05.661Z
+date: 2025-02-12T18:36:37.443Z
+updated: 2025-02-15T19:21:49.830Z
 tags:
   - windows10
   - windows11
@@ -34,20 +34,20 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
  With that being said, let's grab everything you need. To make it easier on yourself, you'll want to download these all to one folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WindowsBlinds 11 and Skin Pack
 
  Head over to the[WindowBlinds 11 product page](https://www.stardock.com/products/windowblinds/) to download the first program. You'll also need a user-made skin pack to go with it, which can be found at the[WinCustomize website](https://www.wincustomize.com/explore/windowblinds/9233/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Winaero Tweaker
 
  Winaero Tweaker is an important program, and we'll be using it to do quite a lot. Head over to the[Winaero Tweaker download page](https://winaerotweaker.com) , and then over to[this DeviantArt page](https://www.deviantart.com/vovan29/art/Windows-95-ALL-ICONS-805656804) for a Windows 95 icon set to go along with it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Open-Shell-Menu
 
@@ -56,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 ### RetroBar
 
  RetroBar is pretty self-explanatory. It's going to be crucial to get our taskbar looking just right, as well as restore classic functionality. This is another program that you might find useful aside from its classic look. Find it on[the RetroBar GitHub page](https://github.com/dremin/RetroBar) and download it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Desktop Sidebar
 
@@ -66,12 +70,16 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
  Last, but very important, is the sound pack. We can import this directly as a sound scheme, although it's going to require some work later on. Download[this sound pack on Blockland Glass](https://blocklandglass.com/addons/addon.php?id=524) and we can finally begin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install WindowBlinds 11 and Skin Pack
 
 ![screenshot of windowblinds 11 selecting the classic theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_windowblinds11_classic_theme.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Install WindowBlinds 11 using its .exe file, and after it has finished installing, simply double-click the**Windows 98 Classic.wba** file that you downloaded earlier. This will load the skin into WindowBlinds 11.
 
@@ -97,13 +105,13 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 
 This gives us a fairly authentic-looking Start Menu and icon.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Install RetroBar
 
 ![screenshot of the retrobar settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_retrobar_settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  RetroBar will make an immediate difference, as soon as you run it. You'll notice that it automatically changes your taskbar to a classic style, with individual tabs for programs.
 
@@ -114,10 +122,6 @@ This gives us a fairly authentic-looking Start Menu and icon.
 ## 4\. Install Classic Sounds
 
 ![screenshot of changing system sounds in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_change_system_sounds_windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  We're starting to get somewhere now. Next up is the classic sounds, which can be a little bit tedious to install.
 
@@ -136,10 +140,6 @@ This gives us a fairly authentic-looking Start Menu and icon.
 ## 5\. Desktop Sidebar
 
 ![screenshot of the windows sidebar with options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_windows_side_bar_options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Let's recreate something a bit more obscure. Using Desktop Sidebar, we're able to imitate the Windows 98 Channel Bar. Run the .exe for Desktop Sidebar to install it.
 
@@ -166,13 +166,13 @@ However, there is one icon you can only change using Winaero Tweaker.
 
  Search for the term libraries and open**Customize Libraries Item.** From here you can hit**Browse** and replace the Libraries icon with a Windows 98 equivalent. This icon appears frequently throughout Windows, so setting it to a classic look goes far in keeping up the classic theme.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Performance Tweaks for Authenticity
 
 ![screenshot of the power settings in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_power_settings_in_windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This last step is optional and entirely impractical, but if you are after a truly authentic experience, you might want to drop some performance settings.
 
@@ -182,11 +182,11 @@ However, there is one icon you can only change using Winaero Tweaker.
 
 ![screenshot of windows 11 desktop with classic skin applied](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_windows_11_with_skin_applied-2.jpg)
 
- The finished product feels very convincing when browsing and navigating menus. You'll feel right at home if you grew up on these classic Windows versions.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The finished product feels very convincing when browsing and navigating menus. You'll feel right at home if you grew up on these classic Windows versions.
 
 ## What's New Is Old on Windows
 
@@ -211,20 +211,22 @@ However, there is one icon you can only change using Winaero Tweaker.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-21-edition-deep-dive-unraveling-vegas-pros-complexities/"><u>[Updated] '21 Edition Deep-Dive Unraveling Vegas Pro’s Complexities</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-bulk-buy-subscribers-cost-effective-growth-strategy/"><u>[Updated] 2024 Approved Bulk Buy Subscribers Cost-Effective Growth Strategy</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-capturing-smiles-and-chuckles-learn-the-lens-magic-in-snapchat/"><u>[Updated] In 2024, Capturing Smiles and Chuckles Learn the Lens Magic in Snapchat</u></a></li>
-<li><a href="https://win11.techidaily.com/decluttering-made-simple-setting-up-windows-recycle-bin-autodelete/"><u>Decluttering Made Simple: Setting Up Windows Recycle Bin Autodelete</u></a></li>
-<li><a href="https://win-latest.techidaily.com/expert-guide-to-securely-rebooting-your-dell-laptop-on-windows-11-discover-the-best-4-procedures/"><u>Expert Guide to Securely Rebooting Your Dell Laptop on Windows 11 – Discover the Best 4 Procedures!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-hp-officejet-3830-windows-installation-files-here/"><u>Get Your HP OfficeJet 3830 Windows Installation Files Here!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-into-vs-code-for-swift-development/"><u>Integrating ChatGPT Into VS Code for Swift Development</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-to-local-users-in-windows-1110-homes-quickly/"><u>Navigating to Local Users in Windows 11/10 Homes Quickly</u></a></li>
-<li><a href="https://win-dash.techidaily.com/seamless-asus-monitor-driver-updates-download-instantly-now/"><u>Seamless ASUS Monitor Driver Updates - Download Instantly Now</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-experience-use-windows-11-widget-tools/"><u>Streamline Your Experience: Use Window's 11 Widget Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/switching-off-windows-built-in-graphics/"><u>Switching Off Windows' Built-In Graphics</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-efficiency-a-guide-to-quick-dossiers-in-win11/"><u>Unleash Efficiency: A Guide to Quick Dossiers in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-windows-understanding-error-code-0x0000003b-bsod/"><u>Unraveling Windows: Understanding Error Code 0X0000003B BSOD</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-storage-strategy-game-classics-in-windows-11-pics/"><u>Winning Storage Strategy: Game Classics in Windows 11 Pics</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/pathway-to-stellar-intros-on-mobile-devices/"><u>Your Pathway to Stellar Intros on Mobile Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-earn-while-you-entertain-the-content-creators-guide/"><u>[Updated] 2024 Approved Earn While You Entertain The Content Creator's Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-showdown-snapchat-vs-microsoft-bing-on-skype-discover-8-key-contrasts/"><u>AI Showdown: Snapchat Vs. Microsoft Bing on Skype – Discover 8 Key Contrasts</u></a></li>
+<li><a href="https://win11.techidaily.com/curtailing-window-11s-early-edge-preload/"><u>Curtailing Window 11'S Early Edge Preload</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-skill-in-solving-math-dilemmas/"><u>GPT's Skill in Solving Math Dilemmas</u></a></li>
+<li><a href="https://win11.techidaily.com/hibernation-vs-standby-windows-comparisons/"><u>Hibernation Vs. Standby: Windows Comparisons</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-prevent-your-mass-effect-legendary-edition-from-crashing-pcxbox/"><u>How to Prevent Your Mass Effect Legendary Edition From Crashing (PC/Xbox)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revolutionizing-patient-outreach-with-fb-ads/"><u>In 2024, Revolutionizing Patient Outreach with FB Ads</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-evaluation-of-anycubic-kobra-2-max-unearthing-a-hidden-gem/"><u>In-Depth Evaluation of Anycubic Kobra 2 MAX: Unearthing a Hidden Gem</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-terminal-settings-in-windows/"><u>Navigating Through Terminal Settings in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-group-policy-settings-on-individual-windows-accounts/"><u>Personalizing Group Policy Settings on Individual Windows Accounts</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-start-enabling-wordpad-in-windows-environment/"><u>Quick Start: Enabling WordPad in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-audacitys-error-when-opening-sounds-on-win11/"><u>Remedying Audacity's Error When Opening Sounds on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/safe-windows-best-free-software-download-picks/"><u>Safe Windows: Best Free Software Download Picks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/sons-of-the-forest-pc-problems-heres-how-to-resolve-them/"><u>Sons of the Forest PC Problems? Here's How to Resolve Them!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/successful-resolution-guide-eradicating-steam-error-code-130/"><u>Successful Resolution Guide: Eradicating Steam Error Code 130</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-digital-files-onedrive-fixes-for-windows/"><u>Unlocking Your Digital Files: OneDrive Fixes for Windows</u></a></li>
 </ul></div>
 

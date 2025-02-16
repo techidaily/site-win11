@@ -1,7 +1,7 @@
 ---
 title: "Clearing 'Access Denied' Errors: Fixing Outlook Issues in Windows OS"
-date: 2024-07-29T15:51:43.591Z
-updated: 2024-07-30T15:51:43.591Z
+date: 2025-02-14T19:10:28.991Z
+updated: 2025-02-15T19:48:23.070Z
 tags:
   - windows10
   - windows11
@@ -40,21 +40,28 @@ thumbnail: https://thmb.techidaily.com/8cc7746fe0672e4725ddd5d1492632738fafd136f
 
 ![Run Outlook in Safe Mode by Running a Command in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-run-outlook-in-safe-mode-by-running-a-command-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the app launches without an error, the add-in interference must have been the culprit. Therefore, stay in safe mode and turn off any interfering add-ins. Here's how:
 
 1. Go to the **File** tab and select **Options**.  
 ![Select Options in the File Tab of Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-select-options-in-the-file-tab-of-outlook.jpg)
 2. Go to the **Add-ins** tab in the left menu.
-3. Select **"COM Add-ins"** from the **Manage** menu, then click **Go**.  
+
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. Select **"COM Add-ins"** from the **Manage** menu, then click **Go**.  
 ![Click on the Go Button After Selecting the COM Add-ins Option From the Manage Dropdown Menu in Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-click-on-the-go-button-after-selecting-the-com-add-ins-option-from-the-manage-dropdown-menu-in-outlook.jpg)
 4. Uncheck the boxes behind any add-ins you don't need and disable them.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Check for Issues With the OST File
 
  The mislocated OST file or its corruption can also lead to the error. Therefore, ensure the file is at its original location and recreate it to eliminate the possibility of file corruption. Here's how:
@@ -62,25 +69,16 @@ thumbnail: https://thmb.techidaily.com/8cc7746fe0672e4725ddd5d1492632738fafd136f
 1. Open the Control Panel.
 2. Click on the **View by** dropdown menu and select **Large icons**.
 3. Go to **Mail (Microsoft Outlook)**.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Go to Mail Option in the Windows Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/5-go-to-mail-option-in-the-windows-control-panel.jpg)
 4. Click the **Data Files...** button.
 5. Select the OST file location and click **Open File Location...**  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![Click the Open File Location Button After Selecting the OST File in the Data Files Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-click-the-open-file-location-button-after-selecting-the-ost-file-in-the-data-files-tab.jpg)
 6. Right-click the file in the **File Explorer** and select **Properties**. If the file type is **OST**, the file is in the right place, and no action is needed.  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Ensure the File Type Is OST by Going to Properties in the Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-ensure-the-file-type-is-ost-by-going-to-properties-in-the-windows-file-explorer.jpg)
 
  To ensure that the OST file is not corrupt, copy it to a safe location outside the Outlook installation folder. Then, right-click and delete the main OST file.
@@ -102,10 +100,6 @@ No advertising on the website.
 
  If Outlook launches successfully, a corrupt profile could be to blame. So, continue to use the new profile after adding your account. If switching profiles does not help, go to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Look for Issues With the Navigation Pane
 
  Misconfigured navigation pane settings or corrupted XML files, which store the navigation pane settings, can also prevent Outlook from opening and presenting the error. To eliminate this possibility, you should reset the navigation pane in Outlook that will reset the configuration to its default settings. Press **Win + R**, type **"outlook.exe /resetnavpane"** and hit **Enter**.
@@ -117,8 +111,9 @@ No advertising on the website.
  Then, restart Outlook from scratch, and it will recreate the XML file with default settings. There's a good chance that it will resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Repair the Outlook PST Files
 
  PST files store data about contacts, calendars, events, and messages. If the error window indicates that Outlook could not open the PST file, then the file could be corrupt, which could be why Outlook presents the error. Therefore, you can fix it by repairing the files. To repair the corrupted data files, follow the below steps:
@@ -133,8 +128,9 @@ No advertising on the website.
  If you can't locate the Outlook folder in the path mentioned above, see our [guide on repairing the PST file](https://www.makeuseof.com/repair-pst-without-scanpst/) for the exact path.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Run the Microsoft Support and Recovery Assistant
 
  If none of the above fixes resolves the error, run the Microsoft Support and Recovery Assistant, Microsoft's recommended tool for fixing issues with Microsoft Office products.
@@ -149,18 +145,17 @@ No advertising on the website.
 ![Click Next After Selecting Outlook From the List of Apps in the Microsoft Support and Recovery Assistant Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-click-next-after-selecting-outlook-from-the-list-of-apps-in-the-microsoft-support-and-recovery-assistant-window.jpg)
 6. Then, follow the on-screen instructions to carry out the repair.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If any underlying problem with the Outlook client contributed to this issue, running this tool will most likely resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Run Outlook on Windows Without a Hitch
 
  Running into irritating errors when launching the Outlook client can hinder our productivity. Hopefully, you now better understand what causes the "the set of folders cannot be opened" error. In addition, by carefully applying the fixes listed above, you should be able to fix the error and launch Outlook successfully.
 
  Likewise, using an incompatible version of Outlook or the same email address in multiple mail apps may also result in an error. Here are some fixes you should apply to resolve the issue.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -168,3 +163,18 @@ No advertising on the website.
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-learning-the-ropes-of-telegram-promotion-for-beginners/"><u>[New] Learning the Ropes of Telegram Promotion for Beginners</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-elite-15-luts-transforming-gopro-action-footage/"><u>[Updated] Elite 15 LUTs Transforming GoPro Action Footage</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-ux-with-windows-11s-advanced-widget-system/"><u>Enhance UX with Windows 11'S Advanced Widget System</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuito-conversor-de-formatos-mxf-para-wav-online-movavi/"><u>Gratuito Conversor De Formatos MXF Para WAV Online - Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-access-to-windows-11-without-lock-screen/"><u>Instant Access to Windows 11 without Lock Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/making-sense-of-device-interconnectivity-with-nearby/"><u>Making Sense of Device Interconnectivity with Nearby</u></a></li>
+<li><a href="https://win-best.techidaily.com/maximize-pc-efficiency-with-expert-tips-on-disk-defragmentation-discover-the-best-practices-from-yl-computing-solutions/"><u>Maximize PC Efficiency with Expert Tips on Disk Defragmentation – Discover the Best Practices From YL Computing Solutions</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-for-saving-videos-from-keezmovies-as-mp4-avi-or-mov-files/"><u>Step-by-Step Tutorial for Saving Videos From Keezmovies as MP4, AVI or MOV Files</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-dxgierrordeviceremoved-in-win-oses/"><u>Tackling DXGI_ERROR_DEVICE_REMOVED in Win OSes</u></a></li>
+</ul></div>
+

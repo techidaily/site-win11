@@ -1,7 +1,7 @@
 ---
 title: "Command Line: A Step-by-Step Guide to Win Registry Alteration"
-date: 2025-01-28T07:58:55.214Z
-updated: 2025-02-04T00:22:44.832Z
+date: 2025-02-12T05:04:45.893Z
+updated: 2025-02-15T19:52:27.024Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
 ![the command to view all reg commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/the-command-to-view-all-reg-commands.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There aren't a lot of commands when it comes to editing the registry using Command Line. To view them all, [open Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) and run the below command in Command Prompt:
 
 `reg /?`
@@ -40,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
  Command Prompt will then list the commands, such as **reg add**, **reg delete**, **reg copy**, and **reg save**.
 
 ![the list reg commands in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/the-list-reg-commands-in-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to see more information about them, just add the **/?** switch at the end of the command. For, example, if you want to find out what the **reg add** command does, you'd enter the below command:
 
@@ -54,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 ![details of the reg add command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/details-of-the-reg-add-command-in-command-prompt.jpg)
 
  If you're finding it hard the commands out on your own, don't worry. We will simplify it for you and show you how to get started using them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Add and Delete Keys in the Windows Registry
 
@@ -76,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 `reg delete HKLM\SOFTWARE\MyNewKey /f`
 
  Now the **MySubKey** key will disappear in the Registry Editor.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add, Modify, and Delete Values in the Windows Registry
 
@@ -109,9 +93,17 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
  After running the above command successfully, the value should disappear from the Registry Editor.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Copy Registry Entries From One Key to Another
 
 ![transfering entries from one registry key to another in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/transfering-entries-from-one-registry-key-to-another-in-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sometimes, you might want to copy the values from one key to another in the registry. This is as easy as using the **reg copy** command while specifying the key you're copying them from and the one you're copying them to (keep in mind that both keys have to already exist before you run the command). Here's an example:
 
@@ -125,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
 ![importing a registry file in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/importing-a-registry-file-in-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have [created a Windows Registry file](https://www.makeuseof.com/windows-registry-file-guide/) or downloaded it elsewhere, you can import it into the registry using the **reg import** command. All you need to do is specify the path to the registry file and Command Prompt will do the rest. Here's an example:
 
 `reg import C:\Users\CHIFUNDO\Desktop\MyRegFile.reg`
@@ -138,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 ## How to Export Registry Entries
 
 ![exproting a registry key in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/exproting-a-registry-key-in-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can export a key in the registry using the **reg export** command while specifying the path of the key you want to export and the file you want to create. This comes in handy when you need to back up certain keys and values to restore them elsewhere. Here's an example:
 
@@ -155,9 +139,17 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
  The resulting registry file will only contain the key and the specific value you exported.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Save Registry Entries
 
 ![saving-a-key-to-a-registry-file-in-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/saving-a-key-to-a-registry-file-in-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you already have a registry file or any other text file, you can add keys to it using Command Prompt and the **reg save** command, which will overwrite the file with the new information. You just need to specify the name of the key and the registry file you want to save it to. Here's an example:
 
@@ -165,9 +157,17 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
  The **/y** switch at the end of the command above overwrites the file you're saving the key to without bringing up a prompt. When you open the file, you won't be able to read the contents since it will be saved as a binary file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Restore Registry Entries
 
 ![restoring-a-registry-key-in-command-prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/restoring-a-registry-key-in-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So, let's say something has happened to the keys and values within the **MyNewKey2** we saved in the previous section, you can use the backup file you created to restore it. You'll need to use the **reg restore** command. Here's how to run it:
 
@@ -193,14 +193,20 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-streamline-your-music-library-6-free-ios-apps-for-youtube-conversion/"><u>[New] In 2024, Streamline Your Music Library 6 Free iOS Apps for YouTube Conversion</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-delving-into-new-iphone-photography-paradigms-with-ios-11/"><u>2024 Approved Delving Into New iPhone Photography Paradigms with iOS 11</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-windows-11-backup-and-recovery-options/"><u>Demystifying Windows 11 Backup and Recovery Options</u></a></li>
-<li><a href="https://media-tips.techidaily.com/download-the-best-free-ios-13-app-for-screen-recording-on-iphone-8-x-xs-and-xr/"><u>Download the Best Free iOS 13 App for Screen Recording on iPhone 8, X, XS, and XR</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-high-definition-showdown-projection-systems-versus-tv-in-4k-world/"><u>In 2024, High-Definition Showdown Projection Systems versus TV in 4K World</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-breakpoints-in-windows-debugging-systems/"><u>Steps to Overcome Breakpoints in Windows Debugging Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-8-pomodoro-timers-maximizing-time-management-on-windows/"><u>The Ultimate 8 Pomodoro Timers: Maximizing Time Management on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-arp-cache-explored-and-deletion-strategies-revealed-139-chars-exceeds-limit-adjusted-to-fit-better-clearing-windows-arp/"><u>Windows ARP Cache Explored & Deletion Strategies Revealed (139 Chars, Exceeds Limit, Adjusted to Fit Better: Clearing Windows ARP</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-ultimate-list-of-top-quality-cost-free-luts/"><u>[New] 2024 Approved Ultimate List of Top-Quality, Cost-Free LUTs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-preserving-pixels-in-the-sky-selecting-best-photo-cloud-storages/"><u>[New] Preserving Pixels in the Sky Selecting Best Photo Cloud Storages</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-vr-cameras-clash-the-2023-showdown-between-gopro-and-yi/"><u>[Updated] In 2024, VR Cameras Clash The 2023 Showdown Between GoPro & Yi</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/dvd-mp4dvd/"><u>DVD化 公式ガイド：MP4ファイルをDVDビデオへの容易な変換方法</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-solutions-for-stubborn-windows-application-errors/"><u>Immediate Solutions for Stubborn Windows Application Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-sign-in-snag-onedrive-0x8004dec5-fix-guide-for-windows/"><u>Overcoming the Sign-In Snag: ONEDRIVE 0X8004DEC5 Fix Guide for Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pros-picks-10-premium-action-cameras-with-image-stabilization-for-2024/"><u>Pro's Picks 10 Premium Action Cameras with Image Stabilization for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-disabled-timed-lock-screen-delay/"><u>Remedy for Disabled Timed Lock Screen Delay</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-rectifying-something-went-wrong-in-outlook/"><u>Step-by-Step: Rectifying 'Something Went Wrong' In Outlook</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nail-tactics-for-top-views-on-youtube-videos/"><u>Thumbnail Tactics for Top Views on YouTube Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-notetaking-tablets-comprehensive-testing-and-insights-zdnet/"><u>Ultimate Guide to the Best Notetaking Tablets : Comprehensive Testing & Insights | ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-list-of-video-cutting-apps-on-windows-11/"><u>Ultimate List of Video Cutting Apps on Windows 11</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-best-of-the-best-top-5-video-editing-apps-for-iphone-this-year-for-2024/"><u>Updated Best of the Best Top 5 Video Editing Apps for iPhone This Year for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-store-troubleshooting-tips-for-error-x800704cf/"><u>Windows Store Troubleshooting Tips for Error X800704CF</u></a></li>
 </ul></div>
 

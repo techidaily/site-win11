@@ -1,7 +1,7 @@
 ---
 title: "Navigate Through Error Code 31: Restoring Your Internet Connection"
-date: 2025-01-29T00:11:33.224Z
-updated: 2025-02-03T22:36:01.521Z
+date: 2025-02-10T22:50:52.925Z
+updated: 2025-02-16T00:51:41.663Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check for Any Pending Network Driver Updates
 
  First off, check to see if your network driver has any pending updates. While you can update the drivers for the device connected to your computer using Device Manager, we don't recommend it, as Device Manager often fails to find the most recent updates for the driver.
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
  Additionally, you can also find new drivers using your manufacturer's proprietary system management tool. For example, with Lenovo and HP computers, you can use the Lenovo Vantage and HP Support Assistant utility to find and install new drivers for your network adapter and other devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Perform a Driver Roll Back
@@ -50,7 +54,7 @@ To perform a network driver rollback:
 4. Right-click on your network device and select**Properties** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. In the**Properties** dialog, open the**Driver** tab.  
@@ -58,7 +62,7 @@ To perform a network driver rollback:
 6. Click the**Roll Back Driver** button. If the option is**greyed out** , your computer doesn't have an older driver to perform a rollback. Check your manufacturer's website to see if they have older drivers in an archive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Next, in the confirmation dialog, give a reason and click**Yes** .
@@ -76,12 +80,12 @@ To perform a network reset:
 4. ![advanced network settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11.jpg)  
  Next, click on**Network reset** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. ![advanced network settings windows 11 network reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-network-reset.jpg)  
  Click on**Reset now** and click**Yes** to rest your network settings.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![advanced network settings windows 11 network reset reset now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-network-reset-reset-now.jpg)
 6. Your PC will restart during the process.
@@ -116,20 +120,16 @@ To perform a network reset:
 ![uninstall network device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-network-device-device-manager.jpg)
 4. In the confirmation dialog, check the**Attempt to remove the driver for this device** option.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![uninstall network driver device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-network-driver-device-device-manager.jpg)
 5. Click**Uninstall** to confirm the action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once uninstalled, restart your PC. After the restart, Windows will automatically detect connected but unrecognized devices and install the necessary drivers.
 
  If Windows fails to install the driver, open**Device Manager** , right-click on your network adapter and select**Update driver** . You can also download the latest drivers from your computer manufacturer's website, as shown in step one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Perform a System Restore
 
@@ -169,21 +169,22 @@ To perform a restore point:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-picart-tips-for-perfect-background-removal/"><u>[New] 2024 Approved PicArt Tips for Perfect Background Removal</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tep-by-step-crafting-professional-valorant-thumbnails-for-youtube-for-2024/"><u>[New] Step-by-Step Crafting Professional Valorant Thumbnails for Youtube for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-applications-for-crafting-dynamic-video-entrances/"><u>[Updated] 2024 Approved Best Applications for Crafting Dynamic Video Entrances</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-enhancing-social-media-impact-with-high-quality-360-facebook-content-for-2024/"><u>[Updated] Enhancing Social Media Impact with High-Quality 360 Facebook Content for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unveiling-the-tricks-for-flawless-file-imports-on-windows-10/"><u>[Updated] Unveiling the Tricks for Flawless File Imports on Windows 10</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-dive-into-iphone-photo-magic-with-surface-mirror-tips/"><u>2024 Approved Dive Into iPhone Photo Magic with Surface Mirror Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-ways-to-repair-windows-icon-cache/"><u>Effective Ways to Repair Windows Icon Cache</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-repair-defective-alt-keys-in-windows-48-characters/"><u>How to Repair Defective ALT Keys in Windows (48 Characters)</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-tech-world-affordable-lifetime-access-to-free-windows-11-on-black-friday-for-keys-fans/"><u>Master Your Tech World - Affordable Lifetime Access to Free Windows 11 on Black Friday for Keys Fans</u></a></li>
-<li><a href="https://win11.techidaily.com/masterfully-managing-software-dependencies-with-the-package-manager/"><u>Masterfully Managing Software Dependencies with the Package Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-alteration-of-windows-safescreen/"><u>Preventing Alteration of Windows SafeScreen</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/reevaluating-unnecessary-additions-for-chatgpt/"><u>Reevaluating Unnecessary Additions for ChatGPT</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/startmenu-components-on-your-pc/"><u>Startmenu Components on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/unleashing-data-efficiency-enabledisable-ntfs-compaction/"><u>Unleashing Data Efficiency: Enable/Disable NTFS Compaction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-performance-boost-tackling-high-cpu-drain-by-svchostexe-guide/"><u>Windows 10 Performance Boost: Tackling High CPU Drain by svchost.exe [Guide]</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-known-glitches-and-solutions/"><u>WINDOWS 11: Known Glitches & Solutions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-blueprint-for-permanent-instagram-exit-strategy/"><u>[New] The Ultimate Blueprint for Permanent Instagram Exit Strategy</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-quick-fix-resetting-live-broadcasts-on-twitch/"><u>[Updated] In 2024, Quick Fix Resetting Live Broadcasts on Twitch</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-innovation-how-final-cut-x-shapes-your-tall-screen-footage/"><u>[Updated] Instagram Innovation How Final Cut X Shapes Your Tall-Screen Footage</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-w10w11s-error-code-e1/"><u>Disabling W10/W11's Error Code E1</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dive-into-speed-and-sophistication-with-our-in-depth-review-on-the-glion-dolly-e-scooter/"><u>Dive Into Speed and Sophistication with Our In-Depth Review on the Glion Dolly E-Scooter</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-pc-capabilities-with-chatgpt-on-windows/"><u>Enhance PC Capabilities with ChatGPT on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-nat-type-on-windows-1110/"><u>How to Change NAT Type on Windows 11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/ignite-your-pcs-prowess-tackling-lags-in-windows-11/"><u>Ignite Your PC's Prowess: Tackling Lags in Windows 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-navigating-spotifys-ad-marketplace-successfully/"><u>In 2024, Navigating Spotify's Ad Marketplace Successfully</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-14-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 14</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/moving-dvds-to-your-surface-device-for-on-the-move-cinematic-experiences/"><u>Moving DVDs to Your Surface Device for On-the-Move Cinematic Experiences</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-frozen-media-player-apps-in-windows-11/"><u>Quick Fixes for Frozen Media Player Apps in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-no-signs-after-os-launch/"><u>Solving No Signs After OS Launch</u></a></li>
+<li><a href="https://win11.techidaily.com/start-your-freezes-fix-handbrake-windows-issue/"><u>Start Your Freezes: Fix HandBrake Windows Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-hack-for-recovering-windows-1011-keys/"><u>The Ultimate Hack for Recovering Windows 10/11 Keys</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-hidden-gem-oneplus-nord-n10-5g-a-comprehensive-review/"><u>Unveiling the Hidden Gem: OnePlus Nord N10 5G – A Comprehensive Review</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722972657288-update-your-epson-et-2750-windows-printer-drivers-today-with-these-simple-steps/"><u>Update Your Epson ET-2750 Windows Printer Drivers Today with These Simple Steps!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Steps to Correct Unsuranlized Device Error on Windows
-date: 2025-01-28T01:04:21.008Z
-updated: 2025-02-04T09:21:21.112Z
+date: 2025-02-08T17:13:12.607Z
+updated: 2025-02-15T20:11:36.853Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are the Reasons Behind the Error Message?
 
  You can see the “Format Disk in drive” message due to one or more of the following reasons:
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 4. Core system files have gone missing or corrupt.
 5. A third-party app is conflicting with system apps and services.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Methods to Fix the “You Need to Format the Disk in Drive Before You Can Use It” Error
 
  Try out the following methods to fix the disk error message and save your data stored on it:
@@ -42,16 +50,12 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 ###
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Check the USB Drive
 
  If connecting the USB drive to any USB port on your system produces the same error, then unplug it. Connect it to another computer and check if it shows up in Device Manager and you can access the file contents without any issues. If it works, create a copy of all your data on that system for backup purposes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Perform a Complete Shutdown
 
@@ -84,10 +88,6 @@ Repeat the following steps:
 ![Change the USB Drive Letter Using Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-the-usb-drive-letter-using-disk-management.jpg)
 5. Lastly, click on the**OK** button. Reconfirm your decision and click on the**Yes** button to change the Drive letter.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. You will see a system notification informing you about the Drive letter change and mounting the drive.
 7. Press**Win + E** to open the File Explorer and check whether the USB drive is accessible or not.
 
@@ -96,16 +96,12 @@ Repeat the following steps:
  It is possible for the USB disk to contain bad files and sectors; due to which Windows asks you to format it before usage. But you can leverage the inbuilt CHKDSK utility to scan the USB disk for errors and fix them for you. It will scan all the files on the disk and repair the drive. You can either use the[command prompt method or Run CheckDisk](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) using the Properties window in File Explorer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Run an SFC and DISM Scan
 
  If the check disk doesn’t do any good, and you still have the error, it is possible that your system files are missing or corrupt.[Start with an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) to check and replace any corrupt system files. Follow that up with a[DISM scan to fix the Windows installation image](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) . Make sure you have an active internet connection to run the DISM scan without any issues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Use a Linux Installation Media to Access the USB Disk Drive
 
@@ -121,6 +117,10 @@ Repeat the following steps:
 5. Click on the USB disk name in the navigation pane to open it. Now, you can copy these files to another location on your hard drive or an external hard disk.
 
 6. After you finish copying the contents of the USB disk, click on the power icon and choose the Power off option to close the Try Ubuntu mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Try Generic Fixes for Drive Formatting Issues
 
@@ -155,20 +155,24 @@ Repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-captivating-captions-writing-copy-that-drives-engagement-and-views/"><u>[New] 2024 Approved Captivating Captions Writing Copy That Drives Engagement and Views</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-nubia-z50s-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Nubia Z50S Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-windows-security-lock-and-sleep-timer/"><u>Enhancing Windows Security: Lock & Sleep Timer</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/how-to-enable-multilingual-support-for-your-e-books-on-flipbookercom/"><u>How to Enable Multilingual Support for Your E-Books on FlipBooker.com</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-mobile-hotspot-not-working-in-windows-11/"><u>How to Fix the Mobile Hotspot Not Working in Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-iphone-se-2020-for-free-by-drfone-ios/"><u>How To Unlock Cricket iPhone SE (2020) for Free</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-fundamental-equipment-for-channel-foundations/"><u>In 2024, Fundamental Equipment for Channel Foundations</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-setting-up-windows-hello-for-sign-in/"><u>Step-By-Step: Setting up Windows Hello for Sign In</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-overcoming-verified-app-issues-in-windows/"><u>Strategies for Overcoming Verified App Issues in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-fix-robloxs-error-403-in-a-windows-sphere/"><u>Strategies to Fix Roblox's Error 403 in a Windows Sphere</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-closed-caption-glitches-a-win-10-solution/"><u>Taming Closed Caption Glitches: A Win 10 Solution</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-ae-plug-ins-enhance-your-visual-storytelling/"><u>Top AE Plug-Ins Enhance Your Visual Storytelling</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-testing-asus-rog-keris-ii-ace-the-real-competitor-to-deathadder-v3-pro/"><u>Unboxing and Testing Asus ROG Keris II Ace - The Real Competitor to DeathAdder V3 Pro?</u></a></li>
-<li><a href="https://win11.techidaily.com/win-at-vms-essential-ways-to-amplify-windows-performance/"><u>Win at VMs: Essential Ways to Amplify Windows Performance</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-choosing-free-video-editing-software-on-iphone-and-ipad/"><u>[Updated] In 2024, Choosing Free Video Editing Software on iPhone & iPad</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-easing-into-frame-focus/"><u>[Updated] In 2024, Easing Into Frame Focus</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ilblazers-guide-youtube-studio-location-unveiled-for-2024/"><u>A Trailblazer’s Guide YouTube Studio Location Unveiled for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-new-edge-10-tailored-enhancements/"><u>ChatGPT's New Edge: 10 Tailored Enhancements</u></a></li>
+<li><a href="https://win11.techidaily.com/connecting-windows-registrations-to-microsoft-services/"><u>Connecting Windows Registrations to Microsoft Services</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-gaming-experience-conquer-stuttering-in-warhammer-40k/"><u>Elevate Your Gaming Experience: Conquer Stuttering in Warhammer 40K</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-honor-magic-6-lite-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Honor Magic 6 Lite Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-note-30-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Infinix Note 30 Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-smart-8-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Smart 8 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/making-the-most-of-windows-11-a-desktop-widget-walkthrough/"><u>Making the Most of Windows 11: A Desktop Widget Walkthrough</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-optimization-essential-techniques-for-your-windows-system/"><u>Mastering Optimization: Essential Techniques for Your Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-common-snip-and-sketch-screen-capture-issues/"><u>Navigate Through Common Snip & Sketch Screen Capture Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-common-errors-conquering-access-denied-on-windows-11/"><u>Navigating Common Errors: Conquering 'Access Denied' On Windows 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/premier-seminar-title-inventor-suite/"><u>Premier Seminar Title Inventor Suite</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-the-process-of-uac-picture-taking/"><u>Streamlining the Process of UAC Picture Taking</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-edge-40-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Edge 40 fingerprint</u></a></li>
+<li><a href="https://win11.techidaily.com/win-os-troubleshooting-guide-for-bluetooth-pairing-woes/"><u>Win OS Troubleshooting Guide for Bluetooth Pairing Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-design-customization-stick-this-pc-icons/"><u>Windows Design Customization: Stick 'This PC' Icons</u></a></li>
 </ul></div>
 

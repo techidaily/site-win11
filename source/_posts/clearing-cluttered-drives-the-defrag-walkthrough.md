@@ -1,7 +1,7 @@
 ---
 title: "Clearing Cluttered Drives: The Defrag Walkthrough"
-date: 2024-07-29T15:52:19.630Z
-updated: 2024-07-30T15:52:19.630Z
+date: 2025-02-11T18:33:40.850Z
+updated: 2025-02-15T22:03:04.610Z
 tags:
   - windows10
   - windows11
@@ -32,27 +32,26 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 ![The Optimize Drives window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/optimize-drives-window.jpg)
 6. Select the**Optimize** option to defrag the drive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  How much you need to defrag a drive depends on the fragmentation percentage figure shown in the**Current Status** column. If that’s less than the four percent mark, defragmentation isn’t particularly necessary and won’t make much difference. However, it’s worth defragging a drive with more than 10 percent fragmentation.
 
  To set a schedule for optimizing the C: drive, click the**Change settings** button. That will bring up an Optimize drive window that includes options with which you schedule automatic drive defragging. You may find the**Run on a schedule** checkbox there selected by default. However, select that setting if it’s not already enabled.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![The Run on a schedule checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-on-a-schedule-checkbox.jpg)
 
  You can set the defrag frequency in the drop-down menu below that option. Click the**Frequency** drop-down menu to view its options. Then select**Daily** ,**Weekly** , or**Monthly** according to preference.
 
  If you’ve partitioned your HDD, you can select to optimize alternative drive partitions beyond C. Clicking**Choose** below the**Run on a schedule** setting will bring up a drive selection window. There you can select other drives for which to schedule regular optimization.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The drive selection window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/drive-selection-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Defrag a Hard Drive With the Command Prompt
 
  Alternatively, you can utilize a defragger command-line tool within the Command Prompt. That tool is more flexible because it has various parameters you can set in commands. This is how to defrag your hard drive with the Command Prompt in Windows 11.
@@ -64,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 `defrag c: /a`
 5. Then defragment the C: drive by executing this command:  
 `defrag c:`  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![The defrag c command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/defrag-c-command.jpg)
 
  As mentioned, this command-line tool has numerous parameters for configuring the defragment operation. Those parameters give you extra optimization options and enable you to tweak the defragging more. You can view the parameter switches by inputting and executing this command:
@@ -78,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 ![The defrag help command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/defrag-parameter-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Defrag a Hard Drive With Defraggler
 
  Piriform Defraggler is a more advanced drive optimization tool than Defragment and Optimize Drives, which you can utilize on Windows platforms dating back to XP. It enables you to defrag whole drive volumes, specific folders, or even single files. You can defrag a hard drive with Defraggler like this:
@@ -103,11 +100,12 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![The Action menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-action-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To set automatic drive optimization, click the**Settings** menu and select**Schedule** ; choose a drive in the drop-down menu and select**Schedule drive optimization for chosen volume** . Then choose one of the period options to configure according to preference. You can also select one of four optimization settings on the**Defrag type** drop-down menu. Click**OK** to set the schedule.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Schedule window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-schedule-window.jpg)
 
 ## Can I Defrag a Solid-State Drive?
@@ -117,8 +115,9 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
  Check out our article about[why you shouldn’t defrag SSDs](https://www.makeuseof.com/should-you-optimize-ssd/) for further details.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Enhance Your PC’s HDD Efficiency in Windows 11
 
  Defragging your PC’s hard drive on a reasonably regular basis with the utilities covered above will make it an altogether faster and more responsive one. Once-the-month manual defrags will usually be sufficient for minimizing data fragmentation and maintaining optimal drive efficiency. Windows 11’s built-in tools are ok for drive optimization, but Defraggler offers the most extensive defrag options.
@@ -129,8 +128,6 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +135,26 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-a-step-by-step-tutorial-for-recording-youtube-live-across-devices/"><u>[New] 2024 Approved A Step-by-Step Tutorial for Recording YouTube Live Across Devices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-youtube-entrepreneurship-building-a-recognizable-brand/"><u>[New] 2024 Approved YouTube Entrepreneurship Building a Recognizable Brand</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-superior-convert-mp4-to-facebook-platforms/"><u>[New] In 2024, Superior Convert MP4 to Facebook Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-instant-transition-vanishing-in-a-minute/"><u>[New] Instant Transition Vanishing in a Minute</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-sound-problem-windows-another-application-interference/"><u>Correcting Sound Problem: Windows 'Another Application' Interference</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-windows-account-access-lockouts/"><u>Fine-Tuning Windows Account Access Lockouts</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-a-sheen-taskbar-for-windows-11-users/"><u>Guide to a Sheen Taskbar for Windows 11 Users</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-tecno-spark-20-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Tecno Spark 20 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-typical-anydesk-windows-hiccups/"><u>Navigating Typical AnyDesk Windows Hiccups</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/new-ios-patch-resolves-issue-with-reviving-past-images-deleted-from-library/"><u>New iOS Patch Resolves Issue with Reviving Past Images Deleted From Library</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-best-of-both-worlds-free-and-paid-time-lapse-video-editors-for-2024/"><u>New The Best of Both Worlds Free and Paid Time-Lapse Video Editors for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/perfect-photos-post-edit-top-6-iphone-techniques-to-tidy-up-images-for-2024/"><u>Perfect Photos Post-Edit Top 6 iPhone Techniques to Tidy Up Images for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/steering-clear-of-fatigue-post-winning-life-with-windows/"><u>Steering Clear of Fatigue Post Winning Life with Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insider-guide-to-win11-accessibility-keys/"><u>The Insider Guide to Win11 Accessibility Keys</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/forming-doubt-into-action-channeling-vlogger-excellence/"><u>Transforming Doubt Into Action Channeling Vlogger Excellence</u></a></li>
+<li><a href="https://win11.techidaily.com/triumphant-three-column-widget-setup-in-the-latest-win11-version/"><u>Triumphant Three-Column Widget Setup in the Latest Win11 Version</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unveiling-secrets-low-light-iphone-photography/"><u>Unveiling Secrets Low Light iPhone Photography</u></a></li>
+<li><a href="https://win11.techidaily.com/winfix-methods-to-overcome-missing-msvcrt120dll-errors/"><u>Winfix: Methods to Overcome Missing Msvcrt120dll Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/your-blueprint-for-engaging-the-backup-and-restore-feature-in-windows-11/"><u>Your Blueprint for Engaging the Backup and Restore Feature in Windows 11</u></a></li>
+</ul></div>
 

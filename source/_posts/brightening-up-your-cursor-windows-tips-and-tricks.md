@@ -1,7 +1,7 @@
 ---
 title: "Brightening Up Your Cursor: Windows Tips & Tricks"
-date: 2024-07-29T15:51:21.118Z
-updated: 2024-07-30T15:51:21.118Z
+date: 2025-02-09T21:55:58.447Z
+updated: 2025-02-15T23:53:01.086Z
 tags:
   - windows10
   - windows11
@@ -28,21 +28,19 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 2. Select**Bluetooth & devices** in Windows 11’s Settings app. You’ll need to select the**Devices** category in Windows 10.
 3. Click**Mouse** to view settings for that device type.
 4. Select**Additional mouse settings** (or**Additional mouse options**) in the Windows Settings app.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Additional mouse settings navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/additional-mouse-settings-option.jpg)
 5. Then click the**Pointer Options** tab in the Mouse Properties window that opens.
 6. Select the**Show location of pointer** **when I press the Ctrl key** checkbox.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![show-location-of-pointer-setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/show-location-of-pointer-setting.jpg)
 7. Click**Apply** in the Mouse Properties window.
 
  Now try out the new pointer highlighting by pressing the**Ctrl** key. You’ll see a circle expand and quickly shrink around the cursor whenever you press that key. That’s supposed to help users find their mouse pointers. However, it’s a somewhat unnecessary feature for that purpose since moving the mouse around is usually the best way to find the cursor.
 
  That feature can come in handy for Windows video tutorials though. Activating the circle animation will draw viewers’ attention to a cursor’s position. You can use it to briefly highlight settings by moving the cursor next to any option that needs selecting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Highlight the Cursor With Mouse Pointer Highlight
 
@@ -58,25 +56,26 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 
 ![mouse-highlight-app-window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mouse-highlight-app-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The default size for the circle highlight is 30, but you can make it bigger or smaller. Enter a value less than 30 in the**Size** box. Or input a number higher than 30 to increase the circle’s size.
 
  You can adjust the circle’s transparency by changing the value in the**Opacity** box. Entering a lower value there will increase transparency. Inputting**0** makes the circle invisible, and entering the max**255** value removes the transparency.
 
  This app also has a click highlight effect you can enable. When enabled, you’ll see a second circle with a different color briefly appear around the cursor whenever you click the mouse. Select the**Enable** checkbox to turn on that feature.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![A mouse click cursor highlight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-click-highlight.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then you can configure that secondary click highlight circle by entering alternative values in the**Size** and**Opacity** boxes much the same. There’s also a**Display Time** box for click highlight. Enter an alternative millisecond value there to change how long the circle appears. The default display time of 800 milliseconds is close to a second.
 
  When you’re done configuring your cursor highlighting, click the**Apply Setting** button. The app must be running for its cursor highlighting to work, but it doesn’t run in the background with a system tray icon. Minimize the app’s window to the taskbar when you’re utilizing it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Highlight the Cursor With PowerToys
 
  PowerToys is an app with which you can enable a variety of handy new tools and features in Windows 11.10\. Our[best things to do in PowerToys](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) guide tells you about some of the tools you can activate with that software.
@@ -98,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 
 ![The Appearance & behavior settings in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/appearance-behavior-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Highlight the Cursor in Edge and Chrome With the Cursor Highlighter Extension
 
  If you only need to highlight your cursor in Edge or Chrome, check out the Cursor Highlight extension for those browsers. That extension adds a color circle to the mouse pointer in those browsers. It also highlights the cursor with a nice animation effect you don’t get with PowerToys or Mouse Pointer Highlighter. You can highlight your cursor with that add-on like this:
@@ -110,22 +106,25 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 3. Then press the**Extensions** button in Chrome or Edge.  
 ![the-extensions-menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extensions-menu.jpg)
 4. Click**Cursor Highlighter** to view the extension’s options.
-5. Turn on the**Enable/Disable** option.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Turn on the**Enable/Disable** option.  
 ![The Cursor Highlighter extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-cursor-highligher-extension.jpg)
 6. Click the color palette box to choose a color for the highlight and select save.
 7. Now open a new website page in your browser to see your highlighted cursor.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![The mouse pointer highlight added by the Cursor Highlighter extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-circle-highligher-for-cursor.jpg)
 
  Note that extensions from other stores need to be enabled for Edge users to highlight their cursors with this Chrome add-on. You can access that option in Edge by pressing**Alt** +**F** and selecting**Extensions** \>**Manage Extensions** . Then turn on the**Allow extensions from other stores** setting.
 
 ![The Allow extensions from other stores setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-extensions-from-other-stores-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make the Mouse Cursor Stand Out by Highlighting It in Windows
 
@@ -137,8 +136,6 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +143,23 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-10-youtube-music-rippers-for-android-and-ios/"><u>[New] 2024 Approved 10 YouTube Music Rippers for Android and iOS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-bright-future-for-your-android-videos-a-comprehensive-plan/"><u>[New] Bright Future for Your Android Videos - A Comprehensive Plan</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-ultimate-guide-to-xbox-one-and-zoom-harmony/"><u>[Updated] The Ultimate Guide to Xbox One and Zoom Harmony</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/can-you-safely-utilize-a-legacy-windows-graphics-card-driver-unveiling-the-truth-with-yl-computing/"><u>Can You Safely Utilize a Legacy Windows Graphics Card Driver? Unveiling the Truth with YL Computing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/comprehensive-examination-for-straightforward-hdr/"><u>Comprehensive Examination for Straightforward HDR</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-merging-onedrive-with-microsoft-id/"><u>Expert Tips for Merging OneDrive with Microsoft ID</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hear-divine-voices-downloading-and-altering-ringtone-audio-for-2024/"><u>Hear Divine Voices Downloading & Altering Ringtone Audio for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/identifying-and-correcting-windows-alt-defects-53-characters/"><u>Identifying and Correcting Windows Alt Defects (53 Characters)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-the-power-of-film-in-educational-practice/"><u>In 2024, Harnessing the Power of Film in Educational Practice</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-to-shut-down-the-defender-firewall-on-pc/"><u>Learn to Shut Down the Defender Firewall on PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/monitoring-mobile-and-internet-data-use-top-tips-and-techniques/"><u>Monitoring Mobile and Internet Data Use: Top Tips & Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-device-transition-windows-and-android-via-flow-seamlessly/"><u>Smooth Device Transition: Windows & Android via Flow Seamlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/solve-your-windows-hello-a-quick-guide-to-fixing-errors/"><u>Solve Your Windows Hello: A Quick Guide to Fixing Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/take-control-of-your-user-experience-mastering-8-bubbleui-techniques/"><u>Take Control of Your User Experience - Mastering 8 BubbleUI Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-11-the-doorway-to-all-its-folders-of-applications/"><u>Unlocking Windows 11: The Doorway to All Its Folders of Applications</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-clearing-the-microphone-effective-strategies-for-cutting-out-vocals-using-audacitys-spectrum-analyzer/"><u>Updated 2024 Approved Clearing the Microphone Effective Strategies for Cutting Out Vocals Using Audacitys Spectrum Analyzer</u></a></li>
+</ul></div>
 

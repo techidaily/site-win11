@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Gap: Integrating Gmail with Outlook App for Windows"
-date: 2024-07-29T15:54:19.334Z
-updated: 2024-07-30T15:54:19.334Z
+date: 2025-02-11T04:56:23.979Z
+updated: 2025-02-15T18:18:44.224Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
  More importantly, it supports an improved Gmail integration that allows users to directly access their email, contacts, and calendar through the Outlook for Windows preview app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Get the Outlook for Windows Preview App
 
  Before we get Gmail accounts into Outlook, we need to get the preview version of the app. The Outlook for Window preview app is available to users who have signed up for the Microsoft 365 Insider (formerly Office Insider) program. The latest version of Outlook aims to help users work more efficiently through a rich design and many new features.
@@ -36,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
  Alternatively, you can try Outlook for Windows Preview through the**Mail** and**Calendar** apps on Windows 10 and 11\. Simply launch the apps via the**Start** menu and enable the**Try the new Outlook** toggle button.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add a Gmail Account to Outlook
 
  Now that you're using the preview version of Outlook, you can now make use of its Gmail integration. Once enabled, users can access their Google calendar and contacts right through the Outlook for Windows app, so you can say goodbye to using a browser to access your email and calendar.
@@ -45,23 +47,18 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
  To add a Gmail account to the new Outlook for Windows preview app, you will first need to switch over to the Outlook for Windows preview app and then perform the following:
 
 1. From the**Start** menu, launch the**Mail** app and slide the**Try the new Outlook** toggle button.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![enable outlook preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-outlook-preview.jpg)
 2. Alternatively, if you’ve set up Microsoft 365 Insider, launch the**Outlook** app and enable the**Try the new Outlook** toggle button.
 3. Wait for the app to relaunch and quickly walk through the quick start guide.
 4. In the folder pane on the right, scroll to the bottom and select**Add account** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![add account outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-account-outlook.jpg)
 5. If you can’t find that option, navigate to**Accounts > Email accounts > Settings** instead.
 
-1. Enter your Gmail account and press**Continue.**  
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+1. Enter your Gmail account and press**Continue.**  
 ![outlook-preview-account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/outlook-preview-account.jpg)
 2. When asked for confirmation to sync your Gmail account, press**Continue** once again.
 3. You will then be redirected to your web browser to complete the Gmail sign-in.
@@ -70,20 +67,22 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 5. Finally, press**Done** within the Outlook for Windows preview app to access your Google email, contacts, and calendar.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The New Outlook App Is Getting Better
 
  Millions of users have trusted Microsoft Outlook for over two decades, and to ensure its continuity, Microsoft has completely revamped the desktop Outlook experience for the better. Outlook is on its way to being a reliable desktop companion for the next generation of its users.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -92,4 +91,22 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-engaging-scriptwriting-techniques-for-higher-video-rankings-for-2024/"><u>[Updated] Engaging Scriptwriting Techniques for Higher Video Rankings for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/crafting-excellent-micro-photography-videos-step-by-step/"><u>Crafting Excellent Micro Photography Videos Step by Step</u></a></li>
+<li><a href="https://win11.techidaily.com/diagnosing-microphone-problems-for-xbox-app-users/"><u>Diagnosing Microphone Problems for Xbox App Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-permanent-windows-10-update-freeze-at-99-percent/"><u>Fixing the Permanent Windows 10 Update Freeze at 99 Percent</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reestablish-sync-in-microsoft-to-do-app/"><u>How to Reestablish Sync in Microsoft To-Do App</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-studio-edits-demystified-for-aspiring-filmmakers/"><u>In 2024, YouTube Studio Edits Demystified for Aspiring Filmmakers</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/leading-choices-in-efficient-paralogical-data-recovery-software-discover-optimal-alternatives/"><u>Leading Choices in Efficient Paralogical Data Recovery Software – Discover Optimal Alternatives</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-power-efficiency-in-high-end-pc-gaming/"><u>Mastering Power Efficiency in High-End PC Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-correct-generic-volume-controller-incompatibility/"><u>Methods to Correct 'Generic Volume Controller' Incompatibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-issues-with-deactivated-windows-11-license/"><u>Overcoming Issues with Deactivated Windows 11 License</u></a></li>
+<li><a href="https://article-tips.techidaily.com/premium-sites-summarized-acquiring-personal-preferences-in-ringtone-vids-for-2024/"><u>Premium Sites Summarized Acquiring Personal Preferences in Ringtone Vids for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-resolution-guide-top-6-actions-to-overcome-powerpoint-errors/"><u>Speedy Resolution Guide: Top 6 Actions to Overcome PowerPoint Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-eradicating-0x8007045d-in-win11/"><u>The Ultimate Guide to Eradicating 0X8007045d in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unfreezing-ms-store-fixing-windows-1011s-error-code-0x0/"><u>Unfreezing MS Store - Fixing Windows 10/11'S Error Code 0X0</u></a></li>
+</ul></div>
 

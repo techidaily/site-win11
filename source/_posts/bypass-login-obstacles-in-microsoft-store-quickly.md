@@ -1,7 +1,7 @@
 ---
 title: Bypass Login Obstacles in Microsoft Store Quickly
-date: 2024-07-29T15:54:58.860Z
-updated: 2024-07-30T15:54:58.860Z
+date: 2025-02-14T16:21:58.461Z
+updated: 2025-02-16T04:50:35.127Z
 tags:
   - windows10
   - windows11
@@ -20,14 +20,15 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 
  Below, we share some quick and easy fixes you can try if you cannot sign in to the Microsoft Store on your Windows computer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Check Your Internet Connection
 
  A slow or inconsistent internet connection can make it difficult for the Microsoft Store to communicate with its servers and authenticate your sign-in credentials. Hence, it's a good idea to ensure your PC has a working internet connection before trying anything else. You can do this by opening a web browser and loading a few websites.
 
 If the internet appears to be working, continue with the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the Windows Store Apps Troubleshooter
 
@@ -38,16 +39,14 @@ To run the Windows Store apps troubleshooter, use these steps:
 1. Press**Win + I** to open the Settings app.
 2. In the**System** tab, navigate to**Troubleshoot > Other troubleshooters** .
 3. Click the**Run** button next to**Windows Store Apps** .  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-windows-store-apps-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After running the troubleshooter, try signing into the Microsoft Store again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## 3\. Clear Microsoft Store Cache
 
  Like most apps, Microsoft Store collects cache data on your computer to speed up loading times and enhance app performance. However, if this data becomes corrupted, it could lead to many issues, including this one.
@@ -64,10 +63,11 @@ To repair the Microsoft Store app on Windows:
 2. Select**Installed apps** from the list.
 3. Scroll through the list to locate the**Microsoft Store** app. Click the**three-dot menu icon** next to it and select**Advanced options** .
 4. Under the**Reset** section, click the**Repair** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Repair or Reset Microsoft Store on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-or-reset-microsoft-store-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A checkmark should appear next to the Repair button once the process is complete.
 
@@ -81,10 +81,11 @@ To repair the Microsoft Store app on Windows:
 2. Select the**Time & language** tab from the left pane.
 3. Click on**Date & time** .
 4. Enable the toggle next to**Set time automatically** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable Automatic Date and Time on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-automatic-date-and-time-on-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Make Sure Microsoft Store Install Service Is Running
 
@@ -101,15 +102,13 @@ To configure the Microsoft Store Install Service on Windows:
 ![Configure Microsoft Store Install Service on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/configure-microsoft-store-install-service-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Temporarily Disable Your VPN
 
  Although a VPN connection protects your privacy, issues with your VPN servers can sometimes prevent apps like Microsoft Store from working correctly. When this happens, you will likely encounter sign-in errors in the Microsoft Store. You can temporarily disable your VPN connection to see if that helps.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Someone typing on a laptop sitting on a coffee table. The laptop is connecting to a VPN.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/laptop-connecting-to-a-vpn.jpg)
 
  Once you have successfully signed into Microsoft Store, you can choose to re-enable your VPN connection if you want.
@@ -122,10 +121,6 @@ To configure the Microsoft Store Install Service on Windows:
 
  If re-registering Microsoft Store does not help, you can consider uninstalling it from your system and installing it again. This should give the app a clean start and resolve any issues that may have been preventing you from signing in. If you need help with this, check our guide on[how to remove and reinstall Microsoft Store on Windows](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## 10\. Install Windows Updates
 
  Microsoft constantly pushes updates for both Windows 10 and 11 to introduce new features, enhance security, and, most importantly, address any known bugs. If the issue with the Microsoft Store is caused by a bug within the operating system, installing the latest updates should help.
@@ -134,18 +129,19 @@ To configure the Microsoft Store Install Service on Windows:
 
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Regain Access to the Microsoft Store on Windows
 
  Such sign-in issues with the Microsoft Store can be pretty frustrating. Hopefully, one or more of the fixes mentioned above helped you resolve the underlying issue, and you could sign in to the Microsoft Store without any problems.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +150,23 @@ To configure the Microsoft Store Install Service on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-tactics-to-determine-igtv-viewership-success/"><u>[Updated] In 2024, Tactics to Determine IGTV Viewership Success</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-tips-for-swapping-video-direction-in-snapchat-for-2024/"><u>[Updated] Tips for Swapping Video Direction in Snapchat for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/elusive-command-center-hide-and-seek-guide-for-win/"><u>Elusive Command Center Hide-and-Seek Guide for Win</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-playing-to-puzzle-dismantling-xbox-s-controllers/"><u>From Playing to Puzzle: Dismantling Xbox S Controllers</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-failed-feature-update-installations-for-windows-11-version-1607/"><u>How to Resolve Failed Feature Update Installations for Windows 11 Version 1607</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/joyjingles-where-to-find-hilarious-ringtone-links-for-2024/"><u>JoyJingles Where to Find Hilarious Ringtone Links for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/muting-chromium-browser-sounds-on-windows-pc/"><u>Muting Chromium Browser Sounds on Windows PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-web-ais-emerging-influence/"><u>Navigating the Web: AI's Emerging Influence</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-cmd-setups-with-windows-shortcuts-a-practical-guide/"><u>Quick Cmd Setups with Windows Shortcuts: A Practical Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-notepad-on-windows-quick-fixes-guide/"><u>Reviving Your Notepad on Windows: Quick Fixes Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-power-of-windows-updates/"><u>Unlock the Power of Windows Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-essential-pct-paths/"><u>Unlocking Windows: Essential PCT Paths</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-how-to-remove-static-noise-from-audio-in-seconds/"><u>Updated In 2024, How to Remove Static Noise From Audio in Seconds</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-change-your-onedrive-folders-address/"><u>Win 11: Change Your OneDrive Folder's Address</u></a></li>
+</ul></div>
 

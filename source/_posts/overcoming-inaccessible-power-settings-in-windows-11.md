@@ -1,7 +1,7 @@
 ---
 title: Overcoming Inaccessible Power Settings in Windows 11
-date: 2025-02-01T17:17:02.067Z
-updated: 2025-02-03T16:23:59.001Z
+date: 2025-02-12T23:08:46.404Z
+updated: 2025-02-15T23:09:24.667Z
 tags:
   - windows10
   - windows11
@@ -47,18 +47,27 @@ Here is how you can proceed:
 ![Click on Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/large-icons-control-panel.jpg)
 4. Now, look for**Power options** and click on it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Click on Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/win11-power-options.jpg)
 5. You should now be able to see your current power plan. Click on**Create a power plan** in the left pane.  
-![Create a power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/create-power-plan-1.jpg)
-6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Create a power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/create-power-plan-1.jpg)
+6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
 
 Once done, check if you can now change the power mode successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the Power Troubleshooter
 
@@ -74,15 +83,11 @@ Here is how you can run the troubleshooter:
 ![Click on Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-win11.jpg)
 4. Now, look for the Power troubleshooter and click on the**Run** button for it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Reset the Power Settings
@@ -98,10 +103,6 @@ Follow these steps to proceed:
 powercfg –restoredefaultscheme  
 ![Restore the default power theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powercfg-restoredefaultschemes.jpg)
 5. Once the command is executed, check if you can change the power mode successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In case the power plan changes again after a short while of executing this method, you will need to make changes as an administrator in the Group Policy Editor.
 
@@ -119,7 +120,7 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 Hopefully, this will resolve the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Revert the System to an Older Working State
@@ -151,21 +152,20 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-capturing-the-moment-advanced-tips-for-iphone-silhouettes/"><u>[New] Capturing the Moment Advanced Tips for iPhone Silhouettes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-briskbounce-momentmirror-tape/"><u>[New] In 2024, BriskBounce MomentMirror Tape</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-expert-tips-for-smooth-cross-sounding-with-audacity/"><u>[Updated] Expert Tips for Smooth Cross-Sounding with Audacity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-funflicks-full-evaluation-and-instructions-24/"><u>[Updated] FunFlicks Full Evaluation & Instructions '24</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-reigniting-your-contents-sparkle-top-strategies-for-increasing-youtube-visibility/"><u>[Updated] Reigniting Your Content's Sparkle Top Strategies for Increasing YouTube Visibility</u></a></li>
-<li><a href="https://win11.techidaily.com/alcwavmp3/"><u>ALCフォーマットを効率的にWAVやMP3に変換する方法 | ハイレゾ音質移行手順</u></a></li>
-<li><a href="https://win11.techidaily.com/aviyoutube/"><u>AVI形式への無料YouTubeビデオ変換</u></a></li>
-<li><a href="https://win11.techidaily.com/best-top-10-screen-capture-tools-on-windows-10-enhance-your-productivity/"><u>Best Top 10 Screen Capture Tools on Windows 10: Enhance Your Productivity</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-dvd-video-toolkit-effortless-conversion-from-dvd-to-apple-devices-and-cellphones/"><u>Comprehensive DVD Video Toolkit - Effortless Conversion From DVD to Apple Devices and Cellphones</u></a></li>
-<li><a href="https://win11.techidaily.com/convert-your-ape-audio-files-free-of-charge-simple-and-effective-techniques/"><u>Convert Your APE Audio Files Free of Charge: Simple and Effective Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-the-top-rated-app-for-seamless-dvd-to-android-video-conversion/"><u>Discover the Top-Rated App for Seamless DVD to Android Video Conversion!</u></a></li>
-<li><a href="https://win11.techidaily.com/download-and-maximize-your-mobile-experience-with-factory-pros-hd-video-conversion-guide/"><u>Download & Maximize Your Mobile Experience with Factory Pro's HD Video Conversion Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-14-plus-5-ways-to-get-into-a-locked-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 14 Plus? 5 Ways to get into a Locked Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-poco-x5-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Poco X5 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/six-proven-fixes-for-when-your-ipadiphone-typing-doesnt-work-a-step-by-step-guide/"><u>Six Proven Fixes for When Your iPad/iPhone Typing Doesn't Work: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-web3.techidaily.com/step-by-step-guide-effective-file-and-folder-synchronization-on-windows-7/"><u>Step-by-Step Guide: Effective File & Folder Synchronization on Windows 7</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-essential-frames-from-apples-display-max-length-156/"><u>[Updated] In 2024, Essential Frames From Apple's Display (Max Length 156)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/high-definition-capture-best-pc-cameras-for-windows-11/"><u>High Definition Capture Best PC Cameras for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-optimize-windows-11-taskbar/"><u>How to Optimize Windows 11 Taskbar</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pewdiepie-revenue-analysis-overview/"><u>In 2024, PewDiePie Revenue Analysis Overview</u></a></li>
+<li><a href="https://fox-info.techidaily.com/incredible-virtual-films-to-explore-for-2024/"><u>Incredible Virtual Films to Explore for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/make-your-window-interface-unforgettable-using-winbubble-tips/"><u>Make Your Window Interface Unforgettable Using WinBubble Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-your-pc-with-these-4-win11-god-mode-tricks/"><u>Maximize Your PC with These 4 Win11 God Mode Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-start-how-to-set-up-outlook-preview-on-windows-1011/"><u>Quick Start: How to Set Up Outlook Preview on Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-blue-screen-code-0xc0000142/"><u>Rectifying Blue Screen Code 0XC0000142</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-click-no-open-windows-folder-troubles/"><u>Remedying Click, No Open: Windows Folder Troubles</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-connection-issues-how-to-troubleshoot-your-airpods-on-windows-11/"><u>Resolving Connection Issues: How to Troubleshoot Your AirPods on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-disappearing-win1110-pci-devices/"><u>Tackling Disappearing Win11/10 PCI Devices</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-understanding-the-advantages-of-the-iphone-12-series/"><u>The Ultimate Guide to Understanding the Advantages of the iPhone 12 Series</u></a></li>
+<li><a href="https://win11.techidaily.com/win11s-best-matches-8-superb-video-editing-apps/"><u>Win11’s Best Matches: 8 Superb Video Editing Apps</u></a></li>
 </ul></div>
 

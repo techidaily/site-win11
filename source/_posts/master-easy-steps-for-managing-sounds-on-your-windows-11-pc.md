@@ -1,7 +1,7 @@
 ---
 title: Master Easy Steps for Managing Sounds on Your Windows 11 PC
-date: 2025-01-27T16:40:33.715Z
-updated: 2025-02-04T01:30:32.586Z
+date: 2025-02-11T00:15:46.287Z
+updated: 2025-02-15T16:49:54.891Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Open Sound Settings Using Windows Search
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 
 ![Open Sound Settings Using Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-search-bar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. How to Open Sound Settings Using Run Command
 
  The Run command is another quick method to open Sound Settings. Windows offers a host of shortcut commands helpful in accessing settings and programs quickly. The process is different from the search bar but if you’d like to try this method, follow these steps:
@@ -50,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 2. Type **ms-settings:sound** in the dialog box and click **OK** to open Sound Settings.  
 ![Open Sound Settings Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-run-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. How to Open Sound Settings Through the Taskbar
 
  The taskbar acts as the main launchpad for essential Windows applications. It provides quick access to apps, programs, and settings via the Start menu. If you’d like to open Sound Settings from here, follow these steps:
@@ -61,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 1. Go to the Taskbar area and right-click on the **Speaker** icon.
 2. Select **Sound settings** from the context menu.  
 ![Open Sound Settings Through Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-through-taskbar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Sound Settings window will open, and you can make the desired changes from here.
 
@@ -77,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
  This opens the Sound Settings window where you can customize and optimize your audio. When done, close the window, and you’re back on track.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. How to Open Sound Settings Using Command Prompt
@@ -91,11 +95,11 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 3. Input **start ms-settings:sound** on the command line and press Enter.  
 ![Open Sound Settings Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-command-prompt.jpg)
 
- This opens the Sound Settings window on your computer. Make the necessary changes then close it.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ This opens the Sound Settings window on your computer. Make the necessary changes then close it.
 
 ## 6\. How to Open Sound Settings Using Windows PowerShell
 
@@ -109,14 +113,14 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 ![Open Sound Settings Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-powershell.jpg)
 4. In the PowerShell window, type the following command:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `start-process ms-settings:sound`
 5. Now press Enter to execute it.
 
  This opens the Sound Settings window where you can customize your audio settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. How to Open Sound Settings Using System Settings
 
@@ -128,10 +132,6 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 ![Open Sound Settings Using System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-system-settings.jpg)
 
  This opens up the Sound Settings page with options to adjust output, input, and system sounds.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. How to Open Sound Settings Using a Desktop Shortcut
 
@@ -146,10 +146,6 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 4. Now name your shortcut, such as **Sound Settings,** and click **Finish**.  
 
 ![Name Sound Settings Shortcut Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/name-sound-settings-shortcut-key.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A new shortcut appears on the desktop. Double-click it to open Sound Settings directly. This is a great way to quickly access this setting instead of using the search bar or other methods.
 
@@ -169,6 +165,10 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 
  Your shortcut key is now ready to use. Press **Ctrl + Alt** **\+ the keystroke you just assigned** to open Sound Settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Quick Access to the Windows Sound Settings
 
  This guide has explained several ways to access Windows Sound Settings. It allows you to customize your sound preferences and control your audio settings conveniently. If you frequently use the settings, then create a desktop shortcut or hotkey for it.
@@ -185,20 +185,22 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/xclusive-access-prime-video-downloader-picks/"><u>[New] Exclusive Access Prime Video Downloader Picks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-leading-websites-your-source-for-legal-skype-ringtones-for-2024/"><u>[New] Leading Websites Your Source for Legal Skype Ringtones for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-cameo-review-for-2024/"><u>[New] Vimeo Cameo Review for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-enhancing-instagram-video-performance-desktop/"><u>[Updated] 2024 Approved Enhancing Instagram Video Performance (Desktop)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024s-leading-airtag-wallets-ranked-by-professionals-find-your-perfect-match/"><u>2024'S Leading AirTag Wallets Ranked by Professionals: Find Your Perfect Match</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/cognitive-conditioning-for-quick-quality-linguistic-proficiency/"><u>Cognitive Conditioning for Quick, Quality Linguistic Proficiency</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-and-disabling-windows-key-an-in-depth-walkthrough/"><u>Enabling and Disabling Windows Key: An In-Depth Walkthrough</u></a></li>
-<li><a href="https://win11.techidaily.com/exclude-non-necessary-windows-help-prompts/"><u>Exclude Non-Necessary Windows Help Prompts</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Itel P55+? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-zte-nubia-z60-ultra-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your ZTE Nubia Z60 Ultra working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-restart-stuck-windows-task-bar/"><u>Methods to Restart Stuck Windows Task Bar</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-no-application-attached-to-files-error/"><u>Overcoming Windows: No Application Attached to Files Error</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-a-device-not-valid-message-on-pc/"><u>Resolving a Device Not Valid Message on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/rewind-records-quick-applications-on-pc-to-change-file-dates/"><u>Rewind Records: Quick Applications on PC to Change File Dates</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-windows-11-interface-icon-sizing-up/"><u>Tailoring Windows 11 Interface: Icon Sizing Up</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-audio-integration-your-youtube-playlist/"><u>[New] 2024 Approved Audio Integration Your YouTube Playlist</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-harmonizing-hashtags-instagram-tiktok-collaborative-guide-for-2024/"><u>[Updated] Harmonizing Hashtags Instagram-TikTok Collaborative Guide for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-zodiac-inspired-whatsapp-bios-enhancing-personal-connections/"><u>[Updated] In 2024, Top Zodiac-Inspired WhatsApp Bios Enhancing Personal Connections</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-industry-standards-selecting-prime-gear-for-ultimate-4k-results/"><u>[Updated] Industry Standards Selecting Prime Gear for Ultimate 4K Results</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-smartphone-guide-crafting-engaging-video-content/"><u>[Updated] Smartphone Guide Crafting Engaging Video Content</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/conceal-dont-reveal-how-to-blur-faces-online-for-2024/"><u>Conceal, Don't Reveal How to Blur Faces Online for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/disassembling-the-mystery-of-create-failed-on-windows-error-30005/"><u>Disassembling the Mystery of Create Failed on Windows Error 30005</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-find-anything-on-your-pc-faster-with-the-everything-app/"><u>How to Find Anything on Your PC Faster With the Everything App</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-syncing-your-browser-with-auto-play-feature-in-facebook/"><u>In 2024, Syncing Your Browser with Auto-Play Feature in Facebook</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-window-adjustment-on-windows-os/"><u>Mastering Window Adjustment on Windows OS</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-explore-these-5-pinnacle-platforms-for-efficient-mp3-file-tagging/"><u>New 2024 Approved Explore These 5 Pinnacle Platforms for Efficient MP3 File Tagging</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-erroneous-audio-in-windows-systems/"><u>Rectifying Erroneous Audio in Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-pcs-mainteninas-with-folder-reboots-on-windows-11/"><u>Streamline Your PC's Mainteninas with Folder Reboots on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-11-desk-with-ease/"><u>Streamlining Windows 11 Desk with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/supercharge-your-win-11-pc-games-unveiling-the-ultimate-7-enhancements/"><u>Supercharge Your Win 11 PC Games: Unveiling the Ultimate 7 Enhancements</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steps-for-non-responsive-nvidia-cp/"><u>Troubleshooting Steps for Non-Responsive NVidia CP</u></a></li>
 </ul></div>
 

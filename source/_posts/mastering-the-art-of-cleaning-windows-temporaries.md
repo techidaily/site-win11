@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Cleaning Windows' Temporaries
-date: 2025-01-28T05:04:09.572Z
-updated: 2025-02-03T19:52:06.178Z
+date: 2025-02-10T00:17:18.728Z
+updated: 2025-02-15T18:21:28.198Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Disk Cleanup Tool
 
 [Windows offers several options for clearing temporary files](http://www.makeuseof.com/windows-11-delete-temporary-files/) on your PC. If you are unable to delete temporary files via the Settings app or File Explorer, try using the Disk Cleanup tool instead.
@@ -40,14 +44,10 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 7. Click the **Delete Files** to confirm.  
 ![Delete Temp Files Using Disk Cleanup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-temp-files-using-disk-cleanup.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for a few moments until the Disk Cleanup tool clears all the temporary files.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Command Prompt
@@ -63,10 +63,14 @@ del /q /f /s %temp%\* && del /s /q C:\Windows\temp\*
 ![Delete Temp Files Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-temp-files-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the above command to run and delete the temporary files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Empty the SoftwareDistribution Folder
 
@@ -102,7 +106,7 @@ C:\Windows\SoftwareDistribution\Download
 ![Edit DWORD in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-dword-in-registry.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your PC after this and try to delete temporary files once again.
@@ -112,10 +116,6 @@ C:\Windows\SoftwareDistribution\Download
  It's possible that a third-party program or background service is preventing Windows from erasing temporary files on your system. Booting your PC in safe mode can help you avoid any interference, as Windows will only run with essential drivers and services.
 
  Use one of the many ways to [boot into safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) and try to delete temporary files one more time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Rid of Temporary Files on Windows
 
@@ -135,22 +135,22 @@ C:\Windows\SoftwareDistribution\Download
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-decoding-the-art-of-iphones-and-podcasts-downloading/"><u>[New] Decoding the Art of iPhones and Podcasts Downloading</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-for-safaris-picture-and-window-sharing-feature/"><u>[New] Expert Tips for Safari's Picture and Window Sharing Feature</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-transforming-youtube-content-using-the-power-of-imovie/"><u>2024 Approved Transforming YouTube Content Using the Power of iMovie</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-effect-of-disabling-windows-11s-taskbar-chat-on-users/"><u>Decoding The Effect Of Disabling Windows 11'S Taskbar Chat on Users</u></a></li>
-<li><a href="https://win11.techidaily.com/dissecting-and-fixing-the-application-couldnt-start-error-code/"><u>Dissecting and Fixing The Application Couldn't Start Error Code</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevating-chatgpt-explore-how-custom-gpt-models-deliver-breakthrough-performance/"><u>Elevating ChatGPT: Explore How Custom GPT Models Deliver Breakthrough Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computer-components-with-toms-hardware/"><u>Exploring the World of Computer Components with Tom's Hardware</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reset-your-graphics-driver-on-windows-11-and-11/"><u>How to Reset Your Graphics Driver on Windows 11 & 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ideal-steadicams-for-captivating-high-quality-shoots-on-your-dslr-camera/"><u>Ideal Steadicams for Captivating, High-Quality Shoots on Your DSLR Camera</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-oneplus-open-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track OnePlus Open without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-poco-x6-pro-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Poco X6 Pro Face Lock?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-optimizedusageofyourwebcamrecorder/"><u>In 2024, OptimizedUsageOfYourWebcamRecorder</u></a></li>
-<li><a href="https://win11.techidaily.com/old-play-new-display-channeling-vintage-games-to-windows-11-folder/"><u>Old Play, New Display: Channeling Vintage Games to Windows 11 Folder</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-msvcr120dll-absence-in-windows-systems/"><u>Solving MSVCR120.dll Absence in Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/staying-chill-while-playing-top-laptop-heat-management-strategies/"><u>Staying Chill While Playing: Top Laptop Heat Management Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-pcs-potential-tackling-servers-issues/"><u>Unlocking PC's Potential: Tackling Servers Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/workaround-for-ignoring-protected-windows-app-block/"><u>Workaround for Ignoring Protected Windows App Block</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-step-into-reflection-editing-your-facebook-past-videos/"><u>[New] Step Into Reflection Editing Your Facebook Past Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-step-by-step-adding-tracks-to-youtubes-playlist-for-2024/"><u>[Updated] Step-by-Step Adding Tracks to YouTube's Playlist for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-becoming-a-youtube-guru-essential-production-know-how/"><u>2024 Approved Becoming a YouTube Guru Essential Production Know-How</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-gionee-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Gionee Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/direkter-vergleich-zwischen-ios-10-und-ios-9-erkenne-die-verbesserungen-und-nachteile/"><u>Direkter Vergleich Zwischen iOS 10 Und iOS 9 - Erkenne Die Verbesserungen Und Nachteile</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-pc-experience-tapping-into-windows-11s-taskbar-search/"><u>Enhance Your PC Experience: Tapping Into Windows 11'S Taskbar Search</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-critical-missing-component-warning-on-w10w11/"><u>Fixing the Critical Missing Component Warning on W10/W11</u></a></li>
+<li><a href="https://win11.techidaily.com/getting-icloud-running-effortlessly-on-your-windows-machine/"><u>Getting iCloud Running Effortlessly on Your Window's Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-navigate-the-persistent-0xf0831-error-in-win11/"><u>How to Navigate the Persistent 0XF0831 Error in Win11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/key-client-retractions-prompt-asetek-to-end-revenue-guidance-publication/"><u>Key Client Retractions Prompt Asetek to End Revenue Guidance Publication</u></a></li>
+<li><a href="https://review-topics.techidaily.com/learn-how-to-configure-mt4-and-mt5-accounts-for-running-a-local-trade-copier-tm-together-with-any-other-forex-ea-by-mt4copier-guide/"><u>Learn how to Configure MT4 and MT5 Accounts for Running a Local Trade Copier™ Together With Any Other Forex EA</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/les-meilleurs-converters-video-gratuits-pour-windows-11-top-10-de-2023/"><u>Les Meilleurs Converters Vidéo Gratuits Pour Windows 11: Top 10 De 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-automatic-updates-notifications-on-pc/"><u>Preventing Automatic Updates Notifications on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-windows-from-self-shutdown/"><u>Stopping Windows From Self-Shutdown</u></a></li>
+<li><a href="https://win11.techidaily.com/the-future-at-your-fingertips-exploring-vivetool-for-windows/"><u>The Future at Your Fingertips: Exploring ViVeTool for Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-personalizing-gpt-with-10-tweaks/"><u>The Ultimate Guide to Personalizing GPT with 10 Tweaks</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-indexers-control-panel/"><u>Unveiling Indexer's Control Panel</u></a></li>
 </ul></div>
 

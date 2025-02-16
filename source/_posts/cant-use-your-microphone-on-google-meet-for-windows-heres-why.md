@@ -1,7 +1,7 @@
 ---
 title: Can’t Use Your Microphone on Google Meet for Windows? Here's Why
-date: 2024-07-29T15:55:22.631Z
-updated: 2024-07-30T15:55:22.631Z
+date: 2025-02-09T02:52:25.190Z
+updated: 2025-02-15T20:33:53.958Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/8f5cadb41c029899508ca6efd6723f50f45c76c59
 
  Is your microphone not working in Google Meet? Did you join a meeting, but nobody heard you? It seems like a technical problem, but don’t give up hope yet. This guide explains how to troubleshoot and fix the issue of not using your Google Meet microphone on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is Google Meet Not Working With Your Microphone?
 
  Google Meet facilitates remote collaboration and communication. If you're having trouble hearing others during a Google Meet, it could be due to microphone issues. Some of the possible causes are:​
@@ -31,17 +35,15 @@ thumbnail: https://thmb.techidaily.com/8f5cadb41c029899508ca6efd6723f50f45c76c59
 
  Before you begin troubleshooting, check if you're in [Companion Mode on Google Meet](https://www.makeuseof.com/what-is-companion-mode-on-google-meet/). If so, leave and rejoin the meeting as the microphone and speaker are unavailable in this mode. Once you’ve verified that, try these fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Unmute the Microphone
 
  If you’re unable to use your Google Meet microphone, check if it is muted. If so, other people can't hear you. To unmute it, click the Microphone icon in the lower-left corner of the Google Meet window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![Unmute the Microphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/unmute-the-microphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you don’t see this icon, press **Ctrl + D** on your keyboard. This will unmute the Microphone and allow others to hear you in the meeting.
 
@@ -50,11 +52,13 @@ thumbnail: https://thmb.techidaily.com/8f5cadb41c029899508ca6efd6723f50f45c76c59
  If you unmute the microphone and still can't get it to work, try testing the microphone. This is how you do it.
 
 1. Click the **three dots** (More options) in the lower-right corner of the Google Meet window.  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Google Meet Settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-google-meet-settings.jpg)
 2. Select **Settings** from the menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the pop-up window, click **Audio** from the left sidebar.  
 ![Test Google Meet Microphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/test-google-meet-microphone.jpg)
 4. Click the **Microphone** drop-down menu and go with the default.
@@ -62,33 +66,20 @@ thumbnail: https://thmb.techidaily.com/8f5cadb41c029899508ca6efd6723f50f45c76c59
 
  If it does, your microphone is working correctly, otherwise, select a different microphone and repeat the steps.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Check the Microphone in System Settings
 
  If the microphone test doesn't work, it’s possible that your computer's settings prevent Google Meet from using the microphone. To verify this, do the following.
 
 1. Press the **Win + I** on your keyboard to open Settings.
 2. From the left pane, click **System** \> **Sound**.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Microphone Array in Input Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/microphone-array-in-input-settings.jpg)
 3. Scroll down to the **Input** section and click on **Microphone Array**.
-4. Under **General**, make sure Windows and apps can use this device for audio.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Under **General**, make sure Windows and apps can use this device for audio.  
 ![Allow apps and Windows to use this device for audio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/allow-apps-and-windows-to-use-this-device-for-audio.jpg)
 5. Next, in the **Input settings**, set the microphone volume to an optimal level.
 6. Now click the **Start test** button and talk or play audio out loud for a few seconds.  
@@ -108,26 +99,20 @@ thumbnail: https://thmb.techidaily.com/8f5cadb41c029899508ca6efd6723f50f45c76c59
 2. Select **System** \> **Sound** from the Settings menu.
 3. Now scroll down to the **Advanced** section.
 4. Click **Input devices** next to **Troubleshoot common sound problems**.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Troubleshoot common sound problems](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/troubleshoot-common-sound-problems.jpg)
 5. If a pop-up window asks which input device you want to troubleshoot, choose the **Microphone Array** and click **Next**.  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Toubleshoot Microphone Array in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/toubleshoot-microphone-array-in-settings.jpg)
 6. Let the troubleshooter finish and apply the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Finished Microphone Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/finished-microphone-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once finished, close the troubleshooter window and find the microphone array option in your settings. Now follow the steps described in the previous section to check your microphone. After that, try a Google Meet call again.
 
@@ -138,14 +123,15 @@ thumbnail: https://thmb.techidaily.com/8f5cadb41c029899508ca6efd6723f50f45c76c59
 1. [Open System Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/).
 2. In the Settings menu, click on the **Privacy & security** tab.
 3. Under **App permissions**, click on **Microphone**.  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Microphone in Privacy & security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/microphone-in-privacy-security.jpg)
 4. Turn on the **Microphone access** switch.
 5. Now ensure **Let apps access your microphone** is toggled on.  
 ![Let Desktop Apps Access Your Microphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/let-desktop-apps-access-your-microphone.jpg)
 6. Scroll down and make sure the apps you want to use have permission to access your microphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once all settings are correct, try starting a Google Meet call and see if the microphone works.
 
@@ -179,16 +165,15 @@ Screenshot by Digvijay Kumar - No attribution
 ![Clear browsing data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/clear-browsing-data.jpg)
 4. Click **Clear data** at the bottom of the window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you clear the browser data, restart the browser and join the Google Meet call again. Your microphone should work now.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Google Meet Microphone Issues on Windows
 
  When your microphone doesn't work during Google Meet meetings, it can be frustrating. However, allowing Google Meet to access your microphone usually solves the issue. If the problem persists, there are other options like Zoom and Microsoft Teams you can try. This means you don't have to stick to unstable web conferencing services.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -196,3 +181,25 @@ Screenshot by Digvijay Kumar - No attribution
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-key-to-successful-drone-operation-optimal-lipo-selection/"><u>[New] Key to Successful Drone Operation Optimal LiPo Selection</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-best-of-the-best-crafting-a-top-5-racing-game-selection-for-2024/"><u>[New] The Best of the Best Crafting a Top 5 Racing Game Selection for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-amplify-your-insta-impact-essential-5-lessons-for-influencers-and-real-life-proofs-for-2024/"><u>[Updated] Amplify Your Insta Impact Essential 5 Lessons for Influencers & Real-Life Proofs for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-experts-choice-peak-business-space-for-2024/"><u>[Updated] Expert's Choice Peak Business Space for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-chromesafari-blank-screens-here-are-9-tips-to-restore-your-video/"><u>2024 Approved Chrome/Safari Blank Screens? Here Are 9 Tips to Restore Your Video</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/5-innovative-yt-tales-share-your-life-journey/"><u>5 Innovative YT Tales Share Your Life Journey</u></a></li>
+<li><a href="https://win11.techidaily.com/corrective-steps-for-pre-use-disk-formatting-error/"><u>Corrective Steps for Pre-Use Disk Formatting Error</u></a></li>
+<li><a href="https://win11.techidaily.com/detailed-analysis-windows-display-restfulness/"><u>Detailed Analysis: Windows Display Restfulness</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-paladins-crash-issues-with-these-pro-tips/"><u>Fix Your Paladins Crash Issues with These Pro Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/flattening-windows-rounded-corners/"><u>Flattening Windows' Rounded Corners</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/mastering-facebook-insights-a-novices-guide/"><u>Mastering Facebook Insights A Novice's Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-ram-cache-on-windows-an-overview/"><u>Mastering RAM Cache on Windows: An Overview</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-missing-items-within-file-explorer/"><u>Reviving Missing Items Within File Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-sessions-confirm-pcs-webcam-and-mic-beforehand/"><u>Seamless Sessions: Confirm PC's Webcam & Mic Beforehand</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-switch-off-gpgpu-scheduling-on-the-winos-platform/"><u>Techniques: Switch Off GPGPU Scheduling on the WINOS Platform</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-game-changer-reviewing-the-impressive-specs-and-portability-of-xbox-series-s/"><u>The Game Changer: Reviewing the Impressive Specs and Portability of Xbox Series S</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-printer-glitch-fixes-ad-ds-and-print-issues-explained/"><u>Win11 Printer Glitch Fixes: AD DS & Print Issues Explained</u></a></li>
+</ul></div>
+

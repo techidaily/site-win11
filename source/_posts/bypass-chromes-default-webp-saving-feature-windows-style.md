@@ -1,7 +1,7 @@
 ---
 title: Bypass Chrome's Default WebP Saving Feature, Windows Style
-date: 2024-07-29T15:52:34.760Z
-updated: 2024-07-30T15:52:34.760Z
+date: 2025-02-08T22:30:17.950Z
+updated: 2025-02-15T22:16:32.019Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
  But what exactly is the WebP format? In this article, we'll explain what this format is, why Chrome saves images in this format, and how you can stop it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is WebP Image Format?
 
  The WebP image format was introduced by Google more than a decade ago, and during the last few years, it has become mainstream. The images in this format are smaller and lighter than others, and its superior compressibility has made it quite popular lately. Even though it is smaller, it maintains a high level of quality.
@@ -30,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
  So, if Chrome saves images as WebP, then most likely, the website owner is serving images in the WebP format to its visitors so that the website loads faster. But is it possible to stop Chrome from saving images in the WebP format?
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Stop Chrome From Saving Images as WebP?
 
  Technically, Chrome doesn't convert the images into WebP when you download them from a website. In fact, images are served in the WebP format by the websites that host them. Therefore, there is no direct way to stop Chrome from saving images as WebP.
@@ -43,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
  If you regularly download images from the web and don't want them to be downloaded as WebP, here are some workarounds you can try:
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Use Save Image as Type Extension
 
  The easiest way to save WebP images in other formats is by using a browser extension that enables you to do so. Among the hundreds of extensions available, Save image as Type is the best choice. With this extension, you can download images directly from the right-click context menu in any format you desire, which makes the process simple.
@@ -53,16 +51,22 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
  Here's how to download images in your desired format using the Save image as Type extension:
 
 1. Download the **Save image as Type** extension from the [Chrome web store](https://chrome.google.com/webstore/detail/save-image-as-type/gabfmnliflodkdafenbcpjdlppllnemd/related?hl=en).  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Adding the Save Image as Type Extension from the Chrome Web Store in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Adding-the-Save-Image-as-Type-Extension-from-the-Chrome-Web-Store-in-Chrome.jpg)
 2. Once added, navigate to the image you want to download in a different format than WebP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Open the context menu by right-clicking on the image, and you'll see a **Save image as Type** option.
 4. To download an image in the desired format, navigate to the **Save image as Type** menu and choose your preferred format.  
 ![Selecting the Preferred Format by Navigating to the Save Image as Type Menu to Download Image in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/2-Selecting-the-Preferred-Format-by-Navigating-to-the-Save-Image-as-Type-Menu-to-Download-Image-in-Chrome.jpg)
 
  The extension supports JPEG, WebP, and PNG formats, so you can download any format you wish. If you are not interested in taking that route, follow the next workaround.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use the Paint App on Windows
 
@@ -70,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
 1. Navigate to the image you want to download in a different format from WebP.
 2. Right-click on the image and select **Copy image** from the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clicking on the Copy Image Option from the Context Menu by Right-clicking on the Image in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/3-Clicking-on-the-Copy-Image-Option-from-the-Context-Menu-by-Right-clicking-on-the-Image-in-Chrome.jpg)
 3. Launch the Paint app.
 4. Press **CTRL + V** to paste the copied image into the Paint app.
@@ -85,8 +86,9 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
  Although this method doesn't affect image quality in most cases, if quality drops too much for specific images, you should download them in WebP format and then use the Paint app to convert them.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Use a Web-Based Image Converter
 
  You can also use a web-based image converter to convert WebP images to other formats, especially if you have already downloaded several WebP images. Among many popular choices, Online Convert is a reliable website for converting WebP images. To learn how to convert images using the image conversion tools offered by Online Convert, follow these steps:
@@ -96,39 +98,38 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 3. Choose the format in which you want to convert your WebP images.  
 ![Choosing the JPG Format from the Dropdown Menu of Image Converter on the Online Convert Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Choosing-the-JPG-Format-from-the-Dropdown-Menu-of-Image-Converter-on-the-Online-Convert-Website.jpg)
 4. Click on **Choose Files** and select the image from your device to upload.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Selecting the Image to Convert by Clicking on the Choose Files Option on the Online Convert Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/6-Selecting-the-Image-to-Convert-by-Clicking-on-the-Choose-Files-Option-on-the-Online-Convert-Website.jpg)
 5. Click **Start** once the image has been uploaded.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. After converting the image, click on the **Download** button to download the image.  
 ![Downloading the Image by Clicking on the Download Button on the Online Convert Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Downloading-the-Image-by-Clicking-on-the-Download-Button-on-the-Online-Convert-Website.jpg)
 
  Unfortunately, you'll need to subscribe to Online Covert's premium subscription to perform batch conversions. For free batch conversion, see our guide for [tools that offer free batch conversion and image optimization](https://www.makeuseof.com/tag/10-free-online-batch-image-tools-resize-convert-optimize/).
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Use a Browser Version That Doesn't Support WebP
 
  If you open a webpage in a browser that does not support WebP format, images will be served in their original format. Thus, if you don't wish to use any of the methods mentioned above, download browsers that do not support the format. You can also use an older version of your default browser that did not previously support the format.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Can You Open WebP Images on Windows?
 
  Although there is no native way to open WebP images on Windows, as you generally open images in other formats via Windows Photos, there are some workarounds you can use. These workarounds include renaming the file extension, using a third-party app such as ImageGlass, opening them directly in web browsers, or enabling Windows Photo Viewer.
 
  Check out our guide on [opening WebP images on Windows 11](https://www.makeuseof.com/windows-11-open-webp-files/) to learn more about these methods.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Save WebP Images in Your Desired Format
 
  Downloading images in the WebP format and not being able to open them with the Windows Photos app can be highly irritating. By following our guide, you should understand why Chrome saves images as WebP and be able to download images in your desired format with the workarounds mentioned.
 
  But what exactly is the WebP format? In this article, we'll explain what this format is, why Chrome saves images in this format, and how you can stop it.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -136,3 +137,19 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-capturing-horizon-views-for-successful-drone-livestreams/"><u>[Updated] 2024 Approved Capturing Horizon Views for Successful Drone Livestreams</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-top-10-hd-android-videos-ultimate-players-guide/"><u>[Updated] 2024 Approved Top 10 HD Android Videos Ultimate Players Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-fifa-footage-analysis-trendy-video-patterns/"><u>2024 Approved FIFA Footage Analysis Trendy Video Patterns</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-razers-stealth-13-ultrabook-a-revolutionary-step-forward-for-high-performance-portability/"><u>Comprehensive Review of Razer's Stealth 13 Ultrabook: A Revolutionary Step Forward for High-Performance Portability</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-windows-access-denied-phenomenon/"><u>Demystifying Windows' 'Access Denied' Phenomenon</u></a></li>
+<li><a href="https://win11.techidaily.com/master-linux-development-top-wsl-2-tips-for-windows-oses/"><u>Master Linux Development: Top WSL 2 Tips for Windows OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-issue-error-x80300024-in-winxp/"><u>Mitigating Issue: Error X80300024 in WinXP</u></a></li>
+<li><a href="https://win11.techidaily.com/top-6-windows-productivity-tools-a-to-do-guide/"><u>Top 6 Windows Productivity Tools: A To-Do Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-your-access-to-the-facebook-marketplace/"><u>Unlocking Your Access to the Facebook Marketplace</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-future-of-tablets-at-apples-latest-product-launch-introducing-the-m4-ipad-pro-and-a-new-large-screen-ipad-air-with-enhanced-apple-pencil/"><u>Unveiling the Future of Tablets at Apple’s Latest Product Launch: Introducing the M4 iPad Pro and a New Large-Screen iPad Air with Enhanced Apple Pencil</u></a></li>
+<li><a href="https://win11.techidaily.com/win1011-recycle-bin-fix-overcoming-corruption-errors/"><u>Win10/11 Recycle Bin Fix: Overcoming Corruption Errors</u></a></li>
+</ul></div>
+

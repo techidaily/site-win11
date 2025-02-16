@@ -1,7 +1,7 @@
 ---
 title: Can’t Upload Files in Google Chrome for Windows? Try These Fixes
-date: 2024-07-29T15:52:52.306Z
-updated: 2024-07-30T15:52:52.306Z
+date: 2025-02-09T02:32:39.455Z
+updated: 2025-02-16T02:49:03.035Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
  If you're not ready to give up on your favorite browser just yet, here are some tips that should restore your ability to upload files in Google Chrome
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Start With Generic Fixes
 
  Before we get to any advanced troubleshooting tips, it’s a good idea to first try some basic solutions mentioned below.
@@ -32,22 +33,22 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 * **Clear Cache and Cookies:** Outdated or corrupted browsing data could also cause such problems. You can try [clearing the cache and cookies in Google Chrome](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/) to see if that solves the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Use an Incognito Window
 
  One of the key advantages of using Chrome is its wide range of extension support. However, not all third-party extensions are reliable. There’s a chance that one of your extensions is causing Chrome to become unresponsive or crash when you upload files from your Windows PC.
 
  To rule out this possibility, you can try using Chrome in incognito mode, which loads the browser without any of your third-party extensions. To open an incognito window in Chrome, click the **three-dot menu** icon in the top-right corner, and select **New Incognito window**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![Open Incognito Window in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-incognito-window-in-google-chrome.jpg)
 
  After that, try uploading files and check if the issue occurs again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable Browser Extensions
 
@@ -58,10 +59,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. Open Google Chrome and click the **three-dot menu** icon in the top right corner.
 2. Hover the cursor over **More tools** and then select **Extensions** from the submenu.
 3. Use the toggles to disable all the extensions.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![Disable Chrome Extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-chrome-extensions.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart Chrome after this, and then enable your extensions one at a time. You will need to upload a test file after enabling each extension until the issue occurs again. Once you find the extension that is causing the issue, consider removing it.
 
@@ -74,10 +76,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. Open Chrome, click the **three-dot menu** icon in the top right corner, and select **Settings**.
 2. Use the left pane to switch to the **Performance** tab.
 3. Disable the toggle next to **Energy saver**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Turn Off Energy Saver in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-energy-saver-in-google-chrome.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After completing the above steps, see if you can upload files without any issues.
 
@@ -91,9 +94,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  If this solves your problem, you will need to review the web protection settings in your antivirus program and make the necessary changes to avoid any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Install Any Pending Google Chrome Updates
 
  Another reason why you might be unable to upload files in Google Chrome is if you are using an outdated or buggy version of the browser. Although Google Chrome typically updates automatically, this may not happen if you have not closed the browser in a while.
@@ -107,9 +107,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Once you have updated Chrome, your file uploads should work as expected.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Create a New Chrome Profile
 
  Issues with your Chrome profile can also cause the browser to malfunction. This could happen if your Chrome profile has become corrupted. You can try creating a new user profile in Chrome to see if that fixes the problem. Here's how to do that.
@@ -132,10 +129,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 3. Select **Reset settings** from the left sidebar.
 4. Click the **Restore settings to their original defaults** option in the right pane.
 5. Click **Reset settings** to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![Reset Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-google-chrome.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After resetting Chrome, restart it, and the issue should bother you.
 
@@ -145,11 +143,33 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  If you're not ready to give up on your favorite browser just yet, here are some tips that should restore your ability to upload files in Google Chrome
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/logging-basics-for-business-beginnings-for-2024/"><u>[New] Blogging Basics for Business Beginnings for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/broadcasting-duels-is-wirecast-superior-to-obs-for-2024/"><u>Broadcasting Duels Is Wirecast Superior to OBS for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-gaming-how-dxvk-elevates-playback-in-windows/"><u>Decoding Gaming: How DXVK Elevates Playback in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-revive-dormant-usb-on-your-computer-windows-style/"><u>How to Revive Dormant USB on Your Computer, Windows Style</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-s18-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo S18 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-xiaomi-14-pro-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Xiaomi 14 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-s23plus-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Samsung Galaxy S23+</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-caption-implementation-essentials/"><u>In 2024, YouTube Caption Implementation Essentials</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-auto-hdr-a-practical-approach-for-w11-users/"><u>Mastering Auto HDR: A Practical Approach for W11 Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/izing-views-diy-strategies-for-youtube-success-for-2024/"><u>Maximizing Views DIY Strategies for YouTube Success for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-fixing-non-terminated-processes-windows/"><u>Quick Guide to Fixing Non-Terminated Processes Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-the-clicks-effective-solutions-to-stop-your-arctis-7-headset-from-making-crackling-sounds-on-pc/"><u>Silence the Clicks: Effective Solutions to Stop Your Arctis 7 Headset From Making Crackling Sounds on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/snapping-a-snapshot-with-windows-11s-toolkit/"><u>Snapping a Snapshot with Windows 11'S Toolkit</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-for-transferring-gpt-drive-partitions-from-hard-disk-to-solid-state-drive-on-various-windows-os/"><u>Step-by-Step Guide for Transferring GPT Drive Partitions From Hard Disk to Solid State Drive on Various Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-addressing-closed-nvidia-cp-window/"><u>Strategies for Addressing Closed NVidia CP Window</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unresponsive-voice-chats-in-valorant-windows/"><u>Troubleshooting Unresponsive Voice Chats in Valorant (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-device-control-pre-and-post-sleep-states/"><u>Unveiling Device Control Pre and Post-Sleep States</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategies-top-windows-based-nintendo-switch-simulators/"><u>Winning Strategies: Top Windows-Based Nintendo Switch Simulators</u></a></li>
+</ul></div>
+

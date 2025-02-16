@@ -1,7 +1,7 @@
 ---
 title: Bring Back the Dormant Wastebin Icon in Windows
-date: 2024-07-29T15:54:22.846Z
-updated: 2024-07-30T15:54:22.846Z
+date: 2025-02-13T17:35:28.201Z
+updated: 2025-02-15T23:58:53.880Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 
  Fortunately, you can fix the issue by reverting specific changes in the Registry Editor or the Group Policy Editor.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. How to Bring Back the Recycle Bin Using the Group Policy Editor
 
  The Group Policy Editor lets you show or hide the Recycle Bin icon from the desktop. Check if you have modified and accidentally disabled the Recycle Bin group policy recently. If so you can set the Remove Recycle Bin icon from the desktop policy to "Not Configured" which will restore it.
@@ -35,15 +32,26 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 2. Type **gpedit.msc** and click **OK** to open the **Group Policy Editor**.  
 ![gpedit msc windows 11 run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/gpedit-msc-windows-11-run.jpg)
 3. Next, navigate to the following location:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `User Configuration > Administrative Templates > Desktop`
 4. In the right pane, locate and double-click on the **Remove Recycle Bin icon from the desktop** option to open its properties.  
 ![edit remove recycle bin icon from settings gpedit policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-remove-recycle-bin-icon-from-settings-gpedit-policy.jpg)
 5. In the **Properties** dialog, select **Not Configured**.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![edit remove recycle bin icon from settings gpedit policy not configured](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-remove-recycle-bin-icon-from-settings-gpedit-policy-not-configured.jpg)
 6. Click **Apply** and **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Close the Group Policy Editor and check your desktop to see if you can access the Recycle Bin. If not, make sure the Recycle Bin is set to show in Desktop Icon Settings.
 
@@ -52,17 +60,22 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 1. Press **Win + I** to open **Settings**.
 2. Next, open the **Personalization** tab in the left panel.
 3. Click on **Themes**.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![desktop icon settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/desktop-icon-settings-windows-11.jpg)
 4. Click on **Desktop icon settings** under the **Related settings** section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the **Desktop Icon Settings** dialog, select **Recycle Bin**.  
 ![enable recycle bin desktop icon settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-recycle-bin-desktop-icon-settings-windows-11.jpg)
 6. Click **Apply** and **OK** to save the changes.
 
  If you can’t access Group Policy Editor or if the issue persists, you can use the Registry Editor to fix this problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Modify the Recycle Bin Registry Settings
 
@@ -77,33 +90,21 @@ The ultimate burning program for all your needs!</a>
 3. In the Registry Editor, navigate to the following location. You can copy and paste the path in the editor for quicker navigation:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\NonEnum`
 4. In the right pane, locate the **{645FF040-5081-101B-9F08-00AA002F954E}** DWORD (32-bit) value.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![registry editor nonnum new dword value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/registry-editor-nonnum-new-dword-value.jpg)
 5. If it does not exist, you’ll need to create a new value. To do this, right-click on the **NonEnum** subkey folder in the left pane and select **New > DWORD (32-bit) Value**.
 6. Rename the value as **{645FF040-5081-101B-9F08-00AA002F954E}**.
 7. Next, double-click on the new DWORD value to open its properties.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![registry editor nonnum new dword value edit 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/registry-editor-nonnum-new-dword-value-edit-0.jpg)
 8. Type **0** in the Value data field and click **OK** to save the changes.
 9. Close Registry Editor and restart your computer. Sometimes, you’ll need to restart your computer for the new registry modifications to work.
 
  If the issue persists, try to [create a new user account with administrative rights](https://www.makeuseof.com/windows-11-create-local-user-account/), [perform a system restore](https://www.makeuseof.com/use-system-restore-windows/), or [repair corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Access to the Recycle Bin Desktop Icon Setting Again
 
  An incorrectly modified group policy can gray out the Recycle Bin icon in the Desktop Icon Settings dialog. Fortunately, it's an easy fix, and you should now have your Recycle Bin back to how you like it.
 
  Fortunately, you can fix the issue by reverting specific changes in the Registry Editor or the Group Policy Editor.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -111,3 +112,23 @@ The ultimate burning program for all your needs!</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-ultimate-guide-for-transforming-fragments-into-lasting-memories/"><u>[New] 2024 Approved The Ultimate Guide for Transforming Fragments Into Lasting Memories</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-chrome-compatibility-solving-media-errors/"><u>[New] Chrome Compatibility Solving Media Errors</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-pros-secret-insights-into-windows-11/"><u>[New] Pro's Secret Insights Into Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-razer-man-o-war-microphone-problems-and-their-fixes/"><u>Common Razer Man O' War Microphone Problems and Their Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-the-write-permissions-hurdle-in-winos/"><u>Conquering the Write Permissions Hurdle in WINOS</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/curated-collection-prolific-portals-for-image-download-for-2024/"><u>Curated Collection Prolific Portals for Image Download for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/easily-fix-text-selection-issues-on-windows-pdf-documents/"><u>Easily Fix Text Selection Issues on Windows PDF Documents</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-pc-efficiency-taming-high-usage-of-interest-tasks/"><u>Enhance PC Efficiency: Taming High Usage of Interest Tasks</u></a></li>
+<li><a href="https://win11.techidaily.com/enhanced-security-and-support-what-windows-11-h2-unveils/"><u>Enhanced Security & Support: What Windows 11 H2 Unveils</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/harness-the-power-of-playback-speed-control-in-youtube-for-2024/"><u>Harness the Power of Playback Speed Control in YouTube for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-non-functional-hotspot-on-windows-11-devices/"><u>How To Fix a Non-Functional Hotspot on Windows 11 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-prevent-and-rectify-win-rpc-fails/"><u>How to Prevent and Rectify Win RPC Fails</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oneplus-ace-2v-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from OnePlus Ace 2V to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/modifying-windows-files-remove-restricted-permissions/"><u>Modifying Windows Files: Remove Restricted Permissions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-perfect-blend-of-features-in-google-pixel-4a-an-essential-guide/"><u>The Perfect Blend of Features in Google Pixel 4a - An Essential Guide</u></a></li>
+</ul></div>
+

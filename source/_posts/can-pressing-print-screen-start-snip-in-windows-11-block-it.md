@@ -1,7 +1,7 @@
 ---
 title: Can Pressing Print Screen Start Snip in Windows 11? Block It
-date: 2024-07-29T15:52:02.650Z
-updated: 2024-07-30T15:52:02.650Z
+date: 2025-02-10T16:46:54.751Z
+updated: 2025-02-15T20:18:05.200Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
  If you're not a fan of the Snipping tool, here's how to reclaim the Print Screen key on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Did Windows 11 Claim the Print Screen Key?
 
  Microsoft recently released a new Insider Preview build of Windows 11, announced via the[Windows Blog](https://blogs.windows.com/windows-insider/2023/04/07/announcing-windows-11-insider-preview-build-22621-1546-and-22624-1546/) , that changes the way the Print Screen button functions by default. Earlier, the key would screenshot your entire screen and save it to the clipboard. You’d then have the option of importing this copied image data into a program such as a photo editor or even a word processor.
@@ -32,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
  If you update to the latest Windows 11 build, pressing the Print Screen key will open the Windows Sipping tool instead. But that’s only if you haven’t previously changed this setting. If you have it set up to do something else, your preference will be preserved, Microsoft says.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Reset Print Screen Functionality to Default
 
  If your Print Screen key opens the Snipping tool and you’d like to go back to the way things were, a simple settings change will turn back the clock.
@@ -41,36 +43,26 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 1. Navigate to**Settings** .
 2. Click on**Accessibility** on the left pane.
 3. Scroll down to the**On-screen keyboard, access keys, and Print screen** section.  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Change how Windows print screen button works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/toggle-print-screen-button-snipping-tool.jpg)
 4. Toggle the print screen button option off.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Take Screenshots Easily in Windows 11
 
  There are many ways to take a screenshot in Windows 11\. Using the Print Screen key is just one of them. And if you want to reclaim the old functionality of the Print Screen key, it's easy to do so.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -79,4 +71,20 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-essential-steps-for-embedding-social-network-live-videos/"><u>[Updated] 2024 Approved Essential Steps for Embedding Social Network Live Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-accessing-and-using-srt-audio-on-various-oses/"><u>2024 Approved Accessing and Using SRT Audio on Various OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-vlc-performance-decreasing-latency-in-windows/"><u>Enhancing VLC Performance: Decreasing Latency in Windows</u></a></li>
+<li><a href="https://discover-community.techidaily.com/expert-advice-mastering-solo-videography-12-top-tips-from-movavi/"><u>Expert Advice: Mastering Solo Videography - 12 Top Tips From Movavi</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/facile-restauration-de-windows/"><u>Facile Restauration De Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/logitech-c615-camera-analysis-balancing-quality-and-cost/"><u>Logitech C615 Camera Analysis - Balancing Quality & Cost</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/propel-your-youtube-content-faster-render-and-efficient-upload-processes/"><u>Propel Your YouTube Content Faster Render & Efficient Upload Processes</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/recupere-su-perfil-de-usuario-eliminado-en-windows-1011-tres-metodos-efectivos/"><u>Recupere Su Perfil De Usuario Eliminado en Windows 10/11: Tres Métodos Efectivos</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-deadbacklit-keyboard-top-5-fixes-in-windows/"><u>Revive Deadbacklit Keyboard: Top 5 Fixes in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-updates-error-0x80242016-in-win/"><u>Solving Updates' Error 0X80242016 in Win</u></a></li>
+<li><a href="https://win11.techidaily.com/the-windows-11-oral-saga-commencement/"><u>The Windows 11 Oral Saga Commencement</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-audio-fusion-seamlessly-converting-aiff-files-into-mp3-format-for-2024/"><u>Updated Audio Fusion Seamlessly Converting AIFF Files Into MP3 Format for 2024</u></a></li>
+</ul></div>
 

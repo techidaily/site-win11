@@ -1,7 +1,7 @@
 ---
 title: Navigating the Art of Note-Saving Windows
-date: 2025-02-01T08:53:12.920Z
-updated: 2025-02-03T18:13:36.493Z
+date: 2025-02-08T22:08:45.538Z
+updated: 2025-02-15T21:38:04.781Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Back Up and Restore YourSticky Notes Using a Microsoft Account
 
  The easiest way to back up your sticky notes is to use a Microsoft account, which stores the notes on the cloud. If you don't have one already, then you can [learn how to create a Microsoft account](https://www.makeuseof.com/your-microsoft-account-things-windows-user-should-know/) or skip to the next section to learn how to back up the notes manually.
@@ -47,10 +43,14 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
 ![the Sync Now button in Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/sync-now-button-in-sticky-notes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To restore the notes on another computer, open the Sticky Notes app (make sure the PC is connected to the internet) and sign in with your Microsoft account. Once signed in, the app will load all the notes you previously synced. Furthermore, every time you finish writing a Sticky Note or edit one, the app will automatically back it up to the cloud.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Manually Back Up and Restore Your Sticky Notes
 
@@ -64,14 +64,14 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
 3. In the **LocalState** folder, copy the **plum.sqlite** file.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![the plum database for Sticky Notes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/the-plum-database-for-sticky-notes-on-windows.jpg)
 4. Paste the **plum.sqlite** file to an external drive, such as a flash drive or external SDD, or upload it to cloud storage, such as OneDrive or Google Drive, for safekeeping.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To manually restore your sticky notes on another Windows computer, follow the steps below:
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
  Now when you open Sticky Notes, it will load the **plum.sqlite** file, and you should see all your notes appear in the app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Never Lose Your Sticky Notes Again
@@ -104,24 +104,21 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-master-facebook-broadcasting-with-devices-and-obs-studio/"><u>[New] 2024 Approved Master Facebook Broadcasting with Devices and OBS Studio</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-unlock-twitter-written-by-your-name/"><u>[New] 2024 Approved Unlock Twitter' Written By [Your Name]</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-foremost-editing-software-for-mobile-creations/"><u>[New] Foremost Editing Software for Mobile Creations</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-influencing-your-drones-performance-choosing-right-propellers/"><u>[New] Influencing Your Drone's Performance Choosing Right Propellers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-effortlessly-manage-followers-with-top-twitter-cleanup-apps/"><u>[Updated] Effortlessly Manage Followers with Top Twitter Cleanup Apps</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-free-top-8-apps-to-get-likes-on-facebook-android-and-iphone-for-2024/"><u>[Updated] FREE Top 8 Apps to Get Likes on Facebook (Android and iPhone) for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-economical-cloud-options/"><u>2024 Approved The Ultimate Guide to Economical Cloud Options</u></a></li>
-<li><a href="https://win-popular.techidaily.com/comment-recuperer-avec-succes-un-fichier-de-taille-zero-facilement-et-rapidement/"><u>Comment Récupérer Avec Succès Un Fichier De Taille Zéro Facilement Et Rapidement?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/decelerating-action-the-ultimate-guide-to-ig-reels-slow-motion/"><u>Decelerating Action The Ultimate Guide to IG Reels’ Slow Motion</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reorder-dual-display-setups/"><u>How to Reorder Dual Display Setups</u></a></li>
-<li><a href="https://win11.techidaily.com/insider-knowledge-navigating-the-world-of-windows-keys-and-deals/"><u>Insider Knowledge: Navigating the World of Windows Keys & Deals</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-choices-highest-reviewed-wireless-mice-released/"><u>Navigating Choices: Highest-Reviewed Wireless Mice Released</u></a></li>
-<li><a href="https://win11.techidaily.com/rename-user-home-path-a-windows-11-guide/"><u>Rename User Home Path - A Windows 11 Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-synergy-linking-gmail-and-outlook-on-your-pc-windows/"><u>Seamless Synergy: Linking Gmail & Outlook on Your PC, Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-winerror-for-disconnected-networks/"><u>Troubleshooting WinError for Disconnected Networks</u></a></li>
-<li><a href="https://win11.techidaily.com/uniting-platforms-your-pc-and-galaxy-phone-via-flow/"><u>Uniting Platforms – Your PC and Galaxy Phone Via Flow</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-data-dynamics-python-server-for-windows-file-sharing/"><u>Unlocking Data Dynamics: Python Server for Windows File Sharing</u></a></li>
-<li><a href="https://win11.techidaily.com/winfixer-guide-for-eliminating-update-error-0x80070003/"><u>Winfixer Guide for Eliminating Update Error 0X80070003</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-tips-resolving-chrome-profiles-failures/"><u>Winning Tips: Resolving Chrome Profiles Failures</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-essential-insight-into-the-best-6-harnesses-for-gopro-headsets/"><u>[New] Essential Insight Into The Best 6 Harnesses for GoPro Headsets</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-from-airplay-to-download-apple-podcasts-simplified/"><u>[Updated] From Airplay to Download Apple Podcasts Simplified</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-harnessing-the-power-of-video-the-most-effective-fb-ad-practices/"><u>2024 Approved Harnessing the Power of Video The Most Effective FB Ad Practices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-key-steps-to-find-your-youtube-content-creation-hub/"><u>2024 Approved Key Steps to Find Your YouTube Content Creation Hub</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/call-of-duty-mobile-silence-solved-top-tips-and-tricks-to-bring-back-warzone-sound-for-pc-users/"><u>Call of Duty Mobile Silence Solved: Top Tips and Tricks to Bring Back Warzone Sound for PC Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oneplus-11r-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass OnePlus 11R FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-program-use-via-right-click-menu-upgrade/"><u>Efficient Program Use via Right-Click Menu Upgrade</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-elevate-your-skills-comprehensive-periscope-tutorial/"><u>In 2024, Elevate Your Skills Comprehensive Periscope Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-techniques-for-username-customization-in-windows/"><u>Innovative Techniques for UserName Customization in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-virtualboxs-efail-windows-issue-0x80004005/"><u>Navigating Through Virtualbox's E_FAIL (Windows) Issue: 0X80004005</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-display-brightness-issues/"><u>Overcoming Windows 11 Display Brightness Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11s-zip-extraction-hurdle/"><u>Overcoming Windows 11'S ZIP Extraction Hurdle</u></a></li>
+<li><a href="https://win11.techidaily.com/prime-tools-excluding-microsofts-snipping-for-efficient-screen-grabbing/"><u>Prime Tools Excluding Microsoft's Snipping for Efficient Screen Grabbing</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-windows-11-icon-size-from-falling-short/"><u>Stop Windows 11 Icon Size From Falling Short</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-lags-achieve-android-like-speed-on-pc/"><u>Windows Lags? Achieve Android-Like Speed on PC</u></a></li>
 </ul></div>
 

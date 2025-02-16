@@ -1,7 +1,7 @@
 ---
 title: "Bypassing the Windowed World: Exiting Wired Networks at 100Mbps"
-date: 2024-07-29T15:52:22.258Z
-updated: 2024-07-30T15:52:22.258Z
+date: 2025-02-09T20:06:21.674Z
+updated: 2025-02-15T18:16:21.702Z
 tags:
   - windows10
   - windows11
@@ -20,16 +20,21 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
 
  Likewise, misconfigured Ethernet adapter speed settings, incompatible or corrupted drivers, and technical difficulties with the ISP can also limit speed. If you want your Ethernet connection to surpass 100Mbps, here are a few checks and fixes you should try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Internet Plan
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wifi speed test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/wifi-speed-test.jpg)
 
  Make sure you have a high-speed connection capable of delivering speeds greater than 100Mbps before you blame other factors for limiting your internet speed. Check with your internet provider that you're subscribed to a plan that offers 100Mbps+ or more. Also, ensure the ISP has a good reputation and track record of consistently delivering high speeds.
 
  If your internet service provider is reliable and you are subscribed to a good plan, then it's likely that something on your side is keeping the speed from reaching its maximum.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Perform Some Basic Checks
 
@@ -42,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
 
  If none of the above checks uncaps the internet speed, it's time to move on to the remaining fixes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Ensure Your Network Card Supports Gigabit Speed
 
  The Ethernet Card, also known as the Network Interface Card, connects your computer to the internet via an Ethernet cable. If you have an old computer, the adapter installed may not be capable of delivering over 100Mbps. Therefore, ensuring that your card supports the gigabit connection is imperative.
@@ -56,20 +58,16 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
 3. Right-click the network connection adapter and select **Properties**.
 4. Then, go to the **Advanced** tab.
 5. Select **Speed and Duplex** from the **Property** column, then expand the **Value** dropdown.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![Speed and Duplex Settings in the Network Adapter Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/speed-and-duplex-settings-in-the-network-adapter-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If **1.0 Gbps Full Duplex** is listed, your card supports gigabit connectivity. Your card does not support gigabit connections if **100 Mbps Full Duplex** is the highest value listed. In any case, select **Auto Negotiation** from the **Value** dropdown in the network adapter settings if any other value is selected.
 
 ## 4\. Ensure Your Router Supports Gigabit Connection
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![a close up shot of router ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/modern-wifi-router-ports.jpg)
 
  Like your network card, your router should also be capable of delivering 100Mbps+ speeds. You can check that by looking at the router's documentation or description on the manufacturer's website. If the router manufacturer claims this specific model is a gigabit router, it can likely deliver gigabit speeds.
@@ -78,16 +76,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  If your router doesn't support a gigabit connection, you will have no choice but to switch to one that does.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## 5\. Get a High-Category Ethernet Cable
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![CAT5, CAT5e, CAT6, CAT6A Ethernet cables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-picture-showing-cat5-cat5e-cat6-cat6a-ethernet-cables.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Ethernet cable itself should be capable of delivering 100Mbps+ speed, just like your router. Ethernet cables with low bandwidth, such as Cat5, can only deliver speeds up to 100Mbps. If you want higher speeds, you need at least Cat5e cable, which can provide speeds of up to 1000Mbps.
 
@@ -105,14 +100,15 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Some routers allow users to switch between gigabit and 100Mbps speeds. If your router offers this option, opt for the 1Gbps connection.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## 7\. Rule Out Any Hardware Issues
 
  If none of the above fixes resolve the issue, it's time to check for and rule out hardware problems thoroughly.
 
 ![image of ethernet cables connected to router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ethernet-router-connection.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Start the hardware inspection by checking both ends of the Ethernet cable where cable connectors are installed. Ensure both connectors are in good condition and all internal wires/conductors are pushed to the end and aren't falling off.
 
@@ -128,11 +124,33 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Likewise, misconfigured Ethernet adapter speed settings, incompatible or corrupted drivers, and technical difficulties with the ISP can also limit speed. If you want your Ethernet connection to surpass 100Mbps, here are a few checks and fixes you should try.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-steps-for-retrieving-personal-hidden-snapchat-photos/"><u>[New] 2024 Approved Steps for Retrieving Personal, Hidden Snapchat Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-speedy-photographers-guide-to-google-collage-crafting/"><u>[New] The Speedy Photographer's Guide to Google Collage Crafting</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unlock-your-pcs-potential-with-these-5-windows-11-recording-methods/"><u>[Updated] Unlock Your PC's Potential with These 5 Windows 11 Recording Methods</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/auditory-anatomy-understanding-video-audio-for-ig-feeds-for-2024/"><u>Auditory Anatomy Understanding Video Audio for IG Feeds for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-updates-on-windows-1011-without-administrative-rights/"><u>Easing Updates on Windows 10/11 without Administrative Rights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-sound-blaster-z-drivers-for-windows-11-users-direct-download-links/"><u>Easy Installation of Sound Blaster Z Drivers for Windows 11 Users: Direct Download Links</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/elongation-may-be-important-in-prosthodontics-where-flexibility-can-aid-in-material-adaptation/"><u>Elongation May Be Important in Prosthodontics, Where Flexibility Can Aid in Material Adaptation.</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-correct-oculus-errors-in-windows-1110/"><u>Essential Tips to Correct Oculus Errors in Windows 11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-improve-cloud-storage-access-fixing-onedrive-in-w11/"><u>How to Improve Cloud Storage Access: Fixing OneDrive in W11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-realme-v30t-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme V30T Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-nokia-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Nokia Phone Hassle-Free</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-tips-for-navigating-windows-11-widgets/"><u>Innovative Tips for Navigating Windows 11 Widgets</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-challenge-winning-back-manager-tool-access-on-windows-11/"><u>Overcoming the Challenge: Winning Back Manager Tool Access on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/power-uninstalling-printers-on-windows-11-os/"><u>Power Uninstalling Printers on Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-windows-11s-error-0x0000011b/"><u>Remedy for Windows 11'S Error 0X0000011B</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/rise-to-success-with-these-essential-15-fb-sales-insights/"><u>Rise to Success with These Essential 15 FB Sales Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-windows-keys-not-typing-properly/"><u>Solutions for Windows Keys Not Typing Properly</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-desktop-experience-with-smart-wmlayouts/"><u>Transform Desktop Experience with Smart WMLayouts</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/yl-software-insights-how-to-spot-a-damaged-central-processing-unit/"><u>YL Software Insights: How to Spot a Damaged Central Processing Unit</u></a></li>
+</ul></div>
+

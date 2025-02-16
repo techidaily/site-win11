@@ -1,7 +1,7 @@
 ---
 title: "Reclaim Your Keyboard: Resolve Windows Snipping Command Issue"
-date: 2025-01-29T02:18:48.175Z
-updated: 2025-02-04T08:44:48.667Z
+date: 2025-02-13T19:21:54.442Z
+updated: 2025-02-16T02:36:26.368Z
 tags:
   - windows10
   - windows11
@@ -25,23 +25,19 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart the Computer
 
  It might sound simple, but restarting your computer often solves minor problems. This can help clear out any glitches that may prevent the shortcut from working correctly.
 
  To restart your computer, close any running programs. Now, open the Start menu and choose **Restart** in the list of options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Check Your Keyboard
 
  Check the keyboard for any dirt or debris that may obstruct the keys. Clean off dust, crumbs, and other particles with compressed air. Ensure that all the keys are working correctly and that none are stuck or pressed down. If the keys have been damaged or worn down, consider replacing your keyboard.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Enable the Clipboard History
 
@@ -53,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 
  You can also use the Windows search bar to type in **Clipboard settings** and open it directly. If you prefer shortcuts, hit **Win + R** or type **ms-settings:clipboard** into Run.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Turn on Snipping Tool Notification Toggle
 
  When you press Win + Shift + S on your keyboard, a notification should appear in the bottom-right corner of the screen. This notification toggle helps you quickly access screenshots taken with the shortcut.
@@ -63,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 2. In the Settings window, navigate to **System** \> **Notifications**.
 3. Under **Notifications from apps and other senders**, scroll down to the bottom and turn on the Snipping Tool notification toggle.  
 ![Turn on Snipping Tool Notification Toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-on-snipping-tool-notification-toggle.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you have enabled this option, press **Win + Shift + S** to take a screenshot. If the shortcut works, you will see a notification that the screenshot is saved to the clipboard.
 
@@ -82,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 
  On the next page, scroll down to the **Reset** section. Select **Reset** and then click on **Reset** again in the confirmation popup. After resetting the Snipping Tool, check if the Win + Shift + S shortcut works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Reinstall the Snipping Tool
 
  If resetting doesn't solve the problem, try reinstalling the Snipping Tool. It will resolve any issues you may have with your current installation.
@@ -96,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 
  Click the three dots and select **Uninstall**. Now follow the on-screen instructions to complete the process. Once done, download and install a new version of the Snipping Tool from the Microsoft Store app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Turn on Windows Hotkeys
 
  If your Windows hotkeys are disabled for some reason, the shortcut keys will not work. In such cases, you will need to enable the Windows hotkeys through the group policy editor. Here's how to do it:
@@ -104,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 2. Type **gpedit.msc** in the dialog box and hit Enter. This will open the Group Policy Editor window.  
 ![Turn on Windows Hotkeys Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-on-windows-hotkeys-using-group-policy.jpg)
 3. Navigate to the path:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `User Configuration > Administrative Templates > Windows Components > File Explorer`
 4. In the right pane, double-click on the **Turn off Windows Key hotkeys** option.
@@ -129,7 +121,15 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 ![Turn on Windows Hotkeys Using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-on-windows-hotkeys-using-registry.jpg)
 * Select Base as **Hexadecimal** and click **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, exit the registry editor and restart your computer. Once the system reboots, check if the issue has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Perform Some Generic Fixes
 
@@ -157,24 +157,19 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-innovating-with-ideas-constructing-your-unique-tiktok-sequence/"><u>[New] In 2024, Innovating with Ideas Constructing Your Unique TikTok Sequence</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-discover-your-favorite-6-premier-youtube-short-downloaders-for-2024/"><u>[Updated] Discover Your Favorite 6 Premier YouTube Short Downloaders for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-full-narrative-what-the-google-podcasts-app-offers/"><u>[Updated] Full Narrative What the Google Podcasts App Offers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-the-potential-of-non-mic-sound-capture-methods/"><u>[Updated] Unlocking the Potential of Non-Mic Sound Capture Methods</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-guide-steps-to-restore-factory-settings-on-airpods-and-situations-warranting-a-reset-techinsights/"><u>Complete Guide: Steps to Restore Factory Settings on AirPods & Situations Warranting a Reset | TechInsights</u></a></li>
-<li><a href="https://win11.techidaily.com/drive-harmony-a-guide-to-efficient-hdds-in-win11/"><u>Drive Harmony: A Guide to Efficient HDDs in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-robust-w11-launch-enable-tpm-and-secure-boot-now/"><u>Ensuring Robust W11 Launch: Enable TPM & Secure Boot Now</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-correcting-icon-misplacement/"><u>Guide to Correcting Icon Misplacement</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/o-outsmart-youtube-sanctions/"><u>How to Outsmart Youtube Sanctions</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-stop-mcafee-pop-ups-on-windows-11/"><u>How to Stop McAfee Pop-Ups on Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-s23plus-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-15-plus-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change your Apple iPhone 15 Plus Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/onestream-integration-tips-for-seamless-livestreaming/"><u>OneStream Integration Tips for Seamless Livestreaming</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-11s-microsoft-store-error-0x80073cf3/"><u>Overcoming Windows 11'S Microsoft Store Error 0X80073CF3</u></a></li>
-<li><a href="https://win11.techidaily.com/pinpointing-your-perfect-match-with-nvidia-driver-selection/"><u>Pinpointing Your Perfect Match with Nvidia Driver Selection</u></a></li>
-<li><a href="https://win11.techidaily.com/smooth-transitions-with-the-fn-button-in-windows-pcs/"><u>Smooth Transitions with the (Fn) Button in Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-control-registry-editor-access-on-windows-11/"><u>Techniques to Control Registry Editor Access on Windows 11</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-cinematic-edge-edging-your-vt-footage-on-final-cut-x/"><u>The Cinematic Edge Edging Your VT Footage on Final Cut X</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-troubleshooting-resolving-code-0x0000004e-issue/"><u>Windows Troubleshooting: Resolving Code 0X0000004E Issue</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-epic-locations-for-immersive-virtual-adventures/"><u>[New] In 2024, Epic Locations for Immersive Virtual Adventures</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-perfecting-your-phones-capability-for-youtube-thumbnail-creation/"><u>[Updated] 2024 Approved Perfecting Your Phone's Capability for YouTube Thumbnail Creation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unlock-efficiency-cutting-edge-techniques-for-cropping-and-exporting-videos/"><u>[Updated] 2024 Approved Unlock Efficiency Cutting-Edge Techniques for Cropping & Exporting Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-exploring-nextgen-videostreaming-platforms/"><u>[Updated] Exploring NextGen Videostreaming Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/command-center-track-your-public-ip-in-windows/"><u>Command Center: Track Your Public IP in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-your-photos-with-ease-win11s-guide-to-captivating-slideshows-and-image-perfection/"><u>Conquer Your Photos with Ease: Win11's Guide to Captivating Slideshows & Image Perfection</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-not-enough-usb-space-in-windows/"><u>Correcting Not Enough USB Space in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/expedite-outlook-on-windows-time-saving-fixes/"><u>Expedite Outlook on Windows: Time-Saving Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-a2plus-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi A2+?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-free-flv-video-editors-for-windows-and-mac/"><u>New 2024 Approved Top Free FLV Video Editors for Windows and Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/simple-steps-unlocking-your-pcs-clownfish-talk-switcher-for-2024/"><u>Simple Steps Unlocking Your PC's Clownfish Talk Switcher for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-stop-accidental-window-key-presses/"><u>Techniques to Stop Accidental Window Key Presses</u></a></li>
+<li><a href="https://win11.techidaily.com/the-blueprint-for-a-superior-windows-experience/"><u>The Blueprint for a Superior Windows Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-codenotarys-sbom-solution-for-enhanced-kubernetes-security-explore-on-zdnet/"><u>Unveiling Codenotary's SBOM Solution for Enhanced Kubernetes Security - Explore on ZDNet</u></a></li>
 </ul></div>
 

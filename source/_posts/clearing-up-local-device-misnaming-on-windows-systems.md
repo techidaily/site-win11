@@ -1,7 +1,7 @@
 ---
 title: Clearing Up Local Device Misnaming on Windows Systems
-date: 2024-07-29T15:51:07.870Z
-updated: 2024-07-30T15:51:07.870Z
+date: 2025-02-11T20:38:44.728Z
+updated: 2025-02-16T01:20:02.543Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 
  Here are the most common causes of this error, along with the most likely solutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the Local Device Name Error?
 
  There can be a couple of possible causes of this error, but pinpointing the exact cause can be difficult. The most common are unassigned drive letters and incorrect file and printer sharing settings.
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 1. Search for Control Panel using Windows Search, and click the search result to open it.
 2. Click**System and Security > Windows Defender Firewall** to see the firewall settings.
 3. In the left menu, click**Allow an app or feature through the firewall** and then click the**Change settings** button.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![Windows firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-printer-sharing.jpg)
 4. Scroll down to find**File and Printer Sharing** in the list, and click the**Public** checkbox.
 5. Click**Ok** and restart your computer to apply the change.
@@ -48,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
  Occasionally, the file and printer sharing settings for the firewall can get reset after a major update. Just because you know you have enabled it in the past, it is worth checking again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 Remap the Network Drive With Command Prompt
 
  Windows will automatically assign a letter to your network drive. During network mapping, the assigned letters can become mixed and even be missing altogether. Remapping the network drive can fix this and prevent the error.
@@ -59,11 +60,12 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 ![the remap network drive command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/remap-network-drive.jpg)
 3. Now remap the drive by typing:**net use D: \\\\server\\share /user:username password** . Replace the drive letter and user and username password with the relevant details.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this doesn't help, you may need to try reassigning the drive letters manually. The end result is similar, but sometimes remapping won't work when manually reassigning the drive path will work.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3 Re-assign Drive Letters
 
  Another common cause of this error is an incorrectly assigned drive letter. Reassigning a drive letter is easy, as long as you don't run into the Drive letter not available error.
@@ -71,28 +73,23 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 1. Search for**Disk Management** using Windows Search, or right-click the Start Menu and select it from the hidden menu.
 2. In Disk Management, find the partition or drive you want to change and right-click on it.
 3. Select**Change Drive Letter and Paths** , and then click the**Add** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![reassigning drive letter in disk management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reassign-drive-letter.jpg)
 4. Click**Assign the following drive letter** and use the drop-down menu to choose a new letter for the partition or drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the drive letter you require is not available, it may already be being used on another drive or partition. It could also be associated with a removable drive that is not currently connected. If the A and B drive letters are available, and they often aren't, it is best not to use them. These letters are traditionally reserved for floppy drives and for use with old OS versions.
 
  Learn more about[why drive letters usually start with C on Windows](https://www.makeuseof.com/why-local-drives-windows-start-from-c/) .
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Reinitialize the Computer Browser
 
  A less likely solution to this error, but one that does sometimes help, is reinitializing the browser. Browser settings can, in some cases, interfere with network drive settings. By stopping the browser and reinitializing it, those settings should be reverted.
 
 1. Open Windows Search and type**cmd** . In the result, select**Command Prompt** and click**Run as Administrator** .
 2. At the Command Prompt cursor, type:**net stop "Computer Browser"** and then press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reinitialize the browser on command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reinitialize-browser.jpg)
 3. When the command finishes executing, type:**net start "Computer Browser"** and press**Enter** .
 4. You can now close the Registry Editor and check to see if the error persists.
@@ -110,6 +107,11 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 3. Navigate to **HKEY\_CURRENT\_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer** .  
 ![delete mountpoints in the Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/delete-mountpoints.jpg)
 4. Look for the**MountPoints2** key in the right-hand panel, right-click on it and select**Delete** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Close the Registry Editor and restart your computer.
 
  The MountPoint registry key will be regenerated after deleting and restarting. You can then check to see if this fixed the Local Device name is already in use error.
@@ -118,14 +120,11 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 
  The Local device name is already in use error is not uncommon, and it can be frustrating. But by working through the solutions here, you will normally be able to fix it within a few minutes. Just be sure to check the remaining storage on the network server before you start digging deeper.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,4 +133,17 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-mastering-graphic-design-career-pathways-unveiled/"><u>[New] 2024 Approved Mastering Graphic Design Career Pathways Unveiled</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-boosting-earnings-with-effective-social-media-video-marketing-techniques/"><u>[New] Boosting Earnings with Effective Social Media Video Marketing Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-creating-channel-names-that-capture-attention/"><u>[New] In 2024, Creating Channel Names That Capture Attention</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-secrets-of-the-pros-apple-devices-for-premium-interactive-recording/"><u>[New] Secrets of the Pros Apple Devices for Premium Interactive Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-how-to-record-movies-on-pc-mac-and-smartphones/"><u>[Updated] 2024 Approved How to Record Movies on PC, Mac, and Smartphones?</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-microsofts-commitment-to-long-term-support-of-windows-11/"><u>Decoding Microsoft's Commitment to Long-Term Support of Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-epson-scanning-back-in-windows-11/"><u>How to Get Your Epson Scanning Back in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/modernize-windows-audios-with-a-simple-driver-update-routine/"><u>Modernize Windows Audios with a Simple Driver Update Routine</u></a></li>
+<li><a href="https://win11.techidaily.com/top-strategies-for-restoring-vanished-windows-11-panes/"><u>Top Strategies for Restoring Vanished Windows 11 Panes</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-windows-securely-without-lock-screen/"><u>Unlock Windows Securely Without Lock Screen</u></a></li>
+</ul></div>
 

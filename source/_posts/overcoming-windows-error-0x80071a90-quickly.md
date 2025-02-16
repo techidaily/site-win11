@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows Error 0X80071A90 Quickly
-date: 2025-01-29T03:32:33.143Z
-updated: 2025-02-04T09:48:56.445Z
+date: 2025-02-14T21:27:00.146Z
+updated: 2025-02-16T00:30:30.768Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Factors That Might Be Contributing to the 0x80071A90 Error
@@ -51,11 +51,11 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
- Once the security program is disabled, try enabling the targeted Windows feature again and check if the problem is now fixed. If the antivirus program happens to be the culprit, you can consider switching to a better alternative.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Once the security program is disabled, try enabling the targeted Windows feature again and check if the problem is now fixed. If the antivirus program happens to be the culprit, you can consider switching to a better alternative.
 
 ## 2\. Perform the Action in Safe Mode
 
@@ -86,35 +86,35 @@ Follow these steps to proceed:
 
  If nothing else works, these general WIndows fixes can help you fix the issue:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Update Windows
 
 ![install windows 11 feature update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-windows-11-feature-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you haven’t installed the latest Windows updates in a while, then you might be facing the problem due to an outdated system. This can be due to a compatibility issue or because your system lacks updates/hotfixes that were released by Microsoft to address specific issues related to Windows features.
 
  In this case, we recommend taking your time to[install any pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) available. This will ensure that the drivers and software are compatible with the latest version of Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Check the System for Corruption Errors
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In order to install or enable Windows features, the system relies on critical files and the Windows component store. If any of these files or the store becomes corrupted, it can impede the system's access to the necessary components for feature installation or enablement, leading to errors like the one at hand.
 
  To fix such corruption errors, you can use a tool like the System File Checker (SFC) to scan and repair system files or the Deployment Image Servicing and Management (DISM) tool to repair the Windows component store. You can run both these utilities via Command Prompt.
 
  Follow the correct steps for running SFC and DISM in Windows in our guide on[how to fix file system errors on Windows](https://www.makeuseof.com/fix-file-system-errors-windows/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enable Your Windows Features Again
 
@@ -137,21 +137,18 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/system-takes-a-break-after-games/"><u>[SYSTEM] Takes a Break After Games</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-googles-ar-sticker-innovation-an-inside-look-and-alternatives/"><u>2024 Approved Google's AR Sticker Innovation An Inside Look & Alternatives</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-social-media-connectivity-embedding-live-streams-from-twitch-to-fb/"><u>2024 Approved Social Media Connectivity Embedding Live Streams From Twitch to FB</u></a></li>
-<li><a href="https://win11.techidaily.com/confronting-uptime-setbacks-dealing-with-error-code-0x80246007/"><u>Confronting Uptime Setbacks: Dealing with Error Code 0X80246007</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/demystifying-music-production-software-with-magix-music-maker-2024-review/"><u>Demystifying Music Production Software with Magix Music Maker 2024 Review</u></a></li>
-<li><a href="https://win11.techidaily.com/easily-boot-into-linux-with-windows-subsystem/"><u>Easily Boot Into Linux with Windows Subsystem</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/flipping-currencies-through-cosmetics-content/"><u>Flipping Currencies Through Cosmetics Content</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-google-pixel-fold-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Google Pixel Fold Pattern Lock Screen</u></a></li>
-<li><a href="https://win11.techidaily.com/function-keys-not-working-in-windows-11-heres-what-to-do/"><u>Function Keys Not Working in Windows 11? Here's What to Do</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-a-high-cpu-usage-when-gaming-on-windows/"><u>How to Fix a High CPU Usage When Gaming on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improving-gaming-experience-by-addressing-and-correcting-drop-in-fps-rates/"><u>Improving Gaming Experience by Addressing and Correcting Drop in FPS Rates</u></a></li>
-<li><a href="https://win11.techidaily.com/keeping-high-usage-at-bay-streamline-media-on-windows-11/"><u>Keeping High Usage at Bay: Streamline Media on Windows 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/save-on-high-tech-eyewear-with-affordable-xr-glasses-that-beat-the-apple-vision-pro-hype/"><u>Save on High-Tech Eyewear with Affordable XR Glasses That Beat the Apple Vision Pro Hype</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-power-of-pixels-on-windows-1011-screens/"><u>Unlock the Power of Pixels on Windows 10/11 Screens</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-control-center-with-easy-methods/"><u>Unlocking Control Center with Easy Methods</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-color-depth-explored-windows-hdri-for-editors/"><u>[Updated] Color Depth Explored Windows HDRI for Editors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-industry-standards-top-10-excellent-4k-dslr-rigs/"><u>[Updated] Industry Standards Top 10 Excellent 4K DSLR Rigs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-enhancing-outreach-with-strategic-partner-selection-on-youtube/"><u>2024 Approved Enhancing Outreach with Strategic Partner Selection on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-avoid-watermarks-in-stock-purchases/"><u>2024 Approved How To Avoid Watermarks in Stock Purchases</u></a></li>
+<li><a href="https://win11.techidaily.com/complete-tutorial-on-downloading-and-setting-up-windows-11-arm-iso/"><u>Complete Tutorial on Downloading & Setting Up Windows 11 ARM ISO</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effizientes-streamen-von-mkv-filmen-losungen-fur-ladeverzogerungen-und-abtastungsfehler-in-windowsmacos/"><u>Effizientes Streamen Von MKV-Filmen: Lösungen Für Ladeverzögerungen Und Abtastungsfehler in Windows/macOS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-download-and-install-new-drivers-for-your-asus-vg248qe-monitor-on-a-windows-system/"><u>How to Seamlessly Download and Install New Drivers for Your Asus VG248QE Monitor on a Windows System</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-innovate-and-create-ranked-list-of-best-drawing-apps-for-android-users/"><u>In 2024, Innovate and Create Ranked List of Best Drawing Apps for Android Users</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-teams-sharing-common-solutions/"><u>Microsoft Teams Sharing: Common Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-saving-issues-in-the-win-pubg-environment/"><u>Resolving Saving Issues in the Win PUBG Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-responsiveness-to-sound-settings-on-windows/"><u>Restoring Responsiveness to Sound Settings on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reversing-the-virtual-disk-service-failure-error/"><u>Reversing the Virtual Disk Service Failure Error</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/top-techniques-to-restore-your-lost-windows-11-recovery-drive/"><u>Top Techniques to Restore Your Lost Windows 11 Recovery Drive</u></a></li>
 </ul></div>
 

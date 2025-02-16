@@ -1,7 +1,7 @@
 ---
 title: Reducing System Alert Errors in Win10/Win11 Defender
-date: 2025-01-28T16:53:09.756Z
-updated: 2025-02-03T21:08:00.128Z
+date: 2025-02-14T16:19:55.465Z
+updated: 2025-02-16T01:14:16.993Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 
 ![The Reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Run System File and Image Scans
 
  System file issues might be causing the “Unexpected error” on your PC. To check if that’s the case, run a System File Checker scan within the Command Prompt. Such a scan will repair the corrupted system files detected. Our guide on[utilizing the SFC tool on Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) tells you how to scan system files with that utility.
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-sfc-scannow-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’s also recommended to run a Deployment Image Servicing and Management scan, which can resolve Windows system image issues. The System File Checker tool doesn’t work when there are issues with the system image. So, try executing this command before the SFC scan as well:
@@ -56,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
  If disabling the third-party antivirus software works, you have two options. You can re-enable that antivirus software and utilize the alternative antivirus scanner it provides. Or you can completely uninstall the third-party antivirus software if you prefer Microsoft Defender. Our guide to removing Windows software includes numerous methods for uninstalling programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Modify the Windows Defender Registry Key
@@ -70,20 +66,24 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 ![The New and Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-new-key-options.jpg)
 4. Type**DisableAntiSpyware** in the DWORD’s text box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Double-click the**DisableAntiSpyware** DWORD to access its**Value** box.
 6. Input**0** in the data box if that’s not the current value set.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-edit-dword-window.jpg)
 7. Select**OK** to confirm the value for the DWORD.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Reset the Windows Security App
 
  Resetting Windows Security is worth trying whenever that app isn’t working right. In this case, something is up with the antivirus component of that app. You can reset that app within Settings or by executing a PowerShell command. Our article about[resetting Windows Security](https://www.makeuseof.com/windows-11-reset-windows-security/) tells you how to apply this potential resolution in three different ways.
 
 ![The Reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Run a Malwarebytes Scan
 
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 7. Select**Me or my family** (for personal use) at the production selection step and click**Next** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Click**Skip this for now** if you prefer not to install the additional Malwarebytes Browser Guard software.  
@@ -113,12 +113,16 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 13. Press the**Quarantine** button after the scan.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this potential resolution works, you can keep Malwarebytes installed for manual scanning. It’s a 14-day trial of the Premium version, and the real-time protection will only last a couple of weeks. However, you can disable the Malwarebytes protection to ensure it doesn’t conflict with Microsoft Defender by right-clicking the utility’s system tray icon and deselecting the**Malware** ,**Ransomware** ,**Exploit** , and**Web Protection** options.
 
  The Microsoft Safety Scanner is an alternative to Malwarebytes you can run a malware scan with as well. However, that’s only a temporary scanning utility that expires after 10 days. You can download that utility from this[Microsoft page](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide) . Check out[our Microsoft Safety Scanner guide](https://www.makeuseof.com/microsoft-safety-scanner-guide/) for details about to purge malware with that tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Check the "Turn Off Microsoft Defender Antivirus" Group Policy Setting
 
@@ -133,10 +137,6 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 
 ![The Turn Off Microsoft Defender Antivirus policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-microsoft-defender-antivirus.jpg)
 5. Select the policy’s**Apply** and**OK** options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Reset Windows or Perform an In-Place Upgrade
 
@@ -169,24 +169,16 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-solutions-for-an-unresponsive-obs-video-source-for-2024/"><u>[Updated] Solutions for an Unresponsive OBS Video Source for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-battle-between-youtubes-copyright-clause-and-cc-license/"><u>2024 Approved The Battle Between YouTube’s Copyright Clause & CC License</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-next-level-entertainment-with-hitachi-ultra-hd-smart-tvs-featuring-roku-streaming/"><u>Experience Next-Level Entertainment with Hitachi Ultra HD Smart TVs Featuring Roku Streaming</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782380-9781591438946-extra-planetary-experiences/"><u>Extra-Planetary Experiences | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-remedying-winscomrssvsvc-startup-issues/"><u>Guide to Remedying WinscomrssvSvc Startup Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-open-the-component-services-in-windows-11/"><u>How to Open the Component Services in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-re-establish-failed-connections-in-windows-os/"><u>How To Re-Establish Failed Connections in Windows OS</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-improving-user-experience-vimeo-video-subtitles/"><u>In 2024, Improving User Experience Vimeo Video Subtitles</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-your-epson-xp-330-with-official-updated-drivers-today/"><u>Install Your Epson XP-330 with Official, Updated Drivers Today</u></a></li>
-<li><a href="https://win11.techidaily.com/overhauling-custom-power-plans-in-windows/"><u>Overhauling Custom Power Plans in Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/pixel-watch-vs-apple-watch-comparing-the-latest-tech-giants-offerings-for-your-wrist/"><u>Pixel Watch Vs. Apple Watch - Comparing the Latest Tech Giants' Offerings for Your Wrist</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-address-windows-app-malfunctions-on-devices/"><u>Strategies to Address Windows App Malfunctions on Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/the-best-practices-for-getting-most-from-windows-11s-launchpad/"><u>The Best Practices for Getting Most From Windows 11'S Launchpad</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essential-guide-for-altering-windows-pin/"><u>The Essential Guide for Altering Windows PIN</u></a></li>
-<li><a href="https://win11.techidaily.com/top-tier-software-selecting-the-most-effective-fps-counters-for-windows-11/"><u>Top-Tier Software: Selecting The Most Effective FPS Counters For Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/transformative-strategies-for-outdated-windows-systems/"><u>Transformative Strategies for Outdated Windows Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-tips-restoring-chatgpts-conversation-memory/"><u>Troubleshooting Tips: Restoring ChatGPT's Conversation Memory</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/zdnet-exclusive-apples-shift-to-permitting-used-parts-in-iphone-repairs-for-select-models/"><u>ZDNet Exclusive: Apple's Shift to Permitting Used Parts in iPhone Repairs for Select Models</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-affordable-leading-chromeos-screen-recorders/"><u>[Updated] Affordable Leading ChromeOS Screen Recorders</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-evaluating-frame-rates-the-decision-on-30-vs-60hz/"><u>[Updated] Evaluating Frame Rates The Decision on 30 Vs. 60Hz</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-vivo-x100-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-mystery-of-hxtrexe-in-windows-10-expert-tips-and-fixes/"><u>Decoding the Mystery of hxtr.exe in Windows 10 - Expert Tips and Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-or-disabling-data-tracking-on-wi-fi-connection-in-windows-11/"><u>Enabling or Disabling Data Tracking on Wi-Fi Connection in Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-optimal-screen-record-settings-for-facetime-conversations/"><u>In 2024, Optimal Screen Record Settings for FaceTime Conversations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/leading-5-video-conference-recorders-for-seamless-captures/"><u>Leading 5 Video Conference Recorders for Seamless Captures</u></a></li>
+<li><a href="https://win11.techidaily.com/network-neutrality-7-approaches-to-uac-safeguarding/"><u>Network Neutrality: 7 Approaches to UAC Safeguarding</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-dual-app-access-to-camera-error-code-0xa00f4243/"><u>Overcoming Dual App Access to Camera (Error Code: 0XA00F4243)</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-desktop-top-5-clock-saver-software/"><u>Revolutionize Desktop - Top 5 Clock Saver Software</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-enhanced-help-post-cortana-strategies/"><u>Windows' Enhanced Help: Post-Cortana Strategies</u></a></li>
 </ul></div>
 

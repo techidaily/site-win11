@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Workflows: Incorporating Additional Folders in Windows"
-date: 2025-02-03T00:41:21.310Z
-updated: 2025-02-03T16:56:36.786Z
+date: 2025-02-12T20:34:30.186Z
+updated: 2025-02-15T16:18:19.265Z
 tags:
   - windows10
   - windows11
@@ -36,12 +36,12 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 ![The Setup - MyFolders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/setup-myfolder-option.jpg)
 7. Select**Next** two more times, and then click MyFolders’**Install** option.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-install-option.jpg)
 8. Click the**Yes** ,**restart the computer now radio** button, and select**Finish** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once your PC has restarted:
 
@@ -53,17 +53,29 @@ Once your PC has restarted:
 
 5. Click**Done** to exit the MyFolders window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Use MyFolders
 
  Check out the new folder shortcut you’ve just added to the context menu. Right-click a space on the desktop background and select**Show more options** . Move the cursor over the**MyFolders** submenu and**Go to** . Then click the folder shortcut you just added to open its directory in Explorer.
 
 ![The MyFolders submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/myfolders-submenu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can select to open the folder in the Command Prompt. Move the cursor over the**Open command window** option. There you can select to open the same folder with the Command Prompt.
 
  The**MyFolders** submenu includes extra options you can select in File Explorer. Right-click a folder in Explorer to select**Show more options** \>**MyFolders** . Then you can click**Copy to** and**Move to** options for copying and moving directories to the folders you’ve added to the menu.
 
 ![The Copy to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-to-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
 
@@ -87,10 +99,6 @@ Once your PC has restarted:
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extract-window2.jpg)
 10. Press the**OK** button to extract the RAR archive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 11. Exit the 7-Zip software.
 
  After extracting the RAR archive, you can launch and utilize Right Click Context Menu Adder right-away, since no installation is required. This is how to add folders to the context menu with that software:
@@ -103,7 +111,7 @@ Once your PC has restarted:
 5. Press the**Choose Folder** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Select a directory to add to the context menu within the**Browse For Folder** window and click**OK** .
@@ -113,10 +121,6 @@ Once your PC has restarted:
  Now have a look at the folder shortcut you’ve just added to the context menu. Right-click a part of the desktop area and bring up the classic menu by selecting**Show more options** . Then you can click the folder you’ve just added to the menu to access that directory.
 
 ![A Program Files folder shortcut on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/program-files-folder-shortcut.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Tweak Right Click Context Menu Adder
 
@@ -128,16 +132,12 @@ Once your PC has restarted:
 
 ![The Enable Aero Glass checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-enable-aero-glass-setting.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To delete folder shortcuts added, and other context menu icons, click the**Remove items** **from menu** tab. Then select a folder you’ve added to the menu and click**Remove** . Select**Yes** to confirm you’re sure about deleting the menu entry.
 
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Your Most Important Folders From the Windows 11 Context Menu
@@ -159,20 +159,20 @@ Once your PC has restarted:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-influencers-utopia-summit/"><u>2024 Approved Influencers' Utopia Summit</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/dive-into-filmmaking-the-role-of-lenses-in-videos-for-2024/"><u>Dive Into Filmmaking The Role of Lenses in Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-github-desktop-use-on-windows-1011/"><u>Essential Tips for GitHub Desktop Use on Windows 10/11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125151375-grab-the-deal-on-phrozens-premium-8k-mini-s-resolution-resin-3d-printer-price-drops-to-325/"><u>Grab the Deal on Phrozen's Premium 8K Mini S Resolution Resin 3D Printer - Price Drops to $325</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-v29ewithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo V29ewith/without a PC</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-for-fixing-virtualboxs-windows-efail-error-0x80004005/"><u>Methods for Fixing Virtualbox's Windows E_FAIL Error (0X80004005)</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-non-responsive-behavior-in-ccleaner-installation-win1011/"><u>Overcoming Non-Responsive Behavior in CCleaner Installation (Win10/11)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-tecno-spark-20-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Tecno Spark 20.</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-media-creator-problem-0x8007043c-0x90017/"><u>Rectifying Media Creator Problem: 0X8007043C, 0X90017</u></a></li>
-<li><a href="https://win11.techidaily.com/reimagining-windows-11-a-look-at-updates-xx-series-changes/"><u>Reimagining Windows 11: A Look at Updates X.x Series Changes</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-a-system-identifier-mistake-in-win11/"><u>Remedying a System Identifier Mistake in Win11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125154751-unbeatable-price-elegoo-neptone-4-pro-laser-cutter-just-284/"><u>Unbeatable Price: Elegoo Neptone 4 Pro Laser Cutter - Just $284</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-pristine-prime-viewing-navigating-textual-challenges-on-windows-11/"><u>Unlock Pristine Prime Viewing: Navigating Textual Challenges on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-strategies-validate-active-ip-connections/"><u>Windows Strategies: Validate Active IP Connections</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-reimagining-your-video-presentation-update-facebook-covers-today/"><u>[New] In 2024, Reimagining Your Video Presentation Update Facebook Covers Today</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-snapmaster-pro-advanced-ai-enhanced-editing/"><u>2024 Approved SnapMaster Pro Advanced AI Enhanced Editing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-fixes-to-overcome-windows-restore-errors-and-get-back-on-track/"><u>Easy Fixes to Overcome Windows Restore Errors and Get Back on Track</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-workflow-with-these-8-windows-timers/"><u>Elevate Your Workflow with These 8 Windows Timers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-itel-p55-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Itel P55 FRP Locks</u></a></li>
+<li><a href="https://win11.techidaily.com/hardware-memory-slot-windows-reservation-approach/"><u>Hardware Memory Slot: Windows’ Reservation Approach</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-y100i-power-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo Y100i Power 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-is-cash-involved-with-criticism-displays/"><u>In 2024, Is Cash Involved with Criticism Displays?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-creativity-with-pro-gopro-guidance/"><u>In 2024, Unleashing Creativity with Pro-GoPro Guidance</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/pioneering-virtual-realities-in-live-video-feeds-for-2024/"><u>Pioneering Virtual Realities in Live Video Feeds for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-guide-to-disable-disk-read-error/"><u>Quick Fix Guide to Disable “Disk Read” Error</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-excel-notation-on-notepad/"><u>Quick Fixes for Excel Notation on Notepad</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-control-windows-setup-service-status/"><u>Steps to Control Windows Setup Service Status</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-behindahead-time-error-in-chrome-windows/"><u>Tackling Behind/Ahead Time Error in Chrome-Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-guide-to-fixing-microsoft-outlook-failures/"><u>Windows Guide to Fixing Microsoft Outlook Failures</u></a></li>
 </ul></div>
 

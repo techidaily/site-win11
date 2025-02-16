@@ -1,7 +1,7 @@
 ---
 title: Circumventing Windows Restrictions Quickly
-date: 2024-07-29T15:52:14.361Z
-updated: 2024-07-30T15:52:14.361Z
+date: 2025-02-14T16:47:15.897Z
+updated: 2025-02-15T22:02:37.849Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 
  Below, we explore various effective fixes to resolve this problem permanently.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Modify the User Account Control (UAC) Settings
 
  User Account Control (UAC) is a security feature that prevents users from making unauthorized changes to the computer. It typically appears as a dialog box, prompting you to confirm the action by clicking the "Yes" or "No" option.
@@ -33,18 +37,14 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 5. In the dialog that appears, move the slider to the desired level (recommended: notify only when apps try to make changes to your computer) and click **OK** to save the changes.  
 ![The User Account Control Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-uac-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, close the Command Prompt and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## 2\. Activate the Built-In Administrator Account
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![Enable the built-in admin account in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-built-in-admin-account.jpg)
 
  Windows comes with a hidden administrator account that can allow you to have full control over the system. This account is typically disabled by default for security reasons but if you are having trouble switching to an administrator account, enabling the built-in Administrator account can be beneficial.
@@ -67,30 +67,18 @@ net user administrator /active:yes
 3. In the left pane, expand **Users** and right-click on **Administrator**.
 4. Choose **Properties** from the context menu.
 5. Uncheck the **Account is disabled** option and click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Enable the built-in admin account in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-admin-account.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This should successfully activate the built-in administrator account. You can now access the Settings app again and check if you can switch the account type easily now.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Make the Changes in Safe Mode
 
  It's possible that a background process or application is causing interference with system processes, which could be preventing you from switching to an administrator account.
@@ -101,10 +89,11 @@ Key features:
 
 ## 4\. Disable Your Antivirus Program
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you are using a third-party security program on your computer, it might be preventing you from switching to an admin account because of security reasons.
 
@@ -123,10 +112,6 @@ Key features:
 1. Open the Settings app by pressing the **Win** \+ **I** keys together.
 2. Choose **Accounts** from the left pane and click on **Other users**.
 3. Hit the **Add account** button for **Add other users** in the following window.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![The Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-option.jpg)
 4. Select **I don’t have this person’s sign-in information** \> **Add a user without a Microsoft account**.
 5. In the next dialog, enter details like the username and password for the new account.
@@ -144,11 +129,33 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Below, we explore various effective fixes to resolve this problem permanently.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-pioneering-avengers-the-marvellous-world-builders/"><u>[New] 2024 Approved Pioneering Avengers The Marvellous World-Builders</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-embrace-freedom-with-easy-watermark-free-tiktok-videos-for-2024/"><u>[New] Embrace Freedom with Easy, Watermark-Free TikTok Videos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-samsung-bd-j5900-overhaul-whats-new/"><u>[New] Samsung BD-J5900 Overhaul What's New ?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-top-presentation-converters-for-clips/"><u>[Updated] 2024 Approved Top Presentation Converters for Clips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-mastering-mini-gaming-memories-learn-to-record-minecraft-on-apple-devices/"><u>2024 Approved Mastering Mini-Gaming Memories Learn to Record Minecraft on Apple Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-wi-fi-connection-errors-resolving-gaps-in-actions-for-windows-users/"><u>Correcting Wi-Fi Connection Errors: Resolving Gaps in Actions for Windows Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/detailed-overview-everything-about-io-screening-for-2024/"><u>Detailed Overview Everything About IO Screening for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-attach-an-app-to-a-file-on-windows-1011/"><u>How to Attach an App to a File on Windows 10/11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-a14-4g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy A14 4G FRP Without Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-screen-capture-in-windows-11-with-ease/"><u>Launching Screen Capture in Windows 11 with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-security-glitches-in-modern-windows-systems/"><u>Overcoming Security Glitches in Modern Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/reorient-screen-on-windows-environment/"><u>Reorient Screen on Windows Environment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolving-chatgpt-body-stream-issues-quickly-learn-from-7-proven-fixes/"><u>Resolving ChatGPT Body Stream Issues Quickly: Learn From 7 Proven Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/slideshow-setup-simplified-windows-11s-seamless-7-steps-to-follow/"><u>Slideshow Setup Simplified: Windows 11’S Seamless 7 Steps to Follow</u></a></li>
+<li><a href="https://article-files.techidaily.com/speak-out-altering-soundtracks-in-ps4ps5-games/"><u>Speak Out Altering Soundtracks in PS4/PS5 Games</u></a></li>
+<li><a href="https://win11.techidaily.com/starting-emergency-help-on-windows-11-system/"><u>Starting Emergency Help on Windows 11 System</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-printer-sharing-between-computers/"><u>Streamlining Printer Sharing Between Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/trouble-free-methods-to-correct-issues-in-lenovo-usb-devices/"><u>Trouble-Free Methods to Correct Issues in Lenovo USB Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/win-utorrent-how-to-quickly-access-files/"><u>Win uTorrent: How to Quickly Access Files</u></a></li>
+</ul></div>
+

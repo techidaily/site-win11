@@ -1,7 +1,7 @@
 ---
 title: "Bring Forlorn Add-Ons Back: A Compreenas Seven Points Plan"
-date: 2024-07-29T15:51:53.358Z
-updated: 2024-07-30T15:51:53.358Z
+date: 2025-02-13T22:03:13.377Z
+updated: 2025-02-15T17:11:44.688Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/052918d3e56b96021eca7b3225588078d8b2ee409
 
  Fortunately, there are several ways to fix this problem and get the optional features running again. So, how can you fix the optional features not installing issue?
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Use the DISM Tool
 
  One of the first things you can try is using the Deployment Image Servicing and Management (DISM) tool. This tool is part of Windows, and you can use it to fix corrupt system files, including ones that could be causing problems when installing optional features.
@@ -34,18 +31,16 @@ To use the DISM tool, follow these steps:
 1. Press**Win + Q** to bring up the Windows search dialogue box.
 2. Type**cmd** and click**Run as administrator** to open the Command Prompt.
 3. Type**dism /online /cleanup-image /restorehealth** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![DISM Windows Utility Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dism-windows-utility.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will start the DISM tool and begin scanning your system for any corrupt or missing files. If it finds any issues with your computer, it will automatically repair them.
 
  Once the process is complete, you can restart your computer and try installing the optional feature again. If DISM does not work or throws an error code, make sure to go through the[DISM not working fixes](https://www.makeuseof.com/windows-11-dism-error-2-fix/) .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## 2\. Run the System File Checker or SFC Utility
 
  Another tool you can use to fix issues with optional feature installation is the System File Checker (SFC) utility.
@@ -56,9 +51,6 @@ To check your system using SFC, follow these steps:
 
 1. Open the Command Prompt with administrative rights using any of the[ways to open CMD as an admin on Windows](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
 2. Type**sfc /scannow** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![SFC Utility In Windows Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-utility-in-windows.jpg)
 3. Once SFC scans for errors, make sure to restart your computer.
 
@@ -90,11 +82,16 @@ net start msiserver`
 
 ![Update Components Reset In CMD Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-components-reset-in-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While the commands may look intimidating, you don't need to worry, as all the commands mentioned above will not cause any harm to your system.​​​​
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run the Windows Update Troubleshooter
 
  If the Command Prompt method did not work for you, you can use the Windows Update Troubleshooter to reset update components. This tool can help identify and fix problems with the update process, including issues that might be preventing optional features from installing.
@@ -103,9 +100,6 @@ Follow these steps to run the update troubleshooter on Windows:
 
 1. Press**Win + I** to launch the Settings app.
 2. Scroll down and click**Troubleshoot > Other troubleshooters.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![Troubleshooter Settings In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooter-settings-in-windows.jpg)
 3. Click**Run** next to**Windows Update** to run the troubleshooter.  
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
@@ -114,6 +108,10 @@ Follow these steps to run the update troubleshooter on Windows:
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
 
  The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try[installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update Windows to the Latest Version
 
@@ -125,10 +123,11 @@ Here's how you can update Windows to the latest version:
 
 1. Press**Win + I** to open the Settings app.
 2. Click on**Windows** **Update > Check for updates** on Windows 11\. For Windows 10, click on **Update & Security > Windows Update > Check for Updates** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![Windows Update In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-in-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's it. Now, you can install any update that is available for your computer.
 
@@ -145,6 +144,10 @@ Here's how you can update Windows to the latest version:
 3. Scroll down and find the**Windows Module Installer** service.
 4. Right-click on the service and select**Restart** .  
 ![Windows Modules Installer Service In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-modules-installer-service.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you reset the module installer service, Windows tries to stop it and then start it again, which can help reset the installation process of optional features and fix any issues that might be causing problems.
 
@@ -164,9 +167,6 @@ Get-WindowsOptionalFeature -Online
  This command will show you the**FeatureName** and**State** of every optional Windows feature that you can use. Make sure to copy the "**FeatureName** " of the feature that you want to enable on Windows.
 4. To turn on a certain feature, use the following command and replace "**FEATURENAME** " with the feature's name that you copied earlier:  
 Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
 5. Restart your computer for the changes to take effect.
 
@@ -180,14 +180,11 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
  Hopefully, the issue with optional features not installing on your system should be fixed now. In any case, it is important to keep your system up-to-date and to follow best practices for maintaining your computer properly to help prevent issues like this from occurring.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -196,4 +193,23 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-discovering-the-veracity-in-luminances-hdr/"><u>[New] 2024 Approved Discovering the Veracity in Luminance’s HDR</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-free2x-webcam-recorder-software-review/"><u>[Updated] 2024 Approved Free2X Webcam Recorder Software Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-analyzing-the-impact-of-burst-on-live-action-shoots/"><u>[Updated] Analyzing the Impact of Burst on Live-Action Shoots</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-navigating-lawful-practices-for-screenshotting-youtube-videos/"><u>[Updated] Navigating Lawful Practices for Screenshotting YouTube Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/a-step-by-step-journey-to-pc-live-streams-master-tiktok-live-for-2024/"><u>A Step-By-Step Journey to PC Live Streams – Master TikTok LIVE for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-could-not-find-snap-problem-on-pc/"><u>Eliminating the 'Could Not Find Snap' Problem on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/extend-start-menus-pin-display-area/"><u>Extend Start Menu's Pin Display Area</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-x-fold-2-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo X Fold 2 Device</u></a></li>
+<li><a href="https://win11.techidaily.com/innovate-beyond-the-defaults-windows-11-alternatives-guide/"><u>Innovate Beyond the Defaults: Windows 11 Alternatives Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-rgb-control-with-windows-11/"><u>Mastering the Art of RGB Control with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/nullifying-automatic-windows-pushes/"><u>Nullifying Automatic Windows Pushes</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-for-setting-up-the-ms-defender-application-guard-in-edge-browser/"><u>Step-by-Step Guide for Setting Up the MS Defender Application Guard in Edge Browser</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-using-the-windows-odbc-toolkit/"><u>The Complete Guide to Using the Windows ODBC Toolkit</u></a></li>
+<li><a href="https://win11.techidaily.com/trimming-your-tech-tree-windows-11-app-cleanup-guide/"><u>Trimming Your Tech Tree: Windows 11 App Cleanup Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-complete-guide-overcoming-obs-game-capture-display-issues/"><u>Troubleshooting Complete Guide: Overcoming OBS Game Capture Display Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-exclusive-templates-for-tiktok-backdrops-for-2024/"><u>Unveiling Exclusive Templates for TikTok Backdrops for 2024</u></a></li>
+</ul></div>
 

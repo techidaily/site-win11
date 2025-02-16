@@ -1,7 +1,7 @@
 ---
 title: Changing Lockout Duration for Unsuccessful Login Events
-date: 2024-07-29T15:53:47.522Z
-updated: 2024-07-30T15:53:47.522Z
+date: 2025-02-15T00:32:13.866Z
+updated: 2025-02-15T23:19:26.371Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e438
  Here’s how to change how long someone using a specific Windows machine is locked out if they enter the wrong login credentials a certain number of times. You must be signed in as an administrator to change this policy.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Change the Duration a User Is Locked Out of Their Account via Local Security Policy
 
  This method will work as long as the system is running the Pro, Enterprise, or Education edition of Windows 10 or 11\.
@@ -31,20 +32,24 @@ thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e438
 2. Type “secpol.msc” into the text field and hit **Enter**.  
 ![Opening security policy via Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/01-windows-run-security-policy.jpg)
 3. On the left pane, click on the **Account Lockout Policy** folder under **Account Policies**.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Change Windows account lockout in Security Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/02-windows-account-policies.jpg)
 4. On the right pane, double-click on **Account lockout duration**.  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Increase or decrease local account lockout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-change-local-account-lockout-duration.jpg)
 5. Type in a number between zero and 99,999, and hit **OK**. This will set how long (in minutes) the system will need before it accepts another login attempt.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![Choose how long a local account is locked out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/04-set-local-account-lockout-duration.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change the Account Lockout Duration in Windows via the Command Prompt
 
@@ -53,16 +58,15 @@ thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e438
 1. [Open Command Prompt as Administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/). You can also perform this task with Windows PowerShell if you prefer.
 2. Type the following command into the console and hit **Enter**:  
 `net accounts`  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Opening Windows account lockout policies via command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/05-command-prompt-net-accounts.jpg)
 3. This will pull up information, among other things, about how long this account lockout duration is currently set.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. To change account lockout duration on Windows 10 and 11, type the following command into the console and hit **Enter.** Replace the number “60” in the command with any other number from zero to 99,999 to set how many minutes a user will have to wait before being allowed to try and log in again.  
 `net accounts /lockoutduration:60`  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Use the command prompt to change account lockout duration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/06-change-account-lockout-duration-command-prompt.jpg)
 
  Setting this value to zero means the locked-out user will not be able to sign in unless an administrator intervenes and unlocks it. Also, the account lock-out duration must be greater than or equal to the time for the system to [automatically reset the number of failed login attempts](https://www.makeuseof.com/reset-account-lockout-counter-windows/).
@@ -75,11 +79,27 @@ thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e438
 
  Here’s how to change how long someone using a specific Windows machine is locked out if they enter the wrong login credentials a certain number of times. You must be signed in as an administrator to change this policy.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-earnings-enigma-the-revenue-of-a-youtuber/"><u>[New] 2024 Approved Earnings Enigma The Revenue of a YouTuber</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-expert-guide-implementing-time-loops-in-obs-for-2024/"><u>[New] Expert Guide Implementing Time Loops in OBS for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-five-expert-tools-for-extracting-fb-content-for-2024/"><u>[Updated] Five Expert Tools for Extracting FB Content for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ghostly-movie-editing-hacks/"><u>[Updated] Ghostly Movie Editing Hacks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-how-to-screen-record-on-lenovo-laptop/"><u>[Updated] In 2024, How to Screen Record on Lenovo Laptop</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-navigating-video-streaming-tools-a-focus-on-zoom-with-youtube/"><u>[Updated] Navigating Video Streaming Tools A Focus on Zoom with YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/escape-the-blues-effective-ways-to-reactivate-an-ailing-keys/"><u>Escape the Blues: Effective Ways to Reactivate an Ailing Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-to-windows-11-desktop-widget-integration/"><u>Essential Guide to Windows 11 Desktop Widget Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-error-finding-lost-ubisoft-launcher/"><u>Fixing the Error: Finding Lost Ubisoft Launcher</u></a></li>
+<li><a href="https://win11.techidaily.com/hyper-v-workflow-building-a-linux-vm-in-windows-os/"><u>Hyper-V Workflow: Building a Linux VM in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagine-your-desktop-with-w11-taskbar-tweaks/"><u>Reimagine Your Desktop with W11 Taskbar Tweaks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-leading-usb-thumb-drives/"><u>Ultimate Selection: Leading USB Thumb Drives</u></a></li>
+<li><a href="https://win11.techidaily.com/unravel-handbrake-windows-glitches-quickly/"><u>Unravel HandBrake Windows Glitches Quickly</u></a></li>
+</ul></div>
+

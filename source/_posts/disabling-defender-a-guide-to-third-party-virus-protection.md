@@ -1,7 +1,7 @@
 ---
 title: "Disabling Defender: A Guide to Third-Party Virus Protection"
-date: 2025-02-01T03:27:31.457Z
-updated: 2025-02-04T01:10:18.299Z
+date: 2025-02-14T20:10:47.979Z
+updated: 2025-02-15T18:25:13.417Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
  This may result in conflicts and compromise the overall protection of your system. If you encounter such an issue, here is what to do.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Disable Tamper Protection
 
  The first step to resolve this issue is to disable Tamper Protection in Microsoft Defender. This feature prevents malicious programs from changing security settings without your consent. To disable it, follow the below steps:
@@ -43,15 +47,19 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
 ![Disable Tamper Protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/disable-tamper-protection.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After disabling Tamper Protection, see if your third-party antivirus works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Turn Off Microsoft Defender
 
  As mentioned earlier, two active security solutions on your system may conflict. In this case, you can [turn off Microsoft Defender](http://www.makeuseof.com/permanently-disable-microsoft-defender-windows-11/) temporarily and use your third-party antivirus software. Doing this will turn off all Microsoft Defender features, including real-time protection, cloud-delivered protection, and automatic sample submission. However, you can turn it back on when needed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Add an Exclusion for the File to Windows Defender
 
@@ -65,27 +73,19 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 ![Open Virus & threat protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-virus-threat-protection.jpg)
 4. Under **Virus & threat protection settings**, click on **Manage settings**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
 5. Scroll down and you'll find the **Exclusions** option. Click on **Add or remove exclusions**.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Add or remove exclusions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-or-remove-exclusions.jpg)
 6. If the UAC prompts you for permission, click **Yes**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click on the **Add an exclusion** button and select **Folder**. In File Explorer, navigate to the folder where your third-party antivirus is installed.  
 ![Add an exclusion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-an-exclusion.jpg)
 8. Select the file and click on **Select Folder**. You'll see the folder added under the Exclusions section.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After adding the exclusion, close the settings window and restart your computer. Once the computer restarts, Microsoft Defender should stop blocking third-party antivirus programs.
 
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
  Next, navigate to the official website and download the latest version. Once installed, restart your computer again. This should resolve any conflicts between Microsoft Defender and the third-party antivirus software.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix Microsoft Defender Blocking Your Third-Party Antivirus
@@ -119,22 +119,19 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-innovative-strategies-for-maximizing-your-facebook-videos/"><u>[New] In 2024, Innovative Strategies for Maximizing Your Facebook Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204141485-fixing-the-print-to-pdf-feature-for-windows-users-of-both-windows-10-and-11-solutions-uncovered/"><u>Fixing the 'Print to PDF' Feature for Windows Users of Both Windows 10 & 11 - Solutions Uncovered</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-find-n3-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo Find N3 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-gt-10-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix GT 10 Pro Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-unlocking-the-secrets-of-profitability-on-vimeo-platform/"><u>In 2024, Unlocking the Secrets of Profitability on Vimeo Platform</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-saving-conversations-a-step-by-step-guide-to-preserving-your-chatgpt-interactions/"><u>Mastering the Art of Saving Conversations: A Step-by-Step Guide to Preserving Your ChatGPT Interactions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ncaa-mens-hoops-roadshow-from-march-frenzy-to-final-four-triumphs/"><u>NCAA Men's Hoops Roadshow: From March Frenzy to Final Four Triumphs</u></a></li>
-<li><a href="https://article-files.techidaily.com/seamless-video-and-photo-upload-from-pc-to-iphone-for-2024/"><u>Seamless Video & Photo Upload From PC to iPhone for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-steps-for-seamless-dv-format-changes-experience-limit-free-video-enjoyment/"><u>Simple Steps for Seamless DV Format Changes - Experience Limit-Free Video Enjoyment!</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-steps-transforming-videos-into-avc-format-with-ease/"><u>Simple Steps: Transforming Videos Into AVC Format with Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-your-ipad-videos-into-mp4-format/"><u>Step-by-Step Guide: Converting Your iPad Videos Into MP4 Format</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-mastering-the-basics-of-free-mpeg-video-converter-factory/"><u>Step-by-Step Guide: Mastering the Basics of Free MPEG Video Converter Factory</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-removing-custom-kodi-modifications-and-restoring-default-settings/"><u>Step-by-Step Guide: Removing Custom Kodi Modifications & Restoring Default Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-setting-up-the-latest-enzo-plugins-on-kodi-leia-and-krypton-for-reliable-live-tv/"><u>Step-by-Step Guide: Setting Up the Latest Enzo Plugins on Kodi (Leia and Krypton) for Reliable Live TV</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1060350-9781476729640-the-secret-of-life-wellness/"><u>The Secret of Life Wellness | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-list-of-top-11-youtube-downloaders-latest-version/"><u>The Ultimate List of Top 11 YouTube Downloaders - Latest Version</u></a></li>
-<li><a href="https://win11.techidaily.com/top-3-no-cost-solutions-for-seamless-xvid-to-avi-conversion-across-windows-macos-and-web-services/"><u>Top 3 No-Cost Solutions for Seamless Xvid to AVI Conversion Across Windows, MacOS, and Web Services</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-leading-apps-top-10-choices-for-seamless-vimeo-file-extraction-for-2024/"><u>[Updated] Leading Apps Top 10 Choices for Seamless Vimeo File Extraction for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimal-storage-savings-for-the-digital-age/"><u>[Updated] Optimal Storage Savings for the Digital Age</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-streamline-your-workflow-learn-to-record-macs-screen-with-shortcuts-for-2024/"><u>[Updated] Streamline Your Workflow Learn to Record Mac's Screen with Shortcuts for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-pro-techniques-for-iphone-nature-photography-at-a-new-level/"><u>2024 Approved Pro Techniques for iPhone Nature Photography at a New Level</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-soniccapture-pro-review-and-download-steps/"><u>2024 Approved SonicCapture Pro Review & Download Steps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-pursuit-of-ultra-clarity-the-4k-z32x-reviewed/"><u>In 2024, The Pursuit of Ultra Clarity The 4K Z32X Reviewed</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/is-it-time-to-upgrade-your-ram-after-sustaining-damage-expert-advice-from-yl-computing/"><u>Is It Time to Upgrade Your RAM After Sustaining Damage? - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-memory-problems-head-on/"><u>Overcoming Windows Memory Problems Head-On</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-effective-ways-to-resolve-windows-errors/"><u>Quick, Effective Ways to Resolve Windows Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-invalid-reparse-point-buffers-onedrive-error-guide/"><u>Resolving Invalid Reparse Point Buffers: OneDrive Error Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-fix-silenced-xbox-mic-on-windows-devices/"><u>Techniques to Fix Silenced Xbox Mic on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-the-vds-crash-that-impacts-disk-management/"><u>Troubleshooting the VDS Crash that Impacts Disk Management</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unraveling-popularity-myths-the-real-truth-about-instagram-reels/"><u>Unraveling Popularity Myths The Real Truth About Instagram Reels</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-the-windows-defender-error-0x80004004-and-how-do-you-fix-it/"><u>What Is the Windows Defender Error 0X80004004 and How Do You Fix It?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Surface Firmware Updates: A Step-by-Step Guide"
-date: 2025-01-29T19:16:59.794Z
-updated: 2025-02-04T08:46:04.858Z
+date: 2025-02-12T22:52:36.644Z
+updated: 2025-02-16T04:26:03.509Z
 tags:
   - windows10
   - windows11
@@ -24,19 +24,23 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Install Firmware Updates on Surface Computers From Settings App
 
 ![install windows 11 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-windows-11-updates.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Installing firmware updates on your Surface PC is simple. You can install the latest firmware version on your Surface device from the Windows Update page in the Settings app.
 
  You can open the Settings app by pressing the **Win key** \+ **I** button on your keyboard and then clicking Windows Update. Now, click Check for updates. If a new firmware version is available for your Surface PC, it will show up on the update page. After installing the update, a restart is required for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Manually Download and Install Firmware on Surface Computers
@@ -45,16 +49,12 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
 
  Once the download is completed, you can open the file (in the **.msi** format) and follow the on-screen prompt to install the update on your Surface. To complete the installation, you need to restart the device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What You Should Remember Before Installing the Surface Firmware Update
 
 ![Closed Microsoft Surface on a blue surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/closed-microsoft-surface-on-a-blue-surface.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You must have a stable power supply and internet connection during the update process. Also, be careful about installing the right firmware update for your device.
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
  Also, you need to remember that Microsoft pushes driver and firmware updates for at least four years from when the device was first released. If your Surface device is older than four years, you won’t receive any firmware updates. Before manually downloading it, you need to [check whether your Surface device has reached the end of support](https://www.makeuseof.com/surface-end-of-support/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Install Firmware Updates on Your Surface Devices
@@ -81,22 +81,14 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ing-your-asmr-empire-key-concepts-and-best-practices/"><u>Building Your ASMR Empire Key Concepts and Best Practices</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-server-stumbled-error-for-seamless-microsoft-store-functioning-on-windows-11-and-11/"><u>Disabling Server Stumbled Error for Seamless Microsoft Store Functioning on Windows 11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-clone-folders-in-windows-11-and-11/"><u>Efficiently Clone Folders in Windows 11 and 11</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-windows-display-glitches-in-windows-11-os/"><u>Fix Window's Display Glitches in Windows 11 OS</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-in-your-makeup-routine-top-tutorial-insights-for-2024/"><u>Flair in Your Makeup Routine Top Tutorial Insights for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-hp-stream-drivers-instantly-fast-and-easy-downloads/"><u>Get Your HP Stream Drivers Instantly - Fast and Easy Downloads</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-zte-blade-a73-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your ZTE Blade A73 5G?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-nokia-105-classic-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Nokia 105 Classic</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-creative-builders-top-easy-homes-in-minecraft/"><u>In 2024, Creative Builders Top Easy Homes in Minecraft</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-setting-impactful-health-milestnones-with-ai-assistance-from-chatgpt/"><u>Mastering the Art of Setting Impactful Health Milestnones with AI Assistance From ChatGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/mute-troubleshooting-restoring-system-audio-test/"><u>Mute Troubleshooting: Restoring System Audio Test</u></a></li>
-<li><a href="https://win11.techidaily.com/pinpoint-the-perfect-win-tracker-from-these-6-titles/"><u>Pinpoint the Perfect Win Tracker From These 6 Titles</u></a></li>
-<li><a href="https://win11.techidaily.com/reinitialize-windows-11-memory-management/"><u>Reinitialize Windows 11 Memory Management</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrims-script-extender-dilemma-solutions/"><u>Skyrim's Script Extender Dilemma: Solutions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/techniques-for-swapping-your-images-tone-spectrum/"><u>Techniques for Swapping Your Image's Tone Spectrum</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-rated-components-for-smooth-live-transmissions/"><u>Top-Rated Components for Smooth Live Transmissions</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-guide-enabling-latest-emoji-compatibility/"><u>Windows 11 Guide: Enabling Latest Emoji Compatibility</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-analyzing-hero5-black-and-yi-4k-cameras-for-modern-adventurers/"><u>[New] In 2024, Analyzing Hero5 Black & Yi 4K Cameras for Modern Adventurers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-techniques-for-exceptional-audio-recording-without-a-mic/"><u>2024 Approved Techniques for Exceptional Audio Recording without a Mic</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-unknown-recording-errors-with-obs-studio-on-windows/"><u>Eliminate Unknown Recording Errors with OBS Studio on Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-nokia-c32-phone-by-drfone-android/"><u>How to Unlock a Network Locked Nokia C32 Phone?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-initiating-earnings-journey-on-periscope-platform/"><u>In 2024, Initiating Earnings Journey on Periscope Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-taskmanager-visibility-on-desktop/"><u>Mastering TaskManager Visibility on Desktop</u></a></li>
+<li><a href="https://games-able.techidaily.com/phone-vs-tablet-the-perfect-gaming-partner/"><u>Phone Vs. Tablet: The Perfect Gaming Partner</u></a></li>
+<li><a href="https://win11.techidaily.com/precision-correction-a-stepwise-guide-for-directdraw-problems-in-win11/"><u>Precision Correction: A Stepwise Guide for DirectDraw Problems in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/stepping-into-network-insight-with-windows-11-netstat-usage/"><u>Stepping Into Network Insight with Windows 11 Netstat Usage</u></a></li>
 </ul></div>
 

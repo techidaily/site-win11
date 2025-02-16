@@ -1,7 +1,7 @@
 ---
 title: "Broken BitWall: Don't Hurry, Evaluate Existing Safeguards"
-date: 2024-07-29T15:55:21.774Z
-updated: 2024-07-30T15:55:21.774Z
+date: 2025-02-14T19:12:59.764Z
+updated: 2025-02-15T19:56:14.104Z
 tags:
   - windows10
   - windows11
@@ -17,16 +17,18 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 ## Broken BitWall: Don't Hurry, Evaluate Existing Safeguards
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How Was BitLocker's Encryption Broken?](#how-was-bitlocker-39-s-encryption-broken)
 * [Is It Time to Ditch BitLocker?](#is-it-time-to-ditch-bitlocker)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * BitLocker's encryption keys can be stolen with a Raspberry Pi Pico, but the exploit only works with external TPMs using the LPC bus.
@@ -36,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
  Microsoft's BitLocker is one of the most popular full-disk encryption tools, and is built into Windows 10 and 11 Pro providing an easy encryption option for millions of Windows users worldwide. But BitLocker's reputation as a leading encryption tool could be under threat after a YouTuber successfully stole encryption keys and decrypted private data in just 43 seconds—using a Raspberry Pi Pico costing $6\.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Was BitLocker's Encryption Broken?
 
  BitLocker's encryption was broken by YouTuber Stacksmashing, who posted a video detailing how he intercepted BitLocker data, extracted decryption keys, and successfully exploited the BitLocker encryption process.
@@ -51,9 +54,9 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
  Tools like the [Raspberry Pi Pico, the minute $6 single-board computer](https://www.makeuseof.com/raspberry-pi-pico-projects/) that has a bunch of uses. In this case, Stacksmashing connected a Raspberry Pi Pico to unused connectors on a test laptop and managed to read the binary data as the machine booted. The resulting data contained the Volume Master Key stored on the TPM, which he could then use to decrypt other data.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is It Time to Ditch BitLocker?
 
  Interestingly, [Microsoft was already aware](https://learn.microsoft.com/en-us/windows/security/operating-system-security/data-protection/bitlocker/countermeasures#attacker-countermeasures) of the potential for this attack. However, this is the first time a practical attack has surfaced at large, illustrating just how fast BitLocker encryption keys can be stolen.
@@ -66,11 +69,28 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
  It's also worth noting that despite this exploit, BitLocker remains secure, and the actual encryption underpinning it, AES-128 or AES-256, is still secure.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-access-10-free-thumbnail-downloader-apps/"><u>[New] 2024 Approved Access 10 Free Thumbnail Downloader Apps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unveiling-the-unexpected-10-truths-about-instagram-reels-for-2024/"><u>[New] Unveiling the Unexpected 10 Truths About Instagram Reels for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-frame-it-right-essential-2023-tools-and-sites-for-image-edits/"><u>[Updated] 2024 Approved Frame It Right Essential 2023 Tools & Sites for Image Edits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comparing-googles-flat-cube-and-samsungs-headset/"><u>[Updated] Comparing Google's Flat Cube and Samsung's Headset</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-rectifying-silent-windows-headset-microphone/"><u>Decoding and Rectifying Silent Windows Headset Microphone</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-your-windows-network-knowledge-with-ping-mastery/"><u>Elevating Your Windows Network Knowledge with Ping Mastery</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-g22-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia G22 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-breaking-down-the-elements-of-a-youtube-shorts-template/"><u>In 2024, Breaking Down the Elements of a YouTube Shorts Template</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-chuckle-creation-making-memes-on-kapwing/"><u>In 2024, Chuckle Creation Making Memes on Kapwing</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-could-not-create-snaps-in-windows-admin-tools/"><u>Overcoming 'Could Not Create' Snaps in Windows Admin Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-yellow-tint-restore-true-color-on-windows/"><u>Overcoming Yellow Tint: Restore True Color on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-secure-windows-against-unauthorized-removable-storage/"><u>Steps to Secure Windows Against Unauthorized Removable Storage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-in-depth-guides-on-the-latest-gadgets/"><u>Tom's Tech Insights: In-Depth Guides on the Latest Gadgets</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-powershell-potential-through-script-policy-settings/"><u>Unleashing PowerShell Potential Through Script Policy Settings</u></a></li>
+</ul></div>
+

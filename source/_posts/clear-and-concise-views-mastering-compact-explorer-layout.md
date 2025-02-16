@@ -1,7 +1,7 @@
 ---
 title: "Clear and Concise Views: Mastering Compact Explorer Layout"
-date: 2024-07-29T15:51:19.408Z
-updated: 2024-07-30T15:51:19.408Z
+date: 2025-02-15T03:55:32.416Z
+updated: 2025-02-16T01:50:42.240Z
 tags:
   - windows10
   - windows11
@@ -21,18 +21,20 @@ thumbnail: https://thmb.techidaily.com/69247ac14d53a4d423914a7a567f7db5686b08abe
  So, we'll share three ways you can enable the compact view in File Explorer on Windows 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Enable Compact View in File Explorer Using the Command Bar
 
  The easiest way to enable or disable the compact view in File Explorer is to use the command bar. Here's what you need to do:
 
 1. [Open the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and click the **View** option in the top bar.
 2. Choose the **Compact view** option to enable it.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Compact view option in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/comapct-view-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's it. You might need to restart your computer for the changes to take effect.
 
@@ -48,26 +50,29 @@ thumbnail: https://thmb.techidaily.com/69247ac14d53a4d423914a7a567f7db5686b08abe
 
  and click **OK** to launch the Folder option.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![Control folders command in the Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-folders-command.jpg)
 
  In the Folder option, switch to the **View** tab and check the **Decrease space between item (compact view)** box. Then, click **Apply** \> **OK** to save the changes.
 
 ![Decrease space between item (compact view) option in the Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/decrease-space-between-item-compact-view-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With that, you should have less space between your files in File Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Enable Compact View in File Explorer Using the Registry Editor
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Enabling Compact view in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enabling-compact-view.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Registry files on your system contain important settings for Windows. If you're an advanced Windows user, you can enable the compact view in File Explorer using the Registry Editor.
 
@@ -81,23 +86,17 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 5. Search for and double-click on the **UseCompactMode** entry in the right pane.
 6. Type **1** in **Value data** and click OK. This will enable the Compact View. To disable, type **0** in the **Value data** and click **OK.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Change the File Explorer Look Anytime
 
  The new revamped File Explorer is good, but many users still prefer the old layout with less padding. If you want to remove extra spacing between items in File Explorer, you can enable the compact view option using either of the above methods.
 
  Meanwhile, you might be interested in adding Google Drive to File Explorer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -106,4 +105,19 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-expertise-essential-techniques/"><u>[New] GoPro Expertise Essential Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-enhancing-video-impact-interpreting-youtube-metrics-wisely/"><u>[Updated] In 2024, Enhancing Video Impact Interpreting YouTube Metrics Wisely</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-guide-to-downloading-and-installing-logitech-g602-drivers-on-windows/"><u>Essential Guide to Downloading and Installing Logitech G602 Drivers on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-overcoming-valorants-voice-chat-malfunctions/"><u>Expert Tips for Overcoming Valorant's Voice Chat Malfunctions</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-configure-startup-services-in-windows-11/"><u>How to Configure Startup Services in Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-embrace-authenticity-your-style-journey-begins-here/"><u>In 2024, Embrace Authenticity Your Style Journey Begins Here</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-lenovo-thinkphone-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Lenovo ThinkPhone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-keyboard-configuration-on-windows-11/"><u>Mastering Keyboard Configuration on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/seeking-windows-screen-saver-spot/"><u>Seeking Windows Screen Saver Spot</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-diagnostic-failures-on-computer-systems/"><u>Solutions for Diagnostic Failures on Computer Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-xbox-audio-settings-in-windows-11-os/"><u>Streamlining Xbox Audio Settings in Windows 11 OS</u></a></li>
+</ul></div>
 

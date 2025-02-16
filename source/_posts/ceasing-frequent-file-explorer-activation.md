@@ -1,7 +1,7 @@
 ---
 title: Ceasing Frequent File Explorer Activation
-date: 2024-07-29T15:52:30.597Z
-updated: 2024-07-30T15:52:30.597Z
+date: 2025-02-13T01:15:02.591Z
+updated: 2025-02-16T01:37:30.391Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cf
 
  If you are experiencing a similar issue on your Windows computer, this guide has some fixes that you need to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Restart the Windows Explorer Process
 
  Windows Explorer is a system process that manages the graphical user interface for File Explorer. If this process experiences any issues while running, it could cause File Explorer to behave erratically on your computer.
@@ -32,25 +29,20 @@ thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cf
 1. Press**Win + X** or right-click on the Start icon to open the Power User menu.
 2. Select**Task Manager** from the list.
 3. In the**Processes** tab, locate**Windows Explorer** . Right-click on it and select**Restart** .  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![Restart Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Restart-Windows-Explorer.jpg)
 
  Once complete the above steps, your taskbar will disappear for a brief moment before reappearing. After that, check if the issue is still there.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check Your PC's AutoPlay Settings
 
  AutoPlay is a handy feature in Windows that automatically examines your removable storage devices and performs preset actions accordingly. You need to make sure that AutoPlay in Windows is not set up to launch File Explorer whenever you insert a removable drive or memory card.
 
  We have a guide on[how to change the AutoPlay settings on Windows](https://www.makeuseof.com/windows-11-change-autoplay-settings/) , so follow that and set AutoPlay to either**Take no action** or**Ask me everytime** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Clear File Explorer History
 
  Windows File Explorer saves all your searches and recent activities to improve your experience. If this data somehow gets corrupted, it could cause File Explorer to open by itself in Windows. If that’s the case, clearing File Explorer history should help. Here are the steps for the same.
@@ -60,14 +52,6 @@ thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cf
 3. Under the**General** tab, click the**Clear** button next to**Clear File Explorer history** .  
 ![File Explorer Options Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Clear-File-Explorer-History.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 4\. Run the System Maintenance Troubleshooter
 
  Windows periodically runs the System Maintenance troubleshooter on your computer to look for common maintenance issues. You can also run this tool manually if apps like File Explorer keep opening unexpectedly on your computer.
@@ -80,12 +64,17 @@ To run the System Maintenance troubleshooter on Windows:
 4. Select the**System and Security** option.
 5. Click on**System Maintenance** .
 6. Click**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![System and Security Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/System-and-Security-Window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Follow the on-screen instructions to run the troubleshooter and allow it to do its thing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Check for Corrupted System Files
 
@@ -107,16 +96,21 @@ To run the System Maintenance troubleshooter on Windows:
 
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If a newer update is not available, you may have to uninstall the recent update or perform a system restore to[fix problems caused by a Windows update](https://www.makeuseof.com/fix-problems-caused-windows-update/) .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Troubleshoot the Issue With a Clean Boot
 
  Interference from a sketchy third-party app or process on your computer can also cause File Explorer to open at random intervals. One way to check for this possibility is to boot your computer in a clean boot state, where it only runs with essential apps and services. Check our guide on[how to perform a clean boot in Windows](https://www.makeuseof.com/clean-boot-windows-11/) for detailed instructions on this.
 
  After your PC boots in a clean boot state, try using it for some time and check if File Explorer still opens without your input. If it does not, it means one of the third-party services or startup programs you disabled was causing the problem. To identify it, you’ll have to re-enable your services and startup apps one at a time until the issue occurs again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Create a New User Account
 
@@ -126,14 +120,11 @@ To run the System Maintenance troubleshooter on Windows:
 
  Having a File Explorer window appear at random can disrupt your workflow and leave you frustrated. In most cases, you should be able to fix the issue by restarting the Windows Explorer process or running the System Maintenance troubleshooter. If not, you may have to boot Windows in a clean boot state to investigate the root cause.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +133,24 @@ To run the System Maintenance troubleshooter on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-behind-the-scenes-how-ajey-monetizes-content/"><u>[Updated] 2024 Approved Behind the Scenes How Ajey Monetizes Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-how-to-effortlessly-eradicate-unwanted-youtube-post-comments/"><u>[Updated] How to Effortlessly Eradicate Unwanted Youtube Post-Comments</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-refining-your-craft-making-youtube-friendly-videos/"><u>[Updated] In 2024, Refining Your Craft Making YouTube-Friendly Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/cost-effective-filmmaking-5-top-free-video-tools-for-2024/"><u>Cost-Effective Filmmaking 5 Top Free Video Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-compatibility-status-with-latest-windows-os/"><u>Discover Compatibility Status with Latest Windows OS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/e-bike-why-its-time-to-replace-your-gasoline-vehicle/"><u>E-Bike: Why It's Time to Replace Your Gasoline Vehicle</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/evaluating-tunefab-for-video-capture-excellence-for-2024/"><u>Evaluating Tunefab for Video Capture Excellence for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/expansive-yet-unimpressive-performance-in-mp60/"><u>Expansive Yet Unimpressive Performance in MP60</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-media-player-app-when-it-stops-working-on-windows-11/"><u>How to Fix the Media Player App When It Stops Working on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-quick-aid-on-modern-windows-11/"><u>Launching Quick Aid on Modern Windows 11</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/microsoft-projektdatei-beschadigt-losungsanleitung-zur-fehlerbehebung/"><u>Microsoft Projektdatei Beschädigt? Lösungsanleitung Zur Fehlerbehebung</u></a></li>
+<li><a href="https://win11.techidaily.com/proactive-measures-for-a-smooth-sailing-win11-microsoft-teams-journey/"><u>Proactive Measures for a Smooth-Sailing Win11 Microsoft Teams Journey</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-jumps-to-uwp-building-windows-11-shortcuts/"><u>Quick Jumps to UWP: Building Windows 11 Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-starting-windows-11-service-configuration-explained/"><u>The Art of Starting Windows 11: Service Configuration Explained</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essence-of-podcast-marketing-creating-effective-feeds/"><u>The Essence of Podcast Marketing Creating Effective Feeds</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-x100-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo X100 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-memory-management-ram-cache-clearance-tips/"><u>Windows Memory Management: RAM Cache Clearance Tips</u></a></li>
+</ul></div>
 

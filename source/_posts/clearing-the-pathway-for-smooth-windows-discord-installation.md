@@ -1,7 +1,7 @@
 ---
 title: Clearing the Pathway for Smooth Windows Discord Installation
-date: 2024-07-29T15:54:40.488Z
-updated: 2024-07-30T15:54:40.488Z
+date: 2025-02-11T16:28:33.219Z
+updated: 2025-02-15T18:33:36.282Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 
  Is the “Installation has failed” error preventing you from installing and utilizing Discord in Windows? If so, you don’t have to miss out on Discord. This is how you can fix the “Installation has failed” error in Windows 10 and 11.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Download the Discord Setup File Again
 
  First, try downloading the**DiscordSetup.exe** file again. This is suggested to double-check that the issue isn’t occurring because of a corrupted setup file. Click**Download for Windows** on the[Discord website](https://discord.com/download) to obtain a new installer for the software. Then try installing Discord with the fresh setup wizard.
@@ -30,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
  Note that there’s also an alternative Discord Public Test Build (PTB) version available on that download page. You can try installing the PTB, which includes new experimental features, as an alternative to the standard Discord client. To do so, click the**Download Public Test Build** option further down the page instead and select**Windows** .
 
 ![The Download Public Test Build button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-public-test-build.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the Windows Troubleshooter for Installing and Uninstalling Programs
 
@@ -39,15 +40,20 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 2. Click that page’s**Download** **troubleshooter** button.
 3. Select File Explorer’s taskbar shortcut (the folder library icon), and bring up whatever directory contains the downloaded Program Install and Uninstall troubleshooter file.
 4. Double-click**MicrosoftProgram\_Install\_and\_Uninstall.meta.diagcab** to launch the troubleshooter.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![The Program Install and Uninstall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-program-install-and-uninstall-troubleshooter.jpg)
 5. Select**Next** to go to the first step.
 6. Click**Installing** to view a program list.
 7. Select**Discord** if you can see that software on the list. If Discord isn’t there, click the**Not listed** option.  
 ![The program selection list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/select-program-list.jpg)
 8. Then press**Next** again to start troubleshooting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable Any Background Discord Processes
 
@@ -57,29 +63,25 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 2. Click**Processes** if Task Manager opens with a different tab.
 3. Look for Discord-related processes within the Background processes section.
 4. Right-click any Discord process you find and select**End task** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/end-task-option.jpg)
 5. Repeat the fourth step for all Discord-related processes.
 6. Try installing Discord after disabling related background processes.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Delete Any Leftover Discord Data Folders
 
  Erasing leftover Discord data is one of the most widely confirmed resolutions for the “Installation has failed” error (especially when combined with the third solution). That’s a potential fix more applicable to users who’ve previously installed Discord. If there are leftover Discord data folders on your PC, make sure you delete them as follows:
 
 1. Open the Power User menu (right-click the**Start** icon), and select**Run** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Run shortcut on the Power User menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-run-option.jpg)
 2. Type**%appdata%** into Run and click**OK** to bring up a Roaming directory.
 3. Right-click a Discord data folder in the Roaming directory to select**Delete** .  
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-delete-option.jpg)
 4. Launch**Run** again, and input**%localappdata%** inside its**Open** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select**OK** to view a Local folder.
 6. Right-click a Discord data folder there if you can find one and select**Delete** .
 
@@ -87,10 +89,11 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 
  Running the Discord setup file as an administrator will ensure the installer has fuller system access, which might make a difference. To do so, open whatever folder includes the**DiscordSetup.exe** file. Then right-click**DiscordSetup.exe** to select its**Run as administrator** option.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-as-adminstrator-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Install the .NET Framework on Windows
 
@@ -105,28 +108,26 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 
  If .NET Framework isn’t missing, there could still be an issue with that framework. You can instead try to repair it by running the .NET Framework Repair Tool. Check out our guide about[repairing .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more details.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Turn Off Antivirus Utilities Before Installing Discord
 
  It’s not entirely unusual for antivirus utilities to cause third-party software installation issues. Antivirus apps are designed to block malware from installing, but can sometimes confuse legitimate third-party software packages to be something they aren’t. So, it’s recommended users turn off antivirus shields before attempting to install Discord.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Real-time protection setting in the Windows Security app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-security-app.jpg)
 
  You can turn off the Windows Security real-time protection by following the instructions in our[how to disable Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) article. If you’ve got third-party antivirus software installed, right-click its icon within the system tray to select an option for temporarily disabling the shield. You can also probably find a disable shield option within its settings tab.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Try Installing Discord in Safe Mode
 
  Some background third-party apps and drivers can also feasibly generate Discord installation issues. So, it’s also possible something in the background other than antivirus software could be causing the “Installation has failed” installation error on your PC. You can eliminate such a potential cause by installing Discord in the Windows safe mode, which disables superfluous background apps and drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-startup-settings-safe-mode.jpg)
 
  There are numerous ways to enter safe mode in Windows. You can do so with any of the methods in our guide for[how to enter safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) . Select the**Enable Safe Mode with Networking** option on the Startup Settings menu. Then download Discord again and try installing it in safe mode.
@@ -141,8 +142,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +149,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-driving-traffic-to-long-form-videos-via-shorts/"><u>[New] 2024 Approved Driving Traffic to Long-Form Videos via Shorts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-capturing-and-saving-your-favorite-facebook-stories-pcmobile/"><u>[Updated] In 2024, Capturing & Saving Your Favorite Facebook Stories (PC/Mobile)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-prime-tips-for-soundless-videography/"><u>[Updated] Prime Tips for Soundless Videography</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-streamlined-steps-to-record-on-your-ipad-screen-for-2024/"><u>[Updated] Streamlined Steps to Record on Your iPad Screen for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-archivists-guide-reviving-yesteryears-vhs-artistry-in-todays-editing-space/"><u>[Updated] The Archivist's Guide Reviving Yesteryear’s VHS Artistry in Today's Editing Space</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-10-firefox-immersive-tools/"><u>[Updated] Top 10 FireFox Immersive Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-editor-secrets-unlocked-in-canva-photo-editing-for-2024/"><u>[Updated] Top Editor Secrets Unlocked in Canva Photo Editing for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/8-best-webcam-for-live-streaming-for-2024/"><u>8 Best Webcam for Live Streaming for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-sfx-creation-in-the-latest-windows/"><u>Conquering SFX Creation in the Latest Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-computing-started-here-top-windows-programs-to-remove/"><u>Efficient Computing Started Here: Top Windows Programs to Remove</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-unresponsive-fixes-in-windows-1011/"><u>Enabling Unresponsive Fixes in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/fasten-your-computers-ready-starts-with-3-tricks-for-win11/"><u>Fasten Your Computer's Ready Starts with 3 Tricks for Win11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-art-of-inserting-descriptive-commentary-in-youtube-videos/"><u>In 2024, The Art of Inserting Descriptive Commentary in YouTube Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-disk-manage-access-methods-for-win-1011/"><u>Mastering Disk Manage: Access Methods for Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-and-rectify-common-errors-using-snip-and-sketch-on-windows/"><u>Navigate and Rectify Common Errors Using Snip & Sketch on Windows.</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-access-blockage-enabling-roblox-games-on-windows/"><u>Overcoming Access Blockage: Enabling Roblox Games on WINDOWS</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-msvcr120-deficiency-a-comprehensive-guide-for-windows-users/"><u>Tackling Msvcr120 Deficiency: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-faces-to-watch-top-cosmetic-creatives/"><u>The Faces to Watch Top Cosmetic Creatives</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-disk-failures-on-pc/"><u>Troubleshooting Disk Failures on PC</u></a></li>
+</ul></div>
 

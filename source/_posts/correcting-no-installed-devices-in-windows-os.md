@@ -1,7 +1,7 @@
 ---
 title: Correcting 'No Installed Devices' In Windows OS
-date: 2025-01-28T19:50:08.613Z
-updated: 2025-02-04T01:07:23.729Z
+date: 2025-02-09T18:10:21.916Z
+updated: 2025-02-16T00:31:13.006Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Audio Troubleshooter to Fix Sound Problems
 
  You can run the built-in audio troubleshooter to fix various sound issues in Windows. The troubleshooter will check your PC for common audio issues and try to fix them automatically; for instance, it can help you [fix when you have no audio in Windows 11](https://www.makeuseof.com/fix-no-audio-windows-11/).
@@ -44,11 +48,15 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
 ![troubleshoot sound problems Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/troubleshoot-sound-problems-windows-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Right-click the **Speaker** icon in the system tray and select **Troubleshoot sound problems**.
 2. Similar to Windows 11, This will launch the **Get Help** app. Follow the on-screen instructions to scan your system for audio issues and fix them automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Install the Generic Audio Device Driver
@@ -69,18 +77,18 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 2. Next, click on **Let me pick from a list of available drivers on my computer.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![browse-my-computer-for-driver-audio-device-pick-from-list-of-drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/browser-my-computer-for-driver-audio-device-pick-from-list-of-drivers.jpg)
 3. Check the **Show compatible hardware** option**.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![audio device driver generic device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/audio-device-driver-generic-device-manager.jpg)
 4. Next, select **Generic software device** and click **Next**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Wait for Windows to finish installing the drivers for the device.
 6. Close the Device Manager and check for any improvements.
@@ -93,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
  Lenovo, Dell, Asus, and all the major laptop manufacturers offer similar tools bundled with their devices. Run any such diagnostic tool available on your PC to see if that helps restore your audio.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Manually Reinstall the System Audio Device Drivers
 
  You can manually reinstall the system audio device driver to resolve this error on your Windows computer. Here’s how to do it:
@@ -103,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 ![device manager high definition audio controller system device update driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/device-manager-high-definition-audio-controller-system-device-update-driver.jpg)
 4. Right-click on the audio device and select **Update driver**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select the **Browse my computer for drivers** option.  
 ![device manager browse my computer for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/device-manager-browse-my-computer-for-drivers.jpg)
 6. Click the **Let me pick from a list of available drivers on my computer** option.  
@@ -110,16 +126,12 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 ![device manager let me pick from a list of available drivers on my computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/device-manager-let-me-pick-from-a-list-of-available-drivers-on-my-computer.jpg)
 7. Select the driver under the **Model** section and click **Next** to install the driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![device manager select the driver you want to install for this hardware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/device-manager-select-the-driver-you-want-to-install-for-this-hardware.jpg)
 8. Once installed, close **Device Manager**. This should fix the error and restore audio on your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Install the Generic Audio Device Driver Using Device Manager
 
@@ -131,6 +143,10 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 4. Select **Add legacy hardware.**  
 ![device manager action add legacy hardware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/device-manager-action-add-legacy-hardware.jpg)
 5. Click **Next** to proceed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Next, select the **Install the hardware that I manually select from a list (Advanced)** option.  
 ![device manager install hardware that i manually select from list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/device-manager-install-hardware-that-i-manually-select-from-list.jpg)
@@ -144,16 +160,8 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 ![device manager generic usb device audio legacy hardware add](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/device-manager-generic-usb-device-audioi-legacy-hardware-add.jpg)
 6. Click **Next**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Click **Next** once again to confirm the action.
 8. Wait for the installation to complete and click **Finish**. Restart your PC and check if your audio device is detected and working again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Check if Your Audio Device Is Disabled
 
@@ -171,7 +179,7 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 6. Restart your PC and check if the no audio output device is installed error is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Check if the Audio Services are Running
@@ -189,20 +197,12 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 ![Windows Audio Endpoint Service startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-audio-endpoint-service-startup-type-automatic.jpg)
 5. Click the drop-down for **Startup type** and select **Automatic**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click **OK** to save the change.  
 ![Windows Audio Endpoint Service restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-audio-endpoint-service-restart.jpg)
 7. Right-click on **Windows Audio Endpoint Builder** service again and then select **Restart**.
 
 8. Next, repeat the steps for the **Windows Audio service.**
 9. Once done, close the Services snap-in.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Uninstall or Disable Any Third-Party Driver Updater Tools
 
@@ -249,22 +249,22 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-maintain-youtube-session-in-the-background/"><u>[New] 2024 Approved How to Maintain YouTube Session in the Background</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-discover-the-ultimate-list-of-best-rated-chromebook-drawers/"><u>[New] Discover the Ultimate List of Best-Rated Chromebook Drawers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-profitable-pursuits-on-youtube-the-non-ad-revenue-roadmap-for-2024/"><u>[Updated] Profitable Pursuits on YouTube The Non-Ad Revenue Roadmap for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-realme-c55-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Realme C55 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/mysql/"><u>完全解析MySQL復原過程，你需要知道的重要技巧</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-honor-x50i-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor X50i Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/dissecting-windows-standby-issues-and-insights/"><u>Dissecting Windows Standby: Issues and Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/first-steps-in-windows-understanding-aids-and-assists/"><u>First Steps in Windows: Understanding Aids and Assists</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/youtube-money-calculators-calculate-youtube-money/"><u>Free YouTube Money Calculators-Calculate YouTube Money!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-sound-enhancing-fb-video-posts-a-comprehensive-guide/"><u>In 2024, Sound-Enhancing FB Video Posts A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-pc-power-options-cpu-states-at-the-forefront/"><u>Navigating PC Power Options: CPU States at The Forefront</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-tips-for-opening-windows-11s-component-services/"><u>Quick Tips for Opening Windows 11'S Component Services</u></a></li>
-<li><a href="https://win11.techidaily.com/reducing-ntoskrnlexe-resource-consumption/"><u>Reducing Ntoskrnl.exe Resource Consumption</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-service-access-failed-in-malwarebytes-on-windows-os/"><u>Resolving Service Access Failed in Malwarebytes on Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/snap-tile-and-taskbar-tricks-for-windows-11-professionals/"><u>Snap, Tile & Taskbar Tricks for Windows 11 Professionals</u></a></li>
-<li><a href="https://win11.techidaily.com/top-fixes-to-get-google-drive-working-again-in-windows/"><u>Top Fixes to Get Google Drive Working Again in Windows</u></a></li>
-<li><a href="https://win-bits.techidaily.com/unable-to-view-pictures-on-myspace-a-step-by-step-guide-to-reclaiming-your-memories/"><u>Unable to View Pictures on MySpace? A Step-by-Step Guide to Reclaiming Your Memories.</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-streamline-music-craft-with-our-high-quality-beat-detection-software-for-2024/"><u>[New] Streamline Music Craft with Our High-Quality Beat Detection Software for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-comprehensible-pathway-to-erase-instagram-account-for-2024/"><u>[Updated] The Comprehensible Pathway to Erase Instagram Account for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-hack-swiftly-delete-your-youtube-comments/"><u>2024 Approved The Ultimate Hack Swiftly Delete Your YouTube Comments</u></a></li>
+<li><a href="https://win11.techidaily.com/customize-your-browsing-experience-enabling-gestures-in-microsoft-edge/"><u>Customize Your Browsing Experience: Enabling Gestures in Microsoft Edge</u></a></li>
+<li><a href="https://win11.techidaily.com/dampen-windows-volume-intensification-features/"><u>Dampen Windows Volume Intensification Features</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-rectify-geforce-experience-error-on-windows-1011/"><u>Expert Tips: Rectify GeForce Experience Error on Windows 10/11</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-y100i-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y100i Without Password | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g13-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G13 Bootloader Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-windows-11-tpm-control-techniques/"><u>Mastery over Windows 11 TPM Control Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-family-safety-a-comprehensive-guide/"><u>Microsoft Family Safety: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-windows-11s-task-manager-main-window/"><u>Personalize Windows 11'S Task Manager Main Window</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/premium-fb-extra-tools-secure-file-grabber-enhanced-firefox-use/"><u>Premium FB Extra Tools Secure File Grabber, Enhanced Firefox Use</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-comprehensive-guide-to-acquiring-instagram-ringtones-and-creating-noteworthy-chimes-for-2024/"><u>The Comprehensive Guide to Acquiring Instagram Ringtones & Creating Noteworthy Chimes for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-and-tricks-to-reset-your-gameplay-after-apex-crash/"><u>Tips and Tricks to Reset Your Gameplay After Apex Crash</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-pcs-office-suite-install-on-new-windows/"><u>Transforming PCs: Office Suite Install on New Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-with-gpt-3-openai-style/"><u>Unlocking Potential with GPT-3, OpenAI Style</u></a></li>
 </ul></div>
 

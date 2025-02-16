@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 'Essential Elements' Warning on Windows 11/Win11
-date: 2025-01-29T19:32:30.567Z
-updated: 2025-02-04T04:24:27.193Z
+date: 2025-02-12T18:37:08.860Z
+updated: 2025-02-15T23:04:34.928Z
 tags:
   - windows10
   - windows11
@@ -45,15 +45,7 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/modify-option.jpg)
 4. Select the **Repair** option in the Visual C++ window that opens.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Install the 2015-2022 Visual Studio C++ Packages
 
@@ -65,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 2. Then click the X64 (64-bit) architecture download link for Visual Studio 2015-2022.  
 ![The x64 download link for Visual Studio 2015-2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-x64-link.jpg)
 3. Click **I agree** \> **Install** in the Microsoft Visual C++ 2015-2022 window.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The Install option for Visual C++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-button.jpg)
 4. Repeat steps two and three to download and install the 32-bit version of Visual Studio 2015-2022\. To do so, you’ll need to click on the X86 download link for Visual Studio 2015-2022\.
@@ -85,36 +73,44 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![The I accept the agreement radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-i-accept-radio-button.jpg)
 4. Click **Next** to proceed to an offer for installing a Bing Bar.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Uncheck the **Install the Bing Bar** checkbox if you don’t want that software.  
 ![The Install the Bing Bar checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-bing-bar-option.jpg)
 6. Select **Next** to install the required DirectX components.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Repair .NET Framework Components
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
 
  Check out [how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Verify the Affected Game Within Your Game Launcher
 
 ![The Verify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-verify-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A few users say verifying games’ files works for fixing the “following components are required” error. You can only perform this step if you bought and downloaded the game using one of the big game launcher apps, such as Steam, Epic Games, EA Desktop, and Origin.
 
  If you're unsure how to do this, check out [how to repair game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall the Affected Game or Software
@@ -124,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
  Reinstalling games or any other software this error affects is worth a try since that will restore any missing files. You can uninstall some games via **Programs and Features** as covered in our guide to [uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). If you don’t see the game listed there, you’ll probably have to uninstall it via its client software, such as Epic Games.
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/programs-and-features.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then reinstall the latest version of the game by downloading it from its official site. If installed with Steam or Epic, or other launcher software, you’ll need to select to reinstall the game via its gaming client. Or reinstall the game from its Microsoft Store page if that’s where you purchased it.
 
@@ -147,22 +147,20 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-the-code-to-perfect-instagrams-every-time-for-2024/"><u>[Updated] Unlocking the Code to Perfect Instagrams Every Time for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unraveling-the-mystery-of-apples-new-ios-camera/"><u>[Updated] Unraveling the Mystery of Apple's New iOS Camera</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-top-5-sd-cards-for-gopro-hero-series-including-model-8-and-7/"><u>2024 Approved Top 5 SD Cards for GoPro Hero Series - Including Model 8 & 7</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/2024-gifgif/"><u>2024年に人気! GIF制作ツールガイドとシンプルなGIF作成手順</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crucial-mobile-tools-for-windows-pc-holders-on-android/"><u>Crucial Mobile Tools for Windows PC Holders on Android</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-off-strangers-a-step-by-step-win-11-process/"><u>Cutting Off Strangers: A Step-by-Step Win 11 Process</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-install-and-run-windows-11-on-a-mac-using-parallels/"><u>How to Install and Run Windows 11 on a Mac Using Parallels</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-samsung-galaxy-m34-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Samsung Galaxy M34 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/master-zero-error-repair-windows-11-with-ease/"><u>Master Zero Error: Repair Windows 11 with Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/masterful-file-naming-one-rename-at-a-time-with-powertoys/"><u>Masterful File Naming, One Rename at a Time With PowerToys</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-error-code-win11s-uptime-hurdle-0x80246007/"><u>Navigating Error Code: Win11's Uptime Hurdle, 0X80246007</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-geforce-nows-error-xc0f1103f-on-win11/"><u>Navigating Through GeForce Now's Error Xc0f1103f on Win11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-crafting-your-own-bootable-windows-11-usb-for-immediate-use/"><u>Step-by-Step Guide: Crafting Your Own Bootable Windows 11 USB for Immediate Use</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-your-dells-sm-bus-controller-firmware/"><u>Step-by-Step Guide: Updating Your Dell's SM Bus Controller Firmware</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-secrets-of-iis-management-entry/"><u>Unveiling the Secrets of IIS Management Entry</u></a></li>
-<li><a href="https://win11.techidaily.com/what-if-my-latest-windows-discord-update-fails-heres-how/"><u>What if My Latest Windows Discord Update Fails? Here's How</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-make-instagram-highlight-covers/"><u>[New] How to Make Instagram Highlight Covers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-gpts-evolutionary-journey-from-1-to-4/"><u>Decoding GPT's Evolutionary Journey From 1 to 4</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/diy-movie-previews-made-easy-with-our-free-digital-trailer-crafting-platform/"><u>DIY Movie Previews Made Easy with Our Free Digital Trailer Crafting Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/enable-dark-visual-settings-in-wincalc-app/"><u>Enable Dark Visual Settings in WinCalc App</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-procuring-mac-address-on-windows-11-devices/"><u>Essential Guide: Procuring MAC Address on Windows 11 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-uncharted-with-w11s-upcoming-moment-update/"><u>Exploring the Uncharted with W11's Upcoming Moment Update</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-xr-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone XR to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-undo-personalized-windows-sleep-settings/"><u>How To Undo Personalized Windows Sleep Settings</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-through-the-tablet-wars-amazon-fire-vs-samsung-which-one-wins-for-you/"><u>Navigating Through the Tablet Wars: Amazon Fire Vs. Samsung, Which One Wins for You?</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-data-disasters-in-windows-systems/"><u>Preventing Data Disasters in Windows Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/self-reflection-and-insight-the-gpt-way/"><u>Self-Reflection and Insight: The GPT Way</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-look-at-notifications-on-win-11/"><u>The Insider’s Look at Notifications on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-access-steps-to-locate-and-restore-your-hidden-pin-in-win-11/"><u>Unlocking Access: Steps to Locate and Restore Your Hidden PIN in Win 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/xtreme-old-phone-photos-the-ultimate-archive/"><u>Xtreme Old Phone Photos – The Ultimate Archive</u></a></li>
 </ul></div>
 

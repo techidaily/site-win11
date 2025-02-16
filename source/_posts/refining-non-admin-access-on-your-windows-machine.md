@@ -1,7 +1,7 @@
 ---
 title: Refining Non-Admin Access on Your Windows Machine
-date: 2025-02-03T06:30:18.592Z
-updated: 2025-02-03T18:40:14.673Z
+date: 2025-02-11T16:34:28.817Z
+updated: 2025-02-15T19:13:43.164Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The UAC Behaviors Available for Standard User Accounts
 
  Unlike when [changing UAC behaviors for administrator accounts](https://www.makeuseof.com/change-user-access-control-works-administrators-windows/), the behaviors for standard user accounts are a little more limited. According to the [Microsoft Learn](https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/user-account-control-behavior-of-the-elevation-prompt-for-standard-users) website, here are the behaviors you can choose and what they mean:
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 * **Prompt for credentials**: An operation that requires elevation of privilege prompts the user to type an administrative username and password. If the user enters valid credentials, the operation continues with the applicable privilege.
 
  The default UAC behavior for standard user accounts is **Prompt for credentials**, but Microsoft recommends you change it to **Automatically deny elevation requests**. That way, only users with administrator accounts can decide how the UAC behaves and make choices that will keep the computer safe.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Change the UAC Behavior for Standard Users in the Local Group Policy Editor
 
@@ -51,14 +51,14 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 3. Expand the dropdown and choose a different UAC behavior.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![editing the policy for UAC behavior in Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/editing-policy-for-uac-behavior-in-local-group-policy-editor.jpg)
 4. Click **OK**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Keep in mind that only administrators can change the behavior of the UAC. If a standard user tried to change it using the Local Group Policy Editor, for example, they'd probably get an **Access denied** error message.
@@ -77,17 +77,17 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 ![modifying the ConsentPromptBehaviorUser value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modifying-consentpromptbehavioruser-in-registry-editor.jpg)
 4. In the **Value data** text box, enter **0** for **Automatically deny elevation requests**, **1** for **Prompt for credentials on the secure desktop**, or **3** for **Prompt for credentials**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![setting Value data for ConsentPromptbehavior Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/setting-value-data-for-consentpromptbehavior-registry-editor.jpg)
 5. Click **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now restart your computer to allow the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Control UAC's Behavior for Standard Users on Windows
@@ -106,24 +106,16 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-experts-guide-to-effortless-video-submissions-on-igtv/"><u>[New] In 2024, The Expert's Guide to Effortless Video Submissions on IGTV</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-discovering-prime-frame-rates-for-top-tier-slow-motion-vids/"><u>[Updated] In 2024, Discovering Prime Frame Rates for Top-Tier Slow-Motion Vids</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-ultimate-oculus-rift-game-hits-of-the-season/"><u>[Updated] In 2024, Ultimate Oculus Rift Game Hits of the Season</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-live-action-sims-perfecting-your-videos-for-2024/"><u>[Updated] Live-Action Sims Perfecting Your Videos for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-current-insights-a-benefit-all/"><u>ChatGPT's Current Insights: A Benefit All</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/come-eclissare-il-tuo-hard-disk-con-partizioni-gpt-su-ssd-utilizzando-windows-passi-semplificati-per-windows-111087/"><u>Come Eclissare Il Tuo Hard Disk Con Partizioni GPT Su SSD Utilizzando Windows: Passi Semplificati per Windows 11/10/8/7</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-gui-add-folders-to-windows-11s-taskbar/"><u>Elevate Your GUI - Add Folders to Windows 11'S Taskbar</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/essential-strategies-boosting-your-dj-sites-visibility-with-top-pcdj-insights/"><u>Essential Strategies: Boosting Your DJ Site's Visibility with Top PCDJ Insights!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-c210-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia C210 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-hourly-high-stakes-views-yts-1-to-10-rankings/"><u>In 2024, Hourly High-Stakes Views YT's #1 to #10 Rankings</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-type-fixes-for-windows-11s-x80049dd3-error/"><u>Mastering the Art of Type Fixes for Windows 11'S X80049DD3 Error</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-for-enablingdisabling-regeditor-in-win11/"><u>Methods for Enabling/Disabling RegEditor in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-through-windows-11s-unwanted-apps-quickly/"><u>Navigate Through Windows 11'S Unwanted Apps Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-eradicate-error-80080300-in-windows-team-collaboration/"><u>Steps to Eradicate Error 80080300 in Windows Team Collaboration</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tech-tips-for-smoothing-out-your-minecraft-pc-playtime-latest-fixes/"><u>Tech Tips for Smoothing Out Your Minecraft PC Playtime - Latest Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/the-art-of-identifying-software-settlement-in-windows/"><u>The Art of Identifying Software Settlement in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/the-components-configuration-console-in-windows-explored/"><u>The Components Configuration Console in Windows Explored</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essentials-of-managing-printers-in-windows-1011/"><u>The Essentials of Managing Printers in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-premier-list-of-windows-video-editors/"><u>The Premier List of Windows Video Editors</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-conquer-the-vr-world-your-first-vr-adventure/"><u>[New] Conquer the VR World Your First VR Adventure</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-view-comprehensively-shared-images-and-movies-by-friends/"><u>[Updated] How To View Comprehensively Shared Images and Movies by Friends?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-iphone-14-pro-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From iPhone 14 Pro? Find the Best Solution Here</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-comic-format-for-seamless-win11-viewing/"><u>Decoding Comic Format for Seamless Win11 Viewing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808209012-download-and-install-utorrent-on-windows-10-no-cost-option-available-now/"><u>Download and Install uTorrent on Windows 10 - No Cost Option Available Now</u></a></li>
+<li><a href="https://discover-help.techidaily.com/essential-system-specifications-needed-for-successful-windows-os-setup-guidance-by-yl-computing/"><u>Essential System Specifications Needed for Successful Windows OS Setup - Guidance by YL Computing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-xs-max-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone XS Max Apple ID and Apple Pay</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-0x80072af9-windows-error-code/"><u>How to Fix the 0X80072AF9 Windows Error Code</u></a></li>
+<li><a href="https://win11.techidaily.com/initiating-system-file-checker-a-step-by-step-approach/"><u>Initiating System File Checker: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/solve-defective-windows-keys-a-quick-guide/"><u>Solve Defective Windows Keys: A Quick Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/starting-windows-11s-system-level-driver-inspector/"><u>Starting Windows 11'S System-Level Driver Inspector</u></a></li>
 </ul></div>
 

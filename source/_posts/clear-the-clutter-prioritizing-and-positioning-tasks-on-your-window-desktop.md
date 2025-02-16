@@ -1,7 +1,7 @@
 ---
 title: "Clear the Clutter: Prioritizing and Positioning Tasks on Your Window Desktop"
-date: 2024-07-29T15:55:20.953Z
-updated: 2024-07-30T15:55:20.953Z
+date: 2025-02-15T04:48:29.640Z
+updated: 2025-02-15T23:58:53.668Z
 tags:
   - windows10
   - windows11
@@ -23,8 +23,9 @@ thumbnail: https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a0
  In this guide, we show you how to keep Sticky Notes always on top using Microsoft PowerToys and DeskPins.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Use Microsoft PowerToys to Keep Sticky Notes Always on Top
 
 [Microsoft PowerToys](https://www.makeuseof.com/tag/windows-10-powertoys/) features a collection of advanced Windows customization utilities. You can use it to disable sleep mode on your PC, resize images, perform bulk renaming using search-replace, and keep apps always on top.
@@ -36,15 +37,9 @@ thumbnail: https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a0
 1. Open the[Microsoft PowerToys page](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) and install the app from Microsoft Store.
 2. You can launch the app from the recently installed list or system tray.
 3. In the PowerToys Settings window, open the**Always on Top** tab**.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![power toys always on top](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top.jpg)
 4. Next, toggle the**Enable Always on Top** switch and set it to**On** .
 5. Next, under**Activation** , note down the**Activation shortcut** . By default, it is set to**Win + Ctrl + T** . To change the shortcut combo, click the**Edit** button (Pencil icon) and make changes.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![power toys always on top border off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top-border-off.jpg)
 6. Under**Appearances & behavior** , toggle the**Shows a border around the Pinned window** to disable the highlighted border for the pinned app.
 7. Next, open the Sticky Notes app. To do this, press the**Win** key**,** type**sticky notes** and open the app.
@@ -53,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a0
  Once pinned, Sticky Notes will always stay on top of other apps. To unpin the window, Press**Win + Ctrl + T** , and the app will act like any other open window on Windows. Make sure to allow PowerToys to run in the background for the Always On Top feature to work. Also, you’ll need to pin the apps each time you close and relaunch them.
 
  Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use DeskPins to Pin Sticky Notes
 
@@ -67,35 +66,36 @@ To pin Sticky Notes using DeskPins:
 3. Once installed, search for**DeskPins** and click on the**App** icon to launch the app.  
 ![desk pins system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-system-tray.jpg)
 4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
 5. Next, click on the**Sticky Note** app window to keep it always on top.
 6. Click the**Pin** icon to unpin the window.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Keep Sticky Notes Always on Top in Windows 10 and 11
 
  The Sticky Notes app is an excellent productivity tool if you need to continuously jot down ideas and notes. With PowerToys’s Always On Top feature, the app can stay pinned forever on your desktop and not get lost with the other hundred apps in the background. Alternatively, use DeskPins if you find PowerToys overkill for this task.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,4 +104,19 @@ To pin Sticky Notes using DeskPins:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-architecting-authoritative-adjuncts/"><u>[New] In 2024, Architecting Authoritative Adjuncts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-overhaul-mistaken-persona-display-within-social-media-messages/"><u>[Updated] 2024 Approved Overhaul Mistaken Persona Display Within Social Media Messages</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-shenanigans-unleashed-the-wildest-tiktok-game-spectacle/"><u>[Updated] 2024 Approved Shenanigans Unleashed The Wildest TikTok Game Spectacle</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-online-and-local-photos-how-to-unite-them/"><u>[Updated] Online and Local Photos How to Unite Them</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wav-au/"><u>免費線上 WAV 至 AU格式自由變更 - 瓦維亞轉換工具</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-immersive-soundscapes-windows-1011-dolby-atmos-guide/"><u>Explore Immersive Soundscapes: Windows 10/11 Dolby Atmos Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-stutter-in-starfield-gameplay-a-comprehensive-guide-to-smooth-soundscape/"><u>Fixing Stutter in Starfield Gameplay - A Comprehensive Guide to Smooth Soundscape</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-dolby-advanced-audio-driver-woes-a-step-by-step-guide-for-windows-11-users/"><u>Resolve Your Dolby Advanced Audio Driver Woes - A Step-By-Step Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-restricted-permissions-in-windows-10-and-11/"><u>Setting Up Restricted Permissions in Windows 10 and 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-your-apps-reactivating-microsoft-store-on-win-11/"><u>Unlock Your Apps: Reactivating Microsoft Store on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocked-encryptor-delay-new-adoption-for-deliberation/"><u>Unlocked Encryptor: Delay New Adoption for Deliberation</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-icon-chaos-solutions-for-a-sorted-workspace/"><u>Win 11 Icon Chaos - Solutions for a Sorted Workspace</u></a></li>
+</ul></div>
 

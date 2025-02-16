@@ -1,7 +1,7 @@
 ---
 title: "Addressing Inoperative Windows Programs: A Fixer’s Manual"
-date: 2024-08-08T13:11:21.545Z
-updated: 2024-08-09T13:11:21.545Z
+date: 2025-02-10T20:27:49.784Z
+updated: 2025-02-15T17:42:27.687Z
 tags:
   - windows10
   - windows11
@@ -26,22 +26,28 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
 
  To restart your device, open the Start menu. Then select the Power icon and click **Restart**. You can also use the keyboard shortcut **Ctrl + Alt + Del** to open the same window. After restarting, try installing the app again and see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Clear the Microsoft Store Cache
 
  If restarting your device does not help, the next step is to clear the Microsoft Store cache. This process removes any temporary files that might cause this issue. Clearing the cache removes unnecessary files and speeds up the browsing experience. Here’s how to clear the Microsoft Store cache.
 
 1. Press **Win + R** on your keyboard to [launch the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/).
 2. Type **WSReset.exe** in the dialog box and press Enter.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![Clear Microsoft Store Cache File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-microsoft-store-cache-file.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A command prompt appears on the screen confirming that the Windows Store cache is cleared. Once you've completed these steps, check if it solves the error.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Check for Microsoft Store Updates
 
  Another potential reason for this error is the outdated Windows Store version. Microsoft regularly releases updates to fix bugs and improve Store performance. So, make sure that you are using the latest version. To check for Windows Store updates, follow these steps.
@@ -54,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
 
  After following the steps above, restart your computer and see if it resolves the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Run the Windows Store Apps Troubleshooter
 
  Windows comes with a built-in troubleshooter that diagnoses and resolves various problems. You can use it to fix the “This app will not work on your device” error as well. To run the troubleshooter, follow these steps:
@@ -65,6 +68,11 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
 2. From the left pane, click **System > Troubleshoot > Other troubleshooters**.  
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 3. Scroll down to **Windows Store Apps** and click the **Run** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Run Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-windows-store-apps-troubleshooter.jpg)
 4. Wait for the troubleshooter to detect any problem and fix it if necessary.
 
@@ -77,15 +85,21 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
 1. Press **Win + R** on your keyboard to open the Run command.
 2. Type **services.msc** in the dialog box and press Enter. This will open the Services window.
 3. Scroll down to find the **Application Identity** service and double-click on it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Restart the Application Identity Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/restart-the-application-identity-service.jpg)
 4. In the Properties window, set the **Startup type** to **Automatic**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Also, click on the **Start** button under Service status.
 6. Finally, click **Apply > OK** to save the changes.
 
  Now, restart your computer and check if the error has been resolved. If not, proceed to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Temporarily Disable Your Antivirus Program
 
@@ -96,9 +110,6 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
 3. Go to the right pane and click **Open Windows Security**.
 4. Once you're in Windows Security, select **Virus & threat protection** from the left pane.
 5. Next, scroll down to **Virus & threat protection settings** and click **Manage settings**.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Manage settings in Windows security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manage-settings-in-windows-security.jpg)
 6. Turn off the **Real-time protection** toggle.  
 ![Turn off the Real-time protection toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-off-the-real-time-protection-toggle.jpg)
@@ -112,32 +123,12 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
 1. [Open the Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/) and view it in **Category** mode.
 2. Go to **Programs > Programs and Features > Turn Windows features on or off**.
 3. In the Windows Features dialog, scroll down to **Hyper-V** and check the box next to it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable Hyper-V in Windows Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-hyper-v-in-windows-features.jpg)
 4. Similarly, search for **Virtual Machine Platform** and **Windows Hypervisor Platform** and enable them as well.
 5. Once done, click **OK > Apply** to save the changes.
 
  Finally, restart your computer and check if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## 8\. Perform Several Generic Windows Fixes
 
  If none of the above solutions managed to fix the error, you can try performing several generic fixes. This includes [running the System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) to scan for missing or corrupted files and the Deployment Image Servicing and Management tool to repair any corrupt system image.
@@ -146,25 +137,11 @@ Key features:
 
  If there are still problems, you can try [performing a clean boot](https://www.makeuseof.com/clean-boot-windows-11/). It will launch the device with a minimal set of drivers and programs, allowing you to identify any 3rd-party applications that may be causing the error. Once done, restart your computer normally and check if the error has been fixed.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Keep Your Apps Up and Running on Windows
 
  It's okay if you receive a "this app will not work on your device" message; it just means that your system doesn't meet an app's requirements or there is a corrupted Microsoft Store cache. Thankfully, our guide offers solutions to resolve this issue quickly.
 
  There could be various reasons for this issue depending on the app, such as a corrupted cache file or system problems. Read this guide to learn more about this error and how to fix it.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -172,4 +149,22 @@ Key features:
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-transforming-sportscasting-with-yis-4k-camera-prowess/"><u>[New] In 2024, Transforming Sportscasting with Yi's 4K Camera Prowess</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-youtube-milestone-mastery-breaking-into-the-millions/"><u>[New] In 2024, Youtube Milestone Mastery Breaking Into the Millions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-money-on-youtube-understanding-required-number-of-views/"><u>[Updated] 2024 Approved Gain Money on YouTube Understanding Required Number of Views</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-restoring-functionality-to-resource-monitor-on-win11/"><u>Comprehensive Guide: Restoring Functionality to Resource Monitor on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-digital-footprints-finding-windows-11-writable-mac/"><u>Deciphering Digital Footprints: Finding Windows 11' Writable MAC</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-chronicle-of-run-command-activities/"><u>Enabling Chronicle of Run Command Activities</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hue-adjustments-making-your-gopro-footage-pop/"><u>Hue Adjustments Making Your GoPro Footage Pop</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcoming-chatgpt-compatibility-woes-9-effective-ways-to-get-it-working-on-ios-devices/"><u>Overcoming ChatGPT Compatibility Woes: 9 Effective Ways to Get It Working on iOS Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reach-windows-11-excellence-top-settings-to-personalize-and-tweak/"><u>Reach Windows 11 Excellence: Top Settings to Personalize and Tweak</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaim-windows-shared-folder-entry-points/"><u>Reclaim Windows Shared Folder Entry Points</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341701667-seek-immediate-medical-attention-for-all-significant-eye-injuries-to-prevent-complications-such-as-glaucoma-or-retinal-detachment/"><u>Seek Immediate Medical Attention for All Significant Eye Injuries to Prevent Complications Such as Glaucoma or Retinal Detachment.</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/step-by-step-guide-effortless-iphone-screen-recordings/"><u>Step-by-Step Guide Effortless Iphone Screen Recordings</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo S18 | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Designing Your Own Terminal Schemes in WT
-date: 2025-02-03T01:03:08.571Z
-updated: 2025-02-04T05:53:11.268Z
+date: 2025-02-14T05:11:46.036Z
+updated: 2025-02-16T04:57:15.363Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do I Edit a Color Scheme in Windows Terminal?
 
  Editing the color scheme is just one of the many[ways you can customize the Windows Terminal](https://www.makeuseof.com/windows-terminal-customization/) . To do that, follow the steps below:
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
 7. When you’re done, click**Save** in the bottom right corner to save your changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Create a Color Scheme in Windows Terminal?
@@ -59,19 +63,19 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
 ![a custom color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/custom-10-color-scheme-windows-terminal.jpg)
 5. Click on the**Rename** button next to the**dropdown** , give the custom scheme a name, and then click the**blue checkmark** to save it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![a custom color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/custom-10-color-scheme-windows-terminal.jpg)
 6. Change the colors in the**Terminal colors** and**System colors** sections to something you like by clicking on them to bring up the editor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. In the color editor, you can adjust the**slider** to make the color lighter or darker or enter a new hexadecimal color value. You can also click the**dropdown** , select either**RGB** or**HSV** in the menu that appears, and enter new values to change the colors completely.
 8. When you’re done, click**Save** in the bottom right corner to save your changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Apply a Color Scheme in Windows Terminal
 
@@ -83,19 +87,15 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
 ![the profiles section of windows terminal settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/profiles-section-windows-terminal.jpg)
 4. In the**Additional settings** section at the bottom of the right panel, click**Appearance** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![the additional settings of a profile in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/git-bash-additional-settings.jpg)
 5. In the**Text** section, click on the**dropdown** next to**Color scheme** and select the edited or custom color scheme that you want to apply.  
 
 ![changing the color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/change-color-scheme-windows-terminal.jpg)
 6. When you’re done, click**Save** in the bottom right corner to save your changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Customizing Color Schemes in Windows Terminal Is Easy
 
@@ -116,24 +116,19 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/utting-edge-top-8-free-online-video-tools-for-2024/"><u>[New] Cutting Edge Top 8 Free Online Video Tools for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-drawdeck-master-review-and-teaching-companion-2024/"><u>[New] DrawDeck Master Review & Teaching Companion 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-leveraging-likes-and-shares-for-financial-gain-on-snapchat/"><u>[New] In 2024, Leveraging Likes and Shares for Financial Gain on Snapchat</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-efficiently-record-your-gotomeeting-conferences-for-2024/"><u>[Updated] Efficiently Record Your GoToMeeting Conferences for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-visionary-dialogue-writer-for-2024/"><u>[Updated] Visionary Dialogue Writer for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-powered-healthful-eating-strategies-via-gpt-tips/"><u>AI-Powered Healthful Eating Strategies via GPT Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/create-a-fascinating-windows-11-display-with-lively-wallpaper/"><u>Create a Fascinating Windows 11 Display with Lively Wallpaper</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-aged-media-with-madvr-on-windows-platform/"><u>Elevate Aged Media with MadVR on Windows Platform</u></a></li>
-<li><a href="https://win11.techidaily.com/forcefully-disconnect-and-delete-printer-in-modern-windows-os/"><u>Forcefully Disconnect & Delete Printer in Modern Windows OS</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-14-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone 14 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-handle-erroneous-updates-deciphering-code-0x30017/"><u>How to Handle Erroneous Updates: Deciphering Code 0X30017</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-overcome-microsofts-driver-verification-hurdles/"><u>How to Overcome Microsoft's Driver Verification Hurdles</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-react-when-your-windows-cant-find-powershell/"><u>How to React When Your Windows Can't Find PowerShell?</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-with-wintoys-the-compact-guidebook/"><u>Mastering Windows with WinToys: The Compact Guidebook</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-screenshot-stash/"><u>Navigating Windows Screenshot Stash</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-huawei-nova-y91-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Huawei Nova Y91</u></a></li>
-<li><a href="https://some-tips.techidaily.com/quietly-pair-airpods-with-quest-3-for-a-peaceful-experience-insider-seo-tricks-from-zdnet/"><u>Quietly Pair AirPods With Quest #3 for a Peaceful Experience | Insider SEO Tricks From ZDNET</u></a></li>
-<li><a href="https://win11.techidaily.com/tailored-hotkeys-for-volume-control-in-the-newest-windows-version/"><u>Tailored Hotkeys for Volume Control in the Newest Windows Version</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-realme-v30-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-how-to-clearance-check-tiktok-videos-before-publishing-for-2024/"><u>[Updated] How to Clearance-Check TikTok Videos Before Publishing for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rated-recs-top-pages-for-obtaining-snapalert-tunes/"><u>[Updated] Rated Recs Top Pages for Obtaining SnapAlert Tunes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-how-to-make-a-3d-text-effect-in-photoshop/"><u>2024 Approved How to Make a 3D Text Effect in Photoshop</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-honor-magic-6-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Honor Magic 6 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/comparaison-des-performances-passer-dun-disque-dur-hdd-a-un-ssd-securise-et-fiable/"><u>Comparaison Des Performances : Passer D'un Disque Dur HDD À Un SSD Sécurisé Et Fiable</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-windows-updater-malfunction-code-0x80073712/"><u>Correcting Windows Updater Malfunction: Code 0X80073712</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-microsoft-store-issue-code-0x80073cf3-on-win1111/"><u>Fixing Microsoft Store Issue Code 0X80073CF3 on Win11/11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-tweak-usage-meter-settings-for-a-wifi-network-on-win11/"><u>How to Tweak Usage Meter Settings for a Wifi Network on Win11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y78t-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo Y78t Phone without Google Account?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-enhancing-outreach-with-strategic-partner-selection-on-youtube/"><u>In 2024, Enhancing Outreach with Strategic Partner Selection on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-this-adobe-app-warning-on-pc/"><u>Sidestep 'This Adobe App' Warning on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-your-system-installing-hyper-v-on-w11-home-computers/"><u>Simplify Your System: Installing Hyper-V on W11 Home Computers</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/spotting-a-block-snapchat-notifications-gone-mute/"><u>Spotting a Block Snapchat Notifications Gone Mute</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-windows-font-library-multi-language/"><u>The Ultimate Windows Font Library (Multi-Language)</u></a></li>
 </ul></div>
 

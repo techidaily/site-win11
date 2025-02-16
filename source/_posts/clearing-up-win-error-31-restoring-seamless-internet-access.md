@@ -1,7 +1,7 @@
 ---
 title: "Clearing Up WIN Error 31: Restoring Seamless Internet Access"
-date: 2024-07-29T15:53:58.615Z
-updated: 2024-07-30T15:53:58.615Z
+date: 2025-02-10T20:46:02.504Z
+updated: 2025-02-16T00:29:34.098Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
  Additionally, you can also find new drivers using your manufacturer's proprietary system management tool. For example, with Lenovo and HP computers, you can use the Lenovo Vantage and HP Support Assistant utility to find and install new drivers for your network adapter and other devices.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Perform a Driver Roll Back
 
  If you believe a recent driver update is causing the error, you can use the**Roll Back Driver** option to perform a rollback and reinstall the previous version of the network adapter driver.
@@ -61,17 +58,20 @@ To perform a network reset:
  Next, click on**Network reset** .
 5. ![advanced network settings windows 11 network reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-network-reset.jpg)  
  Click on**Reset now** and click**Yes** to rest your network settings.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![advanced network settings windows 11 network reset reset now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-network-reset-reset-now.jpg)
 6. Your PC will restart during the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Delete the Corrupted Network Config File on Older Machines
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![delete config value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/delete-config-value-registry-editor.jpg)
 
  On an older Windows Vista or XP computer, you can resolve the issue by tweaking a registry entry. You need to delete a corrupt config key in Registry Editor and then uninstall the device from Device Manager to fix the error.
@@ -99,19 +99,26 @@ To perform a network reset:
 3. Right-click on the network adapter and select**Uninstall Device.**  
 ![uninstall network device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-network-device-device-manager.jpg)
 4. In the confirmation dialog, check the**Attempt to remove the driver for this device** option.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![uninstall network driver device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-network-driver-device-device-manager.jpg)
 5. Click**Uninstall** to confirm the action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once uninstalled, restart your PC. After the restart, Windows will automatically detect connected but unrecognized devices and install the necessary drivers.
 
  If Windows fails to install the driver, open**Device Manager** , right-click on your network adapter and select**Update driver** . You can also download the latest drivers from your computer manufacturer's website, as shown in step one.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Perform a System Restore
 
  This error can occur if Windows modifies your network adapter settings during an update. You can use a restore point to undo the changes and restore the computer to its earlier state. Since Windows automatically creates a new restore point before installing an update, you should be able to find a recent restore point to undo the changes.
@@ -121,24 +128,20 @@ To perform a restore point:
 1. Press the**Win** key and type**restore point.**
 2. Click on**Create a restore point** from the search result.
 3. In the**System Protection** dialog, click the**System Restore** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![system properties system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-properties-system-restore.jpg)
 4. In the**System Restore** dialog, click**Next** to view all the available restore points. Additionally, check the**Show more restore points** option to view older restore points.
 5. Select the most recent restore point and click**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system properties system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-properties-system-restore.jpg)
 6. Confirm your restore point and read the description to understand what apps and data on your PC are affected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click**Finish** to initialize the system restore process. Your PC will restart and may take some time to finish. Your PC will restart and show a system restore success or failure message.
 
  If the restore process fails, try it again. At times, it may take more than one attempt to get it right. If the computer is restored, it should hopefully restore the old network driver configuration and fix the error.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Fix the Network Adapter Code 31 Error on Windows
 
  Network adapter code 31 is one of the many errors that can cause your network adapter to malfunction. To fix the error, check if you have the latest network adapter driver installed. If necessary, perform a driver rollback, clean up corrupt registry value or perform a system restore.
@@ -149,8 +152,6 @@ To perform a restore point:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +159,24 @@ To perform a restore point:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-crafting-cinematic-magic-essential-tips-for-creating-stunning-slow-motion-media-on-instagram/"><u>[New] 2024 Approved Crafting Cinematic Magic Essential Tips for Creating Stunning Slow-Motion Media on Instagram</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/esign-wizards-perfect-templates-for-gaming-channel-logos/"><u>[New] Design Wizards Perfect Templates for Gaming Channel Logos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-logic-x-lore-guides-to-creating-crossfading-audio/"><u>[New] Logic X Lore Guides to Creating Crossfading Audio</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-optimize-your-yi-4k-footage-best-accessories-list/"><u>[New] Optimize Your YI 4K Footage - Best Accessories List</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-maximize-social-status-top-8-apps-for-gaining-more-fb-fans-for-2024/"><u>[Updated] Maximize Social Status Top 8 Apps for Gaining More FB Fans for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/decode-error-a00f4289-in-win11-webcam-step-by-step-guide/"><u>Decode Error A00F4289 in Win11 Webcam: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/display-network-metrics-as-part-of-ui-elements/"><u>Display Network Metrics as Part of UI Elements</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-focusrite-scarlett-solo-now-perfect-compatibility-with-windows-systems/"><u>Download the Focusrite Scarlett Solo Now! Perfect Compatibility with Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-the-way-to-a-functional-windows-character-map/"><u>Easing the Way to a Functional Windows Character Map</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/googles-gemini-ai-is-here-but-is-it-better-than-chatgpt/"><u>Google's Gemini AI Is Here, but Is It Better Than ChatGPT?</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windowed-gaming-top-fps-tools-list/"><u>Mastering Windowed Gaming: Top FPS Tools List</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivate-fast-paced-execution-of-excel-tasks-in-windows/"><u>Reactivate Fast-Paced Execution of Excel Tasks in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-bluetooth-missing-from-windows-device-manager/"><u>Resolved: How to Fix Bluetooth Missing From Windows Device Manager</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-mastering-the-new-iphone-photo-cutout-feature-in-ios-16/"><u>Step-by-Step Guide: Mastering the New iPhone Photo Cutout Feature in iOS 16</u></a></li>
+<li><a href="https://win11.techidaily.com/transition-strategies-turning-cr2-photos-to-windows-jpgs/"><u>Transition Strategies: Turning CR2 Photos to Windows JPGs</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-asana-issues-a-focus-on-windows-compatibility/"><u>Unraveling Asana Issues: A Focus on Windows Compatibility</u></a></li>
+<li><a href="https://win11.techidaily.com/win-1011-strategies-for-applying-gpo-to-one-user-account/"><u>Win 10/11: Strategies for Applying GPO to One User Account</u></a></li>
+</ul></div>
 

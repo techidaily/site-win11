@@ -1,7 +1,7 @@
 ---
 title: "Breaking Through Boot Blockers: Top Windows Troubleshooting Steps"
-date: 2024-07-29T15:54:02.796Z
-updated: 2024-07-30T15:54:02.796Z
+date: 2025-02-10T22:42:46.000Z
+updated: 2025-02-15T17:43:36.212Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/91e7f02bd957e18d2516616e2ae6cdb5e18d02627
  The error mainly appears when TPM is disabled on your computer. As such, if you're also facing the same problem, follow the fixes below to troubleshoot the problem for good.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Causes the "Secure Boot State Unsupported" Error?
 
 [Secure Boot](https://www.makeuseof.com/what-is-secure-boot-how-does-it-work/) is a feature of modern computers that uses a digital signature to verify the authenticity of the system's software, especially the operating system's files. It is one of the minimum requirements to install Windows 11\.
@@ -46,13 +47,14 @@ thumbnail: https://thmb.techidaily.com/91e7f02bd957e18d2516616e2ae6cdb5e18d02627
 3. Check the **Secure Boot State** in the right pane.  
 ![Secure Boot State in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Secure-Boot-State.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the Secure Boot status is **Off**, you'll have to enable it through your BIOS. To do that, follow the instructions:
 
 1. Open the Settings menu by pressing the Win + I hotkey, and navigate to **System** \> **Recovery.**
 2. Click **Restart now** next to **Advanced startup.** It'll restart your computer.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Restart Now option next to Advanced Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Restart-Now-option.jpg)
 3. In the Advanced startup mode, choose **Troubleshoot** and then **Advanced options.**
 4. Choose **UEFI Firmware Settings** and click **Restart.** I'll boot you straight into Windows UEFI BIOS.
@@ -65,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/91e7f02bd957e18d2516616e2ae6cdb5e18d02627
 
  Once you've enabled Secure Boot, try to install Windows and check if the problem continues. If yes, then try the next solution on the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check and Enable TPM Support
 
  You must have the TPM chip installed on your computer to download Windows 11\. If the TPM chip is missing, you can still install Windows 11 by bypassing the minimum requirement, but then the "Secure Boot state unsupported" error will continue to bother you now and then.
@@ -75,12 +81,17 @@ thumbnail: https://thmb.techidaily.com/91e7f02bd957e18d2516616e2ae6cdb5e18d02627
 2. In the search bar, type **tpm.msc** and press Enter.
 3. In the TPM management window, click **Actions** in the top bar.
 4. Choose **Prepare the TPM** from the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![Prepare the TPM in TPM Management Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Prepar-the-TPM.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your computer and check for the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Choose UEFI as the BIOS' Mode
 
@@ -98,9 +109,6 @@ thumbnail: https://thmb.techidaily.com/91e7f02bd957e18d2516616e2ae6cdb5e18d02627
 
  Again, the process will differ for different manufacturers; therefore, you must check your manufacturer's BIOS page to know how to do it on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Convert the Partition Style From MBR to GPT
 
  In modern computers, the boot mode is set to UEFI and has GPT (GUID Partition Style) partition style. However, if your computer is using Legacy Boot mode and MBR (Master Boot Record) partition style, then you will face the problem at hand.
@@ -113,9 +121,6 @@ thumbnail: https://thmb.techidaily.com/91e7f02bd957e18d2516616e2ae6cdb5e18d02627
 ![Properties option in Disk Management tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/properties-option.jpg)
 4. Switch to the **Volumes** tab.
 5. Check the **Partition style.** If it shows Master Boot Record (MBR), then you will have to convert it to GPT.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Partition Style in Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Partition-Style.jpg)
 
  To convert the MBR partition style to GPT, follow the below steps:
@@ -123,14 +128,6 @@ thumbnail: https://thmb.techidaily.com/91e7f02bd957e18d2516616e2ae6cdb5e18d02627
 1. Open the **Start Menu** by pressing the **Windows** key.
 2. Type **Command Prompt** in the search bar and click the **Run as administrator** option in right pane.
 3. Type **mbr2gpt /validate /allowfullOS** and press Enter. This command will validate the partition.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![Validate command option in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/validate-command.jpg)
 4. Once the validation is complete, type **mbr2gpt /convert /allowfullOS** and press Enter.
 
@@ -142,18 +139,16 @@ thumbnail: https://thmb.techidaily.com/91e7f02bd957e18d2516616e2ae6cdb5e18d02627
 
  In the clean boot state, check if you're facing the error message again or not.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![System configuration window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-configuration-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If not, then it indicates that one of the services you disabled was causing the problem. To narrow it down, repeat the above process while slowly re-enabling the services until you see the error again.
 
  Once you find out which service is the culprit, consider downloading its driver update or running an SFC scan if it's a Windows-based service.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## The "Secure Boot State Unsupported" Error, Fixed
 
  The "Secure Boot state unsupported" error is a very common issue that appears when you try to install Windows 11\. Fortunately, you can quickly troubleshoot this error by following the above fixes.
@@ -162,11 +157,26 @@ thumbnail: https://thmb.techidaily.com/91e7f02bd957e18d2516616e2ae6cdb5e18d02627
 
  The error mainly appears when TPM is disabled on your computer. As such, if you're also facing the same problem, follow the fixes below to troubleshoot the problem for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-growth-in-the-grove-top-7-stardew-valley-addons/"><u>[New] In 2024, Growth in the Grove Top 7 Stardew Valley Addons</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-digital-diaries-blending-visuals-with-audio-threads-for-2024/"><u>[Updated] Digital Diaries Blending Visuals with Audio Threads for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-the-perfect-harmony-fusing-lyrics-and-images-with-lyric-video-maker/"><u>[Updated] In 2024, Crafting the Perfect Harmony Fusing Lyrics & Images with Lyric Video Maker</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creating-impact-with-high-converting-youtube-advertising-banners/"><u>[Updated] In 2024, Creating Impact with High-Converting YouTube Advertising Banners</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-laugh-ledger-a-treasure-trove-of-free-meme-creations-for-2024/"><u>[Updated] Laugh Ledger A Treasure Trove of FREE Meme Creations for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-facetime-call-screen-recording-the-beginners-guide/"><u>2024 Approved FaceTime Call Screen Recording The Beginner's Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-mystery-of-windows-11-themes-with-registry-editing/"><u>Decoding the Mystery of Windows 11 Themes with Registry Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-windows-performance-diagnostic-glitch/"><u>Fixing the Windows Performance Diagnostic Glitch</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-chrome-video-errors-a-step-by-step-fix-guide/"><u>In 2024, Chrome Video Errors A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-top-15-virtual-classrooms-for-aspiring-scientists/"><u>In 2024, Top 15 Virtual Classrooms for Aspiring Scientists</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-desktop-functionality-adding-widgets-to-win-11/"><u>Maximizing Desktop Functionality: Adding Widgets to Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-guide-to-pinpoint-your-cpus-gen-status-8-ways/"><u>Windows Guide to Pinpoint Your CPU's Gen Status (8 Ways)</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Bypassing Windows' Audible Hurdle: Code 0Xc00d36b4"
-date: 2024-07-29T15:55:28.303Z
-updated: 2024-07-30T15:55:28.303Z
+date: 2025-02-13T16:49:49.788Z
+updated: 2025-02-15T19:29:26.123Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/063adb3e91f9e707cd239c6a9a79b813aee233d9c
 
  In this guide, we'll explain the common causes of this issue and provide you with some effective troubleshooting methods to help you fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Understanding the Problem Behind Audio Error 0xc00d36b4 on Windows
 
  The audio error 0xc00d36b4 occurs when Windows fails to play audio due to a problem with the audio codec. It typically occurs on the Groove Music or the Movies & TV app, and can be caused due to one or more of the following factors:
@@ -34,18 +31,23 @@ thumbnail: https://thmb.techidaily.com/063adb3e91f9e707cd239c6a9a79b813aee233d9c
 
  Below, we have listed different troubleshooting methods that can help you fix the problem in no time, regardless of the cause. Choose the solution that is most appropriate for your situation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the File Format of the File You're Playing
 
  Different media players and codecs support different file formats, and if the file you are trying to play is in an unsupported format, the player will fail to play it, leading to the problem at hand.
 
  This is why, the first thing that we recommend doing is making sure that the file you are trying to play is in a supported format. You can do so by right-clicking on the file and choosing**Properties** . Head over to the**General** tab and check the file extension or file type there.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check the file type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/check-file-type.jpg)
 
  If it is not, you can use a third-party application to convert it into a compatible format. Alternatively, you can try using another application that supports the format of your audio file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the Audio Troubleshooter
 
@@ -65,9 +67,6 @@ Here is how you can do that:
 2. Type control in the text field of Run and click Enter.
 3. Navigate to**Programs** \>**Programs and Features** .
 4. In the following window, click on the**Turn Windows features on or off** hyperlink in the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn Windows features on or off option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-windows-features-on-or-off.jpg)
 5. Now, scroll down and expand the**Media Features** option.
 6. Uncheck the box associated with Windows Media Player and click**OK** to save the changes.  
@@ -76,9 +75,6 @@ Here is how you can do that:
 8. Upon reboot, restart the service by following the same steps mentioned above.
 9. Finally, restart your computer again and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## 4\. Uninstall Nero Codecs
 
  As we mentioned above, if you have Nero Codecs installed on your computer, then there is a chance that it is interfering with the processes of Groove Music or the Windows Media Player.
@@ -89,15 +85,9 @@ Here is how you can do that:
 2. Type "appwiz.cpl" in the text field and press**Enter** .
 3. Now, locate the Nero Codecs pack and right-click on it.
 4. Choose**Uninstall** and follow the on-screen instructions to complete the process.  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Uninstall the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-uninstall-program.jpg)
 5. Once done, restart your computer and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Disable Copy Protection
 
  In some cases, users noticed that the copy protection feature was preventing certain files from being played. This feature is typically used to prevent unauthorized copying and distribution of copyrighted content but can also cause conflicts with the relevant hardware and software.
@@ -110,17 +100,27 @@ Here is how you can do that:
 2. Choose**Options** from the context menu.  
 ![Choose Options in Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/media-player-options.jpg)
 3. Head over to the**Rip Music** tab and uncheck the box associated with**Copy protect music** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Uncheck the Copy protect music option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/copy-protect-music.jpg)
 4. Click**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Update Audio Drivers
 
  There can be a problem with the audio drivers installed on the system, which is preventing them from communicating with the relevant hardware and leading to the problem.
 
  This typically happens when the drivers are either corrupt or outdated. Fortunately, both of these issues can be fixed by[updating the audio drivers on Windows](https://www.makeuseof.com/update-audio-drivers-windows/) . The easiest way of doing this is by using the Device Manager utility that comes with Windows by default.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall Windows Media Player
 
@@ -134,14 +134,11 @@ Here is how you can do that:
 
  However, if the problem persists, you can always reach out to the official Microsoft support team for further assistance. They will be able to investigate the issue and provide you with a relevant solution.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -150,4 +147,16 @@ Here is how you can do that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-mastering-multitasking-ideas-with-podcasts/"><u>[New] 2024 Approved Mastering Multitasking Ideas with Podcasts</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-direct-transfer-solution-youtube-content-on-dailymotion-now/"><u>[Updated] Direct Transfer Solution YouTube Content on Dailymotion Now</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-overcoming-error-code-0x80070570-in-windows-oses/"><u>Deciphering and Overcoming Error Code 0X80070570 in Windows OSes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-nubia-red-magic-8s-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Nubia Red Magic 8S Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-6-plus-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone 6 Plus in the Best Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/master-archive-support-in-windows-os/"><u>Master Archive Support in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/modifying-taskbar-to-feature-numeric-keys-on-windows-11/"><u>Modifying Taskbar to Feature Numeric Keys on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-windows-loadlib-error-87-issue/"><u>Remedying Windows LoadLib Error 87 Issue</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-kid-friendly-film-destinations-your-guide-to-watching-movies-online-for-free/"><u>Top 6 Kid-Friendly Film Destinations: Your Guide to Watching Movies Online for Free</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows Admin: Command Prompt Tools"
-date: 2025-02-01T20:03:19.163Z
-updated: 2025-02-04T06:32:15.447Z
+date: 2025-02-12T03:55:18.518Z
+updated: 2025-02-15T16:25:56.445Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. List All User Accounts
 
 ![list all user accounts with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/list-all-user-accounts-with-net-user.jpg)
@@ -39,13 +35,13 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
  Keep the names you see in mind, as you will need them as you use the **net user** command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Show All the Information of a User Account
 
 ![user account details while using net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/user-account-details-while-using-net-user.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also bring up all the important information about a user by simply typing the **net user** command followed by the name of the user's name. Here's the basic syntax:
 
@@ -73,13 +69,13 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
  Now net user will remove the account from the computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Enable and Disable a User Account
 
 ![deactivating an account with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/deactivating-an-account-with-net-user.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If there's a user you wish to temporarily restrict so they can't access their account, you can simply disable it instead of deleting it. Here's the basic syntax of that action, making sure to use the **/active:no** switch at the end of the command to tell **net user** you're disabling it:
 
@@ -124,7 +120,7 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 ![setting an account expiriation date with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-an-account-expiriation-date-with-net-user.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By default, accounts are set to never expire, but you can change that if you have a user you want to be active for a specific period of time. You will need to use the **/expires** parameter while specifying the year, month, and expiration date. Here's the basic command structure:
@@ -143,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
  The beauty of it is that you can also use it to change passwords for multiple accounts without leaving the Command Prompt window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Change the Password of a Domain User Account
 
  You can also change the password of a user on a domain by appending the **/domain** switch at the end of the command for changing a user account. The syntax for this is as follows:
@@ -155,10 +155,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 ![setting an account policy with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-account-policy-with-net-user.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need a particular user to change the password during their next login, you can use the **net user** command along with the **/passwordchg:yes** parameter (by default, the parameter is **/passwordchg:no**). Here's the basic syntax:
 
 `net user Username /passwordchg:yes`
@@ -168,6 +164,10 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 `net user Jack /passwordchg:yes`
 
  So, the next time Jack logs into the computer, he will get a prompt asking him to change his password before he can access his user account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Set a Home Directory for Users
 
@@ -182,7 +182,7 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
  The above command will place the home directory of **Jack**, as it creates the account, in the **D:\\Other Users\\Jack** folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Take Control of Your Computer's Users Accounts With the Net User Command
@@ -203,22 +203,19 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-essential-top-5-iphone-podcast-apps/"><u>[New] Essential Top 5 iPhone Podcast Apps</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-top-pick-for-new-dronists-a-deep-look-at-syma-x5c/"><u>[New] In 2024, The Top Pick for New Dronists – A Deep Look at Syma X5C</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-how-to-captivate-audiences-and-gain-traction-with-youtube-shorts/"><u>[Updated] How to Captivate Audiences and Gain Traction with YouTube Shorts</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-harnessing-the-power-of-youtubes-seo-keywords/"><u>2024 Approved Harnessing the Power of YouTube's SEO Keywords</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-huawei-nova-y71-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Huawei Nova Y71 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-enhanced-settings-in-windows-11/"><u>Deciphering Enhanced Settings in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/focus-on-sharpness-nine-tactics-to-clear-up-blurry-pc-screens/"><u>Focus on Sharpness: Nine Tactics to Clear Up Blurry PC Screens</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-use-periscope-the-complete-guide-for-2024/"><u>How to Use Periscope The Complete Guide for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/instantly-reclaim-lost-files-no-charge/"><u>Instantly Reclaim Lost Files - No Charge</u></a></li>
-<li><a href="https://win11.techidaily.com/journey-through-ultimate-winapps-2023s-picks/"><u>Journey Through Ultimate WinApps, 2023'S Picks</u></a></li>
-<li><a href="https://win11.techidaily.com/launching-windows-11s-rapid-support-feature/"><u>Launching Windows 11'S Rapid Support Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-of-max-and-min-cpu-indicators-on-windows/"><u>Mastery of Max & Min CPU Indicators on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-remote-desktop-errors-in-windows-10-and-11/"><u>Overcoming Remote Desktop Errors in Windows 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-word-wanderings-definitive-searches-on-win11/"><u>Quick Word Wanderings: Definitive Searches on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-your-ps4-remote-with-a-stable-win-based-link/"><u>Reviving Your PS4 Remote with a Stable Win-Based Link</u></a></li>
-<li><a href="https://facebook.techidaily.com/secure-chats-beyond-facebook/"><u>Secure Chats Beyond Facebook</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-common-windows-11-zoom-problems-code-1132/"><u>Solving Common Windows 11 Zoom Problems: Code 1132</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-complete-reference-to-display-recording-methods/"><u>[New] The Complete Reference to Display Recording Methods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-pro-monitor-snapshot-software-w10/"><u>[Updated] In 2024, Pro Monitor Snapshot Software W10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-sony-vegas-for-the-aspiring-youtube-editor-a-comprehensive-overview/"><u>[Updated] Sony Vegas for the Aspiring YouTube Editor A Comprehensive Overview</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-guide-to-the-best-cpu-thermal-pastes-evaluating-and-ranking-top-90-picks/"><u>2024'S Ultimate Guide to the Best CPU Thermal Pastes: Evaluating and Ranking Top 90 Picks</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-apple-iphone-11-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 11 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-nba-2k21-viridian-glitch-guide-updated/"><u>How to Overcome the NBA 2K21 Viridian Glitch – Guide Updated</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/in-depth-guide-shifting-nat-settings-on-windows-11-and-10-devices/"><u>In-Depth Guide: Shifting NAT Settings on Windows 11 & 10 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-calendar-personalization-in-windows-outlook/"><u>Mastering Calendar Personalization in Windows Outlook</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-lsassexe-unable-to-locate-on-windows-xpvista7/"><u>Overcoming 'lsass.exe' Unable to Locate on Windows XP/Vista/7</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-google-chrome-from-autopilot-tab-creation-in-windows/"><u>Prevent Google Chrome From Autopilot Tab Creation in Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/section-2b-five-facts-to-remember/"><u>Section 2B: Five Facts to Remember</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-and-fix-frozen-epic-games-launcher-error/"><u>Stop and Fix Frozen Epic Games Launcher Error</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-guide-to-windows-functional-control/"><u>The Insider's Guide to Window's Functional Control</u></a></li>
 </ul></div>
 

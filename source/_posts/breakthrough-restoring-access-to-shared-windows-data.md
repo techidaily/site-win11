@@ -1,7 +1,7 @@
 ---
 title: "Breakthrough: Restoring Access to Shared Windows Data"
-date: 2024-07-29T15:53:15.002Z
-updated: 2024-07-30T15:53:15.002Z
+date: 2025-02-12T18:41:36.739Z
+updated: 2025-02-15T20:01:41.363Z
 tags:
   - windows10
   - windows11
@@ -23,8 +23,9 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
  If you're experiencing such sharing issues, don't give up. Keep reading to learn about several fixes you can try to get your shared folder up and running again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Check Your Internet Connection
 
  The first thing you should do is make sure your internet connection is working properly. If your internet connection is too slow, you might not be able to open the shared folder.
@@ -47,18 +48,17 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 2. Right-click on the shared folder or drive that you're trying to share and click**Properties** on the context menu.  
 ![Shared Folder Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/shared-folder-context-menu.jpg)
 3. In the**Properties** window, click on**Sharing > Advanced Sharing** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![Sharing Folder Sharing Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sharing-folder-sharing-options.jpg)
 4. Click**Permissions** to edit all the sharing permissions. If you have not allowed**Everyone** to access the files, make sure to click**Add...** and add the user manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Edit the permissions as needed, and then click**OK** to apply the changes.
 
  By giving your friend or teammate the right access permissions, they should now be able to easily access the files. However, if the problem persists, move on to some advanced troubleshooting steps.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Restart the Networking Services
 
  Another possibility for shared folder-related errors is a misconfigured networking service on your computer.
@@ -70,16 +70,22 @@ Follow this step-by-step guide to restart the networking services:
 1. Press**Win + Q** and type**Services** . Alternatively, there are many other[ways to open the Services app](http://www.makeuseof.com/windows-11-open-services-app/) on Windows.  
 ![Services App In Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/services-app-in-windows-search.jpg)
 2. Choose**Open** to launch the Services app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Find the**Function Discovery Provider Host** service and right-click on it.
 4. Select**Restart** from the context menu that appears.  
 ![Services App On Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/services-app-on-windows.jpg)
 5. Repeat the same procedure (right-click and select**Restart**) with the following services, one by one:**Network Connections** **SSDP Discovery** **TCP/IP NetBIOS Helper** **UPnP Device Host**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  These services are responsible for various networking functions on Windows. Restarting them can help resolve issues that may be causing problems with accessing shared folders.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Turn on Network Discovery in Windows Settings
 
  Network discovery on Windows allows other devices on the connected network to discover your computer. If you have disabled this option by mistake, you will not be able to access any shared folders hosted on another computer.
@@ -94,13 +100,14 @@ To turn on Network discovery, follow these steps:
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
 5. Turn**On** the**File and printer sharing** option as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to disable login abilities for accessing the shared folder, toggle**Password protected sharing** to**Off** .
 
  Once you change these settings, you should have no trouble getting access to shared folders.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 5\. Check the Windows Firewall Settings
 
  If you're still unable to access the shared folder, you may need to check your firewall settings. Understand a firewall as a wall between your computer and the internet or other networks that helps prevent unauthorized access to your system.
@@ -112,15 +119,16 @@ Here's how you can fix all the firewall issues on your computer:
 1. Open the Windows start menu and type**Firewall & network protection** .
 2. Select the best match and press**Enter** .
 3. Click**Public network** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Security App Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-security-preview.jpg)
 4. Uncheck or disable the option saying**Block all incoming connections** .
 5. Perform the same step with**Domain network** and**Private network** as well.
 6. Restart your PC to make sure the firewall is not blocking any Internet connections now.
 
  This will allow all incoming connections, or, in other words, solve your sharing folder issue on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset the Network Settings
 
@@ -132,9 +140,6 @@ Here's how to reset the network settings on Windows:
 
 1. Open the Windows search bar by pressing**Win + Q** and typing**Command Prompt** .
 2. Select the best match, and from the right-side menu, click**Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![CMD In Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/cmd-in-search-bar.jpg)
 3. In the Command Prompt window, type the**netsh int ip reset** command without the double quotes.  
 ![Ip Reset Command In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ip-reset-command.jpg)
@@ -142,18 +147,6 @@ Here's how to reset the network settings on Windows:
 
  This command is helpful in solving many common networking issues, such as when your computer fails to connect to a network or when the internet connection is not stable. So, the next time you face a network-related error, you now have a handy command for troubleshooting.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting Shared Folders on Windows
 
  Hopefully, you have fixed the shared folder access problems by now. If not, it's possible there is a deeper issue with your network or the configuration of your server. In such cases, it's best to seek help from a technical support professional.
@@ -164,8 +157,6 @@ Here's how to reset the network settings on Windows:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +164,20 @@ Here's how to reset the network settings on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-green-canvas-essential-templates-to-enhance-your-cinematographic-journey/"><u>[New] Green Canvas Essential Templates to Enhance Your Cinematographic Journey</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-effortless-editing-in-obs-studio-with-top-5-hacks/"><u>[Updated] 2024 Approved Effortless Editing in OBS Studio with Top 5 Hacks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-quintessential-5-photo-background-changer-apps-iphone-xplus-for-2024/"><u>[Updated] Quintessential 5 Photo Background Changer Apps (iPhone X+) for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-iomap64sys-bsod-in-windows/"><u>How to Fix the IOMap64.sys BSOD in Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-sony-xperia-5-v-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Sony Xperia 5 V Phones? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/identifying-and-interacting-with-windows-bt-directories/"><u>Identifying & Interacting with Windows ~BT Directories</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-6-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 6 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/low-cost-options-for-acquiring-gopro-cameras-for-2024/"><u>Low-Cost Options for Acquiring GoPro Cameras for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/method-to-resolve-missing-components-on-windows-11-os/"><u>Method to Resolve Missing Components on Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-steam-app-icons-a-step-by-step-plan/"><u>Reclaiming Steam App Icons: A Step-by-Step Plan</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-not-start-speech-recognition-errors-in-windows-os/"><u>Resolving 'Not Start' Speech Recognition Errors in Windows OS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-tutorial-on-employing-microsoft-excels-count-feature-for-effective-data-analysis/"><u>The Ultimate Tutorial on Employing Microsoft Excel's COUNT Feature for Effective Data Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-audacity-sound-issue-on-windows-11-os/"><u>Troubleshooting Audacity Sound Issue on Windows 11 OS</u></a></li>
+</ul></div>
 

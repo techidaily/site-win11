@@ -1,7 +1,7 @@
 ---
 title: Repairing Restrictive Windows Shield on Win 11
-date: 2025-01-27T22:24:52.342Z
-updated: 2025-02-04T06:19:52.605Z
+date: 2025-02-13T19:31:42.185Z
+updated: 2025-02-16T01:25:13.869Z
 tags:
   - windows10
   - windows11
@@ -37,15 +37,7 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 ![security at glance menu in windows security settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-security.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Windows Security app will be enabled instantly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Update Windows 11
 
@@ -61,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 ![windows update section in the settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/windows-update-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When the updates download is complete, give your PC a quick restart and see if the problem with Windows Security persists. If it does, then jump below to the next method.
@@ -75,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
  To get started, launch the **Settings** again. Go to **Apps > Apps & features**, search for the antivirus, and when you find it, click on options (three dots) and select **Uninstall**.
 
 ![apps and features in the apps settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/apps-and-feature.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The third-party antivirus will be removed. Now restart your Windows 11 and see if the problem with Windows Security persists. It shouldn’t.
 
@@ -122,16 +118,12 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 ![execution of dsim scan in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/dsim-scan-command-prompt.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As soon as the command finishes executing, your files would've been scanned and all the corruption issues would most possibly have been resolved.
 
  When you’re done, [simply restart your PC](https://www.makeuseof.com/windows-restart-methods/) for the changes to take effect, and see if the problem persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Restart the Windows Security Service
 
@@ -144,7 +136,15 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 ![security services process in the services app on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/services-app-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it. Follow any other on-screen instructions and wait for the service to reboot of the service. When that's done, restart your PC and the Windows Security service will be fixed by the next boot-up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reset Your PC
 
@@ -159,13 +159,13 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 ![two types of reset options in the reset this pc on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/reset-this-pc-windows-11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That’s it. Follow the onscreen instructions ahead and your Windows will be formatted and reinstalled in no time. When your PC restarts, all your settings will be at ground zero again.
 
  The whole process is fairly straightforward, but if you face any difficulties during the reset, make sure you go through a [complete guide on Windows 10 factory reset](http://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) and verify if you're making any slip-ups in between the steps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the Issues With Windows Security
 
@@ -185,22 +185,22 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-understanding-the-basics-of-ffxp-mode/"><u>[New] 2024 Approved Understanding the Basics of FFXP Mode</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-ultimate-selection-of-no-cost-image-transformers-for-ios-and-android/"><u>[New] In 2024, The Ultimate Selection of No-Cost Image Transformers for iOS and Android</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-questing-quests-the-best-terrafirma-maps/"><u>[New] Questing Quests The Best Terrafirma Maps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-professional-tips-for-using-luts-in-adobe-after-effects/"><u>[Updated] Professional Tips for Using LUTs in Adobe After Effects</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-chatgpt-master-the-art-of-mixology-and-create-delicious-cocktails/"><u>Can ChatGPT Master the Art of Mixology and Create Delicious Cocktails?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-python-projects-by-incorporating-microsofts-gpt-3-technology/"><u>Elevate Your Python Projects by Incorporating Microsoft's GPT-3 Technology</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-xbox-one-for-pc-controls-functional/"><u>Fix: Xbox One for PC Controls Functional</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722886495520-gain-control-over-your-system-by-rectifying-the-gsdll32dll-not-found-problems-easily/"><u>Gain Control Over Your System by Rectifying the gsdll32.dll Not Found Problems Easily!</u></a></li>
-<li><a href="https://win11.techidaily.com/identifying-energy-efficient-browsers-for-windowsmacoschromeos/"><u>Identifying Energy-Efficient Browsers for Windows/macOS/ChromeOS</u></a></li>
-<li><a href="https://win11.techidaily.com/mspaint-your-creative-companion-in-windows-11/"><u>MSPaint, Your Creative Companion in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-auto-shutdown-configurations-in-win11/"><u>Navigating Through Auto-Shutdown Configurations in Win11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/next-generation-qi2-wireless-charging-comes-to-iphone-13-and-14-with-ios-1veer-update/"><u>Next-Generation Qi2 Wireless Charging Comes to iPhone 13 and 14 with iOS 1Veer Update</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-firefox-webpage-loading-woes-on-windows-systems/"><u>Resolving Firefox Webpage Loading Woes on Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/screen-capturing-simplified-snip-tool-vs-prtsc/"><u>Screen Capturing Simplified: Snip Tool Vs. PrtSc</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-address-no-driver-detected-error-during-os-setup/"><u>Steps to Address No Driver Detected Error During OS Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-screen-windows-10-and-11-cascade-mastery/"><u>Streamline Your Screen: Windows 10 & 11 Cascade Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/uniting-consciousness-effects-of-meditation-on-thinking-and-feeling/"><u>Uniting Consciousness: Effects of Meditation on Thinking & Feeling</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1728494881251-sharepoint-3/"><u>「SharePoint ドキュメント同時更新に失敗する？3つのフィックスをご紹介」</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-ram-type-in-windows-a-step-by-step-guide/"><u>Discovering RAM Type in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-techniques-to-modify-windows-11-account-hierarchy/"><u>Essential Techniques to Modify Windows 11 Account Hierarchy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-how-to-troubleshoot-voice-communication-in-destiny-2/"><u>Fixing Common Issues: How to Troubleshoot Voice Communication in Destiny 2</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capturing-adventures-a-close-look-at-panasonics-hx-a1/"><u>In 2024, Capturing Adventures A Close Look at Panasonic's HX-A1</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-fixes-unraveling-error-1152-on-pc/"><u>Mastering Windows Fixes: Unraveling Error 1152 on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-lost-windows-a-compact-guide-to-resurrecting-hidden-panes-on-win-10/"><u>Reviving Lost Windows: A Compact Guide to Resurrecting Hidden Panes on Win 10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/silent-insights-into-improving-visual-elements-for-2024/"><u>Silent Insights Into Improving Visual Elements for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-asus-rog-phone-7-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Asus ROG Phone 7 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-correct-error-0x800700e1-windows/"><u>Steps to Correct Error 0X800700E1 Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-stop-overheating-in-computers-os-w11/"><u>Strategies to Stop Overheating in Computers OS: W11</u></a></li>
+<li><a href="https://win11.techidaily.com/successfully-restarting-non-operational-obs-on-pc/"><u>Successfully Restarting Non-Operational OBS on PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-influence-essential-marketing-expressions-explained-for-2024/"><u>The Art of Influence Essential Marketing Expressions Explained for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/three-essential-tweaks-for-windows-11-settings/"><u>Three Essential Tweaks for Windows 11 Settings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-essentials-what-to-check-before-purchasing-pre-owned-ipads/"><u>Top 5 Essentials: What to Check Before Purchasing Pre-Owned iPads</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transforming-your-chrome-new-tab-page-into-a-workflow-booster-expert-tips-and-tricks/"><u>Transforming Your Chrome New Tab Page Into a Workflow Booster: Expert Tips & Tricks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-guide-to-advanced-tech-the-expertise-of-toms-hardware/"><u>Your Guide to Advanced Tech: The Expertise of Tom's Hardware</u></a></li>
 </ul></div>
 

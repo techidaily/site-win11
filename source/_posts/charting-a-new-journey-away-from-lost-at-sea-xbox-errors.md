@@ -1,7 +1,7 @@
 ---
 title: Charting a New Journey Away From Lost at Sea Xbox Errors
-date: 2024-07-29T15:51:04.458Z
-updated: 2024-07-30T15:51:04.458Z
+date: 2025-02-12T19:59:34.323Z
+updated: 2025-02-16T01:02:53.575Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
  Users can’t utilize the Windows Xbox app when this error keeps reoccurring. Does the same thing happen when you try to utilize the Xbox app on Windows? If it does, this is how you can fix the Xbox app’s “Looks like you’re stranded” error in Windows 10 and 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. First, Check the Status of Xbox Servers
 
  The “Looks like you’re stranded” error can sometimes be the result of server-side issues or maintenance. So, check the status of Xbox servers to see if there are any issues there before you start troubleshooting. To do that, open this [Xbox status page](https://support.xbox.com/en-US/xbox-live-status) that shows you the status for Xbox features and services.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
  Click the **Account & profile** and **Apps & mobile** sections on that page to view status details for those categories. Does that page show limited or outage indicators for any services? If so, wait a few days for such server-side issues to be sorted.
 
 ![The Xbox server status page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/xbox-server-status.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Utilize the Windows Store Apps Troubleshooter
 
@@ -36,14 +44,8 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 2. Click **System** \> **Troubleshoot** to view three alternative navigation options.
 3. Select the navigation option labeled **Other trouble-shooters**.
 4. Click **Run** for the Windows Store Apps troubleshooter.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The troubleshooter list in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters-in-settings.jpg)
 5. Then apply potential resolutions proposed within the troubleshooter.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-store-apps-troubleshooter.jpg)
 
  The same troubleshooter is available in Windows 10, but that platform’s Settings app has a slightly different layout. You can access it in Windows 10’s Settings app by selecting **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters**. Then click on Windows Store Apps to access a **Run the troubleshooter** option.
@@ -52,18 +54,20 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
  Finally, reinstall your Xbox app if nothing else works for fixing the “Looks like you’re stranded” error. You can do that by removing Xbox with the Settings method in our [guide to uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). Then open the [Xbox Microsoft Store page](https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z) and click **Get in Store app** \> **Open Microsoft Store**. Select **Get** within the Microsoft Store window to reinstall the latest Xbox app on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-uninstall-option-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Try Some Generic Windows App Fixes
 
  If none of the above worked, try these fixes that work for any malfunctioning Windows app:
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Update the Xbox App
 
  Updates often include fixes for app bugs reported by users. So, check for and download any available Xbox app updates. Our guide to [updating Windows apps](https://www.makeuseof.com/update-apps-windows-11/) has instructions for downloading app updates via Microsoft Store.
@@ -74,33 +78,18 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
  Resetting the Xbox app is a confirmed fix for the “Looks like you’re stranded” error. Doing so will clear away any corrupted or old app data that could be causing the error. It’s easy to clear the Xbox app’s data with the **Reset** option in Settings. You can apply this potential resolution by following the instructions in our article about [resetting Microsoft Store apps](https://www.makeuseof.com/windows-reset-app/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![The Reset button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-button-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Change Your DNS Server to Google's Public DNS
 
  The “Looks like you’re stranded” error can arise because of internet connectivity issues. Changing your Domain Name System server to a better, more reliable public one could resolve such issues. So, try setting Google to be your DNS server instead.
 
  Our [guide to changing DNS servers in Windows](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) tells you how to apply this possible resolution and includes the primary and alternative DNS addresses for Google.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![DNS server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dns-server-settings.jpg)
 
 ## Get the Xbox App Working Again
@@ -109,11 +98,31 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Users can’t utilize the Windows Xbox app when this error keeps reoccurring. Does the same thing happen when you try to utilize the Xbox app on Windows? If it does, this is how you can fix the Xbox app’s “Looks like you’re stranded” error in Windows 10 and 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-charting-the-evolution-of-windows-movie-maker-for-2024/"><u>[New] Charting the Evolution of Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-conquer-screen-capture-in-depth-windows-pc-guide-for-live-tv-recording/"><u>[Updated] 2024 Approved Conquer Screen Capture In-Depth Windows PC Guide for Live TV Recording</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-jaunt-vr-a-gateway-to-virtual-worlds/"><u>[Updated] Jaunt VR A Gateway to Virtual Worlds</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/advanced-combat-techniques-for-beating-powerful-lynel-enemies-in-zelda-botw/"><u>Advanced Combat Techniques for Beating Powerful Lynel Enemies in Zelda: BOTW</u></a></li>
+<li><a href="https://win11.techidaily.com/comparative-study-of-software-package-file-types-exe-vs-msi/"><u>Comparative Study of Software Package File Types: Exe vs Msi</u></a></li>
+<li><a href="https://win11.techidaily.com/customize-onedrive-placement-in-microsoft-windows-11/"><u>Customize OneDrive Placement in Microsoft Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-wsl-complete-uninstall-guide-for-windows-11/"><u>Eliminating WSL: Complete Uninstall Guide for Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-muted-madness-solutions-for-silent-hearthstone-gameplay/"><u>Fixing Muted Madness: Solutions for Silent Hearthstone Gameplay</u></a></li>
+<li><a href="https://win11.techidaily.com/gamers-guide-to-avoiding-high-system-throttling-issues/"><u>Gamers' Guide to Avoiding High System Throttling Issues</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-prime-lenses-for-top-tier-film-projects-for-2024/"><u>Innovative Prime Lenses for Top-Tier Film Projects for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-the-potential-of-powershell-for-storage-sizing/"><u>Leveraging the Potential of PowerShell for Storage Sizing</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-switching-your-desktops-dynamic-wallpaper-on-windows/"><u>Quick Guide: Switching Your Desktop's Dynamic Wallpaper on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-discord-upgrade-issues-successful-patch-implemented/"><u>Resolved Discord Upgrade Issues: Successful Patch Implemented</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-excessive-wmi-cpu-demands/"><u>Resolving Excessive WMI CPU Demands</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/soaring-with-mi-drone-an-in-depth-4k-study/"><u>Soaring with MI Drone - An In-Depth 4K Study</u></a></li>
+<li><a href="https://win11.techidaily.com/the-best-weather-apps-for-windows-10-and-11/"><u>The Best Weather Apps for Windows 10 & 11</u></a></li>
+</ul></div>
+

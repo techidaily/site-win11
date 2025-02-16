@@ -1,7 +1,7 @@
 ---
 title: Saving Past Executions in the Command Window
-date: 2025-01-31T09:31:36.132Z
-updated: 2025-02-03T20:18:00.341Z
+date: 2025-02-08T22:05:04.796Z
+updated: 2025-02-15T18:14:51.615Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check Your Privacy Settings
 
  A common reason why Windows may not save the Run command history is if you have previously blocked it from tracking your app launches. Here’s how you can change that.
@@ -40,10 +36,14 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 ![Allow Windows to Track App Launches on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-windows-to-track-app-launches-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After completing the above steps, try running a few commands via the Run dialog box. Then, check if it is saving your command history and providing auto-complete suggestions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Edit Registry Files
 
@@ -61,13 +61,13 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 ![Edit Registry DWORD on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-registry-dword-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your PC after this for the changes to take effect. Following this, the Run command should start saving your history on Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apply Generic Fixes
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 * **Scan for Malware:** It’s possible that your system is infected by malware, which is why the Run command is having trouble saving your history. To rule out this possibility, you can [scan Windows for malware using PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) or Windows Defender.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get the Run Tool to Save Your History on Windows
@@ -100,24 +100,19 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-essential-tools-ranking-the-best-mobile-videography-apps-for-2024/"><u>[New] Essential Tools Ranking the Best Mobile Videography Apps for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-laughlens-quickly-create-social-memes-and-gifs/"><u>[New] LaughLens Quickly Create Social Memes & Gifs</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/collaboration-techniques-in-video-making-viewership-up-for-2024/"><u>Collaboration Techniques in Video Making, Viewership Up for 2024</u></a></li>
-<li><a href="https://solve-info.techidaily.com/desamorcer-les-blocages-de-transfert-de-fichiers-sous-windows-11-4-solutions-efficaces/"><u>Désamorcer Les Blocages De Transfert De Fichiers Sous Windows 11: 4 Solutions Efficaces</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-switch-cr2-format-with-windows-for-jpg-output/"><u>Efficiently Switch CR2 Format with Windows for JPG Output</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-invalid-profiles-on-windows-10-and-11-systems/"><u>Fixing Invalid Profiles on Windows 10 & 11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-windows-updates-error-0x8024a205/"><u>How to Fix Windows Update's Error 0X8024a205</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-forego-pin-while-projecting-on-win11/"><u>How to Forego PIN While Projecting on Win11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/instant-guide-forceful-disabling-of-win11-print-devices/"><u>Instant Guide: Forceful Disabling of Win11 Print Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-windows-navigation-through-narrator-commands/"><u>Mastering the Art of Windows Navigation Through Narrator Commands</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-discords-devastating-javascript-problems-in-w10w11-systems/"><u>Overcoming Discord's Devastating Javascript Problems in W10/W11 Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/seamless-razer-mamba-experience-awaits-after-quick-driver-installation/"><u>Seamless Razer Mamba Experience Awaits After Quick Driver Installation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-for-effortless-driver-update-of-the-scansnap-ix500-windows-edition/"><u>Step-by-Step Tutorial for Effortless Driver Update of the ScanSnap iX500 Windows Edition</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/strategies-for-selecting-and-syncing-music-with-visuals-for-2024/"><u>Strategies for Selecting and Syncing Music with Visuals for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essentials-of-implementing-windows-11s-auto-hdr/"><u>The Essentials of Implementing Windows 11'S Auto HDR</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/turbo-dvd-ripping-mastery-with-winx-platinum-pro-swiftly-duplicate-any-encrypted-discs-under-windows-10/"><u>Turbo DVD Ripping Mastery with WinX Platinum Pro - Swiftly Duplicate Any Encrypted Discs Under Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/what-lies-beneath-ftdibussys-windows-compromised-memory-ordering/"><u>What Lies Beneath ftdibus.sys: Windows' Compromised Memory Ordering</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-13-pro-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 13 Pro?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-quick-recording-techniques-for-firaxis-age-of-empires-ii-for-2024/"><u>[New] Quick Recording Techniques for Firaxis' Age of Empires II for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-top-12-youtube-game-openers-both-free-and-fee-based-options/"><u>[Updated] In 2024, Top 12 YouTube Game Openers Both Free & Fee-Based Options</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/becoming-a-master-at-iphones-hdr-photography-techniques-for-2024/"><u>Becoming a Master at iPhone's HDR Photography Techniques for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-installation-and-maintenance-with-windows-package-manager/"><u>Comprehensive Installation & Maintenance with Windows Package Manager</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-anthropics-new-ai-prompt-emporium/"><u>Explore Anthropic's New AI Prompt Emporium</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-list-of-superior-live-streaming-services/"><u>In 2024, The Ultimate List of Superior Live Streaming Services</u></a></li>
+<li><a href="https://win11.techidaily.com/realigning-dysfunctional-windows-keyboard-keys/"><u>Realigning Dysfunctional Windows Keyboard Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-server-slip-ups-overcoming-ms-store-glitches-on-win-1011/"><u>Resolving Server Slip-Ups: Overcoming MS Store Glitches on Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-revive-failing-voice-access-features-in-windows-11/"><u>Steps to Revive Failing Voice Access Features in Windows 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/streamlining-film-grading-with-cg-centrals-look-up-tables/"><u>Streamlining Film Grading with CG Central's Look-Up Tables</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-review-the-powerhouse-netgear-nighthawk-x10-ad7200-router-delivers-lightning-fast-wi-fi-connectivity/"><u>Top Review: The Powerhouse Netgear Nighthawk X10 (AD7200) Router Delivers Lightning Fast Wi-Fi Connectivity</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-notepad-in-w11-with-insightful-ai/"><u>Transform Notepad in W11 with Insightful AI</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-email-failures-in-windows-11s-mail-app/"><u>Troubleshooting Email Failures in Windows 11'S Mail App</u></a></li>
 </ul></div>
 

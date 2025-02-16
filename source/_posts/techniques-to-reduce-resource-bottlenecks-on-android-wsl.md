@@ -1,7 +1,7 @@
 ---
 title: Techniques to Reduce Resource Bottlenecks on Android WSL
-date: 2025-01-31T05:10:13.887Z
-updated: 2025-02-03T16:46:02.908Z
+date: 2025-02-12T23:18:08.188Z
+updated: 2025-02-16T01:00:32.394Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## "As Needed" or "Continuous?" Which One to Choose
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 **Continuous** , on the other hand, keeps WSA running in the background. The benefit is that Android apps will fire up much quicker at the cost of using more of your computer’s resources. You can choose this option if your Windows 11 PC has the resources to spare.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Manage the Way Windows Subsystem for Android Uses Its Resources?
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![searching for WSA on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-search-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the left side menu of Windows Subsystem for Android, make sure you have selected**System** . On the right side, click on the**Subsystem resources** to expand the section. Then, select either**As needed** or**Continuous** by clicking on the appropriate radio button.
@@ -56,13 +56,13 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![the Subsystems resources section of WSA settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-windows-subsystem-resources.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now Windows Subsystem for Android will use resources depending on the option you have chosen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best Way For Windows Subsystem for Android to Use Resources
@@ -86,17 +86,24 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-game-on-and-store-more-top-5-ssd-reviews-for-xbox/"><u>[New] In 2024, Game On & Store More Top 5 SSD Reviews for Xbox</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-experts-list-of-top-vector-stock-portals/"><u>[Updated] The Expert's List of Top Vector Stock Portals</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-best-webinar-title-generator/"><u>2024 Approved Best Webinar Title Generator</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-pc-experience-integrating-vivid-wallpapers-in-windows-11/"><u>Elevate Your PC Experience: Integrating Vivid Wallpapers in Windows 11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-honor-x7b-frp-by-drfone-android/"><u>How Can We Bypass Honor X7b FRP?</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-move-edb-file-contents-back-into-live-exchange-after-successful-data-restoration-a-visual-guide/"><u>How to Move EDB File Contents Back Into Live Exchange After Successful Data Restoration - A Visual Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-enabling-gpt-3s-new-features/"><u>Mastering the Art of Enabling GPT-3's New Features</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-win-11-discord-js-catastrophe-practical-solutions/"><u>Resolving Win 11 Discord JS Catastrophe: Practical Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/seamlessly-manage-daily-tasks-with-these-top-6-windows-11-software-solutions/"><u>Seamlessly Manage Daily Tasks with These Top 6 Windows 11 Software Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/set-windows-calculation-display-to-dark-theme/"><u>Set Windows Calculation Display to Dark Theme</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-13-pro-max-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 13 Pro Max</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-and-resolve-sons-of-the-forest-crashes-on-your-pc-easily/"><u>Troubleshoot and Resolve 'Sons of the Forest' Crashes on Your PC Easily!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-effortless-documentation-speech-to-text-conversion-via-microsoft-word/"><u>[New] 2024 Approved Effortless Documentation Speech-to-Text Conversion via Microsoft Word</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-high-flying-brain-games-top-11-knowledge-channels/"><u>[New] 2024 Approved High-Flying Brain Games Top 11 Knowledge Channels</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-obs-full-screen-glitch-resolution-dropped/"><u>[New] In 2024, Obs Full Screen Glitch Resolution Dropped</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-iphone-guide-for-stunning-photo-mashups/"><u>[New] Step-by-Step iPhone Guide for Stunning Photo Mashups</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-from-novice-to-pro-your-roadmap-to-crafting-engaging-fb-stories/"><u>[Updated] 2024 Approved From Novice to Pro Your Roadmap to Crafting Engaging FB Stories</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-checklist-for-webinar-video-documentation/"><u>[Updated] The Ultimate Checklist for Webinar Video Documentation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-rank-the-best-10-cost-free-image-enhancers-for-smartphone-users/"><u>2024 Approved Rank the Best 10 Cost-Free Image Enhancers for Smartphone Users</u></a></li>
+<li><a href="https://win11.techidaily.com/dusk-to-dawn-mastery-of-paints-dimmest-modes/"><u>Dusk to Dawn: Mastery of Paint's Dimmest Modes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/from-unverified-to-verified-amplifying-your-instagram-profile-with-proven-strategies-for-2024/"><u>From Unverified to Verified Amplifying Your Instagram Profile with Proven Strategies for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-address-critical-javascript-issues-impacting-discord-users/"><u>How to Address Critical JavaScript Issues Impacting Discord Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-firewall-when-its-disabled-on-windows/"><u>How to Enable Firewall when It's Disabled on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-prevent-and-repair-internal-errors-during-windows-rdp-session/"><u>How to Prevent and Repair Internal Errors During Windows RDP Session</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unravel-windows-policies-thwarting-software-install/"><u>How to Unravel Windows Policies Thwarting Software Install</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-15-plus-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 15 Plus</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-benefits-of-using-apc-back-ups-pro-eby-powerful-protection-multiple-outlets-and-swappable-batteries/"><u>In-Depth Review: Benefits of Using APC Back-UPS Pro Eby - Powerful Protection, Multiple Outlets, and Swappable Batteries</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-mobile-sound-for-windows-pcs/"><u>Optimize Mobile Sound for Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-fix-failed-launch-lunar-client-error-on-windows-os/"><u>Steps to Fix Failed Launch: Lunar Client Error on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-content-access-via-nvidias-gui/"><u>Streamlining Content Access via NVIDIA's GUI</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-11-mails-default-html-email-formatting-problems/"><u>Tackling Windows 11 Mail's Default HTML Email Formatting Problems</u></a></li>
 </ul></div>
 

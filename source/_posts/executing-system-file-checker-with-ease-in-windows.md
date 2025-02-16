@@ -1,7 +1,7 @@
 ---
 title: Executing System File Checker with Ease in Windows
-date: 2025-01-28T01:10:45.742Z
-updated: 2025-02-03T18:24:03.634Z
+date: 2025-02-11T02:30:00.353Z
+updated: 2025-02-16T00:52:59.996Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Run a System File Checker Scan on Windows
 
  To use the SFC, you need to run a single command in Command Prompt. Here’s how:
@@ -40,13 +36,17 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 ![Run Command Prompt Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Prompt-Using-Windows-Search.jpg)
 3. Click**Yes** in the UAC prompt to allow Command Prompt to make changes to your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. In Command Prompt, enter the below command, and then hit the**Enter** key:  
 `SFC /scannow`
 
  If you’re unfamiliar with operating system files, please read our guide on[what system files are on Windows](https://www.makeuseof.com/windows-system-files-guide/) . And to learn everything you need to know about Command Prompt, you can check out our[beginner's guide to Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Happens After I Run the System File Checker?
@@ -56,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
  If your system files are okay, you’ll see a message that says "Windows Resource Protection did not find any integrity violations." If SFC found and fixed all problematic files, the message will read "Windows Resource Protection found corrupt files and successfully repaired them."
 
 ![the results of an sfc scan in Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scan-results.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the other hand, if it found corrupted files but couldn’t repair any or all of them, the message will read "Windows Resource Protection found corrupt files but was unable to fix some of them." And if SFC encounters a problem, the message will say "Windows Resource Protection could not perform the requested operation."
 
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 | /offbootdir | Run this command to tell the SFC which directory contains a bootable version of Windows. You need to do this every time you use the tool outside of Windows. For example, to select the**E:** drive on your PC, enter**/offbootdir=e:\\**                                         |
 | /offwindir  | Run this command to tell the SFC which folder in the directory — the one you specified with the**SFC /offbootdir** command — contains Windows. For example, enter**/offwindir=e:\\windows** to tell the System File Checker that Windows is on the**E:** drive.                   |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Run an Offline SFC Scan on Windows
 
  There are a few scenarios that warrant the use of the SFC without logging into Windows. One such scenario is if the operating system files are so corrupted that Windows cannot start.
@@ -86,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 `SFC /scannow /offbootdir=d:\ /offwindir=d:\windows`
 
  That above command will tell SFC to look for Windows in the**Windows** folder on the**D:** drive. But keep in mind that the Windows version on the bootable media needs to be the same as the one installed on your PC for the scan and repair to be successful.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Find the SFC Log File On Windows
 
@@ -110,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 ![the sfc details text file on Windows opened in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-detail-txt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re doing an offline scan, you can enable logging by simply specifying the file path with the following command structure:
@@ -118,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 `/offlogfile=[offline log file path]`
 
  Just replace**offline log file path** in the square brackets with the actual path you want to store the offline log file in the offline directory. Then, insert this entire command after the**/windir** command when running an offline SFC scan.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Running the System File Checker, Demystified
 
@@ -144,24 +144,22 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-youtube-revenue-per-million-viewer-count/"><u>[New] 2024 Approved Youtube Revenue Per Million Viewer Count</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-cost-free-chromebook-video-capturing-leaders-for-2024/"><u>[New] Cost-Free Chromebook Video Capturing Leaders for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-elevate-your-video-edits-ken-burns-in-camtasia/"><u>[Updated] 2024 Approved Elevate Your Video Edits Ken Burns in Camtasia</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unveiling-magixs-image-organizer-insights/"><u>[Updated] In 2024, Unveiling MAGIX's Image Organizer Insights</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-fullscreen-footage-screen-recording-made-simple-for-mac-users/"><u>[Updated] Unlocking Fullscreen Footage Screen Recording Made Simple for Mac Users</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-ultimate-guide-to-crafting-dynamic-canon-time-lapses/"><u>2024 Approved The Ultimate Guide to Crafting Dynamic Canon Time-Lapses</u></a></li>
-<li><a href="https://driver-download.techidaily.com/audio-technica-driver-update-procedure-improve-sound-quality-with-the-latest-software-upgrade/"><u>Audio-Technica Driver Update Procedure: Improve Sound Quality With The Latest Software Upgrade</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-0x800f0845-error-in-windows-updates/"><u>Correcting 0X800f0845 Error in Windows Updates</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/customizable-lock-screen-options-for-windows-8/"><u>Customizable Lock Screen Options for Windows 8</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-quick-launch-to-begin-with-onedrive-and-file-explorer/"><u>Customizing Quick Launch to Begin with OneDrive and File Explorer</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-visibility-of-pinned-apps-on-windows-11/"><u>Enhance Visibility of Pinned Apps on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-over-microsoft-store-error-code-0x800704cf-in-windows/"><u>Mastery over Microsoft Store Error: Code 0X800704CF in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-and-fix-common-microsoft-store-login-issues/"><u>Navigate and Fix Common Microsoft Store Login Issues</u></a></li>
-<li><a href="https://win-help.techidaily.com/trasferisci-rapidamente-le-tue-immagini-dal-mac-al-dischiotto-hard-drive-con-queste-due-metodi-semplici/"><u>Trasferisci Rapidamente Le Tue Immagini Dal Mac Al Dischiotto Hard Drive Con Queste Due Metodi Semplici</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-failed-connections-to-nvidia-geforce-ex/"><u>Troubleshooting Failed Connections to NVIDIA GeForce Ex</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-lan-access-issues-on-windows-mc/"><u>Troubleshooting LAN Access Issues on Windows MC</u></a></li>
-<li><a href="https://win11.techidaily.com/unleashing-fbm-potential-10-fixes-for-computer-users/"><u>Unleashing FBM Potential: 10 Fixes for Computer Users</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-connections-fixes-for-failed-nvidia-experience-in-windows-11/"><u>Unlocking Connections: Fixes for Failed Nvidia Experience in Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-game-pass-guide-why-its-a-must-have/"><u>Xbox Game Pass Guide: Why It's a Must-Have</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-explore-the-top-15-scientific-channels-to-grow-wisdom/"><u>[New] 2024 Approved Explore the Top 15 Scientific Channels to Grow Wisdom</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-gopro-film-perfection-best-15-lut-list-unveiled/"><u>[Updated] In 2024, GoPro Film Perfection Best 15 LUT List Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-picks-for-the-modern-buyer-advanced-360cams-for-2024/"><u>[Updated] Top Picks for the Modern Buyer Advanced 360Cams for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-ultimate-guide-to-cost-free-cgi-mastery-via-4-youtube-experts-insights/"><u>2024 Approved The Ultimate Guide to Cost-Free CGI Mastery via 4 YouTube Experts' Insights</u></a></li>
+<li><a href="https://fox-place.techidaily.com/5asx44kp44km44gf44ov44kh44kk44or44gu5pwr5ye677ya44kr44oh44op5yaf6js144k544oi44os44o844k444gl44kj44oh44o844k44ks5yan55sf44gz44kl44kz44oe/"><u>失われたファイルの救出：カメラ内蔵ストレージからデータを再生するコツ</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-installation-of-legacy-software-on-modern-windows/"><u>Enabling Installation of Legacy Software on Modern Windows</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-override-windows-automatic-regional-adjustment/"><u>How to Override Windows' Automatic Regional Adjustment</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-sidestep-windows-11s-default-usb-suspend/"><u>How to Sidestep Windows 11'S Default USB Suspend</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/mastering-live-streams-from-your-gopro-camera-to-social-networks/"><u>Mastering Live Streams From Your GoPro Camera to Social Networks</u></a></li>
+<li><a href="https://win11.techidaily.com/peak-your-gpus-performance-the-leading-stress-test-software-ranked/"><u>Peak Your GPU's Performance: The Leading Stress Test Software Ranked</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-windows-11-taskbar-usage/"><u>Revitalizing Windows 11 Taskbar Usage</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-unspecified-obs-studio-error-on-new-windows/"><u>Solving Unspecified OBS Studio Error on New Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/systematic-approach-to-heic-to-jpeg-image-change-in-w11/"><u>Systematic Approach to Heic to JPEG Image Change in W11</u></a></li>
+<li><a href="https://facebook.techidaily.com/uncover-long-standing-bonds-historical-facebook-views/"><u>Uncover Long-Standing Bonds: Historical Facebook Views</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-error-quick-fix-for-0x80072af9/"><u>Unlocking Windows Error: Quick Fix for 0X80072AF9</u></a></li>
 </ul></div>
 

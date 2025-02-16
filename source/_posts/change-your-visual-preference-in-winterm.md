@@ -1,7 +1,7 @@
 ---
 title: Change Your Visual Preference in WinTerm
-date: 2024-07-29T15:51:00.178Z
-updated: 2024-07-30T15:51:00.178Z
+date: 2025-02-12T04:31:05.175Z
+updated: 2025-02-15T20:12:31.696Z
 tags:
   - windows10
   - windows11
@@ -20,15 +20,16 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
 
  This tutorial will explain three methods to change the Terminal background image in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change Windows Terminal Background Image
 
  You can change the background image of Windows Terminal in three ways: using the**Default** option within the Terminal app or manually editing the settings.json file using**File Explorer** and**Run** dialog box. All three methods achieve the same result and are easy to use.
 
  Using the default option is the simplest way to change your background image while editing the settings.json file provides more control and customization options. Below, we will guide you through each option.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Change Windows Terminal Background Image via Its Options
 
  The easiest way to change the background image of Windows Terminal is by using its option. This can be done by opening Windows Terminal and changing settings within the app. Here's how to do it:
@@ -39,10 +40,11 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
 
  In the settings window's left column, go to**Defaults** . Now move to the right side of the page and tap**Appearance** to expand it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Change Windows Terminal Background Image via Default Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-windows-terminal-background-image-via-default-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Scroll down to the**Background image** section, then click the**Background image path** option. Next, click the**Browse** option and select an image you want to use as a background.
 
@@ -56,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
 
  If you want to switch to the default image,[reset the Windows Terminal to its default settings](https://www.makeuseof.com/windows-11-reset-terminal-settings/) . This will automatically restore your background to the default image.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Change the Windows Terminal Background Image via Windows File Explorer
 
  Manually editing settings.json is another great way to customize your Windows Terminal background image. For this, you need to open the settings.json file in any text editor, such as Notepad. Here's how to do it:
@@ -74,10 +73,11 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
 
  This is where you can enter the path of your own image to set as the Windows Terminal background. To do this, first copy the full file path for the image you want to use, including the file name.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![How to Change Windows Terminal Background Image From Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/how-to-change-windows-terminal-background-image-from-windows-file-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then paste this path into the**backgroundImage** section of settings.json. Remember to include a comma (**,**) after the path, as shown in the image above.
 
@@ -88,8 +88,9 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
  Restart Windows Terminal for the changes to take effect. In this way, you can easily customize your Windows Terminal background image using the settings.json file.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Change the Windows Terminal Background Image Using the Run Command
 
  The Run Command can also help you change your Windows Terminal background image. Instead of searching for the settings.json file in Windows File Explorer, you can directly access and modify it using this tool.
@@ -108,8 +109,9 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
  You’re done! Now you know how to customize your Windows Terminal background image using the Run Command tool. You can further explore the settings.json file or use other tools to[customize and personalize your Windows Terminal](https://www.makeuseof.com/windows-terminal-customization/) .
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Set a New Background Image for Windows Terminal
 
  It's easy to customize your Windows Terminal by adding or changing the background image. All you need to do is access the settings.json file, where you can also adjust your image's transparency. Just remember to restart Windows Terminal after making changes. Read this guide to learn how to customize your Windows Terminal background image easily.
@@ -120,8 +122,6 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +129,22 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-advanced-pip-setup-elevating-your-visual-presentations-on-macos/"><u>[New] Advanced PIP Setup Elevating Your Visual Presentations on macOS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dslr-or-mirrorless-for-high-quality-video-recording/"><u>[Updated] 2024 Approved DSLR or Mirrorless for High-Quality Video Recording?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-step-by-step-approach-to-capturing-and-editing-in-adobe-connect/"><u>[Updated] 2024 Approved Step-by-Step Approach to Capturing and Editing in Adobe Connect</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-capture-breathtaking-scenes-on-iphone-with-ease-for-2024/"><u>[Updated] Capture Breathtaking Scenes on iPhone with Ease for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/advanced-steps-a-compre-point-of-view-on-screen-record-with-adobe-captivate/"><u>Advanced Steps A Compre Point of View on Screen Record with Adobe Captivate</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-tackle-windows-activation-fault-0x803f700f/"><u>Guidelines to Tackle Windows Activation Fault 0X803F700f</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-ai-powered-name-ideas-for-standout-podcast-titles/"><u>In 2024, AI-Powered Name Ideas for Standout Podcast Titles</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-win11-personalized-sound-triggers/"><u>Mastering Win11: Personalized Sound Triggers</u></a></li>
+<li><a href="https://win11.techidaily.com/offscreen-wonderland-revive-windows-on-your-1011-device/"><u>Offscreen Wonderland: Revive Windows on Your 10/11 Device</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-control-restoring-volume-mixer-defaults/"><u>Regain Control: Restoring Volume Mixer Defaults</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revitalize-your-visuals-expertly-curated-list-of-the-best-10-editors-for-2024/"><u>Revitalize Your Visuals Expertly Curated List of the Best 10 Editors for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-windows-method-for-cr2-image-jpg-transformation/"><u>Step-by-Step Windows Method for CR2 Image JPG Transformation</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-correct-temp-directory-errors-in-win11/"><u>Steps to Correct Temp Directory Errors in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-removing-absence-of-display-during-win-remoting/"><u>Strategies for Removing Absence of Display During Win Remoting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-resolving-code-800-on-clientserver-vpns/"><u>Troubleshooting Tips: Resolving Code 800 on Client/Server VPNs</u></a></li>
+</ul></div>
 

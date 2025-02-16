@@ -1,7 +1,7 @@
 ---
 title: "Clearing Up Win10: Fix Invalid Network Path"
-date: 2024-07-29T15:51:29.149Z
-updated: 2024-07-30T15:51:29.149Z
+date: 2025-02-12T20:30:51.616Z
+updated: 2025-02-15T16:30:52.254Z
 tags:
   - windows10
   - windows11
@@ -31,23 +31,23 @@ thumbnail: https://thmb.techidaily.com/d54fa6180dfbcf214df4f9458a0e28f5138815530
 1. Right-click on the targeted drive and choose **Properties** from the context menu.  
 ![Drive properties in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-properties.jpg)
 2. In the following dialog, head over to the **Sharing tab** and check the status of Network Path.
-3. If it says Not Shared, then click on the **Advanced Sharing** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. If it says Not Shared, then click on the **Advanced Sharing** button.  
 ![Advanced sharing button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-properties-advanced-sharing.jpg)
 4. Checkmark the box associated with **Share this folder** and note the Share name of the drive.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Type folder name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-share-this-folder.jpg)
 5. Once done, click on **Apply** \> **OK** to save the changes.
 
  You can now check if the drive is accessible after following the steps above.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Temporarily Disable Your Antivirus
 
  Another common culprit that often prevents users from connecting to networks, sharing files, and downloading applications from third-party sources is an overly protective antivirus.
@@ -70,16 +70,14 @@ thumbnail: https://thmb.techidaily.com/d54fa6180dfbcf214df4f9458a0e28f5138815530
 `ipconfig /all​​​`  
 ![ipconfig all command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ipconfig-all.jpg)
 4. Scroll down and bit and note down the address for IPv4 Address.  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ipv4 address in cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ipconfig-all-ipv4-address.jpg)
 5. Now, open a Run dialog again and paste the IPv4 Address you noted in the text field here.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![ipv4 address in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/cmd-ipv4-address.jpg)
 6. Click **Enter** and see if you can connect to the remote computer successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Restart the TCP/IP NetBIOS Helper Service
 
@@ -91,16 +89,20 @@ thumbnail: https://thmb.techidaily.com/d54fa6180dfbcf214df4f9458a0e28f5138815530
 2. Type services.msc in Run and hit **Enter**.
 3. In the Services window, look for TCP/IP NetBIOS Helper and right-click on it.
 4. Choose **Properties** from the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![Properties of TCP/IP helper service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/services-tcp-ip-netbios-helper-properties.jpg)
 5. In the following dialog, click on the **Stop** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Stop button in Properties dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/services-tcp-ip-netbios-helper-stop.jpg)
 6. Wait for a few seconds and then click **Start**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Now, expand the dropdown for Startup type and choose **Automatic**.  
 ![Startup type of service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/services-tcp-ip-netbios-helper-automatic.jpg)
 8. Click **Apply** \> **OK** to save the changes.
@@ -119,14 +121,20 @@ thumbnail: https://thmb.techidaily.com/d54fa6180dfbcf214df4f9458a0e28f5138815530
 2. In the following window, head over to **Programs** \> **Programs and Features**.  
 ![Programs option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/control-panel-programs.jpg)
 3. Choose **Turn Windows features on or off** from the left pane.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn Windows feature on or off option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/turn-windows-features-on-or-off.jpg)
 4. Now, look for "SMB 1.0/CIFS File Sharing Support" and checkmark the box associated with it.  
 ![SMB 1.0 option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/smb-cifs-file-sharing-support.jpg)
 5. Click **OK** to save the changes and check if the error is now fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Modify Network Security Settings
 
  There can also be a problem with the network security settings of your computer, which might block access to shared resources, resulting in the error. Here is how you can ensure that you have the correct network settings to effectively communicate with other devices or resources on the network.
@@ -139,31 +147,17 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
 ![Modify network security settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/local-security-policy-settings.jpg)
 5. Click **Apply** \> **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Reset TCP/IP
 
  Finally, if the methods above have not worked for you, then you can consider [resetting TCP/IP](https://www.makeuseof.com/windows-connection-failed-error-651-fix/#:~:text=next%20method%20below.-,3.%20Reset%20TCP/IP,-You%20might%20also), which will revert all the IP protocols and DNS entries to their default state.
 
  This fix is known to fix almost all the network-related issues that pop up in Windows now and then, and will hopefully fix the error at hand for you as well.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## The Windows Network Path Error, Resolved
 
  Connecting to another device over the network and sharing files should be a seamless process. Hopefully, the troubleshooting methods mentioned above will help you get the network functionality up and running in no time. However, if the error persists, you can consider using another file-sharing service like Google Drive till Microsoft launches an official fix for this issue.
 
  One such common issue is the "network path name was not found" error, which occurs when users attempt to connect to a remote device. If you are facing a similar problem, we have discussed six troubleshooting methods below that will help you fix the error in no time.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -171,3 +165,20 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-the-instagram-video-edge-planning-for-maximum-marketing-success/"><u>[New] The Instagram Video Edge Planning for Maximum Marketing Success</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-selection-top-10-zero-dollar-video-calls/"><u>[New] The Ultimate Selection Top 10 Zero-Dollar Video Calls</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-tips-for-trimming-down-facebook-vids-intrusions-for-2024/"><u>[New] Tips for Trimming Down Facebook Vids' Intrusions for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-next-gen-smartwatch-unveiled-anticipated-price-points-launch-timeline-and-detailed-specifications/"><u>Apple's Next-Gen Smartwatch Unveiled: Anticipated Price Points, Launch Timeline & Detailed Specifications</u></a></li>
+<li><a href="https://discover-able.techidaily.com/gratuit-konvertisseren-van-rmvb-naar-mp3-online-movavi/"><u>Gratuit Konvertisseren Van RMVB Naar MP3 Online - Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/masking-the-power-switch-on-windows-modern-desktop/"><u>Masking the Power Switch on Windows Modern Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-click-lock-functionality-for-improved-user-experience/"><u>Maximizing Click Lock Functionality for Improved User Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/quick-mac-mastering-screen-recording-via-shortcuts-for-2024/"><u>Quick Mac Mastering Screen Recording via Shortcuts for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-nokia-c12-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia C12 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/strategic-use-of-taskmanager-for-prominence/"><u>Strategic Use of TaskManager for Prominence</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-lava-blaze-2-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Lava Blaze 2 Pro Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-of-windows-exepe-formats/"><u>Unveiling the Secrets of Windows EXE/PE Formats</u></a></li>
+</ul></div>
+

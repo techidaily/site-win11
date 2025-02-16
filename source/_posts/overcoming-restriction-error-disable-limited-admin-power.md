@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Restriction Error: Disable 'Limited Admin Power'"
-date: 2025-02-02T17:33:11.336Z
-updated: 2025-02-03T19:57:59.863Z
+date: 2025-02-12T21:32:04.294Z
+updated: 2025-02-16T04:28:57.046Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Change Your User Account to an Admin Account
@@ -36,7 +36,11 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 ![The Access work or school account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/work-or-school-accounts.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uninstall Third-Party Security Software
@@ -55,6 +59,14 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 ![The Access work or school account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/work-or-school-accounts.jpg)
 4. Press the**Disconnect** button and select**Yes** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Disable the Turn Off Microsoft Defender Antivirus Policy
 
  Some Windows Pro and Enterprise users have confirmed they’ve fixed the “Page not available” error by disabling a**Turn off Microsoft Defender Antivirus** policy. So, check that policy setting even if you can’t recall changing it yourself. This is how you can check and disable the**Turn Off Microsoft Defender Antivirus** Group Policy setting in Windows Pro and Enterprise:
@@ -69,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 ![Microsoft Defender Antivirus settings in Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/microsoft-defender-antivirus-settings.jpg)
 2. Then double-click**Turn off Microsoft Defender Antivirus** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click**Disabled** if the**Turn off Microsoft Defender Antivirus** policy is enabled.  
 ![The Turn off Microsoft Defender Antivirus window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-turn-off-microsoft-defender-antivirus-window.jpg)
 4. Select the policy’s**Apply** and**OK** options.
@@ -85,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 
 ![The Client Interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-headless-ui-mode.jpg)
 8. Select**Disabled** \>**Apply** \>**OK** in the Enable headless UI mode policy window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Run a PowerShell Command
 
@@ -103,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 5. Exit PowerShell and open Windows Security again to see if the error persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Repair/Reset Windows Security
@@ -146,21 +150,17 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
 ![The reg delete command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reg-delete.jpg)
 5. Open the Start menu, select**Power** , and press the**Restart** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Perform a System Restore
 
  If the “Page not available” error remains after applying other potential solutions, try performing a system restore. That might work if you can select a restore point predating the “Page not available” error on your PC. Rolling Windows back to an earlier time could undo any system changes that caused the issue to arise.
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-resotre-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Our guide on[creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/) provides instructions for rolling back Windows with System Restore. Choose the oldest restore point you can. However, remember that you’ll probably need to reinstall some software packages installed after the restore point’s date.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Start Utilizing Windows Security Again
 
@@ -181,22 +181,24 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-step-by-step-guide-for-vintage-photo-conversion-and-storage/"><u>[New] 2024 Approved The Step-by-Step Guide for Vintage Photo Conversion & Storage</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-can-a-64gb-drive-manage-large-video-files/"><u>[New] Can a 64GB Drive Manage Large Video Files?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-dish-on-titles-crafting-captivating-cookery-channel-names-for-2024/"><u>[New] Dish on Titles Crafting Captivating Cookery Channel Names for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unleashing-video-potential-with-effective-tagging-techniques-on-youtube/"><u>[New] In 2024, Unleashing Video Potential with Effective Tagging Techniques on YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-ideal-no-cost-screen-grabber-toolset-for-2024/"><u>[Updated] Ideal No-Cost Screen Grabber Toolset for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-auditory-explorers-manual-crafting-unique-sounds-and-ringtones-for-android-users/"><u>[Updated] In 2024, The Auditory Explorer's Manual Crafting Unique Sounds & Ringtones for Android Users</u></a></li>
-<li><a href="https://win11.techidaily.com/empower-users-the-key-to-efficient-mouseclicklock/"><u>Empower Users: The Key to Efficient MouseClickLock</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-discords-javascript-crash-on-win-11-a-step-by-step-guide/"><u>Overcoming Discord's JavaScript Crash on Win 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-1011-stop-try-connecting-bluetooth-error/"><u>Overcoming Windows 10/11: Stop 'Try Connecting' Bluetooth Error</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/er-tech-to-record-your-on-air-video-on-youtube/"><u>Premier Tech to Record Your On-Air Video on YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-revive-stuck-grammarly-feature-windows-wise/"><u>Solutions to Revive Stuck Grammarly Feature Windows-Wise</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-win11s-empty-directory-alert-error-code-0x80070091/"><u>Solving Win11's Empty Directory Alert (Error Code: 0X80070091)</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-resolving-winscombsvc-problem-in-windows/"><u>Strategies for Resolving WinScombSvc Problem in Windows</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-4-inovator-untuk-migelan-minifix-aliran-daftar-daftar-rekaman-bacaan-dalam-tahun-2024/"><u>Top 4 Inovator Untuk Migelan Minifix: Aliran Daftar-Daftar Rekaman Bacaan Dalam Tahun 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/visual-branding-on-youtubes-iconography-and-images-for-2024/"><u>Visual Branding on YouTubes Iconography and Images for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/what-is-a-windows-system-report-and-how-do-you-create-and-analyze-one/"><u>What Is a Windows System Report, and How Do You Create and Analyze One?</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-search-recovering-lost-functionality/"><u>Windows 11 Search: Recovering Lost Functionality</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-behind-the-scenes-guide-to-finding-facebooks-finest-vids/"><u>[New] Behind-the-Scenes Guide to Finding Facebook's Finest Vids</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-circle-of-connectivity-spotlighting-instas-top-25-influencers/"><u>[Updated] The Circle of Connectivity Spotlighting Insta's Top 25 Influencers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-essentials-of-writing-amazing-end-of-episode-scripts/"><u>2024 Approved The Essentials of Writing Amazing End-of-Episode Scripts</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-the-fat-in-your-win-11-menu-choices/"><u>Cutting the Fat in Your Win 11 Menu Choices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/discover-review-and-compare-with-az-screenshotter/"><u>Discover, Review & Compare with AZ Screenshotter</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flashy-flights-prime-pc-and-mobile-game-hits/"><u>In 2024, Flashy Flights Prime PC and Mobile Game Hits</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-securely-shutting-down-your-instagram-presence-forever/"><u>In 2024, Securely Shutting Down Your Instagram Presence Forever</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211350922-9780062415004-invincible-living/"><u>Invincible Living | Free Book</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-multiple-languages-with-help-from-googled-editors-mondly/"><u>Mastering Multiple Languages with Help From Googled Editors - Mondly</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-microsoft-teams-instability-in-win11-win10/"><u>Overcoming Microsoft Teams Instability in Win11, Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/precise-control-over-time-in-windows-without-auto-adjustments/"><u>Precise Control Over Time in Windows without Auto-Adjustments</u></a></li>
+<li><a href="https://win11.techidaily.com/prime-virtual-configurations-matching-windows-11-os-specs/"><u>Prime Virtual Configurations Matching Windows 11 OS Specs</u></a></li>
+<li><a href="https://win11.techidaily.com/proven-strategies-to-advance-your-wsl-2-docker-use/"><u>Proven Strategies to Advance Your WSL 2 Docker Use</u></a></li>
+<li><a href="https://win11.techidaily.com/proven-techniques-to-activate-wordpad-in-computer-os/"><u>Proven Techniques to Activate WordPad in Computer OS</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-os-transition-windows-on-your-steam-deck/"><u>Seamless OS Transition: Windows on Your Steam Deck</u></a></li>
+<li><a href="https://win11.techidaily.com/security-concern-hacked-biometrics-in-windows-hello/"><u>Security Concern: Hacked Biometrics in Windows Hello</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-guide-to-choosing-a-win10-video-grabber-tool-for-2024/"><u>The Ultimate Guide to Choosing a Win10 Video Grabber Tool for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/whats-new-with-windows-11-in-2024/"><u>What's New with Windows 11, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-ui-mismatches-a-quick-listicle/"><u>Windows 11 UI Mismatches: A Quick Listicle</u></a></li>
 </ul></div>
 

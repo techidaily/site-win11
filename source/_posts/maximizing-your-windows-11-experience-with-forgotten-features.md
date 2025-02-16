@@ -1,7 +1,7 @@
 ---
 title: Maximizing Your Windows 11 Experience with Forgotten Features
-date: 2025-01-29T18:54:11.376Z
-updated: 2025-02-03T21:08:00.512Z
+date: 2025-02-09T23:07:56.856Z
+updated: 2025-02-16T03:56:23.299Z
 tags:
   - windows10
   - windows11
@@ -35,15 +35,7 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
 ![windows 11 snap layouts three windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/windows-11-snap-layouts-three-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We’ve covered[how to use Snap Layouts in Windows 11](https://www.makeuseof.com/how-to-use-snap-layouts-in-windows-11/) in a separate article that also explains customizing them to best suit how you work.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use Widgets to Your Advantage
 
@@ -51,13 +43,25 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
 ![Enable Widgets from Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-widgets-from-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  They are so easy to use and so terribly useful, that we suggest[getting started with Windows 11 widgets](https://www.makeuseof.com/windows-11-widgets-starter-tips/) right away. And there’s an easy fix if your[Windows 11 widgets are not working](https://www.makeuseof.com/windows-11-widgets-not-working/) —a frustrating situation indeed to find yourself in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Get More Productive With Focus Sessions
 
  Windows 11’s Focus Sessions feature aims to boost your productivity, cutting out distractions and helping you set goals for work. The tool can be found in the clock app and allows you to set the tasks you want to focus on in each session. You can even link your Spotify account to have music playing in the background if that’s what helps you stay focused.
 
 ![windows 11 focus sessions clock app home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/windows-11-focus-sessions-clock-app-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We’ve got a comprehensive article on[how to use the new Windows 11 Focus Sessions](https://www.makeuseof.com/how-to-use-windows-11-focus-sessions/) , which explains what they are and guides you to set things up so you can get the most out of your time at your PC.
 
@@ -70,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
  Even though it may seem overwhelming, there’s nothing complicated about[using the improved clipboard manager in Windows 11](https://www.makeuseof.com/how-to-use-clipboard-manager-in-windows-11/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Quicker Text Capture With Voice Typing
@@ -79,21 +83,17 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
 [Microsoft’s voice typing tool on Windows](https://www.makeuseof.com/how-to-start-voice-typing-on-windows-11/) can be powerful if used correctly, and it is not difficult to[set up voice access on Windows 11](https://www.makeuseof.com/windows-11-enable-voice-access/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use Taskbar Hotkeys for Fast Switching
 
  The Windows 11 taskbar automatically sets up hotkeys when you pin items to it. Not sure what a hotkey is? We’ve got more about them and[how to make your own hotkeys](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) .
 
 ![Taskbar keyboard shortcut numbers for pinned apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/keyboard-shortcut-numbers-1.jpg)
 
- You can quickly switch to a specific window or application by using the Windows key in conjunction with a number key that corresponds to the position of the pinned item. Especially for lower numbers, this shaves off seconds when switching between windows and apps.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can quickly switch to a specific window or application by using the Windows key in conjunction with a number key that corresponds to the position of the pinned item. Especially for lower numbers, this shaves off seconds when switching between windows and apps.
 
 ### 7\. Android / Linux Emulators
 
@@ -120,14 +120,21 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-witty-artwork-generate-memes-via-kapwing/"><u>[New] 2024 Approved Witty Artwork Generate Memes via Kapwing</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-proven-tactics-for-engaging-viewers-with-success-narratives-on-screen-for-2024/"><u>[Updated] Proven Tactics for Engaging Viewers with Success Narratives on Screen for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/business-users-guide-in-depth-review-of-the-microsoft-surface-pro-8-with-expert-commentary-on-performance-and-security-spotlight-by-zdnet/"><u>Business Users' Guide: In-Depth Review of the Microsoft Surface Pro 8 with Expert Commentary on Performance & Security – Spotlight by ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/easing-through-exit-not-found-a-windows-fix-guide/"><u>Easing Through Exit Not Found: A Windows Fix Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-unresponsive-headset-mic-in-windows-environment/"><u>Fixing Unresponsive Headset Mic in Windows Environment</u></a></li>
-<li><a href="https://win11.techidaily.com/masked-mastery-invisible-input-on-modern-windows/"><u>Masked Mastery: Invisible Input on Modern Windows</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/monitoring-lost-instagram-connections/"><u>Monitoring Lost Instagram Connections</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steam-errors-installed-easy-anti-cheat-now-game-launches-successfully/"><u>Troubleshooting Steam Errors: Installed Easy Anti-Cheat, Now Game Launches Successfully</u></a></li>
-<li><a href="https://win11.techidaily.com/win1011-geforce-x-solving-retrieve-settings-glitches/"><u>Win10/11, GeForce X: Solving Retrieve Settings Glitches</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-master-the-art-of-preserving-your-musical-journey/"><u>[New] In 2024, Master the Art of Preserving Your Musical Journey</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-earning-expertise-short-video-revenue-boosting-for-2024/"><u>[Updated] Earning Expertise Short Video Revenue Boosting for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-record-and-incorporate-speech-into-powerpoint-decks/"><u>2024 Approved How to Record & Incorporate Speech Into PowerPoint Decks</u></a></li>
+<li><a href="https://games-able.techidaily.com/counteracting-missing-elements-alert-on-pc/"><u>Counteracting Missing Elements Alert on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-to-fix-windows-activation-failure-0x803f700f/"><u>Essential Steps to Fix Windows Activation Failure 0X803F700f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-app-install-issues-on-microsoft-store/"><u>Fixing App Install Issues on Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-mitigate-admin-access-restricted-on-pcs/"><u>How to Mitigate 'Admin Access Restricted' On PCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tips-for-sharper-images-during-zoom-calls/"><u>In 2024, Tips for Sharper Images During Zoom Calls</u></a></li>
+<li><a href="https://techidaily.com/invisible-web-journeys-strategies-for-anonymous-internet-use/"><u>Invisible Web Journeys: Strategies for Anonymous Internet Use</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimize-playtime-overcome-halo-infinite-stalling-with-these-7-essential-tweaks-for-a-seamless-pc-gaming-session/"><u>Optimize Playtime: Overcome Halo Infinite Stalling with These 7 Essential Tweaks for a Seamless PC Gaming Session</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-mouse-visibility-on-new-windows-os/"><u>Optimizing Mouse Visibility on New Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-lunar-client-failure-errors-quickly/"><u>Overcoming “Windows Lunar Client Failure” Errors Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-device-removal-problems-on-windows/"><u>Overcoming Device Removal Problems on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/python-package-installation/"><u>Python Package Installation</u></a></li>
+<li><a href="https://techidaily.com/quick-guide-to-turning-off-driver-signature-protection-in-windows-10/"><u>Quick Guide to Turning Off Driver Signature Protection in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-secure-connections-after-winvpn-dropout/"><u>Restoring Secure Connections After WinVPN Dropout</u></a></li>
 </ul></div>
 

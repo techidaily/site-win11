@@ -1,7 +1,7 @@
 ---
 title: Insider Tips to Propel Property Exploration
-date: 2025-01-28T23:12:06.843Z
-updated: 2025-02-04T00:25:22.847Z
+date: 2025-02-12T23:43:08.501Z
+updated: 2025-02-15T23:06:13.033Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
  Here are some easy ways to view the file or folder properties on a Windows PC. These methods will work for Windows 11 and older versions of Windows OS too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Using the Keyboard Shortcut
 
  You can view the file properties using the pre-defined shortcut keys on Windows. Here’s how to do it:
@@ -38,16 +42,16 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 3. Then press**Alt + Enter** keys at once to open the file properties window.  
 ![View File Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Using the Mouse and Keyboard Shortcut
 
  This method eliminates the usage of the enter key to open the file properties windows. Repeat the following steps to open the properties window:
 
 1. Open the File Explorer app and navigate to the folder location.
 2. Now, hold the**Alt** key and**double-click** on the file to display its properties.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Using the Context Menu
 
@@ -59,15 +63,7 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 ![View File Properties using Right Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-right-context-menu.jpg)
 4. The file properties window will launch on your system.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Keep in mind that the right-click context menu will look a bit different from the older versions of Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Using the File Explorer
 
@@ -79,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 4. A drop-down menu will open. Select the**Properties** option from the menu.  
 ![View File Properties using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-file-explorer.jpg)
 5. The Properties window will launch on your system. Press**Alt + F4** to close it after you no longer need it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Using the CMD Tool
 
@@ -92,11 +92,7 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 5. Scroll down to check the file properties such as size, creation date, and more attributes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Using PowerShell
@@ -108,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 3. Replace “**File Path** ” with the actual storage location like you did in the fifth method.  
 ![View File Properties using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-powershell.jpg)
 4. Press the**Enter** key to execute the command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Quickly View File or Folder Properties on Windows
 
@@ -128,21 +128,22 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-asus-proart-pa32u-4k-hdr-professional-monitor-review/"><u>[New] ASUS ProArt PA32U 4K HDR Professional Monitor Review</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-dangerous-depths-top-10-roguelite-showdowns/"><u>[New] Dangerous Depths Top 10 Roguelite Showdowns</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-how-to-make-a-youtube-trailer-by-filmora/"><u>[New] How to Make a YouTube Trailer by Filmora</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-soundtrack-addition-to-social-media-videos-on-facebook/"><u>[Updated] Mastering Soundtrack Addition to Social Media Videos on Facebook</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-v30-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-overcoming-access-restrictions-in-windows/"><u>Comprehensive Guide: Overcoming Access Restrictions in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-down-unnecessary-workload-in-windows-system/"><u>Cutting Down Unnecessary Workload in Windows System</u></a></li>
-<li><a href="https://win11.techidaily.com/direct-steps-to-activatedisable-wifi-cost-metering-in-win11/"><u>Direct Steps to Activate/Disable Wifi Cost Metering in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-tactics-for-printer-troubles-on-windows-11/"><u>Effective Tactics for Printer Troubles on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-locate-a-vanishing-sd-card-in-windows-filesystem/"><u>How to Locate a Vanishing SD Card in Windows Filesystem</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-xiaomi-redmi-note-12-pro-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Xiaomi Redmi Note 12 Pro 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-prime-digital-devices-turn-images-into-videos/"><u>In 2024, Prime Digital Devices Turn Images Into Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-transforming-digital-art-with-free-versatile-lut-tools/"><u>In 2024, Transforming Digital Art with Free, Versatile LUT Tools</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-se-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone SE Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-workspace-viewing-switch-wmdesk-way/"><u>Optimize Workspace Viewing: Switch WmDesk Way</u></a></li>
-<li><a href="https://win11.techidaily.com/proficient-techniques-for-managing-win-registry-from-cmd/"><u>Proficient Techniques for Managing Win Registry From CMD</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-brilliant-asus-monitor-ultrahd-true-black/"><u>[New] Brilliant Asus Monitor UltraHD, True Black</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-master-list-of-premium-9-multi-platform-video-communication-apps/"><u>[Updated] In 2024, Master List of Premium 9 Multi-Platform Video Communication Apps</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/comparing-strategies-how-backups-and-archives-serve-unique-roles-in-data-preservation/"><u>Comparing Strategies: How Backups and Archives Serve Unique Roles in Data Preservation</u></a></li>
+<li><a href="https://win11.techidaily.com/deceptive-aesthetics-real-speed-problems-in-windows-11-pcs/"><u>Deceptive Aesthetics, Real Speed Problems in Windows 11 PCs</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effortless-creation-and-publishing-of-ibooks-for-ipad-using-flippdf-builder-on-mac/"><u>Effortless Creation & Publishing of iBooks for iPad Using FlipPDF Builder on Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-6-windows-computers-tracking-apps-unveiled/"><u>Essential 6 Windows Computers Tracking Apps Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-unusable-compatibility-center-on-vista7-pcs-fast/"><u>Fix Unusable Compatibility Center on Vista/7 PCs Fast!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-lava-storm-5g-easily-by-drfone-android/"><u>How To Unlock a Lava Storm 5G Easily?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-itel-p55plus-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Itel P55+ Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-s17e-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo S17e Location | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/making-the-most-of-your-audio-settings-in-windows-11/"><u>Making the Most of Your Audio Settings in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-keyboards-in-windows-11-minimize-lag-time/"><u>Master Your Keyboards in Windows 11: Minimize Lag Time</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-smoother-quick-fixes-for-laggy-wow-battlefront/"><u>Navigate Smoother: Quick Fixes for Laggy WoW Battlefront</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-complete-tutorial-on-augmenting-android-video-projects-with-essential-audioscapes/"><u>New In 2024, The Complete Tutorial on Augmenting Android Video Projects with Essential Audioscapes</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-steps-for-reinstating-a-hidden-windows-service/"><u>Quick Steps for Reinstating a Hidden Windows Service</u></a></li>
+<li><a href="https://fox-that.techidaily.com/siri-malfunction-solutions-key-steps-to-restore-voice-command-functionality-on-your-apple-device/"><u>Siri Malfunction Solutions: Key Steps to Restore Voice Command Functionality on Your Apple Device</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-performance-intel-network-driver-enhancement/"><u>Unlocking Performance: Intel Network Driver Enhancement</u></a></li>
 </ul></div>
 

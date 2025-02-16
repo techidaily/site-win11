@@ -1,7 +1,7 @@
 ---
 title: Breathe Life Into Your Xbox Application
-date: 2024-07-29T15:55:10.621Z
-updated: 2024-07-30T15:55:10.621Z
+date: 2025-02-13T00:44:27.840Z
+updated: 2025-02-15T16:43:15.423Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652
 
  A sketchy internet connection may prevent you from downloading or launching games from the Xbox app. Hence, before spending time on any advanced solutions,[run a quick internet speed test](https://www.makeuseof.com/best-free-websites-test-internet-speed/) on your PC to check your connection. You can also try switching to a different network connection if one is available.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Correct Date and Time on Your PC
 
 [Having your PC set to the wrong date or time](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) may not seem like a big deal, but it can lead to a slew of problems. In this case, it may block the Xbox app from communicating with the servers, thereby preventing you from using it. You can easily avoid such issues by configuring Windows to set the correct time automatically. Here are the steps you need to follow.
@@ -32,18 +36,16 @@ thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652
 2. Select**Time & language** from the left pane.
 3. Click on**Date and time** .
 4. Enable the toggle next to**Set time automatically** .  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Set Date and Time Automatically on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Set-Date-and-Time-Automatically-on-Windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart the Xbox app after this and see if it works fine.
 
  If the clock keeps messing up after this fix, check out[the reasons why your Windows 10 or 11 time is wrong](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) for more.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Sign Out and Back Into the Xbox App
 
  Authentication issues with your account can also cause the Xbox app to stop working. One way to fix such issues is to sign out of the Xbox app and sign back in.
@@ -52,10 +54,6 @@ Restart the Xbox app after this and see if it works fine.
 
 ![Sign Out of Xbox App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Sign-Out-of-Xbox-App.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## 4\. Reinstall the Gaming Services App
 
  The Gaming Services app on Windows facilitates the installation of games through the Windows Store. If the Gaming Services app is having problems, the Xbox app may redirect you to the Microsoft Store when you try to launch a game or display the error code 0x00000001.
@@ -69,13 +67,14 @@ Restart the Xbox app after this and see if it works fine.
 `get-appxpackage Microsoft.GamingServices | remove-AppxPackage -allusers`
 5. Run the following command to open the Gaming Services app page in Microsoft Store.  
 `start ms-windows-store://pdp/?productid=9MWPM2CQNLHN`  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Reinstall Gaming Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Reinstall-Gaming-Services-App.jpg)
 6. Click the**Install** button to download the app.
 
 [Restart your PC](https://www.makeuseof.com/windows-restart-methods/) after this and try to use the Xbox app again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Run the Windows Store Apps Troubleshooter
 
@@ -88,6 +87,10 @@ To run the Windows Store Apps troubleshooter:
 3. Select**Other troubleshooters** .
 4. Click the**Run** button next to**Windows Store Apps** and follow the on-screen prompts to run the troubleshooter.  
 ![Run the Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-the-Windows-Store-Apps-Troubleshooter-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Repair or Reset Xbox App
 
@@ -106,9 +109,6 @@ To repair the Xbox app on Windows:
 
  If any Windows apps begin to misbehave in the future, check out[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) for similar steps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Update the Xbox App
 
  If you haven't updated Xbox app in a while, you could encounter problems while using it. Plus, using an outdated version of the Xbox app also causes you to miss out on the latest features. Hence, it’s always a good idea to enable automatic app updates on Windows or learn[how to update Windows apps](https://www.makeuseof.com/update-apps-windows-11/) manually. Alternatively, you can update the Xbox app manually from the Microsoft Store.
@@ -120,8 +120,9 @@ To repair the Xbox app on Windows:
 ![Windows Update Tab in Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Check-for-Updates-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Leave the Xbox Insider Program
 
  If you've signed up for the Xbox Insider Program to get early access to new features and games, it may affect the performance of the Xbox app. You can opt out of the Xbox Insider Program to see if it makes any difference.
@@ -134,30 +135,25 @@ To leave the Xbox Insider Program:
 4. Click**Manage** .
 5. Click the**Leave preview** button.
 6. Select**Continue** when prompted.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Leave Xbox Insider Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Leave-Xbox-Insider-Program.jpg)
 
 Restart the Xbox app after this and try to use it again.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Troubleshooting the Xbox App on Windows
 
  Hopefully, one of the methods mentioned above has fixed the Xbox app, and you can now access your favorite titles again. However, if none of the solutions work, you can reinstall the Xbox app as a last resort.
 
  On another note, if the Xbox app is not displaying notifications on Windows, you may want to fix that too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -166,4 +162,17 @@ Restart the Xbox app after this and try to use it again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/42937483-updated-2024-approved-youtube-snippets-guide-essential-info-inside/"><u>[Updated] 2024 Approved YouTube Snippets Guide Essential Info Inside!</u></a></li>
+<li><a href="https://windows11.techidaily.com/easily-resolve-bluetooth-pairing-failures-on-windows-1011/"><u>Easily Resolve Bluetooth Pairing Failures on Windows 10/11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/is-your-pc-compatible-with-windows-11-see-here/"><u>Is Your PC Compatible with Windows 11? See Here!</u></a></li>
+<li><a href="https://windows11.techidaily.com/proven-strategies-for-combining-diverse-windows-partitions/"><u>Proven Strategies for Combining Diverse Windows Partitions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722903549667-rpcrt4dll-not-found-heres-how-you-can-repair-the-issue-easily/"><u>RPCRT4.DLL Not Found? Here's How You Can Repair the Issue Easily!</u></a></li>
+<li><a href="https://win11.techidaily.com/say-goodbye-to-wasted-space-clear-windows-temp-files/"><u>Say Goodbye to Wasted Space: Clear Windows Temp Files</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-correcting-windows-runtime-error-0x800700c6/"><u>Understanding and Correcting Windows Runtime Error 0X800700C6</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-time-turmoil-steady-the-systems-hour/"><u>Windows Time Turmoil: Steady the System's Hour</u></a></li>
+<li><a href="https://discover-help.techidaily.com/wonderfox-dvd-ripper-pro/"><u>WonderFox DVD Ripper Proの最新版アップグレードで無料ダウンロード</u></a></li>
+</ul></div>
 

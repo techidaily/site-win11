@@ -1,7 +1,7 @@
 ---
 title: Cease Unwanted Windows Update Restarts
-date: 2024-07-29T15:54:34.384Z
-updated: 2024-07-30T15:54:34.384Z
+date: 2025-02-11T03:52:58.253Z
+updated: 2025-02-16T00:12:54.884Z
 tags:
   - windows10
   - windows11
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
 3. Under Windows Update, you will find the **Restart now** option.
 4. Select this option to restart your computer and install the pending updates.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Install Pending Updates
 
  If your computer keeps reminding you to update and shuts down, check for pending updates. It is possible that the updates were not installed properly and Windows is now asking you to complete them.
@@ -44,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
 
  This will search for available updates and install them if there are any. If you see no updates, continue to the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Run the Windows Update Troubleshooter
 
  Windows operating system comes with troubleshooting tools specific to each problem. To solve update-related issues, use the Windows Update troubleshooter. This tool detects corrupted, or faulty files associated with updates and fixes them automatically.
@@ -55,13 +56,15 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
 3. On the next page, click **Other trouble-shooters**.  
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 4. Look for **Windows Update** and click **Run** next to it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
 
  Follow the instructions on the screen to let Windows Update Troubleshooter detect and fix problems. After running the troubleshooter, restart your computer and check if it solves the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Clear the Software Distribution Folder
 
  The Software Distribution folder contains downloaded updates and installation files. If these files become corrupted, it could lead to this issue. To fix it, clear the Software Distribution directory and check if that solves the problem.
@@ -89,6 +92,10 @@ net start msiserver`
 
  ​​​​
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Disable Windows Update
 
  If you keep encountering the issue, disable the Windows Update service. This will stop Windows from automatically downloading updates and showing the message.
@@ -98,15 +105,9 @@ net start msiserver`
 1. Press **Win + R** on your keyboard to open the Run command window.
 2. Type **services.msc** in the dialog box and press Enter. This will open the Services console.
 3. Search for **Windows Update**, right-click on it, and select **Stop**.  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stop Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/stop-windows-update-service.jpg)
 4. Now double-click on **Windows Update** to open the Properties window.
 5. On the **General** tab, click the **Startup type** drop-down and select **Disabled**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Disable Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-windows-update-service.jpg)
 6. Click **Apply** \> **OK** to save the changes.
 7. Now close the window and restart your computer.
@@ -118,8 +119,9 @@ net start msiserver`
  ​​​​​After restarting, you should no longer see the “Update and Restart” or “Update and Shut Down” message.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reset the Windows Update Components
 
  If none of the solutions above work, reset Windows Update components. It deletes all the temporary download files and resets the registry keys containing information about Windows Update. This process also clears any corrupted files associated with updates and allows Windows to download the updates again.
@@ -185,20 +187,13 @@ net start cryptsvc`
 3. Click **File** and select **Save as** from the menu list.
 4. In the dialog box, select **All Files** from the **Save as type** drop-down menu.
 5. Save the file as **ResetWindowsUpdate.bat** and close Notepad.  
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Reset Windows Update Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-windows-update-components.jpg)
 6. Now right-click on the .bat file and select **Run as administrator**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. When the UAC window appears, select **Yes** to continue.
 
  The script will start resetting the Windows Update components and may take a few minutes to complete. Once done, restart your computer and this should solve the issue.
@@ -209,11 +204,28 @@ net start cryptsvc`
 
  However, you may sometimes encounter the same message prompting even after performing these actions. Read this guide to resolve this issue and stop getting such annoying notifications.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-innovating-color-grading-with-new-lut-techniques/"><u>[New] 2024 Approved Innovating Color Grading with New LUT Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-photos-and-instagram-effortless-integration/"><u>[New] Photos & Instagram Effortless Integration</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-picsweets-where-free-tiktok-bgs-and-beauty-meet/"><u>[New] PicSweets Where Free TikTok BGs and Beauty Meet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-resolve-poor-zoom-sound-tips-to-enhance-quality/"><u>[New] Resolve Poor Zoom Sound Tips to Enhance Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-digital-footprints-uncovering-device-ids-in-windows/"><u>Decoding the Digital Footprints: Uncovering Device ID's in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-windows-11s-netstat-capabilities-for-traffic-analysis/"><u>Dissecting Windows 11'S Netstat Capabilities for Traffic Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-firmware-update-for-your-logitech-g203-on-windows-pcs-71011/"><u>Download the Latest Firmware Update for Your Logitech G203 on Windows PCs (7/10/11)</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-absent-windows-updates-on-your-pc/"><u>Fixing Absent Windows Updates on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-glitched-search-how-to-tackle-issues-in-windows-11-settings/"><u>Fixing Glitched Search: How to Tackle Issues in Windows 11 Settings</u></a></li>
+<li><a href="https://fox-where.techidaily.com/get-your-hands-on-mirillis-actions-with-ease-shop-and-secure-licenses-today/"><u>Get Your Hands-On Mirillis Actions with Ease – Shop and Secure Licenses Today!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-mastering-live-streams-logitech-webcam-tips/"><u>In 2024, Mastering Live Streams Logitech Webcam Tips</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-netgear-nighthawk-rax83-unleashing-next-gen-wi-fi-performance-in-a-sleek-design/"><u>In-Depth Analysis of the Netgear Nighthawk RAX8^3 - Unleashing Next-Gen Wi-Fi Performance in a Sleek Design</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/stop-motion-mastery-the-top-5-online-tools/"><u>Stop Motion Mastery The Top 5 Online Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-keygen-virus-in-windows-causes-and-removal-guide/"><u>Understanding Keygen Virus in Windows: Causes and Removal Guide</u></a></li>
+</ul></div>
+

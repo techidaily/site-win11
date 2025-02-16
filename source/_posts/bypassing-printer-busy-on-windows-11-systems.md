@@ -1,7 +1,7 @@
 ---
 title: Bypassing Printer Busy on Windows 11 Systems
-date: 2024-07-29T15:54:08.210Z
-updated: 2024-07-30T15:54:08.210Z
+date: 2025-02-14T03:08:12.092Z
+updated: 2025-02-15T21:07:19.437Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
 
  This error message suggests the printer can’t print because it’s already in use by another computer. However, the error also arises for home users who aren’t sharing their printers with other computers on organization networks. This is how you can fix the “Another computer is using the printer” error on Windows 10 & 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Restart the Printer
 
  Restarting the printer is a simple possible fix that’s worth a try. The printer could be stuck with a preceding request, which applying this solution might resolve. So, power off your printer for a few minutes and then turn it back on to see if that makes a difference.
@@ -39,31 +36,37 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
 5. Then select your printer in Setting to click its **Set as default** button.  
 ![The Set as default button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-as-default.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You might see an alternative WS printer listed in Settings (most typically for Canon models). The WS stands for web services, and that printer shouldn’t be your default one. Make sure your standard printer is set as default.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 3\. Utilize the Print Troubleshooter
 
  Windows has a Printer troubleshooter that’s there to detect and resolve all manner of printing issues. So, that troubleshooter could feasibly offer a solution for the “Another computer is using the printer” error. This [how to run any troubleshooter post](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) explains how you can access that troubleshooter in the Windows 11/10 Settings app.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![The Printer troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/printer-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Make sure the printer’s cable is connected to your PC before running the Printer troubleshooter if it’s a non-wireless one. Then select your printer model within the troubleshooter and apply the potential fixes suggested.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Start or Restart the Print Spooler
 
  Print spooler is a service for handling print jobs. Some users say they’ve been able to fix the “Another computer is using the printer” error by restarting that service. You can apply that resolution by following the step-by-step instructions in our [how-to restart the printer spooler article](https://www.makeuseof.com/windows-restart-print-spooler-service/). If the service isn’t already running, click its **Start** option.
 
 ![The Restart option for the Print Spooler service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-restart-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Clear the Printers Folder
 
@@ -71,19 +74,23 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 1. To open Services, press the **Windows** logo + **R** key combination, type **services.msc** into Run, and select **OK**.
 2. Right-click the **Print spooler** service and select **Stop**.  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Stop option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-stop-option.jpg)
 3. Press the **Windows** \+ **E** keyboard keys to activate the file manager tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Go to this folder path:  
 `C:\Windows\System32\spool\PRINTERS`
 5. Select everything in the Printers folder by pressing **Ctrl** \+ **A**.  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The PRINTERS folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-printers-folder.jpg)
 6. Press the **Del** keyboard button to erase the selected files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Return to the Services app, right-click **Print** **spooler**, and select **Start**.
 
 ## 6\. Disconnect Previous Users
@@ -93,15 +100,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. Right-click any space on the taskbar to select the **Task Manager** shortcut.
 2. Click the **Users** tab.
 3. Right-click a previous user shown on the **Users** tab and select **Disconnect**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![The Disconnect option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-users-tab.jpg)
 4. Repeat the previous step to disconnect all users other than yourself shown within Task Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Update the Printer’s Driver
 
  Antiquated printer drivers can cause lots of printing issues. So, you may need to update your printer’s driver to resolve the “Another computer is using the printer” error if other potential solutions aren’t effective.
@@ -116,11 +117,33 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  This error message suggests the printer can’t print because it’s already in use by another computer. However, the error also arises for home users who aren’t sharing their printers with other computers on organization networks. This is how you can fix the “Another computer is using the printer” error on Windows 10 & 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-upload-a-video-to-instagram-from-a-desktop/"><u>[New] 2024 Approved How to Upload a Video to Instagram From a Desktop</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outubes-golden-rule-for-profit-partnership/"><u>[New] YouTube's Golden Rule for Profit Partnership</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-quick-tips-efficient-file-shifting-to-computer/"><u>[Updated] 2024 Approved Quick Tips Efficient File Shifting to Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-windows-11s-services-a-beginners-guide/"><u>Deciphering Windows 11’S Services: A Beginner's Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-0x8007045d-bsod-on-windows-11-computers/"><u>Eliminating 0X8007045D BSOD on Windows 11 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-this-device-is-not-present-error-code-24-on-various-windows-operating-systems/"><u>How to Troubleshoot 'This Device Is Not Present' Error Code 24 on Various Windows Operating Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-lightroom-classic-learning-hub/"><u>In 2024, Lightroom Classic Learning Hub</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-oppo-reno-8t-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Oppo Reno 8T 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://article-tips.techidaily.com/ingenious-intellectual-engagement-best-general-knowledge-channels-for-2024/"><u>Ingenious Intellectual Engagement Best General Knowledge Channels for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leap-forward-with-xsplits-substitute-software-for-2024/"><u>Leap Forward with Xsplit's Substitute Software for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signature-for-pdf-v13-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Online signature for PDF v1.3 document</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-samsung-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Samsung</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-solve-windows-rdp-errors-on-1111-pro-editions/"><u>Quick Guide to Solve Windows RDP Errors on 11/11 Pro Editions</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-inconsistent-settings-in-your-windows-file-history/"><u>Resolving Inconsistent Settings in Your Windows File History</u></a></li>
+<li><a href="https://win11.techidaily.com/revealing-the-process-disabling-gpu-task-execution-windows/"><u>Revealing the Process: Disabling GPU Task Execution Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-navigation-for-windows-iscsi-initiator-mastery/"><u>Step-by-Step Navigation for Windows iSCSI Initiator Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-rectifying-the-server-disconnect-issue-obs-style/"><u>The Ultimate Guide to Rectifying the Server Disconnect Issue, OBS Style</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-smooth-stress-free-upgrades-in-windows-11/"><u>The Ultimate Guide to Smooth, Stress-Free Upgrades in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-guide-for-lost-ubisoft-game-launcher/"><u>Troubleshooting Guide for Lost Ubisoft Game Launcher</u></a></li>
+</ul></div>
+

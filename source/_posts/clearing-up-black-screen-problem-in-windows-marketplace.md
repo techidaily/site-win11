@@ -1,7 +1,7 @@
 ---
 title: Clearing Up Black Screen Problem in Windows Marketplace
-date: 2024-07-29T15:52:20.482Z
-updated: 2024-07-30T15:52:20.482Z
+date: 2025-02-12T22:43:30.350Z
+updated: 2025-02-16T04:12:35.841Z
 tags:
   - windows10
   - windows11
@@ -22,19 +22,17 @@ thumbnail: https://thmb.techidaily.com/310914a9091489c802247fe59fe85918c611bccb8
 
  But if the store is displaying a white or black screen, you will not be able to get any new apps or movies. However, you can easily get back Microsoft Store functionality by going through the steps below.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Restart the Microsoft Store
 
  Microsoft Store showing a black or white screen might be due to a temporary glitch. In this case, restarting the app should be enough to fix it.
 
  Once you close Microsoft Store, press**Ctrl + Shift + Esc** to bring up Task Manager. Then, open the**Processes** tab. Right-click**Microsoft Store** and select**End task** to close any process that might be running in the background.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clost Microsoft Store tasks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-microsoft-store-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Open Microsoft Store again and check if it’s now working.
 
@@ -45,6 +43,10 @@ Open Microsoft Store again and check if it’s now working.
  There might be nothing wrong with Microsoft Store, but you’re simply having an internet connectivity problem. If you’re[dealing with an unstable WiFi connection](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/) or downloading a large file, Microsoft Store might display a black or white screen.
 
  If possible, access the store from a different device. If everything works as usual, the problem is limited to your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the Microsoft Store Troubleshooter
 
@@ -57,16 +59,14 @@ Open Microsoft Store again and check if it’s now working.
 3. Select**Other trouble-shooters** .
 4. Click the**Run** button next to**Windows Store Apps** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Run Windows app troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/store-troubleshooter-1.jpg)
 
  Windows will search for any issues and fix them automatically. Once the process is complete, try to launch Microsoft Store again.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Delete the Microsoft Store Cache
 
  Like most apps, Microsoft Store uses cache to improve performance. But if the app’s cache somehow gets corrupted, you’ll run into all sorts of issues, including Microsoft Store displaying a black or white background every time you open the app. In this case, deleting the cache should fix the problem.
@@ -85,6 +85,10 @@ Open Microsoft Store again and check if it’s now working.
 
 ![Run SFC scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sfc-scan-1-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Check Your System's Set Time and Region
 
  Microsoft Store servers must be synced with your system, so everything works properly. If your computer’s time and region, Microsoft Store will show a black, white, or even blue screen.
@@ -101,9 +105,6 @@ Go through the below steps to change the Windows region:
 
  Also, you can[manually change Windows date and time settings](https://www.makeuseof.com/windows-11-change-date-time/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Re-register the Microsoft Store
 
  If you couldn’t get Microsoft Store to work using the above solutions, you should re-register the app through PowerShell. The process is quite easy and fast.
@@ -117,23 +118,20 @@ Go through the below steps to change the Windows region:
  If Microsoft Store showing a black or white screen isn’t the only problem you noticed, there might be some deep corruption within your system files. In this case, you could try to[factory reset your Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . This will revert it back to its factory settings, so make sure you back up all essential data.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get the Microsoft Store Working Again
 
  It can be frustrating when you need to install a new app, but Microsoft Store isn’t working. Instead of looking for the same app on not-so-trustworthy websites, you can use the above solutions to fix Microsoft Store.
 
  But if you can’t find a specific app, there are several websites where you can download apps without compromising your system security.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +140,18 @@ Go through the below steps to change the Windows region:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-examining-updates-the-2023-samsung-bd-j5900/"><u>[New] Examining Updates The 2023 Samsung BD-J5900</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-bring-your-camera-life-into-your-instagram-world/"><u>[Updated] Bring Your Camera Life Into Your Instagram World</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/atomi-alpha-electric-scooter-examined-a-blend-of-performance-and-panache/"><u>Atomi Alpha Electric Scooter Examined: A Blend of Performance and Panache</u></a></li>
+<li><a href="https://win11.techidaily.com/command-center-chameleon-blend-in-with-win-1011/"><u>Command Center Chameleon: Blend in with Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/ideal-windows-setups-small-powerful-computers/"><u>Ideal Windows Setups: Small, Powerful Computers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-podcast-submission-googles-steps/"><u>In 2024, Mastering Podcast Submission Google's Steps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-proven-methods-to-excellence-in-srt-file-design/"><u>In 2024, Proven Methods to Excellence in SRT File Design</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-taking-your-virtual-meetings-to-new-heights-with-zoom-filters/"><u>In 2024, Taking Your Virtual Meetings to New Heights with Zoom Filters</u></a></li>
+<li><a href="https://win11.techidaily.com/raising-sound-levels-restoring-bt-speaker-functionality/"><u>Raising Sound Levels: Restoring BT Speaker Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-incorporating-your-own-lock-pattern-on-windows/"><u>Step-by-Step: Incorporating Your Own Lock Pattern on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/m4a-mpeg-4-mp4-movavi/"><u>원탁! 오븐에서 무료로 M4A 변환: 모바니즈 비디오 회사의 반응이 빠르게 MPEG-4 바이너리 형식을 MP4에서 전환하는 방법: Movavi</u></a></li>
+</ul></div>
 

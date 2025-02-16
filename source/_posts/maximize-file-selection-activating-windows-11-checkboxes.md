@@ -1,7 +1,7 @@
 ---
 title: "Maximize File Selection: Activating Windows 11 Checkboxes"
-date: 2025-02-03T09:12:08.799Z
-updated: 2025-02-03T17:54:16.735Z
+date: 2025-02-08T19:08:53.649Z
+updated: 2025-02-15T16:46:54.932Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable Checkboxes Using the Command Bar
 
  The quickest way to enable checkboxes in File Explorer is through the command bar. Here's how:
@@ -36,14 +40,10 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 ![Item check boxes in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/item-check-boxes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it. You might need to restart your computer to see the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enable Checkboxes Using the Folder Option
 
@@ -59,11 +59,7 @@ Here's how to use the Folder Option to enable the checkboxes:
 5. Click**Apply** and then**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable Checkboxes by Editing the Registry
@@ -81,10 +77,14 @@ Here's how to use the Folder Option to enable the checkboxes:
 ![AutoCheckSelect Option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/autocheckselect-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to disable checkboxes, type**0** in AutoCheckSelect Value data and save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enabling Checkboxes in the File Explorer
 
@@ -105,22 +105,14 @@ Here's how to use the Folder Option to enable the checkboxes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-mpc-hc-high-quality-audio-and-video/"><u>[New] 2024 Approved MPC-HC High Quality Audio and Video</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-pixel-perfect-playback-fixing-blurry-videos-on-smartphones/"><u>[New] 2024 Approved Pixel Perfect Playback Fixing Blurry Videos on Smartphones</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-embedding-spotify-content-into-a-youtube-music-list/"><u>[New] Embedding Spotify Content Into a YouTube Music List</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-network-nodes-sites-that-spotlight-youtube-paid-content-for-2024/"><u>[Updated] Network Nodes Sites That Spotlight YouTube Paid Content for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensively-understanding-and-using-system-restore-on-windows/"><u>Comprehensively Understanding and Using System Restore on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/creating-windows-11-virtual-artwork/"><u>Creating Windows 11 Virtual Artwork</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ergodyne-topo-mat-evaluation-the-ultimate-anti-fatigue-standing-pad/"><u>Ergodyne Topo Mat Evaluation: The Ultimate Anti-Fatigue Standing Pad</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-unresponsive-new-mail-notifications/"><u>Fixing Unresponsive New Mail Notifications</u></a></li>
-<li><a href="https://article-files.techidaily.com/flight-controls-and-beyond-the-2023-h501s-review/"><u>Flight Controls and Beyond The 2023 H501S Review</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-desktop-connection-fails-on-win-1011/"><u>How To Fix Desktop Connection Fails on Win 10/11</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-transform-vimeo-footage-into-visual-wonders-easily/"><u>In 2024, Transform Vimeo Footage Into Visual Wonders Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-cell-creation-failure-in-excel-on-pcs/"><u>Resolving Cell Creation Failure in Excel on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/separate-your-onedrive-and-microsoft-account-on-pc/"><u>Separate Your OneDrive & Microsoft Account on PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/still-waiting-for-apple-vision-pro-latest-update-on-inventory-status-and-expected-delivery-delays-digital-gadget-news/"><u>Still Waiting for Apple Vision Pro? Latest Update on Inventory Status and Expected Delivery Delays | Digital Gadget News</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-the-beast-resolving-windows-update-error-0x80070003/"><u>Taming the Beast: Resolving Windows Update Error 0X80070003</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-solutions-fixing-the-frozen-taskbar-on-windows-11/"><u>Top Solutions: Fixing the Frozen Taskbar on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-1011-solving-parseerror-0xc00ce556/"><u>Windows 10/11 - Solving ParseError 0xC00CE556</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-masterful-insights-the-top-6-video-snaggers-on-mac/"><u>[Updated] In 2024, Masterful Insights The Top 6 Video Snaggers on Mac</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-itel-s23-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-tips-for-configuring-a-freshly-bought-echo-dot-into-setup-mode/"><u>Easy Tips for Configuring a Freshly Bought Echo Dot Into Setup Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-file-management-from-docx-to-pdf-in-windows-11/"><u>Enhancing File Management: From DOCX to PDF in Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-8-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 8 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-system-for-zero-paperwork-windows-trash-auto-empty/"><u>Optimize Your System for Zero Paperwork - Windows Trash Auto-Empty</u></a></li>
+<li><a href="https://win11.techidaily.com/practicality-and-style-combined-asus-vivobook-s-15-insight/"><u>Practicality & Style Combined - ASUS Vivobook S 15 Insight</u></a></li>
+<li><a href="https://win11.techidaily.com/remedies-for-no-display-of-startups-in-taskbar/"><u>Remedies for No Display of Startups in Taskbar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-5-reasons-ai-cannt-fulfill-creative-writing-demands/"><u>The 5 Reasons AI Cann't Fulfill Creative Writing Demands</u></a></li>
 </ul></div>
 

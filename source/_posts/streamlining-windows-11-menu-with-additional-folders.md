@@ -1,7 +1,7 @@
 ---
 title: Streamlining Windows 11 Menu with Additional Folders
-date: 2025-02-01T21:57:14.672Z
-updated: 2025-02-04T04:55:44.688Z
+date: 2025-02-14T01:09:05.241Z
+updated: 2025-02-15T20:25:17.779Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Folders to Windows 11’s Context Menu With MyFolders
@@ -40,12 +40,12 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 ![The Setup - MyFolders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/setup-myfolder-option.jpg)
 7. Select**Next** two more times, and then click MyFolders’**Install** option.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-install-option.jpg)
 8. Click the**Yes** ,**restart the computer now radio** button, and select**Finish** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once your PC has restarted:
 
@@ -55,17 +55,21 @@ Once your PC has restarted:
 ![The Add button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-add-button.jpg)
 4. Choose a directory to add to the context menu and select the**OK** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Done** to exit the MyFolders window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Use MyFolders
 
  Check out the new folder shortcut you’ve just added to the context menu. Right-click a space on the desktop background and select**Show more options** . Move the cursor over the**MyFolders** submenu and**Go to** . Then click the folder shortcut you just added to open its directory in Explorer.
 
 ![The MyFolders submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/myfolders-submenu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Alternatively, you can select to open the folder in the Command Prompt. Move the cursor over the**Open command window** option. There you can select to open the same folder with the Command Prompt.
 
@@ -74,10 +78,6 @@ Once your PC has restarted:
 ![The Copy to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-to-option.jpg)
 
  To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add Folders to Windows 11’s Context Menu With Right Click Context Menu Adder
 
@@ -95,10 +95,6 @@ Once your PC has restarted:
 8. Select the**RightClickContextMenuAdder.RAR** in 7-ZIP and click the**Extract** button.  
 ![The Extract button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-rar-archive.jpg)
 9. Click the**ellipsis (…)** button, choose a location for Right Click Context Menu Adder, and select**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extract-window2.jpg)
 10. Press the**OK** button to extract the RAR archive.
@@ -137,7 +133,11 @@ Once your PC has restarted:
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Your Most Important Folders From the Windows 11 Context Menu
@@ -159,22 +159,24 @@ Once your PC has restarted:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-frame-by-frame-the-smartphone-storytellers-path-to-youtubes-thumbnails/"><u>[Updated] Frame by Frame The Smartphone Storyteller's Path to YouTubes Thumbnails</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-harvesting-hours-top-10-friendly-farm-gaming-experiences/"><u>[Updated] Harvesting Hours Top 10 Friendly Farm Gaming Experiences</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-perfecting-presentations-choosing-from-top-10-free-screen-captures-for-mac/"><u>2024 Approved Perfecting Presentations Choosing From Top 10 Free Screen Captures for Mac</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-clear-windows-arp-caches-for-optimal-performance-130-chars-exceeds-limit-adjusted-to-fit-better-optimal-windows-arp-clearing/"><u>Efficiently Clear Windows ARP Caches for Optimal Performance (130 Chars, Exceeds Limit, Adjusted to Fit Better: Optimal Windows ARP Clearing</u></a></li>
-<li><a href="https://win11.techidaily.com/empower-windows-discover-best-apps-of-2023-by-peers/"><u>Empower Windows: Discover Best Apps of 2023 by Peers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-can-you-send-messages-through-messenger-without-owning-a-facebook-account/"><u>How Can You Send Messages Through Messenger Without Owning a Facebook Account?</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-create-an-essential-security-hardware-shortcut/"><u>How to Create an Essential Security Hardware Shortcut</u></a></li>
-<li><a href="https://win11.techidaily.com/improving-workflow-with-swift-android-studio-performance-tweaks/"><u>Improving Workflow with Swift Android Studio Performance Tweaks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-pixiz-guide-to-blending-photography-and-motion/"><u>In 2024, The Pixiz Guide to Blending Photography and Motion</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/insider-look-at-the-value-packed-pruveeeo-f5-high-res-dash-camera-a-steal-for-motorists/"><u>Insider Look at the Value-Packed Pruveeeo F5 High-Res Dash Camera: A Steal for Motorists</u></a></li>
-<li><a href="https://win11.techidaily.com/insight-into-altering-file-deletion-warnings-in-os/"><u>Insight Into Altering File-Deletion Warnings in OS</u></a></li>
-<li><a href="https://win11.techidaily.com/relaunch-techniques-enhancing-file-explorer-experience/"><u>Relaunch Techniques: Enhancing File Explorer Experience</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-to-restore-your-youtube-shorts-thumbnails/"><u>Steps to Restore Your YouTube Shorts' Thumbnails</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-mystery-of-windows-object-info/"><u>Unlock the Mystery of Windows Object Info</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-to-do-applications-for-pc-efficiency/"><u>Winning To-Do Applications for PC Efficiency</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-learn-the-insider-tricks-of-screening-instagram-stories/"><u>[New] 2024 Approved Learn the Insider Tricks of Screening Instagram Stories</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-revitalize-your-tiktok-videos-masterful-techniques-to-alter-backdrops/"><u>[Updated] Revitalize Your TikTok Videos Masterful Techniques to Alter Backdrops</u></a></li>
+<li><a href="https://win11.techidaily.com/dns-flush-strategies-for-windows-11-users/"><u>DNS Flush Strategies for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-dead-pixels-from-windows-steam/"><u>Eliminating Dead Pixels From Windows Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-server-stumble-a-guide-to-fixing-ms-store-in-windows-11-and-11/"><u>Eliminating the Server Stumble: A Guide to Fixing MS Store in Windows 11 and 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/enhancing-your-creative-vision-iphones-new-camera-tools-for-2024/"><u>Enhancing Your Creative Vision IPhone's New Camera Tools for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-missing-sound-in-anthem-for-windows-11-users-a-step-by-step-guide/"><u>Fix Missing Sound in Anthem for Windows 11 Users: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/google-chrome-black-screen-error-step-by-step-solutions-for-a-clear-display/"><u>Google Chrome Black Screen Error - Step-by-Step Solutions for a Clear Display</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-avoid-windows-will-expire-soon-error/"><u>Guidelines to Avoid 'Windows Will Expire Soon' Error</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-toggle-registry-tool-access-in-win11/"><u>How to Toggle Registry Tool Access in Win11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xr-drfone-by-drfone-ios/"><u>How to Unlock iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/ignite-innovation-top-picks-from-microsofts-store-2-infuse-your-living-space-with-a-touch-of-history-while-maintaining-modern-comfort-and-style-lets-embark-24/"><u>Ignite Innovation: Top Picks From Microsoft's Store, 2 Infuse Your Living Space with a Touch of History While Maintaining Modern Comfort and Style? Let's Embark on an Exciting Home Decor Journey Together</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-motorola-g54-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Motorola G54 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-management-of-network-safety-areas-in-windows/"><u>Masterful Management of Network Safety Areas in Windows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-gopro-studio-ultimate-video-edits-step-by-step-for-2024/"><u>Mastering GoPro Studio Ultimate Video Edits Step-by-Step for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-steam-and-windows-11-privilege-problems/"><u>Navigating Through Steam and Windows 11 Privilege Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-silent-gamepad-on-windows-platforms/"><u>Reviving Silent Gamepad on Windows Platforms</u></a></li>
+<li><a href="https://win-forum.techidaily.com/sources-daudio-libres-de-droits-et-gratuites-pour-illustrer-votre-contenu-visuel-en-ligne/"><u>Sources D’Audio Libres De Droits Et Gratuites Pour Illustrer Votre Contenu Visuel en Ligne</u></a></li>
 </ul></div>
 

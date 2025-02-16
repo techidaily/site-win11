@@ -1,7 +1,7 @@
 ---
 title: Breeze Through Windows Resolution Problems Quickly
-date: 2024-07-29T15:54:53.651Z
-updated: 2024-07-30T15:54:53.651Z
+date: 2025-02-09T18:46:19.355Z
+updated: 2025-02-15T18:42:30.754Z
 tags:
   - windows10
   - windows11
@@ -26,24 +26,22 @@ thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa
 
  Press **Win + I** to launch Settings and navigate to **System > Display**. Click on the drop-down menu next to **Display Resolution** and select the recommended option from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![changing resolution from settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/settings-resolution.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Incorrect App-Specific Settings
 
  A third-party app may override the screen resolution you set on Windows and apply a resolution it requires to properly run and display its content. The most common example is games. Games typically have an option to change the resolution within their settings, and that's where you'll be able to control it.
 
  It doesn't require much fixing after you exit the app, though. In most cases, the resolution should revert to what you've set in Windows by default. If it doesn't, just go to Setting and change the resolution as explained in the previous section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 3\. Problems With the Hardware
 
  The resolution issue could also result from hardware issues. There are two components you need to check: the graphics card, and the display cable.
@@ -73,13 +71,14 @@ msdt.exe -id DeviceDiagnostic
 
  Drivers are necessary for your hardware to function properly. If your display driver is corrupt or outdated, it could lead to a problem with your display. Fortunately, it's easy to update the display or graphics driver. Below, we walk you through the steps of both updating and reinstalling drivers in detail.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update Drivers
 
  Press **Win + R**, type **devmgmt.msc**, and press **Enter** to launch Device Management. Expand the category called **Display adapters** by clicking on the tiny arrow to its left. Right-click on the display adapter you want to update and select **Update driver**.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![updating the driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/update-driver.jpg)
 
  You can search for drivers automatically, but there's a good chance Windows won't find anything. The second option will let you install the driver manually.
@@ -89,24 +88,23 @@ msdt.exe -id DeviceDiagnostic
 ![updating the drivers manually](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/update-manual.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Rollback or Reinstall Drivers
 
  In some cases, the updated driver can cause a problem instead of fixing it. If you started encountering the resolution issue after an update, consider rolling back the updated driver. Doing so uninstalls the updated driver and reverts to the previous driver.
 
  You'll first need to check if the option to roll back is available. You can do this by clicking on the relevant device and selecting properties. Switch to the **Driver** tab and select **Roll Back Driver**. If the option isn't grayed out, it's available. Click on it and follow the on-screen prompts to roll back the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![rolling back the driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/roll-back-driver.jpg)
 
  Finally, if updating the driver or rolling it back to a previous version has not worked for you, you can consider reinstalling the driver using the manufacturer's website. Follow the steps in our guide on [cleanly installing and reinstalling GPU drivers on Windows](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) for step-by-step instructions on this.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. An Incorrect Display Adapter Mode
 
  If you've got multiple monitors connected to your PC, and one or more of them seem to have a resolution problem, try checking the Display Mode settings on Windows. If you're duplicating a display on two screens that have different resolutions, one of them will have the wrong resolution.
@@ -117,6 +115,10 @@ msdt.exe -id DeviceDiagnostic
 
 ![changing the display mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/display-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Incorrect Font and Icon Sizes
 
  If you've set the correct resolution, but the text and icons on your screen appear too small, you might consider [tweaking the DPI](https://www.makeuseof.com/how-to-configure-display-scaling-windows-10/) (Dots Per Inch). Usually, this happens on small-sized high-resolution screens, like a 4K screen 15.6-inch.
@@ -125,9 +127,6 @@ msdt.exe -id DeviceDiagnostic
 
  You can change DPI scaling by going to Settings and navigating to **System > Display**. Click on the right arrow next to Custom scaling. On the next screen, you'll see a box where you need to enter a number between 100 and 500\. That's the percentage for DPI scaling you'd like to use.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![changing DPI scaling on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/custom-scaling.jpg)
 
 ## Windows Resolution Issues Resolved
@@ -136,11 +135,29 @@ msdt.exe -id DeviceDiagnostic
 
  Regardless of the reason for your viewing perils, we're going to help troubleshoot the display issue, so you can go back to enjoying high-quality viewing. We'll talk about the problems that can lead to a screen resolution issue and how you can fix them.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-youtube-gaming-pros-choice-of-5-microphones/"><u>[New] 2024 Approved YouTube Gaming Pros' Choice of 5 Microphones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-essential-zooid-creation-samples/"><u>[Updated] 2024 Approved Essential Zooid Creation Samples</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-insiders-guide-to-altering-your-iphone-ringtones/"><u>2024 Approved The Insider's Guide to Altering Your iPhone Ringtones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-why-your-google-pixel-7-pro-needs-a-sturdy-screen-shield/"><u>Comprehensive Guide: Why Your Google Pixel 7 Pro Needs a Sturdy Screen Shield</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/conversione-gratuita-da-mp4-a-asf-online-con-movavi-come-trasformare-i-tuoi-file-video/"><u>Conversione Gratuita Da MP4 a ASF Online Con Movavi - Come Trasformare I Tuoi File Video</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/diving-into-tech-showdown-discovering-how-ipad-pro-stands-against-microsoft-surface-pro/"><u>Diving Into Tech Showdown: Discovering How iPad Pro Stands Against Microsoft Surface Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-hp-pagewide-pro-477dw-drivers-for-windows-download-guide-for-win11-win10-and-win8/"><u>Essential HP PageWide Pro 477DW Drivers for Windows: Download Guide for Win11, Win10 & Win8</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-completely-sever-non-primary-accounts-on-windows/"><u>Guide to Completely Sever Non-Primary Accounts on WIndows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-invent-comical-content/"><u>In 2024, Invent Comical Content</u></a></li>
+<li><a href="https://win11.techidaily.com/master-pointer-customization-for-maximum-comfort-and-control/"><u>Master Pointer Customization for Maximum Comfort and Control</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-window-note-adhesion-in-windows-11-and-10/"><u>Mastering Window Note Adhesion in Windows 11 & 10</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-dism-commands-in-win11-repair/"><u>Navigating DISM Commands in Win11 Repair</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-system-diagnostics-windows-troubleshooter-key-combinations/"><u>Simplifying System Diagnostics: Windows Troubleshooter Key Combinations</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-fixing-hidden-bluetooth-on-device-mgr/"><u>Strategies for Fixing Hidden Bluetooth on Device Mgr</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-silently-vanish-language-line-from-taskbar/"><u>Windows 11: Silently Vanish Language Line From Taskbar</u></a></li>
+</ul></div>
+

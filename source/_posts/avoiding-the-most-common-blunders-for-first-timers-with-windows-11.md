@@ -1,7 +1,7 @@
 ---
 title: Avoiding the Most Common Blunders for First-Timers with Windows 11
-date: 2024-08-08T13:11:14.108Z
-updated: 2024-08-09T13:11:14.108Z
+date: 2025-02-14T02:22:47.206Z
+updated: 2025-02-15T20:05:58.110Z
 tags:
   - windows10
   - windows11
@@ -20,19 +20,8 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
 
  In this article, we are putting together a list of mistakes you should never make in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Avoid Updating Windows 11 Without a Backup
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the Windows backup screen on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-backup.jpg)
 
  Before updating your Windows 11 PC, you should always backup anything important and everything you might need later. This is because there is a chance of data loss when your PC crashes unexpectedly during a Windows update.
@@ -41,31 +30,28 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
 
  We have a guide on [how to create a complete backup in Windows 11](https://www.makeuseof.com/windows-11-create-complete-backup/) .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## 2\. Always Use a Microsoft Account Instead of a Local Account in Windows 11
 
 ![link to sign into windows 11 with a local account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-11-sign-in-local-account.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The benefits of using a Microsoft account to log in to your PC outweigh its disadvantages. One of the biggest advantages is that the Windows 11 activation key is associated with the Microsoft account when you use it on your PC. You can quickly recover the activation code from your Microsoft account if you lose it. Besides, when you use a Microsoft account on your PC, you automatically get access to BitLocker, a software that is designed to protect user data.
 
  You can easily [turn a local Windows account into a Microsoft account](https://www.makeuseof.com/windows-switch-local-account-to-microsoft-account/) to enjoy all the benefits that come with it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. You Should Not Use the Same Password for Your Microsoft and Local Account
 
  You can have two separate accounts to log in to Windows 11: a Microsoft account and a local one. If, for some reason, you need to use a local account, you should choose a password that is different from the one you use in your Microsoft account. By doing so, you can give someone access to your PC by sharing the password of your local account without revealing your Microsoft account credentials.
 
  If you need a separate user account on your PC, you can [create a local account in Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) by following a few simple steps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Prevent Windows 11 From Running Unwanted Apps When You Log In
 
 ![Screenshot showing Startup apps in Taskbar ManagerStartup apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/startup-apps.jpg)
@@ -74,41 +60,29 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
 
  No matter how advanced your PC specifications PC are, you should never allow apps to auto-start in Windows 11\. You can [disable startup programs in Windows 11 in multiple ways](https://www.makeuseof.com/windows-11-disable-startup-programs/) .
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. You Should Not Disable Windows Updates
 
 ![Windows 11 Update setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-update-edit.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are solutions available for permanently disabling Windows updates. It is also possible to [temporarily pause or disable automatic updates on Windows 11](https://www.makeuseof.com/windows-11-stop-automatic-updates/) when you do not want Windows to interrupt something. Once you are done with whatever you've been working on, you should update your Windows 11 PC right away.
 
  You should never think of disabling updates on Windows 11, especially if the PC is connected to the internet. When you disable Windows updates, the PC becomes vulnerable to all kinds of security threats. Another downside is that your Windows 11 PC will be deprived of features or changes introduced in every update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Do Not Ignore Windows 11's Privacy Settings
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot showing Privacy & security in Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/privacy-page-edit.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The**Privacy & security** page in Windows 11 Settings app remains untouched for many people. If you are one of them, it's time for a course correction. Windows 11 collects various types of data, including location, calendar, diagnostics, typing, and more. It does so to give you a more personalized experience.
 
@@ -134,14 +108,11 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
 
  If changing something does more harm than good, you should think twice before tweaking anything in the operating system.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -150,6 +121,23 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-combine-photos-for-captivating-instagram-stories/"><u>[New] 2024 Approved How to Combine Photos for Captivating Instagram Stories</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-unpacking-the-dji-phantom-3-standard-features/"><u>[New] 2024 Approved Unpacking the DJI Phantom 3 Standard Features</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-to-make-a-cool-youtube-video-intro-in-imovie-for-2024/"><u>[Updated] How to Make a Cool YouTube Video Intro in iMovie for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perspective-play-using-edits-to-redefine-images/"><u>2024 Approved Perspective Play Using Edits to Redefine Images</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blur-your-images-soul-the-best-face-pixelation-techniques-for-2024/"><u>Blur Your Image's Soul The Best Face Pixelation Techniques for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boosting-engagement-interactive-features-of-zoom-on-win11-pcs-for-2024/"><u>Boosting Engagement Interactive Features of Zoom on Win11 PCs for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connect-apple-airpods-with-ease-on-your-macbook-air-detailed-instructions-inside/"><u>Connect Apple AirPods with Ease on Your MacBook Air: Detailed Instructions Inside</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-steps-to-enable-gpt-3s-web-features/"><u>Essential Steps to Enable GPT-3's Web Features</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-excess-power-draw-control-your-pcs-cpu-consumption-by-vanguard/"><u>Mastery Over Excess Power Draw: Control Your PC's CPU Consumption by Vanguard</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-device-recognition-hiccups-in-windows-11/"><u>Resolving Device Recognition Hiccups in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-controls-overcoming-mouse-sluggishness-in-bf2/"><u>Swift Controls: Overcoming Mouse Sluggishness in BF2</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-file-is-corrupt-error-code-0x80070570-in-windows-1011/"><u>Troubleshooting 'File Is Corrupt' Error Code: 0X80070570 in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-secrets-using-or-stopping-windows-spotlight-feature/"><u>Unlock Secrets: Using or Stopping Windows Spotlight Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mysteries-of-bluescreenview-application/"><u>Unraveling the Mysteries of BlueScreenView Application</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unseen-reader-fb-moments-watcher/"><u>Unseen Reader FB Moments Watcher</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-stop-frustrated-dragging-start-fixing/"><u>Win11: Stop Frustrated Dragging, Start Fixing</u></a></li>
+</ul></div>
 

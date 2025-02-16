@@ -1,7 +1,7 @@
 ---
 title: Fixing Function Keys Not Adjusting Screen Brighness in Win 11
-date: 2025-02-01T09:06:26.711Z
-updated: 2025-02-04T02:14:52.446Z
+date: 2025-02-12T17:36:38.213Z
+updated: 2025-02-16T04:39:44.979Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart Your Computer
@@ -41,17 +41,9 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
 
  If you don't know exactly how to clean the keyboard, you can see our guide on[how to clean your keyboard and sterilize viruses and bacteria](https://www.makeuseof.com/tag/how-to-clean-keyboard/) . You can also read[a simple trick for cleaning under your keyboard's keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Make Sure the Function Key Is Enabled
 
  The function key may not work if it is disabled on your keyboard. To make sure it is enabled, press the**Fn + Esc** keys simultaneously. Doing this will toggle the function lock on and off. If it was disabled, enabling it should help fix the brightness key not working issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run the Hardware and Devices Troubleshooter
 
@@ -60,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
 1. Open the Command Prompt window with admin access. If you need help, see our guide on[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
 2. Once you're in the Command Prompt window, type and execute the command below:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `msdt.exe -id DeviceDiagnostic`
 
@@ -75,11 +71,11 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
 4. Scroll down to locate the Keyboard and then click**Run** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you complete the above steps, try using the brightness function key again to see if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Update the Keyboard Driver
 
@@ -104,11 +100,11 @@ To update the keyboard driver, follow these steps:
 ![Uninstall device in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-device-in-device-manager.jpg)
 3. Click**Uninstall** again to confirm and follow the on-screen instructions.
 
- After performing the above steps, restart your computer to reinstall the drivers. Once you power up again, check if the function key works now.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After performing the above steps, restart your computer to reinstall the drivers. Once you power up again, check if the function key works now.
 
 ## 7\. Turn Off the Filter Keys
 
@@ -124,10 +120,14 @@ To update the keyboard driver, follow these steps:
 5. Click**Apply** and then**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now check if your keyboard is working properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Scan for Malicious Programs
 
@@ -164,14 +164,18 @@ Now check if your keyboard is working properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-get-started-on-creativity-top-10-apps-for-digital-pencils-on-chrome-os/"><u>[New] Get Started on Creativity Top 10 Apps for Digital Pencils on Chrome OS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-expressive-leadership-examination-refined-no-8/"><u>[Updated] 2024 Approved Expressive Leadership Examination - Refined No. 8</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamlined-creativity-the-most-popular-8-mobile-apps-for-edits/"><u>[Updated] Streamlined Creativity The Most Popular 8 Mobile Apps for Edits</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-update-failure-error-code-0x80242016/"><u>Fixing Windows Update Failure: Error Code 0X80242016</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-speech-recognition-not-starting-error/"><u>How to Fix the Windows Speech Recognition Not Starting Error</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-infinix-note-30-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Infinix Note 30 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/installation-procedures-for-powertoys-in-win11/"><u>Installation Procedures for PowerToys in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-roblox-errors-demanding-shutdown/"><u>Resolving Windows Roblox Errors Demanding Shutdown</u></a></li>
-<li><a href="https://win11.techidaily.com/top-priority-notes-techniques-for-enhanced-productivity-in-windows/"><u>Top Priority Notes Techniques for Enhanced Productivity in Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-most-admired-iphone-based-podcast-platforms/"><u>[Updated] 2024 Approved Most Admired iPhone-Based Podcast Platforms</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-iphones-high-dynamic-range-photography-demystified/"><u>[Updated] IPhone's High-Dynamic Range Photography Demystified</u></a></li>
+<li><a href="https://win11.techidaily.com/conveniently-connecting-to-the-clouds-dropboxgoogle-drive-on-your-system-writes/"><u>Conveniently Connecting to the Clouds: Dropbox/Google Drive on Your System' Writes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/exclusive-access-8-top-fb-link-extractors-for-2024/"><u>Exclusive Access 8 Top FB Link Extractors for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-non-functional-window-previews/"><u>Fixing Non-Functional Window Previews</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-infinix-hot-30-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Infinix Hot 30 5G</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unleash-creative-expression-with-these-7-royalty-free-tunes/"><u>In 2024, Unleash Creative Expression with These 7 Royalty-Free Tunes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastering-money-making-top-13-strategies-for-novice-reddit-users-for-2024/"><u>Mastering Money-Making Top 13 Strategies for Novice Reddit Users for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-unlock-eye-catching-animations-top-10-text-generator-tools/"><u>New 2024 Approved Unlock Eye-Catching Animations Top 10 Text Generator Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionizing-digital-sketching-a-complete-guide-to-the-huion-kamvas-gt-191-tablet/"><u>Revolutionizing Digital Sketching: A Complete Guide to the Huion Kamvas GT-191 Tablet</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-version-control-github-desktop-for-windows-11-users/"><u>Tackling Version Control: GitHub Desktop for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/the-leap-from-8gb-to-16gb-why-it-matters-for-win-pcs/"><u>The Leap From 8GB to 16GB: Why It Matters for Win PCs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-5-minute-timelapse-video-maker/"><u>Ultimate 5-Minute Timelapse Video Maker</u></a></li>
 </ul></div>
 

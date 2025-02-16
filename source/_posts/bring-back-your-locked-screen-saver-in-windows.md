@@ -1,7 +1,7 @@
 ---
 title: Bring Back Your Locked Screen Saver in Windows
-date: 2024-07-29T15:53:40.199Z
-updated: 2024-07-30T15:53:40.199Z
+date: 2025-02-14T21:21:12.519Z
+updated: 2025-02-15T18:12:01.609Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 
 ![Clicking the Enable screen saver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-enable-screen-saver-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check the **Enabled** box on the next screen. From there, click **Apply** and then click **OK**.
 
  But then how would enabling the “screen saver” option resolve the “grayed out screen saver settings” error?
@@ -46,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 1. Open the **LGPE** and navigate to the **Personalization** folder as per the previous steps.
 2. Double-click on the **Force specific screen saver** option on the right-hand side.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clicking the Force specific screen saver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-force-specific-screen-saver-option.jpg)
 
  Check the **Disabled** box, click **Apply**, and then click **OK**.
@@ -58,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
  When the “Force specific screen saver” option is enabled, the drop-down list of screen savers in the "Windows Screen Saver" dialog will be grayed out. This means you won’t be able to change your screen saver, but you may still be able to configure other related settings
 
  So, by disabling the “Force specific screen saver” feature, the "screen saver" drop-down menu in the Screen Saver Settings window won't be grayed out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use the Registry Editor
 
@@ -75,9 +80,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
  Next, click the **Control Panel** key (folder) from the options within the "Windows" key.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![Clicking the Control Panel key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-control-panel-key.jpg)
 
  If the "Control Panel" key is missing, here’s how you can create it:
@@ -98,11 +100,12 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
  To enable the “ScreenSaveActive” option in the Registry Editor, double-click on this option and then set the "Value data" as **1**. From there, press **OK** and then restart your device to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Change the Power Settings
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
 
  You might not be aware of this, but configuring the power settings usually has an effect on the other system settings.
@@ -112,8 +115,9 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
  Now, let's check out how to configure a few power settings to tackle the “grayed out screen saver settings” issue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Change the Power Settings Via the Screen Saver Settings Window
 
  Did you know that you can tweak the power settings directly from the Screen Saver Settings window? Here are the steps you need to follow:
@@ -122,9 +126,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 2. Scroll down to the **Power management** section.
 3. Click the **Change power settings** option.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Clicking the Change power settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-change-power-settings-option.jpg)
 
  Select the **Change plan settings** option on the "Power Options" screen. This will display the "Edit Plan Settings" screen.
@@ -145,10 +146,11 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
  Expand the contents in the "Display" section and select **Never** for both the "On battery" and "Plugged in" options.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![Selecting the Display option in the Power Options screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/selecting-the-display-option-in-the-power-options-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, expand the "Desktop background settings" option and select **Never** for all the options in this section. Finally, click **Apply** and then click **OK** to save these changes.
 
@@ -156,20 +158,8 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
  Simply navigate to the "Power Options" screen as per the previous steps and then click the **Restore plan defaults** button. Finally, click **Apply** and then click **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![Clicking the Restore plan defaults button in the Power Options screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-restore-plan-defaults-button-in-the-power-options-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Change the Power Settings via the Control Panel
 
  In some rare instances, you might not be able to access the power settings via the Screen Saver Settings window. So, this means you’d have to configure the power settings directly via the Control Panel.
@@ -186,11 +176,16 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
  From there, you can edit all the necessary power settings using the tips we covered in the previous section.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Get Rid of System Corruption or Update Your PC
 
 ![Computer antivirus illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Computer-antivirus-illustration.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Still struggling to resolve the "grayed out screen saver settings" issue? If so, then maybe the error is caused by corrupted system files. In this case, you can [repair corrupt Windows files with built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) like DISM and SFC.
 
@@ -204,11 +199,33 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
  Fortunately, we’ve got all the solutions you need. So, let’s dive in and check out the four ways to resolve this issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-compelling-spotify-campaigns-a-practical-guide/"><u>2024 Approved Crafting Compelling Spotify Campaigns A Practical Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-video-partition-prowess-ultimate-recorder-ranking/"><u>2024 Approved Video Partition Prowess Ultimate Recorder Ranking</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-the-perfect-ringtone-for-your-ios-device/"><u>Crafting the Perfect Ringtone for Your iOS Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-fundamentals-of-av1-encoding-for-2024/"><u>Exploring the Fundamentals of AV1 Encoding for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/freeze-the-frame-overcoming-shake-phenomena-for-2024/"><u>Freeze the Frame Overcoming Shake Phenomena for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-repairing-windows-11s-erroneous-camera-app/"><u>Guide to Repairing Windows 11'S Erroneous Camera App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-heartfelt-cinematic-experiences-for-hopeful-hearts/"><u>In 2024, Heartfelt Cinematic Experiences for Hopeful Hearts</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstarting-your-pc-with-offline-win11-setup/"><u>Jumpstarting Your PC with Offline Win11 Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-mouse-top-10-ways-for-win11-users/"><u>Master Your Mouse: Top 10 Ways for Win11 Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-13-ultra-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi 13 Ultra Device</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-ed-themed-windows-11/"><u>Mastering Ed-Themed Windows 11</u></a></li>
+<li><a href="https://win-hot.techidaily.com/partitionierung-von-musikdateien-von-einem-iphone-zum-anderen-mit-hilfe-von-itunes-erklart/"><u>Partitionierung Von Musikdateien Von Einem iPhone Zum Anderen Mit Hilfe Von iTunes Erklärt</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-systems-five-key-approaches-to-reinstate-defender-safeguard/"><u>Securing Systems: Five Key Approaches to Reinstate Defender Safeguard</u></a></li>
+<li><a href="https://win11.techidaily.com/synopsis-shortcut-strategies-for-win11-narrator/"><u>Synopsis: Shortcut Strategies for Win11 Narrator</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-maintain-program-order-in-taskbar-list/"><u>Tips to Maintain Program Order in TaskBar List</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/top-editors-for-action-cam-footage-for-2024/"><u>Top Editors for Action Cam Footage for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unexpected-rav-virus-on-pc-trace-and-eliminate-steps/"><u>Unexpected Rav Virus on PC: Trace and Eliminate Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/unseen-potentials-windows-reliability-and-performance-metrics/"><u>Unseen Potentials: Windows' Reliability & Performance Metrics</u></a></li>
+</ul></div>
+

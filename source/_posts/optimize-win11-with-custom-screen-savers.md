@@ -1,7 +1,7 @@
 ---
 title: Optimize Win11 with Custom Screen Savers
-date: 2025-01-28T03:02:35.189Z
-updated: 2025-02-04T02:49:02.738Z
+date: 2025-02-10T17:42:21.783Z
+updated: 2025-02-16T02:20:32.236Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Customize Windows 11 3D Text and Photos Screensavers with Screen Saver Settings
 
  The Screen Saver Settings window is where you can set your screensaver. It also has a Settings button that'll let you customize them. However, 3D Text and Photos are the only default screensavers for which Windows 11 has some built-in settings.
@@ -42,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 5. Select the**3D Text** or**Photos** screensaver on the menu.  
 ![The Screen Saver Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screen-saver-settings.jpg)
 6. After selecting one of those two screensavers, you can customize it by pressing the**Settings** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Click**Apply** to set your chosen screensaver.
 
@@ -61,16 +53,12 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 
 ![The 3D text screensaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-text-screensaver.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you choose the Photos screensaver, clicking its**Settings** button will open a window from which you can change the slideshow's folder and speed. Press the**Browse** button on that window to select a different image folder. Choose a**Fast** ,**Medium** , or**Slow** option on the**Slideshow** **speed** drop-down. Then click**Save** to apply the settings.
 
 ![The Photos screen saver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photos-screensaver-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Wait time** and**On resume** are the only options you can change for the Photos and 3D Text screensavers outside the settings windows. Adjust the**Wait time** value to set a longer or shorter idle activation time for the screensaver. If you prefer to return to a log-in screen after resuming, select the**On resume** option.
@@ -85,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 4. Extract the**System\_Screensavers\_Tweaker.zip** file as instructed within our[how-to unzip files](https://www.makeuseof.com/unzip-files-windows-10/) guide.  
 ![The Extract Compressed Folders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/extract-compressed-window.jpg)
 5. Next, open the extracted screensavertweaker folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Click the Windows 8 and x64 subfolders.
 7. Then double-click**ScreensaversTweaker.exe** to open the Windows Screensavers Tweaker software.
@@ -101,11 +93,19 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 
 ![The Ribbons screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/ribbons-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The ribbons blur and fade in the screensaver by default. However, you can change that by deselecting the**Apply Blur and Fade** checkbox. Then ribbons will fill up the screen without fading away.
 
  To customize Mystify, select that screensaver's tab. You can increase or reduce the number of lines Mystify has by dragging the slider on the**Number of Lines** bar. Drag the**Lines Width** bar's slider to set broader or narrower lines.
 
 ![The Mystify screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mystify-screensaver-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Mystify, Bubbles, and Ribbons tabs all include**Span Multiple Monitor** checkboxes. That setting is enabled by default so that the screensaver extends across multiple monitors. Deselecting that checkbox will display a set screensaver separately on multiple monitors.
 
@@ -114,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Customize Windows 11's Screensavers for Better Effect
@@ -136,22 +136,20 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-amazon-prime-fan-favorites-highest-likes-and-view-counts/"><u>[New] 2024 Approved Amazon Prime Fan Favorites Highest Likes & View Counts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-video-presence-with-stellar-intros-in-imovie/"><u>[Updated] In 2024, Elevate Your Video Presence with Stellar Intros in iMovie</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-class-video-production-smooth-editing-skills-for-2024/"><u>[Updated] In-Class Video Production Smooth Editing Skills for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/co-pilot-revolutionizing-chatgpt-features-and-capabilities-explored/"><u>Co-Pilot Revolutionizing ChatGPT: Features and Capabilities Explored</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-accuracy-and-efficiency-of-windowed-discord-search/"><u>Enhancing Accuracy and Efficiency of Windowed Discord Search</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-unblock-error-0x80070091-empty-folder-issue-on-windows-11-and-11/"><u>How to Unblock Error #0X80070091 Empty Folder Issue on Windows 11 & 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-smooth-video-flow-from-your-photobooth-app/"><u>In 2024, Unlock Smooth Video Flow From Your Photobooth App</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1726027162990-iphoneandroid/"><u>IPhoneやAndroidでダウンロード曲をメッセージ通知音として設定するコツ</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-the-investment-in-apple-vision-pro-paying-off/"><u>Is the Investment in Apple Vision Pro Paying Off?</u></a></li>
-<li><a href="https://win11.techidaily.com/launching-microsoft-works-in-windows-11-instructions/"><u>Launching Microsoft Works in Windows 11: Instructions</u></a></li>
-<li><a href="https://win11.techidaily.com/reboot-for-richness-regain-windows-11s-vanished-enhancement-options/"><u>Reboot for Richness: Regain Windows 11'S Vanished Enhancement Options</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-error-code-0xc00ce556-a-guide/"><u>Resolving Windows' Error Code 0xC00CE556: A Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-your-pc-disableremove-ms-edge-w11/"><u>Simplify Your PC: Disable/Remove MS Edge W11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-itel-p40-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Itel P40 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-search-game-with-these-critical-windows-11-tricks/"><u>Transform Your Search Game with These Critical Windows 11 Tricks</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/ultimate-iphone-video-editor-comparison-cameo-or-filmorago/"><u>Ultimate iPhone Video Editor Comparison Cameo or FilmoraGo</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-wizardry-for-the-webs-storage-effortless-access-to-cloud-drives/"><u>Windows Wizardry for the Web's Storage: Effortless Access to Cloud Drives</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-chrome-video-errors-a-step-by-step-fix-guide/"><u>[New] In 2024, Chrome Video Errors A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-dual-angles-debate-vertical-vs-horizontal-fb-videos/"><u>[Updated] 2024 Approved Dual Angles Debate Vertical vs Horizontal FB Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-fastest-rising-youtube-stars-for-personal-growth-and-motivation-for-2024/"><u>[Updated] The Fastest Rising YouTube Stars for Personal Growth and Motivation for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/digital-game-highlights-6-pc-snapshot-strategies/"><u>Digital Game Highlights 6 PC Snapshot Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/dxgidll-gone-regain-it-on-windows-11-heres-why/"><u>Dxgi.dll Gone? Regain It on Windows 11, Here's Why</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-error-code-80080300-with-microsoft-teams-on-win11/"><u>Fixing Error Code 80080300 with Microsoft Teams on Win11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/malwarefox-the-ultimate-protection-against-ransomware-attacks/"><u>MalwareFox: The Ultimate Protection Against Ransomware Attacks</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-repair-fixing-windows-office-system-hiccups/"><u>Mastering Repair: Fixing Windows Office System Hiccups</u></a></li>
+<li><a href="https://win11.techidaily.com/method-for-solving-xc0f1103f-issue-on-windows-geforce/"><u>Method for Solving XC0F1103F Issue on Windows, GeForce</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-wows-critical-failure-code-132/"><u>Quick Fixes for WoW’s Critical Failure Code #132</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-non-loading-steamuidll-on-windows/"><u>Remedy for Non-Loading SteamUI.DLL on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/scripting-a-robust-python-server-for-effective-filesharing-in-windows/"><u>Scripting a Robust Python Server for Effective Filesharing in Windows</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/selection-mastery-making-every-frame-count-on-youtube/"><u>Shot Selection Mastery Making Every Frame Count on YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Lava Storm 5G | Dr.fone</u></a></li>
 </ul></div>
 

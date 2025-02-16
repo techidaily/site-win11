@@ -1,7 +1,7 @@
 ---
 title: Combat Strategy for Fixing Update Errors in Windows (0xC1900101)
-date: 2024-07-29T15:52:29.707Z
-updated: 2024-07-30T15:52:29.707Z
+date: 2025-02-10T22:21:20.816Z
+updated: 2025-02-15T23:05:08.644Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/8f5cadb41c029899508ca6efd6723f50f45c76c59
 
  Head over to our guide on[different methods of freeing up storage space in Windows](https://www.makeuseof.com/windows-11-free-up-storage-space/) for more information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Uninstall Your Antivirus
 
  If you are using a third-party antivirus program on your computer, it may be blocking the system’s process of installing updates. The solution in this case is simple, as all that you need to do is disable or uninstall the security program temporarily.
@@ -50,41 +54,38 @@ Here is how you can do that:
 
 1. Right-click on the**antivirus program icon** in the taskbar.
 2. Choose**Shields control** \>**Disable until the computer is restarted** .  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
  If you are not using a third-party security program, you can try[disabling Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) as well. However, we highly recommend that you enable it back after installing the update. Keeping it disabled for a long time can expose your system to risks and potential threats.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Rule Out Corruption Issues
 
  The next thing that we recommend doing is scanning the system for corruption issues using the built-in troubleshooting utilities in Windows.
 
  To fix this, we will be using the Windows update troubleshooter, System File Checker, and DISM to find potential issues. Additionally, these utilities will resolve most of the problems they find on their own.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.1 Use the Windows Update Troubleshooter
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run the Windows Update troubleshooter](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can run the Windows Update troubleshooter via Windows Settings. Instructions on how to run the troubleshooter can be found in our guide on[how to fix Windows Update getting stuck](https://www.makeuseof.com/tag/windows-update-stuck/) .
 
  Once the troubleshooter has finished scanning, check if any issues are identified. If so, the troubleshooter will recommend fixes that can resolve the issue. Click on**Apply this fix** to proceed. In case the utility fails to identify the issues, click on Close the troubleshooter and move to the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3.2 Run SFC and DISM Scans
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![SFC and DISM Scan](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/SFC-and-DISM-Scan.jpg)
 
  The next thing that you should do is run the SFC and DISM scans via Command Prompt. Check out[the difference between CHKDSK, SFC, and DISM scans](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) for more information and instructions for these tools.
@@ -103,11 +104,12 @@ Here is how you can do that:
 
 ![Update the relevant driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/keyboard-update-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don't see any exclamation marks, or you don't think Windows managed to do a good enough job, check out[the best free driver updaters for Windows](https://www.makeuseof.com/windows-best-free-driver-updaters/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## 5\. Update Your BIOS
 
  Finally, the issue can also be caused due to a bug or corruption issues within the BIOS. Fortunately, you can resolve most of these issues by updating the BIOS to the latest available version.
@@ -126,8 +128,6 @@ Here is how you can do that:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,17 @@ Here is how you can do that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-speech-recognition-and-use-it-free/"><u>[Updated] Speech Recognition and Use It Free</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-fixing-disk-read-errors/"><u>Comprehensive Guide: Fixing 'Disk Read' Errors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-selecting-5-online-title-makers/"><u>In 2024, The Ultimate Guide to Selecting 5 Online Title Makers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-live-game-networks-unveiled/"><u>Leading Live Game Networks Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/lost-in-the-web-seven-win-friendly-fixes-for-non-opening-sites/"><u>Lost in the Web? Seven Win-Friendly Fixes for Non-Opening Sites</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-deskanywhere-stability-in-win11/"><u>Mastering DeskAnywhere Stability in Win11</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-fps-gaming-solving-valorants-pc-input-delay-problem-insights-and-solutions/"><u>Mastering FPS Gaming: Solving Valorant's PC Input Delay Problem - Insights & Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-poms-an-insiders-guide-to-top-8-windows-timer-tools/"><u>Mastering Poms: An Insider's Guide to Top 8 Windows Timer Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/personal-vocalization-changing-your-tone-for-stories-and-reels-for-2024/"><u>Personal Vocalization Changing Your Tone for Stories & Reels for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshoot-free-guide-transforming-dvds-into-high-quality-mov-files/"><u>Troubleshoot-Free Guide: Transforming DVDs Into High-Quality MOV Files</u></a></li>
+</ul></div>
 

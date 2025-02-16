@@ -1,7 +1,7 @@
 ---
 title: Guide to Resolve Windows Defender's 0X80004004 Issue
-date: 2025-01-28T05:15:05.725Z
-updated: 2025-02-04T04:37:10.622Z
+date: 2025-02-08T22:06:40.533Z
+updated: 2025-02-15T22:30:28.448Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/d04592384de68d589b01721c4dc554252c1ab00ca
 * The real-time protection feature which monitors the files and processes to protect your system might fail to function.  
 ![The Real-time protection option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-real-time-protection-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There can be a number of reasons why this error might be occurring on your system. Here are some of the most common ones:
 
 * **Interference from other antivirus software** \- if you have installed another third-party security program on the system, it might be interfering with the processes of Microsoft Defender, leading to the problem.
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/d04592384de68d589b01721c4dc554252c1ab00ca
  Regardless of what might be causing the problem in your case, the solutions we have discussed below are sure to help you fix the problem. Proceed with them one by one to fix the problem once and for all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart the Microsoft Defender Services
@@ -61,14 +65,14 @@ Here is how you can do that:
 ![Access Defender properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-defender-properties.jpg)
 5. Now, click on the**Start** button if the service is stopped. If it is functional, click on the**Stop** button, wait for a few seconds, and click**Start** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Make sure the Startup type is set to**Automatic** .
 7. Click**Apply** \>**OK** to save the changes.
 
  Perform the same steps for the Microsoft Defender Firewall service and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Uninstall Conflicting Software
 
@@ -81,7 +85,7 @@ Here is how you can do that:
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Try Some Generic Windows-Based Fixes
@@ -92,10 +96,6 @@ Here is how you can do that:
 
  If you are encountering the error code while trying to update Microsoft Defender, then you can[run the Windows Update troubleshooter](https://www.makeuseof.com/fix-windows-update-error-0x800f080a/) to identify the culprit and fix the issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Install the Update Manually
 
 ![manual updates for defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/manual-update-defender-1.jpg)
@@ -104,15 +104,15 @@ Here is how you can do that:
 
  However, please note that while using this workaround may allow you to install updates, it may not address the root cause of the issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Change Your Antivirus Program
 
  If you have come this far without a viable solution and are still struggling to use Microsoft Defender, we recommend reporting the issue to Microsoft’s official support team. Till they offer a fix, you can consider switching to another security service to protect your system from vulnerabilities and malware.
 
  Our guide on[the best antivirus programs for Windows](https://www.makeuseof.com/tag/best-antivirus-for-windows-10/) should help you make an informed decision in this regard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Microsoft Defender Error 0x80004004, Resolved
 
@@ -133,20 +133,16 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-yuneec-typhoon-h-expert-drone-review/"><u>[New] Exploring the Yuneec Typhoon H Expert Drone Review</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-best-virtual-background-for-google-meet/"><u>[Updated] Best Virtual Background for Google Meet</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-experience-realities-unveiled-vr-tour-essentials/"><u>[Updated] In 2024, Experience Realities Unveiled VR Tour Essentials</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-project-pics-blend-outside-focus-with-radial-filters-psx/"><u>[Updated] Project Pics Blend Outside Focus with Radial Filters PSX</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-unraveling-the-apple-podcast-app-submission-system/"><u>2024 Approved Unraveling the Apple Podcast App Submission System</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/discover-the-best-data-rescue-solutions-for-iphones-featuring-ios-17-enhanced-options/"><u>Discover the Best Data Rescue Solutions for iPhones – Featuring iOS 17 Enhanced Options</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-delete-account-details-efficiently-post-login/"><u>How to Delete Account Details Efficiently Post-Login</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-find-wi-fi-password-in-windows-11/"><u>How to Find Wi-Fi Password in Windows 11</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-transform-your-channels-views-with-strategic-insights/"><u>In 2024, Transform Your Channels Views with Strategic Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-1011-app-resetting-guide/"><u>Mastering Windows 10/11: App Resetting Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-and-solving-operation-0x0000011b-in-windows-11/"><u>Preventing and Solving Operation 0X0000011B in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/procedures-for-initiating-system-restore-in-windows-11-os/"><u>Procedures for Initiating System Restore in Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/programmable-shortcuts-to-boost-windows-use/"><u>Programmable Shortcuts to Boost Windows Use</u></a></li>
-<li><a href="https://win11.techidaily.com/stepwise-unveiling-of-the-os-preferences/"><u>Stepwise Unveiling of the OS Preferences</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-superior-4ks/"><u>The Ultimate Guide to Superior 4Ks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-ignite-audience-interest-with-effective-strategies-in-video-outros/"><u>[New] Ignite Audience Interest with Effective Strategies in Video Outros</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-youtubes-prime-stream-essential-tech-equipment-guide-for-creators/"><u>[New] In 2024, YouTube's Prime Stream Essential Tech, Equipment Guide for Creators</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-content-for-insta-clout-a-9-step-playbook-for-fame/"><u>[Updated] Crafting Content for Insta Clout A 9-Step Playbook for Fame</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-netflixs-split-screen-functionality/"><u>[Updated] Mastering Netflix's Split Screen Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-endless-game-worlds-win-11-and-android-with-google-play-gateway/"><u>Discover Endless Game Worlds: Win 11 & Android with Google Play Gateway</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-clutter-automatic-deletion-features-on-windows-11-pcs/"><u>Eliminate Clutter: Automatic Deletion Features on Windows 11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tweaks-to-stop-windows-settings-glitches/"><u>Essential Tweaks to Stop Windows Settings Glitches</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/innovative-artistry-with-matthew-palmer-at-the-helm-of-digiarty-software/"><u>Innovative Artistry with Matthew Palmer at the Helm of Digiarty Software</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstart-your-slow-running-excel-on-a-windows-pc/"><u>Jumpstart Your Slow Running Excel on a Windows PC</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-discover-the-best-10-animated-text-software-for-stunning-visuals-for-2024/"><u>Updated Discover the Best 10 Animated Text Software for Stunning Visuals for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/vanishing-variables-discreet-windows-controls/"><u>Vanishing Variables: Discreet Windows Controls</u></a></li>
 </ul></div>
 

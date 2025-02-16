@@ -1,7 +1,7 @@
 ---
 title: Bypass Screen Locks for Uninterrupted Presentations
-date: 2024-07-29T15:54:09.055Z
-updated: 2024-07-30T15:54:09.055Z
+date: 2025-02-13T17:07:00.776Z
+updated: 2025-02-15T17:41:34.291Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
  Windows requires a PIN when projecting your computer onto another screen, such as a projector or a second monitor. Doing so prevents others from accessing your private information or projecting their content onto your computer.
 
  However, if you’re the only person using your computer, you may find this extra security measure unnecessary. Let’s explore how to disable the "require PIN for pairing" setting when projecting to your PC in Windows 11\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Using Windows Settings
 
@@ -40,17 +44,19 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 
  To enable this feature, click on the **Optional features** link. You can also navigate to **Settings** \> **Apps** \> **Optional features** to access the same page. Doing so will open the optional features window.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Add the Wireless Display optional feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-the-wireless-display-optional-feature.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click the **Add an optional feature** button and search for **Wireless Display**. You should see the Wireless Display feature listed in the search results. Check the box next to it and click **Next** \> **Install**.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![Add an optional feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-an-optional-feature.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the feature is installed, return to the Projecting to this PC section in Settings. You should now see the “require a PIN for pairing” setting. Choose the **Never** option and close the window.
 
@@ -67,10 +73,19 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 4. On the right side of the window, look for **Require pin for pairing** and double-click on it. Doing so will open the policy settings page.  
 ![Disable the Require pin for pairing policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-the-require-pin-for-pairing-policy.jpg)
 5. Select the **Enabled** radio button and select **Never** from the drop-down menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Never Require Pin For Pairing in GPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/never-require-pin-for-pairing-in-gpe.jpg)
 6. Click **Apply** \> **OK** to save the changes.
 
  After that, exit out of the window. When projecting your computer onto another screen, you won’t need a PIN anymore.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Using the Registry Editor
 
@@ -87,9 +102,6 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 6. Now, right-click on Connect and select **New** \> **DWORD (32-bit) Value**.
 7. Name the value **RequirePinForPairing** and press **Enter**. Doing so will create a new DWORD in the registry.
 8. Double-click on this newly created value to open its Properties window.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Tweak Registry to Disable Require PIN for Pairing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/tweak-registry-to-disable-require-pin-for-pairing.jpg)
 9. Set the **Value data** to **0** and click **OK** to save the changes.
 
@@ -97,9 +109,6 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 
  To turn the feature back on, follow the same steps but set the **Value data** to **1**. This will enable the required PIN for pairing settings when projecting to a Windows 11 PC​​​​​.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Using a REG File
 
  The fourth and final option is to use a REG file. This method is for those who have little or no experience with the Registry Editor. The REG file contains instructions that edit the Windows registry on your behalf. If you'd rather use this method, here’s what you need to do:
@@ -114,9 +123,6 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 4. Click **File** and select **Save as** from the menu.
 5. In the Save As window, click the **Save as type** drop-down menu and select **All files**.
 6. Name the file **DisableRequirePin.reg** and select **Desktop** from the left sidebar.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable the Required PIN for Pairing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-the-required-pin-for-pairing.jpg)
 7. Now click **Save** and exit Notepad. You'll find the REG file on your desktop.
 8. Double-click on it and select **Yes** when prompted. This will edit the registry on your behalf.
@@ -134,16 +140,11 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 
  After that, restart your computer and the setting will be enabled. You'll now need to enter a PIN each time you project the PC onto another screen.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Project to a Windows 11 PC Without Requiring a PIN
 
  Projecting your PC onto another display is a useful feature that allows you to mirror or extend your computer screen. Now you know how to do so without needing to enter your PIN every time.
 
  However, if you’re the only person using your computer, you may find this extra security measure unnecessary. Let’s explore how to disable the "require PIN for pairing" setting when projecting to your PC in Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -151,3 +152,18 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/a-critical-look-at-irecorders-screenshot-tech/"><u>A Critical Look at iRecorder's Screenshot Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/captivating-your-audience-writing-podcast-intros/"><u>Captivating Your Audience Writing Podcast Intros</u></a></li>
+<li><a href="https://win11.techidaily.com/expedite-pc-wake-up-modifying-boot-menu-delay/"><u>Expedite PC Wake-Up: Modifying Boot Menu Delay</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/from-parts-to-project-designing-your-own-4k-pc-workstation-for-2024/"><u>From Parts to Project Designing Your Own 4K PC Workstation for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-maximize-watch-time-minimize-leaving-6-key-tactics-to-retain-more-audience/"><u>In 2024, Maximize Watch Time, Minimize Leaving 6 Key Tactics to Retain More Audience</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-wow-crash-132-a-guide-for-users/"><u>Preventing WoW Crash #132: A Guide for Users</u></a></li>
+<li><a href="https://win11.techidaily.com/step-into-the-big-picture-resizing-w11-ui-elements/"><u>Step Into the Big Picture: Resizing W11 UI Elements</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-controlling-unintentional-hotkeys/"><u>Techniques for Controlling Unintentional Hotkeys</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-essential-guide-to-crafting-engaging-haul-videos/"><u>The Essential Guide to Crafting Engaging Haul Videos</u></a></li>
+</ul></div>
+

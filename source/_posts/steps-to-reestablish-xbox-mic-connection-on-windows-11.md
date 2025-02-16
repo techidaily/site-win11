@@ -1,7 +1,7 @@
 ---
 title: Steps to Reestablish Xbox Mic Connection on Windows 11
-date: 2025-01-31T00:30:13.824Z
-updated: 2025-02-03T17:18:40.543Z
+date: 2025-02-13T23:56:53.910Z
+updated: 2025-02-16T01:25:09.672Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Windows Troubleshooter for Recording Audio
 
  The Recording Audio troubleshooter can be helpful for fixing many microphone-related issues in Windows. So, maybe it will help some users fix this Xbox app microphone issue. You can open the Recording Audio troubleshooter from the Control Panel in both Windows 11/10 like this:
@@ -35,27 +39,19 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 ![The Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/large-icons-option.jpg)
 4. Select**Troubleshooting** to open that applet in the Control Panel.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click**View** **all** to see a list of troubleshooters.  
 ![view-all-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/view-all-option.jpg)
 6. Then click**Recording Audio** to open that troubleshooter.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Recording Audio troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/troubleshooter-list.jpg)
 7. Select**Next** to proceed to the list of devices to troubleshoot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Choose a microphone to troubleshoot and click**Next** .
 9. Select**Apply this fix** for troubleshooting suggestions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Connect a Headset Microphone with a Different PC Port
 
@@ -71,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microphone-navigation-option.jpg)
 4. Turn on the**Microphone access** setting if necessary.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If**Let apps access your microphone is** disabled, turn on that setting.  
 ![The Let apps access your microphone setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/let-apps-access-microphone-setting.jpg)
 6. Then scroll down and click the toggle switch for the Xbox app to turn on its mic access.  
@@ -79,7 +79,11 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 7. Restart Windows before opening the Xbox app to check if the issue persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Change the Default Format Output Option
@@ -100,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
 9. Click**OK** to exit the**Advanced** tab and properties window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Select the Right Audio Input Device in the Xbox App
 
  Make sure your Xbox app’s sound settings are set right. The microphone you’re trying to use with that app should be selected on that app’s Input device menu. This is how you can set the audio input device within the Xbox app:
@@ -117,17 +117,21 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 ![The Audio tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-audio-tab.jpg)
 5. Then select the microphone you want to use with the Xbox app in the Input device menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you set the**Default** input option, you’ll need to make sure you’re using your PC’s default microphone. To do that, go to the**Recording** tab as instructed in steps one to four of the previous resolution. Then select the microphone to utilize with the Xbox app there and click**Set Default** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset the Xbox App
 
  The Xbox app, like others, has a**Reset** troubleshooting option you can select in Settings. That option clears the app’s data to fix issues. You can select that option to apply this potential solution by following the instructions in our[how to reset apps on Windows](https://www.makeuseof.com/windows-reset-app/) article.
 
 ![The Reset app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-app-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Driver for the Audio Input Device
 
@@ -141,21 +145,17 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
 5. Then reboot your Windows 11/10 PC for automatic driver reinstallation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Reinstall the Xbox App
 
  The last troubleshooting method for this microphone issue is to try reinstalling the Xbox app. The app you’re using might be an outdated version, or there could be other issues with it that only reinstallation will resolve. You can remove the Xbox app in Settings as outlined in method two in[how to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
 ![The Uninstall option for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-uninstall-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After uninstalling the Xbox app, open its[Microsoft Store page](https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z) ; select the**Get in Store** **app** option to bring up the Microsoft Store; then click**Get** on the Xbox app page.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Utilize Your Microphone in the Xbox App Again
 
@@ -176,18 +176,22 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-enhance-your-media-experience-mastering-hdr-videos-with-windows/"><u>[New] Enhance Your Media Experience Mastering HDR Videos with Windows</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ree-youtube-endings-that-stand-out-ranked-for-2024/"><u>[New] Free YouTube Endings That Stand Out - Ranked for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-showdown-summary-googles-palm-2-vs-openais-gpt-4/"><u>AI Showdown Summary: Google's PaLM 2 Vs. OpenAI's GPT-4</u></a></li>
-<li><a href="https://article-helps.techidaily.com/chuckling-chambers-humor-for-special-days/"><u>Chuckling Chambers Humor for Special Days</u></a></li>
-<li><a href="https://win11.techidaily.com/hotkeys-and-habits-integrating-quick-paste-features-in-windows-11-edition/"><u>Hotkeys & Habits: Integrating Quick-Paste Features in Windows 11 Edition</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-itel-by-drfone-android/"><u>In 2024, How to Bypass FRP on Itel?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 15 Pro?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-the-ultimate-5-online-av-creation-leaders/"><u>In 2024, The Ultimate 5 Online AV Creation Leaders</u></a></li>
-<li><a href="https://win11.techidaily.com/intruder-alert-hiding-windows-wi-fi-ssid/"><u>Intruder Alert! Hiding Windows Wi-Fi SSID</u></a></li>
-<li><a href="https://win11.techidaily.com/multi-app-management-the-art-of-simultaneous-close-on-pcs/"><u>Multi-App Management: The Art of Simultaneous Close on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-error-80080300-fixing-ms-teams-win11-glitches/"><u>Overcoming Error 80080300: Fixing MS Teams Win11 Glitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-guide-for-higher-frame-rates-in-cs-go/"><u>Ultimate Guide for Higher Frame Rates in CS GO</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/yl-softwares-expert-tips-on-deleting-directories-in-windows-how-to-article/"><u>YL Software's Expert Tips on Deleting Directories in Windows - How-To Article</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-forget-your-finstas-quickly-iosandroid-advice/"><u>[New] Forget Your Finstas Quickly IOS/Android Advice</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-ultimate-list-templates-for-youtube-previews/"><u>[Updated] 2024 Approved Ultimate List Templates for YouTube Previews</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-new-face-of-collaboration-video-events-post-vidcon/"><u>[Updated] The New Face of Collaboration Video Events Post-VidCon</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-spectacular-14-text-animation-art-pieces/"><u>2024 Approved Spectacular 14 Text Animation Art Pieces</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-user-interaction-with-menu-bar-icons/"><u>Enhancing User Interaction with Menu Bar Icons</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-screen-flickers-in-windows-devices/"><u>Eradicating Screen Flickers in Windows Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-pova-5withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Tecno Pova 5with/without a PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-15-pro-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone 15 Pro & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/insider-secrets-for-capturing-windows-conversations/"><u>Insider Secrets for Capturing Windows Conversations</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-uninstalling-ms-edge/"><u>Mastering the Art of Uninstalling MS Edge</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-windows-sandbox-on-win-11-step-by-step/"><u>Setting Up Windows Sandbox on Win 11 Step-by-Step</u></a></li>
+<li><a href="https://win11.techidaily.com/strategic-approach-for-eradicating-critical-windows-c0000022/"><u>Strategic Approach for Eradicating Critical Windows C0000022</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210655761-9781785357442-the-way-of-reiki-the-inner-teachings-of-mikao-usui/"><u>The Way of Reiki - The Inner Teachings of Mikao Usui | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-pause-in-windows-gpsvc-errors/"><u>Troubleshooting Pause in Windows GPSVC Errors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-movie-trailer-apps-for-ios-devices/"><u>Updated In 2024, Best Movie Trailer Apps for iOS Devices</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/windows-10-1809/"><u>Windows 10 バージョン 1809 更新後、特定ファイルが不足する事態 - 対策と誤動作の解明</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-taskbar-chat-ability-whats-it-mean-for-users/"><u>Windows 11 Taskbar Chat Ability: What's It Mean for Users?</u></a></li>
 </ul></div>
 

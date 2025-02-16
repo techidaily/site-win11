@@ -1,7 +1,7 @@
 ---
 title: "Clearing Up: Overcoming the Domain Services Printer Error on Windows OSes"
-date: 2024-07-29T15:52:50.600Z
-updated: 2024-07-30T15:52:50.600Z
+date: 2025-02-15T00:22:02.786Z
+updated: 2025-02-15T17:46:54.986Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/b815cea54066fecbfdb8d09a425aaf17a53c85016
  This error means that the software can’t detect a connected printer. It’s a widely reported issue to occur for MS Office applications but can affect a wide range of apps. These are the best ways to fix the “Active Directory Domain Services” error in Windows 10 and 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Run the Printer Troubleshooter
 
  Windows has a Printer troubleshooter to help you fix printing issues. So, we recommend you try troubleshooting the “Active Directory Domain Services” error with that printer. You can open the Printer troubleshooting tool from Settings by following the instructions in our guide to [running troubleshooters on Windows 10 and 11](https://www.makeuseof.com/run-troubleshooter-windows-10-11/).
@@ -49,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/b815cea54066fecbfdb8d09a425aaf17a53c85016
 
  If Print Spooler is already running, restart that service. To do so, right-click **Print Spooler** in the Services window and select **Restart**. Or select the **Stop** and **Start** options within that service’s properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Uninstall and Reinstall Your Printer’s Driver
 
  A faulty printer driver is a possible cause for the “Active Directory Domain Services” error on your PC. To address such a potential cause, try reinstalling your printer’s driver like this:
@@ -59,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/b815cea54066fecbfdb8d09a425aaf17a53c85016
 1. [Open the Device Manager](https://www.makeuseof.com/windows-open-device-manager/) utility, which you can access by pressing the **Windows** logo + **X** key combination and selecting it on the menu.
 2. Double-click **Print queues** to extend that device category.
 3. Right-click your printer and select **Uninstall device**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-device-option.jpg)
 4. Select **Uninstall** on the confirmation window.  
 ![The Remove device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/remove-device-option.jpg)
@@ -77,23 +71,28 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Press **Windows** key + **R**, enter **Control Panel** in Run’s **Open** box, and click **OK**.
 2. Then click **Devices and Printers** or **View devices and printers** within the Control Panel.
 3. If you can see it listed, right-click the printer you can't print with and select **Remove device**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![The Remove device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/remove-device-option.jpg)
 4. Click **Yes** to remove the printer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Make sure the printer you want to add is connected to the PC.
 6. Press the **Add a printer** button in the Devices and Printers applet.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![The Add a printer option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-a-printer.jpg)
 7. Select the printer you just removed and click **Next**.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Add a device window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-a-device.jpg)
 8. If the printer you need isn’t available for selection within the wizard, click the printer that I want isn’t listed. Then select a suitable option for finding the printer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Edit Three Registry Keys' Permissions
 
@@ -103,20 +102,28 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Then navigate to this registry location:  
 `HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion`
 3. Right-click the **Devices** registry key to select **Permissions**.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![The Permissions option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/permissions-option.jpg)
 4. Next, select the user profile in which the error occurs within the **Group** box.
-5. Then select the **Full Control** checkbox within the **Allow** column.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Then select the **Full Control** checkbox within the **Allow** column.  
 ![The Full Control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/full-control-checkbox.jpg)
 6. Repeat step five for all groups and user names shown within the **Security** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click **Apply** to save the key’s new permission settings.
 8. Repeat the previous five steps for the **PrinterPorts** and **Windows** registry keys.
 9. Close out of Registry Editor and restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Try Printing With a Pre-Installed Windows App
 
@@ -126,15 +133,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Input a **Notepad** search phrase, and select that app’s result.
 3. Enter some text into Notepad.
 4. Then click **File** on Notepad’s menu bar.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![The Print option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/print-option.jpg)
 5. Select **Print** to bring up the **General** tab.
 6. Click the **Find Printer** button.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Find Printer button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/print-window.jpg)
 7. If you can find the printer with Notepad, print the text you entered with that app.
 8. Then return to the software in which the “Active Directory Domain Services” error occurs to see if it can now find your printer.
@@ -145,11 +146,29 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  This error means that the software can’t detect a connected printer. It’s a widely reported issue to occur for MS Office applications but can affect a wide range of apps. These are the best ways to fix the “Active Directory Domain Services” error in Windows 10 and 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-perfect-your-video-nine-essential-filters-for-live-streaming/"><u>[Updated] In 2024, Perfect Your Video Nine Essential Filters for Live Streaming</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beware-of-binggpt-related-cryptocurrency-scams-tokens-to-avoid-and-warning-signs/"><u>Beware of BingGPT-Related Cryptocurrency Scams: Tokens to Avoid and Warning Signs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conquering-challenges-the-comprehensive-guide-to-google-podcasts-for-2024/"><u>Conquering Challenges The Comprehensive Guide to Google Podcasts for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-to-uninstall-epic-launcher-from-windows-11-pcs/"><u>Expert Tips to Uninstall Epic Launcher From Windows 11 PCs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-chroma-key-techniques-for-professional-videos/"><u>In 2024, Mastering Chroma Key Techniques for Professional Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavi-convertitore-mp4-a-mp3-scarica-il-miglior-convertitore-video-gratuito/"><u>Movavi Convertitore MP4 a MP3 - Scarica Il Miglior Convertitore Video Gratuito</u></a></li>
+<li><a href="https://techtrends.techidaily.com/nintendo-switch-online-woes-deciphering-between-global-downtime-and-local-tech-troubles/"><u>Nintendo Switch Online Woes: Deciphering Between Global Downtime and Local Tech Troubles</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-premature-edges-a-11-way-guide/"><u>Preventing Premature Edges: A 11-Way Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-creating-numerous-subfolders-simultaneously-on-windows-os/"><u>Quick Guide: Creating Numerous Subfolders Simultaneously on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-error-code-0x80073d26-for-ms-store-on-windows-11/"><u>Resolving Error Code 0X80073d26 for MS Store on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/secrets-to-a-smooth-switch-from-focused-to-relaxed-states-on-terminal/"><u>Secrets to a Smooth Switch From Focused to Relaxed States on Terminal</u></a></li>
+<li><a href="https://win11.techidaily.com/tactics-to-stop-spotify-application-hang-ups-on-windows-11/"><u>Tactics to Stop Spotify Application Hang-Ups on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-charging-your-mobile-device-without-using-its-original-charger/"><u>Ultimate Guide: Charging Your Mobile Device without Using Its Original Charger</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-successful-file-syncing-in-google-chrome-windows-based/"><u>Unlock Successful File Syncing in Google Chrome, Windows-Based</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-10-best-free-daw-online-browser-based-for-2024/"><u>Updated 10 Best Free DAW Online Browser-Based for 2024</u></a></li>
+</ul></div>
+

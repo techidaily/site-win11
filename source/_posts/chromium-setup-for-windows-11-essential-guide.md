@@ -1,7 +1,7 @@
 ---
 title: "Chromium Setup for Windows 11: Essential Guide"
-date: 2024-07-29T15:53:54.397Z
-updated: 2024-07-30T15:53:54.397Z
+date: 2025-02-10T22:40:20.708Z
+updated: 2025-02-15T23:37:57.799Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
  Installing Chrome on Windows 11 isn't as simple as you might think. Let's run through a few of the choices you have and issues you might run into while trying to install it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Should You Download the 32-bit or 64-bit Version of Chrome?
 
  First up, you need to know if you're running 32-bit or 64-bit Windows 11\. There are a few ways you can tell if you're running 64-bit Windows, but here is the simplest and quickest way.
@@ -31,33 +28,28 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
  You’ll see a lot of system-related options on the right; scroll to the bottom of the page, and choose**About** . Here, under**System type** , it should tell you if you have 64-bit or 32-bit Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![selecting the about section in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/about-settings.jpg)
 
  By default, when you visit the[download Chrome webpage](https://www.google.com/chrome/browser/) , it will offer up the 32-bit version of Chrome. This is because the 32-bit version will run on 64-bit computers (the inverse, however, is not true—64-bit Chrome will not run on 32-bit Windows).
 
  So if you have a 32-bit system, simply click the**Download** button on this page. The download of the .exe file will begin after you accept Google's terms and conditions and choose if you want it as your default browser or not.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![System details in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/about-system.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Those with a 64-bit system will want to visit the[64-bit Chrome download page](https://www.google.com/chrome/browser/?platform=win64) , which is specifically for 64-bit Windows. Once the download is complete, just run the .exe file as you normally would, and presto: you've got 64-bit Windows that can fully take advantage of all the perks of your system.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 64-bit Users: It's Time to Update
 
  You can verify which version you're running by clicking on the vertical ellipsis in the top-right corner of the Chrome browser and selecting**Settings** . You’ll be redirected to a new page. Here, choose**About Chrome** . Here, you can check if you're running 32-bit or 64-bit Chrome.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![checking the chrome version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/chrome-version.jpg)
 
  If you're running 32-bit Chrome, don't worry; the transition is seamless. Simply download 64-bit Chrome as detailed above and run the installer. Once the installer is done, close Chrome completely.
@@ -65,8 +57,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Then reopen Chrome. You can go back to the**About Google Chrome** screen to verify that you're running 64-bit Chrome now. All your bookmarks and synced info should remain exactly as it was, and you can even open the last tabs you were using by clicking on the vertical ellipsis once again, and hovering over the**History** option.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What About the Chrome Beta or Canary Channels?
 
  There are actually many different versions of Chrome for you to download beyond what is visible on the main download page. These other versions are available in separate "release channels", which just means you need another link to get to them. Aside from the default stable build which we've already discussed, you can also choose between Chrome Beta ([32-bit](https://www.google.com/chrome/browser/beta.html?platform=win) or[64-bit](https://www.google.com/chrome/browser/beta.html?platform=win64) ) and Chrome Canary ([32-bit](https://www.google.com/chrome/browser/canary.html?platform=win) or[64-bit](https://www.google.com/chrome/browser/canary.html?platform=win64) ).
@@ -76,14 +69,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Chrome Canary, on the other hand, is much riskier than the Beta. Canary is for the bleeding edge folks who want the latest and greatest and are willing to sacrifice stability. Thankfully, Canary runs as a separate app from stable Chrome, so you can have both running side-by-side. That way, if a major bug renders Canary unusable, you have stable Chrome as a backup.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What if Windows SmartScreen Can't Be Reached?
 
  If during the installation of your chosen version of Chrome, you get a large green bar across your screen that says**Windows SmartScreen Can't Be Reached** and won't allow you to run the installer, there's a simple fix.
 
 ![windows-64-5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/windows-64-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows Smartscreen is one of the many[security features of Windows 11](https://www.makeuseof.com/windows-11-quick-security-guide/) , and it's meant to protect you from viruses. When connected to the internet, Smartscreen scans any executable files (like the .exe that installs Chrome) and compares them to a list of known malware. This is a great last defense if you've accidentally downloaded malware and it has tried to install itself, but Chrome is obviously not malware.
 
@@ -107,9 +104,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If your Chrome installation fails, it should give you an error number for why it failed. Remember that number, and you can look it up on[Google's Chrome support website](https://support.google.com/chrome/table/3097092?hl=en) for specific instructions on how to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## The Start Menu and Taskbar Icons
 
  With Chrome installed, the icon will appear in your list of apps. You can see this list by pressing the Windows Key to get to the Start menu, and then either swiping up (on a touchscreen) or searching for**Chrome** (on a non-touchscreen).
@@ -128,6 +122,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 If it ever gives you issues, you can always go back and disable it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Uninstall Chrome
 
  Switching to another browser and no longer want Chrome? Uninstallation is easy. Press the**Windows key** to get back to the Start menu and type**Uninstall** . Select**Apps & features** from the search results that appear on the left side.
@@ -138,14 +136,11 @@ If it ever gives you issues, you can always go back and disable it.
 
  Chrome is the most-used browser on the market right now, and for good reason. Hopefully, by now, you've got Chrome all set up and working perfectly on your Windows 11 device.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +149,16 @@ If it ever gives you issues, you can always go back and disable it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/how-to-add-a-god-mode-option-to-windows-11s-context-menu/"><u>How to Add a God Mode Option to Windows 11’S Context Menu</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-c12-plus-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia C12 Plus to New Android? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715860114708-in-2024-stepwise-guide-to-establishing-a-seamless-skype-discussion-among-multiple-users-in-different-systems/"><u>In 2024, Stepwise Guide to Establishing a Seamless Skype Discussion Among Multiple Users in Different Systems.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/os-15-principais-softwares-de-edicao-de-video-para-novatos-em-2024-classificacao-completa/"><u>Os 15 Principais Softwares De Edição De Vídeo Para Novatos Em 2024 - Classificação Completa</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-unwanted-hotkeys-during-typing-tasks/"><u>Preventing Unwanted Hotkeys During Typing Tasks</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-microsoft-store-issue-0x80073cf3-in-win1111/"><u>Rectifying Microsoft Store Issue 0X80073CF3 in Win11/11</u></a></li>
+<li><a href="https://win11.techidaily.com/reopening-non-responsive-psx-on-latest-ws11-and-11-platform/"><u>Reopening Non-Responsive PSX on Latest WS11 & 11 Platform</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-games-volume-essential-fixes-for-playback-problems-in-it-takes-two-on-pc/"><u>Revive Your Game's Volume: Essential Fixes for Playback Problems in It Takes Two on PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-ultimate-playbook-techniques-to-archive-your-unique-vr-adventures-for-2024/"><u>The Ultimate Playbook Techniques to Archive Your Unique VR Adventures for 2024</u></a></li>
+</ul></div>
 

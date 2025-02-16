@@ -1,7 +1,7 @@
 ---
 title: Combat Non-Mic Working on Windows Headsets
-date: 2024-07-29T15:54:07.394Z
-updated: 2024-07-30T15:54:07.394Z
+date: 2025-02-10T21:51:12.197Z
+updated: 2025-02-15T16:12:09.495Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
  If you want to fix the underlying issue and get your headset microphone working, here are a few steps you can take.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Perform Some Preliminary Checks
 
  Start the troubleshooting process by applying the following preliminary fixes, as they may resolve the issue immediately:
@@ -38,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
  If none of the above checks and fixes work, apply the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Ensure That the Microphone Isn't Muted
 
  There is usually a button on most headsets that allows you to muffle the microphone. This control enables users to mute themselves when not participating in a conversation. If your headset also has one, make sure you haven't muted it by mistake.
@@ -52,7 +50,15 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 4. Also, if the **Main Volume** is too low, increase it to close to **100**.  
 ![Unmute the Headset Microphone in the Realtek Audio Control App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/1-unmute-the-headset-microphone-in-the-realtek-audio-control-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don't have the Realtek audio console installed on your device, you can download it from the [Microsoft Store](https://apps.microsoft.com/store/detail/realtek-audio-control/9P2B8MCSVPLN?hl=en-us&gl=us).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Ensure That the Microphone Is Properly Plugged In
 
@@ -64,10 +70,11 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 ## 4\. Make Sure Your Headset Microphone Isn't Faulty
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Green and Black Razer Headset Sitting on Mousepad on Gamer’s Desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/green-and-black-razer-headset-sitting-on-mousepad-on-gamer-s-desk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Is your headset already unmuted and correctly plugged in? If that is the case, ensure your microphone is not faulty, which could be why it isn't picking up your voice. The easiest way to find that out is to connect your headset to a different device (assuming you have one) and see if it works there.
 
@@ -89,10 +96,11 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
  To set your headset microphone as the default audio input device, navigate to **Settings > System > Sound** and click on **More sound settings**.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Go to More Sound Settings in the Sound Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-go-to-more-sound-settings-in-the-sound-settings-of-the-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the sound settings, go to the **Recording** tab, right-click on your headset microphone, and select **Set as Default Device**.
 
@@ -100,16 +108,14 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
  If you don't see the headset microphone in the list of recording devices, it could be disabled. In such a case, right-click anywhere in the **Recording** tab and select **Show Disabled Devices**.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Click on Show Disabled Devices by Right-clicking Within the Recording Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/7-click-on-show-disabled-devices-by-right-clicking-within-the-recording-tab-of-more-sound-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, set your headset microphone as the default audio input device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Change the App Permissions for the Microphone
 
  If your headset microphone is already set as default but isn't working in a certain app, check that the app has permission to access the microphone. Follow these steps to check that:
@@ -117,33 +123,22 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 1. Open the **Settings** app.
 2. Navigate to the **Privacy and security** tab in the left sidebar.
 3. Click on **Microphone** under **App permissions**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Go to the Microphone Option Under App Permissions in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/8-go-to-the-microphone-option-under-app-permissions-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
 4. Turn on the toggle next to **Microphone access**.
 5. After that, locate the app where the headset microphone isn't working and turn on the toggle next to it.  
 ![Turn On the Toggle Next to App to Enable Microphone Access in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/9-turn-on-the-toggle-next-to-app-to-enable-microphone-access-in-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Select the Correct Microphone in the App's Settings
 
  If the headset microphone still does not work after following the steps above, likely, the app where the microphone does not work doesn't have the correct microphone selected in its settings.
 
  Therefore, ensure the headset microphone is selected as the primary audio input device in the app's settings. Also, check that the microphone isn't muted there and its volume isn't too low.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Your Headset Microphone Working Again
 
  A headset microphone that does not pick up your voice can hinder your gameplay or business meetings. Hopefully, you now better understand what causes the headset microphone to malfunction. Furthermore, if you correctly apply the above fixes, you will be able to troubleshoot and resolve the problem with the headset.
 
  If you want to fix the underlying issue and get your headset microphone working, here are a few steps you can take.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -151,3 +146,23 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-quick-capture-deep-insight-time-lapse-techniques-for-samsung-users/"><u>[New] 2024 Approved Quick Capture, Deep Insight Time-Lapse Techniques for Samsung Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-screenflow-pros-mac-saga-full-evaluation-report/"><u>[New] 2024 Approved ScreenFlow Pro's Mac Saga - Full Evaluation Report</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-drone-flight-optimal-lipo-battery-selection/"><u>[New] Mastering Drone Flight Optimal LiPo Battery Selection</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-video-collage-app-for-androidandios-for-2024/"><u>[Updated] Instagram Video Collage App for Android&iOS for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-woes-no-more-effective-solutions-for-windows-users-facing-mouse-connectivity-problems/"><u>Bluetooth Woes No More: Effective Solutions for Windows Users Facing Mouse Connectivity Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/insights-into-the-creation-of-windows-bt-folder/"><u>Insights Into the Creation of Windows ~BT Folder</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterful-hacks-extracting-xbox-perks-from-codes/"><u>Masterful Hacks: Extracting Xbox Perks From Codes</u></a></li>
+<li><a href="https://win11.techidaily.com/overcome-the-stubbornness-of-a-non-opening-windows-notepad-with-ease/"><u>Overcome the Stubbornness of a Non-Opening Windows Notepad with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-non-functional-search-on-windows-11/"><u>Overcoming Non-Functional Search on Windows 11</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/six-simple-solutions-to-free-up-disk-space-on-your-windows-10-pc/"><u>Six Simple Solutions to Free Up Disk Space on Your Windows 10 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-eliminating-fatal-javascript-errors-on-windows-10plusdiscord/"><u>Solutions for Eliminating Fatal Javascript Errors on Windows 10+Discord</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-correct-windows-update-failure-0xca00a009/"><u>Steps to Correct Windows Update Failure 0xCA00A009</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/tuned-in-truth-exploring-how-to-identify-songs-on-apple-devices-without-specialized-software-for-2024/"><u>Tuned in Truth Exploring How to Identify Songs on Apple Devices without Specialized Software for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-your-podcast-potential-advanced-techniques-for-idevice-audio-recording-for-2024/"><u>Unlock Your Podcast Potential Advanced Techniques for iDevice Audio Recording for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-pro-enable-telnet-with-ease/"><u>Windows 11 Pro: Enable Telnet with Ease</u></a></li>
+</ul></div>
+

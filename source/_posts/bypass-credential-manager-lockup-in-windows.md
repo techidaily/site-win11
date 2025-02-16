@@ -1,7 +1,7 @@
 ---
 title: Bypass Credential Manager Lockup in Windows
-date: 2024-07-29T15:54:06.474Z
-updated: 2024-07-30T15:54:06.474Z
+date: 2025-02-11T23:36:02.747Z
+updated: 2025-02-15T17:30:51.180Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 
  But what if you can’t open Credential Manager on Windows? This guide offers potential solutions to this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 1\. Reboot Your PC
 
  Restarting a computer is often the quickest solution to various Windows problems. It flushes out temporary glitches and closes background processes that may be running and causing the issue.
@@ -41,11 +38,12 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 4. Right-click the service, then select **Restart**.  
 ![Restart Credential Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/restart-credential-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you restart the service, try launching Credential Manager again. It should work now.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Set the Credential Manager Service to Start Up Automatically
 
  The problem could also occur if Credential Manager is set to Manual or Disabled. In this case, you must change its startup type to Automatic. Doing so enables the service to run whenever needed.
@@ -62,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 
  After making the change, try launching Credential Manager. It should work this time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Repair Corrupted System Files
 
  If the service is already set to Automatic, but Credential Manager still isn't working, you may have corrupted or missing system files. To fix this problem, try using the System File Checker utility. It scans your system files and replaces damaged or missing ones.
@@ -70,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 
  If you need help running either of these tools, check out [the difference between CHKDSK, SFC, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/).
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Check the Service Dependencies
 
  Credential Manager may fail to open if its service dependencies are missing or disabled. The Credential Manager service depends on two other services: DCOM Server Process Launcher (DcomLaunch) and Remote Procedure Call (RPC) services.
@@ -84,6 +83,11 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 3. In the Properties window, switch to the **Dependencies** tab to view its service dependencies.  
 ![Service Dependencies of Credential Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/service-dependencies-of-credential-manager.jpg)
 4. Now locate **Remote Procedure Call (RPC)** in the service list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Double-click on it to open its Properties window.
 6. Set the **Startup type** to **Automatic** and click **Apply** \> **OK**.
 7. Repeat the same steps for the **DCOM Server Process Launcher** service.
@@ -104,13 +108,14 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 5. In the right pane, right-click on the **FormSuggest PW** and select **Modify**.
 6. If there is no such value, right-click an empty area and select **New** \> **String Value**.
 7. Name the value **FormSuggest PW** and double-click on it.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Use Registry Editor to Fix Credential Manager Problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/use-registry-editor-to-fix-credential-manager-problem.jpg)
 8. In the Value data field, type **Yes** and hit **OK**.
 
  After making the changes, close the Registry Editor window and restart your PC. When your computer restarts, launch Credential Manager. It should work now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Clear the Protect Directory
 
@@ -120,26 +125,21 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 2. In the address bar, copy and paste the given path and hit Enter:  
 `%appdata%\Microsoft\Protect`
 3. This should open the Protect folder. Right-click the contents and select **Delete**.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clear the Protect Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clear-the-protect-directory.jpg)
 4. If prompted for confirmation, click **Yes**.
 
  After deleting the files, close File Explorer and restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Check for Conflicting Software
 
  Sometimes third-party software conflicts with Credential Manager. This may prevent the service from working correctly. To find conflicting programs, [boot into Safe Mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/).
 
  Now try launching Credential Manager. If it worked, chances are the conflicting program was causing the issue. Slowly re-enable the apps and services through Safe Mode, and the moment the bug returns, uninstall or update the program or service you just re-enabled.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing the Windows Credential Manager
 
  Credential Manager errors may occur on Windows for various reasons. It includes corrupted system files, incorrect service settings, or missing dependencies. Hopefully, the solutions discussed in this article have resolved the Credential Manager issue.
@@ -148,11 +148,29 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 
  But what if you can’t open Credential Manager on Windows? This guide offers potential solutions to this problem.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-quintessential-vr-cinematic-treasures/"><u>[Updated] In 2024, Quintessential VR Cinematic Treasures</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-on-the-improved-functionality-of-samsung-galaxy-watch-active2/"><u>Comprehensive Guide on the Improved Functionality of Samsung Galaxy Watch Active2</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-crafting-prime-tiktok-openings-using-macos/"><u>In 2024, Crafting Prime TikTok Openings Using MacOS</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-visual-appeal-enabling-emoji-15-in-win11/"><u>Maximize Visual Appeal: Enabling Emoji 15 in Win11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-difficulties-comprehensive-solutions-for-starting-fallout/"><u>Overcoming Launch Difficulties: Comprehensive Solutions for Starting Fallout</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-razers-synapse-setbacks-on-latest-oses/"><u>Overcoming Razer's Synapse Setbacks on Latest OSes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-the-challenge-of-a-lost-opengl32dll-file-in-windows/"><u>Overcoming the Challenge of a Lost OpenGL32.dll File in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-install-guide-hp-envy-5055-graphics-card-drivers-download/"><u>Quick Install Guide: HP Envy 5055 Graphics Card Drivers Download</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ideal-windows-10-artistic-software-lineup-of-7/"><u>The Ideal Windows 10 Artistic Software Lineup of 7</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-reconfiguring-windows-updates/"><u>The Ultimate Guide to Reconfiguring Windows Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-11-logins-a-step-by-step-guide/"><u>Troubleshooting Windows 11 Logins: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-administrator-rights-for-your-home-win1110/"><u>Unlocking Administrator Rights for Your Home Win11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-perplexing-aesthetics-decoded/"><u>Windows 11'S Perplexing Aesthetics Decoded</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "CMD Magic Show: Unraveling 5 Mesmerizing Maneuvers"
-date: 2024-07-29T15:51:42.725Z
-updated: 2024-07-30T15:51:42.725Z
+date: 2025-02-13T19:59:38.044Z
+updated: 2025-02-16T00:15:07.390Z
 tags:
   - windows10
   - windows11
@@ -18,15 +18,13 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  Command Prompt holds almost endless possibilities, and it's doubtful many know the full extent of what a few lines of code can accomplish. Whether you're a Command Prompt expert or you just like to pull it up to show off, here are 5 fun or interesting things you can see in Command Prompt, right now.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Customize Your Look
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of a customized command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_customized_cmd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You may know this one already, as it can be a great tool to play around with for accessibility purposes. Command Prompt can be fully customized, from background and text color, font, opacity, and more.
 
@@ -57,11 +55,12 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  Lean back and enjoy a bizarre recreation of Star Wars!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. More Telnet Fun: Command Prompt Aquarium
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of a cmd window showing telnet aquarium](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_aquarium.jpg)
 
  You may have noticed other fun options when running the **telnet telehack.com** command.
@@ -72,11 +71,12 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  Input this command instead of **starwars** from the previous section to be treated to an ASCII aquarium so nice, it may as well be your screen saver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Change the Window Title
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of the title command renaming a command prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_renamed_title.jpg)
 
  Let's move away from the weirdness of ASCII recreations and look at something more low-key.
@@ -85,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  It's relatively useless outside organizing multiple Command Prompts, but it's a fun detail to keep in mind.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## 5\. Trace Where Your Data Goes
 
  This one is as fun as it is interesting, and it has legitimate uses in networking and troubleshooting.
@@ -101,12 +97,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 [Consider reading more about Traceroute](https://www.makeuseof.com/traceroute-what-is-it/), as it can be helpful in network troubleshooting as well.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 6\. Shut Down Your Computer Without the Mouse or Power Button
 
 ![screenshot of the shutdown command in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_shutdown_command_cmd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This one might not be the most glamorous, but did you know that you can shut down your computer directly through the command prompt?
 
@@ -115,15 +112,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Is there much purpose to this command? If you're working with batch files, maybe, but the average user might just prefer to shut down their computer the usual way. This command might not have much practical use, but it's a fun trick all the same.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fun With Command Prompt
 
  Despite being one of the most plain-looking interfaces imaginable, a user can still very easily have some fun with the Command Prompt. The items listed here don't even scratch the surface of the hacks and tricks you can pull off with Command Prompt.
 
  Regardless, fun is important, and if you can find it in the most unlikely places, why not?
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -131,3 +127,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-notable-sites-elevating-youtube-videography/"><u>[New] Notable Sites Elevating YouTube Videography</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-unlocking-potential-metaverse-marketing-secrets/"><u>[Updated] In 2024, Unlocking Potential Metaverse Marketing Secrets</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-troubleshooting-a-non-functional-obs-capture-device-for-2024/"><u>[Updated] Troubleshooting a Non-Functional OBS Capture Device for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-correctly-handle-the-rare-pink-screen-of-death-on-pcs/"><u>How to Correctly Handle the Rare Pink Screen of Death on PCs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-capturing-photos-from-moving-frames-on-windows-11/"><u>In 2024, Capturing Photos From Moving Frames on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-web-interface-of-windows-11/"><u>Mastering the Web Interface of Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-data-preservation-in-the-realm-of-epic-games/"><u>Navigating Data Preservation in the Realm of Epic Games</u></a></li>
+<li><a href="https://win11.techidaily.com/proven-strategies-for-documenting-uac-prompts-in-windows/"><u>Proven Strategies for Documenting UAC Prompts in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-non-active-system-temp-directive/"><u>Reinstating Non-Active System Temp Directive</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-a38-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on A38</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/resolvido-solucion-efectiva-para-problemas-de-boot-en-windows-10-y-11/"><u>Resolvido: Solución Efectiva Para Problemas De Boot en Windows 10 Y 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-zerox-issue-0x80049dd3-in-windows-11-writting/"><u>Resolving Zerox Issue 0X80049DD3 in Windows 11' Writting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-11-motivational-films-a-complete-guide/"><u>Top 11 Motivational Films: A Complete Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/uncover-the-fixes-for-invisible-comments-on-youtube-videos/"><u>Uncover the Fixes for Invisible Comments on YouTube Videos</u></a></li>
+</ul></div>
+

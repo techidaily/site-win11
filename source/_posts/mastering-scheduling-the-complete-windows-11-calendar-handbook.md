@@ -1,7 +1,7 @@
 ---
 title: "Mastering Scheduling: The Complete Windows 11 Calendar Handbook"
-date: 2025-01-31T17:28:09.512Z
-updated: 2025-02-04T06:55:09.291Z
+date: 2025-02-11T20:33:11.161Z
+updated: 2025-02-16T00:15:23.905Z
 tags:
   - windows10
   - windows11
@@ -55,9 +55,17 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 
 ![event on the calendar app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/event-on-the-calendar-app-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you have created the event as we laid down in the above steps, you will get the specified date marked with a notification, as you can see below.
 
 ![event on the calendar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/event-on-the-calendar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use the Calendar Feature
 
@@ -68,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
  From the newly launched **Add calendars** dialog box, you can select from a slew of calendar options: Holiday calendars, Sports, NBA, NHL, and so on. For example, click on **Holiday calendars**, and you will then get to select the country of your choice.
 
 ![calendars menu on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/calendars-menu-on-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now go back to your Calendar, and you will see all the essential festive dates marked as holidays in your famous festivals. In our case, we see the date for Labor Day, a prominent holiday celebrated in the USA, marked out differently from the rest.
 
@@ -87,10 +91,14 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 
 ![calendar app accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/calendar-app-accounts.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now click on **Add account**, and you can pick from Yahoo, Google, iCloud, or Office 365\. Pick one, sign in with your account credentials, and that's it—all your events and meetings from other accounts will be synced with your Calendar app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Tweak Calendar Settings on Windows
@@ -102,14 +110,10 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 ![calendar app accounts settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/calendar-app-accounts-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Apart from this, the Calendar app offers a unique way to choose your language and a host of different calendars, such as Hijri, Saka Hera, and so on. So you should definitely play around with the settings and pick the ones that suit you best.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Set Reminders & Send Invites
 
@@ -119,16 +123,12 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 
 ![calendar menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/calendar-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Another handy feature is **Repeat**, situated right above the **People** section. Just click on the **Repeat** icon, select how often you would like your event or reminder to repeat (weekly, monthly, or yearly), and put in the date and time. That's it; your event will repeat from here on unless you cancel it manually.
 
 ![repeat feature on calendar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/repeat-feature-on-calendar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using Your Calendar on Windows 11 Computer
@@ -147,21 +147,20 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-7-best-free-online-youtube-tag-extractors/"><u>[New] 2024 Approved 7 Best Free Online YouTube Tag Extractors</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-methods-for-amending-silent-obs-recordings/"><u>[New] Methods for Amending Silent OBS Recordings</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-unlocking-the-secrets-of-valorant-video-thumbnail-designs/"><u>[Updated] 2024 Approved Unlocking the Secrets of Valorant Video Thumbnail Designs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-monetizing-mastery-a-triple-step-approach-to-understanding-youtube-revenue-for-2024/"><u>[Updated] Monetizing Mastery A Triple Step Approach to Understanding YouTube Revenue for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/wmam4r-movavi/"><u>免費線上WMA到M4R格式導航 - 經典Movavi 轉換工具指南</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-samsung-galaxy-tab-s4-analysis-your-ultimate-guide-to-a-top-tier-android-tablet/"><u>Comprehensive Samsung Galaxy Tab S4 Analysis - Your Ultimate Guide to a Top-Tier Android Tablet</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-permanent-deletion-of-files-using-the-windows-11-and-11-trash-bin/"><u>Ensuring Permanent Deletion of Files Using the Windows 11 & 11 Trash Bin</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-run-an-unrestricted-chatgpt-alternative-on-windows-with-freedomgpt/"><u>How to Run an Unrestricted ChatGPT Alternative on Windows With FreedomGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-windows-11-bluescreens-adopt-these-proven-tactics/"><u>Navigate Windows 11 Bluescreens: Adopt These Proven Tactics</u></a></li>
-<li><a href="https://common-error.techidaily.com/protecting-your-data-solving-connection-is-not-secured-on-firefox-quick-guide/"><u>Protecting Your Data: Solving 'Connection Is Not Secured' On Firefox Quick Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-exception-interrupted-issue-in-windows-systems/"><u>Resolving Exception Interrupted Issue in Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-note-taking-techniques-on-win11/"><u>Seamless Note-Taking Techniques on Win11</u></a></li>
-<li><a href="https://article-helps.techidaily.com/subtlety-matters-fading-out-sounds-in-logic-pro-for-2024/"><u>Subtlety Matters Fading Out Sounds in Logic Pro for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-anatomy-of-windows-programming-and-linker-format-pe/"><u>The Anatomy of Windows' Programming and Linker Format (PE)</u></a></li>
-<li><a href="https://win11.techidaily.com/the-rise-of-16gb-in-win-pcs-a-ram-revolution/"><u>The Rise of 16GB in Win PCs: A RAM Revolution</u></a></li>
-<li><a href="https://win11.techidaily.com/win-error-0x0000007b-your-quick-solution-guide/"><u>Win Error 0X0000007B - Your Quick Solution Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-virtual-worlds-pcs-1-list-of-vr-360-game-streamers/"><u>[New] Explore Virtual Worlds PC's #1 List of VR 360 Game Streamers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-light-the-flame-the-best-inspiring-movie-list/"><u>[New] In 2024, Light the Flame The Best Inspiring Movie List</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-subscription-wins-unlock-monetization-benefits/"><u>[New] Subscription Wins Unlock Monetization Benefits</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/11-best-free-youtube-name-generators-you-should-try/"><u>11 Best Free YouTube Name Generators You Should Try</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-art-of-inserting-descriptive-commentary-in-youtube-videos/"><u>2024 Approved The Art of Inserting Descriptive Commentary in YouTube Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/access-premium-royalty-free-sfx-get-your-complimentary-sound-package-for-creative-projects-now/"><u>Access Premium Royalty-Free SFX: Get Your Complimentary Sound Package for Creative Projects Now</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-full-potential-of-powertoys-features/"><u>Discover the Full Potential of PowerToys Features</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-radeon-top-tier-tuning-for-best-gameplay-in-windows/"><u>Elevate Your Radeon: Top-Tier Tuning for Best Gameplay in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-routes-of-pc-application-installation/"><u>Exploring the Routes of PC Application Installation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hands-on-review-of-apples-newest-studio-display-is-its-impressive-27-retina-xdr-worth-the-price-tag-for-mac-enthusiasts/"><u>Hands-On Review of Apple's Newest Studio Display: Is Its Impressive 27 Retina XDR Worth the Price Tag for Mac Enthusiasts?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-conceal-username-and-password-prompts-on-win-11/"><u>How to Conceal Username & Password Prompts on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/pace-up-your-pc-solutions-to-tackle-windows-11-lagging/"><u>Pace Up Your PC: Solutions to Tackle Windows 11 Lagging</u></a></li>
+<li><a href="https://win-info.techidaily.com/restoring-lost-iphone-notes-with-simple-steps/"><u>Restoring Lost iPhone Notes with Simple Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/starting-windows-media-player-in-windows-os/"><u>Starting Windows Media Player in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-dilemma-of-error-0x0000004e-in-win11/"><u>Tackling the Dilemma of Error 0X0000004E in Win11</u></a></li>
 </ul></div>
 

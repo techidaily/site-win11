@@ -1,7 +1,7 @@
 ---
 title: Bypassing Forced Closure Errors From Roblox on PCs
-date: 2024-07-29T15:53:29.962Z
-updated: 2024-07-30T15:53:29.962Z
+date: 2025-02-11T23:09:20.489Z
+updated: 2025-02-16T02:54:47.987Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/f34f1e15652c4e288fb8fde812b08aadacd96fb09
 5. Analyze the resource usage percentage in the Task Manager as you play the game.  
 ![Analyze the Resource Usage Percentage in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-analyze-the-resource-usage-percentage-in-windows-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Examine whether any of the components' usage rises to 100 percent when the game crashes. If that is the case, that component is under severe stress, which causes Roblox to crash. To resolve the issue, reduce stress on the component so Roblox can efficiently use the resources it needs without overloading it.
 
  Apply the fixes covered in our guide on [how to fix high CPU usage when gaming](https://www.makeuseof.com/fix-high-cpu-usage-gaming-windows/) if CPU usage spikes to 100 percent. Refer to our guide on [how to fix spikes in GPU usage](https://www.makeuseof.com/gpu-usage-spikes-100-percent-windows/) if the GPU gets too stressed. Similarly, if high RAM consumption causes the game to crash, refer to our guide on [reducing RAM usage](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/) for solutions.
@@ -54,8 +58,9 @@ thumbnail: https://thmb.techidaily.com/f34f1e15652c4e288fb8fde812b08aadacd96fb09
  Hopefully, once you remove the extra burden, Roblox will be able to use the required resources more efficiently and will no longer crash. In contrast, if Roblox crashes even when none of your system components are under full stress, the problem may lie elsewhere. In that case, apply the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Clear the Roblox Cache on Windows and Your Browser
 
  Having corrupted temporary Roblox data, referred to as cache, can also cause the Roblox to crash, especially if you haven't cleared it in a while. So, clear the Roblox cache in both your browser and Windows. To clear the Roblox cache on Windows, follow these steps:
@@ -68,50 +73,46 @@ thumbnail: https://thmb.techidaily.com/f34f1e15652c4e288fb8fde812b08aadacd96fb09
 
  To clear cookies for Roblox on Chrome, Firefox, or Edge, follow our guide on [how to clear cookies for a specific website](https://www.makeuseof.com/clear-chrome-firefox-edge-cookies-specific-site/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Remove Interfering Browser Extensions
 
  If the error occurs when running experiences from the Roblox website, especially right after launch, the browser extensions could be to blame. To ensure that isn't the case, disable any Roblox extensions you use to enhance Roblox's user interface, disable security extensions, or any other extension you think could interfere with Roblox.
 
  Refer to our guide on [how to disable or remove extensions in different browsers](https://www.makeuseof.com/tag/how-to-clean-up-your-browser-extensions-the-easy-way/) if you aren't familiar with the process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## 5\. Switch to Roblox's Microsoft Store App
 
  The Roblox Microsoft Store app is considered more stable and less prone to errors than the Roblox website launcher, which launches experiences from the web. Some users who experienced crashes while using Roblox were able to resolve the issue by switching to Roblox's Microsoft Store app.
 
  Based on the possibility of this switch resolving the problem, install the [Roblox Microsoft Store app](https://apps.microsoft.com/store/detail/roblox/9NBLGGGZM6WM) and use that for some time to check if it fixes the crashing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Run Roblox in the Compatibility Mode
 
  Running Roblox in compatibility mode has resolved the crashing issue for some users. Therefore, you should configure the game to run in compatibility mode and see whether that fixes the problem. Follow these steps to do this:
 
 1. Type **"Roblox"** in Windows Search, right-click on **Roblox Player**, and select **Open file location**.
 2. Right-click on the **Roblox Player** shortcut, and then select **Properties**.  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Go to Properties of Roblox Player in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-go-to-properties-of-roblox-player-in-windows-file-explorer.jpg)
 3. Navigate to the **Compatibility** tab in the **Properties** window.
 4. Check the box beside **Run this program in compatibility mode for** and select **Windows 8** or **Windows 7** from the dropdown.  
 ![Select Windows Version After Checking the Box Beside Run this Program in Compatibility Mode For in the Compatibility Tab of Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/7-select-windows-version-after-checking-the-box-beside-run-this-program-in-compatibility-mode-for-in-the-compatibility-tab-of-properties-window.jpg)
 5. Then, click **Apply**.
 6. After that, click on the **Run compatibility troubleshooter** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![Run Compatibility Troubleshooter After Applying the Changes in the Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/8-run-compatibility-troubleshooter-after-applying-the-changes-in-the-properties-window.jpg)
 7. Click on **Try recommended settings** \> **Test the program…**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Click on the Test the Program Button in the Troubleshooter Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/9-click-on-the-test-the-program-button-in-the-troubleshooter-window.jpg)
 8. Then, save the changes by following the on-screen instructions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Roblox Client
 
@@ -119,16 +120,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Refer to our guide on [different ways to uninstall apps in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and uninstall Roblox using your preferred method. Afterward, go to the file path **"C:/Users/username/AppData/Local"** after entering your username, find the **Roblox folder**, right-click it, and select **Delete**. This process will remove all remnants of the old Roblox installation.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Delete Roblox Folder From Its Installation Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/10-delete-roblox-folder-from-its-installation-directory.jpg)
 
  After that, go to Roblox's website or the Microsoft Store, depending on the Roblox application you want to install, and install it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stop Roblox From Crashing Frequently
 
  Seeing Roblox crash repeatedly without apparent reason can make us lose our cool. Hopefully, the above fixes will help you find the root cause behind the error and fix it. In turn, Roblox will run smoothly and will not crash. Not only will the above fixes help resolve the issue, but they will also improve Roblox's performance.
@@ -139,11 +138,25 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If Roblox frequently crashes with this error and bothers you, here are some fixes and checks you can use to resolve the issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-discovering-the-top-10-video-calls-for-mobile-users-worldwide/"><u>[New] In 2024, Discovering the Top 10 Video Calls for Mobile Users Worldwide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-holistic-motion-analysis-2023-for-2024/"><u>[Updated] Holistic Motion Analysis 2023 for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-quick-creative-and-captivating-titles-ready-for-2024/"><u>[Updated] Quick, Creative, and Captivating Titles Ready for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-at-work-assessing-your-employment-stability-across-ten-different-contexts/"><u>ChatGPT at Work: Assessing Your Employment Stability Across Ten Different Contexts</u></a></li>
+<li><a href="https://win11.techidaily.com/debugging-windows-app-failure-the-zeroxc000003e-hex-issue/"><u>Debugging Windows App Failure: The ZeroXc000003e Hex Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-an-account-password-in-windows-11/"><u>How to Change an Account Password in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-failed-steam-ui-module-on-pc/"><u>How To Reset Failed Steam UI Module on PC</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-14-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 14 Pro Max/iPad | Dr.fone</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-a-brief-review-of-capcut-translate-with-alternative/"><u>New A Brief Review of CapCut Translate With Alternative</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrim-xsb-fail-solutions-for-windows-woes/"><u>Skyrim XSB Fail: Solutions for Windows Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-method-for-converting-your-mp3-library-into-audible-cds-via-imgburn/"><u>Winning Method for Converting Your Mp3 Library Into Audible CDs via ImgBurn</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Deciphering System Repair: Exploring Distinctions Between CHKDSK, SFC, and DISM"
-date: 2025-01-29T22:20:37.306Z
-updated: 2025-02-04T04:55:11.747Z
+date: 2025-02-13T01:42:06.455Z
+updated: 2025-02-16T03:22:41.318Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 
  CHKDSK, SFC, and DISM are system tools, and you can run all three. However, this can be time-consuming and unnecessary for your specific problem, so it's best to know when and how to use this trio of troubleshooting tools.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is CHKDSK and When Should You Use It?
 
  CHKDSK (Check Disk) is the first Windows diagnostic tool you should try if your PC starts acting strangely. For example, if it hangs while shutting down or becomes frustratingly slow.
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 
  To prevent future errors and potential data loss, it's worth running CHKDSK manually as part of your PC maintenance routine. You can use one of the following methods:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Run CHKDSK Through File Explorer
 
  You can run CHKDSK from the command prompt. If you're uncomfortable using the Command Prompt, open **File Explorer**, click **This PC**, right-click the drive you want to check and select **Properties**.
@@ -61,12 +61,16 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 ![Launch the Check Disk tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-error-checking.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If Windows determines that everything is running smoothly, it will suggest that you don't need to scan the drive. To run CHKDSK anyway, select **Scan drive**.
 
  The scan may take anywhere from a few minutes to half an hour, depending on the size and state of your drive. Once complete, CHKDSK will either tell you that no errors were found, or if it does find any, it will suggest you fix them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Run CHKDSK From the Command Prompt
 
@@ -85,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 * To scan for bad sectors and errors, type **chkdsk /r c:**
 
  If you cannot run these commands because "the volume is in use by another process," Command Prompt will offer to schedule the scan for when your PC restarts. This should, however, only happen once. If the tool pops up whenever you boot your PC, you can [stop CHKDSK from running at every startup](https://www.makeuseof.com/tag/stuck-chkdsk-use-fix-right-way/) manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is SFC Scannow and When Should You Use It?
 
@@ -110,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 
 ![Screenshot of complete sfc scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-complete-sfc-scan.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is DISM and When Should You Use It?
 
 **DISM (Deployment Image Servicing and Management)** is the most powerful of the three Windows diagnostic tools. Although you shouldn't usually need to use the tools, it's the one to turn to when you're experiencing frequent crashes, freezes, and errors, but SFC either can't repair your system files or is unable to run at all.
@@ -128,10 +132,6 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 
 ![windows dism check in command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-dism-check-in-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The scan should only take a few seconds. If no corruption is detected, you can run a more advanced scan to determine if the component store is healthy and repairable, again without making any changes, by typing:
 
 `Dism /Online /Cleanup-Image /ScanHealth`
@@ -143,11 +143,11 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 
 ![dism scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan.jpg)
 
- Once the scan and repairs are complete, restart your PC and run SFC again to replace your corrupt or missing system files.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Once the scan and repairs are complete, restart your PC and run SFC again to replace your corrupt or missing system files.
 
 ## What Order Should You Run CHKDSK, SFC, and DISM In?
 
@@ -169,14 +169,21 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-new-look-samsungs-k850-ultrablade-review-2023/"><u>[New] New Look Samsung's K850 UltraBlade Review 2023</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-spotifys-top-10-viral-songs-for-2024/"><u>[New] Spotify’s Top 10 Viral Songs for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-enable-zoom-grid-on-google-meet/"><u>[Updated] Enable Zoom Grid on Google Meet</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-capturing-clear-and-clean-vocal-audio-for-your-videos/"><u>2024 Approved Capturing Clear and Clean Vocal Audio for Your Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-samsung-galaxy-m14-4g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Samsung Galaxy M14 4G Quickly | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-system-call-failed-error-on-windows-11-and-11/"><u>How to Fix the “System Call Failed” Error on Windows 11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-steps-for-clean-startup/"><u>Mastering Windows 11: Steps for Clean Startup</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-power-use-of-window-manager-on-microsoft-os/"><u>Streamlining Power Use of Window Manager on Microsoft OS</u></a></li>
-<li><a href="https://win11.techidaily.com/upgrade-w11s-notepad-with-ai-maestro/"><u>Upgrade W11's Notepad with AI Maestro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comedic-content-coder/"><u>[New] Comedic Content Coder</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-mastery-in-motion-steam-switch-controller-techniques/"><u>[New] Mastery in Motion Steam Switch Controller Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-happy-haven-20-top-prison-jail-gifs-and-photos-for-an-optimistic-social-media-experience/"><u>[Updated] Happy Haven 20 Top Prison Jail GIFs & Photos for an Optimistic Social Media Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-add-motion-blur-to-face-with-picsart/"><u>[Updated] How to Add Motion Blur to Face with Picsart</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-using-telegram-online/"><u>[Updated] Mastering the Art of Using Telegram Online</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-complete-guide-to-hp-envy-27s-4k-features/"><u>2024 Approved The Complete Guide to HP Envy 27'S 4K Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/access-immediate-ios-18-beta-for-iphone-identify-supported-models-and-master-the-download-process-tech-insights/"><u>Access Immediate iOS 18 Beta for iPhone – Identify Supported Models and Master the Download Process | Tech Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-solutions-winning-windows-nintendo-emulators/"><u>Cutting-Edge Solutions: Winning Windows Nintendo Emulators</u></a></li>
+<li><a href="https://win11.techidaily.com/dynamic-workspace-transformation-go-fancywm/"><u>Dynamic Workspace Transformation: Go FancyWM</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-hyper-v-for-flawless-linux-vm-development-on-windows/"><u>Harnessing Hyper-V for Flawless Linux VM Development on Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-google-pixel-8-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Google Pixel 8 Safely | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-screen-flashing-on-windows-11-pcs/"><u>How to Stop Screen Flashing on Windows 11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-excel-file-problems-opening-in-notepad/"><u>Remedy: Excel File Problems Opening in Notepad</u></a></li>
+<li><a href="https://win11.techidaily.com/revealing-hidden-windows-startup-details/"><u>Revealing Hidden Windows Startup Details</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-jaycut-tutorial-unlock-the-power-of-free-online-video-editing-for-2024/"><u>Updated Jaycut Tutorial Unlock the Power of Free Online Video Editing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/why-limiting-antiviruses-is-key-for-your-windows-pcs-health/"><u>Why Limiting Antiviruses Is Key for Your Windows PC's Health</u></a></li>
 </ul></div>
 

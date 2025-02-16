@@ -1,7 +1,7 @@
 ---
 title: "Windows Feature Switch: On WSL Integration Mode"
-date: 2025-02-02T04:47:05.248Z
-updated: 2025-02-04T00:00:15.200Z
+date: 2025-02-12T03:12:40.214Z
+updated: 2025-02-15T20:07:40.130Z
 tags:
   - windows10
   - windows11
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You must enable Windows Subsystem for Linux (WSL) before you can install a Linux distribution on a Windows PC.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
 * The updated WSL2 is more convenient and gives better performance, but you can switch to WSL1 to suit specific needs.
 
  If you want to run a Linux terminal on Windows, your best bet would be to enable Windows Subsystem for Linux (WSL), a gateway opener that allows you to install a Linux bash shell on a Windows OS. Once you’ve enabled WSL, you can install a Linux distro.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Requirements for Running WSL on Windows 10
 
@@ -40,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
  If you’re not sure of your Windows 10 flavor, it’s easy to [check which version of Windows 10 you have installed](https://www.makeuseof.com/tag/how-to-check-windows-10-version-build/).
 
  Some older versions of Windows 10 can also work, but you’ll have to manually install WSL.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Enable Windows Subsystem for Linux
 
@@ -60,19 +64,19 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
 
 ![Programs and Features option under the Related settings section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/program-and-features-option-in-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’re in, click on **Turn Windows features on or off** on the left panel. Then scroll down and check the corresponding box to enable Windows Subsystem for Linux.
 
 ![Windows Subsystem for Linux option in Windows Features page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/enable-wsl-windows-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click **OK** to save your changes and hit **Restart now** to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Installing WSL on a Windows Machine
 
@@ -81,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
  You can also [install a Linux desktop in Windows](https://www.makeuseof.com/tag/linux-desktop-windows-subsystem/) that gives you a graphical UI to work with.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WSL1 or WSL2: Which Is Better For You?
@@ -89,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
  WSL2 is an upgraded version of Windows Subsystem for Linux and is now the default when installing a Linux distribution in Windows. It works with Windows 11 or Windows 10, Version 1903, Build 18362 or higher.
 
  There are a few differences between the two versions of WSL; chiefly, WSL2 offers better performance in addition to support for full system call compatibility and IPv6 support. Also, WSL2 uses a full Linux kernel inside a managed virtual machine (VM), so you don’t have to set up and manage a VM to run a Linux distro.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Reasons to Switch to WSL1
 
@@ -114,20 +114,17 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-achieving-excellence-with-central-luts-for-films/"><u>[New] In 2024, Achieving Excellence with Central Luts for Films</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-earning-through-instagram-a-guide-to-attracting-brand-partnerships/"><u>[New] In 2024, Earning Through Instagram A Guide to Attracting Brand Partnerships</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-pursuing-prolonged-iphone-night-sky-captures-for-2024/"><u>[New] Pursuing Prolonged iPhone Night Sky Captures for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/command-turn-off-windows-nvidia-overlay-effects/"><u>Command: Turn Off Windows NVIDIA Overlay Effects</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-thx-spatial-sound-woes-on-windows-systems/"><u>Fixing THX Spatial Sound Woes on Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-fixing-windows-11-compatibility-glitches/"><u>Guide to Fixing Windows 11 Compatibility Glitches</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x8b-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Honor X8b Phone without PIN</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor Magic 5 Lite? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/in-depth-analysis-of-the-newest-apple-tv-4k-release/"><u>In-Depth Analysis of the Newest Apple TV 4K Release</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-storage-the-ultimate-guide-to-file-deleting-in-win11/"><u>Maximizing Storage: The Ultimate Guide to File Deleting in Win11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-poco-m6-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Poco M6 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/reboot-ready-five-fixed-strategies-for-secure-boot-dilemmas/"><u>Reboot Ready: Five Fixed Strategies for Secure Boot Dilemmas</u></a></li>
-<li><a href="https://win11.techidaily.com/seeking-efficiency-the-ultimate-guide-to-low-ram-browser-choices/"><u>Seeking Efficiency: The Ultimate Guide to Low-RAM Browser Choices</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-pc-searches-use-everythingapp/"><u>Streamline Your PC Searches, Use EverythingApp</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/unlock-the-potential-of-facebook-livestreams-with-professional-wirecast/"><u>Unlock the Potential of Facebook Livestreams with Professional Wirecast</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/remium-microphones-for-videographers/"><u>[New] Premium Microphones for Videographers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-free-profile-imagery-for-youtubers/"><u>[Updated] 2024 Approved Free Profile Imagery for YouTubers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-instagram-hashtags-that-are-trending-and-can-help-you-succeed/"><u>Essential Instagram Hashtags That Are Trending and Can Help You Succeed</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-to-remedying-windows-errors-version-22h2/"><u>Expert Guide to Remedying Windows Errors, Version 22H2</u></a></li>
+<li><a href="https://article-helps.techidaily.com/expertly-edit-your-imagery-with-top-androidios-montage-apps-for-2024/"><u>Expertly Edit Your Imagery with Top Android/iOS Montage Apps for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-transfer-your-windows-system-using-a-previous-backup-on-different-pc/"><u>How to Transfer Your Windows System Using a Previous Backup on Different PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-realme-gt-neo-5-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Realme GT Neo 5</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-social-spectacle-snatcher/"><u>In 2024, Social Spectacle Snatcher</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-law-filters-in-windows-a-step-by-step-guide/"><u>Mastering LAW Filters in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/re-establishing-the-elusive-ubisoft-launcher-connection/"><u>Re-Establishing the Elusive Ubisoft Launcher Connection</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transformative-techniques-mastering-lut-application-in-post-production/"><u>Transformative Techniques Mastering LUT Application in Post-Production</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-potential-with-easy-integration-of-msix-packages/"><u>Unlock Potential with Easy Integration of MSIX Packages</u></a></li>
 </ul></div>
 

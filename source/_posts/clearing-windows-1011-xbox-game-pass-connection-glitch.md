@@ -1,7 +1,7 @@
 ---
 title: "Clearing Windows 10/11: Xbox Game Pass Connection Glitch"
-date: 2024-07-29T15:51:39.282Z
-updated: 2024-07-30T15:51:39.282Z
+date: 2025-02-14T01:58:03.014Z
+updated: 2025-02-16T01:46:21.485Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 
  Error 0x00000001 is an issue that players paying for the Xbox Game Pass subscription must get fixed to play their games. Some might contact the Xbox help service about the issue. However, you can fix error 0x00000001 in Windows with these potential solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 1\. Run the Troubleshooter for Fixing Apps
 
  As error 0x00000001 occurs in the Xbox app, the Windows Store Apps troubleshooter could be useful for fixing that issue. That troubleshooter resolves issues for MS Store apps that aren’t working right. These are the steps for running the Windows Store App troubleshooter:
@@ -32,29 +28,28 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Select**Troubleshoot** within the**System** tab to bring up some navigation options.
 3. Click**Other trouble-shooters** to view that list of troubleshooting tools.
 4. Now press the**Run** button for launching the Windows Store App.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Run option for Windows Store Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-option-for-windows-store-apps.jpg)
 5. The troubleshooter may apply some fixes automatically. If it suggests any potential solutions, select to apply them.  
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-apps-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To access the same troubleshooter in Windows 10, click**Update & Security** \>**Troubleshoot** . You can bring up the troubleshooting tool list by clicking**Additional troubleshooters** . Then click Windows Store Apps’**Run the troubleshooter** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Repair and Reset the Xbox, Microsoft Store, and Gaming Services Apps
 
  The Xbox, Microsoft Store, and Game Services apps are three that can feasibly cause error 0x00000001 when they’re corrupted. Repairing and resetting all those apps via Settings could clear any issues with them and resolve 0x00000001 with that. You can clear all those apps’ data as instructed in our guide to[resetting apps on Windows 10 and 11](https://www.makeuseof.com/windows-reset-app/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![The Reset button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-reset-repair-options.jpg)
 
  However, it’s better to try repairing an app before clearing its data. You’ll find a**Repai** r option for the Xbox, Microsoft Store, and Game Services apps just above their**Reset** buttons. So, select**Repair** first, and if that option doesn’t make a difference go for a reset.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Reinstall the Microsoft Gaming Service Package
 
  Reinstalling Microsoft Gaming Services is among the more widely confirmed error 0x00000001 solutions. Doing so will fix the Gaming Service package if it’s corrupted. You can reinstall Microsoft Gaming Service with PowerShell like this:
@@ -64,15 +59,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. To utilize the command-line app with elevated rights, right-click the**PowerShell** result and select a**Run as administrator** launch option.
 4. Input and execute this command for removing Gaming Services:  
 `get-appxpackage Microsoft.GamingServices | remove-Appxpackage -allusers`  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The uninstall Gaming Services command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-remove-app-command.jpg)
 5. To reinstall Gaming Services, enter the following PowerShell command and press**Return** :  
 `start ms-windows-store://pdp/?productid=9MWPM2CQNLHN`  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The start MS Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-start-ms-store-command.jpg)
 6. If you don’t reinstall Gaming Services with PowerShell, the Xbox app might prompt you to download it when you start it. In this case, you can click the download icon within Xbox app instead.
 7. Click**Get** on the Gaming Services MS Store page the command opens.
@@ -92,11 +81,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 7. Close the Xbox Live Auth Manager window by clicking**OK** .
 8. Repeat steps four to eight for the Xbox Live Networking Service and Xbox Live Game Save services.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Flush the Domain Name System (DNS) Cache
 
  Internet connection instability generated by corrupted or outdated DNS data is another potential cause for error 0x00000001\. Flushing the DNS via Command Prompt will address such an issue. Our guide to[how to flush the DNS on Windows](https://www.makeuseof.com/flush-dns-cache-windows/) covers clearing the cache with an ipconfig command.
 
 ![The flush DNS command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-flush-dns-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Run the Windows Image and System File Scans
 
@@ -107,17 +104,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Bring up Command Prompt with administrative user rights. If you’re not sure how to, take a look at our guide for[running Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
 2. First, run the Deployment Image Servicing and Management tool by executing this command:  
 `DISM.exe /Online /Cleanup-image /Restorehealth`  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![The Deployment Image and Servicing Management command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-image-repair-command.jpg)
 3. Then start a System File Checker scan by inputting this text and hitting**Enter** :  
-`sfc /scannow`  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+`sfc /scannow`  
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-command.jpg)
 4. The SFC scan will take maybe 20-30 minutes to finish. Don’t exit Command Prompt until that tool has completed scanning and shown a Windows Resource Protection outcome message.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Xbox App
 
@@ -130,19 +130,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. Go to the[Xbox app](https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z) page in your browser.
 5. Click the**Get in Store** and**Open Microsoft Store** options.
 6. Reinstall Xbox by clicking its**Get** button.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![The Get button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-get-button-for-xbox-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Install and Play Your Xbox Game Pass Titles Again
 
  You’ll probably be able to install Game Pass titles via the Xbox app again after applying the potential error 0x00000001 fixes above. That doesn’t mean they’re guaranteed error 0x00000001 solutions, but they have worked for many users.
@@ -155,8 +148,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +155,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-videos-with-ease-10-steps-from-youtube-to-mpeg/"><u>[New] Transforming Videos with Ease 10 Steps From YouTube to MPEG</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unraveling-drone-technology-mechanisms-and-applications-demystified-for-2024/"><u>[New] Unraveling Drone Technology Mechanisms and Applications Demystified for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-exploring-income-derived-from-each-watch-on-video-platforms/"><u>[Updated] Exploring Income Derived From Each Watch on Video Platforms</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-revolutionize-youtube-uploads-speed-enhancing-render-tricks/"><u>2024 Approved Revolutionize YouTube Uploads Speed-Enhancing Render Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/enable-gallery-feature-in-file-explorer/"><u>Enable Gallery Feature in File Explorer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-x-flip-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo X Flip Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/is-windows-update-not-working-try-these-7-fixes/"><u>Is Windows Update Not Working? Try These 7 Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/link-onedrive-to-windows-microsoft-id-easily/"><u>Link OneDrive to Windows Microsoft ID Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-error-0xffffffff-a-step-by-step-guide/"><u>Resolving Windows Error 0xFFFFFFFF: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-online.techidaily.com/slash-your-budget-like-a-pro-smart-money-management-tips-for-college-students-delivered-by-massmail-software-2/"><u>Slash Your Budget Like a Pro: Smart Money Management Tips for College Students, Delivered by MassMail Software 2#!</u></a></li>
+<li><a href="https://win11.techidaily.com/turning-photos-right-effective-rotation-methods-for-windows-11/"><u>Turning Photos Right: Effective Rotation Methods for Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unraveling-the-secrets-of-exceptional-green-screen-filming-for-2024/"><u>Unraveling the Secrets of Exceptional Green Screen Filming for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mending Badge Icons Disappearance
-date: 2025-01-29T07:58:22.150Z
-updated: 2025-02-04T09:52:22.258Z
+date: 2025-02-10T03:01:08.831Z
+updated: 2025-02-16T01:59:35.702Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Modify the Taskbar Behavior
 
  To start, you need to ensure that the taskbar is configured to show notification badges on your computer. Here are the steps for doing the same.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 4. Click on**Taskbar behaviors** to expand it.
 5. Tick the checkbox that reads**Show badges on taskbar apps** .  
 ![Enable Badges on Taskbar Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-badges-on-taskbar-apps-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Following this, apps should display notification badges on the taskbar.
 
@@ -49,11 +57,7 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 ![Enable Notifications for Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-notifications-for-apps-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Allow Apps to Run in the Background
@@ -67,14 +71,10 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 5. Use the drop-down menu under**Background apps permissions** to select**Always** .  
 ![Allow Xbox to Run in the Background on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/allow-xbox-to-run-in-the-background-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Unable to find the background app permissions option in the Settings app? Check our guide on[how to restore a missing background apps permission option in Windows](https://www.makeuseof.com/windows-11-restore-background-apps-permissions/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Restart the Windows Explorer Process
@@ -84,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
  If it’s just a minor glitch, restarting the Windows Explorer process should help fix it. If you need help with the same, check our guide on[different ways to restart Windows Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) and follow the steps outlined there.
 
  Note that your taskbar will disappear for a brief moment when you restart the Windows Explorer process. After that, check if notification badges appear on the taskbar apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Unpin the Apps From the Taskbar and Pin Them Again
 
@@ -104,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 ## 6\. Repair the Problematic App
 
  If the issue remains even after you unpin and re-pin the app, you can try repairing it. This process will allow Windows to identify and resolve any issues with the app without affecting any of the app data. For more information on this, check our guide on[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) and follow the steps outlined there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Enable Taskbar Badges Using the Registry Editor
 
@@ -146,24 +146,24 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/nlock-video-potential-leading-tools-turning-youtubes-to-avis-for-2024/"><u>[New] Unlock Video Potential Leading Tools Turning YouTubes to Avis for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-a-comprehensive-guide-to-business-on-snapchat/"><u>[Updated] A Comprehensive Guide to Business on Snapchat</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-shift-dimensions-quickly-virtually/"><u>[Updated] Shift Dimensions Quickly, Virtually</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-ultimate-checklist-for-installing-vrecorder-for-2024/"><u>[Updated] Ultimate Checklist for Installing VRecorder for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-redefining-the-greatest-movies-2023-edition/"><u>2024 Approved Redefining The Greatest Movies 2023 Edition</u></a></li>
-<li><a href="https://fox-links.techidaily.com/adjusting-sound-settings-gently-in-windowsmacos-for-2024/"><u>Adjusting Sound Settings Gently in Windows/macOS for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/delineating-differences-comparative-analysis-of-microsoft-and-native-windows-logins/"><u>Delineating Differences: Comparative Analysis of Microsoft & Native Windows Logins</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-display-a-comprehensive-guide-to-hdr-on-windows-11/"><u>Enhance Your Display: A Comprehensive Guide to HDR on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-windows-volume-with-no-file-erasure/"><u>Enhancing Windows Volume with No File Erasure</u></a></li>
-<li><a href="https://discover-data.techidaily.com/how-can-i-access-the-flip-programs-user-guide-for-effective-management-with-flipoffice-pro/"><u>How Can I Access the Flip Program's User Guide for Effective Management with FlipOffice Pro?</u></a></li>
-<li><a href="https://win-lab.techidaily.com/la-mejor-opcion-alternativa-a-los-kits-de-clonacion-de-ssd-y-hdd-con-comoda-uso-sin-corsair/"><u>La Mejor Opción Alternativa a Los Kits De Clonación De SSD Y HDD Con Cómoda Uso Sin Corsair</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-productivity-in-windows-11-with-a-superior-run-command-setup/"><u>Maximize Productivity in Windows 11 with a Superior Run Command Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-changes-in-windows-11-app-settings/"><u>Navigating Changes in Windows 11 App Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-error-code-c0000022-in-microsoft-windows/"><u>Tackling Error Code C0000022 in Microsoft Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-automatic-power-down-for-idle-windows-systems/"><u>Tailoring Automatic Power-Down for Idle Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-and-tricks-for-a-fresh-file-explorer-startup/"><u>Tips & Tricks for a Fresh File Explorer Startup</u></a></li>
-<li><a href="https://win11.techidaily.com/transitioning-mobile-titles-android-in-windows-11-and-google-play/"><u>Transitioning Mobile Titles: Android in Windows 11 and Google Play</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/ultimate-how-to-safely-reboot-your-toshiba-external-hdd-with-simple-steps/"><u>Ultimate How-To: Safely Reboot Your Toshiba External HDD with Simple Steps</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-honor-90-gt-by-drfone-android/"><u>Universal Unlock Pattern for Honor 90 GT</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-securely-and-swiftly-acquiring-your-youtube-watch-lists/"><u>[Updated] Securely and Swiftly Acquiring Your YouTube Watch Lists</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-crafting-visual-wonders-home-made-effects-demystified/"><u>2024 Approved Crafting Visual Wonders Home-Made Effects Demystified</u></a></li>
+<li><a href="https://facebook.techidaily.com/before-you-unplug-a-guide-to-closing-your-fb-account/"><u>Before You Unplug: A Guide to Closing Your FB Account</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-ai-become-uncontrollable/"><u>Can AI Become Uncontrollable?</u></a></li>
+<li><a href="https://win11.techidaily.com/concealing-clock-and-dates-on-window-11s-bar/"><u>Concealing Clock & Dates on Window 11'S Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-windows-blue-screen-alerts-an-in-depth-study/"><u>Dissecting Windows Blue Screen Alerts: An In-Depth Study</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-windows-spooler-revival/"><u>Effective Windows Spooler Revival</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-workflow-with-psoft-tools-in-win11/"><u>Enhance Your Workflow with PSoft Tools in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-enabling-access-in-windows-11-credentials/"><u>Guide: Enabling Access in Windows 11 Credentials</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hack-the-airwaves-mastering-a-viral-solo-podcast-for-2024/"><u>Hack the Airwaves Mastering a Viral Solo Podcast for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-your-cursor-a-star-on-windows-devices/"><u>How to Make Your Cursor a Star on Windows Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-vivo-v29-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Vivo V29 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-editing-nikon-videos-like-a-pro-software-and-techniques/"><u>In 2024, Editing Nikon Videos Like a Pro Software and Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-storage-sizing-film-duration-in-gb/"><u>In 2024, Storage Sizing Film Duration in GB</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-phone-personalizing-the-ios-alert-sound/"><u>In 2024, Transform Your Phone Personalizing the iOS Alert Sound</u></a></li>
+<li><a href="https://win11.techidaily.com/method-for-deactivating-hyper-v-on-win11/"><u>Method for Deactivating Hyper-V on Win11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/netflix-group-watches-unlocked-a-guide-to-syncing-your-views-across-distances/"><u>Netflix Group Watches Unlocked: A Guide to Syncing Your Views Across Distances</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-methods-for-windows-11-drive-clearance-no-file-erasure-max-156-chars/"><u>Secure Methods for Windows 11 Drive Clearance (No File Erasure, Max 156 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-on-calculators-night-mode/"><u>Turn On Calculator's Night Mode</u></a></li>
 </ul></div>
 

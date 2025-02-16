@@ -1,7 +1,7 @@
 ---
 title: "Pro Tools for Properties: 6 Methods Unveiled"
-date: 2025-02-02T21:09:45.424Z
-updated: 2025-02-04T08:16:17.421Z
+date: 2025-02-09T01:35:45.748Z
+updated: 2025-02-16T02:01:08.628Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Open File or Folder Properties in Windows
 
  Here are some easy ways to view the file or folder properties on a Windows PC. These methods will work for Windows 11 and older versions of Windows OS too.
@@ -42,12 +38,20 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 3. Then press**Alt + Enter** keys at once to open the file properties window.  
 ![View File Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Using the Mouse and Keyboard Shortcut
 
  This method eliminates the usage of the enter key to open the file properties windows. Repeat the following steps to open the properties window:
 
 1. Open the File Explorer app and navigate to the folder location.
 2. Now, hold the**Alt** key and**double-click** on the file to display its properties.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Using the Context Menu
 
@@ -58,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 3. Now,**right-click** on the file and select the**Properties** option from the context menu.  
 ![View File Properties using Right Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-right-context-menu.jpg)
 4. The file properties window will launch on your system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Keep in mind that the right-click context menu will look a bit different from the older versions of Windows.
 
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 5. The Properties window will launch on your system. Press**Alt + F4** to close it after you no longer need it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Using the CMD Tool
@@ -91,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 ![View File Properties using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-cmd.jpg)
 5. Scroll down to check the file properties such as size, creation date, and more attributes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Using PowerShell
 
  PowerShell has a different command to display folder or file properties. Like the CMD command, it also displays the file properties inside the shell in text format.
@@ -106,7 +102,11 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 4. Press the**Enter** key to execute the command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Quickly View File or Folder Properties on Windows
@@ -128,24 +128,22 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/nriching-slides-video-incorporation-from-youtube/"><u>[New] Enriching Slides Video Incorporation From YouTube</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-leaderboard-of-gps-drones-with-steady-followers/"><u>[Updated] The Leaderboard of GPS Drones with Steady Followers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-conquer-competitors-try-this-highest-rated-voice-modification-software-for-valorant/"><u>2024 Approved Conquer Competitors - Try This Highest-Rated Voice Modification Software for Valorant</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-issues-with-googles-nearby-sharing-on-windows/"><u>Fixing Issues with Google's Nearby Sharing on Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-flying-high-a-compreenasol-guide-to-cutting-edge-drone-editing/"><u>In 2024, Flying High A Compreenasol Guide to Cutting-Edge Drone Editing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-soundscapes-the-ultimate-guide-to-iphoneipad-podcast-downloads/"><u>In 2024, Mastering Soundscapes The Ultimate Guide to iPhone/iPad Podcast Downloads</u></a></li>
-<li><a href="https://win11.techidaily.com/master-password-integration-in-windows-1011-documents/"><u>Master Password Integration in Windows 10/11 Documents</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/masterclass-en-gestion-de-archivos-swf-guia-incomparable-sobre-programas-de-apertura-eficiente/"><u>Masterclass en Gestión De Archivos SWF: Guía Incomparable Sobre Programas De Apertura Eficiente</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-file-deletion-in-windows-11-using-the-command-line-interface/"><u>Mastering File Deletion in Windows 11 Using the Command Line Interface</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-power-saver-modes-in-windows-os/"><u>Mastering Power Saver Modes in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/perpetual-disposal-setting-up-unchangeable-deletion-bin-on-pc/"><u>Perpetual Disposal: Setting up Unchangeable Deletion Bin on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-windows-11-sign-in-your-guide-to-success/"><u>Seamless Windows 11 Sign-In: Your Guide to Success</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/and-share-pcmac-video-recording-for-youtube/"><u>Snap & Share PC/Mac Video Recording for YouTube</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-affordable-hearing-device-review-bluetooth-trucker-edition/"><u>The Affordable Hearing Device Review: Bluetooth, Trucker Edition</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-guide-to-cam-cover-selection/"><u>The Ultimate Guide to Cam Cover Selection</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-prevent-file-explorer-crashes-on-windows-11/"><u>Tips to Prevent File Explorer Crashes on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-usage-error-in-windows-11-os/"><u>Troubleshooting Usage Error in Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-the-windows-bt-folder-structure/"><u>Understanding the Windows ~BT Folder Structure</u></a></li>
-<li><a href="https://win11.techidaily.com/unresponsive-click-problems-guide-for-win11-users/"><u>Unresponsive Click Problems: Guide for Win11 Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-effective-interview-techniques/"><u>[Updated] Mastering The Art Of Effective Interview Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-detailed-guide-turning-off-windows-update-restrictions/"><u>A Detailed Guide: Turning Off Windows Update Restrictions</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-errors-fixing-failed-windows-mmc-snap-creation/"><u>Demystifying Errors: Fixing Failed Windows MMC Snap Creation</u></a></li>
+<li><a href="https://win-webster.techidaily.com/effective-methods-to-restore-file-explorer-in-windows-11-an-8-step-guide/"><u>Effective Methods to Restore File Explorer in Windows 11: An 8-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-language-acquisition-use-keys-for-fast-translation-in-winos/"><u>Elevate Language Acquisition: Use Keys for Fast Translation in WinOS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-14-ultra-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Xiaomi 14 Ultra Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-and-fix-a-frozen-spotify-on-windows-11/"><u>How to Stop and Fix a Frozen Spotify on Windows 11</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-discovering-your-perfect-vr-experience-should-you-choose-mobile-freedom-or-connectivity-with-tethers/"><u>In 2024, Discovering Your Perfect VR Experience Should You Choose Mobile Freedom or Connectivity with Tethers?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-14-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 14</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-13t-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi 13T Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sideways-vids-phenomenon-anomaly-or-feature-on-instagram/"><u>In 2024, Sideways Vids Phenomenon Anomaly or Feature on Instagram?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-zany-zooms-a-list-of-10-hilarious-short-youtube-video-scenes/"><u>In 2024, Zany Zooms A List of 10 Hilarious, Short YouTube Video Scenes</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-black-screens-in-windows-based-gameplay/"><u>Overcoming Black Screens in Windows-Based Gameplay</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-win-keybinds-guide-for-enhanced-productivity/"><u>Quick Win Keybinds Guide for Enhanced Productivity</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-disabling-fake-security-warnings-from-chrome/"><u>Steps for Disabling Fake Security Warnings From Chrome</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-reconnecting-ignored-devices-in-razer-and-w11/"><u>Troubleshooting: Reconnecting Ignored Devices in Razer & W11</u></a></li>
+<li><a href="https://win11.techidaily.com/win-free-up-space-expert-guide-to-erase-temp-files/"><u>Win-Free Up Space: Expert Guide to Erase Temp Files</u></a></li>
 </ul></div>
 

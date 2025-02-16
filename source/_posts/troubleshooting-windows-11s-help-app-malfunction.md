@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows 11'S Help App Malfunction
-date: 2025-01-29T17:37:40.264Z
-updated: 2025-02-03T19:39:20.393Z
+date: 2025-02-15T03:00:55.942Z
+updated: 2025-02-15T21:08:49.721Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Begin With Some General Fixes
 
  Here are some quick tips on how to fix the Get Help app not working issues quickly:
@@ -37,13 +33,13 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 ![Get Help End Task Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-end-task-option.jpg)
 * **Reboot your computer:** Rebooting a computer often resolves many problems by clearing your system's memory and terminating problematic processes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * **Update your Windows version:** Older versions of Windows may contain bugs that may prevent the Get Help app from functioning correctly. So, always [ensure your Windows version is up-to-date](https://www.makeuseof.com/update-windows-manually/).
 
  Note that these fixes can't help you if your issue is serious. In that case, try the following troubleshooting methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Repair or Reset the Get Help App
 
@@ -58,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 ![Get Help In Installed Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-installed-apps.jpg)
 4. Now, scroll to the bottom and click **Repair**. If the repair fails, you can use the **Reset** option.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Get Help Repair Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-repair-option.jpg)
 
@@ -87,19 +79,11 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 ![VPN Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/vpn-settings-search-results.jpg)
 2. Choose the **Disconnect** button to turn off the VPN.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Similarly, you must [temporarily disable your proxy](https://www.makeuseof.com/windows-11-disable-proxy/) to troubleshoot the cause of your Get Help failing to work.
 
  Remember to re-enable your VPN or proxy once you're done to ensure your online activities remain private and secure.
 
  Now you can open the Get Help app and check whether the content loads correctly. Try the following troubleshooting method if the Get Help app still displays a blank screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Restart Windows Services
 
@@ -111,10 +95,22 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 ![Services Command On Run App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/services-command-on-run.jpg)
 2. Now press **Enter** to launch the Services app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. You'll see a list of all the services currently available in your system. Locate the **Diagnostic Policy Service** and right-click on its name.
 4. Select **Restart** from its context menu.  
 ![Diagnostic Policy Service Restart Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/diagnostic-policy-service-restart-option.jpg)
 5. Similarly, repeat the steps to restart the **Windows Management Instrumentation** service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Install the Microsoft Edge WebView2 Runtime
 
@@ -129,12 +125,16 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 ![Microsoft Edge Developer Site Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-edge-developer-site-screenshot.jpg)
 3. Once you download the setup file, run it and follow the instructions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. After installing the Microsoft Edge WebView2 Runtime, check if the Get Help app functions correctly.
 
  If you see an error saying "**Setup failed**," "please re-download the correct version again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Uninstall and Reinstall the Get Help App
@@ -165,20 +165,21 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-a-comprehensible-guide-to-saving-hulu-programs-on-multiple-devices/"><u>[New] In 2024, A Comprehensible Guide to Saving Hulu Programs on Multiple Devices</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/orldwide-rankings-top-10-youtube-influencers-by-subscription-counts-for-2024/"><u>[New] Worldwide Rankings Top 10 YouTube Influencers by Subscription Counts for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unleashing-shareability-secrets-of-trending-on-fb/"><u>[Updated] In 2024, Unleashing Shareability Secrets of Trending on Fb</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-no-license-plenty-of-melodies-top-10-online-websites/"><u>2024 Approved No License, Plenty of Melodies - Top 10 Online Websites</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-photography-crafting-exceptional-time-lapses-with-black-hero5/"><u>Elevate Photography Crafting Exceptional Time-Lapses with Black Hero5</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-outdated-pcs-enabling-windows-11-with-to-go-and-rufus/"><u>Elevating Outdated PCs: Enabling Windows 11 With To Go and Rufus</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-itel-p55-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Itel P55 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-create-a-custom-color-scheme-for-windows-terminal/"><u>How to Create a Custom Color Scheme for Windows Terminal</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-compactscreengrab-critique-report/"><u>In 2024, CompactScreenGrab Critique Report</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-keep-your-pc-secure-if-bitlocker-is-missing/"><u>Strategies to Keep Your PC Secure if Bitlocker Is Missing</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-speech-recognition-mishaps-on-microsofts-windows-11/"><u>Tackling Speech Recognition Mishaps on Microsoft's Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-dell-p2715q-review-a-4k-visual-revolution-unfolds/"><u>The Dell P2715Q Review A 4K Visual Revolution Unfolds</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-financial-floor-and-ceiling-in-podcasting-world/"><u>The Financial Floor and Ceiling in Podcasting World</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshoot-non-responsive-windows-pc-keyboard-keys/"><u>Troubleshoot Non-Responsive Windows PC Keyboard Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-mobility-with-apple-maps/"><u>Unlocking Windows Mobility with Apple Maps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-turn-your-google-meet-into-a-youtube-live-event-for-2024/"><u>[New] How To Turn Your Google Meet Into a YouTube Live Event for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-adobe-advice-brighten-up-faded-iphone-videos-using-four-critical-techniques/"><u>[New] In 2024, [Adobe Advice] Brighten Up Faded iPhone Videos Using Four Critical Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-ppro-full-screen-showcase-made-simple/"><u>[Updated] In 2024, PPro Full-Screen Showcase Made Simple</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-the-mysteries-of-ig-metrics-an-essential-toolkit-for-marketers/"><u>[Updated] Unveiling the Mysteries of IG Metrics An Essential Toolkit for Marketers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-ae-text-excellence-discover-our-best-10-ideas/"><u>2024 Approved AE Text Excellence Discover Our Best 10 Ideas</u></a></li>
+<li><a href="https://win11.techidaily.com/converting-cr2-images-to-jpg-on-windows-with-ease-and-precision/"><u>Converting CR2 Images to JPG on Windows with Ease and Precision</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-screen-with-ordered-icons/"><u>Enhance Your Screen with Ordered Icons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-technology-toms-comprehensive-hardware-analysis/"><u>Inside Look at Technology: Tom's Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/key-uses-for-visual-cplusplus-redistribution/"><u>Key Uses for Visual C++ Redistribution</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mental-marathon-best-trivia-videos-online/"><u>Mental Marathon Best Trivia Videos Online</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-input-methods-and-keyboard-setups-for-win-11-users/"><u>Optimize Input Methods and Keyboard Setups for Win 11 Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/sprint-to-efficiency-quick-fixes-for-win-outlook/"><u>Sprint to Efficiency: Quick Fixes for WIN Outlook</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-resolve-screen-driver-failure-on-windows-11/"><u>Strategies to Resolve Screen Driver Failure on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-update-windows-11-admin-identity-and-role/"><u>Strategies to Update Windows 11 Admin Identity and Role</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-rated-free-avi-media-player-downloads-compatible-with-windows-10-and-mac-os/"><u>Top Rated Free AVI Media Player Downloads Compatible with Windows 10 & Mac OS</u></a></li>
 </ul></div>
 

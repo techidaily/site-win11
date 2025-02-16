@@ -1,7 +1,7 @@
 ---
 title: Breathe Life Back Into Your Windows 11 Media Player
-date: 2024-07-29T15:54:31.773Z
-updated: 2024-07-30T15:54:31.773Z
+date: 2025-02-10T23:02:22.454Z
+updated: 2025-02-15T21:02:04.119Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
  Before you give up and look for an alternative, consider applying the following fixes to resolve issues with the Media Player app in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Media's File Format
 
  Although Microsoft's latest Media Player is designed to work with nearly all the popular audio and video formats, it is not compatible with all of them. It’s possible that the media file you are trying to play is in an unsupported format, giving you the impression that the Media Player app is not working.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
  Hence, before troubleshooting the app, you should ensure that the file you are using is in a format that Media Player supports. You can verify the format of the file by checking its properties in Windows, then checking[the supported Windows Media Player file types on Microsoft Support](https://support.microsoft.com/en-us/topic/file-types-supported-by-windows-media-player-32d9998e-dc8f-af54-7ba1-e996f74375d9) .
 
  If you find that your file is unsupported, use a[free online converter](https://www.makeuseof.com/tag/free-online-file-converters/) to change its format to a compatible one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Enable Video Library Access for the App
 
@@ -40,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 ![Enable Video Library Access for the Media Player App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-video-library-access-for-the-media-player-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Refresh Your Libraries
 
  If the Media Player app fails to detect your files even after enabling video library access, you can try refreshing the libraries. This will allow the app to scan your system for media files again.
@@ -65,14 +74,12 @@ To disable video enhancements in Windows, use these steps:
 2. Select the**Apps** tab on your left.
 3. Click on**Video playback** .
 4. Turn off the switch next to the**Process video automatically to enhance it** option.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable Video Processing on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-video-processing-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Run the Relevant Windows Troubleshooters
 
  If you’re facing playback issues in other media players as well, you can consider running Windows' troubleshooters. Specifically, you can run the Playing Audio and Video Playback troubleshooters. This will allow Windows to diagnose your system for any video playback issues and suggest fixes accordingly. Here’s how you can run these troubleshooters on Windows.
@@ -86,14 +93,15 @@ To disable video enhancements in Windows, use these steps:
 
  After running these troubleshooters, restart the Media Player app and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Repair or Reset the Media Player App
 
  Windows 11 includes a useful app repair tool for fixing common issues with apps. You can use this feature to fix issues with most of your apps, including Media Player. Windows will scan the app’s files and settings during this process and attempt to fix any issues it discovers. For more instructions on this, check our guide on[how to repair apps and programs in Windows](https://www.makeuseof.com/windows-repair-apps-programs/) and follow the steps outlined there.
 
  Alternatively, you can also consider resetting the app. Since this process allows Windows to erase all the app data and reset app configurations, it’s more likely to fix any issues. We have a guide on[how to reset an app on Windows](https://www.makeuseof.com/windows-reset-app/) . Follow the instructions outlined there to reset the Media Player app on your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Re-Register the Relevant DLL Files
 
@@ -109,32 +117,23 @@ regsvr32 wmp.dll`
 
  Restart your PC after this and then check if the Media Player app works as before.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## 8\. Update the Media Player App
 
  Microsoft regularly pushes newer updates for the Media Player app to add new features, eliminate bugs and improve its performance. There’s a chance that the issues with the Media Player app are limited to the app version you are using. If that’s the case, updating to a newer version should help.
 
  Check our guide on[how to update apps in Windows 11](https://www.makeuseof.com/update-apps-windows-11/) and use the steps provided there to update the Media Player app to its most recent version. Hopefully, this should solve your problem.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Fixing the Media Player App on Windows 11
 
  The Media Player app is great for playing locally stored audio and video files on your Windows 11 PC. Occasionally, the app may stop working due to misconfigured settings or corrupt app data. However, it’s nothing you can’t fix with the solutions mentioned above.
 
  If you're tired of dealing with such issues with the new Media Player app or if you're looking for more functionality, there are plenty of free media player apps available for Windows that you can try.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -143,4 +142,17 @@ regsvr32 wmp.dll`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-tailor-made-youtube-url-strategies-an-easier-approach/"><u>[New] 2024 Approved Tailor-Made YouTube URL Strategies An Easier Approach</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-the-economics-of-youtube-ad-revenues-per-1000-views/"><u>[New] In 2024, The Economics of YouTube Ad Revenues per 1000 Views</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-perfecting-audio-records-with-our-step-by-step-guide-for-2024/"><u>[Updated] Perfecting Audio Records with Our Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/dynamic-desktop-updates-system-resources-on-windows-ui/"><u>Dynamic Desktop Updates: System Resources on Windows UI</u></a></li>
+<li><a href="https://win11.techidaily.com/explaining-and-fixing-windows-defender-error-0x80004004/"><u>Explaining & Fixing Windows Defender Error 0X80004004</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/los-6-mejores-convertidores-gratis-para-archivos-mp4-como-cambiar-formatos-de-video-perfectamente/"><u>Los 6 Mejores Convertidores Gratis Para Archivos MP4: Cómo Cambiar Formatos De Video Perfectamente</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaim-control-of-freeze-shift-keys/"><u>Reclaim Control of Freeze Shift Keys</u></a></li>
+<li><a href="https://extra-support.techidaily.com/refining-photos-the-step-by-step-guide-to-clean-edges-on-photopea-for-2024/"><u>Refining Photos The Step-by-Step Guide to Clean Edges on Photopea for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-ssd-potential-fresh-methods-in-windows-environment/"><u>Unlock SSD Potential: Fresh Methods in Windows Environment</u></a></li>
+</ul></div>
 

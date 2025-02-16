@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unlinked File Apps on Windows
-date: 2025-01-28T22:05:05.803Z
-updated: 2025-02-04T04:19:17.075Z
+date: 2025-02-10T18:49:53.151Z
+updated: 2025-02-15T18:37:54.046Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Ensure You Have an App Installed That Can Open Such Files
 
  Windows presents this error primarily when it fails to find the appropriate app to open files. Therefore, first, you should check whether you have the right app installed to open files in this particular format. There are several ways to check this, but here is one of the easiest:
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 2. Right-click the file and select**Properties** .
 3. Navigate to the**General** tab and look for the file format next to**Type of file** .  
 ![Check the File Format in Properties Window of File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If it's a commonly used file format, such as PDF, JPEG, PNG, Docx, etc., for which you have the appropriate app installed, move on directly to heading #2\. However, if you see an unusual file format here—something you haven't seen before, make sure you have the appropriate app installed.
 
@@ -44,21 +52,17 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![Windows Suggesting Some Apps to Open the Image File in PNG Format](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-suggesting-some-apps-to-open-the-image-file-in-png-format.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If that's the case, simply go to any of your browsers, search for Windows apps that can run files in that format, and download them. After downloading the appropriate app, make it the default for opening this file type.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Set the Default Application for the File Type
 
  The error message states that if the app is already installed, you need to create an association in the Default Programs. If you already had the compatible app installed or have just downloaded it, your next step should be to set it as default for files having that file type or format. Setting the compatible application as default may solve this problem right away.
 
  If you haven't changed a default app before, check out our article on[Windows 11 default apps](https://www.makeuseof.com/change-windows-11-default-apps/) . The article discusses various ways to change the default app, but we recommend using the second method, which is using the Settings app. That's because this method lets you search for specific file formats and choose a default app for them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Is the Default App Already Selected? Repair or Change It
 
@@ -68,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
  Try these steps to see if they fix the problem. If the issue persists after that, we recommend you reinstall the app or select a different one as the default. If you don't have a different app installed on your device that supports these files, install one that does.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Check for Specific File Issues
 
  If you're opening the file in a compatible app, it's working normally, and you've already set it as default, but you're still encountering the error, verify the file itself isn't corrupt. To confirm that, open any other file having the same file format and see if it returns the same error.
@@ -80,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
  Misconfiguring the Registry settings can result in undesirable outcomes and even render your device unbootable. Before you try the next fix, create a[backup of the Windows Registry so you can restore it](https://www.makeuseof.com/tag/backup-restore-windows-registry/) if something goes wrong.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Use the Registry
 
  If none of the above fixes have been successful, try this registry tweak as a last resort:
@@ -91,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 1. Type**"regedit"** in Windows Search and open the**Registry Editor** .  
 ![Open Registry Editor App From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-1.jpg)
 2. Paste the path below into the address bar of Registry Editor.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Computer\HKEY_CLASSES_ROOT\lnkfile
 3. Select the**Inkfile** key. Then, look in the right pane and see if there is a string value called**"IsShortcut** .**"**  
@@ -104,10 +104,6 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 6. After that, follow step four to recreate it. Don't forget to rename it appropriately so you don't encounter any issues.
 
 7. Restart your device once after that.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Do You Encounter the Error When Opening Folders? Follow These Tips
 
@@ -123,6 +119,10 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 * If you're using a shortcut to open games, especially the ones installed in a gaming client, open them from the gaming client or the installation directory.
 * In case the game launcher requires you to log in before playing any of the installed games, ensure you do so.
 * If you're experiencing this error in a specific game or app, ensure its files haven't been corrupted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Easily Open Your Apps, Files, and Folders Again on Windows
 
@@ -143,18 +143,24 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-master-the-art-of-photo-editing-unveiling-pixlrs-power/"><u>[New] Master the Art of Photo Editing Unveiling Pixlr's Power</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-the-best-top-10-online-yoga-classrooms-for-fitness-enthusiasts/"><u>[Updated] Mastering the Best Top 10 Online Yoga Classrooms for Fitness Enthusiasts</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-megadatasky-affordable-space-for-big-files-for-2024/"><u>[Updated] MegaDataSky - Affordable Space for Big Files for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-free-dvd-rippers-showdown-evaluating-the-pros-and-cons-of-handbrake-versus-winx-dvd-ripper/"><u>Best Free DVD Rippers Showdown: Evaluating the Pros & Cons of HandBrake versus WinX DVD Ripper</u></a></li>
-<li><a href="https://win11.techidaily.com/delaying-windows-10-close-out-keep-running-programs-active/"><u>Delaying Windows 10 Close-Out: Keep Running Programs Active</u></a></li>
-<li><a href="https://win11.techidaily.com/dive-into-data-reducing-high-cpu-usage-with-resource-monitor/"><u>Dive Into Data: Reducing High CPU Usage with Resource Monitor</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/eyeview-assessment-surpassing-manycams-standards-for-2024/"><u>EyeView Assessment Surpassing ManyCam's Standards for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-effortlessly-set-up-chatgpt-on-linux-the-bavarder-method-unveiled/"><u>How to Effortlessly Set Up ChatGPT on Linux: The Bavarder Method Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-recover-lost-render-driver-in-overwatch-2/"><u>How to Recover Lost Render Driver in Overwatch 2</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-tecno-camon-30-pro-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Tecno Camon 30 Pro 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-error-sevenzeronine/"><u>Tackling Windows Error SevenZeroNine</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/rt-of-subdivision-how-to-efficiently-incorporate-chapters-in-your-youtube-vids-for-2024/"><u>The Art of Subdivision How to Efficiently Incorporate Chapters in Your YouTube Vids for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-applications-of-vcplusplus-release/"><u>Unveiling the Applications of VC++ Release</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixed-overcome-constant-freezing-errors-while-playing-ghostwire-tokyo-for-pc-users/"><u>[Fixed] Overcome Constant Freezing Errors While Playing Ghostwire: Tokyo for PC Users!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-snap-a-story-with-an-insightful-audio-clip-for-2024/"><u>[New] Snap a Story with an Insightful Audio Clip for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-exclusive-list-of-top-web-based-sound-capturers-2023/"><u>[Updated] 2024 Approved Exclusive List of Top Web-Based Sound Capturers 2023</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-high-quality-capture-the-best-applications-reviewed/"><u>[Updated] 2024 Approved High-Quality Capture The Best Applications Reviewed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-the-intersection-of-youtube-and-fb-video-posts/"><u>[Updated] Navigating the Intersection of YouTube and FB Video Posts</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620209216-create-customizable-mp3-ringtones-with-our-user-friendly-cutting-tool/"><u>Create Customizable MP3 Ringtones with Our User-Friendly Cutting Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-0xc000003e-exception-in-pc-startup-procedure/"><u>Decoding the 0XC000003E Exception in PC Startup Procedure</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easily-customize-your-input-methods-with-microsofts-on-screen-keyboard-feature-for-windows-10/"><u>Easily Customize Your Input Methods with Microsoft's On-Screen Keyboard Feature for Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-error-elimination-for-winscript-issues/"><u>Efficient Error Elimination for WinScript Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-already-in-use-error-streamline-windows-devices-names/"><u>Eliminating 'Already in Use' Error: Streamline Windows Devices Names</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-sonic-shifts-for-strategic-victories-in-free-fire/"><u>In 2024, Sonic Shifts for Strategic Victories in Free Fire</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-key-to-unlocking-gameplay-making-steam-and-windows-11-work-together/"><u>Master Key to Unlocking Gameplay: Making Steam and Windows 11 Work Together</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-c0000022-error-a-step-by-step-approach/"><u>Overcoming the C0000022 Error: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrect-microsoft-store-applications-with-ease/"><u>Resurrect Microsoft Store Applications with Ease</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-silent-logitech-g430-microphone-effective-troubleshooting-strategies/"><u>Revive Your Silent Logitech G430 Microphone - Effective Troubleshooting Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-rectifying-windows-camera-save-malfunction/"><u>Steps for Rectifying Windows Camera Save Malfunction</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-win-pcs-issue-with-non-opening-battlenet/"><u>Troubleshooting: Win PC's Issue with Non-Opening Battle.net</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-windows-11s-network-gateway-configuration/"><u>Understanding Windows 11'S Network Gateway Configuration</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-tips-revisiting-retro-gaming-via-my-pictures-haven/"><u>Win11 Tips: Revisiting Retro Gaming via My Pictures Haven</u></a></li>
 </ul></div>
 

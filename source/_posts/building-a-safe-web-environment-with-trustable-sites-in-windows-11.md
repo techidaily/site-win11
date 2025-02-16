@@ -1,7 +1,7 @@
 ---
 title: Building a Safe Web Environment with Trustable Sites in Windows 11
-date: 2024-07-29T15:55:25.278Z
-updated: 2024-07-30T15:55:25.278Z
+date: 2025-02-10T19:38:49.259Z
+updated: 2025-02-16T02:29:09.262Z
 tags:
   - windows10
   - windows11
@@ -33,18 +33,16 @@ thumbnail: https://thmb.techidaily.com/b2c741db963ad00df201883adf5f82b0b65621c38
 4. Click the **Trusted sites** icon and then click the **Sites** button.  
 ![Trusted sites option in Internet Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trusted-sites-option.jpg)
 5. Paste the copied URL in the **Add this website to the zone** field and then click the **Add** button.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Add button in Internet Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-button.jpg)
 6. Click the **Close** option and then **OK** to save the changes.
 
  To remove a website from the trusted list, access the **Trusted sites** window, select the website and then click the **Remove** button.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Remove button in Internet Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/remove-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a Website to the Google Chrome Trusted List
 
@@ -54,6 +52,11 @@ thumbnail: https://thmb.techidaily.com/b2c741db963ad00df201883adf5f82b0b65621c38
 2. Click the **Lock icon** on the left side of the URL box and choose **Site settings** from the menu that pops up.  
 ![Site settings option in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/site-settings.jpg)
 3. Click the drop-down icon next to the **Insecure content** option and choose **Allow** from the context menu. Then, restart Google Chrome.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Insecure content option in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/insecure-content.jpg)
 
  And that’s about it. Now you can access the added website without any pop-up or warning by Google Chrome.
@@ -63,28 +66,24 @@ thumbnail: https://thmb.techidaily.com/b2c741db963ad00df201883adf5f82b0b65621c38
 ![Block option in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/block-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add a Website to the Microsoft Edge Trusted List
 
  It's a straightforward process to add or remove a website to Microsoft Edge trusted list. Below is a step-by-step instruction on how to do that:
 
 1. Open Microsoft Edge and access the website you want to add to the Edge trusted list.
 2. Click the Lock icon on the left side of the URL box and choose **Permissions** **for this site** option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Permission for this site option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/permission-for-this-site.jpg)
 3. Choose Allow from the Insecure content drop-down menu. Then, restart Microsoft Edge to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![Allow option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/allow-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Allow option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/allow-option.jpg)
+
 ## How to Add a Website to the Mozilla Firefox Trusted List
 
  To add a website to Mozilla Firefox trusted list, follow the below steps:
@@ -94,26 +93,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Click the **hamburger icon** at the top right corner, and choose **Settings.**  
 ![Settings option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/settings-option.jpg)
 4. Choose the **Privacy** **& Security** option from the left sidebar and click the **Manage Exceptions** button in the right pane.  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Manage exceptions option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manage-exceptions-option.jpg)
 5. Paste the copied URL in the **Address of website** field and click the **Add Exception** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![Add exception option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-exception-option.jpg)
 6. Click the **Save Changes** option.
 
  If you want to remove a website from Mozilla Firefox's trusted list, access the Manage Exceptions window, select the website and click the **Remove Website** option. Then, click the Save Changes button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Remove Website option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/remove-website-option.jpg)
 
 ## How to Add a Website to the Brave Trusted List
@@ -122,12 +113,18 @@ No advertising on the website.
 
 1. On Brave, open the website you want to add to the trusted list.
 2. Click the Lock icon on the URL box and choose Site settings.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Lock icon in Brave](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/lock-icon.jpg)
 3. Click the drop-down icon next to the Insecure content option and choose Allow.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Insecure content option in Brave](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/insecure-content-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Set Up Trusted Sites List
 
@@ -135,11 +132,28 @@ No advertising on the website.
 
  In this article, we will show how to add trusted sites on Windows 11, plus instructions for various browsers such as Google Chrome, Brave, Microsoft Edge, and Mozilla Firefox.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-penning-perfectly-captivating-podcast-descriptions-for-2024/"><u>[Updated] Penning Perfectly Captivating Podcast Descriptions for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-10plus-top-free-subtitle-converter-websites/"><u>2024 Approved Unlocking 10+ Top Free Subtitle Converter Websites</u></a></li>
+<li><a href="https://win11.techidaily.com/detailed-guide-customizing-local-gpos-for-individual-users/"><u>Detailed Guide: Customizing Local GPOs for Individual Users</u></a></li>
+<li><a href="https://win11.techidaily.com/eschew-premature-edge-tab-activation-win11-style/"><u>Eschew Premature Edge Tab Activation, Win11 Style</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-deactivate-virtualization-on-win11-systems/"><u>How to Deactivate Virtualization on Win11 Systems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-a79-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo A79 5G FRP</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-proven-tactic-combining-gopro-footage-in-seamless-virtual-reality-experience/"><u>In 2024, Proven Tactic Combining GoPro Footage in Seamless Virtual Reality Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-widely-with-win11s-narrator-tricks/"><u>Navigate Widely with Win11's Narrator Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/realignment-of-windows-11-default-search-settings/"><u>Realignment of Windows 11 Default Search Settings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-your-sound-free-asus-realtek-audio-drivers-downloaded-easily/"><u>Secure Your Sound: Free ASUS Realtek Audio Drivers Downloaded Easily!</u></a></li>
+<li><a href="https://discover-able.techidaily.com/securing-your-system-with-windows-nv-11-top-safety-solutions-from-yl-computings-perspective/"><u>Securing Your System with Windows Nv 11: Top Safety Solutions From YL Computing's Perspective</u></a></li>
+<li><a href="https://extra-support.techidaily.com/solving-movie-editing-queries-with-filmora-guidance-for-2024/"><u>Solving Movie-Editing Queries with Filmora Guidance for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-device-drivers-that-fail-to-function-on-windows-11/"><u>Troubleshooting Device Drivers that Fail to Function on Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-say-goodbye-to-shaky-cam-mastering-video-stabilization-in-fcpx/"><u>Updated Say Goodbye to Shaky Cam Mastering Video Stabilization in FCPX</u></a></li>
+</ul></div>
+

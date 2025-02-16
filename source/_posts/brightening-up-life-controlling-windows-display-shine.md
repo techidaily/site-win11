@@ -1,7 +1,7 @@
 ---
 title: "Brightening Up Life: Controlling Windows Display Shine"
-date: 2024-07-29T15:51:52.522Z
-updated: 2024-07-30T15:51:52.522Z
+date: 2025-02-12T04:26:58.074Z
+updated: 2025-02-15T17:53:22.960Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 
  There are several reasons for this: corrupt system files, outdated display drivers, insufficient battery level, misconfigured power settings, and more. So, if you want relief for your strained eyes, here are a few fixes you can apply to resolve the issue and adjust your display's brightness again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use a Different Method to Adjust the Brightness Level
 
  First, you should use a different method to adjust your display's brightness from what you usually use. That way, you can check if the issue is specific to that adjustment setting or if it affects your entire system. For instance, if you can't change the brightness using your keyboard fn key but can change it with Windows settings, the key could just be disabled or broken.
@@ -28,16 +32,10 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 
  In most cases, you cannot change external monitor brightness from Windows settings—you must manually adjust this setting. If the external monitor's brightness setting is unresponsive, check your monitor's manual to find the brightness buttons' location and how you can adjust it.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## 2\. Reboot Your Device
 
  If none of the methods for changing your display's brightness work, reboot your device once. Doing so will ensure that a temporary problem with your operating system isn't preventing you from changing the brightness. If rebooting your device does not make a difference, apply the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update, Restart, or Reinstall the Drivers
 
  If restarting your computer didn't fix the issue, you should check for driver updates. This lets you determine whether corrupt or malfunctioning graphics drivers cause the problem. Follow these steps to update the relevant drivers:
@@ -46,6 +44,11 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 2. Expand the**Monitors** category, right-click on the drivers listed there, and choose**Update driver** .  
 ![Updating the Generic PnP Monitor Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/updating-the-generic-pnp-monitor-driver.jpeg)
 3. After that, expand the**Display adapters** category, right-click on the drivers listed there, and click**Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update Display Driver in Display Adapters Category of Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-update-display-driver-in-display-adapters-category-of-windows-device-manager.jpg)
 
  If updating the drivers does not resolve the issue, right-click on both drivers individually and select**Disable device** . To enable them again, right-click on each and select**Enable device** .
@@ -54,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 
  In case that doesn't work either, you should uninstall both drivers. To do that, right-click on both drivers individually and select**Delete device** . After that, reboot your device again, and Windows will reinstall them.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Uninstall Display Device in Windows Device Mananger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-uninstall-display-device-in-windows-device-mananger.jpg)
 
 ## 4\. Recharge Your Device
@@ -68,17 +68,15 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
  If your battery is low, you should recharge your computer. Once your battery reaches a healthy level, you can adjust the brightness as usual. Or if you experienced the problem when you turned on battery-saving mode, you should turn it off or change its settings to allow you to change your monitor's brightness.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Repair Corrupted System Files
 
  Corrupt system files can impede many Windows features from working correctly and cause your device's brightness to freeze. So, you should rule out this possibility. Fortunately, Windows has a built-in tool—the System File Checker—to fix corrupt system files.
 
  So,[run the SFC to repair corrupt system files](https://www.makeuseof.com/system-file-checker-sfc-windows/) . Hopefully, after the scan, you can adjust your display's brightness again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## 6\. Change Your Display Settings
 
  Windows allows users to set the brightness to change automatically as the lightning condition changes. Likewise, you can customize its Night Light settings, Select a Color Profile for compatible monitors, and manage other settings to enhance your display's appearance. While these settings are helpful, they often impede brightness adjustment.
@@ -87,13 +85,14 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 
 1. Right-click on the Windows**Start** button and go to the**Settings** app.
 2. Go to**System > Display** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Go to Display Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-go-to-display-settings-in-windows-settings-app.jpg)
 3. Expand the**Brightness** menu and uncheck the boxes beside**Change brightness automatically when lighting changes** and **Help improve battery by optimizing the content shown and brightness** .  
 ![Change the Display Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-the-display-settings-in-windows-settings-app.jpg)
 4. After that, turn off the toggle next to**Night light** if it is turned on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Install Pending Windows Updates
 
@@ -102,13 +101,9 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
  You should check for and[install Windows 11 updates](https://www.makeuseof.com/windows-11-install-updates/) to ensure that's not the case.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Perform a System Restore
 
  If your PC is fully updated and you still can't adjust its brightness, your next step is performing a system restore. While this fix is what some would call the "nuclear option" as it reverts customizations you've made since the last restore point, it will undo any changes to the system that have caused the brightness issue you're experiencing.
@@ -121,14 +116,11 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 
  But if you're still having occasional trouble adjusting your monitor's brightness or are looking for a way to balance the brightness of multiple displays, you should check out the best brightness control apps on Windows to help you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +129,21 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-avoid-spending-discover-the-finest-free-mac-screen-recorders/"><u>[New] 2024 Approved Avoid Spending Discover the Finest Free Mac Screen Recorders</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-a-step-by-step-guide-to-stunning-image-artistry-mosaics/"><u>[Updated] A Step-By-Step Guide to Stunning Image Artistry Mosaics</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/app-market-showdown-comparing-apples-ios-app-store-with-google-play/"><u>App Market Showdown: Comparing Apple's IOS App Store with Google Play</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beware-of-hazards-why-installing-the-google-bard-application-could-be-a-mistake/"><u>Beware of Hazards: Why Installing the Google Bard Application Could Be a Mistake</u></a></li>
+<li><a href="https://discover-data.techidaily.com/comment-configurer-la-protection-automatique-et-le-recuperation-de-documents-microsoft-word-sous-windows-11/"><u>Comment Configurer La Protection Automatique Et Le Récupération De Documents Microsoft Word Sous Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-windows-ram-cache-explained/"><u>Demystifying Window's RAM Cache Explained</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-to-install-nvidia-geforce-gtx-ebx-460-drivers-in-windows/"><u>Easy Steps to Install NVIDIA GeForce GTX Ebx 460 Drivers in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-win11-navigation-keys-list/"><u>Essential Win11 Navigation Keys List</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-win-xpvista-df-failsafe/"><u>How to Stop Win XP/Vista DF Failsafe</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/leading-rogue-adventures-10-game-compilation/"><u>Leading Rogue Adventures #10 Game Compilation</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-your-pcs-firewall-settings-with-ease/"><u>Navigating Your PC's Firewall Settings with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/relocating-onedrive-space-in-windows-os/"><u>Relocating OneDrive Space in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/silent-setup-strategies-concealed-menu-options-win-1011/"><u>Silent Setup Strategies: Concealed Menu Options, Win 10/11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-creating-a-duel-on-tiktok/"><u>The Ultimate Guide: Creating a Duel on TikTok</u></a></li>
+</ul></div>
 

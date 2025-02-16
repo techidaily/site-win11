@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art: Sidestepping File Explorer Faux Pas"
-date: 2025-02-01T19:09:15.867Z
-updated: 2025-02-03T23:50:25.464Z
+date: 2025-02-09T16:41:40.153Z
+updated: 2025-02-16T00:46:50.537Z
 tags:
   - windows10
   - windows11
@@ -25,17 +25,9 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disregarding the Power of Tabs in File Explorer
 
 ![Windows 11 File Explorer with so many tabs open and scroll arrow buttons showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-explorer-title-bar-scroll-buttons.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you're running Windows 11, version 22H2 with Moment 3 update, you can open multiple tabs in File Explorer, just like in a web browser. When you don't use the feature, you have multiple folders that are opened in multiple windows, making switching between folders inconvenient.
 
@@ -44,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
  Tabs can save you time, as you don't have to click multiple times to close multiple windows. You can learn [how to use tabs in File Explorer](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) to become more productive on Windows 11\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Neglecting Keyboard Shortcuts
@@ -84,12 +76,16 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
  If you type "name:" followed by the file's name, it will only display the exact file you typed. You can also use "kind," "size," and "date." as syntax, too. For example, typing "size: 84 KB" in the File Explorer search box will display only a list of files that are of that size.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Relying on Both Keyboard and Mouse To Select Multiple Files
 
 ![man using keyboard and mouse on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keyboard-and-mouse-on-desk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
@@ -104,7 +100,7 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 ![rename atig6pxx dll file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-atig6pxx-dll-file.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One of the reasons you're facing challenges in finding files or folders could be that you aren't naming them properly. And if you have many of them, it can get messy.
@@ -112,6 +108,10 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
  There are also some restrictions to what you can use in a file or folder name. You must know all that to avoid getting surprises whenever you name them.
 
  To help you, we have some [pro tips for naming and organizing files in Windows](https://www.makeuseof.com/pro-tips-naming-organizingfiles-windows/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Not Taking Advantage of Customization Options in File Explorer
 
@@ -139,22 +139,21 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-amusing-clip-loading-appraisal/"><u>[New] Amusing Clip Loading Appraisal</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-top-10-secrets-to-skyrocket-your-social-media-engagement-on-fb-for-2024/"><u>[New] Top 10 Secrets to Skyrocket Your Social Media Engagement on FB for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-methods-to-clear-up-obs-fullscreen-troubles/"><u>[Updated] Methods to Clear Up OBS Fullscreen Troubles</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-revolutionize-your-workflow-the-top-7-digital-tokens-makers/"><u>[Updated] Revolutionize Your Workflow - The Top 7 Digital Tokens Makers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparative-analysis-of-leading-ais-gpt-vs-microsoftgoogles-creations/"><u>Comparative Analysis of Leading AIs: GPT Vs. Microsoft/Google's Creations</u></a></li>
-<li><a href="https://win11.techidaily.com/harnessing-ai-potential-for-ultimate-user-experience-at-ms-store/"><u>Harnessing AI Potential for Ultimate User Experience at MS Store</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-s17-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo S17 to PC? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-solve-microsoft-windows-camera-error-code-a00f425d/"><u>How to Solve Microsoft Windows Camera Error Code: A00F425D</u></a></li>
-<li><a href="https://win11.techidaily.com/initiating-printer-access-within-application-guards-secure-environment/"><u>Initiating Printer Access Within Application Guard's Secure Environment</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/leading-the-field-in-remotely-recorded-content-creation/"><u>Leading the Field in Remotely Recorded Content Creation</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-legacy-keyboard-triggers-for-narrator/"><u>Mastering Legacy Keyboard Triggers for Narrator</u></a></li>
-<li><a href="https://win11.techidaily.com/powertoys-settings-transfer-guide-for-new-users/"><u>PowerToys Settings Transfer Guide for New Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-addressing-problems-with-laptopdesktop-startup-failures/"><u>Step-by-Step Solution: Addressing Problems with Laptop/Desktop Startup Failures</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-recovery-from-crushing-windows-c0000022-error/"><u>Steps to Recovery From Crushing Window's C0000022 Error</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-grouping-files-into-windows-11-directories/"><u>The Ultimate Guide to Grouping Files Into Windows 11 Directories</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-unblocking-screen-settings-on-pcs/"><u>The Ultimate Guide to Unblocking Screen Settings on PCs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-snapping-pc-screenshots-like-a-pro/"><u>Ultimate Tutorial: Snapping PC Screenshots Like a Pro</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-master-your-audience-smooth-screen-sharing-on-social-livestreams/"><u>[New] In 2024, Master Your Audience Smooth Screen Sharing on Social Livestreams</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-simplifying-google-meet-on-android-devices/"><u>[Updated] 2024 Approved Simplifying Google Meet on Android Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-lasting-eradication-strategy-for-youtube-shorts-feature/"><u>[Updated] Lasting Eradication Strategy for YouTube Shorts Feature</u></a></li>
+<li><a href="https://article-helps.techidaily.com/best-video-gear-of-2024-our-curated-list-unleashed/"><u>Best Video Gear of 2024 – Our Curated List Unleashed</u></a></li>
+<li><a href="https://windows11.techidaily.com/breached-byte-bastion-maintain-reflect-then-switch/"><u>Breached Byte Bastion: Maintain, Reflect, Then Switch</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-invalid-device-names-in-windows-11/"><u>Correcting Invalid Device Names in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-audio-precision-with-these-five-editors/"><u>Enhance Audio Precision with These Five Editors</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-steps-for-successfully-installing-the-latest-arduino-driver-update-on-windows/"><u>Essential Steps for Successfully Installing the Latest Arduino Driver Update on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-handle-windows-defender-error-code-0x80004004/"><u>How to Handle Windows Defender Error Code 0X80004004</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-realme-c53-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme C53 Without Password | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-error-e8024002e-in-windows-updates/"><u>Navigating Error E:8024002E in Windows Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-directory-name-challenges-creative-fixes-for-windows-11/"><u>Overcoming Directory Name Challenges: Creative Fixes for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-authenticity-choosing-legitimate-windows-software/"><u>The Art of Authenticity: Choosing Legitimate Windows Software</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unilateral-windows-headphone-functionality/"><u>Troubleshooting: Unilateral Windows Headphone Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-the-beginning-of-windows-11-where-and-how-to-find-the-start-button/"><u>Unlocking the Beginning of Windows 11: Where and How to Find the Start Button</u></a></li>
 </ul></div>
 

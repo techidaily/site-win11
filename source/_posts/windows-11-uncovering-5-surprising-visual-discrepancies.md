@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Uncovering 5 Surprising Visual Discrepancies"
-date: 2025-01-28T10:03:01.217Z
-updated: 2025-02-03T22:19:45.297Z
+date: 2025-02-14T04:38:00.254Z
+updated: 2025-02-15T18:20:09.579Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Does Windows 11 Have So Many Design Inconsistencies?
 
  Windows 11 is in the process of moving much of its UI elements over to a new framework, known as WinUI.
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
  Still, let's have a look at the more noticeable design flaws present in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. An Outdated Control Panel
 
 ![screenshot of the windows 11 control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_outdated_windows_11_control_panel.jpg)
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
  Giving the user the option to open the Windows 7 Backup and Restore tool in Windows 11 is a bit of an eyebrow-raiser. This tool functions fine for Windows 11, and the error really is only in the name.
 
  One would think such a minor text element would be an easy fix, but here we are.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Menu Differences on Lock Screen
 
@@ -67,20 +63,20 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
 ![screenshot of the windows 11 taskbar showing context menu differences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_taskbar_context_menu_differences.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The taskbar is full of some interesting quirks. First, the context menu will appear slightly differently depending on if you're right-clicking the taskbar, an icon, or a system icon. Additionally, the flyouts for different system menus can adhere to different spacing, sizing, or brush coloration.
 
  Depending on how up-to-date your version of Windows 11 is, you may even see Windows 10-era context menus on different system icons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. UI Ignoring Dark Mode
 
 ![screenshot of windows 11 control panel and task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_control_panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When Windows 11 is set to dark mode, many default apps don't care.
@@ -90,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
  This is a prevalent issue that will show itself in other elements on this list. It's worth learning[how to enable and customize dark mode on Windows 11 yourself](https://www.makeuseof.com/windows-11-dark-mode/) to see how many default programs and apps don't behave.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Settings Is a Mess
@@ -102,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
  It's the amount of settings applications you can launch from this menu that show a wide range of different design elements.
 
  From Disk Management resembling something from XP, to Device Manager still showing signs of the Windows 10 days, you can find something a little different in every submenu of the Windows 11 settings menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Different Context Menus
 
@@ -115,13 +115,13 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
  Right-clicking on a taskbar icon will produce yet a different looking context menu. Even more, depending on your version of Windows 11, you can see a different context menu in the file explorer and even on different desktop icons.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. On-Screen Keyboard
 
 ![screenshot of the windows 11 on screen keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_onscreen_keyboard.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In an interesting inverse to the rest of the UI inconsistencies, the on-screen keyboard actually sticks to a dark theme even if you've selected a light theme.
 
@@ -150,22 +150,14 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-best-8-private-video-downloaders/"><u>[New] 2024 Approved Best 8 Private Video Downloaders</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-upgrade-your-whatsapp-experience-with-a-bespokel-ringtones-design/"><u>[New] 2024 Approved Upgrade Your WhatsApp Experience with a Bespokel Ringtones Design</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-your-2023-guide-best-applications-for-downloading-lite-facebook-videos/"><u>[New] 2024 Approved Your 2023 Guide Best Applications for Downloading Lite Facebook Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-commanders-quest-embarking-on-the-most-spectacous-7-total-wars/"><u>[Updated] 2024 Approved Commanders' Quest Embarking on The Most Spectacous 7 Total Wars</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-effective-method-for-personalizing-fb-page-coverage-for-2024/"><u>[Updated] Effective Method for Personalizing FB Page Coverage for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/choosing-the-right-fps-30-or-60-which-is-better/"><u>Choosing the Right FPS 30 or 60, Which Is Better?</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-nubia-red-magic-9-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Nubia Red Magic 9 Pro Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-spacex-and-t-mobile-partnership-may-disrupt-competitor-mobile-services-insights-from-atandt-and-verizon/"><u>How SpaceX & T-Mobile Partnership May Disrupt Competitor Mobile Services - Insights From AT&T & Verizon</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-ditch-mobility-control-in-w11/"><u>How To Ditch Mobility Control in W11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/improve-win11-notepad-through-intelligent-coach/"><u>Improve Win11 Notepad Through Intelligent Coach</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-interface-for-device-customization-in-windows-11/"><u>Navigating the Interface for Device Customization in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-tackle-error-codes-on-windows/"><u>Steps to Tackle Error Codes on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/syncing-soundflow-in-audacity-win1011s-paudio-challenge/"><u>Syncing Soundflow in Audacity, Win10/11’s PAudio Challenge</u></a></li>
-<li><a href="https://win11.techidaily.com/title-enhancing-window-organization-by-icon-adjustment/"><u>Title: Enhancing Window Organization by Icon Adjustment</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshoot-microsoft-store-login-top-solutions/"><u>Troubleshoot Microsoft Store Login: Top Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/turn-off-cortana-in-windows-11/"><u>Turn Off Cortana in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-the-10-most-powerful-drawing-tools-on-chrome-os/"><u>[New] Explore the 10 Most Powerful Drawing Tools on Chrome OS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-ensuring-accurate-earnings-tracking-for-creators/"><u>[Updated] 2024 Approved Ensuring Accurate Earnings Tracking for Creators</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-exclusive-download-hassle-free-video-closures-here/"><u>[Updated] Exclusive Download Hassle-Free Video Closures Here</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/download-tune-tracker-get-your-favorite-slacker-streams-and-melodies/"><u>Download Tune Tracker: Get Your Favorite Slacker Streams and Melodies</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streamlining-video-updates-on-youtube/"><u>In 2024, Streamlining Video Updates on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstart-remote-sessions-in-windows-11-no-password-needed/"><u>Jumpstart Remote Sessions in Windows 11, No Password Needed</u></a></li>
+<li><a href="https://win11.techidaily.com/perfectly-installing-google-chrome-on-windows-11/"><u>Perfectly Installing Google Chrome on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-faulty-wired-or-wireless-input-devices/"><u>Reactivating Faulty Wired or Wireless Input Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-ultimate-potential-with-customized-radeon-graphics-settings/"><u>Unleash Ultimate Potential with Customized Radeon Graphics Settings</u></a></li>
 </ul></div>
 

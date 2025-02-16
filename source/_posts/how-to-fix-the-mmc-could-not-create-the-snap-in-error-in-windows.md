@@ -1,7 +1,7 @@
 ---
 title: How to Fix the MMC Could Not Create the Snap-In Error in Windows
-date: 2025-02-02T22:06:18.588Z
-updated: 2025-02-04T07:04:04.111Z
+date: 2025-02-09T21:42:47.973Z
+updated: 2025-02-16T00:09:11.889Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 ![delete-registry-key-mmc-snap-in-windows-registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-registry-key-mmc-snap-in-windows-registry.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the registry configuration for the affected snap-in is broken, it may trigger the "MMC could not create the snap-in" error. To fix the issue, you’ll need to delete the corrupt registry entry associated with the snap-in. Here’s how to do it.
@@ -50,13 +50,13 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 4. Close the **Registry Editor** and restart your computer.
 5. After the restart, open the administrative tool snap-in to see if the error is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Enable .NET Framework
 
 ![enable net framework 3 5 windows features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-net-framework-3-5-windows-features.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also fix this error by enabling .NET Framework 3.5\. The idea is that one of the snap-ins on your PC may need .NET Framework 3.5 to work. So, if the feature is disabled, you may encounter an error.
 
@@ -70,13 +70,13 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 4. Next, click to **Apply** the changes and install the feature.
 5. Once installed, you’ll be prompted to restart the computer. Restart your system, and the MMC snap-in should work now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Check for and Repair Corrupt System Files
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan-health-restore-health-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have one or more corrupt system files, it may cause issues with the system apps. You can run the System File Checker tool to determine if the problem is due to system file issues. It will scan and check the integrity of systems files and automatically repair them to fix the problem.
 
@@ -84,13 +84,13 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
  If you're not sure how to run either of these tools, we cover both in our guide on [how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Remove and Reinstall the Microsoft Visual C++ Redistributable
 
 ![repair microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-microsoft-visual-c-plus-plus-distributable-package.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the issue persists, try to fix and repair issues with the Visual C++ Redistributable package. If there are any issues with the package, it can cause the MMC snap-ins to stop working.
 
@@ -108,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 ![uninstall microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/uninstall-microsoft-visual-c-plus-plus-distributable-package.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Select the **Microsoft Visual C++ package** in Control Panel and click on **Uninstall**.
@@ -137,18 +137,22 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-cultivating-community-in-stardews-ginger-territory-for-2024/"><u>[Updated] Cultivating Community in Stardew’s Ginger Territory for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-virtual-reality-grips-the-ultimate-selection/"><u>[Updated] In 2024, Virtual Reality Grips The Ultimate Selection</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-top-5-ios-platforms-for-experiencing-classic-psp-games-for-2024/"><u>[Updated] Top 5 iOS Platforms for Experiencing Classic PSP Games for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028360556-7/"><u>「最適なビデオ寸法変更サイト・上位7推奨」</u></a></li>
-<li><a href="https://win11.techidaily.com/44cm44km44kn44ow44ox44os44k844oz44og44o844k344on44oz44gu44gf44kb44gr44k544op44kk44oj44k344on44o844ot44oh44kq44ks5yq55p6c55qe44gr57eo6zug44gz44kl5oqa6kgt44cn1/"><u>「ウェブプレゼンテーションのためにスライドショービデオを効果的に編集する技術」</u></a></li>
-<li><a href="https://win11.techidaily.com/a-beginners-guide-to-converting-dvd-content-into-avi-format-with-minimal-hassle/"><u>A Beginner's Guide to Converting DVD Content Into AVI Format with Minimal Hassle</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-2022-pick-me-ups-on-the-go-expert-reviews-of-hot-and-cold-mug-options-by-zdnet/"><u>Best 2022 Pick-Me-Ups on the Go: Expert Reviews of Hot and Cold Mug Options by ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-nokia-c22-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Nokia C22 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028106781-dvd/"><u>DVDの正常再生を保証する!理解しやすく簡単に修復する方法</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-infinix-smart-8-hd-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Infinix Smart 8 HD Phone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-s18-pro-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo S18 Pro FRP Without Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/1726029205926-iphone/"><u>IPhoneにおける「読み込めない動画エラー」を克服する方法</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028985392-mp3/"><u>MP3音量比率変更ツールをご利用いただける場所と使い方ガイド</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nlocking-wealth-with-youtube-shorts-ventures/"><u>[New] Unlocking Wealth with YouTube Shorts Ventures</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ion-air-pro-3-review-unleashing-videography-potential/"><u>[Updated] 2024 Approved ION Air Pro 3 Review Unleashing Videography Potential</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-save-music-files-from-fb-for-2024/"><u>[Updated] Save Music Files From Fb for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-durability-meets-photography-with-nikon-w100/"><u>Affordable Durability Meets Photography with Nikon W100</u></a></li>
+<li><a href="https://win11.techidaily.com/cool-down-guide-to-your-windows-system/"><u>Cool Down Guide to Your Windows System</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-amd-ryzen-amoled-2400g-gpu-software/"><u>Easy Installation of AMD Ryzen Amoled 2400G GPU Software</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/from-youtube-watch-parties-to-home-auditory-archives/"><u>From YouTube Watch Parties to Home Auditory Archives</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-address-and-solve-the-windows-11-not-installed-error-code-80240020-issue/"><u>How to Correctly Address and Solve the 'Windows 11 Not Installed - Error Code 80240020' Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722902235715-how-to-get-rid-of-pin-based-login-from-windows-11-detailed-steps-inside/"><u>How to Get Rid of Pin-Based Login From Windows 11 - Detailed Steps Inside!</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-high-dpi-display-scaling-issues-in-windows/"><u>Overcoming High DPI Display Scaling Issues in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-stalled-utorrent-transfers-a-guide-for-windows-devices/"><u>Remedying Stalled uTorrent Transfers: A Guide for Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-11-update-error-code-0x80246007/"><u>Resolving Windows 11 Update Error Code: 0X80246007</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-overloaded-chatgpt-on-pc/"><u>Solving Overloaded ChatGPT On PC</u></a></li>
+<li><a href="https://win11.techidaily.com/tactics-to-unlock-windows-non-openable-folders-with-a-click-twice/"><u>Tactics to Unlock Windows' Non-Openable Folders with a Click Twice</u></a></li>
+<li><a href="https://win11.techidaily.com/top-tricks-to-reinstate-firewall-in-windows-os/"><u>Top Tricks to Reinstate Firewall in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steps-for-server-stumbled-on-windows-store-app/"><u>Troubleshooting Steps for Server Stumbled on Windows Store App</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unveiling-the-power-of-srt-in-broadcasting-for-2024/"><u>Unveiling the Power of SRT in Broadcasting for 2024</u></a></li>
 </ul></div>
 

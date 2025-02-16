@@ -1,7 +1,7 @@
 ---
 title: Clearing Up Camera App Glitches on Windows 11'S F429F Issue
-date: 2024-07-29T15:53:10.706Z
-updated: 2024-07-30T15:53:10.706Z
+date: 2025-02-13T23:37:28.123Z
+updated: 2025-02-16T00:52:47.771Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2
  That issue can be a big inconvenience for users who often utilize the Camera app. If error 0xA00F429F is preventing you from recording with the Camera app, here is how you can fix it in Windows 11 and 10.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Enable Webcam Access for the Affected Apps
 
  You can’t use your PC’s webcam with Windows Camera if camera access for apps is disabled. So, check the basic camera access settings for apps are enabled in Windows before anything else. You can enable webcam app access within Windows 11' Settings like this:
@@ -37,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2
 
  The Settings app’s layout is a little different in Windows 10, but you can still configure camera access much the same. Click**Privacy** \>**Camera** in Windows 10’s Settings app to reach the required options. Then click the**Change** button to turn on the**Camera** access for this device option.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 2\. Enable and Start the Windows Camera Frame Server Service
 
  Error 0xA00F429F can often be due to a disabled Windows Camera Frame Server service. Some users who’ve needed to resolve the 0xA00F429F error have confirmed that enabling and starting the service fixed the issue. This is how you can enable and start the Windows Camera Frame Server service:
@@ -47,11 +45,13 @@ thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2
 1. To open the Windows Services app, press**Win + R** . Then input the**services.msc** Run command and click**OK** to view Services.
 2. Double-click**Windows Camera Frame Server** to open that service’s properties window.
 3. Select an**Automatic** startup option for Windows Camera Frame Server.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Automatic startup type option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/automatic-option-1.jpg)
 4. Click**Start** (in the properties window) if the Windows Camera Frame Server service isn’t running.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select the**Log on** tab for the service.  
 ![The Local System account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/local-system-account-option.jpg)
 6. Click the**Local System account** checkbox if that option isn’t selected.
@@ -70,11 +70,12 @@ thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2
 4. Then input**EnableFrameServerMode** in the DWORD’s name box.
 5. Double-click the**EnableFrameServerMode** DWORD.
 6. Set the**EnableFrameServerMode** value to**0** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/edit-dword-value-window.jpg)
 7. Restart Windows before opening Windows Camera again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reset the Camera App
 
@@ -82,10 +83,11 @@ thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2
 
  You can clear the data for Windows Camera as covered in our[how to reset apps in Windows 10 and 11](https://www.makeuseof.com/windows-reset-app/) guide. While you’re at it, you can also try selecting Camera’s**Repair** option if resetting the app doesn’t make a difference.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![The Reset option for the Camera app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/camera-reset-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Allow the Camera App Through Windows Defender Firewall
 
@@ -93,24 +95,22 @@ thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2
 
  Our guide on[allowing apps through the Windows Defender firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) provides full instructions for how to apply this resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Allowed apps through firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allowed-firewall-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The same also applies to users who’ve installed third-party firewalls or antivirus software packages that include them. Check the app permission list for any third-party firewall, and select to permit Windows Camera through it.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Disable the Camera Shields in Third-Party Antivirus Software Packages
 
  Also, note that some antivirus software packages have camera shields that prevent apps from accessing webcams. For example, Avast Premium Security is one such antivirus tool that incorporates a Webcam Shield feature. If you have installed third-party antivirus software, check to see if it has such a camera shield and disable it if it’s enabled.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Update Your Webcam’s Driver
 
  The error 0xA00F429F message suggests updating camera drivers as a potential solution for this issue. That highlights this error can arise because of an outmoded or faulty camera device driver on your PC. So, try updating the driver for your PC’s webcam if it needs updating.
@@ -126,17 +126,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Open Run, type**PowerShell** into that app’s command box, and select**OK** .
 2. Then enter and execute this command to remove the Camera app:  
 `Get-AppxPackage *camera* | Remove-AppxPackage`  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![The remove Camera app PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/remove-camera-command.jpg)
 3. Select**Restart** on the**Power** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Open the[Windows Camera Microsoft Store](https://apps.microsoft.com/store/detail/windows-camera/9WZDNCRFJBBG) page in a web browser.
 5. Click Windows Camera’s**Get** in Store app button.
 6. Select**Open in Microsoft Store** inside the little dialog box that appears.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![The Windows Camera app page in MS Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-camera-app-page.jpg)
 7. Click**Get in the MS Store** app to reinstall the Camera app.
 
@@ -150,8 +149,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +156,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-neptune-display-premium-4k-all-in-one-screens/"><u>[New] 2024 Approved Neptune Display Premium 4K All-in-One Screens</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-sleep-inducing-series-analyzing-video-bedtime-stories/"><u>[Updated] In 2024, The Sleep-Inducing Series Analyzing Video Bedtime Stories</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-clutter-a-fast-track-to-a-pristine-win11/"><u>Conquer Clutter: A Fast-Track to a Pristine Win11</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/data-recovery-essentials-how-to-find-and-access-your-backups-with-guidance-from-yl-software-solutions/"><u>Data Recovery Essentials: How to Find & Access Your Backups with Guidance From YL Software Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-hdcp-failures-troubleshooting-steps-and-solutions/"><u>Decoding HDCP Failures: Troubleshooting Steps and Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-controlled-access-a-step-by-step-for-windows-10-and-11/"><u>Enabling Controlled Access: A Step-by-Step for Windows 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-these-superior-webp-viewers-for-windows-users/"><u>Explore These Superior WebP Viewers for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-an-issue-when-igfxem-module-stops-functioning/"><u>How To Fix An Issue When iGFXem Module Stops Functioning</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-laserjet-1102w-driver-for-pc-installation/"><u>HP LaserJet 1102W Driver for PC Installation</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-oneplus-nord-ce-3-lite-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From OnePlus Nord CE 3 Lite 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-iphone-7-live-view-recording-tutorial/"><u>In 2024, IPhone 7 Live View Recording Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-pc-performance-for-exciting-valorant-sessions/"><u>Optimize PC Performance for Exciting Valorant Sessions</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-windows-11-calculator-unlock/"><u>Quick Tips: Windows 11 Calculator Unlock</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-admin-controlled-features-in-windows-11-systems/"><u>Resetting Admin-Controlled Features in Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-retro-replays-linking-legends-with-pcs-photos-folder/"><u>Reviving Retro Replays: Linking Legends with PCs' Photos Folder</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-photosavefailure-in-windows-11/"><u>Tackling PhotoSaveFailure in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-pros-guide-to-mastering-20-windows-cmd-commands/"><u>The Pro's Guide to Mastering 20 Windows CMD Commands</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unleashing-screen-content-with-zdsofts-magic-for-2024/"><u>Unleashing Screen Content with ZDSoft's Magic for 2024</u></a></li>
+</ul></div>
 

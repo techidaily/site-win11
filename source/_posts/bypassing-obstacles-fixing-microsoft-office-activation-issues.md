@@ -1,7 +1,7 @@
 ---
 title: "Bypassing Obstacles: Fixing Microsoft Office Activation Issues"
-date: 2024-07-29T15:53:09.843Z
-updated: 2024-07-30T15:53:09.843Z
+date: 2025-02-08T18:35:58.776Z
+updated: 2025-02-16T02:19:12.242Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
  Do you encounter the "Product Activation Failed" error when you open Office desktop applications? Do you want to use Word, Excel, and other apps, but an error bar appears on the screen informing you that your product has been deactivated and you should reactivate it first? You might find this extremely frustrating, especially when you have to complete a project urgently.
 
  Why does this issue occur? This article will discuss the causes of this error on Windows and how to fix it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Causes the "Product Activation Failed" Error in Microsoft Office Apps?
 
@@ -38,25 +42,20 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 
  Now let's see how to check the above settings and apply the solutions to prevent this error from occurring again.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Apply Some Preliminary Fixes
 
 First, perform the following preliminary checks:
 
 * Run the Office application as an administrator. Type the app name in Windows Search, right-click its icon, and click**Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Running the Microsoft Word App As an Administrator From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/1-running-the-microsoft-word-app-as-an-administrator-from-windows-search.jpg)
 * Ensure Microsoft Word, Microsoft Excel, or any other app you're using is up-to-date. For that, open the app, navigate to the**File** tab, and select**Account** on the left sidebar. Then, click on the**Update Options** dropdown and select**Update Now** .
 
 If the above steps don't help, try applying the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Don't Use a Cracked Version of Microsoft Office Apps
 
  To activate Microsoft Office apps legally, you should always purchase the subscription from Microsoft's website or its trusted partners. If you have used a crack or third-party activator to activate these apps and encountered this issue after a few days, Microsoft is likely to have detected this unauthorized activation and blocked it.
@@ -64,8 +63,9 @@ If the above steps don't help, try applying the remaining fixes.
  Therefore, if you have chosen an illegitimate path, purchase the Microsoft 365 subscription, and this error will be resolved. If you want to get a better deal, check out our article covering[different ways to get cheap Microsoft Office and Microsoft Word licenses](https://www.makeuseof.com/tag/microsoft-office-cheap/) .
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Don't Use a Pirated Copy of Windows
 
  Just as you should avoid activating Office apps through unauthorized means, you shouldn't use unauthorized gateways to activate Windows. If Microsoft detects that you are using a copy of Windows that is not legitimate, it may block your access to certain apps and features.
@@ -80,11 +80,6 @@ If the above steps don't help, try applying the remaining fixes.
 
  If the subscription has expired, you will have to renew it to fix the error. However, if you have not received any email and the subscription is still active, you might be logged in to Microsoft apps with a different account.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### 5\. Ensure You Are Logged Into the Correct Account
 
  You must use the same Microsoft account you used to buy the subscription to access all features of the Office apps. If you share your computer with others, they might have logged in to their accounts that do not have active subscriptions.
@@ -95,23 +90,15 @@ To ensure that's not the case, follow the below steps:
 2. Navigate to the**File** tab and select**Account** on the left sidebar.
 3. Under**User Information** , you can find the account information. If you see a different account there, click on**Sign out** . Then, sign in again using the account that has an active subscription.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Ensure the Date Is Set Correctly
 
  The "Product Activation Failed" error can also be caused by an incorrectly set date on your device. If your subscription is going to expire in a specific month of the year, which is yet to come, but the date you set on your device goes past the day when the subscription will actually expire, you may encounter this error.
 
  Look at your screen's lower-right end and check the set date. If it isn't set correctly, follow our guide on[how to change the date and time on Windows 11](https://www.makeuseof.com/windows-11-change-date-time/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Reset the Problematic Office Application
 
@@ -132,18 +119,19 @@ C:\Program Files\Microsoft Office\Office16
 
  It is important to note that the name of the Office folder in the path above may differ depending on which version of Office you are using. Therefore, if you use a different version than Office16, change the last part of the above path accordingly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix the "Product Activation Failed" Error on Windows
 
  Running into the "Product Activation Failed" error and finding most of the features of Office apps restricted isn't a great experience. Hopefully, the solutions covered above will help you resolve the issue. In case they don't work, try the workaround. If that does not work as well, reinstall the Office application.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,4 +140,22 @@ C:\Program Files\Microsoft Office\Office16
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-complete-guide-to-high-quality-sims-video-sessions-for-2024/"><u>[New] The Complete Guide to High-Quality Sims Video Sessions for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premiere-pro-utilizing-lut-techniques/"><u>2024 Approved Premiere Pro Utilizing LUT Techniques</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bcm20702a0-component-failure-notice/"><u>BCM20702A0 Component Failure Notice</u></a></li>
+<li><a href="https://win11.techidaily.com/ease-upgrade-rejections-adobe-windows-tips/"><u>Ease Upgrade Rejections: Adobe Windows Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-error-with-file-history-on-a-windows-system/"><u>Eliminating “Error with File History” On a Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-phantom-opening-of-microsoft-shop/"><u>Fixing the Phantom Opening of Microsoft Shop</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719202743817-function-failures-on-win10-quick-remedies-available/"><u>Function Failures on Win10? Quick Remedies Available</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-driver-updates-on-winos-a-brief-overview-win10plus81plus7/"><u>Instant Driver Updates on WINOS: A Brief Overview (Win10+8.1+7)</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-and-stylize-crafting-your-own-windows-calendar-vision/"><u>Simplify & Stylize: Crafting Your Own Window's Calendar Vision</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-into-the-world-of-chroma-keying-youtubes-guide-to-green-screens-for-2024/"><u>Step Into the World of Chroma Keying – YouTube's Guide to Green Screens for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-tutorial-to-secure-your-pc-against-viruses-and-malware-on-windows-yl-software-solutions/"><u>Step-by-Step Tutorial to Secure Your PC Against Viruses and Malware on Windows - YL Software Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/the-power-of-cookiebot-for-advanced-seo-management/"><u>The Power of Cookiebot for Advanced SEO Management</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-ultimate-guide-to-upgrading-your-pc-with-the-newest-radeon-rx-590-drivers-on-windows/"><u>The Ultimate Guide to Upgrading Your PC with the Newest Radeon RX 590 Drivers on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-tech-determining-devices-birthdate/"><u>Windows Tech: Determining Device's Birthdate</u></a></li>
+</ul></div>
 

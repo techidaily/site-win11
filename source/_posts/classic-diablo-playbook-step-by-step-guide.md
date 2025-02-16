@@ -1,7 +1,7 @@
 ---
 title: "Classic Diablo Playbook: Step-by-Step Guide"
-date: 2024-07-29T15:55:32.653Z
-updated: 2024-07-30T15:55:32.653Z
+date: 2025-02-11T18:03:56.992Z
+updated: 2025-02-16T04:31:09.235Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
  But how do you play the original game 27 years after its launch, especially when Blizzard doesn't sell it anymore? Let's find out.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Doesn't Blizzard Sell Diablo Anymore?
 
  Other than the fact that it's a really old game and Blizzard already maintains just about every other Diablo game already, the publisher has partnered with GOG to preserve Diablo in its original form (bar some compatibility fixes and HD resolution support).
@@ -31,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 
  While Blizzard's announcement of the partnership via a [2019 Blizzard.net post](https://news.blizzard.com/en-us/diablo3/22887361/diablo-now-available-on-gog-com) didn't state why Blizzard won't be selling one of its most popular games ever, it presumably is to ensure that the game gets the attention it deserves, especially considering just how full Blizzard's plate is with the rest of the Diablo franchise, World of Warcraft, and Overwatch 2\.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Play the Original Diablo
 
  At the time of writing, there are two main ways you can play the original Diablo on a PC. You can either download the official copy from GOG, or you can take a chance on an open-source port of the game which does come with its own caveats.
@@ -45,18 +43,16 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 * **Original version:** This is the unchanged version of the game that's compatible with Battle.net allowing players to connect to one another.
 * **GOG-enhanced version:** This version brings quality-of-life improvements including but not limited to compatibility fixes, upscaling support for resolution and refresh rate, as well as minor audio fixes at the cost of online multiplayer. This version only supports multiplayer via LAN or P2P connections.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot of the original Diablo game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/og-diablo-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: [GOG](https://www.gog.com/en/game/diablo)
 
  Do keep in mind that this is a DRM-free version of the game that's compatible with Windows 10 and 11 out of the box. You don't need to install GOG Galaxy to play the game either, although that does make managing GOG-sourced game installations easier. Additionally, while Diablo: Hellfire isn't exactly a Blizzard product, considering its popularity, it's included in the purchase as a free add-on as well.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Play Diablo Using an Open-Source Diablo Port
 
  Another way you can play Diablo is by using an open-source port of the game called [DevilutionX (GitHub)](https://github.com/diasurgical/devilutionX) (scrolling down gives instructions). The port makes it simple to run the game while also bringing engine improvements, bug fixes, and other optional quality-of-life improvements.
@@ -73,29 +69,31 @@ Image Credit: [GOG](https://www.gog.com/en/game/diablo)
 
  Both options give you the chance to experience a legendary title in a day and age where the hardware that it was designed for has far been obsolete. However, we also have a [list of action RPG games you can play instead of Diablo](https://www.makeuseof.com/best-action-rpg-games-to-play-instead-of-diablo/), just in case.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is the Original Diablo Playable on Modern Consoles?
 
  Unfortunately, the original Diablo is yet to make its console debut. However, Blizzard has been known to release older games on newer generation consoles from time to time, a prominent example being Diablo 2: Resurrected.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![A screenshot of the loading screen for Diablo II Resurrected on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/diablo-ii-resurrected-loading-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So even though the original Diablo isn't available to play on your Xbox Series X|S or PS5, there's a possibility (albeit a small one) that Blizzard might end up launching a digital re-release for consoles.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Old Games Can Be Quite the Experience
 
  If you're a fan of retro games or a new gamer looking to experience some of the classics, there's no shortage of websites, emulators, and open-source projects that will let you experience the retro era of gaming. Sure the eight-bit graphics aren't comparable to modern ray-traced games by a long shot, but they do have their own charm.
 
  But how do you play the original game 27 years after its launch, especially when Blizzard doesn't sell it anymore? Let's find out.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -103,3 +101,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagrams-hottest-25-minds-in-the-digital-age/"><u>[New] 2024 Approved Instagram's Hottest 25 Minds in the Digital Age</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-demystifying-youtubes-keyword-power-play-for-2024/"><u>[New] Demystifying YouTube's Keyword Power Play for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-elevate-your-content-selecting-top-thumbnail-fonts/"><u>[New] In 2024, Elevate Your Content Selecting Top Thumbnail Fonts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-essential-fluid-dynamics-gaming-experiences/"><u>[New] Top Essential Fluid Dynamics Gaming Experiences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-platforms-for-amplifying-youtube-content/"><u>[New] Top Platforms for Amplifying YouTube Content</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-cure-the-access-denied-on-nvidia-control-panel-in-windows/"><u>How to Cure the Access Denied on Nvidia Control Panel in Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-bringing-smiles-without-dollars-the-mememakers-way/"><u>In 2024, Bringing Smiles without Dollars – The MemeMaker’s Way</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-task-management-with-windows-11s-search-functionality/"><u>Mastering Task Management with Windows 11’S Search Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-admin-controlled-settings-errors-for-a-smooth-windows-11-experience/"><u>Rectify Admin-Controlled Settings Errors for a Smooth Windows 11 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-windows-11-remove-unused-wi-fi/"><u>Simplify Windows 11: Remove Unused Wi-Fi</u></a></li>
+<li><a href="https://win11.techidaily.com/the-silent-cycle-windows-11s-halt-procedure/"><u>The Silent Cycle: Windows 11'S Halt Procedure</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-ordinary-unboxings-into-viral-phenomena-on-insta/"><u>Transform Ordinary Unboxings Into Viral Phenomena on Insta</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steps-to-fix-microsoft-stores-0x800704cf-issue/"><u>Troubleshooting Steps to Fix Microsoft Store's 0X800704CF Issue</u></a></li>
+</ul></div>
+

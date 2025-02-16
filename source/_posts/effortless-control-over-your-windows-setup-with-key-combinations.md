@@ -1,7 +1,7 @@
 ---
 title: Effortless Control Over Your Windows Setup with Key Combinations
-date: 2025-01-29T17:51:40.249Z
-updated: 2025-02-03T19:46:25.742Z
+date: 2025-02-14T18:09:43.415Z
+updated: 2025-02-15T23:04:56.334Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Undoing and Redoing Actions on Windows
 
  Undo, as you would know, is simply reversing an action you have done on your PC. This could be to correct a typo you made while using the keyboard or move back an image you transferred to a folder.
@@ -40,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 ![Undo and Redo Commands on a Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-and-redo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Remember, you can't use the redo command without undoing an action first.
@@ -55,14 +51,22 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 ![Word Document Showing Undoing Several Actions Together](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-several-actions-together-on-word.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can even undo changes after saving and then save again. However, you can't undo some actions, such as clicking commands on the**File** tab or saving a file.
 
 ![Undo Command Changed to Can't Undo on Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-changed-to-can-t-undo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you can't undo an action, the**Undo** command changes to**Can't Undo** , and the arrow icon dims out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Redo in a Snap With Redo Hotkeys
@@ -77,14 +81,10 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 ![Color of Text Changed Using Repeat Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repeat-on-windows-using-hotkey-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you like using your keyboard to perform actions, be sure to check out[how to use KeyTips in Microsoft Office](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use Undo and Redo Hotkeys for a Speedier Windows Experience
@@ -106,19 +106,24 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-excellent-live-feed-frames-for-2024/"><u>[New] Excellent Live Feed Frames for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-prime-mobile-hd-video-playback-androids-top-picks-for-2024/"><u>[New] Prime Mobile HD Video Playback Android's Top Picks for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-techniques-for-youtube-mp4-creation/"><u>2024 Approved Ultimate Techniques for YouTube MP4 Creation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/360-degree-cams-face-off-the-ultimate-test/"><u>360 Degree Cams Face-Off The Ultimate Test</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-fixes-for-boot-issues-with-windows-11s-safe-mode/"><u>Easy Fixes for Boot Issues with Windows 11'S Safe Mode</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/exclusive-guide-best-8-cameras-for-dynamic-livestreams/"><u>Exclusive Guide Best 8 Cameras for Dynamic Livestreams</u></a></li>
-<li><a href="https://win11.techidaily.com/halt-0x80242016-in-windows-update-woes/"><u>Halt 0X80242016 in Windows Update Woes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y36-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y36 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-hurdle-of-windows-breaking-point-issue/"><u>Overcoming the Hurdle of Windows Breaking Point Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-heic-photos-into-jpeg-on-pcs/"><u>Streamline HEIC Photos Into JPEG on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/the-top-5-frustrations-of-windows-11-switchers/"><u>The Top 5 Frustrations of Windows 11 Switchers</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-9-android-app-permissions-you-should-never-grant/"><u>Top 9 Android App Permissions You Should Never Grant</u></a></li>
-<li><a href="https://win11.techidaily.com/unstick-windows-operatic-install-with-ease/"><u>Unstick Windows Operatic Install with Ease</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-vn-video-editor-pc-edition-a-brief-inspection/"><u>Updated In 2024, VN Video Editor PC Edition A Brief Inspection</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-how-to-record-video-presentations-using-adobe-presenter/"><u>[Updated] 2024 Approved How to Record Video Presentations Using Adobe Presenter</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-step-into-professional-photoshop-mastering-luts-in-cs6cc/"><u>[Updated] 2024 Approved Step Into Professional Photoshop Mastering LUTs in CS6/CC</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-professional-streaming-made-easy-your-guide-to-zoom-and-youtube-integration/"><u>[Updated] Professional Streaming Made Easy Your Guide to Zoom and YouTube Integration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-comprehensive-guide-for-converting-pinterest-video-content-to-mp3-format/"><u>2024 Approved A Comprehensive Guide for Converting Pinterest Video Content to MP3 Format</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/diy-guide-mastering-the-art-of-clearing-your-iphone-memory/"><u>DIY Guide: Mastering the Art of Clearing Your iPhone Memory</u></a></li>
+<li><a href="https://win11.techidaily.com/enabledisable-windows-11-written-content-check/"><u>Enable/Disable Windows 11’ Written Content Check</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y78t-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y78t without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-tecno-spark-10c-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Tecno Spark 10C For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oneplus-ace-2-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-conquering-hdr-photography-with-ease/"><u>In 2024, Conquering HDR Photography with Ease</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-10plus-best-free-online-video-editors-for-video-editing-online/"><u>New In 2024, Top 10+ Best Free Online Video Editors for Video Editing Online</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-shortcuts-quick-paste-pre-snippets-in-windows-11/"><u>Personalizing Shortcuts: Quick Paste Pre-Snippets in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/propel-your-windows-pc-writings-with-top-6-gpu-load-checking-software/"><u>Propel Your Windows PC' Writings With Top 6 GPU Load Checking Software</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-control-over-your-device-post-error-22-in-windows-11/"><u>Regaining Control over Your Device Post-Error 22 in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-create-failure-with-code-32-in-windows-error-messages/"><u>Resolving Create Failure with Code 32 in Windows Error Messages</u></a></li>
+<li><a href="https://win11.techidaily.com/skirting-repeated-sign-in-issues-for-microsoft-teams-users/"><u>Skirting Repeated Sign-In Issues for Microsoft Teams Users</u></a></li>
+<li><a href="https://win11.techidaily.com/styling-your-taskbar-positioning-this-pc-on-the-desktop/"><u>Styling Your Taskbar: Positioning 'This PC' On The Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unexpected-tokens-in-system-references-on-win10/"><u>Troubleshooting Unexpected Tokens in System References on Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-fixing-0x80072af9-errors/"><u>Understanding and Fixing 0X80072AF9 Errors</u></a></li>
 </ul></div>
 

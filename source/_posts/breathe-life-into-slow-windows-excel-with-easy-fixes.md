@@ -1,7 +1,7 @@
 ---
 title: Breathe Life Into Slow Windows-Excel with Easy Fixes
-date: 2024-07-29T15:54:21.924Z
-updated: 2024-07-30T15:54:21.924Z
+date: 2025-02-11T02:37:19.764Z
+updated: 2025-02-15T17:59:39.800Z
 tags:
   - windows10
   - windows11
@@ -34,12 +34,13 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 4. In the right pane, select **COM Add-ins** in the **Manage** drop-down menu.
 5. Click the **Go** button.
 6. Uncheck all the boxes to disable add-ins and click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable Excel Add-ins](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-excel-add-ins.jpg)
 
  Restart Excel on your PC and enable your add-ins one at a time. Try using Excel after enabling each add-in and observe its performance. Once you identify the faulty add-in, consider removing it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Optimize Excel for Compatibility
 
@@ -64,43 +65,32 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 3. Under the **Display** section, tick the **Disable hardware graphics acceleration** checkbox.
 4. Click **OK** and restart Excel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 4\. Enable Manual Calculation
 
  When you make changes to a cell, Excel recalculates all formulas and functions. This process can be resource-intensive and result in the app lagging when you input or edit data.
 
  To fix this, you can try enabling manual calculation mode in Excel. For that, switch to the **Formulas** tab, click the **Calculation Options** button, and select **Manual**. Following this, you can press **F9** any time you want Excel to recalculate.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Enable Manual Calculation in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-manual-calculation-in-excel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Reduce the Size of Your Excel File
 
  The larger your spreadsheet, the more calculations and operations Excel has to perform. This can have a negative impact on Excel's performance and lead to various problems. To avoid this, you can try reducing the size of your Excel workbook by decreasing the number of sheets, removing unnecessary formatting, and compressing any pictures within your workbook.
 
  Another thing you can do is save your Excel file in binary (.xslb) format. To do so, press **F12** on your keyboard to bring up the **Save As** dialog in Excel. Click the drop-down menu next to **Save as type** to select **Excel Binary Workbook (\*.xslb)** and click the **Save** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Save As Dialog in Excel
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Save As Dialog in Excel](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/save-as-dialog-in-excel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Update Microsoft Excel
 
  Are you using an outdated version of Excel? If so, you may be missing out on new features and performance enhancements. Try updating Excel on your PC and see if that improves its performance on your Windows computer.
@@ -112,6 +102,10 @@ The ultimate burning program for all your needs!</a>
 
  Wait for Microsoft Office to update Excel along with other Office apps and check if that fixes the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Run the Office Repair Tool
 
  If updating Excel proves ineffective, there may be an issue with some of the core app files. In that case, you can try running the Office repair tool to fix the underlying issue. Here’s how to do it.
@@ -122,12 +116,17 @@ The ultimate burning program for all your needs!</a>
 4. Scroll through the list to locate and select **Microsoft Office**.
 5. Click the **Change** button at the top.
 6. Select the **Quick Repair** option and then click **Repair**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Allow the repair tool to fix any issues with Excel. If the issue remains even after that, you can perform an **Online Repair** instead. This will allow the tool to perform a more comprehensive repair to resolve any issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Try Some Generic Windows Fixes
 
@@ -143,11 +142,30 @@ The ultimate burning program for all your needs!</a>
 
  Before you consider switching to Excel’s web version or another alternative, try the following tips to boost Excel’s performance on your Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-audfreemasterclass-deciphering-extraction-features/"><u>[New] AudFreeMasterclass Deciphering Extraction Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-dull-to-dynamic-top-11-techniques-for-improved-colors/"><u>[Updated] From Dull to Dynamic Top 11 Techniques for Improved Colors</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-pursuit-of-riches-terrarias-quintessential-map-rankings/"><u>2024 Approved Pursuit of Riches Terraria’s Quintessential Map Rankings</u></a></li>
+<li><a href="https://win11.techidaily.com/effortlessly-create-a-mobile-internet-access-point-with-windows-11/"><u>Effortlessly Create a Mobile Internet Access Point with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-app-fixes-to-perfect-your-windows-experience/"><u>Essential App Fixes to Perfect Your Windows Experience</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/essential-guidelines-for-dealing-with-high-temperature-issues-in-your-gadgets-expert-advice-by-yl-software/"><u>Essential Guidelines for Dealing with High-Temperature Issues in Your Gadgets: Expert Advice by YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-windows-n-editions-it-perspective/"><u>Exploring Windows N Editions: IT Perspective</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-turn-off-captions-and-subtitles-when-binge-watching-on-amazon-prime/"><u>How To Turn Off Captions & Subtitles When Binge-Watching On Amazon Prime</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ice-and-elegance-the-2022-winter-olympics-in-china-for-2024/"><u>Ice & Elegance The 2022 Winter Olympics in China for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-6s-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone 6s to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-ethereal-escapes-slick-action-recorders/"><u>In 2024, Ethereal Escapes Slick Action Recorders</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstart-your-frozen-wow-63-patch/"><u>Jumpstart Your Frozen WoW 6.3 Patch</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/learn-quickly-updating-your-discord-avatar-status/"><u>Learn Quickly Updating Your Discord Avatar Status</u></a></li>
+<li><a href="https://win11.techidaily.com/per-screen-prowess-custom-themes-for-every-monitor-in-win-1011/"><u>Per-Screen Prowess: Custom Themes for Every Monitor in WIN 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-initiating-mouse-gestures-in-microsoft-edge-windows-11/"><u>Quick Guide: Initiating Mouse Gestures in Microsoft Edge, Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/vintage-visuals-redefined-employing-retroarchs-modern-shaders/"><u>Vintage Visuals Redefined: Employing RetroArch’s Modern Shaders</u></a></li>
+</ul></div>
+

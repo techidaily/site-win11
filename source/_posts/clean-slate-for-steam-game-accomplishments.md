@@ -1,7 +1,7 @@
 ---
 title: Clean Slate for Steam Game Accomplishments
-date: 2024-07-29T15:54:09.862Z
-updated: 2024-07-30T15:54:09.862Z
+date: 2025-02-12T19:08:00.869Z
+updated: 2025-02-16T03:55:16.908Z
 tags:
   - windows10
   - windows11
@@ -22,10 +22,11 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 
 ## Resetting Steam Achievements
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of a steam achievement list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/screenshot_of_steam_achievements_list.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There's no simple switch for resetting Steam achievements. Some games offer the option to reset player progress, and this may include Steam achievements as well.
 
@@ -33,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 
  To reset your progress for Steam achievements, we'll need to use something called the Steam Client Console.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enable Steam Client Console
 
  The easiest way to open the Steam Client Console is by hitting **Win + R** to open the Windows Run Command Dialog.
@@ -54,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 
 ## Achievements and Stat Commands
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![screenshot of achievement clear in steam client console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/screenshot_of_achievement_clear_in_steam_client_console.jpg)
 
  The command we'll need to use is **achievement\_clear**. On its own, it doesn't do anything. We need a couple of things first.
@@ -65,9 +60,17 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 
 ![screenshot of half life 2 in steam database](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/screenshot_of_hl2_in_steam_db.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Copy the **AppID** listed against your game. Note this down or paste it somewhere you'll remember. Scroll down the page and click on the **Achievements** tab.
 
 ![screenshot of half life 2 achievements in steam database](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/screenshot_of_hl2_achievements_in_steam_db.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will list all the achievements and their **API Names**. Pick out the achievement you want to reset and note that name.
 
@@ -77,29 +80,28 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 
  Using the example in our screenshots, the code should look something like this. Remember to use the achievement name from SteamDB, and not simply the in-game name of the achievement.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of the steam client console with an input command filled out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/screenshot_of_resetting_achievement_steam_client_console_filled_out.jpg)
 
  You'll know it worked if you see the message **achievement\_clear success**.
 
  There is a second command that accompanies the above. Inputting **reset\_all\_stats** followed by an AppID will reset any stats Steam tracks for that game. For example, kills or time played. Be careful with this command, as it can behave differently depending on how any given game tracks those stats. For example, it might not function at all, or it may mess up crucial game statistics.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Reset Steam Achievements With Steam Achievement Manager
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![screenshot of the steam achievement manager main page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/screenshot_of_steam_achievement_manager_main_page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The above method is as close to an 'official' method as you can get. If you're after something a little easier, but also a little less 'legitimate,' consider the Steam Achievement Manager.
 
 [Learning how to use the Steam Achievement Manager](https://www.makeuseof.com/how-to-use-steam-achievement-manager/) makes this process much easier, with a GUI to ensure you're resetting the right achievements. However, this method falls into a gray area of Steam's terms of service. It's easier, but it's not guaranteed to be a completely safe method.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## A Complicated Process
 
  Ideally, there would be an easier way to reset achievements for any Steam game, as you never know when you'll want to replay a game from the ground up.
@@ -108,11 +110,31 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 
  Thankfully, Steam has a catch-all solution to resetting achievements for individual games.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-trailblazers-in-the-world-of-virtual-reality/"><u>[New] 2024 Approved Trailblazers in the World of Virtual Reality</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-25-steps-forward-in-youtube-mastery-and-recognition-for-2024/"><u>[New] 25 Steps Forward in YouTube Mastery and Recognition for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-master-classic-ps2-games-on-android-with-our-top-picks/"><u>[Updated] In 2024, Master Classic PS2 Games on Android with Our Top Picks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-leveraging-consumer-reviews-for-youtube-wealth-creation/"><u>2024 Approved Leveraging Consumer Reviews for YouTube Wealth Creation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-ultimate-capture-secrets-revealed/"><u>Android's Ultimate Capture Secrets Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-the-msvcr110dll-absence-a-fix-guide/"><u>Combatting the Msvcr110.dll Absence: A Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/dispelling-unwanted-vulnerability-messages-in-chrome/"><u>Dispelling Unwanted Vulnerability Messages in Chrome</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-bsods-fix-interrupt-error-on-windows-11/"><u>Eliminate BSODs: Fix Interrupt Error on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/excelling-at-classics-optimal-play-via-scummvm-in-full-hd-windows-environments/"><u>Excelling at Classics: Optimal Play via ScummVM in Full HD Windows Environments</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oppo-k11x-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Oppo K11x Quickly | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-faulty-isarcextract-error-on-windows-11-devices/"><u>Fixing the Faulty ISArcExtract Error on Windows 11 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-spotify-application-is-not-responding-error-in-windows-10-and-11/"><u>How to Fix the “Spotify Application Is Not Responding” Error in Windows 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-fingerprint-login-via-windows-hello/"><u>Implementing Fingerprint Login via Windows Hello</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-fixed-print-device-in-windows-environment/"><u>Securing Fixed Print Device in Windows Environment</u></a></li>
+<li><a href="https://win-great.techidaily.com/top-strategies-for-avoiding-computer-system-failures-insights-from-yl-computing/"><u>Top Strategies for Avoiding Computer System Failures: Insights From YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-your-desktop-adding-functional-widgets-to-window-11/"><u>Transforming Your Desktop: Adding Functional Widgets to Window 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/watch-star-wars-movies-in-perfect-order-on-your-disneyplus-account/"><u>Watch 'Star Wars' Movies in Perfect Order on Your Disney+ Account</u></a></li>
+</ul></div>
+

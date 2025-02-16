@@ -1,7 +1,7 @@
 ---
 title: Capturing Sound Simultaneously with Video in Snipping Tool (Max 156)
-date: 2024-07-29T15:53:26.583Z
-updated: 2024-07-30T15:53:26.583Z
+date: 2025-02-08T20:59:01.962Z
+updated: 2025-02-15T18:25:27.059Z
 tags:
   - windows10
   - windows11
@@ -19,15 +19,17 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
  The Snipping Tool is the native screen capture and video recording tool in Windows 11\. And now, Microsoft is testing an audio capture feature along with video in the Windows Insider channel. We will discuss this feature in detail and how to enable it on your Windows 11 PC. Let’s begin.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Snipping Tool Gets an Audio Recording Feature
 
  The Sniping Tool got a major facelift after getting video capture support in Windows 11\. After that came the [Text Actions feature](https://www.makeuseof.com/text-actions-snipping-tool-windows-11/) that can read text from screenshots, which is another useful add-on. You can already annotate the captured screenshots in the tool, so adding audio capture support makes it a complete package for users.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable and Use the Audio Recording Feature in the Snipping Tool
 
  The Snipping Tool’s audio recording feature is limited to Windows Insider users at the time of writing. It is available for users enrolled in the Canary channel after a recent update, so you must first update your Windows PC to the latest available build and install it. Non-Insiders can use UUP Dump to [download the Windows Insider builds without enrolling in the program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/).
@@ -39,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 1. Press the **Win** key to open the **Start** menu. Type Snipping Tool and press the **Enter** key to launch the app.
 2. Click on the **video record** icon to select it.
 3. Click on the **New** button.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![Start a new recording in Snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/start-a-new-recording-in-snipping-tool.jpg)
 4. Click and drag the selection tool to highlight the area you want to record. You will notice two new icons in the top bar alongside the timer and Start button; these enable you to control the system audio recording and microphone audio recording.
 5. Click on the **microphone** icon. You will have to allow the app to use your PC's microphone for audio recordings.
@@ -49,11 +48,12 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 ![Adjust mic settings in Snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/adjust-mic-settings-in-snipping-tool.jpg)
 7. Navigate to the **Let apps and access your microphone** section. Scroll down and find the **Snipping Tool** app in the list.
 8. Click on the toggle to allow the Snipping Tool to access the system’s microphone.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Grant mic access to Snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/grant-mic-access-to-snipping-tool.jpg)
 9. Close the Settings app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, the Snipping Tool is ready to capture audio. Here’s how to do it:
 
@@ -61,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 2. Click on the **video record** icon and then click on the **New** icon.
 3. Click and drag with your mouse to select the screen area you want to capture.
 4. Click on the **microphone** icon to open the drop-down menu. Select the audio recording device that you want to use from the list (internal or external mic).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![Select mic input in Snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/select-mic-input-in-snipping-tool.jpg)
 5. Click on the **microphone** icon again. Since it is muted by default, click on the **Mute** option to deselect it.
 6. Click on **Mute System Audio** if you want to mute the system sounds while recording the audio.
@@ -71,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 8. Once done, click on the **s** **top recording** icon.
 9. Play the clip to check the recorded session. Press **Ctrl + S** to open the Save window. Enter a name for your video clip and save it to a preferred location on your PC.  
 ![saving recorded video from snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/saving-recorded-video-from-snipping-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change the Audio Capture Settings in the Snipping Tool
 
@@ -81,11 +82,12 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 ![Open Snipping tool settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-snipping-tool-settings.jpg)
 3. If you want to always enable microphone recording, click the toggle next to **Include microphone input by default when a screen recording starts**.
 4. To prevent the system audio capture, disable the toggle next to **Include system audio by default when a screen recording starts**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![Tweak Snipping tool audio settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tweak-snipping-tool-audio-settings.jpg)
 5. Close the Snipping Tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is the Audio Recording Feature Any Good?
 
@@ -97,11 +99,29 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
  The Snipping Tool is getting more love from Microsoft and the new audio recording feature makes it a decent app for recording video with audio. You don’t need to use third-party apps like OBS Studio anymore. However, it will take some time for the feature to become available to everyone.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-aesthetic-essentials-for-youtube-artistry/"><u>[Updated] 2024 Approved Free Aesthetic Essentials for YouTube Artistry</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-seamless-dolby-atmos-setup-in-your-pc/"><u>Expert Tips for Seamless Dolby Atmos Setup in Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-wallpaper-image-storage-on-windows-11/"><u>Exploring Wallpaper Image Storage on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-address-error-code-0x80073cf3-at-microsoft-store-windows-1111/"><u>How to Address Error Code 0X80073CF3 at Microsoft Store, Windows 11/11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-quick-iphone-photo-fixes-expert-hacks-for-better-snapshots/"><u>In 2024, Quick iPhone Photo Fixes Expert Hacks for Better Snapshots</u></a></li>
+<li><a href="https://win11.techidaily.com/increase-productivity-hotkey-hacks-on-your-mouse/"><u>Increase Productivity: Hotkey Hacks on Your Mouse</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-use-of-microsofts-security-tool-canary/"><u>Mastering the Use of Microsoft's Security Tool Canary</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-youtube-video-composition-techniques/"><u>Mastering YouTube Video Composition Techniques</u></a></li>
+<li><a href="https://driver-install.techidaily.com/skyline-enhancement-three-windows-graphic-tricks/"><u>Skyline Enhancement: Three Windows Graphic Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-low-voice-clarity-on-iphone-calls-effective-strategies-inside/"><u>Solving Low Voice Clarity on iPhone Calls: Effective Strategies Inside</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-excel-opening-issue-with-notepad-windows/"><u>Troubleshoot: Excel Opening Issue with Notepad Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-issues-with-the-dead-space-remake-not-starting/"><u>Troubleshooting Guide: Resolving Issues with the Dead Space Remake Not Starting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-power-of-livestreaming-on-youtube-regardless-of-subscriber-numbers-for-2024/"><u>Unlock the Power of Livestreaming on YouTube, Regardless of Subscriber Numbers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/win1011-mastering-the-removal-of-error-3-from-nvidia-opengl/"><u>Win10/11: Mastering the Removal of Error 3 From Nvidia OpenGL</u></a></li>
+</ul></div>
+

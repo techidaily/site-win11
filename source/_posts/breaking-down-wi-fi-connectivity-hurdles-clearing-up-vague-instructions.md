@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Wi-Fi Connectivity Hurdles: Clearing Up Vague Instructions"
-date: 2024-08-08T13:11:15.948Z
-updated: 2024-08-09T13:11:15.948Z
+date: 2025-02-13T17:02:46.008Z
+updated: 2025-02-16T01:08:39.450Z
 tags:
   - windows10
   - windows11
@@ -36,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf
 4. Inside the Registry Editor, navigate to the location below:  
 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet
 5. Move to the right pane and right-click on the **EnableActiveProbing** value.  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![EnableActiveProbing key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-active-probing-key.jpg)
 
 1. Type 0 in the text field for Value data and click **OK**.
@@ -50,12 +47,13 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 5. Double-click on this newly created value and change its value data to 1\.
 6. Now, create another value the same way and name it as DisablePassivePolling.
 7. Double-click on **DisablePassivePolling** and change its value data to 1 as well.  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![DisablePassivePolling key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-passive-polling.jpg)
 8. Click **OK** to save the changes and exit the Registry Editor.
 9. Finally, restart your computer and upon reboot, check if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Disable the NCSI Probe From GPE
 
@@ -74,19 +72,17 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 7. Next, head over to the following location:  
 ​​​​​​​​​​​​​​Computer Configuration\Administrative Templates\Network
 8. Select **Network Connectivity Status Indicator** \> **Specify passive polling**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![Specify passive polling policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/specify-passive-polling-policy.jpg)
 9. Choose **Enabled** and click **Apply** \> **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Close the Group Policy Editor and restart your computer.
 
  Hopefully, upon reboot, the issue will no longer appear.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 3\. Run the Internet Connection Troubleshooter
 
  If the scenarios we have discussed above do not apply to you, you might also be facing the problem because of a temporary glitch in the system. In this case, you can run the internet connection troubleshooter. This is a built-in utility that scans your system for underlying related issues. If a problem is identified, it will either fix it for you or suggest a solution that you can apply automatically.
@@ -97,9 +93,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Click on **System** and choose **Troubleshoot**.
 3. Choose **Other troubleshooters**.
 4. You should now be able to see a list of troubleshooters offered by Windows. Locate the Internet connection troubleshooter and click on the **Run** button for it.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Internet Connection Troubleshooter in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/internet-connection-troubleshooter.jpg)
 5. Wait for the troubleshooter to complete its scan and once done, check if a problem is identified. If it is, click on the **Apply this fix** option. You can also apply a solution manually.
 6. In case the troubleshooter fails to identify the culprit, click on **Close the troubleshooter** option and move to the next method below.
@@ -114,18 +107,25 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Type "control" and click **Enter**.
 3. In the Control Panel, expand the **View by** section and choose **Large icons**.
 4. Click on **Power Options** from the list and select **Choose what the power buttons do**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Choose what the power button does option of Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-what-the-power-button-does.jpg)
 5. Choose **Change settings that are currently unavailable** and navigate to the Shutdown settings option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Uncheck the box associated with **Turn on fast startup (recommended)**.  
 ![Disable Fast Startup on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-fast-startup-on-windows.jpg)
 7. Click on the **Save changes** button and exit Control Panel. Check if the issue is now resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Try These Additional Generic Fixes
 
  If the specific fixes we have listed above have not worked for you, there are some additional fixes related to the network errors in Windows that you can try.
@@ -140,12 +140,29 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Below, we discuss the common causes of this problem alongside the troubleshooting methods you can try to fix this issue once and for all.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/cutting-down-gpu-load-effective-wm-tweaks-for-win11/"><u>Cutting Down GPU Load: Effective WM Tweaks for Win11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-lies-no-win-chatgpt-version-is-malware/"><u>Debunking Lies: No, Win ChatGPT Version Is Malware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dell-elevates-its-premium-range-with-enhanced-xps-1517-models-insights/"><u>Dell Elevates Its Premium Range with Enhanced XPS 15/17 Models - Insights</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-intel-chipset-drivers-in-windows-versions-11-7-and-81/"><u>Enhance Intel Chipset Drivers in Windows Versions: 11, 7 & 8.1</u></a></li>
+<li><a href="https://windows11.techidaily.com/fortifying-win-connections-for-uninterrupted-surfing/"><u>Fortifying Win Connections for Uninterrupted Surfing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-oppo-a38-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Oppo A38 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722999753812-how-to-stop-gas-station-simulator-from-keep-failing-on-your-computer/"><u>How to Stop Gas Station Simulator From Keep Failing on Your Computer!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-from-capture-to-share-the-art-of-live-360-broadcasting-on-fb/"><u>In 2024, From Capture to Share The Art of Live 360 Broadcasting on FB</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-y100t-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo Y100t Phone Network-Ready</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-your-workflow-with-windows-11-taskbar-search-bar/"><u>Maximize Your Workflow with Windows 11 Taskbar Search Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11-selections-home-edition-or-advanced-pro/"><u>Navigating Windows 11 Selections: Home Edition or Advanced Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-setup-initiate-ms-paint-in-windows-11/"><u>Quick Setup: Initiate MS Paint in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-installation-issues-older-software-and-new-os-compatibility/"><u>Tackling Installation Issues: Older Software and New OS Compatibility</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-full-potential-the-complete-guide-to-windows-package-manager/"><u>Unlocking Full Potential: The Complete Guide to Windows Package Manager</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-tesla-mobile-device-anticipated-price-launch-timeline-and-potential-features/"><u>Unveiling the Tesla Mobile Device: Anticipated Price, Launch Timeline & Potential Features</u></a></li>
+</ul></div>
 

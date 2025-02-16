@@ -1,7 +1,7 @@
 ---
 title: Classic UI Redesign for File Explorer in W11
-date: 2024-07-29T15:51:13.386Z
-updated: 2024-07-30T15:51:13.386Z
+date: 2025-02-14T02:48:05.318Z
+updated: 2025-02-15T16:22:57.222Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/e3e57dc288a15eebc6a087ce47534d889b154128f
 
  Do you prefer the tabbed File Explorer in Windows 10? If so, you don’t have to stick with File Explorer’s command bar in Windows 11\. This is how you can restore Explorer’s classic ribbon interface on a Windows 11 PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Press the Up Button in the Control Panel
 
  File Explorer is accessible from the Control Panel. Furthermore, Explorer will still have the old, ribbon interface from Windows 10 when you open it from there. You can access the classic File Explorer in Windows 11 by clicking the up button in the Control Panel as follows:
@@ -27,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/e3e57dc288a15eebc6a087ce47534d889b154128f
 1. Press the **Windows + S** key combination to access Windows 11’s search box.
 2. Input **Control Panel** and select to open the matching search result.
 3. If the Control Panel opens in an icon view, click the **View by** drop-down menu and select **Category**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![The View by menu in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/view-by-menu.jpg)
 4. Then click the **Up to “Desktop”** button (up arrow) button on the Control Panel’s navigation bar. Alternatively, press the **Alt + Up arrow key** keyboard shortcut.  
 ![The Up to Desktop button in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/up-button.jpg)
@@ -38,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/e3e57dc288a15eebc6a087ce47534d889b154128f
  Now you’ll see the classic File Explorer from Windows 10 that incorporates a tab bar. You’ll always need to open the Control Panel first to access classic File Explorer through it. So, consider [setting up a Control Panel shortcut](https://www.makeuseof.com/windows-11-set-up-control-panel-shortcuts/) in Windows 11 to give you more direct access.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Manually Edit the Registry
 
  Users utilizing Windows 11 21H2 or earlier versions can restore the classic File Explorer ribbon by manually tweaking the registry. However, the same registry tweak will not work in Windows 11 22H2 or later builds. This is how you can restore the classic File Explorer ribbon interface by manually editing the registry:
@@ -48,18 +49,16 @@ thumbnail: https://thmb.techidaily.com/e3e57dc288a15eebc6a087ce47534d889b154128f
 2. Go to the **ShellExtensions** key by inputting this location in the Registry Editor’s address bar:  
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\`
 3. If you can’t see a **Blocked** subkey, right-click ShellExtensions and select New and Key. You can skip through to step five if you can already see a Blocked key.  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The New and Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-key-option.jpg)
 4. Input **Blocked** to create that key.
 5. Right-click the **Blocked** key and select **New** \> **String Value**.
 6. Input **{e2bf9676-5f8f-435c-97eb-11607a5bedf7**} in the new string’s text box. You can copy and paste that string name in by selecting its text, pressing **Ctrl** \+ **C**, and then pressing **Ctrl** \+ **V**.  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The string value for restoring File Explorer's ribbon UI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-string-value.jpg)
 7. Then you'll need to [restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) or Windows 11 for the registry tweak to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now press the **File Explorer** taskbar button to see the change. Or open that file manager app with any other method you prefer to [open File Explorer on Windows](https://www.makeuseof.com/windows-open-file-explorer/). The File Explorer that opens will have the tabbed ribbon interface from Windows 10\.
 
@@ -67,10 +66,15 @@ thumbnail: https://thmb.techidaily.com/e3e57dc288a15eebc6a087ce47534d889b154128f
 
  If you ever want to go back to the original command bar, delete the string you added. To do so, right-click **{e2bf9676-5f8f-435c-97eb-11607a5bedf7}** within the **Blocked** key and select **Delete**. Click **Yes** when asked to confirm deletion.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Delete option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/delete-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Execute a Registry Command via Command Prompt
 
@@ -89,9 +93,6 @@ thumbnail: https://thmb.techidaily.com/e3e57dc288a15eebc6a087ce47534d889b154128f
 
  If the command for restoring classic File Explorer doesn’t work when you execute it, there might be spaces at the end of it. Make sure there aren’t any extra spaces included at the end of the command before executing.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Restore Explorer’s Classic Ribbon UI With ExplorerPatcher
 
  You can still restore Explorer’s ribbon interface in Windows 11 22H2 and all other build versions with ExplorerPatcher. ExplorerPatcher is freeware software that enables you to customize Windows 11’s Start menu, taskbar, File Explorer, and system tray. It includes many options for [making Windows 11 look more like Windows 10](https://www.makeuseof.com/windows-11-look-like-windows-10-explorerpatcher/).
@@ -115,9 +116,6 @@ thumbnail: https://thmb.techidaily.com/e3e57dc288a15eebc6a087ce47534d889b154128f
 
  Windows 11’s File Explorer also has a redesigned context menu. You can disable that new right-click menu by clicking the **Disable the Windows 11 context menu** option on the **File Explorer** tab. Then right-clicking a file in Explorer will show only the classic context menu, as in Windows 10\.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Restore a Tabbed User Interface in Windows 11's File Explorer
 
  Although Windows 11’s command bar has its advantages, there are some good reasons to restore File Explorer’s tabbed ribbon UI of old with the methods above.
@@ -126,11 +124,33 @@ thumbnail: https://thmb.techidaily.com/e3e57dc288a15eebc6a087ce47534d889b154128f
 
  Do you prefer the tabbed File Explorer in Windows 10? If so, you don’t have to stick with File Explorer’s command bar in Windows 11\. This is how you can restore Explorer’s classic ribbon interface on a Windows 11 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-unleashing-creativity-in-stories-adding-personalized-graphics-for-2024/"><u>[New] Unleashing Creativity in Stories Adding Personalized Graphics for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-crafted-collections-of-ig-pics/"><u>[Updated] 2024 Approved Crafted Collections of IG Pics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-streamline-your-video-production-ipad-time-lapse/"><u>[Updated] 2024 Approved Streamline Your Video Production IPad Time-Lapse</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-one-device-two-os-file-migration-tactics/"><u>[Updated] One Device, Two OS File Migration Tactics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-streamlined-steps-for-saving-webcam-dialogues/"><u>[Updated] Streamlined Steps for Saving Webcam Dialogues</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/basic-anatomy-explained-body-parts-in-french-156-characters/"><u>Basic Anatomy Explained: Body Parts in French (156 Characters)</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-techniques-for-effortless-background-blur-using-windows-11-photos/"><u>Cutting Edge Techniques for Effortless Background Blur Using Windows 11 Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-ultimate-4-windows-webp-viewers/"><u>Discover the Ultimate 4 Windows WebP Viewers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-access-to-canon-mg2900-print-device-software-latest-version-download/"><u>Easy Access to Canon MG2900 Print Device Software - Latest Version Download</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-utilization-of-ping-commands-in-windows-networks/"><u>Effective Utilization of Ping Commands in Windows Networks</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-advice-tackling-chrome-profile-troubles-on-pcs/"><u>Expert Advice: Tackling Chrome Profile Troubles on PCs</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 13 Without a Passcode</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/instant-facebook-beat-loader/"><u>Instant Facebook Beat Loader</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-event-log-failures-in-windows-11/"><u>Overcoming Event Log Failures in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overhauling-deactivated-thermal-control-on-winpc/"><u>Overhauling Deactivated Thermal Control on WinPC</u></a></li>
+<li><a href="https://win11.techidaily.com/re-establishing-microphone-communication-with-xbox-app-windows-11/"><u>Re-Establishing Microphone Communication with Xbox App Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-javascript-catastropes-windows-11-and-11-s-solutions-for-discord/"><u>Resolve Javascript Catastropes: Windows 11 & 11 S Solutions for Discord</u></a></li>
+<li><a href="https://win11.techidaily.com/reverting-back-to-original-touch-key-settings-on-windows/"><u>Reverting Back to Original Touch Key Settings on Windows</u></a></li>
+</ul></div>
+

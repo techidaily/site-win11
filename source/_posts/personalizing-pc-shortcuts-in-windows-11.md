@@ -1,7 +1,7 @@
 ---
 title: Personalizing PC Shortcuts in Windows 11
-date: 2025-01-30T00:05:24.127Z
-updated: 2025-02-04T00:56:09.580Z
+date: 2025-02-14T00:51:19.803Z
+updated: 2025-02-15T18:04:33.571Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download and Install WinHotKey
 
  WinHotKey is a freely available app for setting up new keyboard shortcuts. That software is compatible with most Windows desktop platforms as well. It has a quick and easy setup and takes up very little drive storage space. You can download and install WinHotKey as follows.
@@ -37,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 5. Select the **Next** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click the **I accept the agreement** radio button, and press the **Next** button again.
@@ -56,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 2. Type an optional description for the hotkey in the text box on the **General** tab if you wish.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Select the **Launch an application** option on the drop-down menu.
@@ -68,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 2. Now select a keyboard key for the shortcut on the **Along with the key** drop-down menu.  
 ![Along with the key drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/along-with-the-key-drop-down-menu.png)
 3. You can also select additional keys for the hotkey by clicking the **Alt**, **Shift**, and **Ctrl** checkboxes. The Windows checkbox is selected by default, but you can deselect that option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. To further configure the keyboard shortcut, click the **Advanced** button. You can enter additional parameters and change how the software window opens on the Launch: Advanced window.  
 ![The Launch: Advanced window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/launch-advanced-window.png)
@@ -96,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 * Services Windows: services.msc
 * Optimize Drives: dfrgui
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Set Up Folder, Document, and Window Control Hotkeys
 
  Aside from software shortcuts, you can establish hotkeys for opening folders and document files much the same. Instead of selecting **Launch an Application** on the New Hotkey window, select either the **Open a Folder** or **Open a Document** option. Then click **Browse** to select a document’s or folder’s path, configure a key combination, and press the **OK** button.
@@ -105,11 +109,11 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 ![Make the Current Windows drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/make-the-current-window-drop-down-menu.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create Custom Keyboard Shortcuts With HotkeyP
@@ -148,10 +152,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
 ![The Start automatically checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-start-automatically-checkbox.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Set Up All the Windows Software HotKeys You Need With WinHotKey
 
  So, you won’t need Windows 11 desktop, Start menu, and taskbar shortcuts anymore when you’ve got WinHotKey or HotKey P. They're easy-to-utilize programs with which you can set up a wide variety of software, folders, and document keyboard shortcuts without cluttering the Windows desktop. Their only notable shortcoming is that you can’t set up website hotkeys with them, but they're still very handy apps nonetheless.
@@ -168,16 +168,22 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-chime-chronicles-mastering-the-art-of-tamil-ringtones/"><u>[Updated] Chime Chronicles Mastering the Art of Tamil Ringtones</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-se-2020-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-streamlining-project-management-through-filmora-knowledge/"><u>In 2024, Streamlining Project Management Through Filmora Knowledge</u></a></li>
-<li><a href="https://win-able.techidaily.com/intel-graphics-software-problem-how-to-repair-non-responsive-driver-helper-on-laptops-and-desktops/"><u>Intel Graphics Software Problem: How to Repair Non-Responsive Driver Helper on Laptops & Desktops</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-your-file-protection-with-windows-password-practices/"><u>Optimize Your File Protection with Windows Password Practices</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-no-notice-errors-in-phone-links-windows-functionality/"><u>Overcoming No-Notice Errors in Phone Link's Windows Functionality</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/personalized-comfort-by-allowing-customization-according-to-individual-needs-and-preferences-which-is-essential-in-creating-an-inclusive-user-experience-for4/"><u>Personalized Comfort by Allowing Customization According to Individual Needs and Preferences Which Is Essential in Creating an Inclusive User Experience for Users with Disabilities.</u></a></li>
-<li><a href="https://win11.techidaily.com/stealth-mode-abscond-with-taskview-icon/"><u>Stealth Mode: Abscond with TaskView Icon</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-resolving-nvidia-disp-not-showed-problems/"><u>Strategies for Resolving Nvidia Disp Not Showed Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/the-synergy-of-ai-and-commerce-at-ms-store/"><u>The Synergy of AI and Commerce at MS Store</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-amplify-your-videos-impact-7-royalty-free-sounds/"><u>[New] 2024 Approved Amplify Your Video's Impact 7 Royalty-Free Sounds</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-streamlined-method-keeping-and-capturing-twitters-videomedia/"><u>[New] 2024 Approved Streamlined Method Keeping and Capturing Twitters Video/Media</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-behind-the-scenes-with-viral-image-memes-and-stories-for-2024/"><u>[New] Behind the Scenes with Viral Image Memes & Stories for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-integrating-comfort-with-efficiency-modern-approaches-to-office-design/"><u>[New] Integrating Comfort with Efficiency Modern Approaches to Office Design</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/astering-vlog-production-top-8-mirrorless-cameras-ranked/"><u>[New] Mastering Vlog Production Top 8 Mirrorless Cameras Ranked</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-aural-archive-download-preserve-and-examine-tracks-for-2024/"><u>[Updated] Aural Archive Download, Preserve & Examine Tracks for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-tier-external-ssds-for-elevated-xbox-use/"><u>[Updated] Top-Tier External SSDs for Elevated Xbox Use</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-drag-tabs-out-from-file-explorer-in-windows-11/"><u>How to Drag Tabs Out From File Explorer in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-something-happened-and-your-pin-isnt-available-on-windows-11/"><u>How to Fix Something Happened, And Your PIN Isn't Available on Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-y27-4g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo Y27 4G</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-safely-how-to-append-trusted-domains-on-windows-11/"><u>Navigate Safely: How to Append Trusted Domains on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-optional-components-in-windows-11-a-step-by-step-approach/"><u>Optimizing Optional Components in Windows 11: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-reclaim-lost-files-in-windows-environment/"><u>Strategies to Reclaim Lost Files in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/the-guide-to-submenu-insertion-in-windows-11/"><u>The Guide to Submenu Insertion in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-perfect-set-of-apps-for-successful-laptop-os-transition/"><u>The Perfect Set of Apps for Successful Laptop OS Transition</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-surveillance-on-a-budget-10-free-security-camera-tools-for-2024/"><u>Updated Surveillance on a Budget 10 Free Security Camera Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/win10win11-woes-here-are-7-ways-to-fix-optional-features/"><u>Win10/Win11 Woes? Here Are 7 Ways to Fix Optional Features</u></a></li>
 </ul></div>
 

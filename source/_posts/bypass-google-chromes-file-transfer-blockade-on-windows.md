@@ -1,7 +1,7 @@
 ---
 title: Bypass Google Chrome's File Transfer Blockade on Windows
-date: 2024-07-29T15:51:56.736Z
-updated: 2024-07-30T15:51:56.736Z
+date: 2025-02-13T16:08:26.096Z
+updated: 2025-02-15T21:46:17.158Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 
  After that, try uploading files and check if the issue occurs again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Disable Browser Extensions
 
  If you are able to upload files without issue in an incognito window, it is likely that one of your extensions is causing the problem. To identify it, you will need to disable all of the extensions and then re-enable them one at a time.
@@ -51,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 
  Restart Chrome after this, and then enable your extensions one at a time. You will need to upload a test file after enabling each extension until the issue occurs again. Once you find the extension that is causing the issue, consider removing it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Disable Energy Saver Mode in Chrome
 
  When you [enable Energy Saver mode in Chrome](https://www.makeuseof.com/enable-google-chrome-energy-saver-mode/), it limits certain background processes and visual effects to conserve battery life. However, this feature might cause your file uploads to fail in Chrome, especially if you are uploading large files.
@@ -60,28 +68,27 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 1. Open Chrome, click the **three-dot menu** icon in the top right corner, and select **Settings**.
 2. Use the left pane to switch to the **Performance** tab.
 3. Disable the toggle next to **Energy saver**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![Turn Off Energy Saver in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-energy-saver-in-google-chrome.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After completing the above steps, see if you can upload files without any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Disable Your Antivirus
 
  Many third-party antivirus programs have web protection features that are intended to safeguard you while you browse the internet. However, these antivirus programs can sometimes be intrusive and prevent file uploads in Chrome.
 
  To check for this possibility, you can temporarily disable your antivirus program on Windows. To do so, simply right-click on the antivirus program's taskbar icon, and select **Disable > Disable until the next restart**.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
  If this solves your problem, you will need to review the web protection settings in your antivirus program and make the necessary changes to avoid any issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Install Any Pending Google Chrome Updates
 
@@ -92,17 +99,14 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 1. Open Google Chrome and click the **menu icon** (three vertical dots) in the top-right corner.
 2. Select **Help > About Google Chrome**.
 3. Wait for Chrome to download pending updates, and then click the **Relaunch** button to install them.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![Install Chrome Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/install-chrome-updates.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you have updated Chrome, your file uploads should work as expected.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## 7\. Create a New Chrome Profile
 
  Issues with your Chrome profile can also cause the browser to malfunction. This could happen if your Chrome profile has become corrupted. You can try creating a new user profile in Chrome to see if that fixes the problem. Here's how to do that.
@@ -110,16 +114,10 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 1. Open Google Chrome and click on your **profile icon** in the top-right corner.
 2. Select **Add** from the resulting menu.
 3. Choose whether you want to sign in with or without an account.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Set Up New Chrome Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-up-new-chrome-profile.jpg)
 
  Switch to the newly created profile and try to upload files again. If this fixes your problem, you can consider [deleting the old Google Chrome profile](https://www.makeuseof.com/how-to-delete-google-chrome-profile/).
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Reset Chrome Settings
 
  If you still can't upload files in Google Chrome, you can reset the browser as a last resort. This will remove all of your custom settings, disable extensions, and delete other temporary data. However, your saved bookmarks and passwords will not be affected, so you don't need to worry about them.
@@ -131,10 +129,11 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 3. Select **Reset settings** from the left sidebar.
 4. Click the **Restore settings to their original defaults** option in the right pane.
 5. Click **Reset settings** to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Reset Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-google-chrome.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After resetting Chrome, restart it, and the issue should bother you.
 
@@ -144,11 +143,24 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 
  If you're not ready to give up on your favorite browser just yet, here are some tips that should restore your ability to upload files in Google Chrome
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/oosting-youtube-interaction-with-emojis/"><u>[New] Boosting YouTube Interaction with Emojis</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-who-leads-the-streaming-race-twitch-vs-youtube-showdown-for-2024/"><u>[Updated] Who Leads the Streaming Race? Twitch vs YouTube Showdown for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1724766722244-audacity-mp3cd/"><u>Audacity使用ガイド：ダウンロード後の操作方法 - 音声録音・編集から始める！ノイズ除去、MP3書き出し、最終CDプレスまで</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-play-android-games-on-windows-11-with-google-play-games/"><u>How to Play Android Games on Windows 11 With Google Play Games</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-wave-off-your-insta-footprint-complete-guide-to-permanent-delete/"><u>In 2024, Wave Off Your Insta Footprint Complete Guide to Permanent Delete</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-overcoming-fatal-error-code-0xf0831/"><u>Mastering Windows 11: Overcoming Fatal Error Code 0xF0831</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-wireless-hotspot-configuration-in-windows-11/"><u>Navigating the Wireless Hotspot Configuration in Windows 11</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/pasos-para-clonar-fotografias-en-un-disco-secundario-externo-con-macos/"><u>Pasos Para Clonar Fotografías en Un Disco Secundario Externo Con macOS</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-and-solving-windows-11s-persistent-red-screen-issue/"><u>Troubleshooting and Solving Windows 11'S Persistent Red Screen Issue</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Poco M6 Pro 4G | Dr.fone</u></a></li>
+</ul></div>
+

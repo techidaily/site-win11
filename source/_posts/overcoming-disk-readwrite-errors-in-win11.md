@@ -1,7 +1,7 @@
 ---
 title: Overcoming Disk Read/Write Errors in Win11
-date: 2025-01-28T16:11:53.603Z
-updated: 2025-02-03T23:52:34.523Z
+date: 2025-02-10T01:15:58.137Z
+updated: 2025-02-15T16:41:28.732Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Run the SFC and DISM Command Line Tools
 
@@ -62,7 +58,15 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![The troubleshooter list in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-apps-troubleshooter1.jpg)
 5. Apply any suggestions the troubleshooter provides.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-app-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Check That the Windows License Manager Service Is Running
 
@@ -77,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![The Windows License Manager server window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-license-service-manager.jpg)
 5. If the service isn’t running, press**Start** within the properties window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Select**Apply** to save settings for the Windows License Manager Service.
 7. Click**OK** to close the Windows License Manager Service Properties window.
 
@@ -93,10 +93,14 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![Apps & features in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/apps-features-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Set Up a New Local User Account on Windows
 
@@ -105,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
  Our guide on[how to fix Windows issues by creating new accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) includes full instructions for how to apply this solution.
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Restore Windows to an Earlier Date
 
@@ -121,7 +121,7 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
  However, restoring Windows to a previous time removes software not installed on the restoration point’s date. So, it’s likely you’ll have to reinstall some apps after rolling back Windows. Clicking**Scan for affected programs** in System Restore provides an overview of software that will be removed for a restore point.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset Windows
@@ -131,7 +131,7 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
  Windows 11 and 10 have a Reset this PC tool that makes it easy to factory reset the platform. That tool also includes an option that enables you to keep user files in the process. Our guide on[how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) includes instructions for applying this potential resolution with this tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get File System Errors Sorted in Windows
@@ -153,16 +153,20 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-best-software-a-gamers-livestream-compendium/"><u>[New] In 2024, Best Software A Gamers' Livestream Compendium</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/apple-challenges-leading-web-browser-with-unsettling-marketing-campaign-discover-more/"><u>Apple Challenges Leading Web Browser with Unsettling Marketing Campaign: Discover More</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-advice-on-dealing-with-intermittent-freezes-in-rocket-league-gaming-experience/"><u>Expert Advice on Dealing with Intermittent Freezes in Rocket League Gaming Experience</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/fine-tune-viewing-the-ultimate-zoom-journey/"><u>Fine-Tune Viewing The Ultimate Zoom Journey</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-failed-task-execution-in-windows-with-error-0x8007000f/"><u>How to Fix the Failed Task Execution in Windows with Error 0X8007000f</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-quickly-setup-games-via-xbox-for-pc/"><u>How to Quickly Setup Games via Xbox for PC</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-sculptive-strategies-in-creating-striking-fb-video-ads/"><u>In 2024, Sculptive Strategies in Creating Striking Fb Video Ads</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-printer-removal-on-windows-1011/"><u>Mastering Printer Removal on Windows 10/11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210004461-9781761035241-reiki-for-beginners/"><u>Reiki For Beginners | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-recover-missing-alerts-from-phone-link-app/"><u>Solutions to Recover Missing Alerts From Phone Link App</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-geforce-now-error-code-xc0f1103f-on-pcs/"><u>Solving GeForce Now Error Code XC0F1103F on PCs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capturing-the-essence-of-sims-gaming/"><u>2024 Approved Capturing the Essence of Sims Gaming</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-10t-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme 10T 5G Fingerprint Lock</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-12-pro-max-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 12 Pro Max Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-import-chrome-bookmarks-to-firefox-quickly-and-easily/"><u>How to Import Chrome Bookmarks to Firefox. Quickly & Easily</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-sony-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Sony FRP Locks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-honor-x9a-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Honor X9a Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-how-to-edit-the-beat-and-sync-videos-to-music-in-final-cut-pro-x/"><u>New 2024 Approved How to Edit the Beat and Sync Videos to Music in Final Cut Pro X</u></a></li>
+<li><a href="https://win11.techidaily.com/no-more-interrupted-views-nine-fixes-for-smooth-windows-streaming/"><u>No More Interrupted Views: Nine Fixes for Smooth Windows Streaming</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-keyboard-lags-on-windows-11-with-top-techniques/"><u>Overcoming Keyboard Lags on Windows 11 with Top Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/removing-digital-rights-management-drm-from-epub-audiobooks-on-audible/"><u>Removing Digital Rights Management (DRM) From EPUB Audiobooks on Audible</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-surfing-enhancing-youtube-views-in-chromium/"><u>Smooth Surfing: Enhancing YouTube Views in Chromium</u></a></li>
+<li><a href="https://win11.techidaily.com/switch-wincalc-visuals-to-darker-tones/"><u>Switch WinCalc Visuals To Darker Tones</u></a></li>
+<li><a href="https://win11.techidaily.com/the-hidden-threat-of-wacatacbml-in-windows-systems-exposed/"><u>The Hidden Threat of Wacatac.B!ml in Windows Systems Exposed</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-compendium-of-fixing-windows-blues/"><u>The Ultimate Compendium of Fixing Windows' Blues</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-self-opening-windows-11-search/"><u>Troubleshooting Self-Opening Windows 11 Search</u></a></li>
 </ul></div>
 

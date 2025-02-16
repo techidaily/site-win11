@@ -1,7 +1,7 @@
 ---
 title: Bypassing TPM in Windows 11 via Rufus Mastery
-date: 2024-07-29T15:52:45.952Z
-updated: 2024-07-30T15:52:45.952Z
+date: 2025-02-08T21:19:42.314Z
+updated: 2025-02-16T03:49:57.665Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
 
  There are even tweaked ISO files of Windows 11 available which bypasses both requirements before installation. However, Rufus has a better solution. It can help you prepare a Windows installation media while bypassing these requirements and adding more tweaks. Want to know more? Let’s begin.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Is Rufus the Tool for the Job?
 
  In Rufus version 3.2 and above, you can create a tweaked Windows 11 bootable media. The main attraction is that it can remove the 4GB RAM, TPM 2.0, and Secure Boot requirements while creating the bootable USB drive.
@@ -31,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
 
  Apart from these two tweaks, Rufus can also speed up the installation process by avoiding the setup pages for tracking, [disabling BitLocker encryption](https://www.makeuseof.com/windows-10-disable-or-suspend-bitlocker/), and settings the same language and region options as the computer you are using to create a bootable USB drive. So, you can prepare a Windows 11 bootable drive that takes less time to install and set up on a new system.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Create a Bootable USB Drive Which Bypasses Windows 11 Requirements Using Rufus
 
  Firstly, you need to [download the latest version of Rufus](https://rufus.ie/). It is available on Microsoft Store, GitHub and even has an official website where they post the details about new and upcoming releases. We suggest you download the portable version of Rufus to avoid the installation process altogether. You will also need the latest version of the Windows 11 ISO image file. Visit the official Microsoft webpage and [download the ISO file](https://www.microsoft.com/en-in/software-download/windows11) from there.
@@ -45,22 +39,29 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
 3. Insert a USB drive into your Windows 11 system. Ensure that the USB drive has a capacity of 8 GB or more. Rufus will automatically recognize the USB drive.
 4. Click on the **Select** button in the **Boot selection** section. **Browse** your computer for the ISO file and select it.
 5. Next, click on the **Partition scheme** option. Select **MBR** if you want to use this USB drive on a system with BIOS or UEFI. Leave the Target system and Partition scheme untouched if you plan to use this bootable USB drive on a UEFI system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Create a Bootable USB Drive Using Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/create-a-bootable-usb-drive-using-rufus.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Navigate to the bottom of Rufus' window and click on the **Start** button.
 2. A Windows User Experience box will open. Here, you can apply all the customizations you want to the Windows 11 bootable USB drive. Click on the checkbox in front of the **Remove requirement for 4GB+ RAM, Secure Boot, and TPM 2.0** option.
 3. Similarly, select the **Remove requirement for an online Microsoft account** checkbox and **Disable data collection (Skip privacy questions)** checkbox.  
 ![Create a Bootable USB Drive Using Rufus 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/create-a-bootable-usb-drive-using-rufus-2.jpg)
 4. Click on the **OK** button. Rufus will generate a warning about deleting all data on the USB drive.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Create a Bootable USB Drive Using Rufus 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/create-a-bootable-usb-drive-using-rufus-3.jpg)
 5. Lastly, click on the **OK** button and wait for Rufus to create the bootable Windows 11 USB drive. Eject the drive after you see a “**Ready**” message.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install the Modified Windows 11 on Your System
 
  Repeat the following steps to install Windows 11 while bypassing its system requirements:
@@ -68,13 +69,15 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
 1. Plug the bootable USB drive you created with Rufus into the target system. Press the designated F-key repeatedly (F10, F12, F2, or Esc) to enter the boot devices menu.
 2. Select the USB drive from the list using the arrow keys and press the **Enter** key to boot.
 3. Select the language and region and click on the **Next** button. Then, click on the **Install now** button.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Install the Modified Windows 11 on Your System](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-the-modified-windows-11-on-your-system.jpg)
 4. Click on the **I don’t have the product key** option.  
 ![Install the Modified Windows 11 on Your System 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-the-modified-windows-11-on-your-system-2.jpg)
 5. Select the version of Windows 11 you want to install (Home, Pro, Enterprise, or Education) and click on **Next**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Install the Modified Windows 11 on Your System 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-the-modified-windows-11-on-your-system-3.jpg)
 
 1. Accept the EULA and click on the **Next** button. Then, click on the **Custom** option.
@@ -85,14 +88,8 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
 5. Enter your **Name** and select **three security questions** and their answers as well. Click on **Next**.  
 ![Install the Modified Windows 11 on Your System 5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-the-modified-windows-11-on-your-system-5.jpg)
 6. Windows will prepare your system for the first boot. After a short while you will boot to the desktop.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows 11 up and running on an unsupported system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-up-and-running-on-an-unsupported-system.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Benefits of Using Rufus to Create a Custom Windows 11 Installation Media
 
  Rufus isn’t just a means to bypass the Windows 11 stern requirements on an unsupported system. It can also help you avoid the excessively long route Windows 11 setup forces you to take while installing the operating system. Forcing users to sign up or sign in using a Microsoft Account, downloading and installing updates, and not allowing them to [proceed with a Windows installation without an internet connection](https://www.makeuseof.com/windows-11-set-up-without-internet-connection/) end up ruining the user experience.
@@ -103,13 +100,15 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
 
  However, you will need to set up a new PIN if you plan to inherit the same username and region options as your main Windows computer. Otherwise, you won’t be able to log in.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A Frictionless Windows 11 Installation With Rufus
 
  Rufus can help you create a custom Windows 11 bootable drive that bypasses all the unnecessary requirements and setup pages. It is much better than using a tweaked ISO file with questionable security. Plus you don’t have to pay a dime because Rufus is completely open-source.
 
  There are even tweaked ISO files of Windows 11 available which bypasses both requirements before installation. However, Rufus has a better solution. It can help you prepare a Windows installation media while bypassing these requirements and adding more tweaks. Want to know more? Let’s begin.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -117,3 +116,25 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-action-triumphs-the-top-games-compilation/"><u>[New] Essential Action Triumphs The Top Games Compilation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-screencapturegooglemeet-iphone-and-android-methods/"><u>[New] In 2024, ScreenCaptureGoogleMeet IPhone and Android Methods</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-securely-store-and-download-linkedin-videos-heres-the-top-6-list-for-2024/"><u>[Updated] Securely Store & Download LinkedIn Videos - Here's the Top 6 List for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-about-the-samsung-galaxy-ring-what-you-need-to-know-cost-estimates-release-schedule-and-specs-update/"><u>All About the Samsung Galaxy Ring: What You Need to Know - Cost Estimates, Release Schedule & Specs Update</u></a></li>
+<li><a href="https://win11.techidaily.com/decelerate-your-clicking-how-to-curtail-mouse-accel-on-win-11/"><u>Decelerate Your Clicking: How to Curtail Mouse Accel on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/decrypting-zip-file-errors-on-windows-11-os/"><u>Decrypting Zip File Errors on Windows 11 OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-on-removing-grime-and-ensuring-hygiene-of-your-personal-loudspeakers-at-home/"><u>Expert Tips on Removing Grime and Ensuring Hygiene of Your Personal Loudspeakers at Home</u></a></li>
+<li><a href="https://fox-links.techidaily.com/grasping-the-nuances-in-youtube-viewer-reactions-for-2024/"><u>Grasping the Nuances in YouTube Viewer Reactions for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-zoom-from-novice-to-expert-configurator/"><u>Navigating Zoom From Novice to Expert Configurator</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-mcuicntexe-execution-issue-on-pcs/"><u>Resolving McUICnt.exe Execution Issue on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-rectifying-rdp-errors-in-windows-11/"><u>Strategies for Rectifying RDP Errors in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-bad-chunks-repairing-sector-issues/"><u>Tackling Bad Chunks: Repairing Sector Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-blank-spaces-in-the-windows-11-search-tool/"><u>Tackling Blank Spaces in the Windows 11 Search Tool</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-infinix-note-30i-by-drfone-android/"><u>Top 10 Password Cracking Tools For Infinix Note 30i</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-2024s-premier-riding-mowers-features-pros-and-cons-gadgetguru/"><u>Ultimate Selection of 2024'S Premier Riding Mowers - Features, Pros & Cons | GadgetGuru</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-efficiency-powertoys-guide-to-file-locking/"><u>Unlock Efficiency: PowerToys' Guide to File Locking</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mystery-of-0x80072746-windows-mail-solutions/"><u>Unraveling the Mystery of 0X80072746: Windows Mail Solutions</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Clearing the Path for Team Success: Resolving 80080300 Errors on W11"
-date: 2024-07-29T15:54:43.065Z
-updated: 2024-07-30T15:54:43.065Z
+date: 2025-02-13T23:22:25.882Z
+updated: 2025-02-15T21:40:28.846Z
 tags:
   - windows10
   - windows11
@@ -20,19 +20,25 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
 
  Consequently, users can’t log in to MS Teams when the app throws up that error. Those users might still be able to log in via browsers, but the Windows app displays an 80080300 error code. Here is how you can fix Microsoft Teams error 80080300 in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disconnect Your Microsoft Work or School Account
 
  If you’re utilizing a Microsoft work or school account, we recommend you disconnect from it on your PC. Doing so will eliminate one potential cause of error 0080300\. You can disconnect from a Microsoft work or school account you’re connected with via Settings like this:
 
 1. Press**Win +** **X** to view the Power User menu, and select the**Settings** shortcut.
 2. Then select the**Accounts** tab on the left side of Settings.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![access-work-or-school-navigation-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/access-work-or-school-navigation-option.jpg)
 3. Click**Access work or school** to view the options for those accounts.  
 ![Access work or school options in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-a-work-or-school-account.jpg)
 4. Next, click your listed work or school account to access a**Disconnect this account** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Press the**Disconnect** button.
 6. Click**Yes** to confirm you’re sure.
 7. Try utilizing the Microsoft Teams app with that account disconnected.
@@ -45,24 +51,24 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
 2. Bring up this directory:  
 `C:\Users\<user folder>AppData\Local\Microsoft\WindowsApps\MicrosoftTeams_8wekyb3d8bbwe`
 3. Right-click the**msteams.exe** file and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![properties-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/properties-option.jpg)
 4. Select**Compatibility** in the msteams.exe Properties window.
 5. Click**Run this program in compatibility mode** **for** to activate the drop-down menu.  
 ![The Run this program in compatibility mode for checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-in-compatibility-mode-option.jpg)
 6. Select the**Windows 8** option on the drop-down menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click**Apply** to save the new compatibility setting.
 
  Note that the WindowsApps folder that includes the pre-installed MS Teams app in Windows 11 is protected. So, you’ll need to unlock the WindowsApps folder to access msteams.exe as instructed above. Our[guide to taking ownership of folders in Windows 10 & 11](https://www.makeuseof.com/windows-10-11-own-folder/) tells you how users can unlock that directory in Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the Compatibility Troubleshooter for Microsoft Teams
 
  This potential error 80080300 resolution is similar to the previous fix, and it’s another that has worked for some users. Running the compatibility troubleshooter for MS Teams can resolve app compatibility issues. This is how to run that troubleshooter in Windows 11.
@@ -72,20 +78,19 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 3. Click the**Try recommended settings** option in the troubleshooter.  
 ![The Try recommended settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/try-recommended-settings-option.jpg)
 4. Select the**Test the program** option. Then try logging into your account within the Teams app from there.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![test-the-program-button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/test-the-program-button.jpg)
 5. Click**Next** to bring up further options.
 6. Then select**Yes, save these settings** , or**No, try again** depending on the test outcome. Selecting**No** will bring up further troubleshooting options if needed.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![The Yes, save these settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooting-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Clear the Cache for Microsoft Teams
 
  Microsoft Teams, like other apps, has a cache folder for storing data. However, a corrupted MS Teams cache can cause the 80080300 error. You can clear that cache by resetting the app in the following steps:
@@ -94,9 +99,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Click the**Apps & features** navigation option to access that uninstaller tool.
 3. Next, click the menu button on the right side of the listed Microsoft Teams app.
 4. Select**Advanced** **options** to get to the**Reset** button for MS Teams.  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Advanced options menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-options-option.jpg)
 5. Click**Reset** , and select**Reset** again to clear the app’s cached data.  
 ![The Reset button for MS Teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-button-for-microsoft-teams.jpg)
@@ -108,9 +110,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Press the**Windows** +**R** key combination, enter the above path into the Run dialogue, and click**OK** to bring up the Teams folder. Pressing**Ctrl** +**A** will[select all files](https://www.makeuseof.com/windows-11-file-explorer-select-all-files/) within the Teams folder. Then click the**Delete** (trash can) button on the command bar.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 5\. Erase Generic Credentials for Teams
 
  The Microsoft Teams 80080300 error can also occur because of corrupted saved credentials for that app. So, deleting such credentials could be the 80080300 error solution you’re looking for. Here’s how you can erase saved credentials for MS Teams:
@@ -119,12 +118,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Then enter**Credential Manager** inside Windows 11’s general search box.
 3. Select the Credential Manager to open up that Control Panel applet.
 4. Click**Windows Credentials** to view them.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![The Windows Credentials Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-credentials-applet.jpg)
 5. Next, delete all the MS Teams and Microsoft Office account credentials saved there. You can erase a credential by clicking its down arrow and selecting**Remove** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Close the Credential Manager applet, and click the**Restart** Start Menu option.
 7. Launch Microsoft Teams after restarting to see if error 80080300 is resolved.
 
@@ -153,8 +153,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +160,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/crafting-conversations-that-captivate-google-meet-edition-for-2024/"><u>Crafting Conversations that Captivate Google Meet Edition for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-and-stream-like-a-pro-on-linux-for-absolutely-zero-cost-how-nobara-achieves-it-plus-one-key-exception/"><u>Game & Stream Like a Pro on Linux for Absolutely Zero Cost: How Nobara Achieves It (Plus One Key Exception)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-z-fold-5-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-internal-audio-errors-in-audacity-for-winusers/"><u>Navigating Internal Audio Errors in Audacity for WinUsers</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-every-task-in-windows-the-ultimate-list-of-5plus-must-use-apps/"><u>Optimize Every Task in Windows: The Ultimate List of 5+ Must-Use Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-frozen-usb-hub-issue-a-windows-approach/"><u>Overcoming Frozen USB Hub Issue - A Windows Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/restore-access-quickly-for-frozen-windows-pins/"><u>Restore Access Quickly for Frozen Windows Pins</u></a></li>
+<li><a href="https://facebook.techidaily.com/strategies-for-unlocking-a-frozen-facebook-account/"><u>Strategies for Unlocking a Frozen Facebook Account</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-nubia-z50-ultra-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Nubia Z50 Ultra IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For OnePlus 11 5G? | Dr.fone</u></a></li>
+</ul></div>
 

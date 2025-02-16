@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Read-Only Barriers: A Windows User's Guide"
-date: 2025-01-30T19:04:37.546Z
-updated: 2025-02-04T07:04:32.610Z
+date: 2025-02-09T18:27:16.037Z
+updated: 2025-02-15T17:27:06.071Z
 tags:
   - windows10
   - windows11
@@ -31,19 +31,11 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
  As you now understand why folders in your computer are reverting to read-only mode, let's look at some ways to fix it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn Off Folder Protection
 
  Do you use folder lock software to protect your data, but some of those protected folders become read-only at random? If so, the restrictions are likely imposed by the folder lock software. Thus, by turning off the security limitations for those folders, you might be able to fix the problem right away.
 
  If you don't use any folder lock software or turning off the protection doesn't help, move on to the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Rule Out a Folder-Specific Issue
 
@@ -84,11 +76,11 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 ![Checking the Box Next to Full Control under Allow Column in the Permissions for Users Window in Security Tab on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-4-Checking-the-Box-Next-to-Full-Control-under-Allow-Column-in-the-Permissions-for-Users-Window-in-Security-Tab-on-Windows.jpg)
 7. After clicking **Apply**, hit **OK**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have multiple personal accounts on your computer, you can change permissions for each account using the administrator account similarly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Ransomware Protection in the Windows Security Settings
 
@@ -102,12 +94,16 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 ![Opening Manage Ransomware Protection Option under Virus and Threat Protection in Windows Security App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-5-Opening-Manage-Ransomware-Protection-Option-under-Virus-and-Threat-Protection-in-Windows-Security-App-on-Windows.jpg)
 4. Turn off the toggle under **Controlled folder access**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disabling Ransomware Protection by Turning Off the Toggle under Controlled Folder Access in Windows Security App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-6-Disabling-Ransomware-Protection-by-Turning-Off-the-Toggle-under-Controlled-Folder-Access-in-Windows-Security-App-on-Windows.jpg)
 
  If disabling this feature doesn't resolve the problem, you may need to reset the entire Windows Defender Firewall settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reset the Windows Defender Firewall Settings
@@ -121,8 +117,20 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 ![Opening Restore Defaults Option in Windows Defender Firewall Tab in System and Security Settings in Control Panel App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-7-Opening-Restore-Defaults-Option-in-Windows-Defender-Firewall-Tab-in-System-and-Security-Settings-in-Control-Panel-App-on-Windows.jpg)
 5. Click **Restore defaults** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. When the confirmation pop-up appears, select **Yes**.  
 ![Clicking on the Yes Button after Clicking on the Restore Defaults Button on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-8-Clicking-on-the-Yes-Button-after-Clicking-on-the-Restore-Defaults-Button-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Disable Antivirus and Other Security Software
 
@@ -131,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
  To rule out this potential cause, temporarily [turn off the Microsoft Defender Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) and see if your folders stop reverting to read-only mode after that. If they do, whitelist those folders from Microsoft Defender and turn on the security suite again. If you use any third-party security software, disable that as well since it can also restrict your access.
 
  Whether disabling the built-in or third-party security suites fixes the issue or not, you should enable them again to keep your device protected from viruses.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Forcefully Remove the Read-Only Attribute
 
@@ -142,23 +154,11 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 3. Hit **Enter**.  
 ![Removing the Read-Only Attribute by Running the Command in Windows Command Prompt App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-9-Removing-the-Read-Only-Attribute-by-Running-the-Command-in-Windows-Command-Prompt-App-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Run the SFC and CHKDSK Scans
 
  Corrupted system files and bad hard drive sectors can also alter the folder's permission access. Run the SFC and Chkdsk scans to ensure that's not the case. SFC can help you search for and fix corrupted system files, whereas Chkdsk can find bad sectors on your hard drive that could be causing the issue.
 
  If you've never run these scans before, check out our guide on [how to run SFC](https://www.makeuseof.com/system-file-checker-sfc-windows/) and [Chkdsk scans](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/). Hopefully, running these scans will fix the underlying issue with your files and folders. If neither of these scans finds any problems, proceed to the next step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Uninstall Any Recent Windows Updates
 
@@ -169,7 +169,7 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
  While it may initially seem strange, relocating the folders whose permissions get restricted to another drive also resolved the issue for some users. Therefore, move your folders from one drive to another, remove the read-only attribute, and see if they revert to read-only again. If relocating the folder to a different drive does not resolve the issue, go to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 11\. Go to Previous Restore Point
@@ -196,24 +196,21 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-miui-screen-recorder-review-and-alternatives-for-2024/"><u>[New] MIUI Screen Recorder Review and Alternatives for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-metaverse-promotion-power/"><u>[Updated] Harnessing Metaverse Promotion Power</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-masterpiece-maker-scenery-and-sound-unite/"><u>[Updated] In 2024, Masterpiece Maker Scenery & Sound Unite</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-10-high-fidelity-4k-laptops-for-gamers/"><u>[Updated] In 2024, Top 10 High-Fidelity 4K Laptops for Gamers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-your-phones-potential-making-tiktok-rhythms-your-alarm/"><u>[Updated] Unlocking Your Phone's Potential Making TikTok Rhythms Your Alarm</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-videography-titans-battle/"><u>2024 Approved Videography Titans Battle</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-keystroke-response-in-winos-and-11-7-techniques/"><u>Enhancing Keystroke Response in WINOS & 11: #7 Techniques</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/expert-video-extractor-and-downloader-enhanced-firefox-support-for-2024/"><u>Expert Video Extractor & Downloader Enhanced FireFox Support for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-bypass-the-admin-restriction-error-message-on-pcs/"><u>How to Bypass the Admin Restriction Error Message on PCs</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-f04-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy F04 Pattern Lock Screen</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-moto-g23-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Moto G23 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-display-clarity-with-these-6-tips-for-windows-users/"><u>Optimize Display Clarity with These 6 Tips for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/rapid-deactivation-windows-11-interruption-lifter/"><u>Rapid Deactivation: Windows 11 Interruption Lifter</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-disconnected-network-in-windows-os/"><u>Restoring Disconnected Network in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-windows-disk-errors-efficiently/"><u>Solving Windows Disk Errors Efficiently</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-sound-settings-windows-11-volume-control-guide/"><u>Streamline Your Sound Settings: Windows 11 Volume Control Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/toggle-display-inclination-for-windows-devices/"><u>Toggle Display Inclination for Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/top-3-ways-to-fix-gpeditmsc-not-found-problems/"><u>Top 3 Ways to Fix 'Gpedit.msc' Not Found Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-activation-diagnostics-easy-steps/"><u>Windows 11 Activation Diagnostics: Easy Steps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-discover-9-easy-no-cost-editing-software-options/"><u>[Updated] 2024 Approved Discover 9 Easy, No-Cost Editing Software Options</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-become-a-facetime-pro-skype-call-basics-for-mobile-users/"><u>[Updated] In 2024, Become a Facetime Pro Skype Call Basics for Mobile Users</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-seamless-system-updates-implementing-macos-sierra/"><u>[Updated] Seamless System Updates Implementing macOS Sierra</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/channel-progression-reach-and-maintain-10k-viewer-threshold/"><u>Channel Progression Reach and Maintain 10K Viewer Threshold</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-pc-writes-on-kernel32/"><u>Fix Your PC' Writes on Kernel32</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-securely-store-and-recover-notes/"><u>How to Securely Store and Recover Notes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-directories-not-empty-error-code-0x80070091-in-win11-os/"><u>Overcoming Directories Not Empty Error (Code: 0X80070091) in Win11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-defense-blockade-by-domain-managers-decision/"><u>Overcoming Windows Defense Blockade by Domain Manager's Decision</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reappearing-act-steps-to-fix-a-hidden-wi-fi-connection-problem/"><u>Reappearing Act: Steps to Fix a Hidden Wi-Fi Connection Problem</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-non-functional-radeon-tools-on-windows-os/"><u>Reviving Non-Functional Radeon Tools on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-windows-input-with-custom-shortcuts/"><u>Streamline Windows Input with Custom Shortcuts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/transform-your-video-content-using-story-remix-on-windows-photos/"><u>Transform Your Video Content Using Story Remix on Windows Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-11s-uptime-error-0x80246007/"><u>Troubleshooting Windows 11'S Uptime Error 0X80246007</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-ultimate-power-with-exceptional-battery-discover-our-top-pick-for-premium-13-inch-notebooks/"><u>Unleash Ultimate Power with Exceptional Battery: Discover Our Top Pick for Premium 13-Inch Notebooks</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-icons-gone-missing-quick-fix-guide/"><u>Win 11 Icons Gone Missing - Quick Fix Guide</u></a></li>
 </ul></div>
 
