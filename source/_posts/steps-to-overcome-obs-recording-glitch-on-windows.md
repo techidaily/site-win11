@@ -1,7 +1,7 @@
 ---
 title: Steps to Overcome OBS Recording Glitch on Windows
-date: 2025-02-10T22:55:58.042Z
-updated: 2025-02-15T16:15:43.119Z
+date: 2025-02-27T18:26:19.706Z
+updated: 2025-03-04T23:05:52.799Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/b65c1700fc3be6103fe73469bcdff9ebd5593034f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart OBS Studio
 
 ![Closing the OBS Studio Process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/end-task.jpg)
@@ -48,10 +44,6 @@ Here's what you need to do:
 3. Right-click on the dedicated graphics driver and choose**Disable device.**  
 ![Disable Device option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-device-option-1.jpg)
 4. Click**Yes** to the prompt that appears.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Your screen might flicker after disabling the dedicated graphics driver. But worry not; it'll become normal after the generic driver is started.
 
@@ -75,20 +67,12 @@ Here's what you need to do:
 ![Add an app prompt in the Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-an-app.jpg)
 6. Navigate to the location where you have installed the OBS Studio.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Select the**obs-ffmpeg-mux** executable file and click**Open.**  
 ![obs-ffmpeg-mux file in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/obs-ffmpeg-mux-file.jpg)
 8. Click**Add.**
 
 9. Check both the**Private** and**Public** boxes for**obs-ffmpeg-mux** and click**OK** to save the settings.  
 ![Private and Public boxes for OBS File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/private-and-public-boxes.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Restart your computer and check if the problem continues.
 
@@ -123,17 +107,9 @@ You can do that by following the below instructions:
 ![Environment Variables option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enviroment-variables.jpg)
 5. Select**Path** under the**System Variables** section, and click the**Edit** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Paste the following path in the**Variable value** text box and click**OK.**  
 `C:\Program Files (x86)\obs-studio\bin\32bit;`  
 ![Edit Variable in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-variable.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That's it! Now, start recording in OBS Studio and check if the problem persists.
 
@@ -157,10 +133,6 @@ You can do that by following the below instructions:
 
  Then, visit the[OBS Studio official website](https://obsproject.com/) , and download and install the latest version on your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Enjoy Seamless Recording With OBS Studio
 
  OBS Studio makes it a cakewalk to record anything and upload it online. However, due to corruption in its installation folder or missing DLL files, it might throw the "An unspecified error occurred while recording" error. Fortunately, you can quickly get rid of this error by applying the above fixes.
@@ -180,20 +152,20 @@ You can do that by following the below instructions:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-does-quick-subscribe-strategy-boost-audience-growth/"><u>[Updated] 2024 Approved Does Quick-Subscribe Strategy Boost Audience Growth?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-create-fantastic-youtube-description-with-templates-to-get-more-viewers/"><u>2024 Approved Create Fantastic YouTube Description With Templates To Get More Viewers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-ultimate-tutorial-for-fb-360-streaming/"><u>2024 Approved The Ultimate Tutorial for FB 360 Streaming</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-tecno-spark-20-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-14-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-max-and-min-cpu-in-power-settings-labyrinth/"><u>Exploring Max & Min CPU in Power Settings Labyrinth</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-service-not-started-for-virtual-disks-on-pc/"><u>Fixing Service Not Started for Virtual Disks on PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-asus-z170-pcb-gaming-drivers-now-for-optimal-performance/"><u>Get Your ASUS Z170 PCB Gaming Drivers Now for Optimal Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/halt-w11s-unsolicited-game-proposals/"><u>Halt W11's Unsolicited Game Proposals</u></a></li>
-<li><a href="https://win11.techidaily.com/minimizing-web-workload-the-lowest-ram-browser-choices-for-windows/"><u>Minimizing Web Workload: The Lowest RAM Browser Choices for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcome-difficulty-ms-pc-manager-windows-errors/"><u>Overcome Difficulty: MS PC Manager Windows Errors</u></a></li>
-<li><a href="https://win-dash.techidaily.com/seamless-printing-on-windows-find-and-install-your-canon-pixma-mg3420-drivers-here-windows-1087/"><u>Seamless Printing on Windows: Find and Install Your Canon Pixma MG3420 Drivers Here (Windows 10/8/7)</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/section-2a-understanding-compressive-strength-of-concrete-with-different-aggregates/"><u>Section 2A: Understanding Compressive Strength of Concrete with Different Aggregates</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-addressing-no-such-file-or-directory-errors/"><u>Strategies for Addressing 'No Such File or Directory' Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-aw-snap-error-in-google-chrome-on-winos/"><u>Troubleshooting “Aw, Snap!” Error in Google Chrome on WinOS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ackward-playmanship-a-guide-to-reversed-youtube-videos-for-2024/"><u>[New] Backward Playmanship A Guide to Reversed YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-best-11-tools-for-perfecting-your-fb-profile-pics/"><u>[New] In 2024, Best 11 Tools For Perfecting Your FB Profile Pics</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-dive-into-history-the-definitive-list-of-student-friendly-channels-1-10/"><u>[Updated] 2024 Approved A Dive Into History The Definitive List of Student-Friendly Channels #1-10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-accessing-hidden-social-engagement-in-video-streams/"><u>[Updated] Accessing Hidden Social Engagement in Video Streams</u></a></li>
+<li><a href="https://win11.techidaily.com/diagnosing-and-rectifying-muted-outputs-on-pc/"><u>Diagnosing and Rectifying Muted Outputs on PC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ring-12-premium-cameras-for-professional-vloggers/"><u>Exploring 12 Premium Cameras for Professional Vloggers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-high-speed-action-analysis-hero5-vs-star/"><u>In 2024, High-Speed Action Analysis Hero5 Vs Star</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oppo-reno-10-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Oppo Reno 10 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-fixing-stubborn-zip-operations-in-win-11/"><u>Master the Art of Fixing Stubborn Zip Operations in Win 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/phones-as-webcams-tips-and-tricks-for-quality-videos-for-2024/"><u>Phones as Webcams Tips and Tricks for Quality Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/preventive-measures-for-windows-11-camera-issue-code-f429f/"><u>Preventive Measures for Windows 11 Camera Issue Code F429F</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-open-win11s-print-settings-max-46-chars/"><u>Quick Tips: Open Win11's Print Settings (Max 46 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-files-overcoming-the-read-only-challenge-in-windows/"><u>Reviving Files: Overcoming the Read-Only Challenge in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-guide-to-windows-11-terminal-redoing/"><u>Simple Guide to Windows 11 Terminal Redoing</u></a></li>
+<li><a href="https://win-premium.techidaily.com/wd-mara-pasaparata-khaya-katana-aavashayakatao-ka-jararata-ha-oura-kasa-bha-data-ka-sarakashhata-karata-ha/"><u>WD मेरा पासपोर्ट खोया: कितनी आवश्यकताओं की जरूरत है और किसी भी डेटा को सुरक्षित करता है?</u></a></li>
 </ul></div>
 

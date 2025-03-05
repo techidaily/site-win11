@@ -1,7 +1,7 @@
 ---
 title: Essential Tips to Install Dormant Windows Apps & Extras
-date: 2025-02-08T16:17:36.732Z
-updated: 2025-02-15T18:06:54.696Z
+date: 2025-02-28T20:01:45.542Z
+updated: 2025-03-04T22:26:15.149Z
 tags:
   - windows10
   - windows11
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Use the DISM Tool
 
@@ -58,10 +54,6 @@ To check your system using SFC, follow these steps:
 2. Type**sfc /scannow** and press**Enter** .  
 ![SFC Utility In Windows Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-utility-in-windows.jpg)
 3. Once SFC scans for errors, make sure to restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Want to know the best part?
 
@@ -123,17 +115,9 @@ Here's how you can update Windows to the latest version:
 2. Click on**Windows** **Update > Check for updates** on Windows 11\. For Windows 10, click on **Update & Security > Windows Update > Check for Updates** .  
 ![Windows Update In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That's it. Now, you can install any update that is available for your computer.
 
  By default, Windows automatically downloads and installs updates, but you can also check for updates manually by following the steps above.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Restart the Windows Module Installer Service
 
@@ -150,10 +134,6 @@ Here's how you can update Windows to the latest version:
  When you reset the module installer service, Windows tries to stop it and then start it again, which can help reset the installation process of optional features and fix any issues that might be causing problems.
 
  Once the service restarts, try installing the optional feature again, and it should work now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Restore Windows Features Using PowerShell
 
@@ -172,10 +152,6 @@ Get-WindowsOptionalFeature -Online
 Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME  
 ![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
 5. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This will add the feature back to your system and should make it available for you to enable or disable in the features window.
 
@@ -202,22 +178,24 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-essential-travel-vloggers-the-ultimate-10-list/"><u>[Updated] 2024 Approved Essential Travel Vloggers The Ultimate 10 List</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-cuts-windows-11-shutdown-shortcuts/"><u>Efficient Cuts: Windows 11 Shutdown Shortcuts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-camon-20-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Camon 20 Pattern Lock Screen</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-adjusting-text-highlight-on-windows-11/"><u>Guide to Adjusting Text Highlight on Windows 11</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Come up With the Best Pokemon Team On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-inshots-music-integration-techniques/"><u>In 2024, InShot's Music Integration Techniques</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-xcover-7frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy XCover 7FRP Lock</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-13t-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi 13T Pro Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-unlocking-efficiency-in-video-editing-with-these-top-10-apps/"><u>In 2024, Unlocking Efficiency in Video Editing with These Top 10 Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-xp-error-0x80300024/"><u>Overcoming Windows XP Error 0X80300024</u></a></li>
-<li><a href="https://win11.techidaily.com/pro-tips-for-streamlining-remote-desktop-on-win-11/"><u>Pro-Tips for Streamlining Remote Desktop on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaiming-preferred-keyboard-settings-in-windows-11/"><u>Reclaiming Preferred Keyboard Settings in Windows 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/speedlite-iv-review-easy-controls-meets-economical-savings/"><u>Speedlite IV Review: Easy Controls Meets Economical Savings</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-resource-in-use-status-on-windows-11-devices/"><u>Steps to Overcome Resource In-Use Status on Windows 11 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-your-pc-affordable-key-aficionados-edition-of-windows-11-on-black-friday/"><u>Unlock Your PC: Affordable Key Aficionado's Edition of Windows 11 on Black Friday</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-technique-for-effective-photos-app-blur-on-w11/"><u>Unveiling the Technique for Effective Photos App Blur on W11</u></a></li>
-<li><a href="https://facebook.techidaily.com/when-is-the-best-time-to-post-on-facebook/"><u>When Is the Best Time to Post on Facebook?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-crafting-the-best-video-aspect-ratio-experience/"><u>[New] In 2024, Crafting the Best Video Aspect Ratio Experience</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-digital-moguls-guide-to-vimeo-earnings-mastery/"><u>[New] In 2024, The Digital Mogul's Guide to Vimeo Earnings Mastery</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-mastering-sound-communication-on-whatsapp-for-2024/"><u>[New] Mastering Sound Communication on WhatsApp for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-simplifying-the-process-recording-on-xbox-one/"><u>[Updated] 2024 Approved Simplifying the Process Recording on Xbox One</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-perfecting-virtual-sessions-best-free-and-paid-zoom-transcribing-tools/"><u>[Updated] Perfecting Virtual Sessions Best Free & Paid Zoom Transcribing Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-bots-top-9-reasons-for-choosing-chatgpt-plus/"><u>Boosting Bots: Top 9 Reasons for Choosing ChatGPT Plus</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comment-reproduire-facilement-le-disque-de-debut-pour-windows-serveur-version-2003-2008-ou-2012-sans-refaire-linstallation/"><u>Comment Reproduire Facilement Le Disque De Début Pour Windows Serveur Version 2003, 2008 Ou 2012 Sans Refaire L'Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-operation-failure-error-in-win-1011/"><u>Eradicating Operation Failure Error in Win 10/11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/highlighting-key-developments-in-windows-movie-maker-releases/"><u>Highlighting Key Developments in Windows Movie Maker Releases</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-out-of-arrow-chaos-in-windows-pcs/"><u>Navigate Out of Arrow Chaos in Windows PCs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-macos-11-big-sur-system-details/"><u>Navigating MacOS 11 Big Sur - System Details</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-lsassexe-issue-a-step-by-step-guide/"><u>Overcoming 'lsass.exe' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-app-camera-access-disputes-error-a00f4243/"><u>Overcoming Windows App Camera Access Disputes (Error A00F4243)</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-windows-11-to-classic-folder-visibility/"><u>Resetting Windows 11 to Classic Folder Visibility</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-virtual-setup-installing-win11-on-workstation-17/"><u>Streamlining Virtual Setup: Installing Win11 on Workstation 17</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-10-best-error-lookup-tools-for-windows/"><u>The 10 Best Error Lookup Tools for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-enigmatic-personal-space-in-win-how-to-engage-with-private-character-viewer/"><u>The Enigmatic Personal Space in Win: How to Engage with Private Character Viewer</u></a></li>
+<li><a href="https://win11.techidaily.com/turning-onoff-windows-automatic-images-on-screen-lock/"><u>Turning On/Off Windows' Automatic Images on Screen Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/updating-your-spotlight-theme-a-users-guide-in-windows/"><u>Updating Your Spotlight Theme: A User's Guide in Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Breaking Down Error X80072F30 in Microsoft Store on Windows
-date: 2024-08-08T13:15:43.246Z
-updated: 2024-08-09T13:15:43.246Z
+date: 2025-02-28T01:11:33.259Z
+updated: 2025-03-04T23:49:17.928Z
 tags:
   - windows10
   - windows11
@@ -20,11 +20,6 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 
  That error can arise even when there are no general internet connection issues for affected PCs. So, some users are a little baffled by it. However, you can resolve error 0x80072F30 in Windows 11 and 10 with these potential fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## 1\. Run the Troubleshooter for Windows Store Apps
 
  First, start by running the Windows Store Apps troubleshooter. That troubleshooter may not detect and address issues with MS Store, but it’s worth a try. You can launch that troubleshooting tool in Windows 11 like this:
@@ -34,9 +29,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-run-button-for-the-app-troubleshooter.jpg)
 3. Click**Other-troubleshooters** to access Windows 11’s troubleshooting tools.
 4. Press Windows Store App’s**Run** button to see if that troubleshooter detects any issues.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-store-apps-troubleshooter.jpg)
 5. Apply any possible manual fixes the troubleshooter suggests.
 
@@ -44,25 +36,16 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Some additional networking troubleshooters might also be useful for fixing error 0x80072F30 in some cases. The Network Adapter and Internet Connections troubleshooters are two available in Settings. So, select to run those troubleshooters as well.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Reset the Cache for Microsoft Store
 
  Microsoft Store has a cache that stores accumulated data. Corrupted data in that cache can often cause MS Store errors to occur. So, maybe resetting that cache might help for resolving error 0x80072F30\. This is how to reset MS Store’s cache:
 
 1. Press the**Win** +**S** keyboard buttons simultaneously to access a search tool.
 2. Type**wsreset.exe** inside the text box to find that run command.  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A wsreset.exe search command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-wsreset-search.jpg)
 3. Select**wsreset.exe** to initiate the command.
 4. Restart Windows after resetting MS Store’s cache.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## 3\. Check the Windows Update Service
 
  Windows Update is a necessary background service for Microsoft Store. So, check that the Windows Update service is enabled and running. If it’s not running, set that service to automatic and start it as follows:
@@ -70,14 +53,8 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. Bring up the search tool in Windows 11 or 10, and input the keyword services there.
 2. Select**Services** to access that app’s window.
 3. Double-click**Windows Update** to view its properties window.  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Services app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-service-window.jpg)
 4. Select the service’s**Automatic** option on the**Startup** drop-down if it’s not set to that already.  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Automatic startup option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-automatic-option.jpg)
 5. Click the service’s**Start** option to run it.
 6. Remember to select**Apply** .
@@ -111,9 +88,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![The Connections tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-connections-tab.jpg)
 5. Next, click**LAN** **settings** to reach the proxy server option.
 6. Deselect (uncheck) the checkbox for the**Use a proxy server** for your LAN setting if enabled.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Use a proxy server option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-use-proxy-server-option.jpg)
 7. Click**OK** on the Local Area Network window.
 
@@ -124,14 +98,8 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. First, type the keyword**view network connections** inside the Windows search tool.
 2. Click**View network connections** in the search results.
 3. Right-click your internet connection there and select its**Properties** option.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-properties-option.jpg)
 4. Select**Internet Protocol Version 4** , and click the**Properties** button.  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![The Networking tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-networking-tab.jpg)
 5. Then click the**Obtain an IP address automatically** radio button to select that option.
 6. Select the**Obtain DNS server address automatically** setting.  
@@ -161,8 +129,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,6 +136,22 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-innovative-youtube-titles-crafting-a-standout-brand/"><u>[New] Innovative YouTube Titles Crafting a Standout Brand</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-fading-frequencies-the-gentle-way-with-garageband/"><u>[Updated] In 2024, Fading Frequencies The Gentle Way with Garageband</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-slash-size-save-time-essential-tips-for-editing-big-tiktok-drafts/"><u>[Updated] Slash Size, Save Time Essential Tips for Editing Big TikTok Drafts</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/analyzing-ps5s-advantages-over-mid-gen-ps4-pro/"><u>Analyzing PS5's Advantages Over Mid-Gen PS4 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-color-dynamics-rgb-on-windows-11/"><u>Configuring Color Dynamics: RGB on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/declutter-minds-notes-organized-with-obsidian-canvas-techniques/"><u>Declutter Minds: Notes Organized with Obsidian Canvas Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-ai-experience-with-these-5-chatgpt-features-youre-missing-out-on/"><u>Enhance Your AI Experience with These 5 ChatGPT Features You're Missing Out On</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-to-dismantle-persistent-0x800f0831-issues/"><u>Expert Guide to Dismantle Persistent 0X800F0831 Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-taskbar-visible-when-maximizing-chromeedge/"><u>How to Make Taskbar Visible When Maximizing Chrome/Edge</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-samsung-galaxy-a14-4g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Samsung Galaxy A14 4G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/precision-power-and-aesthetics-note-taking-with-obsidian-canvas/"><u>Precision, Power & Aesthetics - Note-Taking with Obsidian Canvas</u></a></li>
+<li><a href="https://win11.techidaily.com/restore-lost-speaker-settings-with-ease-on-windows-pc/"><u>Restore Lost Speaker Settings with Ease on Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/riconverti-filets-mkv-in-formato-mov-web-gratuita-softoni-video/"><u>Riconverti Filets MKV in Formato MOV Web Gratuita - Softoni Video</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/egies-for-optimal-youtube-shorts-growth/"><u>Strategies for Optimal YouTube Shorts Growth</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-lightened-up-tecno-reveals-reduced-size-gadgets/"><u>Tech Lightened Up: Tecno Reveals Reduced-Size Gadgets</u></a></li>
+</ul></div>
 

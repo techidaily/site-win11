@@ -1,7 +1,7 @@
 ---
 title: Beating Down Error Code 31 in the Windows Landscape
-date: 2024-08-08T13:13:09.395Z
-updated: 2024-08-09T13:13:09.395Z
+date: 2025-02-28T00:23:49.265Z
+updated: 2025-03-05T03:01:27.542Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8
 
  As such, let's explore all the ways to fix the network adapter error code 31 on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Check for Any Pending Network Driver Updates
 
  First off, check to see if your network driver has any pending updates. While you can update the drivers for the device connected to your computer using Device Manager, we don't recommend it, as Device Manager often fails to find the most recent updates for the driver.
@@ -43,9 +40,6 @@ To perform a network driver rollback:
 ![device manager network adapter properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/device-manager-network-adapter-properties.jpg)
 4. Right-click on your network device and select**Properties** .
 5. In the**Properties** dialog, open the**Driver** tab.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![device manager network driver roll back driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/device-manager-network-driver-roll-back-driver-1.jpg)
 6. Click the**Roll Back Driver** button. If the option is**greyed out** , your computer doesn't have an older driver to perform a rollback. Check your manufacturer's website to see if they have older drivers in an archive.
 7. Next, in the confirmation dialog, give a reason and click**Yes** .
@@ -60,9 +54,6 @@ To perform a network reset:
 1. Press**Win + I** to open**Settings** .
 2. Open the**Network & internet** tab in the left pane.
 3. Click on**Advanced network settings** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 4. ![advanced network settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11.jpg)  
  Next, click on**Network reset** .
 5. ![advanced network settings windows 11 network reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-network-reset.jpg)  
@@ -70,9 +61,6 @@ To perform a network reset:
 ![advanced network settings windows 11 network reset reset now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-network-reset-reset-now.jpg)
 6. Your PC will restart during the process.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Delete the Corrupted Network Config File on Older Machines
 
 ![delete config value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/delete-config-value-registry-editor.jpg)
@@ -100,14 +88,8 @@ To perform a network reset:
 1. Open Device Manager (see [how to open Device Manager](https://www.makeuseof.com/windows-open-device-manager/) for detailed steps).
 2. Next, expand the**Network Adapters** section.
 3. Right-click on the network adapter and select**Uninstall Device.**  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![uninstall network device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-network-device-device-manager.jpg)
 4. In the confirmation dialog, check the**Attempt to remove the driver for this device** option.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![uninstall network driver device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-network-driver-device-device-manager.jpg)
 5. Click**Uninstall** to confirm the action.
 
@@ -115,9 +97,6 @@ To perform a network reset:
 
  If Windows fails to install the driver, open**Device Manager** , right-click on your network adapter and select**Update driver** . You can also download the latest drivers from your computer manufacturer's website, as shown in step one.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Perform a System Restore
 
  This error can occur if Windows modifies your network adapter settings during an update. You can use a restore point to undo the changes and restore the computer to its earlier state. Since Windows automatically creates a new restore point before installing an update, you should be able to find a recent restore point to undo the changes.
@@ -130,9 +109,6 @@ To perform a restore point:
 ![system properties system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-properties-system-restore.jpg)
 4. In the**System Restore** dialog, click**Next** to view all the available restore points. Additionally, check the**Show more restore points** option to view older restore points.
 5. Select the most recent restore point and click**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![system properties system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-properties-system-restore.jpg)
 6. Confirm your restore point and read the description to understand what apps and data on your PC are affected.
 7. Click**Finish** to initialize the system restore process. Your PC will restart and may take some time to finish. Your PC will restart and show a system restore success or failure message.
@@ -149,8 +125,6 @@ To perform a restore point:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,6 +132,26 @@ To perform a restore point:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-journey-into-the-art-of-long-exposure-a-comprehensive-guide-to-gopro-timelapses/"><u>[New] 2024 Approved Journey Into the Art of Long-Exposure A Comprehensive Guide to GoPro Timelapses</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-transform-your-social-media-voice-with-high-def-streams-for-2024/"><u>[New] Transform Your Social Media Voice with High-Def Streams for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-new-norms-metaverse-marketing-101/"><u>2024 Approved Navigating New Norms Metaverse Marketing 101</u></a></li>
+<li><a href="https://win11.techidaily.com/displaying-number-lock-status-in-taskbar-tray-of-win11/"><u>Displaying Number Lock Status in Taskbar Tray of Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-seamless-directx-downloads-and-updates/"><u>Expert Tips for Seamless DirectX Downloads & Updates</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-mechanics-of-large-language-models-in-ai/"><u>Exploring the Mechanics of Large Language Models in AI</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-correcting-missing-msvcrt120dll-errors-on-pcs/"><u>Guide to Correcting Missing Msvcrt120dll Errors on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-regain-access-email-and-calendar-in-windows-11/"><u>How to Regain Access: Email & Calendar in Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-motorola-moto-g14-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Motorola Moto G14 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-captivating-your-audience-youtube-intro-excellence-with-imovie/"><u>In 2024, Captivating Your Audience YouTube Intro Excellence with iMovie</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-max-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro Max with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/instantly-stop-notifications-in-windows-11-ui/"><u>Instantly Stop Notifications in Windows 11 UI</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722971880486-latest-msi-bluetooth-drivers-download-to-upgrade-and-secure-your-windows-111n-systems-now/"><u>Latest MSI Bluetooth Drivers - Download to Upgrade and Secure Your Windows 11/1N Systems Now</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-printer-from-protected-windows-11-edge-mode/"><u>Launching Printer From Protected Windows 11 Edge Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/method-for-deleting-steams-dns-data-in-windows-os/"><u>Method for Deleting Steam's DNS Data in Windows OS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-download-lenovo-x1-carbon-device-drivers-for-windows-operating-systems-windows-10-and-7/"><u>Quick Download: Lenovo X1 Carbon Device Drivers for Windows Operating Systems (Windows 10 & 7)</u></a></li>
+<li><a href="https://win11.techidaily.com/ranking-the-peak-fps-counter-apps-for-windows-11/"><u>Ranking the Peak FPS Counter Apps for Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-exploring-computer-components-and-performance/"><u>Tom's Tech Insights: Exploring Computer Components and Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-your-potential-best-windows-to-dos/"><u>Unleashing Your Potential: Best Windows To-Dos</u></a></li>
+</ul></div>
 

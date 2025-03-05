@@ -1,7 +1,7 @@
 ---
 title: "Enhance Efficiency: Reducing Memory/CPU Load in Windows 10"
-date: 2025-02-10T23:22:07.545Z
-updated: 2025-02-16T03:35:11.370Z
+date: 2025-03-02T23:36:07.500Z
+updated: 2025-03-05T00:39:42.217Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/ba4d76a3836c79aa2d1ffbc408b14921a58fa2b19
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install Windows Update Hotfix
 
@@ -81,10 +77,6 @@ To install a Windows 11 update:
 ![turn off news and interest disabled 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interest-disabled-1.jpg)
 5. Select**Disabled** and click**Apply** and**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![turn off news and interest disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interest-disabled.jpg)
 6. Close Group Policy Editor and restart your computer.
 
@@ -103,18 +95,10 @@ To disable the news feed feature using Windows Registry:
 ![registry editor new key Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/registry-editor-new-key-windows.jpg)
 3. In Registry Editor, navigate to the following location. You can copy and paste the registry path for quicker navigation:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows`
 4. Right-click on the**Windows** key in the left pane.
 5. Select**New > Key** . Rename the key as**Windows Feeds** .  
 ![registry editor new key Windows new DWORd value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/registry-editor-new-key-windows-new-dword-value.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Next, right-click the**Windows Feeds** key and select**New > DWORD (32-bit) Value** .
 2. Rename the new value as**EnableFeeds** .
@@ -128,10 +112,6 @@ To disable the news feed feature using Windows Registry:
 
 ![powershell add registry key value Windows feeds Enable feeds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/powershell-add-registry-key-value-windows-feeds-enable-feeds.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also add and modify the EnableFeeds value in the Windows Registry using PowerShell. To do this:
 
 1. Press the**Win** key and type**powershell** .
@@ -140,10 +120,6 @@ To disable the news feed feature using Windows Registry:
 `REG ADD "HKLM\SOFTWARE\Policies\Microsoft\Windows\Windows Feeds" /v "EnableFeeds" /t REG_DWORD /d 0 /f`
 4. The above command will create a new**Windows Feeds** subkey and contain the value**EnableFeeds** set to disabled.
 5. If there are no errors, type**exit** and press**Enter** to close PowerShell. Restart your Computer and check for any improvements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix the News and Interests Feature's High Memory Usage on Windows
 
@@ -164,20 +140,22 @@ To disable the news feed feature using Windows Registry:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-decode-the-art-of-youtube-shorts-with-hit-songs/"><u>[New] In 2024, Decode the Art of YouTube Shorts with Hit Songs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-dissecting-the-revenue-sharing-mechanisms-in-youtube-shorts-economy-for-2024/"><u>[Updated] Dissecting the Revenue-Sharing Mechanisms in YouTube Shorts Economy for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-pantheon-of-praise-celebrating-ten-superstar-posts-for-2024/"><u>[Updated] The Pantheon of Praise Celebrating Ten Superstar Posts for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/craft-unique-aesthetics-window-11-wallpapers-per-monitor/"><u>Craft Unique Aesthetics: Window 11 Wallpapers Per Monitor</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-distinctiveness-microsoft-and-non-microsoft-windows-logins/"><u>Deciphering Distinctiveness: Microsoft & Non-Microsoft Windows Logins</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722898350876-discover-the-greatest-free-defrag-solutions-of-2024-ranked/"><u>Discover the Greatest Free Defrag Solutions of 2024 - Ranked!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-repair-your-lenovo-keyboard-light-issues-a-step-by-step-guide/"><u>How to Repair Your Lenovo Keyboard Light Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/master-plan-for-exclusive-printer-use-in-windows-11/"><u>Master Plan for Exclusive Printer Use in Windows 11</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/navigating-through-top-10-youtube-mp3-extractors/"><u>Navigating Through Top 10 YouTube Mp3 Extractors</u></a></li>
-<li><a href="https://win11.techidaily.com/reconnect-and-start-printing-with-windows-11/"><u>Reconnect and Start Printing with Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-enabling-additional-virus-protection-bypassing-defender/"><u>Strategies for Enabling Additional Virus Protection Bypassing Defender</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-synapse-errors-a-quick-reference-for-w10-and-w11/"><u>Tackling Synapse Errors: A Quick Reference for W10 & W11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-guide-arma-3-stability-and-performance-tips/"><u>Ultimate Troubleshooting Guide: Arma 3 Stability and Performance Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-and-gauging-interpupillary-distance-key-insights-for-optimizing-virtual-reality-experiences/"><u>Understanding and Gauging Interpupillary Distance: Key Insights for Optimizing Virtual Reality Experiences</u></a></li>
-<li><a href="https://facebook.techidaily.com/virtual-voyagers-discovering-false-profiles/"><u>Virtual Voyagers: Discovering False Profiles</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-unlocking-your-videos-top-7-rippers-explored/"><u>[New] 2024 Approved Unlocking Your Videos Top 7 Rippers Explored</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-rgb-to-srgb-transition-what-it-means-for-visual-media/"><u>[New] Rgb to Srgb Transition What It Means for Visual Media</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-elevate-your-content-tiktoks-top-10-filter-winners/"><u>[Updated] 2024 Approved Elevate Your Content TikTok's Top 10 Filter Winners</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/discovering-open-source-masterpieces-and-resources/"><u>Discovering Open-Source Masterpieces & Resources</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/efficiently-inflate-your-tires-with-the-jaco-smartpro-a-detailed-product-analysis/"><u>Efficiently Inflate Your Tires with the Jaco SmartPro – A Detailed Product Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-error-code-0xca00a009-in-windows-update/"><u>Eliminating Error Code: 0XCA00A009 in Windows Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/escape-into-blissful-functionality-with-these-windows-fixes/"><u>Escape Into Blissful Functionality with These Windows Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-clear-disk-needs-format-message-in-windows/"><u>How to Clear Disk Needs Format Message in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-eliminate-error-0x80073d26-from-your-microsoft-store/"><u>How to Eliminate Error 0X80073D26 From Your Microsoft Store</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-reno-11f-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo Reno 11F 5G FRP</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-apple-iphone-12-fixed-drfone-by-drfone-virtual-ios/"><u>iSpoofer is not working On Apple iPhone 12? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-strategies-solve-clipchamp-issues-on-win11-platforms/"><u>Masterful Strategies: Solve ClipChamp Issues on Win11 Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/microsofts-decision-phasing-out-more-built-in-utilities-in-windows-11/"><u>Microsoft's Decision: Phasing Out More Built-In Utilities in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/revamping-your-windows-1011-apps-with-restart-techniques/"><u>Revamping Your Windows 10/11 Apps with Restart Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-error-0x80242016-in-windows-update/"><u>Sidestep Error 0X80242016 in Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/the-5-best-alternatives-to-the-windows-snipping-tool/"><u>The 5 Best Alternatives to the Windows Snipping Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/winrar-summation-accuracy-methods-to-rectify-errors-effectively/"><u>WinRAR Summation Accuracy: Methods to Rectify Errors Effectively</u></a></li>
 </ul></div>
 

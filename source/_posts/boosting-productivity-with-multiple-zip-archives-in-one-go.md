@@ -1,7 +1,7 @@
 ---
 title: Boosting Productivity with Multiple ZIP Archives in One Go
-date: 2024-08-08T13:15:41.341Z
-updated: 2024-08-09T13:15:41.341Z
+date: 2025-02-25T22:04:04.129Z
+updated: 2025-03-04T23:04:31.397Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/1ccd2dbf2e6000433c361586dbc867e80efe1088f
 
  So, Windows’ built-in extraction tool isn’t ideal when you need to unzip numerous ZIP files. It’s better to utilize a third-party app like 7-Zip or ExtractNow that enables you to extract multiple ZIP archives. This is how you can simultaneously extract multiple ZIP files with those software packages.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## How to Simultaneously Extract Multiple ZIP Archives With 7-Zip
 
  7-Zip is one of the [best file compression and extraction tools](https://www.makeuseof.com/tag/the-top-3-file-compression-extraction-softwares/) for Windows. That software is freely available and widely compatible with Windows platforms dating back to 2000\. You can batch extract multiple archives to different folders with that software as follows.
@@ -44,9 +40,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 4. Click **Extract** to bring up an extraction window.  
 ![The Extract button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-button.jpg)
 5. If you want to change the folder that includes the extracted subfolders, click the **ellipsis** button. Then choose a different directory and click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-extract-window.jpg)
 6. Select **OK** to extract the selected ZIP archives.
 
@@ -63,9 +56,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 3. Double-click the **extractnow.exe** file to start the setup wizard.
 4. Click **I Agree** for the software’s license terms.
 5. Select **Next** twice more, and then click **Install** to finish.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The ExtractNow Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extractnow-setup-window.jpg)
 6. Click **Close** to open ExtractNow.
 
@@ -77,32 +67,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 3. Click **Extract** to unzip the ZIP files.  
 ![The Extract option in ExtractNow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-button4.jpg)
 4. Then click **OK** **to All** to extract the selected archives to subfolders with titles that match the ZIP files within the same directory. Alternatively, you can manually select a different destination to extract each file within the Browse for Folder window and click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Browse for Folder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-for-folder.jpg)
 
  By default, this software will always ask you where to extract files. However, you can change ExtractNow to automatically unzip ZIP files without asking via its settings. To do so, click the **Settings** button and select the **Destination** tab. Then select the **Automatically extract archives to** radio button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![The Destination tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/destination-tab.jpg)
 
  If you want to set a location to always extract selected ZIPs, click the **Browse for Folder** button; select a directory within the Browse for Folder window and click **OK**. Then select **OK** on the Settings window to save options.
 
  ExtractNow also has lots of other settings you can configure. Check out the [ExtractNow manual](https://extractnow.com/#/documentation) for details about what all those settings do.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Batch Extract ZIP Files Quicker in Windows
 
  ExtractNow and 7-Zip are two of the best freely available Windows desktop apps for simultaneously extracting multiple ZIP files. It’s quick and easy to batch-extract hundreds of ZIP archives in just a few clicks with those software packages. So, they’re invaluable utilities for anybody who needs to bulk extract many ZIP files.
 
  So, Windows’ built-in extraction tool isn’t ideal when you need to unzip numerous ZIP files. It’s better to utilize a third-party app like 7-Zip or ExtractNow that enables you to extract multiple ZIP archives. This is how you can simultaneously extract multiple ZIP files with those software packages.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -110,4 +89,27 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-groundbreaking-14-animated-text-techniques/"><u>[New] Groundbreaking 14 Animated Text Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-diminutive-directors-script-for-2024/"><u>[Updated] Diminutive Director's Script for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-down-why-syma-x5c-is-top-notch-for-new-dronists/"><u>2024 Approved Breaking Down Why Syma X5C Is Top-Notch for New Dronists</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-step-by-step-tutorial-on-navigating-and-utilizing-the-wayback-machine/"><u>A Step-by-Step Tutorial on Navigating and Utilizing the Wayback Machine</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/epic-love-tales-on-screen-best-and-free-romantic-movie-hits-of-hollywood/"><u>Epic Love Tales on Screen - Best and Free Romantic Movie Hits of Hollywood</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-recommended-sub-to-srt-tools-top-8-guide-reviewed/"><u>Expert Recommended Sub to SRT Tools Top 8 Guide Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-geforce-experience-error-code-0x0001-in-windows-11-and-11/"><u>How to Fix the GeForce Experience Error Code 0X0001 in Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-invisible-wi-fi-visible-in-windows-11/"><u>How To Make Invisible Wi-Fi Visible in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-restart-and-rectify-non-functional-obs-on-pc/"><u>How to Restart and Rectify Non-Functional OBS on PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-in-depth-insights-perfecting-the-craft-of-screen-recording-on-macbooks/"><u>In 2024, In-Depth Insights Perfecting the Craft of Screen Recording on MacBooks</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-mouse-navigation-in-powertoys-tools/"><u>Mastering Mouse Navigation in PowerToys Tools</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/musik-vom-iphone-automatisch-zu-itunes-herunterladen-gratis-losung-fur-windows-10-benutzer/"><u>Musik Vom iPhone Automatisch Zu iTunes Herunterladen - Gratis-Lösung Für Windows 10 Benutzer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-fire-photos-with-iphone-burst-feature/"><u>Quick-Fire Photos with iPhone Burst Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/reversing-the-disabled-state-on-windows-11-fix-for-error-code-22/"><u>Reversing the Disabled State on Windows 11 - Fix for Error Code 22</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-file-organization-with-multiple-windows-11-folders/"><u>Streamline File Organization with Multiple Windows 11 Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-nvidia-opengl-driver-failures-in-win11/"><u>Tackling NVIDIA OpenGL Driver Failures in Win11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-experts-guide-quick-removal-of-your-youtube-comments-for-2024/"><u>The Expert's Guide Quick Removal of Your Youtube Comments for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-your-iphone-torch-a-guide-with-12-steps/"><u>Troubleshoot Your iPhone Torch: A Guide with 12 Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-voice-into-written-words-immediately-whispers-secret/"><u>Turn Voice Into Written Words Immediately - Whisper's Secret</u></a></li>
+</ul></div>
 

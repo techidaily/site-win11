@@ -1,7 +1,7 @@
 ---
 title: Integrating Linux Into Hyper-V on Windows Systems
-date: 2025-02-14T23:45:19.862Z
-updated: 2025-02-15T20:52:04.863Z
+date: 2025-03-01T21:52:28.362Z
+updated: 2025-03-04T23:51:05.364Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
  Also, update the VMware Workstation Player to the latest version before you begin the installation method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Create a Linux Virtual Machine Inside Windows Virtual Machine Using Hyper-V
 
  We will break the steps into three parts. Firstly, you must enable the virtualization features for the Windows virtual machine. Then you need to enable Hyper-V on this virtual machine. Lastly, you need to create a Linux virtual machine using Hyper-V.
@@ -52,10 +48,6 @@ To enable Virtualization, do as follows:
 ![Enable Virtualization for Windows Virtual Machine in VMware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-virtualization-for-windows-virtual-machine-in-vmware.jpg)
 5. Click on the**OK** button to apply changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Virtualization features are now active for the above Windows virtual machine. Next, you need to install Hyper-V.
 
 ### 2\. Install Hyper-V on the Windows Virtual Machine
@@ -69,10 +61,6 @@ To enable Virtualization, do as follows:
 5. Scroll down and click on the**Hyper-V** checkbox in the Windows Features list.  
 ![Install Hyper-V on the Windows Virtual Machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-hyper-v-on-the-windows-virtual-machine.jpg)
 6. Click on the**OK** button to install the feature on your system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. **Restart** your system to apply changes when the installation completes.
 
@@ -94,20 +82,12 @@ To create an Ubuntu virtual machine, do as follows:
 ![Create a Linux Virtual Machine Using Hyper-V 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-2.jpg)
 6. Then, click on**Next** button and select the**Default switch** option in the Configure Networking section.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Click on the**Create a virtual hard disk** option and allocate**20GB** to the virtual hard disk. Move to the next section.  
 ![Create a Linux Virtual Machine Using Hyper-V 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-3.jpg)
 8. Pick the**Install an operating system from a bootable CD/DVD-ROM** option located under the Installation options section. Select the Ubuntu Image file (.iso) you downloaded before beginning this step.  
 
 ![Create a Linux Virtual Machine Using Hyper-V 4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-4.jpg)
 9. Click on the**Next** button and review the virtual machine configuration. Then, click on the**Finish** button to create the virtual machine.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now that the virtual machine is ready, it's time to get Ubuntu up and running:
 
@@ -149,18 +129,17 @@ To create an Ubuntu virtual machine, do as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-innovative-ways-to-capture-online-discussions/"><u>[New] 2024 Approved Innovative Ways to Capture Online Discussions</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-expertly-chosen-top-5-premium-drones-for-professionals/"><u>[New] In 2024, Expertly Chosen Top 5 Premium Drones for Professionals</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-premium-enhancements-guide-to-superior-terria/"><u>[Updated] 2024 Approved Premium Enhancements Guide to Superior Terria</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tweet-transformation-techniques-for-free-gifs/"><u>[Updated] Tweet Transformation Techniques for Free GIFs</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-methods-to-fix-windows-error-in-your-office-app/"><u>Efficient Methods to Fix Windows Error in Your Office App</u></a></li>
-<li><a href="https://win11.techidaily.com/empowering-windows-11-workflows-advanced-run-command-incorporation/"><u>Empowering Windows 11 Workflows: Advanced Run Command Incorporation</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-capturing-heights-in-focus-examining-the-mavic-pro/"><u>In 2024, Capturing Heights in Focus Examining the Mavic Pro</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Itel P55+? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-dynamic-world-of-drone-racing-and-top-5-high-speed-drones/"><u>In 2024, Navigating the Dynamic World of Drone Racing & Top 5 High-Speed Drones</u></a></li>
-<li><a href="https://win11.techidaily.com/prime-windows-pomodoro-tools-roundup/"><u>Prime Windows Pomodoro Tools Roundup</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-microsoft-teams-sign-in-problems-on-pc/"><u>Resolving Microsoft Teams Sign-In Problems on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/successfully-solving-steam-readwrite-issues-in-windows/"><u>Successfully Solving Steam Read/Write Issues in Windows</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/top-5-mkv-players-for-mac-for-2024/"><u>Top 5 MKV Players for Mac for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-personalize-vr-gear-with-homemade-google-headgear/"><u>[New] Personalize VR Gear with Homemade Google Headgear</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-splendid-scenery-crafting-visuals-with-strategic-lighting-for-2024/"><u>[Updated] Splendid Scenery Crafting Visuals with Strategic Lighting for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-master-the-momentum-sending-viral-videos-soaring/"><u>2024 Approved Master the Momentum Sending Viral Videos Soaring</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-htc-u23-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-default-mobility-settings-on-windows-11/"><u>Eliminate Default Mobility Settings on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-or-disable-metered-connection-for-a-wi-fi-network-in-windows-11/"><u>How to Enable or Disable Metered Connection for a Wi-Fi Network in Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-moto-g04-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Moto G04 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-dxgierrorcode-zerox887a0006-device-hang-fixes/"><u>Tackling DXGIErrorCode ZeroX887A0006: Device Hang Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-look-changing-username-in-windows-11/"><u>The Insider's Look: Changing UserName in Windows 11</u></a></li>
+<li><a href="https://discover-able.techidaily.com/the-key-differences-between-trivia-hosting-and-dj-entertainment-optimize-your-pcdj-offerings/"><u>The Key Differences Between Trivia Hosting & DJ Entertainment – Optimize Your PCDJ Offerings</u></a></li>
+<li><a href="https://win11.techidaily.com/the-next-evolution-of-windows-11-advanced-widget-techniques/"><u>The Next Evolution of Windows 11: Advanced Widget Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On OnePlus Nord N30 5G | Dr.fone</u></a></li>
 </ul></div>
 

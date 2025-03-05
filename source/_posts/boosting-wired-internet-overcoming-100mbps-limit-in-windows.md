@@ -1,7 +1,7 @@
 ---
 title: "Boosting Wired Internet: Overcoming 100Mbps Limit in Windows"
-date: 2024-08-08T13:13:27.891Z
-updated: 2024-08-09T13:13:27.891Z
+date: 2025-03-01T19:59:57.340Z
+updated: 2025-03-04T16:23:41.260Z
 tags:
   - windows10
   - windows11
@@ -28,14 +28,6 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
  If your internet service provider is reliable and you are subscribed to a good plan, then it's likely that something on your side is keeping the speed from reaching its maximum.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## 2\. Perform Some Basic Checks
 
  Start troubleshooting the problem by performing these basic fixes, as they may resolve the issue right away:
@@ -58,16 +50,10 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 3. Right-click the network connection adapter and select **Properties**.
 4. Then, go to the **Advanced** tab.
 5. Select **Speed and Duplex** from the **Property** column, then expand the **Value** dropdown.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Speed and Duplex Settings in the Network Adapter Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/speed-and-duplex-settings-in-the-network-adapter-settings.jpg)
 
  If **1.0 Gbps Full Duplex** is listed, your card supports gigabit connectivity. Your card does not support gigabit connections if **100 Mbps Full Duplex** is the highest value listed. In any case, select **Auto Negotiation** from the **Value** dropdown in the network adapter settings if any other value is selected.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 4\. Ensure Your Router Supports Gigabit Connection
 
 ![a close up shot of router ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/modern-wifi-router-ports.jpg)
@@ -78,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
  If your router doesn't support a gigabit connection, you will have no choice but to switch to one that does.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Get a High-Category Ethernet Cable
 
 ![CAT5, CAT5e, CAT6, CAT6A Ethernet cables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-picture-showing-cat5-cat5e-cat6-cat6a-ethernet-cables.jpg)
@@ -89,22 +72,12 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
  Cat5e and Cat5 cables have identical physical appearances, but don't let that fool you. Instead, look at the cable's label to determine its category. If it's low bandwidth, replace it with Cat5e or higher.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## 6\. Remove Restrictions in the Router Settings
 
  Most routers allow users to limit the connection speed. Therefore, log into the router's admin interface to ensure speed isn't constrained there. Here's how you can do it:
 
 1. Open the **Command Prompt** and type **"ipconfig."** Then, hit **Enter**.
 2. Copy the **IP address** next to **Default Gateway**—that's your router's IP address.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Check the Default Gateway IP Address in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-the-default-gateway-ip-address-in-windows-command-prompt.jpg)
 3. Paste this address into any internet browser to access your router's admin interface. Then, log in with your username and password.
 4. Go to the **Ethernet** settings and check if there are any restrictions on your internet speed. Remove any constraints you find here.
@@ -115,9 +88,6 @@ No advertising on the website.
 
  If none of the above fixes resolve the issue, it's time to check for and rule out hardware problems thoroughly.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![image of ethernet cables connected to router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ethernet-router-connection.jpg)
 
  Start the hardware inspection by checking both ends of the Ethernet cable where cable connectors are installed. Ensure both connectors are in good condition and all internal wires/conductors are pushed to the end and aren't falling off.
@@ -134,12 +104,29 @@ No advertising on the website.
 
  Likewise, misconfigured Ethernet adapter speed settings, incompatible or corrupted drivers, and technical difficulties with the ISP can also limit speed. If you want your Ethernet connection to surpass 100Mbps, here are a few checks and fixes you should try.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-integrating-video-content-bringing-youtube-into-powerpoint/"><u>[New] In 2024, Integrating Video Content Bringing YouTube Into PowerPoint</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-ideal-virtual-reality-systems-for-drones/"><u>[Updated] 2024 Approved Ideal Virtual Reality Systems for Drones</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-independent-artists-guide-to-personalized-visual-tricks/"><u>[Updated] 2024 Approved Independent Artists' Guide to Personalized Visual Tricks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-most-valuable-maps-top-treasures-in-terraria/"><u>[Updated] 2024 Approved Most Valuable Maps Top Treasures in Terraria</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-a-complete-guide-to-recording-live-tv-on-your-windows-pc/"><u>[Updated] A Complete Guide to Recording Live TV on Your Windows PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-smartphones-with-ois-for-shooting-smooth-videos/"><u>2024 Approved Best Smartphones with OIS for Shooting Smooth Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-virtual-studio-compiling-the-best-dj-visuals-for-download/"><u>2024 Approved Virtual Studio Compiling the Best DJ Visuals for Download</u></a></li>
+<li><a href="https://win11.techidaily.com/disable-clustered-taskbar-on-windows-11/"><u>Disable Clustered Taskbar on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-gestures-and-swipes-for-flawless-pc-use-in-windows/"><u>Enhancing Gestures and Swipes for Flawless PC Use in Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-copyrights-demystified-understanding-and-managing-strikes/"><u>In 2024, YouTube Copyrights Demystified Understanding and Managing Strikes</u></a></li>
+<li><a href="https://win11.techidaily.com/key-to-savings-discover-black-fridays-top-price-on-windows-11-at-612lifetime/"><u>Key to Savings - Discover Black Friday's Top Price on Windows 11 at $6.12/Lifetime</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-to-windows-ease-center-the-essential-guide/"><u>Navigating To Windows Ease Center: The Essential Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/revamping-your-calendar-the-windows-outlook-way/"><u>Revamping Your Calendar - The Window's Outlook Way</u></a></li>
+<li><a href="https://win11.techidaily.com/smart-strategies-convert-heic-images-to-jpeg-on-windows-11-seamlessly/"><u>Smart Strategies: Convert HEIC Images to JPEG on Windows 11 Seamlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-fixing-dll-not-loaded-in-steam/"><u>Strategies for Fixing Dll Not Loaded in Steam</u></a></li>
+</ul></div>
 

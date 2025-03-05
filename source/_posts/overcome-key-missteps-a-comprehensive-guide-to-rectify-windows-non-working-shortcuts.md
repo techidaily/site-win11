@@ -1,7 +1,7 @@
 ---
 title: "Overcome Key Missteps: A Comprehensive Guide to Rectify Windows Non-Working Shortcuts"
-date: 2025-02-11T20:01:37.376Z
-updated: 2025-02-15T16:20:29.721Z
+date: 2025-02-26T01:10:29.810Z
+updated: 2025-03-05T04:10:43.578Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check Your Keyboard Hardware
 
  Let’s start by ensuring that keyboard shortcuts aren’t working because of a hardware problem. Try and use a different keyboard shortcut to make sure it’s not just a [broken key that you should fix](https://www.makeuseof.com/how-to-fix-keyboard-keys/).
@@ -49,15 +45,7 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 
 ![Update relevant keyboard driver in windows device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-relevant-keyboard-driver-in-windows-device-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’re using a gaming keyboard, head to the manufacturer's website and check if there’s an update available.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run the Keyboard Troubleshooter
 
@@ -69,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 4. Select **Run the troubleshooter** to start the scan.
 
 ![Running keyboard troubleshooter in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/keyboard-troubleshooter-1-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Enable Sticky Keys
 
@@ -100,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 
 ![Group policy editor in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/group-policy-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Reset the Keyboard Settings
 
  Keyboard shortcuts could’ve stopped working because you took [customizing your keyboard layout](https://www.makeuseof.com/tag/create-custom-keyboard-layout-windows/) too far. In this case, resetting your keyboard to its default settings should fix the problem.
@@ -116,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 4. Click **Add a language** and choose your preferred language
 
 ![Setting a new language in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/set-new-language-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Check Human Interface Device Service
 
@@ -157,24 +133,16 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-shots-to-screens-the-importance-of-camera-lenses-in-vlogs-for-2024/"><u>[New] From Shots to Screens The Importance of Camera Lenses in Vlogs for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-complete-assessment-of-macos-and-screenflow-v4/"><u>[Updated] 2024 Approved Complete Assessment of macOS and ScreenFlow V4</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-ideal-slide-show-apps-from-iphone-6-to-xs-max-for-2024/"><u>[Updated] Ideal Slide Show Apps From iPhone 6 to XS Max for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/are-you-getting-value-from-your-applecareplus-coverage/"><u>Are You Getting Value From Your AppleCare+ Coverage?</u></a></li>
-<li><a href="https://win11.techidaily.com/costs-beyond-price-the-reality-of-affordable-windows-licenses/"><u>Costs Beyond Price: The Reality of Affordable Windows Licenses</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/demystifying-net-neutrality-everything-you-need-to-know/"><u>Demystifying Net Neutrality: Everything You Need To Know</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-ui-incorporating-an-indicator-of-current-weather-on-your-pcs-taskbar/"><u>Enhancing UI: Incorporating an Indicator of Current Weather on Your PC's Taskbar</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-unlocking-the-secrets-of-facebooks-live-feature/"><u>In 2024, Unlocking the Secrets of Facebook's Live Feature</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-gpt-3-enabling-web-browser-and-plugin-beta/"><u>Mastering GPT-3: Enabling Web Browser & Plugin Beta</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-security-excluding-bitlocker-options/"><u>Navigating Windows Security: Excluding BitLocker Options</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-sluggish-excel-on-windows-desktop-computers/"><u>Overcoming Sluggish Excel on Windows Desktop Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/rediscover-lost-controllers-with-ease-on-windows-steam/"><u>Rediscover Lost Controllers with Ease on Windows Steam</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-the-roar-of-victory-resolving-fortnites-sound-problems-easily/"><u>Revive the Roar of Victory: Resolving Fortnite's Sound Problems Easily</u></a></li>
-<li><a href="https://fox-http.techidaily.com/revolutionizing-art-into-nfts-top-7-tools-explored-for-2024/"><u>Revolutionizing Art Into NFTs - Top 7 Tools Explored for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-steps-for-transforming-cr2-photos-into-compatible-jpgs-in-windows/"><u>Simple Steps for Transforming CR2 Photos Into Compatible JPGs in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-flawless-windows-performance-using-pct/"><u>Unleash Flawless Windows Performance Using PCT</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unveiling-the-mystery-of-english-language-contractions-and-their-usage/"><u>Unveiling the Mystery of English Language Contractions and Their Usage</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-freeze-no-more-disabling-autolock/"><u>Windows Freeze No More: Disabling AutoLock</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-transformed-lost-aesthetic-aspects/"><u>Windows Transformed: Lost Aesthetic Aspects</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-windows-wonders-top-9-tools-to-capture-and-save-animated-gif-art-for-2024/"><u>[New] Windows Wonders Top 9 Tools to Capture and Save Animated GIF Art for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-integrating-sound-a-comprehensive-approach-to-narration/"><u>[Updated] Integrating Sound A Comprehensive Approach to Narration</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-revolutionize-your-profile-picture-top-11-online-makers-ranked/"><u>[Updated] Revolutionize Your Profile Picture Top 11 Online Makers Ranked</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-television-excellence-in-depth-analysis-of-the-hisense-40h5590f-model/"><u>Affordable Television Excellence: In-Depth Analysis of the Hisense 40H5590F Model</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-system-repair-exploring-distinctions-between-chkdsk-sfc-and-dism/"><u>Deciphering System Repair: Exploring Distinctions Between CHKDSK, SFC, and DISM</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-workflow-best-window-based-productivity-software/"><u>Enhancing Workflow: Best Window-Based Productivity Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/free-online-wav-to-m4a-converter-movavis-easy-solution/"><u>Free Online WAV to M4A Converter - Movavi's Easy Solution</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209790296-9781547578993-meditacion-para-principiantes/"><u>Meditación para Principiantes | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-disk-readwrite-errors-in-win11/"><u>Overcoming Disk Read/Write Errors in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-windows-access-to-epic-games-launcher/"><u>Reinstating Windows Access to Epic Games Launcher</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-workflow-powerrename-feature/"><u>Streamline Your Workflow: PowerRename Feature</u></a></li>
 </ul></div>
 

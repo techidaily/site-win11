@@ -1,7 +1,7 @@
 ---
 title: Controlling Windows 11 Registry Editor Accessibility
-date: 2024-12-20T17:20:58.316Z
-updated: 2024-12-27T16:21:35.971Z
+date: 2025-02-28T22:02:00.299Z
+updated: 2025-03-04T20:48:05.761Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Disable or Enable Registry Editor Access via the Group Policy Editor
 
  The most straightforward way to block access to the Registry Editor on Windows is via the Group Policy Editor. However, it’s important to note that this tool is only available on Windows Pro, Education, and Enterprise editions. If you happen to be using Windows Home, refer to our guide on [how to access the Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before proceeding.
@@ -43,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 
  Following this, users will see the “Registry editing has been disabled by your administrator” message when they attempt to access the Registry Editor. If you want to re-enable Registry Editor later, repeat the above steps and set the **Prevent access to registry editing tools** policy to **Not configured** or **Disabled**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. How to Disable or Enable Registry Editor Access via the Registry Editor
 
  Another way to restrict the Registry Editor access on Windows involves using the Registry Editor itself. Here are the steps you can follow.
@@ -60,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 7. Double-click the newly created DWORD, type **1** in the Value data field, and hit **OK**.  
 ![Block Registry Editor Access via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/block-registry-editor-access-via-registry-editor.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you complete the above steps, the Registry Editor will be disabled on your PC.
 
  Although you cannot access the Registry Editor to reverse the above changes, it's still possible to re-enable Registry Editor access. For that, you will have to [create and run a REG file](https://www.makeuseof.com/windows-registry-file-guide/). Here’s how you can go about it.
@@ -76,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 ![Create Reg File to Enable Registry Editor Access on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/create-reg-file-to-enable-registry-editor-access-on-windows.jpg)
 4. Click the **File** menu and select **Save as**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select **Desktop** in the **Save as** dialog box.
 6. Enter a suitable name followed by ".reg" and hit **Save**. For instance, you could name the file **ReEnableRegistry.reg** or something similar.
 7. Use one of the many [ways to open the Command Prompt with admin rights](https://www.makeuseof.com/windows-run-command-prompt-admin/).
@@ -89,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 `regedit.exe /s FileName.reg`
 
  Once you run the above command, the Registry Editor will become accessible again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Allowing or Disallowing Registry Editor Access on Windows
 
@@ -110,24 +90,24 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-leading-edge-top-5-modern-video-capture-solutions/"><u>[New] In 2024, Leading Edge Top 5 Modern Video Capture Solutions</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-skyrocket-visibility-mastering-google-analytics-for-youtubers/"><u>[New] In 2024, Skyrocket Visibility Mastering Google Analytics for YouTubers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-monetization-tracker-tool-for-online-videos/"><u>[New] Monetization Tracker Tool for Online Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-culinary-craftsmanship-innovative-naming-for-food-shows/"><u>[Updated] In 2024, Culinary Craftsmanship Innovative Naming for Food Shows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-deep-dive-into-dji-phantom-3-professional-drone/"><u>2024 Approved A Deep Dive Into DJI Phantom 3 Professional Drone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-best-8-platforms-for-effective-youtube-advertising/"><u>2024 Approved The Best 8 Platforms for Effective Youtube Advertising</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-windows-11s-backbone-the-registry-explained/"><u>Exploring Windows 11'S Backbone: The Registry Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-the-glitch-a-guide-to-overcoming-microsoft-store-errors/"><u>Fixing the Glitch: A Guide to Overcoming Microsoft Store Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/full-deletion-process-for-wsl-on-win-1011/"><u>Full Deletion Process for WSL on Win 10/11</u></a></li>
-<li><a href="https://win-webster.techidaily.com/handling-recurrent-hardware-lockups-in-your-pc-with-tips-from-yl-software-solutions/"><u>Handling Recurrent Hardware Lockups in Your PC with Tips From YL Software Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/maintaining-privacy-blocking-insider-windows-11-releases/"><u>Maintaining Privacy: Blocking Insider Windows 11 Releases</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-missing-display-in-windows-11/"><u>Overcoming Missing Display in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-update-issue-0x8024800c-error/"><u>Overcoming Windows Update Issue: 0X8024800C Error</u></a></li>
-<li><a href="https://win11.techidaily.com/security-spotlight-top-7-windows-procedures-vigilant-against-viruses/"><u>Security Spotlight: Top 7 Windows Procedures Vigilant Against Viruses</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-guide-saving-and-loading-your-system-preferences-with-the-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Saving and Loading Your System Preferences with the Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-include-sound-with-snipping-tool-screen-captures-max-156/"><u>Techniques to Include Sound with Snipping Tool Screen Captures (Max 156)</u></a></li>
-<li><a href="https://win11.techidaily.com/the-keys-to-free-jumpstart-your-pc-with-unbeatable-windows-11-612lifetime/"><u>The Keys to Free: Jumpstart Your PC with Unbeatable Windows 11, $6.12/Lifetime</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-steps-to-eradicate-nonexistent-devices-in-pcs/"><u>Unveiling Steps to Eradicate 'Nonexistent' Devices in PCs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-10-bystrye-shagi-dlya-sozdaniya-ekrana-zahvata-s-ispolzovaniem-programmy-movavi/"><u>Windows 10: Быстрые Шаги Для Создания Экрана Захвата С Использованием Программы Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comedy-collection-a-1992-review-of-the-goofys/"><u>'Comedy Collection' A 1992 Review of The Goofys</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unlock-your-creative-flow-sharing-hundreds-of-photos-and-vids-on-ig/"><u>[Updated] In 2024, Unlock Your Creative Flow Sharing Hundreds of Photos and Vids on IG</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-smart-techniques-for-large-video-movement-between-iphones-and-macs/"><u>2024 Approved Smart Techniques for Large Video Movement Between iPhones & Macs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-quality-why-apples-sub-100-competitor-beats-solo-buds-could-dominate-headphone-market-insights-from-zdnet/"><u>Affordable Quality: Why Apple's Sub-$100 Competitor, Beats Solo Buds, Could Dominate Headphone Market - Insights From ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-hl-l2300d-driver-update-how-to-get-and-install-new-firmware/"><u>Brother HL-L2300D Driver Update: How to Get & Install New Firmware</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-typing-experience-speed-up-windows-keyboard-delay/"><u>Enhance Your Typing Experience: Speed Up Windows Keyboard Delay</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-is-unlocking-oculus-go-root-access-what-this-means-for-owners/"><u>Facebook Is Unlocking Oculus Go Root Access: What This Means for Owners</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-window-11-custom-taskbar-sizing/"><u>Guide to Window 11 Custom Taskbar Sizing</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-enable-data-transfer-operations-in-edges-protective-mode-win-11/"><u>Guide: Enable Data Transfer Operations in Edge's Protective Mode, Win 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-edit-podcasts-in-garageband/"><u>How To Edit Podcasts in GarageBand</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-7-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 7</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a54-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Samsung Galaxy A54 5G Phone without Google Account?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-the-toolbar-in-microsoft-pc-manager-on-windows-11/"><u>How to Use the Toolbar in Microsoft PC Manager on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mend-freezing-clicks-your-action-plan-for-windows/"><u>Mend Freezing Clicks: Your Action Plan for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-recycle-bin-disruptions-in-win-11-os/"><u>Remedying Recycle Bin Disruptions in Win 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/steering-device-interactions-from-power-save-mode/"><u>Steering Device Interactions From Power Save Mode</u></a></li>
+<li><a href="https://win-top.techidaily.com/step-by-step-tutorial-how-to-create-audio-visual-screenshots-using-movavi-software/"><u>Step-by-Step Tutorial: How to Create Audio-Visual Screenshots Using Movavi Software</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-store-issues-address-x80072f17/"><u>Streamlining Windows Store Issues: Address X80072F17</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-woes-a-script-error-cure-all-guide/"><u>Tackling Windows Woes: A Script Error Cure-All Guide</u></a></li>
 </ul></div>
 

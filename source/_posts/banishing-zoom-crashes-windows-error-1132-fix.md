@@ -1,7 +1,7 @@
 ---
 title: "Banishing Zoom Crashes: Windows Error 1132 Fix"
-date: 2024-08-08T13:15:04.171Z
-updated: 2024-08-09T13:15:04.171Z
+date: 2025-03-04T02:10:09.550Z
+updated: 2025-03-04T21:41:46.185Z
 tags:
   - windows10
   - windows11
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 
  Those instructions are for 2-in-1 modem routers. If you have a separate modem, you’ll also need to unplug that modem and reconnect it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Update the Zoom App
 
  Error 1132 can arise because of bugs in older Zoom versions. So, make sure you’re using the latest version of Zoom. You can manually select to update Zoom in the following steps:
@@ -42,14 +39,8 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 1. Open your Windows Zoom app, and sign in to it if required.
 2. Click the user menu button in the top-right corner of Zoom.
 3. Select the**Check for updates** option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![The Check for Updates option in Zoom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates-option.jpg)
 4. If the window says there’s an update available, click the**Update** (or**Install**) option.  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Update button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/zoom-update-window.jpg)
 5. Wait for the Zoom updater to finish.
 6. Sign back into Zoom after the update, and try joining a meeting.
@@ -62,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 2. Enter a**Windows Defender Firewall with Advanced Security** search phrase within the text box.
 3. Select**Windows Defender Firewall with Advanced Security** to access that app.
 4. Next, click**Inbound Rules** within the left sidebar.  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![Inbound rules in Windows Defender Firewall with Advanced Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/inbound-rules.jpg)
 5. Double-click any Zoom rule you find listed there.
 6. Select the**Protocols** **and** **Ports** tab shown below.
@@ -78,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 
 ![The allow app list for Windows Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-app-through-firewall.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Disable Third-Party Antivirus/Security Software
 
  Some third-party antivirus tools also have firewalls that can potentially cause Zoom issues like error 1132\. Disable any third-party antivirus shield and firewall if you’ve installed security software on your PC. Options for disabling an antivirus tool’s shield and firewall may be separate. Select options that disable your antivirus software’s shield and firewall (if it has one) by right-clicking its system tray icon and looking through the context menu or settings tabs.
@@ -104,9 +89,6 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 7. Navigate to the directory that includes your downloaded files, and double-click the**ZoomInstallerFull.exe** setup wizard.
 8. Go through Zoom’s setup wizard to reinstall the software.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Set Up a New Windows Account
 
  Many Zoom users who’ve needed to fix error 1132 have said setting up a new Windows account works. So, it seems this error can arise because of some kind of user account issue. Try utilizing Zoom in a new Windows account as follows:
@@ -122,9 +104,6 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 
  If this solution works, you can sign in to the new Windows account to use Zoom whenever needed. However, some users who need to utilize Zoom regularly may prefer to migrate files from their old accounts to new ones.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## Join Your Zoom Meetings Again on Windows
 
  Those potential solutions will likely fix Zoom error code 1132 to enable you to join meetings with that app again. If you’re desperate to resolve that issue, more drastic solutions like resetting Windows to factory settings may also work. Yet, there isn’t a guaranteed error 1132 resolution, and you can submit a help request at the [Zoom support page](https://support.zoom.us/hc/en-us/requests/new) if further fixes are needed.
@@ -135,8 +114,6 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,6 +121,22 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-make-a-gif-from-vimeo-video-for-2024/"><u>[New] How to Make a GIF From Vimeo Video for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitterscape-in-focus-your-route-to-watching-hd-videos/"><u>[New] In 2024, Twitterscape in Focus Your Route to Watching HD Videos</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/bsod-blue-screen-troubleshooting-techniques-expert-advice-from-yl-software-experts/"><u>BSOD (Blue Screen) Troubleshooting Techniques - Expert Advice From YL Software Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unsuccessful-pin-validation-on-w11w10-pcs/"><u>Fixing Unsuccessful Pin Validation on W11/W10 PCs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/flashy-flashes-prime-picks-for-lightning-laptopmobile-games-for-2024/"><u>Flashy Flashes Prime Picks for Lightning Laptop/Mobile Games for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-elevate-your-role-on-windows-computers/"><u>How to Elevate Your Role on Windows Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-keyboard-commands-near-power-icon-shortcut-placement-in-win11/"><u>Masterful Keyboard Commands: Near-Power Icon Shortcut Placement in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-the-vitality-of-your-microsoft-store-experience/"><u>Reviving the Vitality of Your Microsoft Store Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-why-is-my-voice-chat-blocked-by-content-warnings/"><u>Step-by-Step Solution: Why Is My Voice Chat Blocked by Content Warnings?</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-avoid-crashes-microsoft-teams-win11win10/"><u>Strategies to Avoid Crashes: Microsoft Teams Win11/Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-video-buffering-boosting-vlc-on-windows/"><u>Streamlining Video Buffering: Boosting VLC on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-evolving-window-bar-1985-to-today-in-windows/"><u>The Evolving Window Bar - 1985 to Today in Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-infinix-zero-5g-2023-turbo-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Infinix Zero 5G 2023 Turbo Device</u></a></li>
+<li><a href="https://facebook.techidaily.com/updating-your-birthdate-information-on-fb/"><u>Updating Your Birthdate Information on FB</u></a></li>
+<li><a href="https://facebook.techidaily.com/zero-hour-for-falsehoods-as-fb-levies-heavier-fines/"><u>Zero-Hour for Falsehoods as FB Levies Heavier Fines</u></a></li>
+</ul></div>
 

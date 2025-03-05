@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows Error 0X80071A90 Quickly
-date: 2025-02-14T21:27:00.146Z
-updated: 2025-02-16T00:30:30.768Z
+date: 2025-02-26T22:41:21.647Z
+updated: 2025-03-05T03:34:26.778Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Factors That Might Be Contributing to the 0x80071A90 Error
 
  While there are several factors that might be contributing to the Windows Features error, here are the most common ones:
@@ -50,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
  This is why, we recommend getting started with disabling your antivirus program temporarily. The exact steps of doing so may differ, depending upon the security program you are using. However, typically, you can achieve this by right-clicking on the antivirus icon in the taskbar and choosing**Disable until the computer is restarted** .
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the security program is disabled, try enabling the targeted Windows feature again and check if the problem is now fixed. If the antivirus program happens to be the culprit, you can consider switching to a better alternative.
 
@@ -94,27 +86,15 @@ Follow these steps to proceed:
 
  In this case, we recommend taking your time to[install any pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) available. This will ensure that the drivers and software are compatible with the latest version of Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Check the System for Corruption Errors
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In order to install or enable Windows features, the system relies on critical files and the Windows component store. If any of these files or the store becomes corrupted, it can impede the system's access to the necessary components for feature installation or enablement, leading to errors like the one at hand.
 
  To fix such corruption errors, you can use a tool like the System File Checker (SFC) to scan and repair system files or the Deployment Image Servicing and Management (DISM) tool to repair the Windows component store. You can run both these utilities via Command Prompt.
 
  Follow the correct steps for running SFC and DISM in Windows in our guide on[how to fix file system errors on Windows](https://www.makeuseof.com/fix-file-system-errors-windows/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enable Your Windows Features Again
 
@@ -137,18 +117,22 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-color-depth-explored-windows-hdri-for-editors/"><u>[Updated] Color Depth Explored Windows HDRI for Editors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-industry-standards-top-10-excellent-4k-dslr-rigs/"><u>[Updated] Industry Standards Top 10 Excellent 4K DSLR Rigs</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-enhancing-outreach-with-strategic-partner-selection-on-youtube/"><u>2024 Approved Enhancing Outreach with Strategic Partner Selection on YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-avoid-watermarks-in-stock-purchases/"><u>2024 Approved How To Avoid Watermarks in Stock Purchases</u></a></li>
-<li><a href="https://win11.techidaily.com/complete-tutorial-on-downloading-and-setting-up-windows-11-arm-iso/"><u>Complete Tutorial on Downloading & Setting Up Windows 11 ARM ISO</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/effizientes-streamen-von-mkv-filmen-losungen-fur-ladeverzogerungen-und-abtastungsfehler-in-windowsmacos/"><u>Effizientes Streamen Von MKV-Filmen: Lösungen Für Ladeverzögerungen Und Abtastungsfehler in Windows/macOS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-download-and-install-new-drivers-for-your-asus-vg248qe-monitor-on-a-windows-system/"><u>How to Seamlessly Download and Install New Drivers for Your Asus VG248QE Monitor on a Windows System</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-innovate-and-create-ranked-list-of-best-drawing-apps-for-android-users/"><u>In 2024, Innovate and Create Ranked List of Best Drawing Apps for Android Users</u></a></li>
-<li><a href="https://win11.techidaily.com/microsoft-teams-sharing-common-solutions/"><u>Microsoft Teams Sharing: Common Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-saving-issues-in-the-win-pubg-environment/"><u>Resolving Saving Issues in the Win PUBG Environment</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-responsiveness-to-sound-settings-on-windows/"><u>Restoring Responsiveness to Sound Settings on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/reversing-the-virtual-disk-service-failure-error/"><u>Reversing the Virtual Disk Service Failure Error</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/top-techniques-to-restore-your-lost-windows-11-recovery-drive/"><u>Top Techniques to Restore Your Lost Windows 11 Recovery Drive</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-effortless-sound-capture-top-5-techniques-for-web-streaming/"><u>[New] 2024 Approved Effortless Sound Capture Top 5 Techniques for Web Streaming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-visual-guide-to-excellent-collage-making/"><u>[New] A Visual Guide to Excellent Collage Making</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ownload-premium-video-covers-free-fast-and-easy-for-2024/"><u>[New] Download Premium Video Covers - Free, Fast & Easy for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-channels-optimal-use-of-templated-content-in-yt-descs/"><u>[Updated] In 2024, Elevate Your Channels Optimal Use of Templated Content in YT Descs</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-the-worst-aspects-of-windows-11-for-users/"><u>Dissecting the Worst Aspects of Windows 11 for Users</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-windows-experience-8-customizations-with-bubble-ui/"><u>Enhance Your Windows Experience: 8 Customizations with Bubble UI</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-reliable-operation-with-essential-windows-11-device-uptime-methods/"><u>Ensuring Reliable Operation with Essential Windows 11 Device Uptime Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-high-dynamic-range-on-windows-an-essential-handbook/"><u>Exploring High Dynamic Range on Windows: An Essential Handbook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-rich-archive-of-cost-effective-superior-vector-graphics-websites/"><u>In 2024, Rich Archive of Cost-Effective, Superior Vector Graphics Websites</u></a></li>
+<li><a href="https://win11.techidaily.com/master-access-in-windows-11-11-tips-for-credential-manager/"><u>Master Access in Windows 11: 11 Tips for Credential Manager</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-game-interruptions-the-definitive-guide-to-fixing-stellaris-crashes/"><u>No More Game Interruptions: The Definitive Guide to Fixing Stellaris Crashes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-phantom-v-fold-by-fonelab-android-recover-data/"><u>Recover lost data from Phantom V Fold</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/scaling-up-subscriber-numbers-with-savvy-strategies/"><u>Scaling Up Subscriber Numbers with Savvy Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-guide-to-fine-tuning-ntfs-file-compression/"><u>The Essential Guide to Fine-Tuning NTFS File Compression</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-infinix-zero-5g-2023-turbo-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Infinix Zero 5G 2023 Turbo Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-when-windows-cannot-find-powershell/"><u>What to Do When Windows Cannot Find PowerShell</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-netstat-command-your-gateway-to-network-analysis/"><u>Windows 11 Netstat Command: Your Gateway to Network Analysis</u></a></li>
 </ul></div>
 

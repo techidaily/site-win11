@@ -1,7 +1,7 @@
 ---
 title: How to Turn Search Highlights On and Off on Windows 11
-date: 2024-12-27T01:37:04.120Z
-updated: 2024-12-28T01:11:58.883Z
+date: 2025-02-27T20:22:16.505Z
+updated: 2025-03-05T03:21:24.789Z
 tags:
   - windows10
   - windows11
@@ -25,19 +25,11 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Turn Search Highlights On and Off in the Settings App
 
  Press **Win + I** to open the Settings app. Then, select **Privacy & security** on the left side menu, and then click on **Search permissions** in the right panel.
 
 ![the privacy and security page on Windows with Search permissions showing in the right panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-search-permissions.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Scroll down to the **More settings** section, and then click the toggle under **Show search highlights** to turn the feature on or off.
 
@@ -53,19 +45,11 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
 
 ![the Local Group Policy Editor on Windows with the Allow search highlights policy highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lgpe-windows-allow-search-highlights-policy.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To show search highlights, make sure the **Not Configured** or **Enabled** radio button is checked, and then click **OK**.
 
 ![the Allow search highlights policy being edited on Windows and it is set to Not configured](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-search-highlights-not-configured-windows.jpg)
 
  To disable search highlights, check the **Disabled** radio button, and then click **OK**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Turn Search Highlights On and Off in the Registry Editor
 
@@ -80,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
  Right-click the **SearchSettings** key on the left side menu and select **New > DWORD (32-bit) Value** in the menu that appears. Then, name the value **IsDynamicSearchBoxEnabled**.
 
 ![creating a dword value in the Windows registry for the SearchSettings key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/creating-dword-windows-registry.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the right panel, double-click **IsDynamicSearchBoxEnabled** (the value you just created) and then enter **1** in the **Value data** text box to turn search highlights on. Then, click **OK** to apply the change.
 
@@ -107,16 +87,16 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-harmonizing-film-teasers-with-music-selections/"><u>[New] In 2024, Harmonizing Film Teasers with Music Selections</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-navigating-windows-10-features-for-seamless-video-editing/"><u>[New] In 2024, Navigating Windows 10 Features for Seamless Video Editing</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enabling-duplex-printing-on-your-hp-printer-setup/"><u>Enabling Duplex Printing on Your HP Printer Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-cracking-credential-vault-code/"><u>Expert Tips: Cracking Credential Vault Code</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exploring-top-rated-frame-rate-choices-for-cinema-slow-motion/"><u>Exploring Top-Rated Frame Rate Choices for Cinema Slow-Motion</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-enforce-windows-default-screensaver-settings/"><u>How to Enforce Windows Default Screensaver Settings</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-for-bigger-taskbar-images-in-win11/"><u>Step-by-Step for Bigger Taskbar Images in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/unblocking-access-adobe-ps-not-opening-in-latest-windows/"><u>Unblocking Access: Adobe PS Not Opening in Latest Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/whats-delayed-immortals-fenyx-rising-release-solved/"><u>What's Delayed: Immortals Fenyx Rising Release Solved</u></a></li>
-<li><a href="https://win11.techidaily.com/win-users-picks-optimal-torrent-tools/"><u>Win Users' Picks: Optimal Torrent Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-crafting-your-vocal-image-for-instagrams-dynamic-features-for-2024/"><u>[New] Crafting Your Vocal Image for Instagram’s Dynamic Features for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/avchd-mts-converter-for-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD MTS Converter for Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-a-flawlessly-new-windows-experience-in-11th-gen/"><u>Crafting a Flawlessly New Windows Experience in 11Th Gen</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Infinix Note 30i? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-restore-hp-display-functionality-problem-resolved/"><u>How To Restore HP Display Functionality – Problem Resolved</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-performance-managing-memory-usage-for-connected-services/"><u>Improving Performance: Managing Memory Usage for Connected Services</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-guide-to-making-reaction-videos-on-your-phone/"><u>New 2024 Approved The Ultimate Guide to Making Reaction Videos on Your Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-absence-of-battery-life-duration-in-pcs-running-win-11/"><u>Overcoming the Absence of Battery Life Duration in PCs Running Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11s-unidentified-usb-port-problems/"><u>Overcoming Windows 11'S Unidentified USB Port Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-remedying-install-fail-in-wins-discord-setup/"><u>Understanding and Remedying Install Fail in Win's Discord Setup</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unleash-the-power-of-digital-beats-with-our-free-tools-for-2024/"><u>Unleash the Power of Digital Beats with Our Free Tools for 2024</u></a></li>
 </ul></div>
 

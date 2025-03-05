@@ -1,7 +1,7 @@
 ---
 title: Addressing 'No Qt Platform Support' Error for App Starts
-date: 2024-08-08T13:14:35.634Z
-updated: 2024-08-09T13:14:35.634Z
+date: 2025-03-01T22:54:56.267Z
+updated: 2025-03-05T01:16:05.806Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/27ed488072176012a10baf6e8c8b898cb859756da
 
  While this isn’t one of the common errors on Windows, you can still fix it using the tips below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 1\. Change the QT Files Location
 
  Sometimes, a simple trick such as changing the QT files location is enough to get rid of the error. Here’s how you can do it:
@@ -31,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/27ed488072176012a10baf6e8c8b898cb859756da
 2. Using the**Search** field, search for**pyqt5\_tools** .
 3. When Windows finishes the search, right-click the**pyqt5\_tools** and head to**Open folder location** .
 4. Head to**PyQt5 > Qt > bin** . Copy the**platforms** folder.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![Fix qt error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/platforms-folder-1.jpg)
 5. Make a new search for**site-packages** and open the folder.
 6. There, paste the**platforms** folder.
@@ -56,18 +49,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  If Windows stops displaying the error, it means something you've installed on your PC is causing the problem. Take a look at your installed apps, and remove any software that might be causing the problem. If you're unsure as to what might be doing it, slowly re-enable apps through the clean boot until the issue reappears.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Update the Malfunctioning App
 
  An outdated version of the app you're trying to use might be the reason for the QT error. In this case, simply updating the app should solve the issue.
@@ -82,14 +63,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  If you're having issues getting rid of the app, check out [how to fix Windows when it won't allow you to uninstall a program](https://www.makeuseof.com/windows-cant-uninstall-program-fix/) .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 6\. Uninstall Any Recent Windows Updates
 
  Sometimes, Windows display the “Application failed because no QT platform plugin could be initialized” error after a system update. In this case, you can load a restore point to undo the change and get rid of the error.
@@ -101,28 +74,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 3. Head to**Related Settings** and click**Uninstall updates** .
 4. Right-click the latest update and select**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Uninstall recent Windows updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-updates-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Rid of the QT Error on Windows
 
  Hopefully, one or more of the above solutions helped you fix the “Application failed to start because no Qt platform plugin could be initialized” error.
 
  Sometimes, it’s difficult to figure out the exact cause of a Windows error, and reinstalling the app every time might not be the most efficient solution. To speed up the troubleshooting process, you should use one of the many Windows repair tools.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,6 +95,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-modern-techniques-record-idevice-screen-effortlessly/"><u>[New] 2024 Approved Modern Techniques Record iDevice Screen Effortlessly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-content-creation-evolution-studio-vs-innovative-beta-for-2024/"><u>[Updated] Content Creation Evolution Studio Vs. Innovative Beta for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimizing-viewing-distance-youtube-tips/"><u>[Updated] Optimizing Viewing Distance YouTube Tips</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/a-quick-and-handy-fix-for-your-broken-laptop-keyboard-article-name-357-characters/"><u>A Quick & Handy Fix for Your Broken Laptop Keyboard - Article Name — 357 Characters</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-methods-for-converting-mpeg-videos-into-quicktime-format-a-comprehensive-guide/"><u>Best Methods for Converting MPEG Videos Into QuickTime Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-tips-for-repairing-and-reactivating-your-unresponsive-logitech-k780-keyboard/"><u>Expert Tips for Repairing and Reactivating Your Unresponsive Logitech K780 Keyboard</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unresponsive-windows-netflix-streaming/"><u>Fixing Unresponsive Windows Netflix Streaming</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-itel-a60s-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Itel A60s Location by Number | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-y27-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo Y27 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win11.techidaily.com/interface-overhaul-windows-system-resources-on-display/"><u>Interface Overhaul: Windows System Resources on Display</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-efficiency-setting-auto-empty-for-windows-trash/"><u>Maximizing Efficiency: Setting Auto-Empty for Windows Trash</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-write-restrictions-in-windows-folders/"><u>Overcoming Write Restrictions in Windows Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/quickening-startup-with-efficient-win11-configurations/"><u>Quickening Startup with Efficient Win11 Configurations</u></a></li>
+<li><a href="https://win11.techidaily.com/seven-strategies-to-start-using-windows-11-widgets/"><u>Seven Strategies to Start Using Windows 11 Widgets</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-uninitialized-drives-in-windows-systems/"><u>Solving Uninitialized Drives in Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-methods-to-reset-windows-explorer-ui/"><u>Swift Methods to Reset Windows Explorer UI</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-windows-paper-handler-fix/"><u>Swift Windows Paper Handler Fix</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-poco-c65-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Poco C65 FRP Bypass</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-brilliance-of-global-flight-simulation-in-x-plane-11-with-stunning-visual-fidelity/"><u>Unveiling the Brilliance of Global Flight Simulation in X-Plane 11 with Stunning Visual Fidelity</u></a></li>
+</ul></div>
 

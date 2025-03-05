@@ -1,7 +1,7 @@
 ---
 title: Unregistered Package Solutions for Windows Photos Errors
-date: 2025-02-09T20:08:55.213Z
-updated: 2025-02-15T22:45:58.218Z
+date: 2025-03-01T00:39:15.301Z
+updated: 2025-03-04T20:02:50.228Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Run the Windows Store Apps Troubleshooter
 
@@ -54,23 +50,11 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 ![The Get updates button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/get-updates-button.jpg)
 4. Wait for the Photos app update to finish before closing Microsoft Store.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Repair and Reset the Photos Apps
 
  Repairing or resetting Photos will likely fix the “Package could not be registered” if that app has corrupted files or data. You can select adjacent**Repair** and**Reset** troubleshooting options for Photos within Settings’ Apps & Features tool. To apply this solution, follow the instructions in our guide for[resetting Microsoft Store apps](https://www.makeuseof.com/windows-reset-app/) . Select the**Repair** option first and**Reset** second if necessary.
 
 ![The Repair and Reset buttons for Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-repair-reset-buttons.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run the Deployment Image and System File Checker Tools
 
@@ -102,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-reset-this-pc-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is suggested as a last resort because you’ll need to reinstall third-party software installed before resetting Windows. However, you can select to keep user files such as photos, documents, videos, etc. Our[guide to resetting Windows 10 and 11](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) tells you how to perform a factory reset.
 
 ## Open Your Images in Photos Again
@@ -127,18 +107,16 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-innovative-techniques-for-maximum-zoom-utility-on-chromebook-for-2024/"><u>[New] Innovative Techniques for Maximum Zoom Utility on Chromebook for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-samsung-galaxy-xcover-7-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Samsung Galaxy XCover 7 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-update-killer-network-driver-no-cost-option-for-windows-10-8-and-7/"><u>Download and Update Killer Network Driver: No Cost Option for Windows 10, 8 & 7</u></a></li>
-<li><a href="https://win-forum.techidaily.com/epiteszetileg-hasznalatos-targyatokon-gyujtasasztechnika-diskordin-pc-es-mobil-rendszerbe/"><u>Építészetileg Használatos Tárgyatokon Gyújtásásztechnika - Diskordin PC És Mobil Rendszerbe</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-the-landscape-of-ps3-capture-software/"><u>Navigating the Landscape of PS3 Capture Software</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-file-access-denial-with-steam-and-win11/"><u>Overcoming File Access Denial with Steam and Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/perfect-pixel-patterns-for-each-monitor-in-windows-11/"><u>Perfect Pixel Patterns for Each Monitor in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-disabled-recycle-icon-on-windows-11/"><u>Reviving Disabled Recycle Icon on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/safeguarding-windows-daily-data-backup-necessity/"><u>Safeguarding Windows: Daily Data Backup Necessity</u></a></li>
-<li><a href="https://discover-able.techidaily.com/samsung-980-pro-ssd/"><u>Samsung 980 Pro SSDへのスムーズなデータ移行手順</u></a></li>
-<li><a href="https://win11.techidaily.com/solve-non-display-of-cameras-in-device-manager/"><u>Solve Non-Display of Cameras in Device Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-system-enhancements-for-surface-pcs/"><u>Streamlining System Enhancements for Surface PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/up-to-date-geforce-rtx-3070-ti-drivers-ensuring-compatibility-with-win-1087/"><u>Up-to-Date GeForce RTX 3070 Ti Drivers: Ensuring Compatibility with Win 10/8/7</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-a-comprehensive-guide-to-capturing-facebook-chats-for-2024/"><u>[New] A Comprehensive Guide to Capturing Facebook Chats for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-50plus-youtube-channel-names-for-vloggers-100-new-filmora-for-2024/"><u>[Updated] 50+ Youtube Channel Names for Vloggers [100% New] - Filmora for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/accelerated-scanning-process-for-windows/"><u>Accelerated Scanning Process for Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatting-with-future-tech-diving-into-mistral-ais-le-chat-and-its-comparison-to-chatgpt/"><u>Chatting with Future Tech: Diving Into Mistral AI's Le Chat and Its Comparison to ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-single-board-pcs-for-windows-users/"><u>Efficient Single-Board PCs for Windows Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-13-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 13 Properly | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastering-screen-recordings-powerpoint-edition-for-2024/"><u>Mastering Screen Recordings PowerPoint Edition for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-y100-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo Y100 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/thrilling-new-functionality-awaits-with-w11-update-22h2/"><u>Thrilling New Functionality Awaits with W11 Update #22H2</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-tools-for-fixing-win11-filesystem-errors/"><u>Troubleshooting Tools for Fixing Win11 Filesystem Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/whispered-slumber-routines-for-computers/"><u>Whispered Slumber Routines for Computers</u></a></li>
 </ul></div>
 

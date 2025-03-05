@@ -1,7 +1,7 @@
 ---
 title: Activating Windows AI Assistant via ViveTool
-date: 2024-08-08T13:16:12.756Z
-updated: 2024-08-09T13:16:12.756Z
+date: 2025-02-27T03:13:04.661Z
+updated: 2025-03-04T19:18:37.026Z
 tags:
   - windows10
   - windows11
@@ -20,14 +20,8 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
 
  In this article, we will guide you through enabling Windows Copilot AI on Windows 11, though you'll need a third-party tool.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is ViveTool and Why Do You Need It to Enable Windows Copilot?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Screenshot-showing-Windows-Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-copilot.jpg)
 
  The third-party tool you need is ViveTool, a software that can enable hidden features or ones limited to select Windows users. Windows Copilot is one such functionality: at the time of writing, the feature is limited to select Windows users running Windows 11 Dev Insider builds.
@@ -38,14 +32,8 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
 
  To enable Windows Copilot using ViveTool, you'll need to install Windows 11 Dev build 23493 or later.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Enable Windows Copilot Using ViveTool
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Screenshot showing Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/command-prompt-enabling-windows-copilot.jpg)
 
  Now that you've successfully installed ViveTool, you're halfway through enabling the Windows Copilot on your PC. All you have to do now is enable some IDs using Command Prompt and update the Microsoft Edge browser. Below is the step-by-step guide on enabling those feature IDs and updating the browser.
@@ -66,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
 
  When Windows Copilot becomes available for everyone, you will no longer need ViveTool to enable it. You'll be able to enable it from the Taskbar page in the Settings app. You'll find the **Copilot** toggle in the Taskbar items on the Taskbar page.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows Copilot Makes Things Easier... but It's Not Nearly as Powerful as Bing Chat
 
  Windows Copilot is not available for everyone, and there is a reason for that. Microsoft will continue testing it with Insiders until it becomes ready for the general public. In other words, if you enable Windows Copilot using ViveTool, you will experience some issues. Windows Copilot is essentially Bing Chat built into Windows 11 and has system-level access.
@@ -77,12 +62,26 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
 
  In this article, we will guide you through enabling Windows Copilot AI on Windows 11, though you'll need a third-party tool.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-aimp-pro-541-wmsps-advanced-desktop-companion/"><u>[New] 2024 Approved AIMP Pro 5.41 WMSP's Advanced Desktop Companion</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-2-methods-to-transform-zoom-sound-ensuring-clarity/"><u>[New] Top 2 Methods to Transform Zoom Sound, Ensuring Clarity</u></a></li>
+<li><a href="https://fox-info.techidaily.com/acid-pro-a-deep-dive-and-competitive-matchups/"><u>ACID Pro A Deep Dive & Competitive Matchups</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-htc-u23-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General HTC U23 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/disarming-freezes-fixing-troubleshooter-woes/"><u>Disarming Freezes: Fixing Troubleshooter Woes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-effortlessly-update-surface-pcs-internal-settings/"><u>How-To: Effortlessly Update Surface PC's Internal Settings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-2023-guide-ios-device-live-recording-techniques/"><u>In 2024, 2023 Guide IOS Device Live Recording Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-release-a-locked-app-on-windows-pc/"><u>Methods to Release a Locked App on Windows PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/solution-found-overcome-your-mkv-playback-issues-fix-the-error-when-makingmkv-cant-open-discs/"><u>Solution Found: Overcome Your MKV Playback Issues – Fix the Error When MakingMKV Can't Open Discs!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-your-guide-to-the-top-6-fee-free-digital-soundscape-editors-on-the-web/"><u>Updated In 2024, Your Guide to the Top 6 Fee-Free Digital Soundscape Editors on the Web</u></a></li>
+<li><a href="https://win11.techidaily.com/virtualbox-turning-onoff-secure-boot-and-tpm/"><u>VirtualBox: Turning On/Off Secure Boot & TPM</u></a></li>
+</ul></div>
 

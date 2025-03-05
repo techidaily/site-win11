@@ -1,7 +1,7 @@
 ---
 title: Navigate Through Fonts with Win11's Tool
-date: 2025-02-08T17:01:44.425Z
-updated: 2025-02-15T21:24:05.155Z
+date: 2025-02-27T23:23:23.297Z
+updated: 2025-03-04T18:55:56.653Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Open Character Map Using Windows Search
 
  If you need to use special characters in your documents, the Character Map tool can help. This tool is built into Windows and can be opened using the Windows Search tool. Here's how to open it.
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 2. Type "character map" in the search box and hit the**Enter** key.
 
  Once you've opened Character Map, you can select a font from the drop-down menu at the top of the window. Then, scroll through the list of available characters and click on the one you want to insert. Finally, click the Copy button and paste the character into your document or email.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Open Character Map Using the Run Dialog
 
@@ -81,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 ![Open Character Map Using Task Manager.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-Using-Task-Manager.jpg)
 3. Type "charmap" into the Create new task window and press Enter.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  From here, you can choose the character or symbol that you want to insert and then click on the Select button. Now click the Copy button and paste it where you need it.
 
 ## 6\. How to Open Character Map Via File Explorer
@@ -107,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 ![Name of the desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Name-of-the-desktop-shortcut.jpg)
 4. Finally, click**Finish** to apply the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A shortcut will appear on the desktop of your computer; double-click it to open the Character Map application.
 
  It is also possible to create a desktop shortcut through File Explorer. To do this, open File Explorer and browse to:
@@ -120,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
  On the next page, type charmap.exe in the search box and press Enter. Now right-click on the executable file and select**Show more options > Create shortcut** .
 
  If Windows asks you to confirm before creating a shortcut, click**Yes** . The desktop shortcut will be created on your computer screen. The Character Map application will open when you double-click it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. How to Open Character Map Via Command Prompt or Windows PowerShell
 
@@ -144,10 +124,6 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 
 This way you can now easily access the tool from the taskbar.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Open a Character Map in a Snap
 
  If you've ever wanted to insert a special character into a document or email but couldn't find the symbol on your keyboard, Character Map is a tool that can help. Character Map is a utility on Windows that allows you to view and use characters from any installed font. Check out this guide for instructions on opening this tool.
@@ -167,19 +143,20 @@ This way you can now easily access the tool from the taskbar.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/nlock-exclusive-youtube-visuals-top-5-tools-reviewed-for-2024/"><u>[New] Unlock Exclusive YouTube Visuals – Top 5 Tools Reviewed for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-eight-video-recording-apps-reviewed/"><u>[Updated] Top Eight Video Recording Apps Reviewed</u></a></li>
-<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/design-your-own-screen-capture-free-ways-on-pc-for-2024/"><u>Design Your Own Screen Capture - Free Ways on PC for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/discerning-safe-from-risky-windows-11-features/"><u>Discerning Safe From Risky Windows 11 Features</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-for-swift-safe-mode-access-in-windows-11/"><u>Expert Tips for Swift Safe Mode Access in Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/finding-and-implementing-asus-wifi-adapter-drivers-a-step-by-step-process/"><u>Finding and Implementing ASUS WiFi Adapter Drivers – A Step-by-Step Process</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-and-compatible-drivers-for-the-epson-ds-530-on-64-bit-windows-10-computers/"><u>Latest & Compatible Drivers for the Epson DS-530 on 64-Bit Windows 10 Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-tips-reinstalling-uninstalled-hdd-in-windows-11/"><u>Quick Tips: Reinstalling Uninstalled HDD in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/revival-of-a-non-responsive-search-restoring-functionality-on-windows-11-ui/"><u>Revival of a Non-Responsive Search: Restoring Functionality on Windows 11 UI</u></a></li>
-<li><a href="https://win11.techidaily.com/tackle-invisible-monitor-issue-on-w11/"><u>Tackle Invisible Monitor Issue on W11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-keyboards-of-2024-comprehensive-reviews-and-ratings-by-tech-experts/"><u>Top-Rated Keyboards of 2024: Comprehensive Reviews and Ratings by Tech Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-overcoming-code-0x800700e1-on-windows-11/"><u>Troubleshooting: Overcoming Code 0X800700E1 on Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-disseminating-videos-tiktok-content-for-a-wider-facebook-audience/"><u>[New] Disseminating Videos TikTok Content for a Wider Facebook Audience</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/asy-and-speed-share-youtube-playlists-now-for-2024/"><u>[New] Easy & Speed Share YouTube Playlists Now for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fifa-video-highlights-top-youtube-data-infographics/"><u>[Updated] 2024 Approved FIFA Video Highlights Top YouTube Data Infographics</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1716069764236-updated-2024-approved-huaweis-built-in-recorder-screen-capture-for-mate-and-p-series/"><u>[Updated] 2024 Approved Huawei's Built-In Recorder Screen Capture for Mate and P Series.</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-code-to-win11-excellence-with-devhome/"><u>Deciphering Code to Win11 Excellence with DevHome</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-hp-envy-5660-graphics-driver-installation-step-by-step-guide/"><u>Easy HP Envy 5660 Graphics Driver Installation: Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-lenovo-legion-pro/"><u>Exploring the Lenovo Legion Pro</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/how-to-get-windows-11-home-operating-system-installed-locally-without-signing-into-a-microsoft-account/"><u>How To Get Windows 11 Home Operating System Installed Locally Without Signing Into a Microsoft Account</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagine-windows-11-on-the-go-discover-these-6-essential-apps/"><u>Reimagine Windows 11 on the Go: Discover These 6 Essential Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalize-silence-in-computers-audio-output/"><u>Revitalize Silence in Computer's Audio Output</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-correct-printer-unreachable-error-on-windows-11/"><u>Steps to Correct 'Printer Unreachable' Error on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-linux-system-installing-intel-wi-fi-drivers/"><u>Streamlining Your Linux System: Installing Intel Wi-Fi Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-dxgierror-device-disconnected/"><u>Troubleshooting DXGI_Error: Device Disconnected</u></a></li>
+<li><a href="https://win-studio.techidaily.com/troubleshooting-failing-audio-drivers-and-hardware-tips-from-yl-software/"><u>Troubleshooting Failing Audio Drivers and Hardware: Tips From YL Software</u></a></li>
 </ul></div>
 

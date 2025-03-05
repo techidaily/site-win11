@@ -1,7 +1,7 @@
 ---
 title: Implementing Divine Window Controls in Windows 11
-date: 2024-12-22T01:08:06.969Z
-updated: 2024-12-28T01:39:28.736Z
+date: 2025-03-02T00:11:19.072Z
+updated: 2025-03-04T21:45:44.988Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add God Mode to the Context Menu by Manually Editing the Registry
 
  You can add God Mode to Windows 11’s desktop context menu by manually tweaking the registry. The tweaking required is relatively simple to apply and involves adding a couple of new registry entries to the Shell key. Follow these steps to manually add God Mode to Windows 11’s context menu:
@@ -41,18 +37,10 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-key-options.jpg)
 5. Type **God Mode** in the key’s text box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Right-click **God Mode** and select the **New** \> **Key** context menu options again.
 2. Input **command** within the subkey’s text box.  
 ![The God Mode registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/god-mode-key.jpg)
 3. Double-click on the **(Default)** string for the new command key you’ve added to the registry.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Input **explorer** **shell:::{ED7BA470-8E54-465E-825C-99712043E01C}** within the **Data value** box and click **OK**.  
 ![The Edit String window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-string-window.jpg)
@@ -61,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
  Check out the new **God Mode** option on your context menu for opening Task View. Right-click somewhere on the desktop background image and select **Show more options**. Then select **God Mod** to bring up the **Task View** window. You can open a multitude of Control Panel applets from there.
 
 ![A God Mode context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/god-mode-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you ever change your mind about having a **God Mode** context menu option, open the Shell key in Registry Editor again. Then right-click on the **God Mode** key you added and select delete. Click **Yes** to erase the **God Mode** key along with its **command** subkey.
 
@@ -96,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
 
 ![The All Tasks (God Mode) window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-all-tasks-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Make the Most of God Mode on Windows
 
  Adding God Mode to your desktop’s context menu will enable you to access a plethora of Control Panel applets and tools within a single window in a couple of clicks. That will save you from rummaging through the Control Panel to find certain applets and settings when needed. Plus, you can make more essential Control Panel applets even more accessible by creating shortcuts for them from the Task View window.
@@ -116,24 +96,17 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-gifs-from-youtube-detailed-step-by-step-guide-for-pcmobile/"><u>[New] 2024 Approved Crafting GIFs From YouTube Detailed Step-by-Step Guide for PC/Mobile</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unveiling-the-top-5-facebook-video-downloaders-today/"><u>[New] In 2024, Unveiling the Top 5 Facebook Video Downloaders Today</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-streamline-your-multi-tasking-pip-settings-in-safari/"><u>[Updated] 2024 Approved Streamline Your Multi-Tasking PIP Settings in Safari</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-editing-tutorial-mastering-video-cuts-for-2024/"><u>[Updated] YouTube Editing Tutorial Mastering Video Cuts for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-visual-journey-to-custom-window-design-with-winbubbles-insights/"><u>A Visual Journey to Custom Window Design with WinBubble's Insights</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-11-pro-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone 11 Pro? Find the Best Solution Here</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-disabled-obstacles-for-executing-powershell-scripts/"><u>Eliminating 'Disabled' Obstacles for Executing PowerShell Scripts</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/tial-travel-vloggers-the-ultimate-10-list-for-2024/"><u>Essential Travel Vloggers The Ultimate 10 List for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-quickly-resolve-windows-update-issue-code-x80246007/"><u>How To Quickly Resolve Windows Update Issue Code X80246007</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-nubia-red-magic-8s-proplus-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Nubia Red Magic 8S Pro+ Device</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-system-recovery-conquering-blue-screen-errors/"><u>Mastering System Recovery: Conquering Blue Screen Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-of-solutions-for-non-operational-wwinplusp-in-pc/"><u>Mastery of Solutions for Non-Operational WWin+P in PC</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-login-block-after-failure/"><u>Overcoming Windows Login Block After Failure</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-brightness-overcoming-dark-screen-problems/"><u>Restoring Brightness: Overcoming Dark Screen Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-15-ways-to-reach-windows-settings/"><u>Simplify: 15 Ways to Reach Windows Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/step-up-windows-security-today-with-free-desktop-pass-gen-apps/"><u>Step Up Windows Security Today With Free Desktop Pass Gen Apps</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/strategies-to-maximize-mobile-income-from-youtube/"><u>Strategies to Maximize Mobile Income From YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-your-windows-experience-resetting-apps/"><u>Streamlining Your Windows Experience: Resetting Apps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tempo-transformation-techniques-for-videos/"><u>Tempo Transformation Techniques for Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-boosting-impact-in-instagram-tv-key-size-strategies-unveiled/"><u>[New] In 2024, Boosting Impact in Instagram TV Key Size Strategies Unveiled</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-cost-outline-for-composing-sounds-to-screen-titles/"><u>[Updated] Cost Outline for Composing Sounds to Screen-Titles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-10-mobile-chat-applications-the-ultimate-list-for-ios-and-android-devices/"><u>Best 10 Mobile Chat Applications: The Ultimate List for iOS & Android Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-grouped-taskbar-symbols-on-windows-11/"><u>Clearing Grouped Taskbar Symbols on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-the-windows-access-denied-error-code-0x80070522/"><u>Correcting the Windows Access Denied Error: Code 0X80070522</u></a></li>
+<li><a href="https://win11.techidaily.com/keep-it-neat-how-to-make-windows-recycle-bin-self-cleanse/"><u>Keep It Neat: How to Make Windows Recycle Bin Self-Cleanse</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-faulty-ports-the-windows-way-to-reclaim-usb-health/"><u>Restoring Faulty Ports - The Windows Way to Reclaim USB Health</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-fundamentals-of-gif-design-and-creation-for-2024/"><u>The Fundamentals of GIF Design and Creation for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-rated-mp4-to-mp3-converters-for-fast-and-easy-conversion/"><u>Top-Rated MP4 to MP3 Converters for Fast and Easy Conversion</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-11s-potential-with-latest-patch-details/"><u>Unlocking Windows 11'S Potential with Latest Patch Details</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-hidden-taskbar-while-running-full-screen-edges/"><u>Unveiling Hidden Taskbar While Running Full Screen Edges</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-macos-version-15-sequoia-insight-scheduled-launch-revolutionary-functions-and-developments-revealed/"><u>Upcoming MacOS Version 15 (Sequoia) Insight: Scheduled Launch, Revolutionary Functions & Developments Revealed</u></a></li>
 </ul></div>
 

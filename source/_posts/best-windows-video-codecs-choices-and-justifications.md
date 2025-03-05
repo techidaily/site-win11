@@ -1,7 +1,7 @@
 ---
 title: "Best Windows Video Codecs: Choices & Justifications"
-date: 2024-08-08T13:13:35.616Z
-updated: 2024-08-09T13:13:35.616Z
+date: 2025-02-28T16:57:29.802Z
+updated: 2025-03-05T02:16:38.114Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 
  To learn more about codecs, check our guide on [all you need to know about video codecs, containers, and compression](https://www.makeuseof.com/tag/all-you-need-to-know-about-video-codecs-containers-and-compression/).
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Why Your Codec Choice Matters
 
  When choosing a codec, you must consider its pros and cons and pick the best one for the task.
@@ -49,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 
  Let's go over the major video codecs you can use:
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Handbrake H265 Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/handbrake-h265-options-1.jpg)
 
 ### 1\. H.265/HEVC
@@ -64,18 +58,12 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 
  The newest codec in our selection, AV1, is a super-evolved VP9 that offers significant gains in compression and quality compared to its ancestor. Where VP9 often "traded blows" with H.265, AV1 leaves them both behind, achieving even +50% better quality at the same file size or -50% smaller file size for the same quality—you choose which way you'd prefer to go.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![VLC Settings Input Codecs Hardware Accelerated Decoding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/vlc-settings-input-codecs-hardware-accelerated-decoding-1.jpg)
 
  It sounds perfect until you realize it can also be dozens of times slower than many alternatives. Plus, it doesn't like "noisy" content, so it removes all "grain" by default. It offers an advanced switch as an extra option to artificially re-add noise to the content.
 
  Still, purists would rightfully argue that this is an approximation and not the correct way to preserve the original media's appearance if you're re-encoding your content for long-term archival.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. H.264/AVC
 
  H.264, also known as Advanced Video Coding (AVC for short) and MPEG-4 Part 10, is the precursor to H.265\. It has much lower hardware requirements and has been used for much longer.
@@ -84,16 +72,10 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 
  With H.264, you get either lower quality for the same size or much larger files for the same quality compared to H.265 and AV1\.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. VP9
 
  Created as a more open alternative to the pattern-laden H.265, VP9 was supposed to act as H.264 and H.265's replacement on the web. Although it's in use by many prominent sites, this promise has yet to materialize fully.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Chrome Youtube MakeUseOf](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chrome-youtube-makeuseof-1.jpg)
 
  Also, while it's supported by browsers and almost all PC-based software media players, hardware media players (like TV set-top boxes or an entertainment system you might have in your car) might skip it.
@@ -108,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 
  It can be useful, depending on your priorities and available hardware. It's a good choice if you only want minimal gains as quickly as possible. However, from a quality standpoint, there are much better options available.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. ProRes
 
  Widely considered "the Apple editable video format", ProRes doesn't offer the best compression, but that's because it prioritizes quality and editability.
@@ -119,9 +98,6 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 
  One consumer-friendly case where you might stumble upon it is recording high-quality video with one of the latest iPhones (from 13 Pro and on) in video mode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### 7\. MJPEG
 
  ProRes' "more consumer-friendly cousin" is useful primarily if you're importing content from older analog devices into your PC, through a video capture solution, for further editing. That's because it's ultra-fast in seeking, and you can work with each frame acting as a keyframe instead of having to deal with sequences of frames.
@@ -136,9 +112,6 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 
  The very fact most PCs today don't even have an optical drive is telling on MPEG2's usefulness in the modern tech landscape.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## How to Choose a Codec
 
  We saw why codec choice matters, as well as how the major codecs differ regarding quality and speed. But still, which one should you choose, when, and why?
@@ -165,9 +138,6 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 
  All codecs up to H.264 were designed for sub-HD resolutions. H.264 was the first codec designed to store full-HD content (at resolutions up to 1920 x 1080). However, today we also have [4K and Ultra HD](https://www.makeuseof.com/tag/whats-difference-4k-ultra-hd/) content, and H.265, AV1, and VP9 are better for much higher resolutions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### 4\. Choosing a Codec to Maximise Compatibility
 
  The rule of thumb is that the older the codec you'll use, the higher its compatibility with more devices. If you want your videos to play practically everywhere, go for MPEG4\. It's old, outperformed by all newer options, but it's also natively supported even by ten-year-old TVs.
@@ -178,16 +148,10 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 
  We'd suggest you skip H.265, AV1, and VP9, since each has its own "quirks" and is better supported in particular ecosystems. For example, VP9 is playable in most modern browsers but only by a few standalone media players.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### 4\. Choosing a Codec Centered Around Hardware Encoding
 
  Hardware-accelerated encoding feels like magic and might affect your choice of codec. Still, you should remember that hardware-accelerated encoding is useful primarily for real-time uses, like streaming. That's why we've suggested you use GPU encoding in our article on [how to optimize game streams using OBS Studio](https://www.makeuseof.com/how-to-optimize-game-streams-using-obs-studio/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![OBS Output Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obs-output-settings-1.jpg)
 
  Unlike software-based encoders like x265, hardware-accelerated encoders don't achieve higher speeds purely because of a GPU's dedicated hardware: they also use "streamlined" versions of the same algorithms. Those prioritize speed and compatibility over quality.
@@ -200,9 +164,6 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 
  Your choice of codec is the most impactful. Still, its options and variables can also significantly affect the produced results.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![MPC HC The Turret Anthem File Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mpc-hc-the-turret-anthem-file-properties-1.jpg)
 
 ### Picking a Codec Based on Content
@@ -213,9 +174,6 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 * **Movies & modern videos**: To preserve the Full-HD goodness of modern videos, use either H.264 or H.265, depending on if you prioritize encoding speed or quality and smaller sizes.
 * **Cartoons & anime**: For animated content, AV1, followed by H.265 and then VP9, can preserve the crisp visuals, lines, and curves of most cartoons. However, they can also lead to "banding", an effect where smooth gradients between two colors "get un-smoothed" and appear as crude regions with "colored steps". To avoid that, you can use H.264's, H.265's, and AV1's 10-bit variants, which compress video with a wider color palette, through an app like Handbrake. For even better, H.265 also supports 12-bit color.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Picking a Codec Based on Bitrate
 
  The "bitrate" is "the amount of data an encoder can use to encode each frame". The higher this value, the better the output quality.
@@ -238,9 +196,6 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 
  In contrast, keeping the Encoder Preset static and changing only the RF value will change the final file's quality and size but won't significantly affect encoding speed.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Choosing an Editor/Encoder
 
  Codecs are only useful when you use them alongside compatible software.
@@ -253,9 +208,6 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 
 [Handbrake](https://handbrake.fr/) is one of the most beloved video encoding solutions, and rightfully so, since it walks the fine line between exposing the most important features while being relatively straightforward to use.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Handbrake Initial Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/handbrake-initial-window-1.jpg)
 
  Quite helpfully, Handbrake comes with lots of premade presets, which include different use cases of the most popular codecs (like for encoding super HQ 2160p 60FPS 4K content with AV1), but also many popular devices (from Amazon's Fire tablets to Xbox consoles).
@@ -270,27 +222,18 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 
  Although it doesn't support multi-video encoding, and you can only use it for basic editing of single videos, [VirtualDub](https://virtualdub.org/) is light and exceptionally fast if you need to edit or encode content using MJPEG or MPEG4\.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![VirtualDub Menu Video Compression](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/virtualdub-menu-video-compression-1.jpg)
 
 ### Final Cut Pro/Vegas Pro/Davinci Resolve
 
  Do you need to work with MPEG4, ProRes, H.264, or H.265 sources? Do You also want to cut and paste content between them effortlessly? To re-align scenes, add transitions, and improve your video's looks? You need a full-blown editing suite like [Final Cut Pro](https://www.apple.com/final-cut-pro/), [Vegas Pro](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027780/https://www.vegascreativesoftware.com/us/vegas-pro/), or [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/).
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### FFMPEG
 
  Do you want to edit and transcode your videos using commands, automate the process by writing advanced scripts, or even create your own video editing and compression GUI? [FFMPEG](https://ffmpeg.org/) can help, acting as the engine that facilitates all the cutting, pasting, and transcoding between various media formats.
 
 ![FFMPEG CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ffmpeg-cmd-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## A Codec for Every Task on Windows
 
  Encoding precious family videos with a lossy, old codec and sub-standard settings can ruin your memories beyond recovery, turning those moments into a blurry or pixelated mess.
@@ -303,12 +246,25 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 
  So what are video codecs, how should you choose one, and how would it affect your produced videos?
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-effortless-keyword-harvesting-explore-the-best-7-no-fee-tag-extractors-for-2024/"><u>[Updated] Effortless Keyword Harvesting Explore the Best 7 No-Fee Tag Extractors for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elevate-your-editing-game-with-speed-control-skills/"><u>[Updated] In 2024, Elevate Your Editing Game with Speed Control Skills</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-the-ideal-windows-11-environment-with-strategic-tweaks/"><u>Crafting the Ideal Windows 11 Environment with Strategic Tweaks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-docm-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to .docm file</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-spark-20-proplus-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Spark 20 Pro+ using Video Repair Utility?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/picture-in-picture-perfection-tips-and-tricks-for-final-cut-pro/"><u>Picture-in-Picture Perfection Tips and Tricks for Final Cut Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/reconnecting-windows-11-printer-a-step-by-step-guide/"><u>Reconnecting Windows 11 Printer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-creating-personalized-dvds-with-movie-making-software/"><u>The Ultimate Guide to Creating Personalized DVDs with Movie Making Software</u></a></li>
+<li><a href="https://win11.techidaily.com/traverse-the-archives-using-file-history-in-windows-11/"><u>Traverse the Archives: Using File History in Windows 11</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/ultimate-guide-effortlessly-removing-audio-from-avi-files/"><u>Ultimate Guide: Effortlessly Removing Audio From AVI Files</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-package-handling-via-wingetinterface-in-windows-11/"><u>Unveiling Package Handling via WingetInterface in Windows 11</u></a></li>
+</ul></div>
 

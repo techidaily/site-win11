@@ -1,7 +1,7 @@
 ---
 title: Boosting Functionality of Taskbar in Modern Win11
-date: 2024-08-08T13:14:47.287Z
-updated: 2024-08-09T13:14:47.287Z
+date: 2025-02-28T03:32:23.783Z
+updated: 2025-03-04T21:27:40.548Z
 tags:
   - windows10
   - windows11
@@ -20,23 +20,14 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
  In a surprising move, Microsoft removed the Teams icon and the option to adjust its presence on the Taskbar, as seen in a new Insider Dev build. Along with that, there are a couple of changes to the Search Box as well. Curious? Let’s begin.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Are the Enhanced Taskbar Settings in Windows 11?
 
  The first major change is the removal of the [Microsoft Teams](https://www.makeuseof.com/what-is-microsoft-teams-my-day/) chat icon from the Taskbar. Until now, there was only an option to hide the tool from the Taskbar. Despite its popularity in the business landscape, the Teams app has very little usage for the rest of Windows users. So, completely removing the icon and its traces from the Settings app is a change that most users will like.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Old Taskbar settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-taskbar-settings.jpg)
 
  But that won’t remove the Teams app entirely. You will have to uninstall it manually to get rid of it. The Search Box is also getting a few improvements. It will get a dedicated section in the Taskbar setting with an option to launch whenever you hover over it. All these hidden changes can be revealed using the ViveTool.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Enable Multiple Taskbar Settings in Windows 11
 
  At the time of writing, the above-mentioned Taskbar changes exist in the Windows Insider Dev build 23466\. Remember that there are now two separate channels, [Canary](https://www.makeuseof.com/what-is-windows-insider-canary-channel/) and Dev in the Insider program.
@@ -53,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
  vivetool /enable /id:43572692  
  vivetool /enable /id:41950597`
 5. **Close** the Command Prompt.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Enable New Taskbar Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-new-taskbar-features.jpg)
 6. **Restart** your PC to apply the changes made by ViveTool.
 
@@ -64,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 1. Right-click on the Taskbar to open the context menu. Click on the **Taskbar settings** option.
 2. The first change that you will observe is that the Chat option is no longer present under the Taskbar Items section. The same goes for its presence on the Taskbar.
 3. Scroll down to the **Search** section. Click on the **Search box** option, and you can select the full, condensed view, or completely disable the search box.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![New Taskbar settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-taskbar-settings.jpg)
 4. After enabling the new Search Box features, it will automatically open when your hover the cursor over it. If you want to disable this action, click on the **toggle** next to the **Open search on hover (when available)** option.
 
@@ -74,16 +59,11 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
 ![Search Box Events Popup in Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/search-box-events-popup-in-windows-11-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## The Teams Chat Icon Is Gone For Good
 
  Not everyone needs the pre-packaged apps in Windows 11 that Microsoft is so confident about. Removing the Teams Chat icon is a commendable change, and we hope that it makes it to the final preview and stable channels as well. Apart from that, the changes to Taskbar settings will make it customizable for end users.
 
  In a surprising move, Microsoft removed the Teams icon and the option to adjust its presence on the Taskbar, as seen in a new Insider Dev build. Along with that, there are a couple of changes to the Search Box as well. Curious? Let’s begin.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -91,4 +71,27 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-instabeats-intellectual-property-overview/"><u>[New] 2024 Approved InstaBeats Intellectual Property Overview</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-elevate-your-content-transformative-tiktok-to-gif-converters/"><u>[New] In 2024, Elevate Your Content Transformative TikTok-to-GIF Converters</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-explore-8-premium-websites-for-3d-text-psdfiles/"><u>[Updated] 2024 Approved Explore 8 Premium Websites for 3D Text PSDFiles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-master-money-making-on-reddit-in-just-a-few-simple-steps-for-2024/"><u>[Updated] Master Money-Making on Reddit in Just a Few Simple Steps for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-sunshine-strategies-enhancing-indoor-luminary-quality/"><u>[Updated] Sunshine Strategies Enhancing Indoor Luminary Quality</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/come-ripristinare-i-tuoi-dati-iphone-senza-un-backup/"><u>Come Ripristinare I Tuoi Dati iPhone Senza Un Backup</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-the-core-microsoft-pc-manager-for-windows-11-users/"><u>Configuring the Core: Microsoft PC Manager for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-access-setting-up-shortcut-next-to-the-windows-power-button/"><u>Efficient Access: Setting Up Shortcut Next to the Windows Power Button</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevating-personal-brand-on-social-media/"><u>Elevating Personal Brand on Social Media</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-most-frequent-windows-errors-quickly/"><u>Fixing the Most Frequent Windows Errors Quickly</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-lava-blaze-2-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Lava Blaze 2 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-of-movie-maker-on-windows-8/"><u>In 2024, Unveiling the Secrets of Movie Maker on Windows 8</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-harmony-music-edition-for-2024/"><u>Instagram Harmony Music Edition for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-the-inoperative-lunar-client-message-in-windows/"><u>Remedying the Inoperative Lunar Client Message in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-the-conundrum-of-error-0x0000004e-in-windows/"><u>Resolving the Conundrum of Error 0X0000004E in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/shrouded-signals-wi-fi-network-discretion-in-windows/"><u>Shrouded Signals: Wi-Fi Network Discretion in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-navigating-to-system-preferences/"><u>Step-by-Step Guide: Navigating to System Preferences</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-fixing-loadlibrary-error-87-on-pcs/"><u>Tips for Fixing LoadLibrary Error 87 on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-of-windows-11-default-apps-settings/"><u>Unveiling the Secrets of Windows 11 Default Apps Settings</u></a></li>
+</ul></div>
 

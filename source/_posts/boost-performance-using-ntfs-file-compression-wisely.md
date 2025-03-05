@@ -1,7 +1,7 @@
 ---
 title: "Boost Performance: Using NTFS File Compression Wisely"
-date: 2024-08-08T13:15:32.973Z
-updated: 2024-08-09T13:15:32.973Z
+date: 2025-02-25T22:43:14.019Z
+updated: 2025-03-04T20:02:28.981Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 2. Right-click on the target folder and choose**Properties** from the context menu.
 3. In the**General** tab, select the**Advanced** option.
 4. Under the**Compress or Encrypt attributes** section, check the**Compress contents to save disk space** box and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Compress content to save disk option in Folder properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/compress-content-to-save-disk-option.jpg)
 5. Click**Apply** \>**OK** to save the changes.
 6. In the confirmation dialog box that crops up, choose the **Apply changes to this folder, subfolders, and files option** .  
@@ -47,17 +44,9 @@ Similarly, you can compress an entire drive. Here's how:
 
 1. Open the File Explorer, and right-click on the drive you want to compress.
 2. In the**General** tab, check the**Compress this drive to save disk space** box.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![Driver properties in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/driver-properties.jpg)
 3. Click**Apply** and then click**OK** on the confirmation box that crops up.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 2\. Enable NTFS File Compression Using the Command Prompt
 
  If you are a power user, you can use the Command Prompt to enable file compression on Windows 11\. Here are the steps to do it:
@@ -75,9 +64,6 @@ Similarly, you can compress an entire drive. Here's how:
 
 `fsutil behavior set disablecompression 1`
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Enable NTFS File Compression Using the Registry Editor
 
  Another quick way to enable compression is through the Registry Editor. Follow the below steps to do it:
@@ -92,9 +78,6 @@ Similarly, you can compress an entire drive. Here's how:
 6. Type**Ntfsenablecompression** in the text field.
 7. Select and right-click on**Ntfsenablecompression** again, and choose**Modify** .
 8. Type**1** in the**Value data** .  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Editing Ntfsenablecompression in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/editing-ntfsenablecompression.jpg)
 9. Click**OK** to save the changes.
 
@@ -114,23 +97,17 @@ Similarly, you can compress an entire drive. Here's how:
 
  You can disable the file compression by choosing the**Enabled** option in the**Do not allow compression on all NTFS volumes policy** properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Free Up Space on Windows 11 With File Compression
 
  Enabling file compression is a great way to free up some space on Windows 11\. Using this feature can come in handy when you are running out of space but also don't want to compress your files using third-party compression tools.
 
  Meanwhile, you might be interested in learning more about the NTFS file system.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -139,6 +116,22 @@ Similarly, you can compress an entire drive. Here's how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-creating-a-streamlined-podcast-rss-feed-structure/"><u>[New] Creating a Streamlined Podcast RSS Feed Structure</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-reviving-the-past-top-5-ps1-emulators-on-pc/"><u>[Updated] Reviving the Past - Top 5 PS1 Emulators on PC</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/edgeresolve-pixelperfect-booster-windowsmacos/"><u>EdgeResolve PixelPerfect Booster (Windows/MacOS)</u></a></li>
+<li><a href="https://games-able.techidaily.com/office-ergonomics-meet-gaming/"><u>Office Ergonomics Meet Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/onedrive-as-primary-route-for-file-explorer/"><u>OneDrive as Primary Route for File Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-problems-with-windows-keyboards-deletion-function/"><u>Overcoming Problems with Windows Keyboard's Deletion Function</u></a></li>
+<li><a href="https://win11.techidaily.com/redefining-the-windows-11-taskbar-top-suggestions-for-a-modernized-interface/"><u>Redefining the Windows 11 Taskbar: Top Suggestions for a Modernized Interface</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-non-responsive-buttons-on-logitech-k520-step-by-step-solutions/"><u>Resolving Non-Responsive Buttons on Logitech K520: Step-by-Step Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revealing-the-stealth-benefits-of-going-electric-convenience-in-parking-and-time-saving-hov-lane-access/"><u>Revealing the Stealth Benefits of Going Electric: Convenience in Parking and Time-Saving HOV Lane Access</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-missing-router-dashboard-windows/"><u>Steps to Resolve Missing Router Dashboard Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-adjusting-your-pcs-touchpad-sensitivity-for-comfort/"><u>The Art of Adjusting Your PC's Touchpad Sensitivity for Comfort</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-premier-list-of-free-online-venues-for-live-sports-action/"><u>The Premier List of Free Online Venues for Live Sports Action</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-and-solving-hp-monitor-drivers-errors-in-windows-10-8-and-7/"><u>Troubleshooting & Solving HP Monitor Drivers Errors in Windows 10, 8, and 7</u></a></li>
+<li><a href="https://win11.techidaily.com/uncovering-hidden-run-commands-traces/"><u>Uncovering Hidden Run Commands Traces</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/user-guide-installing-and-maximizing-your-ring-video-doorbell-experience/"><u>User Guide: Installing and Maximizing Your Ring Video Doorbell Experience</u></a></li>
+</ul></div>
 

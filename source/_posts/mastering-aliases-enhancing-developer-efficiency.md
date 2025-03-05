@@ -1,7 +1,7 @@
 ---
 title: "Mastering Aliases: Enhancing Developer Efficiency"
-date: 2025-02-11T02:38:15.744Z
-updated: 2025-02-15T21:17:08.627Z
+date: 2025-03-02T21:38:49.674Z
+updated: 2025-03-05T02:31:56.650Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are App Execution Aliases?
 
  An alias is an alternative name given to something. The most obvious example is the codename given to a spy or undercover agent. On Windows, aliases have nothing to do with spying. Instead, they are used for streamlining tasks, such as entering commands.
@@ -47,10 +43,6 @@ In Windows 11:
 
 ![app aliases in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-alias-win11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In Windows 10:
 
 1. If you're using Windows 10, you'll find the aliases in**Settings > Apps & features** .
@@ -60,10 +52,6 @@ In Windows 10:
 ![app aliases in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-alias-win10.jpg)
 
  By default, in both Windows 10 and 11, you can only enable or disable existing app aliases. But if you don't mind editing the Registry, you can create new aliases for many other apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Create App Execution Aliases in Registry Editor
 
@@ -79,17 +67,9 @@ In Windows 10:
 ![editing app aliases in registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-alias-regedit.jpg)
 6. In the Value data field, you will need to enter the full path to the app executable file. For example**C:\\Program Files (x86)\\Calendar.exe** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Right-click in the right pane and select**New > String value** . Name the string**path** . The change the Value data to the same path as above, but without the app filename.
 
  You can now close the Registry Editor. The new App Execution Alias will now be available to use in the Windows CLIs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Using and Creating App Execution Aliases
 
@@ -110,18 +90,20 @@ In Windows 10:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-soaring-visions-with-dji-mavic-pro-insight/"><u>[New] In 2024, Soaring Visions with DJI Mavic Pro Insight</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-prime-firefox-video-capturing-software-for-2024/"><u>[New] Prime Firefox Video Capturing Software for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-racing-game-compilation/"><u>[Updated] Ultimate Racing Game Compilation</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-boot-overhaul-simplified-windows-restarts-in-8-steps/"><u>Easy Boot Overhaul: Simplified Windows Restarts in 8 Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-directory-is-not-empty-problem-error-0x80070091-in-win11-and-11/"><u>Fixing Directory Is Not Empty Problem (Error #0X80070091) in Win11 & 11</u></a></li>
-<li><a href="https://win-community.techidaily.com/how-to-fix-an-unresponsive-video-detection-tool-while-transferring-content/"><u>How to Fix an Unresponsive Video Detection Tool While Transferring Content</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-vboxs-0x80004005-error-efail/"><u>Overcoming Windows VBox's 0X80004005 Error: E_FAIL</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-frozen-grammarly-errors-on-windows-systems/"><u>Resolving Frozen Grammarly Errors on Windows Systems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/step-by-step-guide-creating-your-nintendo-network-account-on-the-3ds/"><u>Step-by-Step Guide: Creating Your Nintendo Network Account on the 3DS</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-tutorial-on-implementing-volume-shadow-copy-on-windows-server-2019/"><u>Step-by-Step Tutorial on Implementing Volume Shadow Copy on Windows Server 2019</u></a></li>
-<li><a href="https://win11.techidaily.com/thorough-guide-to-completely-uninstall-wsl-in-win-1011/"><u>Thorough Guide to Completely Uninstall WSL in Win 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-windows-access-issue-with-your-files/"><u>Troubleshooting Windows Access Issue with Your Files</u></a></li>
-<li><a href="https://win-blog.techidaily.com/vanguard-requirement-notice-ensure-adequate-cpu-strength-before-installing/"><u>Vanguard Requirement Notice: Ensure Adequate CPU Strength Before Installing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-essentials-of-video-format-transformation-using-vlc-for-2024/"><u>[New] The Essentials of Video Format Transformation Using VLC for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-leading-5-gaming-screens-with-ps5-support-for-2024/"><u>[Updated] Leading 5 Gaming Screens with PS5 Support for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/accelerating-your-tiktok-content-a-quick-guide-for-2024/"><u>Accelerating Your TikTok Content A Quick Guide for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ced-techniques-using-jump-cuts-effectively-for-2024/"><u>Advanced Techniques Using Jump Cuts Effectively for 2024</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-a25-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/browsing-woes-solve-the-black-screen-mystery-on-chromesafari-facebook-live/"><u>Browsing Woes? Solve the Black Screen Mystery on Chrome/Safari Facebook Live</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dual-display-configuration-for-mac-users-optimizing-your-workspace/"><u>Dual Display Configuration for Mac Users: Optimizing Your Workspace</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortlessly-save-and-organize-top-tracks-albums-and-more-with-macos-music-player-step-by-step-instructions/"><u>Effortlessly Save and Organize Top Tracks, Albums, and More with macOS Music Player: Step-by-Step Instructions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-fixes-resolve-your-logitech-c615-mouse-drivers-hassle-free/"><u>Fast Fixes: Resolve Your Logitech C615 Mouse Drivers Hassle-Free</u></a></li>
+<li><a href="https://win11.techidaily.com/going-off-grid-with-the-installation-of-win11/"><u>Going Off-Grid with the Installation of Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-does-microsoft-financially-benefit-from-windows-11/"><u>How Does Microsoft Financially Benefit From Windows 11?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resize-the-windows-11-taskbar-icons-to-32x32/"><u>How to Resize the Windows 11 Taskbar Icons to 32X32</u></a></li>
+<li><a href="https://win11.techidaily.com/reconciling-voice-recognition-settings-in-windows/"><u>Reconciling Voice Recognition Settings in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-disruptive-close-now-message-from-roblox-app/"><u>Remedy for Disruptive Close Now Message From Roblox App</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-recalibrating-windows-energy-mode/"><u>Tips for Recalibrating Windows Energy Mode</u></a></li>
 </ul></div>
 

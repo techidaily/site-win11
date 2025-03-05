@@ -1,7 +1,7 @@
 ---
 title: Guide to Recovery for Windows 11 Blue Screen with Exception Handlers
-date: 2025-02-13T16:11:37.582Z
-updated: 2025-02-16T00:26:38.031Z
+date: 2025-02-28T22:31:13.220Z
+updated: 2025-03-04T23:02:59.717Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Understanding the Causes
 
@@ -73,10 +69,6 @@ C:\Windows\System32\
 ![Delete the files in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-file.jpg)
 3. Now, press the Win + R keys together to open Run.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Type regedit in Run and click Enter.
 5. Click**Yes** in the User Account Control prompt.
 6. Once you are inside the Registry Editor, navigate to the location mentioned below if you are using a 32-bit system:  
@@ -85,17 +77,9 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Software Installed\APOIMHKEY_LOCAL_MAC
 ![Delete the Registry Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-registry-value.jpg)
 8. If you are using a 64-bit operating system, navigate to the following locate and delete the APOIM value using the same method from here:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Creative Tech\Software Installed\APOIMHKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Creative Tech\Installation\CTRedist\APOIM
 
  Finally, you can close the Registry Editor and restart your computer. Hopefully, you should no longer face the Blue Screen of Death error upon reboot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Remove the Problematic Software
 
@@ -113,10 +97,6 @@ Here is what you need to do:
 5. Follow the on-screen instructions to complete the process.
 
  Once the app is uninstalled, restart your computer and check if the issue is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run Driver Verifier
 
@@ -151,18 +131,21 @@ Here is what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-drive-engagement-not-farewells-top-strategies-to-keep-your-audience-hooked-on-youtube-for-2024/"><u>[New] Drive Engagement, Not Farewells Top Strategies to Keep Your Audience Hooked on YouTube for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-streamline-your-obs-outputs/"><u>[Updated] Streamline Your OBS Outputs</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-what-exactly-is-periscope-free-access-and-registration-details-for-2024/"><u>[Updated] What Exactly Is Periscope? Free Access & Registration Details for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/an-in-depth-examination-of-vivavideo-app-for-2024/"><u>An In-Depth Examination of VivaVideo App for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/crafting-strikingly-viral-content-50-inspiring-tiktok-quotes-for-2024/"><u>Crafting Strikingly Viral Content 50 Inspiring TikTok Quotes for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-add-a-hidden-items-context-menu-option-in-windows-11-and-11/"><u>How to Add a Hidden Items Context Menu Option in Windows 11 & 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-s17-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo S17 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-google-pixel-8-pro-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Google Pixel 8 Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/resolve-setup-woes-ms-pc-manager-fix/"><u>Resolve Setup Woes: MS PC Manager Fix</u></a></li>
-<li><a href="https://win11.techidaily.com/skirting-stuck-troubleshooters-in-windows-updates/"><u>Skirting Stuck Troubleshooters in Windows Updates</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transitioning-from-srt-to-subtitles-for-2024/"><u>Transitioning From SRT to Subtitles for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-a-technical-approach-to-combining-soundtracks-with-video-footage-on-mobile-devices-for-2024/"><u>Updated A Technical Approach to Combining Soundtracks with Video Footage on Mobile Devices for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/why-and-how-to-flip-your-windows-display-angle-by-90-degrees/"><u>Why and How to Flip Your Windows Display Angle by 90 Degrees</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-creating-compelling-content-with-powerful-youtube-titles/"><u>[Updated] 2024 Approved Creating Compelling Content with Powerful YouTube Titles</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-terrarium-tales-the-top-five-gold-quests/"><u>[Updated] 2024 Approved Terrarium Tales The Top Five Gold Quests</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/4-effective-methods-for-writing-on-oled-screens-in-windows-10/"><u>4 Effective Methods for Writing on OLED Screens in Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/chill-zone-essential-accessories-to-prevent-overheating/"><u>Chill Zone! Essential Accessories to Prevent Overheating</u></a></li>
+<li><a href="https://win11.techidaily.com/drive-discretion-masterclass-windows-edition/"><u>Drive Discretion Masterclass: Windows Edition</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/elevating-user-navigation-emersons-integration-of-abbyy-cognitive-capture-for-superior-service-delivery/"><u>Elevating User Navigation: Emerson's Integration of ABBYY Cognitive Capture for Superior Service Delivery</u></a></li>
+<li><a href="https://win11.techidaily.com/from-disappearing-acts-to-full-display-revive-off-screen-apps-with-these-quick-fixes-6-essentials/"><u>From Disappearing Acts to Full Display: Revive Off-Screen Apps with These Quick Fixes (6 Essentials)</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-cannot-read-from-the-source-file-or-disk-error-in-windows-1110/"><u>How to Fix the “Cannot Read From the Source File or Disk” Error in Windows 11/10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/lernen-sie-wie-man-musik-muhelos-von-dem-iphones-auf-ihren-pc-ubertragt/"><u>Lernen Sie, Wie Man Musik Mühelos Von Dem iPhones Auf Ihren PC Überträgt</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/monitor-magic-top-choices-to-transform-your-xbox-series-x-playtime-for-2024/"><u>Monitor Magic Top Choices to Transform Your Xbox Series X Playtime for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-boot-savior-top-5-methods-for-fixed-error-states/"><u>Secure Boot Savior: Top 5 Methods for Fixed Error States</u></a></li>
+<li><a href="https://win11.techidaily.com/slip-by-non-met-system-demand-sticker-in-win11/"><u>Slip by Non-Met System Demand Sticker in Win11</u></a></li>
+<li><a href="https://article-files.techidaily.com/smile-saver-essential-free-meme-templates/"><u>Smile Saver Essential Free Meme Templates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tidy-up-your-snap-map-the-ultimate-guide-for-bulk-unfriending-on-the-app/"><u>Tidy Up Your Snap Map: The Ultimate Guide for Bulk Unfriending on the App</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-best-pomodoro-timekeeping-solutions-on-windows/"><u>Unveiling the Best Pomodoro Timekeeping Solutions on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-file-expertise-tab-management-made-simple/"><u>Windows 11 File Expertise: Tab Management Made Simple</u></a></li>
 </ul></div>
 

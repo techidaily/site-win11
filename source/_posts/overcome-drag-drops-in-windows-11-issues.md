@@ -1,7 +1,7 @@
 ---
 title: Overcome Drag Drops in Windows 11 Issues
-date: 2024-12-25T01:15:30.428Z
-updated: 2024-12-27T22:01:55.872Z
+date: 2025-02-26T17:57:14.504Z
+updated: 2025-03-04T22:09:12.521Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Start With Some Generic Fixes
 
  It's a good idea to try some generic Windows fixes before spending time on any advanced solutions.
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 * **Run the SFC Scan:** If some of the system files on your PC are corrupted or missing, Windows 11 may not respond to the drag and drop gesture. Try [running the SFC (or System File Checker) scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) to repair any damaged system files and see if that helps.
 * **Scan for Malware:** A malware infection is another possible cause of this issue. To rule this out, try [scanning your PC for malware with PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) or an antivirus program.
 * **Try Clean Boot:** It’s possible that a rouge third-party app or program on your PC is causing the drag and drop feature to malfunction. If that’s the case, [booting your PC in a clean boot state](https://www.makeuseof.com/clean-boot-windows-11/) will help you verify that.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Use the Esc Key
 
@@ -71,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 4. Click **Next** to run the troubleshooter.  
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-devices-troubleshooter-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Update or Reinstall Mouse Drivers
 
  Outdated or damaged mouse or touchpad drivers can also cause drag and drop to stop working in Windows 11\. If that’s the case, updating the relevant drivers should help solve the problem.
@@ -97,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
  For more help, refer to our guide on [fixing the left-click mouse button not working issue on Windows](https://www.makeuseof.com/tag/fix-left-mouse-button/) and follow the tips mentioned there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Edit Registry Files
 
  Incorrect registry entries can also cause such anomalies. You need to review the registry values related to the drag and drop feature and ensure they are configured correctly.
@@ -120,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
  Restart your PC after making the above changes and see if the drag and drop feature works after that.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Effortlessly Move Your Files With Drag and Drop Functionality on Windows
 
  Drag and drop is one of those Windows 11 features that once you start using it, you can’t go back. Hence, it can be inconvenient when the feature stops working on your PC. We hope that going through the above tips has helped you fix the problem and put you at ease.
@@ -139,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 ### Q: How Do You Change Drag and Drop From Copy to Move in Windows 11?
 
  You can change drag-and-drops's action from copy to move by holding down the Shift key while dragging and dropping your files. This makes Windows move your files instead of copying them to a folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q: How Do You Drag and Drop From One Computer to Another?
 
@@ -160,18 +136,19 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-ipads-artistic-haven-top-8-sketch-innovators/"><u>[New] IPad's Artistic Haven Top 8 Sketch Innovators</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-finest-10-online-spots-to-download-pristine-photos/"><u>[New] The Finest 10 Online Spots to Download Pristine Photos</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-walkthrough-for-integrating-virtual-games-in-playnite/"><u>Comprehensive Walkthrough for Integrating Virtual Games in Playnite</u></a></li>
-<li><a href="https://games-able.techidaily.com/examining-steams-mechanics-versus-gogs-policies/"><u>Examining Steam's Mechanics Versus GOG's Policies</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/from-novice-to-proficiency-counting-in-spanish/"><u>From Novice to Proficiency: Counting in Spanish</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-realme-12-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Realme 12 5G Unlock Without Password</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/next-gen-storytelling-10-sci-fi-films-transporting-you-elsewhere/"><u>Next Gen Storytelling 10 Sci-Fi Films Transporting You Elsewhere</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-printer-hurdles-on-the-latest-windows-version/"><u>Overcoming Printer Hurdles on the Latest Windows Version</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-11-common-steam-freeze-during-gaming/"><u>Overcoming Windows 11: Common Steam Freeze During Gaming</u></a></li>
-<li><a href="https://win11.techidaily.com/overriding-windows-update-requests/"><u>Overriding Windows Update Requests</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-virtualbox-error-code-0x80004005-in-windows/"><u>Remedying Virtualbox Error Code: 0X80004005 in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-and-smooth-keyboard-shortcuts-for-3d-artists/"><u>Swift and Smooth: Keyboard Shortcuts for 3D Artists</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-employee-training/"><u>[New] 2024 Approved Employee Training</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-sync-your-mac-visuals-with-acoustic-backup/"><u>[Updated] 2024 Approved Sync Your Mac Visuals with Acoustic Backup</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-embedding-your-pre-recorded-video-in-a-live-facebook-showcase/"><u>[Updated] In 2024, Embedding Your Pre-Recorded Video in a Live Facebook Showcase</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/bluetooth-beats-on-wheels-the-economical-truckers-audio-gadget-guide/"><u>Bluetooth Beats on Wheels: The Economical Trucker's Audio Gadget Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-6-oddities-in-windows-11-design/"><u>Decoding the 6 Oddities in Windows 11 Design</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/dream-workflow-best-afx-templates-without-a-price-tag-for-2024/"><u>Dream Workflow Best AFX Templates Without a Price Tag for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fresh-beginnings-executing-a-clean-windows-11-reinstall/"><u>Fresh Beginnings: Executing a Clean Windows 11 Reinstall</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/guide-expert-comment-convertir-de-justesse-vos-fichiers-chk-en-version-originelle/"><u>Guide Expert: Comment Convertir De Justesse Vos Fichiers CHK en Version Originelle</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-itel-a05s-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Itel A05s in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/high-performance-alienware-aw2725df-with-360hz-oled-display-ultimate-gamers-review/"><u>High-Performance Alienware AW2725DF with 360Hz OLED Display - Ultimate Gamer's Review</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagine-your-pc-with-the-top-10-must-try-powertoy-applications/"><u>Reimagine Your PC with the Top 10 Must-Try PowerToy Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-resolution-to-hypervisor-errors-for-winxose-users/"><u>Swift Resolution to Hypervisor Errors for WINXOSE Users</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-power-of-wpm-in-windows-11-environments/"><u>Unveiling the Power of WPM in Windows 11 Environments</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-motorola-moto-e13-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Motorola Moto E13 | Dr.fone</u></a></li>
 </ul></div>
 

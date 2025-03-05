@@ -1,7 +1,7 @@
 ---
 title: How to Test Your Webcam and Microphone Before a Meeting (Windows)
-date: 2024-12-24T04:42:15.788Z
-updated: 2024-12-27T20:59:38.556Z
+date: 2025-03-01T04:40:20.638Z
+updated: 2025-03-05T01:44:02.464Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -101,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 
 ![Turning on the Microphone Access in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/9-turn-on-the-toggle-next-to-app-to-enable-microphone-access-in-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Disable Exclusive Control of Your Microphone
 
  The **Exclusive Mode** checkbox allows a program to completely control an audio device. When that happens, the audio device becomes unavailable for other apps. Enabling this feature leads to audio problems most of the time, so we recommend turning off this feature before your meeting starts. Here's how:
@@ -177,15 +169,7 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 4. Click the **Disable** button and the **Yes** to confirm the change.  
 ![Disabling a camera device from the Windows Ssettings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/disabling-a-camera-device-from-the-windows-settings-app-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Repeat this process for all other camera devices you want to turn off. With all other cameras disabled, Windows will use the only enabled device as your primary camera.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Check Microphone and Camera Permissions
 
@@ -202,10 +186,6 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
  To make sure the app you want to use has access to your default microphone, go to **Settings > Privacy and security > Microphone**. Then, enable the toggles next to **Microphone access**, **Let apps access your microphone**,and the app you want to use for your online meeting.
 
 ![Turning on the Microphone Access in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/9-turn-on-the-toggle-next-to-app-to-enable-microphone-access-in-windows-settings-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Disable Exclusive Control of Your Microphone
 
@@ -267,10 +247,6 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 5. Locate the microphone device you want to make your default, right-click on it, and select **Set as Default Device**.  
 ![Changing the default microphone device in the sound settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/changing-the-default-microphone-device-in-the-sound-settings-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Set Your Preferred Webcam as the Default
 
  Unlike microphones, you can't directly choose a camera as the default. Instead, you have to turn off every camera other than the one you intend to use. Here's how to do this:
@@ -325,10 +301,6 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 
  Testing your microphone and webcam before an online meeting can help you identify potential issues before they become a waste of time or embarrassing. Here's how to check whether your microphone and webcam are configured and functioning correctly in Windows 11\.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Test the Webcam Before Your Meeting
 
  There are two types of webcams: built-in and external. If your PC has an integrated webcam, use the Camera app to test it—type "camera"in Windows Search to open this app. You know your webcam is optimally configured if you get high-quality footage without any errors. Make sure to remove any webcam covers!
@@ -346,10 +318,6 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 ![opening the sound settings in the windows settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/go-to-notifications-settings-in-the-system-tab-of-the-windows-settings-app.jpg)
 3. In the **Input** section, select the microphone you wish to use (if you have more than one connected) and open its settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Ensure that the **Input volume** slider isn't set too low.
 5. Click on **Start test**.  
 ![Running a microphone test on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/4-click-on-the-start-test-button-to-test-the-headset-microphone-in-windows-settings.jpg)
@@ -366,10 +334,6 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 3. Scroll to the **Advanced** settings and click **More sound settings**.  
 ![Opening the sound settings in the Windows Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-go-to-more-sound-settings-in-the-sound-settings-of-the-windows-settings-app.jpg)
 4. Select the **Recording** tab.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Locate the microphone device you want to make your default, right-click on it, and select **Set as Default Device**.  
 ![Changing the default microphone device in the sound settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/changing-the-default-microphone-device-in-the-sound-settings-window.jpg)
@@ -403,10 +367,6 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
  To make sure the app you want to use has access to your default microphone, go to **Settings > Privacy and security > Microphone**. Then, enable the toggles next to **Microphone access**, **Let apps access your microphone**,and the app you want to use for your online meeting.
 
 ![Turning on the Microphone Access in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/9-turn-on-the-toggle-next-to-app-to-enable-microphone-access-in-windows-settings-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Disable Exclusive Control of Your Microphone
 
@@ -446,20 +406,15 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-brainy-brigade-top-11-quiz-channels-for-2024/"><u>[New] Brainy Brigade Top 11 Quiz Channels for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-television-or-projector-unraveling-the-best-for-4k-viewing-pleasure/"><u>[Updated] Television or Projector? Unraveling the Best for 4K Viewing Pleasure</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pricing-guide-to-film-a-bands-music-visual/"><u>2024 Approved Pricing Guide to Film a Band's Music Visual</u></a></li>
-<li><a href="https://win11.techidaily.com/compreehing-window-10-closed-caption-problems-a-quick-fix/"><u>Compreehing Window 10 Closed Caption Problems: A Quick Fix</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-windows-11s-enhanced-data-protection-strategy/"><u>Exploring Windows 11'S Enhanced Data Protection Strategy</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-insufficient-usb-availability-problem/"><u>Fixing Insufficient USB Availability Problem</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-resolve-exception-reached-error-during-debugging/"><u>How to Resolve 'Exception Reached' Error During Debugging</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-from-high-speed-to-leisurely-the-pathway-to-stellar-ig-reel-slow-motion/"><u>In 2024, From High-Speed to Leisurely The Pathway to Stellar IG Reel Slow Motion</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-is-there-a-perfect-fps-for-everyone-comparing-30-and-60/"><u>In 2024, Is There a 'Perfect' FPS for Everyone? Comparing 30 and 60</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/iptv-recording-on-various-platforms/"><u>IPTV Recording on Various Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-microsoft-edges-steady-backstage-in-win11/"><u>Optimizing Microsoft Edge's Steady Backstage in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-hurdles-to-use-windows-with-steam-link/"><u>Overcoming Hurdles to Use Windows with Steam Link</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-huawei-nova-y71-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Huawei Nova Y71 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-troubleshooting-resolving-roblox-closure-request-errors/"><u>Windows Troubleshooting: Resolving Roblox Closure Request Errors</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-prime-strategies-for-constructing-mcc-homes/"><u>[New] 2024 Approved Prime Strategies for Constructing MCC Homes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-insights-into-windows-superior-video-players/"><u>[New] Exclusive Insights Into Window's Superior Video Players</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-audiextractoreview-free-audio-tools-new-horizon/"><u>[Updated] AudiExtractoReview Free Audio Tool's New Horizon</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-12-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 12 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-update-schedules-setting-active-periods-windows-11/"><u>Mastering Update Schedules: Setting Active Periods Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/nine-keys-to-release-verification-holds-during-windows-update/"><u>Nine Keys to Release Verification Holds During Windows Update</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/resolving-driver-problems-a-comprehensive-guide-by-yl-computing/"><u>Resolving Driver Problems: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategies-doptimisation-pour-les-medias-conseils-et-solutions/"><u>Stratégies D'Optimisation Pour Les Médias: Conseils Et Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-error-code-0x800700e9-on-xbox-game-pass-and-windows-11/"><u>Tackling Error Code 0X800700E9 on Xbox Game Pass & Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-energy-requirement-monitoring-machine-might/"><u>Windows Energy Requirement: Monitoring Machine Might</u></a></li>
 </ul></div>
 

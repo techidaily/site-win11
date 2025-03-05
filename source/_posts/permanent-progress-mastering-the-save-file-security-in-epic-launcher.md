@@ -1,7 +1,7 @@
 ---
 title: "Permanent Progress: Mastering the Save File Security in Epic Launcher"
-date: 2025-02-12T17:08:00.365Z
-updated: 2025-02-15T21:20:33.039Z
+date: 2025-03-03T04:48:15.357Z
+updated: 2025-03-04T19:47:56.438Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Enable Cloud Saves in Epic Games Launcher
 
  Epic Games Launcher has a Cloud Save feature with which you can back up saved data. That feature automatically backs up saved game progress to Epic’s online cloud service. Then all your saved progress will be preserved so that you can continue playing from where you left off after reinstalling a game. You can enable that Cloud Save feature in Epic Games Launcher like this:
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
 ![The Enable Cloud Saves option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-cloud-saves.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now your game will start cloud saving when you play it so long as it supports that feature. You don’t have to do anything to restore data backed up to Epic’s cloud service after reinstalling a game.
 
 ## How to Check if a Game Supports Cloud Sync
@@ -56,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 3. Next, right-click the cover image thumbnail for the game you want to check and select **Manage**.  
 ![The Manage option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-option.jpg)
 4. You should see a **Cloud Saves** setting in the management options. Toggle on the **Cloud Saves** option if it’s off (but it shouldn’t be if you’ve already selected **Enable Cloud Saves**).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The Cloud Saves option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-cloud-saves-option.jpg)
 
@@ -83,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 ![The Save game data location details for Subnautica](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/save-game-location-details.jpg)
 4. [Launch File Explorer](https://www.makeuseof.com/windows-file-explorer-not-opening/) to open the Windows or Epic Games Launcher saved data path specified for your game on its PCGamingWiki page.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Right-click the game’s saved game folder and select **Copy**.  
 ![The Copy option in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-copy-option.jpg)
 6. Open another directory to paste the folder in and press **Ctrl + V**.
@@ -100,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 `<%USERPROFILE%\Documents\The Witcher 3\gamesaves\`
 
  Nevertheless, it’s still recommended to manually back up game saves in that directory before reinstalling titles just in case. Then launch your game to check if you can load all previously saved progress after reinstalling it. If not, you can restore the lost game saves by moving the backed-up data into the required folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Secure Saved Gaming Progress for Your Epic Games Library
 
@@ -123,24 +103,19 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-download-youtube-audio-safely-and-legally-in-3-ways-for-2024/"><u>[New] Download Youtube Audio Safely & Legally in 3 Ways for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-perfecting-hp-screen-capture-top-4-methods-unveiled-for-2024/"><u>[Updated] Perfecting HP Screen Capture Top 4 Methods Unveiled for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-preserve-and-showcase-nine-exceptional-tools-for-animated-gifs-on-pc/"><u>[Updated] Preserve & Showcase Nine Exceptional Tools for Animated GIFs on PC</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/advanced-video-conferencing-applications-guide-for-2024/"><u>Advanced Video Conferencing Applications Guide for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/beginners-blueprint-for-youtube-income-growth/"><u>Beginner's Blueprint for YouTube Income Growth</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-failures-activation-keys-not-working-on-win11/"><u>Correcting Failures: Activation Keys Not Working on Win11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/discover-the-best-strategies-for-virtual-finnish-proficiency/"><u>Discover the Best Strategies for Virtual Finnish Proficiency</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-wi-fi-discovery-capabilities-on-microsofts-new-system/"><u>Enhancing Wi-Fi Discovery Capabilities on Microsoft’s New System</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-reality-of-prompt-engineering-key-aspects-and-opportunities/"><u>Exploring the Reality of Prompt Engineering: Key Aspects and Opportunities</u></a></li>
-<li><a href="https://win11.techidaily.com/getting-acquainted-with-microsofts-family-safety/"><u>Getting Acquainted with Microsoft's Family Safety</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://discover-community.techidaily.com/is-av1-codec-compatible-with-iphone-devices-a-comprehensive-guide/"><u>Is AV1 Codec Compatible with iPhone Devices: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-parental-safety-features-in-windows-11-os/"><u>Navigating Parental Safety Features in Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-file-explorer-launch-with-onedrive-integration/"><u>Optimizing File Explorer Launch with OneDrive Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/refreshing-your-system-catroot-and-distribution-on-ws11/"><u>Refreshing Your System: Catroot and Distribution on WS11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/revolutionize-your-podcast-reach-with-smart-seo-for-2024/"><u>Revolutionize Your Podcast Reach with Smart SEO for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/spotting-blank-space-on-your-drive-a-step-by-step-folder-cleanup-guide/"><u>Spotting Blank Space on Your Drive: A Step-by-Step Folder Cleanup Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-unhook-your-pc-from-w11s-mobility-center/"><u>Steps To Unhook Your PC From W11's Mobility Center</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11-setting-a-new-path-for-your-onedrive/"><u>Win 11: Setting a New Path for Your OneDrive</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-discreetly-streaming-top-8-video-tools-of-the-year-2023-for-2024/"><u>[Updated] Discreetly Streaming Top 8 Video Tools of the Year, 2023 for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-innovative-approaches-to-customizing-your-tiktok-videos/"><u>2024 Approved Innovative Approaches to Customizing Your TikTok Videos</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/404-error-page-handling-missing-pages-in-web-development-with-digiarty/"><u>404 Error Page: Handling Missing Pages in Web Development with DigiArtY</u></a></li>
+<li><a href="https://win11.techidaily.com/compre-written-guide-to-prevent-app-shrinkage/"><u>Compre Written Guide to Prevent App Shrinkage</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-solving-utorrent-unresponsiveness-with-7-proven-fixes/"><u>Expert Advice: Solving Utorrent Unresponsiveness with 7 Proven Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-psychonauts-2-from-crashing-on-your-windows-computer/"><u>How to Stop Psychonauts 2 From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/masterclass-syncing-airpods-with-windows/"><u>Masterclass: Syncing AirPods with Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/solutions-for-unsticking-your-iphone-from-data-recovery-endless-cycle/"><u>Solutions for Unsticking Your iPhone From 'Data Recovery' Endless Cycle</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essentials-of-elevating-your-youtube-entrance-ranks/"><u>The Essentials of Elevating Your Youtube Entrance Ranks</u></a></li>
+<li><a href="https://win11.techidaily.com/time-travel-tech-trend-windows-11-for-the-90s/"><u>Time-Travel Tech Trend: Windows 11 for the '90S</u></a></li>
+<li><a href="https://win11.techidaily.com/top-tips-for-a-swift-black-screen-recovery-on-win10/"><u>Top Tips for a Swift Black-Screen Recovery on Win10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/undead-lore-weaver-for-2024/"><u>Undead Lore Weaver for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-power-of-polyglots-windows-1011-keys-for-translation/"><u>Unlock the Power of Polyglots: Windows 10/11 Keys for Translation</u></a></li>
+<li><a href="https://win11.techidaily.com/what-does-the-windows-11-troubleshooter-do/"><u>What Does the Windows 11 Troubleshooter Do?</u></a></li>
 </ul></div>
 

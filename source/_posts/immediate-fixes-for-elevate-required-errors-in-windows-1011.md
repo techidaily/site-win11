@@ -1,7 +1,7 @@
 ---
 title: Immediate Fixes for Elevate Required Errors in Windows 10/11
-date: 2024-12-27T00:54:21.621Z
-updated: 2024-12-28T04:39:21.732Z
+date: 2025-02-28T23:38:42.731Z
+updated: 2025-03-04T17:08:42.995Z
 tags:
   - windows10
   - windows11
@@ -25,19 +25,11 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Affected Programs With Admin Rights
 
  The error 740 message mentions the need for operation elevation. That’s a hint to try running affected programs with elevated (administrator) rights. Check out this guide on [always running apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) to set affected EXE files to run with elevated rights.
 
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-as-an-administrator.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Set Programs to Run in Compatibility Mode
 
@@ -54,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
  User Account Control is the security feature that throws up notifications when programs try to make changes. UAC could be a potential cause of error 740 when it’s set very high. So, try turning off UAC before running affected apps. Our [guide to disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) tells you how to turn off that feature.
 
 ![The User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/user-account-control-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Adjust Folder Permission Settings
 
@@ -108,22 +96,10 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 ![The Admin Approval Mode policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/admin-approval-mode-policy.jpg)
 3. Click the **Disabled** radio button if this policy is enabled.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![the-enabled-radio-button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-enabled-radio-button.jpg)
 4. Select **Apply** to turn off Admin Approval Mode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. To close the policy window, select the **OK** option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Disable Third-Party Antivirus Software Packages
 
@@ -140,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
  If the “requested operation requires elevation” error persists after trying other resolutions, your user account might be corrupted. Then you might need to create and utilize a new admin account to resolve this issue. You can migrate to that account by copying files from your old user account into the new one.
 
 ![The Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To apply this troubleshooting method for the “requested operation requires elevation” error, follow the instructions within this article about [how to fix Windows issues by creating new user accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/). First, you’ll need to set up and sign in to the new admin account to see if the error occurs there. If not, transfer user files into the new account as covered there.
 
@@ -163,14 +135,22 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-harmonizing-hues-3-swift-strategies-for-perfect-color-balance/"><u>[Updated] Harmonizing Hues 3 Swift Strategies for Perfect Color Balance</u></a></li>
-<li><a href="https://games-able.techidaily.com/10-in-popularity-with-pc-gaming-enthusiasts-zdnet/"><u>10 in Popularity with PC Gaming Enthusiasts | ZDNET</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-reno-9a-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/digital-artistic-solutions-like-procreate-for-windows/"><u>Digital Artistic Solutions Like Procreate For Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-poco-c51-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Poco C51 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/securely-implementing-execution-policies-in-windows-powershell/"><u>Securely Implementing Execution Policies in Windows PowerShell</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-x50i-by-fonelab-android-recover-video/"><u>The way to get back lost videos from X50i</u></a></li>
-<li><a href="https://win11.techidaily.com/win1011-guide-to-steganographic-hiding-techniques-for-archives/"><u>Win10/11 Guide to Steganographic Hiding Techniques for Archives</u></a></li>
-<li><a href="https://win11.techidaily.com/workspace-efficiency-attach-gmail-to-desktop-border/"><u>Workspace Efficiency: Attach Gmail to Desktop Border</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-engaging-market-entry-plans/"><u>[New] 2024 Approved Engaging Market Entry Plans</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-techniques-for-streaming-seminars-on-a-fee-free-basis-for-2024/"><u>[Updated] Techniques for Streaming Seminars on a Fee-Free Basis for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-11-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 11 Pro Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/assessing-speed-and-stability-the-bulky-outlook-on-netgears-powerline-xb6-pro-1200/"><u>Assessing Speed and Stability: The Bulky Outlook on Netgear's Powerline XB6 Pro 1200</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-obstructions-a-guide-to-windows-11s-search-problems/"><u>Clearing Obstructions: A Guide to Windows 11'S Search Problems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/decoding-macbook-variants-a-comprehebsive-guide-to-air-and-pro/"><u>Decoding MacBook Variants - A Comprehebsive Guide to Air and Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-microsoft-teams-stalling-in-w11w10-systems/"><u>Fixing Microsoft Teams Stalling in W11/W10 Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/hoe-u-kunt-de-winodlog-locatien-beheersen-in-wndows-10-top-4-afwijkingskundige-methoden/"><u>Hoe U Kunt De Winodlog Locatien Beheersen in Wndows 10: Top 4 Afwijkingskundige Methoden</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-snap-into-position-handhran-balancing-tricks/"><u>In 2024, Snap Into Position Handhran Balancing Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-the-missing-entry-in-windows-os/"><u>Mending the Missing Entry in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/power-tools-for-pc-mastery-command-prompt-edition-of-win-registry-edits/"><u>Power Tools for PC Mastery: Command Prompt Edition of Win Registry Edits</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrect-dead-audio-a-step-by-step-guide-to-tech-sound/"><u>Resurrect Dead Audio: A Step-by-Step Guide to Tech Sound</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-blue-screen-bsos-quick-fix-strategies-for-win11/"><u>Stop Blue Screen BSOS: Quick Fix Strategies for Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-non-existent-drive-letters-on-windows-causes-corrections/"><u>Understanding Non-Existent Drive Letters on Windows: Causes, Corrections</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-with-recalled-logon-code/"><u>Unlocking Windows with Recalled Logon Code</u></a></li>
 </ul></div>
 

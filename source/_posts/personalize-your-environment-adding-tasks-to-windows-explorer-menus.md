@@ -1,7 +1,7 @@
 ---
 title: "Personalize Your Environment: Adding Tasks to Windows Explorer Menus"
-date: 2024-12-25T16:37:33.586Z
-updated: 2024-12-27T23:22:14.137Z
+date: 2025-02-25T23:03:25.472Z
+updated: 2025-03-04T20:51:43.158Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
 ![The value data for the Move to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/an-edit-string-window.jpg)
 5. Select**OK** to set the new value for the (Default) string.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Exit the Registry Editor.
 
  You can now try out the new**Move to folder** option on the context menu. Press the**Explorer** taskbar button to view the Windows file manager. Right-click a file and select the new**Move to folder** option. You’ll need to select**Show more options** \>**Move to folder i** n Windows 11.
@@ -69,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
 ![The Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-folder-option-1.jpg)
 5. Select**Copy to folder** and double-click its**(Default)** string.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Enter the value**{C2FBB630-2971-11D1-A18C-00C04FD75D13}** inside the**Data** box.  
 ![The value data for the Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-edit-string-window-for-the-copytokey.jpg)
 7. Click the**OK** button to apply the value.
@@ -81,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
  Then you can select the**Copy to folder** context menu option much the same as the move one. Right-click a file in Explorer, select**Show more options** (in Windows 11), and click**Copy to folder** . A Copy Items window will open from which you can choose a folder to include the copied file. Clicking**Copy** will paste the item into the selected folder.
 
 ![The Copy to folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-folder-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can remove the "Copy/Move to folder" options from the right-click menu by deleting their registry keys. Open the**ContextMenuHandlers** key location specified in step three for adding a Move to folder context menu option. Right-click the**Copy to folder** or**Move to folder** registry key and select**Delete** . Select**Yes** when prompted to confirm you’re sure about erasing that key.
 
@@ -102,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
 ![The Extract all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extract-all-option.jpg)
 2. Press the**Browse** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Choose a suitable directory to extract the archive outside the one it downloaded to, and click the**Select Folder** option.
 4. Next, select**Show extracted files when complete** for the WinBubbles folder to automatically open after extraction.
 5. Then click**Extract** to bring up the unzipped WinBubbles folder.  
@@ -116,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
 3. Click the**Copy to** checkbox to select that option.  
 ![The Copy to option in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-checkbox.jpg)
 4. Press WinBubble’s**Apply** option when highlighted yellow.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The Apply button in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/highlighted-apply-button.jpg)
 5. A WinBubble dialog box window will appear confirming the tweaks have been saved. Click**OK** to close that message.
@@ -149,21 +129,17 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-a-beginners-guide-to-recording-video-calls-with-google-meets/"><u>[New] In 2024, A Beginner's Guide to Recording Video Calls with Google Meets</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-srt-unveiled-core-concepts-and-practical-info/"><u>[New] SRT Unveiled Core Concepts and Practical Info</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-charting-a-course-through-yts-creative-space/"><u>[Updated] Charting a Course Through YT's Creative Space</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-captivating-windows-11-visual-themes/"><u>2024 Approved Crafting Captivating Windows 11 Visual Themes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-higher-engagement-with-proven-video-tagging-methods/"><u>2024 Approved Unlock Higher Engagement with Proven Video Tagging Methods</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-honor-magic-5-lite-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Honor Magic 5 Lite to iPhone | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/o-animate-and-make-your-own-effects-for-2024/"><u>How to Animate and Make Your Own Effects for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/leverage-windows-11-features-with-github-desktop-integration/"><u>Leverage Windows 11 Features with GitHub Desktop Integration</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/master-the-tech-how-to-mirror-windows-on-your-android-smartphone-or-tablet/"><u>Master the Tech: How to Mirror Windows on Your Android Smartphone or Tablet</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-create-neon-text-like-a-pro-top-online-tools-and-resources/"><u>New In 2024, Create Neon Text Like a Pro Top Online Tools and Resources</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-ensuring-steam-recognizes-your-console-controller/"><u>Quick Fixes: Ensuring Steam Recognizes Your Console Controller</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-choosing-drawing-apps-on-win-11/"><u>The Ultimate Guide to Choosing Drawing Apps on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-resource-for-streamlined-navigation-windows-narrator-keybindings/"><u>The Ultimate Resource for Streamlined Navigation: Windows Narrator Keybindings</u></a></li>
-<li><a href="https://win11.techidaily.com/transition-to-windows-11-seamlessly-on-mac-via-parallels-pro/"><u>Transition to Windows 11 Seamlessly on Mac via Parallels Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/unfreezing-frozen-firewall-settings-in-windows-11/"><u>Unfreezing Frozen Firewall Settings in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-wallpaper-guide-incorporating-spotlight-photos/"><u>Windows Wallpaper Guide: Incorporating Spotlight Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-seamless-srt-file-sharing-across-all-social-networks/"><u>[Updated] Expert Advice Seamless SRT File Sharing Across All Social Networks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-maximizing-earnings-on-instagram-strategies-for-sponsorship-attraction/"><u>[Updated] In 2024, Maximizing Earnings on Instagram Strategies for Sponsorship Attraction</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-pristine-teaser-trailer-trove/"><u>2024 Approved Pristine Teaser Trailer Trove</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-print-functions-in-microsofts-security-shield/"><u>Implementing Print Functions in Microsoft's Security Shield</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971343448-instant-access-to-new-hp-device-drivers-download-with-ease/"><u>Instant Access to New HP Device Drivers - Download with Ease</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-in-chivalry-2-addressing-and-correcting-crashes/"><u>Mastering Stability in Chivalry 2: Addressing and Correcting Crashes</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-copy-and-paste-on-chrome-edge-and-firefox-windows/"><u>Restoring Copy & Paste on Chrome, Edge, and Firefox (Windows)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-by-step-for-secure-complimentary-vlc-installation-on-mac/"><u>Step-by-Step for Secure, Complimentary VLC Installation on Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-user-initiated-windows-screen-shift/"><u>Stopping User-Initiated Windows Screen Shift</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-averting-crashes-of-epic-games-launcher/"><u>Strategies for Averting Crashes of Epic Games Launcher</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-your-pc-experience-on-windows-11-devices/"><u>Tailoring Your PC Experience on Windows 11 Devices</u></a></li>
 </ul></div>
 

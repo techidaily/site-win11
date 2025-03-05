@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Deadly WoW Glitch on New Windows OS
-date: 2024-12-22T23:12:40.663Z
-updated: 2024-12-28T02:25:31.621Z
+date: 2025-03-04T00:54:17.073Z
+updated: 2025-03-04T22:18:31.819Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 
  The Windows 11 Settings app doesn’t include that option. However, you can access the same option within the Game Bar app. Press the **Windows** key + **G** and select **Settings** \> **Capturing** in the Game Bar. Then deselect the **Record in the background while I’m playing a game** checkbox.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Rename World of Warcraft’s Cache, WTF, and Interface Folders
 
  Renaming World of Warcraft’s **Cache**, **Interface**, and **WTF** folders will reset the game’s UI. This troubleshooting method can fix a variety of WoW issues and could also fix error 132\. This is how you can rename World of Warcraft’s **Cache**, **Interface**, and **WTF** folders:
@@ -50,23 +46,11 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 ![A screenshot of the Show In Explorer option for World of Warcraft in Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/show-in-file-explorer.jpg)
 4. Next, open either the **\_retail\_** or **\_classic\_** subfolder. For example, open the **\_classic\_** folder if you play World of Warcraft Classic or **\_retail\_** for the current version.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![A screenshot of the Retail folder in the system files for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/retail-folder.jpg)
 5. Then right-click on the **Interface** subfolder, select **Rename**, and input **InterfaceOld** for the new name.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Repeat the previous step for the **Classic** and **WTF** folders. Rename those folders to **ClassicOld** and **WTFOld**.  
 ![A screenshot of the system file options for the Cache folder for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then go back to the Battle.net software to launch World of Warcraft. The renamed folders will be recreated, which resets the UI for the World of Warcraft game. The game might initially start more slowly than usual because of that, but hopefully, you’ll be able to play it without further issues.
 
@@ -87,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 5. Input **\-d3d11legacy** inside the text box.  
 ![A screenshot of the Additional Command Line Arguments option for Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/game-settings-tab.jpg)
 6. Press **Done** to set World of Warcraft’s command line argument.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart the Blizzard software after setting this new command line argument for World of Warcraft. Then start WoW to see if this possible resolution makes a difference.
 
@@ -120,22 +100,22 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonizing-youtube-production-with-a-9-to-5-routine/"><u>[Updated] 2024 Approved Harmonizing YouTube Production with a 9-to-5 Routine</u></a></li>
-<li><a href="https://win-able.techidaily.com/breaking-new-ground-on-civ-6-a-landmark-ruling-over-an-unprecedented-access-violation-incident-of-2024/"><u>Breaking New Ground on CIV 6 - A Landmark Ruling Over an Unprecedented Access Violation Incident of 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/elusive-search-icon-techniques-for-windows-11/"><u>Elusive Search Icon Techniques for Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-diversity-best-lgbtq-streaming-options-on-netflix-this-month/"><u>Exploring Diversity: Best LGBTQ Streaming Options on Netflix This Month</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-eliminating-blemishes-in-image-downloads/"><u>In 2024, Eliminating Blemishes in Image Downloads</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-raw-footage-to-polished-videos-imovies-role-in-youtube-content-creation/"><u>In 2024, From Raw Footage to Polished Videos IMovie's Role in YouTube Content Creation</u></a></li>
-<li><a href="https://win11.techidaily.com/instantaneous-implementation-microsoft-works-for-windows-10plus/"><u>Instantaneous Implementation: Microsoft Works for Windows 10+</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-unrealcefsubprocess-for-lower-cpu-and-memory-usage/"><u>Optimizing UnrealCEFSubprocess for Lower CPU and Memory Usage</u></a></li>
-<li><a href="https://win11.techidaily.com/reverting-custom-sort-and-group-order-of-files/"><u>Reverting Custom Sort and Group Order of Files</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/revolutionize-mobile-broadcasting-integrating-obs-studio-into-android-for-2024/"><u>Revolutionize Mobile Broadcasting Integrating OBS Studio Into Android for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-spotify-on-windows-startup-by-default/"><u>Stop Spotify on Windows Startup by Default</u></a></li>
-<li><a href="https://win11.techidaily.com/top-six-strategies-to-scale-your-photos-on-windows-11-effectively/"><u>Top Six Strategies to Scale Your Photos on Windows 11 Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-secrets-fixing-windows-remote-desktop-errors/"><u>Unlocking Secrets: Fixing Windows Remote Desktop Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-speech-technology-navigating-shortcuts-on-win-11/"><u>Unlocking Speech Technology: Navigating Shortcuts on Win 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-success-with-an-ai-chatbot-navigate-through-the-top-7-decisive-factors-for-subscription/"><u>Unlocking Success with an AI Chatbot: Navigate Through The Top 7 Decisive Factors for Subscription</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/user-experience-insights-on-imo-instant-chat-platform/"><u>User Experience Insights on Imo Instant Chat Platform</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-liveaction-gaming-diary/"><u>[New] In 2024, LiveAction Gaming Diary</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-ranking-of-free-easy-to-use-image-overlay-apps-on-smartphones-for-2024/"><u>[New] Ranking of Free, Easy-to-Use Image Overlay Apps on Smartphones for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-transform-your-mobile-broadcasting-top-tips-in-obs-studio-for-2024/"><u>[New] Transform Your Mobile Broadcasting Top Tips in OBS Studio for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unleash-your-devices-full-potential-capture-and-store-youtube-streams-flawlessly-for-2024/"><u>[Updated] Unleash Your Device's Full Potential Capture and Store YouTube Streams Flawlessly for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unlocking-creativity-your-steps-toward-a-thriving-design-career-for-2024/"><u>[Updated] Unlocking Creativity Your Steps Toward a Thriving Design Career for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/44cm44ot44oh44kq44ks6z2z5q2i55s744gr44gz44kl44gf44kb44gu44ox44os44of44ki44ox44ot5aplusplus5bplusc5pu444gn5ye644gx5pa55rov44cn/"><u>「ビデオを静止画にするためのプレミアプロ対応書き出し方法」</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-x-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone X to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/becoming-a-closed-captioning-guru-windows-10-insights/"><u>Becoming a Closed Captioning Guru: Windows 10 Insights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-revo-uninstaller-alternatives-for-modifying-system-configuration-in-windows-11/"><u>Expert Advice: Revo Uninstaller Alternatives for Modifying System Configuration in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/faster-teams-cleaner-systems-microsofts-pivot/"><u>Faster Teams, Cleaner Systems: Microsoft's Pivot</u></a></li>
+<li><a href="https://win11.techidaily.com/from-boring-to-stunning-switching-themes-in-windows-11-made-simple/"><u>From Boring to Stunning: Switching Themes in Windows 11 Made Simple</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-minecraft-a-step-by-step-guide-to-utilizing-the-teleport-feature/"><u>Mastering Minecraft: A Step-by-Step Guide to Utilizing the Teleport Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-no-more-space-files-issue/"><u>Overcoming 'No More Space' Files Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-mbs-service-connection-failures-on-windows-11/"><u>Solving MB's Service Connection Failures on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-windows-geforce-scanning-problems-effectively/"><u>Tackle Windows GeForce Scanning Problems Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steps-for-quickly-resolving-operation-requirement-errors/"><u>Troubleshooting Steps for Quickly Resolving Operation Requirement Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-distinctions-of-windows-terminal-vs-powershell/"><u>Unraveling The Distinctions of Windows Terminal Vs. PowerShell</u></a></li>
 </ul></div>
 

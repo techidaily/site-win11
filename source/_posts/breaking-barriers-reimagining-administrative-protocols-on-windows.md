@@ -1,7 +1,7 @@
 ---
 title: "Breaking Barriers: Reimagining Administrative Protocols on Windows"
-date: 2024-08-08T13:12:59.977Z
-updated: 2024-08-09T13:12:59.977Z
+date: 2025-02-27T18:05:20.587Z
+updated: 2025-03-04T23:28:09.057Z
 tags:
   - windows10
   - windows11
@@ -35,16 +35,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
  Now that you're familiar with the UAC behaviors for administrators, let’s see how to change them.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Changing UAC Behavior for Administrators in the Local Group Policy Editor
 
  To change the UAC behavior for admins using the Local Group Policy Editor (LGPE), start by pressing **Win + R**, typing **gpedit.msc** in Windows Run, and hitting the **Enter** key to [open the LGPE on Windows](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Gpedit In Run Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Gpedit-In-Run-Menu.jpg)
 
  In the left panel, navigate to **Configuration > Windows Settings > Security Settings > Local Policies > Security Options**. In the right panel, double-click the **User Account Control: Behavior of the elevation prompt for administrators in Admin Approval Mode** policy to access its **Properties** window.
@@ -53,23 +47,14 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
  Click on the dropdown and select the UAC behavior you want.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Editing the UAC behavior for admin policy in the Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/editing-uac-behavior-admin-policy-local-group-policy-editor.jpg)
 
  To apply and save the changes, click on **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Changing UAC Behavior for Administrators in the Registry Editor
 
  To change the UAC behavior for administrators using the Registry Editor, start by pressing **Win + R**, typing **regedit** in Windows Run, and hitting the **Enter** key.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Regedit in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/regedit-11-2.jpg)
 
  In the UAC prompt, click **Yes** to [open the Registry Editor on Windows](https://www.makeuseof.com/windows-11-local-security-policy/).
@@ -93,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
  So, if you were to, for example, change it to **Prompt for credentials**, you’d enter **3** in the **Value data** text box.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Editing the ConsentPromptBehaviorAdmin value in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/editing-consentpromptbehavior-value-registry-editor.jpg)
 
  Then, click **OK** to apply and save the changes.
@@ -109,12 +90,28 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  As an administrator, you can change how UAC behaves. In this guide, we’re going to show you how to do that using the Local Group Policy Editor and Registry Editor.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/cclaimed-storytellers-with-photo-audio-symphony/"><u>[New] Acclaimed Storytellers with Photo-Audio Symphony</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-androids-secret-weapon-for-stunning-time-lagged-footage-for-2024/"><u>[Updated] Android's Secret Weapon for Stunning Time-Lagged Footage for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitpic-saver-streamline-ios-video-downloads-from-tweets/"><u>[Updated] TwitPic Saver Streamline iOS Video Downloads From Tweets</u></a></li>
+<li><a href="https://win-docs.techidaily.com/creating-a-successful-online-boutique-with-massmail-a-step-by-step-guide/"><u>Creating a Successful Online Boutique with MassMail: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-the-error-when-amd-radeon-software-does-not-open/"><u>How To Resolve The Error When AMD Radeon Software Does Not Open</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/navigating-your-first-stride-into-snapseed-land-for-2024/"><u>Navigating Your First Stride Into Snapseed Land for 2024</u></a></li>
+<li><a href="https://techidaily.com/new-windows-11-update-allows-integration-of-smartphone-images/"><u>New Windows 11 Update Allows Integration of Smartphone Images</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-freeze-in-the-epic-launcher-on-windows-pcs/"><u>Overcoming Freeze in the Epic Launcher on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/revival-strategies-for-net-on-your-pc-max-156/"><u>Revival Strategies for .NET on Your PC (Max 156)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-a-dead-laptop-mouse-effective-solutions-for-stuck-or-non-responsive-usb-devices/"><u>Revive a Dead Laptop Mouse: Effective Solutions for Stuck or Non-Responsive USB Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/safari-tab-management-on-macos-monterey-enabling-self-destruct-feature-for-efficient-browsing/"><u>Safari Tab Management on macOS Monterey: Enabling Self-Destruct Feature for Efficient Browsing</u></a></li>
+<li><a href="https://win11.techidaily.com/scheme-for-activatingdeactivating-setup-service-on-pcs/"><u>Scheme for Activating/Deactivating Setup Service on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/the-window-to-your-digital-past-file-history-guide/"><u>The Window to Your Digital Past: File History Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-mysteries-of-windows-group-policies-3-different-perspectives/"><u>Unlocking the Mysteries of Windows Group Policies: 3 Different Perspectives</u></a></li>
+</ul></div>
 

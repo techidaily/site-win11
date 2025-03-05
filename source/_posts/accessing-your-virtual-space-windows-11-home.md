@@ -1,7 +1,7 @@
 ---
 title: "Accessing Your Virtual Space: Windows 11 Home"
-date: 2024-08-08T13:15:36.716Z
-updated: 2024-08-09T13:15:36.716Z
+date: 2025-02-26T20:44:18.616Z
+updated: 2025-03-04T23:43:15.710Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/e3cfe2024e8223233dca02c9346a88bd3c9122571
 
  However, it isn't just a cosmetic change because many utilities and Control Panel items are migrated to the Settings app. Microsoft also released a different version of the Settings app which incorporates a new Home section and a layout that will help you access the most commonly used settings. Let’s learn how to enable it on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## What's Wrong With the Old Settings App?
 
  The old Settings app directly opens the System section when you launch it. This section contains the most common settings like Display, Sound, Storage, Troubleshooting, and more. But you will still have to use the left side menu to access common settings such as Network, Personalization, Bluetooth, One Drive, and more.
@@ -33,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/e3cfe2024e8223233dca02c9346a88bd3c9122571
 
  The new Home section brings all the common settings under one roof, so the users don't have to dive deep into the Settings app to change a network or personalization setting.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Enable the Home Section in the Settings App
 
  Repeat the following steps to enable and use the Home section in the Settings App:
@@ -50,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/e3cfe2024e8223233dca02c9346a88bd3c9122571
 
  After the download completes, navigate to the download location using File Explorer and extract the contents of the archive to a folder named "**Vive**". Move the folder containing the Vivetool to the **C** drive.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Enable the Home Section in the Settings App
 
  After updating your Windows PC and installing Vivetool, repeat the following steps:
@@ -70,9 +61,6 @@ vivetool /enable /id:42058313`
 ![Enable the New Home Section in the Settings App 2-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-the-new-home-section-in-the-settings-app-2-1.jpg)
 8. **Restart** your PC to apply the changes made by the Vivetool in the Settings app.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Does the Enhanced Settings App Look Like?
 
  We compared the experimental and the old Settings app, and there are a few noticeable changes. For example, you automatically land on the Home section every time you open the enhanced Settings app.
@@ -85,23 +73,15 @@ vivetool /enable /id:42058313`
 
  If you haven’t completed a crucial security setup for your Microsoft account, you will see a reminder on the Home Page. Apart from that, Microsoft brazenly promotes its Microsoft service as a separate card. You cannot rearrange or remove tiles, so you are stuck with the layout and the promotional stuff from Microsoft.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![New home section in the settings app-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-home-section-in-the-settings-app-1.jpg)
 
  Still, it is a much-needed overhaul from the existing Settings app, which will improve the overall user experience. Microsoft is also trying out a Home section in the File Explorer app.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## A Revamped Settings App on Windows
 
  Microsoft’s take on the new Home section in the Settings app is a change we would definitely want to see in the stable builds in the upcoming months. But there are major changes arriving to the File Explorer and other Windows apps like the Photos app which recently got an update to support the dark mode and some zoom and usability improvements.
 
  However, it isn't just a cosmetic change because many utilities and Control Panel items are migrated to the Settings app. Microsoft also released a different version of the Settings app which incorporates a new Home section and a layout that will help you access the most commonly used settings. Let’s learn how to enable it on your PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -109,4 +89,27 @@ vivetool /enable /id:42058313`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-youtube-power-with-insights-from-creator-studio/"><u>[New] Unlock YouTube Power with Insights From Creator Studio</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-samsung-galaxy-s23-ultra-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Samsung Galaxy S23 Ultra to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-rectifying-iphone-image-issues-in-windows/"><u>Essential Tips for Rectifying iPhone Image Issues in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-streamlining-browsing-with-lowered-process-count/"><u>Guide to Streamlining Browsing with Lowered Process Count</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hdr-mastery-the-complete-sdr-to-hdr-transformation/"><u>HDR Mastery The Complete SDR-to-HDR Transformation</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-tecno-pova-5-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Tecno Pova 5 Phone? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-saving-snaps-from-snapchat-on-camera-roll-a-guide/"><u>In 2024, Saving Snaps From Snapchat on Camera Roll – A Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-error-resolution-for-anydesk-windows/"><u>Mastering Error Resolution for AnyDesk Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/onedrive-errors-unveiled-and-solved-for-w11-users/"><u>OneDrive Errors Unveiled & Solved for W11 Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/rehacer-y-mejorar-tus-fotos-con-inteligencia-artificial-de-winxvideo-a-ultra-alta-definicion-4k8k10k/"><u>Rehacer Y Mejorar Tus Fotos Con Inteligencia Artificial De Winxvideo a Ultra Alta Definición 4K/8K/10K</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/review-expose-on-netgears-advanced-x6-wifi-mesh-enhancer-a-deep-dive-into-its-innovative-traits/"><u>Review Exposé on Netgear's Advanced X6 Wifi Mesh Enhancer – A Deep Dive Into Its Innovative Traits</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-crafting-your-own-speech-to-text-app-with-windows/"><u>Step-by-Step Guide to Crafting Your Own Speech-to-Text App with Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-and-optimize-your-windows-lockscreen-settings/"><u>Streamline and Optimize Your Windows Lockscreen Settings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-non-apple-non-tile-wallet-airtag-reviews-discover-alternatives-that-excel/"><u>Top-Rated Non-Apple, Non-Tile Wallet AirTag Reviews: Discover Alternatives That Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-repairing-the-application-was-unable-error-code/"><u>Understanding and Repairing The Application Was Unable Error Code</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-optimal-performance-with-easy-directx-downloads-and-updates/"><u>Unlock Optimal Performance with Easy DirectX Downloads & Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-setting-up-guide/"><u>Windows 11 Setting Up Guide</u></a></li>
+</ul></div>
 

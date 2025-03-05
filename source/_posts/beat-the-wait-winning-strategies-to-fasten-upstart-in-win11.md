@@ -1,7 +1,7 @@
 ---
 title: "Beat The Wait: Winning Strategies to Fasten Upstart in Win11"
-date: 2024-08-08T13:16:02.430Z
-updated: 2024-08-09T13:16:02.430Z
+date: 2025-02-26T23:46:31.570Z
+updated: 2025-03-04T22:21:16.043Z
 tags:
   - windows10
   - windows11
@@ -41,59 +41,37 @@ thumbnail: https://thmb.techidaily.com/4285b91a5eec460b353e6cabe3924d845457ea4dd
  To enable Fast Startup mode on Windows 11, you’ll need to complete the steps below:
 
 1. We first need to ensure Hibernation mode is enabled on the Windows 11 system. To do that, right-click on the**Start** menu and select**Terminal (Admin)** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![enable hibernation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-hibernation.jpg)
 2. Within the Terminal window, type the below command and hit enter to turn on the Hibernate mode:  
 `Powercfg -h on`
 3. Launch the**Control Panel** via the**Start** menu.
 4. Navigate to**System and Security > Power Options** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![power plans in control-panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/powerplans-control-panel.jpg)
 5. From the left sidebar menu, select**Choose what the power button does** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![enable-fast-startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-fast-startup.jpg)
 6. Select**Change settings that are currently available** .
 7. Under**Shutdown settings** , check the**Turn on fast startup (recommended) option** .
 8. Finally, select**Save changes** and restart your PC to see Fast Startup in action.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## 3\. Upgrade Hardware
 
  Hardware upgrades are one certain way of making your PC boot faster. SSD and RAM upgrades can make your Windows 11 PC boot as quickly as a brand-new PC, which is relatively inexpensive (compared to a new PC).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Samsung T3 SSD on a MacBook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/protect-external-hard-drive.jpg)
 
  SSDs are much faster than traditional HDDs but can be a bit pricey. An SSD will ensure fast bootup and overall smoother system performance, so we highly recommend upgrading to an SSD (you can also consider [replacing a laptop's DVD drive with an SSD](https://www.makeuseof.com/tag/swap-laptop-dvd-drive-ssd-hdd/) ).
 
  If an SSD seems a little out of budget, you should at least upgrade your RAM. For systems currently running 4GB RAM, consider upgrading to at least 8GB RAM.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Start Your Windows 11 PC Faster
 
  Windows 11 is excellent but can have performance issues on older PCs. We recommend disabling unnecessary startup programs and enabling the Fast Startup mode. However, upgrading to an SSD is the best way to speed up the boot process. Alternatively, you can disable unnecessary Windows services to help your PC boot faster.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -102,6 +80,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-ultimate-phone-for-4k-enthusiasts-sony-xperia-xz/"><u>[Updated] 2024 Approved The Ultimate Phone for 4K Enthusiasts - Sony Xperia XZ</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-leading-edge-asmr-audio-gear-without-breaking-the-bank/"><u>[Updated] Leading-Edge ASMR Audio Gear Without Breaking the Bank</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-video-masterclass-crafting-youtube-trailers-using-filmora/"><u>2024 Approved Video Masterclass Crafting YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/458127-9780307426758-astrology-for-the-soul/"><u>Astrology for the Soul | Free Book</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-xiaomi-redmi-note-12-pro-4g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Xiaomi Redmi Note 12 Pro 4G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-index-tuning-on-windows-os/"><u>Exploring Index Tuning on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-installer-has-insufficient-privileges-error-on-windows-1110/"><u>How to Fix “The Installer Has Insufficient Privileges” Error on Windows 11/10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-file-alignment-errors-on-windows-drives/"><u>Repairing File Alignment Errors on Windows Drives</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-icons-in-windows-without-dismantling-system-files/"><u>Resetting Icons in Windows Without Dismantling System Files</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-software-glitches-efficiently-7-methods/"><u>Resolving Windows Software Glitches Efficiently (7 Methods)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-video-invitation-apps-for-iphone-and-android/"><u>The Ultimate Guide to Video Invitation Apps for iPhone and Android</u></a></li>
+</ul></div>
 

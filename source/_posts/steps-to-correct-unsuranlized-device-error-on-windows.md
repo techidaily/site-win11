@@ -1,7 +1,7 @@
 ---
 title: Steps to Correct Unsuranlized Device Error on Windows
-date: 2025-02-08T17:13:12.607Z
-updated: 2025-02-15T20:11:36.853Z
+date: 2025-03-04T04:22:21.523Z
+updated: 2025-03-05T03:20:07.407Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are the Reasons Behind the Error Message?
 
  You can see the “Format Disk in drive” message due to one or more of the following reasons:
@@ -39,19 +35,11 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 4. Core system files have gone missing or corrupt.
 5. A third-party app is conflicting with system apps and services.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Methods to Fix the “You Need to Format the Disk in Drive Before You Can Use It” Error
 
  Try out the following methods to fix the disk error message and save your data stored on it:
 
 ###
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Check the USB Drive
 
@@ -95,10 +83,6 @@ Repeat the following steps:
 
  It is possible for the USB disk to contain bad files and sectors; due to which Windows asks you to format it before usage. But you can leverage the inbuilt CHKDSK utility to scan the USB disk for errors and fix them for you. It will scan all the files on the disk and repair the drive. You can either use the[command prompt method or Run CheckDisk](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) using the Properties window in File Explorer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Run an SFC and DISM Scan
 
  If the check disk doesn’t do any good, and you still have the error, it is possible that your system files are missing or corrupt.[Start with an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) to check and replace any corrupt system files. Follow that up with a[DISM scan to fix the Windows installation image](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) . Make sure you have an active internet connection to run the DISM scan without any issues.
@@ -117,10 +101,6 @@ Repeat the following steps:
 5. Click on the USB disk name in the navigation pane to open it. Now, you can copy these files to another location on your hard drive or an external hard disk.
 
 6. After you finish copying the contents of the USB disk, click on the power icon and choose the Power off option to close the Try Ubuntu mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Try Generic Fixes for Drive Formatting Issues
 
@@ -155,24 +135,21 @@ Repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-choosing-free-video-editing-software-on-iphone-and-ipad/"><u>[Updated] In 2024, Choosing Free Video Editing Software on iPhone & iPad</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-easing-into-frame-focus/"><u>[Updated] In 2024, Easing Into Frame Focus</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ilblazers-guide-youtube-studio-location-unveiled-for-2024/"><u>A Trailblazer’s Guide YouTube Studio Location Unveiled for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-new-edge-10-tailored-enhancements/"><u>ChatGPT's New Edge: 10 Tailored Enhancements</u></a></li>
-<li><a href="https://win11.techidaily.com/connecting-windows-registrations-to-microsoft-services/"><u>Connecting Windows Registrations to Microsoft Services</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-gaming-experience-conquer-stuttering-in-warhammer-40k/"><u>Elevate Your Gaming Experience: Conquer Stuttering in Warhammer 40K</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-honor-magic-6-lite-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Honor Magic 6 Lite Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-note-30-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Infinix Note 30 Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-smart-8-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Smart 8 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/making-the-most-of-windows-11-a-desktop-widget-walkthrough/"><u>Making the Most of Windows 11: A Desktop Widget Walkthrough</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-optimization-essential-techniques-for-your-windows-system/"><u>Mastering Optimization: Essential Techniques for Your Windows System</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-through-common-snip-and-sketch-screen-capture-issues/"><u>Navigate Through Common Snip & Sketch Screen Capture Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-common-errors-conquering-access-denied-on-windows-11/"><u>Navigating Common Errors: Conquering 'Access Denied' On Windows 11</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/premier-seminar-title-inventor-suite/"><u>Premier Seminar Title Inventor Suite</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-the-process-of-uac-picture-taking/"><u>Streamlining the Process of UAC Picture Taking</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-edge-40-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Edge 40 fingerprint</u></a></li>
-<li><a href="https://win11.techidaily.com/win-os-troubleshooting-guide-for-bluetooth-pairing-woes/"><u>Win OS Troubleshooting Guide for Bluetooth Pairing Woes</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-design-customization-stick-this-pc-icons/"><u>Windows Design Customization: Stick 'This PC' Icons</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-art-of-creating-compelling-youtube-video-outlines/"><u>[New] The Art of Creating Compelling YouTube Video Outlines</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-forget-your-finstas-quickly-iosandroid-advice/"><u>[Updated] Forget Your Finstas Quickly IOS/Android Advice</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/choosing-excellence-a-buyers-guide-to-premium-rechargeable-battery-chargers-available-in-2/"><u>Choosing Excellence: A Buyer's Guide to Premium Rechargeable Battery Chargers Available in 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-best-budget-iphone-iphone-14-plus-offers-endless-power-and-more-features-techreviewz/"><u>Discover the Best Budget iPhone - iPhone 14 Plus Offers Endless Power & More Features! | TechReviewZ</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/enhance-visibility-on-instagram-the-art-of-animated-texts-in-stories-for-2024/"><u>Enhance Visibility on Instagram The Art of Animated Texts in Stories for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-routines-for-elevating-virtual-memory-settings-on-windows-11/"><u>Essential Routines for Elevating Virtual Memory Settings on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-bring-back-photo-viewer-in-modern-windows-1111/"><u>How to Bring Back Photo Viewer in Modern Windows 11/11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-7-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 7 To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uncovering-the-currency-behind-product-discussions/"><u>In 2024, Uncovering the Currency Behind Product Discussions</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-and-effective-fixes-for-common-windows-bsod/"><u>Quick & Effective Fixes for Common Windows BSOD</u></a></li>
+<li><a href="https://win11.techidaily.com/reconfiguring-lockout-limit-after-incorrect-login-efforts-in-windows-1011/"><u>Reconfiguring Lockout Limit After Incorrect Login Efforts in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-directory-not-empty-issue-with-error-code-0x80070091-in-windows-11/"><u>Rectifying Directory Not Empty Issue with Error Code: 0X80070091 in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-full-picture-of-palworld/"><u>The Full Picture of PalWorld</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-tutorial-on-adding-lyric-display-feature-via-plugin-in-windows-media-player/"><u>Ultimate Tutorial on Adding Lyric Display Feature via Plugin in Windows Media Player</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-power-of-notation-in-windows-11s-explorer/"><u>Unveiling the Power of Notation in Windows 11'S Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/winsec-fix-overcoming-limited-admin-access-alert/"><u>WinSec Fix: Overcoming 'Limited Admin Access' Alert</u></a></li>
 </ul></div>
 

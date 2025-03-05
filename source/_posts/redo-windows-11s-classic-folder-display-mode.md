@@ -1,7 +1,7 @@
 ---
 title: Redo Windows 11'S Classic Folder Display Mode
-date: 2025-01-02T18:23:01.456Z
-updated: 2025-01-06T20:53:19.778Z
+date: 2025-02-26T22:47:22.812Z
+updated: 2025-03-05T00:44:33.094Z
 tags:
   - windows10
   - windows11
@@ -23,17 +23,9 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Reset Folder View Settings to Default on Windows
 
  There are three ways to reset your Folder View Settings to the default view. The first method is to run a batch file, the second using File Explorer, whereas the third and final method involves tweaking the registry editor. This post explains each method in detail. Let's dive into it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Run a Batch File to Reset Folder View Settings to Default
 
@@ -69,10 +61,6 @@ start explorer.exe`
 ![Run a Batch File to Reset Folder View Settings to Default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-a-batch-file-to-reset-folder-view-settings-to-default.jpg)
 7. From the left pane, select**Desktop** as the location.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Then click**Save** and close the text editor window.
 9. Finally, double-click the batch file you created, and it will reset your Folder View Settings to the default view.
 
@@ -89,10 +77,6 @@ start explorer.exe`
 
  This will reset your Folder View Settings to Windows' default settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Reset Folder View Settings to Default Using Registry Editor
 
  The last method to reset Folder View settings involves using the Windows Registry Editor. You should only use this method if you are an experienced user and know how it works, since messing with its keys could cause serious problems. To avoid data loss, you must[create a registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before continuing.
@@ -106,10 +90,6 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
 4. In the left sidebar, right-click on the**BagMRU** folder and select**Delete.**  
 ![Reset Folder View Settings to Default Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-folder-view-settings-to-default-using-registry-editor.jpg)
 5. Click**Yes** when asked to confirm your action.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Similarly, delete the**Bags** folder and close the Registry window.
 
@@ -134,17 +114,19 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-picture-perfect-the-essential-photo-editing-tools-for-2024/"><u>[New] Picture Perfect The Essential Photo Editing Tools for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-full-degree-potential-editing-strategies-with-adobe-premiere/"><u>[Updated] Unlocking Full Degree Potential Editing Strategies with Adobe Premiere</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-fixing-device-casting-glitches-in-windows-11/"><u>Comprehensive Guide to Fixing Device Casting Glitches in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/deleting-default-browser-configuration-in-w11/"><u>Deleting Default Browser Configuration in W11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-make-the-most-out-of-windows-10-on-older-pcs/"><u>How to Make the Most Out of Windows 10 on Older PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-tackle-windows-error-0x80370102-in-wsl-setup/"><u>Strategies to Tackle Windows Error 0X80370102 in WSL Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/the-power-of-pictures-notetaking-with-obsidian/"><u>The Power of Pictures: Notetaking with Obsidian</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-empfohlene-serie-und-filmwunschliste-fur-kostenloses-streamen-im-internet/"><u>Top-Empfohlene Serie Und Filmwunschliste Für Kostenloses Streamen Im Internet</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-the-purpose-of-yourphoneexe-in-windows-os/"><u>Understanding the Purpose of YourPhone.exe in Windows OS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-potential-with-chatgpts-wellbee-planning-tips/"><u>Unlock Potential with ChatGPT's Wellbee Planning Tips</u></a></li>
-<li><a href="https://win-popular.techidaily.com/1728501810918-usb/"><u>USBメモリ同士をコピーする究極ガイド – 始めから完璧に学べます!</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-artist-wondershare-virbo-glossary-for-2024/"><u>What Is an AI Artist? | Wondershare Virbo Glossary for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-hydro-durable-cams-of-the-week-7-edition-revealed/"><u>[New] 2024 Approved Hydro-Durable Cams of the Week – #7 Edition Revealed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-x-transcription-software-pc/"><u>[Updated] In 2024, X-Transcription Software PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-mega-discount-on-lifetime-licensed-macx-dvd-ripper-pro-grab-the-authorized-deal-now/"><u>1. Mega Discount on Lifetime Licensed MacX DVD Ripper Pro: Grab the [AUTHORIZED] Deal Now!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-scrutinizing-the-most-accessible-affordable-lut-collections/"><u>2024 Approved Scrutinizing the Most Accessible, Affordable LUT Collections</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/advanced-aluminum-befree-tripod-professional-quality/"><u>Advanced Aluminum BeFree Tripod: Professional Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-free-from-windows-11-and-10s-s-mode/"><u>Breaking Free From Windows 11 and 10'S S Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/hiding-archives-within-pictures-techniques-for-windows-users/"><u>Hiding Archives Within Pictures: Techniques for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11s-seamless-program-deployment/"><u>Navigating Windows 11'S Seamless Program Deployment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-technology-insights-from-toms-digital-workshop/"><u>Pioneering Technology Insights From Tom's Digital Workshop</u></a></li>
+<li><a href="https://win11.techidaily.com/quantify-windows-computer-power-usage-for-optimization/"><u>Quantify Windows Computer Power Usage for Optimization</u></a></li>
+<li><a href="https://win11.techidaily.com/revealing-how-ai-pcs-outperform-standard-computers/"><u>Revealing How AI PCs Outperform Standard Computers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-the-economical-lenovo-tab-4-and-its-constraints/"><u>Review: The Economical Lenovo Tab 4 and Its Constraints</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sync-your-speech-with-chatgpts-ai-response-system/"><u>Sync Your Speech with ChatGPT's AI Response System</u></a></li>
+<li><a href="https://win11.techidaily.com/unblock-your-pcs-usb-troubleshooting-guide-for-windows-users/"><u>Unblock Your PC's USB: Troubleshooting Guide for Windows Users</u></a></li>
 </ul></div>
 

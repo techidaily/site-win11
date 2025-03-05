@@ -1,7 +1,7 @@
 ---
 title: Activating Windows Media Player for a Streamlined Start
-date: 2024-08-08T13:13:26.031Z
-updated: 2024-08-09T13:13:26.031Z
+date: 2025-02-28T01:41:29.938Z
+updated: 2025-03-05T02:17:53.304Z
 tags:
   - windows10
   - windows11
@@ -23,9 +23,6 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
  If you're seeking information about how to open Windows Media Player on your computer, the Windows Search tool is a good place to start. To open Windows Media Player using the search tool, do the following:
 
 1. Press**Win + Q** on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![Open Windows Media Player Using Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-search-tool.jpg)
 2. From here, type “**Windows Media Player Legacy** ” into the search bar.
 
@@ -51,9 +48,6 @@ To open Windows Media Player using Task Manager, follow these steps:
 1. First, press the**Ctrl + Shift + Esc** keys simultaneously on your keyboard.
 2. In the Task Manager window, click on**More details** if necessary.
 3. Click**Run new task** at the top of the page.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Windows Media Player Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-task-manager.jpg)
 4. Now in the text box, type**wmplayer.exe** and press Enter on your keyboard.
 
@@ -66,10 +60,6 @@ To open Windows Media Player using Task Manager, follow these steps:
 1. Right-click on Start and select**File Explorer** or press**Win + E** on your keyboard. This will open the File Explorer window.
 2. From there, go to the address bar, type**wmplayer.exe** , and hit**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## 5\. How to Open Windows Media Player With the Start Menu
 
  The Start menu works as a central hub on your computer from where you can access the files and programs you have installed. To open Windows Media Player from the Start Menu, follow these steps:
@@ -80,18 +70,6 @@ To open Windows Media Player using Task Manager, follow these steps:
 ![Open Windows Media Player Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-control-panel.jpg)
 4. Double-click**Windows Media Player Legacy** on the next page.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. How to Open Windows Media Player Using Control Panel
 
  The Control Panel is a feature on Windows that allows you to access and manage system settings easily. With the help of this tool, you can access almost any application you have installed.
@@ -104,9 +82,6 @@ To open Windows Media Player using Task Manager, follow these steps:
 ![Open Windows Media Player Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-control-panel.jpg)
 4. Now double-click**Windows Media Player Legacy** to launch the tool.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. How to Open Windows Media Player With a Desktop Shortcut
 
  Creating a desktop shortcut for Windows Media Player is one of the most convenient and efficient ways to start playing audio and video files. This can be very useful if you frequently open the Windows Media Player application on your computer. This way, you can quickly access the application without having to search your hard drive or a search engine.
@@ -135,30 +110,21 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
 
 1. Make a Windows Media Player shortcut as per method number seven.
 2. Right-click on the shortcut icon and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create Shortcut key for Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-shortcut-key-for-windows-media-player.jpg)
 3. Type any letter or number in the shortcut field.
 4. Next, click**Apply > OK** to save the changes
 
  Once you have done so, just press Ctrl + Alt and type the letter or number you chose. Just remember to keep the desktop shortcut around; if you ever delete it, it'll take down the keyboard shortcut with it.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Media Player Is Now at Your Fingertips
 
  After reading this article, you should now be familiar with nine different ways that you can use to open Windows Media Player on your Windows operating system. Try them out and choose the one that works for you.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -167,6 +133,22 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-10-free-instagram-story-viewers-to-watch-instagram-stories-anonymously/"><u>[New] In 2024, 10 FREE Instagram Story Viewers to Watch Instagram Stories Anonymously</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-guided-approach-to-saving-exact-youtube-segments/"><u>2024 Approved Guided Approach to Saving Exact YouTube Segments</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-xiaomi-redmi-note-13-pro-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Xiaomi Redmi Note 13 Pro 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-synaptics-driver-installation-and-updates-on-windows-step-by-step-guide/"><u>Easy Synaptics Driver Installation & Updates on Windows - Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-virtual-quest-a-jaunt-vr-exploration/"><u>In 2024, The Virtual Quest A Jaunt VR Exploration</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/key-commands-to-access-your-pcs-diagnostic-center/"><u>Key Commands to Access Your PC's Diagnostic Center</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solution-for-fixing-the-perplexing-nmi-hardware-failure-blue-screen-error/"><u>Step-by-Step Solution for Fixing the Perplexing NMI Hardware Failure Blue Screen Error</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-unrecognized-hdd-issues-a-guide-for-users-win-11-edition/"><u>Steps to Resolve Unrecognized HDD Issues: A Guide for Users, Win 11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-your-desktop-environment-powertoy-driven-snap-layouts/"><u>Tailoring Your Desktop Environment: PowerToy-Driven Snap Layouts</u></a></li>
+<li><a href="https://win11.techidaily.com/telnet-setup-simplified-for-win11-computers/"><u>Telnet Setup Simplified for Win11 Computers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-honor-x9b-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Honor X9b Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-league-of-legends-disconnects-in-windows/"><u>Troubleshooting League of Legends Disconnects in Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-black-battery-compatibility-with-gopro-hero5/"><u>Ultimate Black Battery Compatibility with GoPro Hero5</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-smooth-internet-access-in-your-windows-applications/"><u>Unlock Smooth Internet Access in Your Window's Applications</u></a></li>
+</ul></div>
 

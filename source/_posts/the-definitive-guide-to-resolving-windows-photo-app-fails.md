@@ -1,7 +1,7 @@
 ---
 title: The Definitive Guide to Resolving Windows Photo App Fails
-date: 2024-12-22T19:28:58.741Z
-updated: 2024-12-28T02:15:37.538Z
+date: 2025-02-28T21:50:18.415Z
+updated: 2025-03-04T20:14:47.947Z
 tags:
   - windows10
   - windows11
@@ -66,16 +66,8 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 ![Windows Camera Frame Server Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-camera-frame-server-service.jpg)
 4. Repeat the same steps to restart the **Windows Camera Frame Server Monitor** as well as the **Windows Image Acquisition (WIA)** service.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows Camera Frame Server Monitor Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-camera-frame-server-monitor-service.jpg)
 5. After you start all the given services, restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hopefully, now the Camera app should work as normally it would. You can try clicking a picture or recording a quick video for testing.
 
@@ -101,22 +93,10 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 ![Camera Group Policy Setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-group-policy-setting.jpg)
 4. Then choose the **Enabled** option and click on **OK** to apply the selected settings.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Camera Properties In Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-properties-in-group-policy.jpg)
 5. Similarly, go to **App Privacy** under **Windows Components** and enable the **Let Windows apps access the camera** setting.  
 
 ![Group Policy Editor App Privacy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/group-policy-editor-app-privacy-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Use the "Get Help" App for Troubleshooting
 
@@ -132,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 ![Get Help App Questions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/get-help-app-questions.jpg)
 3. After the last question, restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The best thing about Get Help is that it automatically performs the required troubleshooting measures. You need not do anything technical on your own. Besides the camera app issue, learn [what you can do with the Get Help app](https://www.makeuseof.com/troubleshooters-get-help-app-windows/).
 
 ## 7\. Repair or Reset the Windows Camera App
@@ -150,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 3. Scroll till the end and click the **Repair** option.  
 ![Repair Camera App Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/repair-camera-app-option.jpg)
 4. Once you see the tick or check mark, click on **Reset** to reinstall a fresh copy of the app and wipe all previous data and settings.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Reset Camera App Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/reset-camera-app-option.jpg)
 5. After a reset, reopen the Camera app and check for the issue you were facing earlier.
@@ -186,21 +158,18 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-best-investment-selecting-the-top-5-pro-drones-for-2024/"><u>[Updated] Best Investment - Selecting the Top 5 Pro Drones for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-harmonizing-audio-with-visuals-in-the-webspace/"><u>[Updated] In 2024, Harmonizing Audio with Visuals in the Webspace</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-the-perfect-timepiece-comparing-apple-watch-ultra-and-apple-watch-series-8-your-definitive-guide/"><u>Choosing the Perfect Timepiece: Comparing Apple Watch Ultra and Apple Watch Series 8 - Your Definitive Guide</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/convertir-imagenes-tiff-y-jpg-sin-costo-guia-simple/"><u>Convertir Imágenes TIFF Y JPG Sin Costo: Guía Simple</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/curing-virtual-disk-service-crash-on-windows-systems/"><u>Curing Virtual Disk Service Crash on Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-file-properties-on-windows-platforms/"><u>Customizing File Properties on Windows Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/dealing-with-the-lunar-client-not-functional-message-in-os/"><u>Dealing with the Lunar Client Not Functional Message in OS</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-this-file-has-no-app-windows-issue/"><u>Eliminating 'This File Has No App' Windows Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-consistent-reading-pane-openness-setup-for-email-attachments-in-ms-word/"><u>Ensuring Consistent Reading Pane Openness: Setup for Email Attachments In MS Word</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-smartphone-battles-using-gamepads/"><u>Prime Smartphone Battles Using Gamepads</u></a></li>
-<li><a href="https://win11.techidaily.com/sixfold-solution-to-off-screen-woes-a-roadmap-for-rejuvenating-your-windows-desktop/"><u>Sixfold Solution to Off-Screen Woes: A Roadmap for Rejuvenating Your Windows Desktop</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-exploration-inside-xcreative-media-suite-for-2024/"><u>The Ultimate Exploration Inside XCreative Media Suite for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-managing-deletion-alerts-in-windows-os/"><u>Tips for Managing Deletion Alerts in Windows OS</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-taskbar-chat-discontinuation-what-does-this-mean-for-us/"><u>Windows 11 Taskbar Chat Discontinuation: What Does This Mean for Us?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-benefits-vs-drawbacks-in-vr-technology/"><u>[New] Benefits vs Drawbacks in VR Technology</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-boost-your-reach-the-quintessential-five-tactics-for-youtube-success/"><u>2024 Approved Boost Your Reach The Quintessential Five Tactics for YouTube Success</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/adding-time-stamps-to-pictures-step-by-step-tutorial/"><u>Adding Time Stamps to Pictures Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-windows-11-overcoming-5ghz-wi-fi-barriers/"><u>Breaking Down Windows 11: Overcoming 5GHz Wi-Fi Barriers</u></a></li>
+<li><a href="https://win11.techidaily.com/commanding-control-navigating-the-windows-print-hub/"><u>Commanding Control: Navigating the Windows Print Hub</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/conversion-efficace-et-dhaut-qualite-des-fichiers-ts-vers-mp4-techniques-rapides-a-succes/"><u>Conversion Efficace Et D'Haut Qualité Des Fichiers TS Vers MP4 : Techniques Rapides À Succès</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-the-finest-free-media-tools-for-windows-pcs/"><u>Explore the Finest Free Media Tools for Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/faster-booting-window-11s-boot-delay-adjustment-explained/"><u>Faster Booting: Window 11'S Boot Delay Adjustment Explained</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ideal-ios-options-the-finest-selector-of-emulators-for-playing-psp-games-for-2024/"><u>Ideal iOS Options The Finest Selector of Emulators for Playing PSP Games for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-exploring-8-open-source-video-collaboration-software-picks/"><u>In 2024, Exploring 8 Open Source Video Collaboration Software Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-app-size-metrics-in-windows/"><u>Navigating Through App Size Metrics in Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-poco-c50-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Poco C50 Phone Pattern Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/win-1011-sound-revolution-embrace-dolby-atmos/"><u>Win 10/11 Sound Revolution: Embrace Dolby Atmos</u></a></li>
 </ul></div>
 

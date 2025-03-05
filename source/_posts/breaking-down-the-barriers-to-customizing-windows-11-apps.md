@@ -1,7 +1,7 @@
 ---
 title: Breaking Down the Barriers to Customizing Windows 11 Apps
-date: 2024-08-08T13:12:30.564Z
-updated: 2024-08-09T13:12:30.564Z
+date: 2025-02-25T17:41:19.394Z
+updated: 2025-03-05T03:36:22.447Z
 tags:
   - windows10
   - windows11
@@ -50,17 +50,9 @@ Follow these steps to proceed:
 1. Press the Win + I keys together to open the Windows Settings.
 2. Choose**Apps** from the left pane.
 3. Click on**Default apps** .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Click on the Default apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-settings-apps-default-apps.jpg)
 4. Next, choose the app that you want to set as default. You should now see all the file types and link types the app is registered with.
 5. If you want to choose a program as the default for all its registered file types and links, you'd need to click each type and choose the desired application in the following dialog.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![Pick a default file type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pick-a-default-file-type.jpg)
 
  This should set the app as the default option for the selected file and link types. However, if you [reset Windows 11 to its default state](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) ever, you will lose all these settings.
@@ -72,27 +64,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 To proceed, follow these steps:
 
 1. Right-click on the targeted file and choose**Properties** from the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Access the properties of the file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/image-properties.jpg)
 2. Head over to the General tab and click on the**Change** button associated with**Opens with** .  
 ![Click on the Change button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/image-properties-general-change.jpg)
 3. Now, choose the desired app and click**OK** .
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What to Do If You Cannot Change the Default Apps in Windows 11?
 
  If you are unable to change the default apps in Windows 11 despite trying the different methods mentioned above, it could be due to the following reasons:
@@ -104,9 +80,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  In this case,[ensure that your user account has administrative rights](https://www.makeuseof.com/check-windows-account-admin-rights/) and that the app you are trying to set as default is compatible with the system. Here are some more steps you can follow to resolve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Update Windows 11
 
  If you're running an outdated version of Windows, you may be experiencing problems due to incompatibility issues. Windows 11 needs to be updated to the latest version in this case.
@@ -121,9 +94,6 @@ Here is how you can do that:
 
  Once this is done, follow one of the steps above to change the default app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Reset the Targeted App
 
  If the problem is within the app that you are trying to change, you can reset the program to solve the problem.
@@ -137,9 +107,6 @@ Follow these steps to proceed:
 Get-AppxPackage packagename -AllUsers | Reset-AppxPackage
 5. For instance, if you want to change the Photos app, execute the following command:  
 Get-AppxPackage Microsoft.Windows.Photos -AllUsers | Reset-AppxPackage  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Reset the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-appxpackage-packagename.jpg)
 6. Once the command is executed, check if you can change the default app.
 
@@ -155,16 +122,10 @@ Here is how you can proceed:
 ![Uninstall a program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/uninstall-a-program.jpg)
 4. Locate the targeted app and right-click on it.
 5. Choose**Uninstall** and follow the on-screen instructions to proceed.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Uninstall the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-uninstall-program.jpg)
 
  Once the uninstallation is completed, restart the computer and reinstall the app. Hopefully, this time, you will be able to set it as the default option without any problems.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Make Your Preferred Apps Default
 
  The apps set as the default options on Windows are quite user-friendly and efficient. It is possible, however, to change the default preference to a better option if you have found one that suits your system better.
@@ -177,8 +138,6 @@ Here is how you can proceed:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,6 +145,26 @@ Here is how you can proceed:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhancing-your-videos-final-impression/"><u>[New] In 2024, Enhancing Your Video's Final Impression</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-quick-captioning-method-for-enhanced-youtube-video-quality/"><u>[New] Quick Captioning Method for Enhanced YouTube Video Quality</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-shadowed-observers-playbook-engaging-with-instagram-stories-anonymously-free/"><u>[Updated] The Shadowed Observer's Playbook Engaging with Instagram Stories Anonymously [Free]</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-tips-for-resolving-common-windows-problems/"><u>Efficient Tips for Resolving Common Windows Problems!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/find-out-which-phones-make-the-best-friends-with-gear-vr/"><u>Find Out Which Phones Make the Best Friends with Gear VR</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-newest-sas-drivers-for-your-windows-pc-windows-1187/"><u>How to Get the Newest SAS Drivers for Your Windows PC (Windows 11/8/7)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-update-the-display-time-on-a-kindle-paperwhite-effectively/"><u>How to Update the Display Time on a Kindle Paperwhite Effectively</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-a-step-by-step-guide-to-upgrading-your-mac-to-11-big-sur/"><u>In 2024, A Step-by-Step Guide to Upgrading Your Mac to 11 Big Sur</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-nokia-g22-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Nokia G22 Phone Network-Ready</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-err0r-x7e1-on-surface-book-win10/"><u>Preventing Err0r: X7E1 on Surface Book (Win10)</u></a></li>
+<li><a href="https://win11.techidaily.com/reverse-the-freeze-fixing-torrent-problems-on-windows/"><u>Reverse the Freeze: Fixing Torrent Problems on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-cross-language-conversations-via-windows-1011-hotkeys/"><u>Simplify Cross-Language Conversations via Windows 10/11 Hotkeys</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-mouseclicklock-functionality-in-win-os/"><u>Simplifying MouseClickLock Functionality in Win OS</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-altering-registry-tools-accessibility/"><u>Steps for Altering Registry Tools' Accessibility</u></a></li>
+<li><a href="https://win11.techidaily.com/surpassing-100-top-5-apps-to-enhance-volume-on-windows/"><u>Surpassing 100%: Top 5 Apps to Enhance Volume on Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-picture-text-enhancement-for-2024/"><u>The Ultimate Guide to Picture Text Enhancement for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-m365-error-code-30015-26-in-windows/"><u>Troubleshooting M365 Error Code 30015-26 in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-power-of-docker-in-wsl-2-key-strategies-revealed/"><u>Unlock the Power of Docker in WSL 2: Key Strategies Revealed</u></a></li>
+</ul></div>
 

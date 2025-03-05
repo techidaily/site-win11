@@ -1,7 +1,7 @@
 ---
 title: Navigating Windows 11 with Microsoft's PowerToys
-date: 2025-02-12T23:05:22.830Z
-updated: 2025-02-15T20:02:11.275Z
+date: 2025-02-27T00:52:01.913Z
+updated: 2025-03-05T03:18:27.995Z
 tags:
   - windows10
   - windows11
@@ -37,15 +37,7 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 4. If you feel satisfied, click **Install** to begin the downloading & installation process. The process might take a few minutes.  
 ![Installing PowerToys Through Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/installing-powertoys-through-microsoft-store.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once installation is complete, open the Microsoft PowerToys app from the Start menu. All features are ready to use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Install Microsoft PowerToys From the GitHub Page
 
@@ -58,18 +50,10 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 ![Installing PowerToys From the GitHub Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/installing-powertoys-from-the-github-page.jpg)
 3. Now look for a file that is named something like **PowerToysSetup-0.##.#-x64.exe**. Here, the **#** represents the version number. Click on this file to start the download. After that, navigate to your downloads folder and double-click on it. This will start the installation process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. A window might pop up asking for permission to change your device. Click **Yes** to continue. The setup wizard will then open. Here, follow the installation prompts. Typically, you just need to click **Next** a few times and then **Install**.
 5. Once the installation process is completed, you'll be prompted to finish and exit the setup. Click **Finish**. You might be asked to agree to terms and conditions, choose an installation location, and decide whether you want a shortcut created.
 
  After performing the above procedure, you can access Microsoft PowerToys from the Start menu or the shortcut if you created one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Install Microsoft PowerToys Through the Command Prompt
 
@@ -84,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 winget install --id Microsoft.PowerToys  
 ![Installing PowerToys Through Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/installing-powertoys-through-command-prompt.jpg)
 5. Now hit Enter to execute the command. This will download and install Microsoft PowerToys.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The process might take a few minutes, so be patient. Once it's finished, you'll find Microsoft PowerToys in your Start Menu.
 
@@ -109,20 +89,16 @@ winget install --id Microsoft.PowerToys
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-download-instagram-reels-effortlessly-anytime/"><u>[New] Download Instagram Reels Effortlessly, Anytime</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-explore-these-12-websites-offering-free-stock-photo-collections/"><u>[New] Explore These 12 Websites Offering Free Stock Photo Collections</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-which-ios-video-editor-excels-more-cameo-or-filmorago/"><u>[New] In 2024, Which iOS Video Editor Excels More Cameo or FilmoraGo?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-elite-gaming-setup-essentials-revealed/"><u>[Updated] Elite Gaming Setup Essentials Revealed</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-your-ultimate-guide-to-choosing-vr-headsets-opt-for-easy-steps-with-mobile-or-connected-devices/"><u>[Updated] In 2024, Your Ultimate Guide to Choosing VR Headsets Opt for Easy Steps with Mobile or Connected Devices?</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-error-code-0x8007251d-a-comprehensive-solution/"><u>Demystifying Error Code 0X8007251d: A Comprehensive Solution</u></a></li>
-<li><a href="https://windows11.techidaily.com/disentangling-compact-icons-on-desktop-shelf/"><u>Disentangling Compact Icons on Desktop Shelf</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-ditch-microsoft-edge-in-win11/"><u>How to Ditch Microsoft Edge in Win11</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-auto-play-youtube-iphoneandroid-no-notification/"><u>In 2024, Auto-Play YouTube IPhone/Android, No Notification</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-data-storage-c-drive-d-drive-insights/"><u>Mastering Data Storage: C Drive, D Drive Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/retrace-your-cortana-path-with-data-extraction/"><u>Retrace Your Cortana Path with Data Extraction</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-no-device-found-on-windows-sound/"><u>Solutions for 'No Device Found' On Windows Sound</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-reviving-deadlocked-downloads-in-windows-11/"><u>Strategies for Reviving Deadlocked Downloads in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-lava-blaze-2-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Lava Blaze 2 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/visionary-windows-transcending-the-limits-of-11/"><u>Visionary Windows: Transcending the Limits of 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-entertaining-entrances-tales-that-resonate/"><u>2024 Approved Entertaining Entrances Tales That Resonate</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-picks-for-the-best-android-image-correction-tools-5-choices/"><u>2024 Approved Top Picks for the Best Android Image Correction Tools (5 Choices)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-total-circles-capture-systems/"><u>2024 Approved Total Circles Capture Systems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/explore-the-ultimate-list-of-free-youtube-channel-starters/"><u>Explore the Ultimate List of Free YouTube Channel Starters</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-remediation-for-a-frozen-epic-games-launcher/"><u>Immediate Remediation for a Frozen Epic Games Launcher</u></a></li>
+<li><a href="https://win11.techidaily.com/precise-clipping-pains-solutions-for-immediate-relief/"><u>Precise Clipping Pains? Solutions for Immediate Relief</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-resolve-error-unable-to-locate-windows-lsass/"><u>Tips to Resolve Error: Unable to Locate Windows Lsass</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/verbale-reue-im-deutschen-praktizieren/"><u>Verbale Reue Im Deutschen Praktizieren</u></a></li>
+<li><a href="https://win11.techidaily.com/win10w11-avoiding-the-soon-to-expire-license-warnings/"><u>Win10/W11: Avoiding the “Soon to Expire License” Warnings</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/windows-11-problembehebung-erleichtern-sorgenumgrunde-aufklaren-und-losungsmoglichkeiten-prasentieren/"><u>Windows 11-Problembehebung Erleichtern: Sorgenumgründe Aufklären Und Lösungsmöglichkeiten Präsentieren</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-fingerprint-scanners-hacked-security-advisory-needed/"><u>Windows Fingerprint Scanners Hacked – Security Advisory Needed</u></a></li>
 </ul></div>
 

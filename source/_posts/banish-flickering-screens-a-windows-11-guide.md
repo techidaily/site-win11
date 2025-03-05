@@ -1,7 +1,7 @@
 ---
 title: "Banish Flickering Screens: A Windows 11 Guide"
-date: 2024-08-08T13:15:12.990Z
-updated: 2024-08-09T13:15:12.990Z
+date: 2025-02-27T21:40:23.508Z
+updated: 2025-03-04T19:09:03.621Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
  The problem often begins when upgrading to Windows 10/11 from a previous version of the operating system, but it can occur at any time. We're going to show you various methods to fix a Windows 10 or Windows 11 flashing screen.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Perform This Screen Flickering Test First
 
  First, you need to establish what might be causing the flickering screen. To do this,[open Task Manager](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) by pressing**Ctrl + Shift + Esc** simultaneously.
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
  If it's the former, follow the instructions below in order. If it's the latter, skip to step five. That said, if the advice there doesn't work, check the advice in the other sections too.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Check Your Monitor and Cables
 
  If you have a flashing screen, the first thing to rule out is the hardware. Check all the cable connections from the monitor to the computer—take them out and plug them back in to ensure the cables are secure.
@@ -54,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
 To adjust your refresh rate:
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![windows 11 advanced display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-advanced-display.jpg)
 
 1. Press**Windows key + I** to open Settings.
@@ -64,9 +55,6 @@ To adjust your refresh rate:
 3. Click**Advanced display settings** (Windows 10) or**Advanced display** (Windows 11).
 4. Use the**Refresh rate** dropdown and incrementally select lower rates until the screen flashing stops. If the flashing continues, revert to your monitor's recommended refresh rate.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Reset Your Display Driver
 
  The screen flashing could be caused by your display driver. You might have an old driver or a faulty new one. Let's make sure you are running the right version for your system.
@@ -122,18 +110,12 @@ Next, use Device Manager to uninstall the display driver:
 
  If this doesn't fix it,[your graphics card might be faulty or dying](https://www.makeuseof.com/signs-graphics-card-is-dying/) . Contact the manufacturer for support or to claim on the warranty.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Uninstall Problematic Applications
 
  Some apps are incompatible with Windows 10/11 and can cause screen flickering. Think about whether you installed any new software before the screen flashing began or if an app recently updated. In the past, three problematic apps have been Norton Antivirus, iCloud, and IDT Audio.
 
  Across all your applications, make sure you're running the latest versions. Either update within the app itself or head to the respective official websites and download the most up-to-date release. Alternatively, check the developer's support page for recently updated apps to see if screen flashing is known as a recent bug.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![windows 11 apps and features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-apps-and-features.jpg)
 
 If this doesn't work, uninstall the program. To do so:
@@ -143,10 +125,6 @@ If this doesn't work, uninstall the program. To do so:
 3. Click**Sort by** and choose**Installation date** .
 4. Click the offending app and click**Uninstall** . You may need to restart your system for the changes to take full effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 6\. Create a New Windows User Profile
 
  How do you stop your laptop or computer screen from flickering? Well, many Windows 10 and Windows 11 problems can often be solved by [creating a new user profile](https://www.makeuseof.com/windows-11-create-local-user-account/) . Screen flickering is one of them.
@@ -159,23 +137,17 @@ To create a new account:
 2. Go to**Accounts > Family & other users** .
 3. Click**Add someone else to this PC** (Windows 10) or**Add account** (Windows 11) and follow the wizard.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Windows Screen Flickers... No More
 
  As with most Windows 10/11 issues, no single fix will work for everyone. Hopefully, one of the steps above has solved your Windows 10 or Windows 11 screen flashing problem.
 
  If it is time for a new monitor, there are plenty of productive and fun things you can do with the old one. Otherwise, take it off for recycling so it can rest in monitor heaven.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -184,6 +156,24 @@ To create a new account:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beyond-boundaries-channel-youtube-for-exciting-green-screens/"><u>[Updated] In 2024, Beyond Boundaries Channel Youtube for Exciting Green Screens</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-ultimate-uniting-upskill-utopia/"><u>[Updated] In 2024, Ultimate Uniting Upskill Utopia</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtube-time-rewind-mastery-in-media-refreshes-for-2024/"><u>[Updated] YouTube Time Rewind Mastery in Media Refreshes for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-x-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone X Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://win11.techidaily.com/dissolve-chromes-webp-format-habit-on-your-pc/"><u>Dissolve Chrome's WebP Format Habit on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-control-windows-users-with-cli/"><u>Efficiently Control Windows Users with CLI</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-galaxy-m14-4g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Galaxy M14 4G</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-low-memory-error-on-windowsvmware-devices/"><u>How to Resolve Low Memory Error on Windows/VmWare Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-standard-to-spectacular-the-transformative-power-of-high-dynamic-range/"><u>In 2024, From Standard to Spectacular The Transformative Power of High Dynamic Range</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-spin-innovator-pack/"><u>In 2024, Spin Innovator Pack</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-networked-nooks-mastering-window-resolution-access/"><u>Navigating Networked Nooks: Mastering Window Resolution Access</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-mail-notification-efficiency-on-windows-systems/"><u>Restoring Mail Notification Efficiency on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-and-efficient-screenshotting-windows-acknowledgments/"><u>Secure & Efficient Screenshotting Windows' Acknowledgments</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speeding-up-your-safari-four-essential-fixes-for-quick-and-smooth-iphone-browsing/"><u>Speeding Up Your Safari: Four Essential Fixes for Quick and Smooth iPhone Browsing</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-x80070091-error-when-windows-claims-a-directory-is-not-empty/"><u>Tackling X80070091 Error When Windows Claims a Directory Is Not Empty</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-mastering-prints-from-powerpoint-in-windows/"><u>Troubleshooting: Mastering Prints From PowerPoint in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnets-deep-dive-into-tesla-cybertruck-powered-robot-mowers-exceeding-anticipation-with-innovative-features-and-efficiency/"><u>ZDNet's Deep Dive Into Tesla Cybertruck-Powered Robot Mowers: Exceeding Anticipation with Innovative Features and Efficiency</u></a></li>
+</ul></div>
 

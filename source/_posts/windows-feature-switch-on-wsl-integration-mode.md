@@ -1,7 +1,7 @@
 ---
 title: "Windows Feature Switch: On WSL Integration Mode"
-date: 2025-02-12T03:12:40.214Z
-updated: 2025-02-15T20:07:40.130Z
+date: 2025-02-28T17:40:10.920Z
+updated: 2025-03-04T22:18:26.258Z
 tags:
   - windows10
   - windows11
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * You must enable Windows Subsystem for Linux (WSL) before you can install a Linux distribution on a Windows PC.
@@ -32,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
 * The updated WSL2 is more convenient and gives better performance, but you can switch to WSL1 to suit specific needs.
 
  If you want to run a Linux terminal on Windows, your best bet would be to enable Windows Subsystem for Linux (WSL), a gateway opener that allows you to install a Linux bash shell on a Windows OS. Once you’ve enabled WSL, you can install a Linux distro.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Requirements for Running WSL on Windows 10
 
@@ -68,25 +60,13 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
 
 ![Windows Subsystem for Linux option in Windows Features page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/enable-wsl-windows-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click **OK** to save your changes and hit **Restart now** to finish the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Installing WSL on a Windows Machine
 
  With WSL enabled on your Windows device, you can [install Windows Subsystem for Linux](https://www.makeuseof.com/tag/linux-bash-shell-on-windows-10/). After that, you can install any supported Linux distro right inside your Windows PC. Choosing a [small, lightweight Linux distro](https://www.makeuseof.com/tag/linux-distro-space/) might be helpful.
 
  You can also [install a Linux desktop in Windows](https://www.makeuseof.com/tag/linux-desktop-windows-subsystem/) that gives you a graphical UI to work with.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## WSL1 or WSL2: Which Is Better For You?
 
@@ -114,17 +94,18 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/remium-microphones-for-videographers/"><u>[New] Premium Microphones for Videographers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-free-profile-imagery-for-youtubers/"><u>[Updated] 2024 Approved Free Profile Imagery for YouTubers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-instagram-hashtags-that-are-trending-and-can-help-you-succeed/"><u>Essential Instagram Hashtags That Are Trending and Can Help You Succeed</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-guide-to-remedying-windows-errors-version-22h2/"><u>Expert Guide to Remedying Windows Errors, Version 22H2</u></a></li>
-<li><a href="https://article-helps.techidaily.com/expertly-edit-your-imagery-with-top-androidios-montage-apps-for-2024/"><u>Expertly Edit Your Imagery with Top Android/iOS Montage Apps for 2024</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-to-transfer-your-windows-system-using-a-previous-backup-on-different-pc/"><u>How to Transfer Your Windows System Using a Previous Backup on Different PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-realme-gt-neo-5-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Realme GT Neo 5</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-social-spectacle-snatcher/"><u>In 2024, Social Spectacle Snatcher</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-law-filters-in-windows-a-step-by-step-guide/"><u>Mastering LAW Filters in Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/re-establishing-the-elusive-ubisoft-launcher-connection/"><u>Re-Establishing the Elusive Ubisoft Launcher Connection</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transformative-techniques-mastering-lut-application-in-post-production/"><u>Transformative Techniques Mastering LUT Application in Post-Production</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-potential-with-easy-integration-of-msix-packages/"><u>Unlock Potential with Easy Integration of MSIX Packages</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-x-recorder-software-efficient-pc-sound-recording/"><u>[New] 2024 Approved X-Recorder Software Efficient PC Sound Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-transform-your-ppts-into-stunning-video-content/"><u>[New] In 2024, Transform Your PPTs Into Stunning Video Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-unleash-your-imagination-review-of-the-garmin-virb-ultra-30/"><u>[Updated] 2024 Approved Unleash Your Imagination Review of the Garmin VIRB Ultra 30</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-meme-makers-guide-for-iphones/"><u>[Updated] Meme Makers' Guide (For iPhones)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-boost-your-instagram-presence-optimal-tracking-tools-revealed/"><u>2024 Approved Boost Your Instagram Presence Optimal Tracking Tools Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-speed-of-file-transfers-in-ms-marketplace/"><u>Enhancing Speed of File Transfers in MS Marketplace</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-regain-original-settings-in-win11-terminal/"><u>How to Regain Original Settings in Win11 Terminal</u></a></li>
+<li><a href="https://win11.techidaily.com/lowering-resource-demand-from-unrealcefsubprocess-for-better-performance/"><u>Lowering Resource Demand From UnrealCEFSubprocess for Better Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-reset-account-lockout-value-after-failed-sign-ins-on-w10w11/"><u>Managing Reset Account Lockout Value After Failed Sign-Ins on W10/W11</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-is-this-a-pigeon-meme-generator-for-2024/"><u>New Is This a Pigeon Meme Generator for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-screen-size-barriers-in-windows-games/"><u>Overcoming Screen Size Barriers in Windows Games</u></a></li>
+<li><a href="https://discover-help.techidaily.com/repeat-issues-with-itunes-folder-location-discover-these-4-effective-fixes/"><u>Repeat Issues with iTunes Folder Location? Discover These 4 Effective Fixes!</u></a></li>
+<li><a href="https://win11.techidaily.com/reveal-your-last-actions-with-windows-explorer/"><u>Reveal Your Last Actions with Windows Explorer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Activating the Verifier Toolset in Win11"
-date: 2024-12-24T04:06:28.386Z
-updated: 2024-12-28T00:43:35.910Z
+date: 2025-02-26T19:08:37.341Z
+updated: 2025-03-04T19:01:11.004Z
 tags:
   - windows10
   - windows11
@@ -31,19 +31,11 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
 
 ![Open Driver Vefifier Using Taskbar Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-driver-vefifier-using-taskbar-search.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If UAC prompts on the screen, click**Yes** to grant administrative privileges.
 
 ## 2\. Opening the Driver Verifier Manager With the Run Dialog Box
 
  You can also open Driver Verifier Manager through the Run dialog box. For this press**Win + R** on your keyboard and type "verifier" in the text box. Then click**OK** or press Enter to launch the tool. Click**Yes** when UAC appears on your computer screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Opening the Driver Verifier Manager With Task Manager
 
@@ -58,10 +50,6 @@ To open Driver Verifier Manager using Task Manager, do the following:
 ![Open Driver Vefifier Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-driver-vefifier-using-task-manager.jpg)
 5. Now click**OK** to launch Driver Verifier Manager.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. When UAC prompts, click**Yes** to grant administrative rights.
 
 ## 4\. Opening the Driver Verifier Manager With File Explorer
@@ -72,10 +60,6 @@ To open Driver Verifier Manager using Task Manager, do the following:
 2. In Windows File Explorer, go to the address bar.
 3. Then type "verifier" into the text box and press**Enter** .
 4. Click**Yes** if UAC prompts you on your screen and the tool will launch.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Creating a Desktop Shortcut for the Driver Verifier Manager
 
@@ -91,10 +75,6 @@ To open Driver Verifier Manager using Task Manager, do the following:
 3. Then, type a name for your shortcut (such as "Driver Verifier") and hit**Finish** .
 
  Once you have followed the above instructions, double-click the shortcut on your desktop to open Driver Verifier Manager.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Opening the Driver Verifier Manager With a Command Prompt Command
 
@@ -126,22 +106,22 @@ To open Driver Verifier Manager using Task Manager, do the following:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-inverted-footage-whats-behind-instagrams-peculiarity/"><u>[New] 2024 Approved Inverted Footage What's Behind Instagram's Peculiarity?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-ultimate-exploration-of-apeaksofts-screen-recorder/"><u>[Updated] 2024 Approved The Ultimate Exploration of Apeaksoft's Screen Recorder</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-best-practices-for-snapchat-posts-the-essentials-list/"><u>[Updated] In 2024, Best Practices for Snapchat Posts The Essentials List</u></a></li>
-<li><a href="https://win11.techidaily.com/concurrent-close-down-on-pc-multi-app-mastery/"><u>Concurrent Close-Down on PC: Multi-App Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-unable-to-open-issue-on-ges-sharing-feature/"><u>Correcting Unable to Open Issue on GE's Sharing Feature</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/decades-leading-guide-to-budget-friendly-recorders/"><u>Decade's Leading Guide to Budget-Friendly Recorders</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elevate-your-cpu-game-with-an-amd-ryzen-9700x-overclocking-to-58ghz-and-beyond-using-cutting-edge-aio-liquid-coolers-surpassing-expectations-at-a-steady-idl32/"><u>Elevate Your CPU Game with an AMD Ryzen #9700X: Overclocking to 5.8GHz and Beyond Using Cutting-Edge AIO Liquid Coolers, Surpassing Expectations at a Steady Idle Speed of 6 GHz</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-efficiency-with-near-power-button-shortcuts-on-windows-11/"><u>Enhance Efficiency with Near-Power Button Shortcuts on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-x3daudio17dll-missing-or-not-found-errors-easily/"><u>How to Fix X3DAudio1_7.dll Missing or Not Found Errors Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-prevent-desktop-input-via-wired-connection-on-pc/"><u>How to Prevent Desktop Input via Wired Connection on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/insights-into-microsofts-phone-link-how-it-connects-devices/"><u>Insights Into Microsoft’s ‘Phone Link’: How It Connects Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-updates-and-downloads-for-mbox-2-driver-compatible-with-windows-systems/"><u>Latest Updates and Downloads for MBox 2 Driver Compatible with Windows Systems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/lock-your-oneplus-ace-2-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your OnePlus Ace 2 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-your-power-status-add-custom-battery-alerts-to-win11/"><u>Optimize Your Power Status: Add Custom Battery Alerts to Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/printer-spool-reinitiation-tips/"><u>Printer Spool Reinitiation Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-error-code-0xc0000001/"><u>Resolving Windows Error: Code 0xC0000001</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-13-free-music-production-software-for-windowsmaconline/"><u>Updated In 2024, 13 Free Music Production Software for Windows/Mac/Online</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-chuckle-cache-the-best-humor-tweets-on-twitch/"><u>[Updated] Chuckle Cache The Best Humor Tweets on Twitch</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-soaring-past-competitors-mastering-drone-racing-and-best-fpv-drones/"><u>2024 Approved Soaring Past Competitors Mastering Drone Racing and Best FPV Drones</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-nokia-c12-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Nokia C12 Pro Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bid-farewell-to-lag-the-ultimate-guide-to-resolving-pathfinder-wrath-of-the-righteous-pc-issues/"><u>Bid Farewell to Lag: The Ultimate Guide to Resolving Pathfinder: Wrath of the Righteous PC Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/bitlocks-lost-luster-await-wise-wisdom-before-shift/"><u>BitLocks Lost Luster: Await Wise Wisdom Before Shift</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-the-challenge-write-permissions-for-steam-folders/"><u>Easing the Challenge: Write Permissions for Steam Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-using-windows-11-snap-features/"><u>Essential Tips for Using Windows 11 Snap Features</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-non-recognized-ports-and-devices-on-windows-11/"><u>How to Fix Non-Recognized Ports and Devices on Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y02t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-ultimate-compilation-of-leading-9-mobile-meeting-services-ios-android/"><u>In 2024, Ultimate Compilation of Leading 9 Mobile Meeting Services (iOS, Android)</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-booting-procedures-complete-guide/"><u>Navigating Windows' Booting Procedures Complete Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-1110-app-installation-obstacles-in-oculus/"><u>Overcoming Windows 11/10 App Installation Obstacles in Oculus</u></a></li>
+<li><a href="https://win11.techidaily.com/the-simple-way-to-self-empty-the-recycle-bin-on-windows/"><u>The Simple Way to Self-Empty the Recycle Bin on Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-t2-pro-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo T2 Pro 5G Location | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unclogging-a-stuck-windows-11-settings-bar-the-search-solution/"><u>Unclogging a Stuck Windows 11 Settings Bar - The Search Solution</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-honor-x50-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Honor X50 Phones</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1728495483899-windows-7/"><u>Windows 7での復元用イメージファイル作成と完全データ保護方法</u></a></li>
 </ul></div>
 

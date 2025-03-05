@@ -1,7 +1,7 @@
 ---
 title: "Boosting Windows Administration: Local Groups and Users"
-date: 2024-08-08T13:13:57.625Z
-updated: 2024-08-09T13:13:57.625Z
+date: 2025-02-26T17:16:43.936Z
+updated: 2025-03-04T20:35:19.670Z
 tags:
   - windows10
   - windows11
@@ -16,17 +16,11 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
 ## Boosting Windows Administration: Local Groups and Users
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Enable the Local Users and Groups Management Console in Windows 11/10 Home](#enable-the-local-users-and-groups-management-console-in-windows-11-10-home)
 * [Manage Local Users and Groups Using the Command Prompt](#manage-local-users-and-groups-using-the-command-prompt)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Local Users and Groups Management is not available in Windows 11/10 Home editions. You need a third-party program to access it.
@@ -35,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
  Local Users and Groups Management is a shell application to manage local and remote computers and access system administrator tools. However, Local Users and Groups Management is unavailable in the Windows 11/10 Home editions, so you must rely on a third-party program to use it there.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Enable the Local Users and Groups Management Console in Windows 11/10 Home
 
  Like the Local Group Policy Editor, Local Users and Groups Management (lusrmgr.msc) is an advanced feature available only on Windows Pro, Education, and Enterprise.
@@ -67,14 +58,8 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
  Similarly, you can edit, remove, rename, or add a password to the existing user account. You can also [enable the secret built-in administrator account](https://www.makeuseof.com/windows-11-enable-disable-built-in-administrator-account/) using the tool.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Additional Features of the Lusrmgr App
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The search bar in lusrmgr application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/lusrmgr-search.jpg)
 
  Apart from the usual account management features, lusrmgr.exe provides additional functions not available in the native utility. For example, you can use the search function to find a specific account. This is useful for system administrators who manage multiple user accounts in an organization.
@@ -119,14 +104,9 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 5. If you need help with syntax for a specific command, use this:  
 `net help <command>`
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Command Prompt screen with the net localgroup command displayed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/command-prompt-screen-with-the-net-localgroup-command-displayed.jpg)
 
  The Local Users and Groups Management console is a handy utility for system administrators to manage local computers and connect remotely to compatible systems. However, if you are running Windows 11 Home and need to use the lusrmgr.msc tool, your only option is to use the third-party application from GitHub.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -134,4 +114,27 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-maximizing-impact-livestreaming-360-degree-video-magic-on-youtube/"><u>[New] 2024 Approved Maximizing Impact Livestreaming 360-Degree Video Magic on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/5/"><u>最高画質化アプリトップ5: 動画のクオリティ向上方法をご紹介</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/conserve-space-not-time-youtube-video-length-adjustment-for-2024/"><u>Conserve Space, Not Time YouTube Video Length Adjustment for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-upgrade-opt-for-cleaner-win11/"><u>Effortless Upgrade: Opt for Cleaner Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-accessibility-with-simple-key-filter-adjustments/"><u>Enhance Accessibility with Simple Key Filter Adjustments</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/expanding-your-audience-syncing-igtv-and-facebook-for-2024/"><u>Expanding Your Audience Syncing IGTV & Facebook for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-winerror-inaccurate-file-history-configurations/"><u>How to Rectify WinError: Inaccurate File History Configurations</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-tailor-your-win11-display-with-rgb/"><u>How to Tailor Your Win11 Display with RGB</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-elevating-video-discoverability-with-strategic-tagging-on-youtube/"><u>In 2024, Elevating Video Discoverability with Strategic Tagging on Youtube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-financial-impact-of-viewership-on-content-makers/"><u>In 2024, The Financial Impact of Viewership on Content Makers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/movie-power-up-10-titles-for-a-higher-purpose-for-2024/"><u>Movie Power-Up 10 Titles for a Higher Purpose for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/schutzen-sie-ihren-computer-vor-katastrophen-erstelle-ein-sicheres-datensicherungsmedium/"><u>Schützen Sie Ihren Computer Vor Katastrophen - Erstelle Ein Sicheres Datensicherungsmedium</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-media-player-server-fault/"><u>Solutions for Media Player Server Fault</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-resolving-oleaut32dll-file-not-detected-issues/"><u>Solutions for Resolving 'OleAut32.dll' File Not Detected Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-resource-occupancy-issues-in-windows-1011-153-chars/"><u>Tackling Resource Occupancy Issues in Windows 10/11 (153 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-file-system-efficiency-adjusting-ntfs-compression-in-windows-11/"><u>Tailoring File System Efficiency: Adjusting NTFS Compression in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-installation-distinctions-exe-versus-msi-formats/"><u>Understanding Installation Distinctions: Exe Versus Msi Formats</u></a></li>
+<li><a href="https://win11.techidaily.com/uniting-world-of-tech-samsung-flow-for-pc-and-galaxy-link/"><u>Uniting World of Tech – Samsung Flow for PC & Galaxy Link</u></a></li>
+</ul></div>
 

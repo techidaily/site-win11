@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity: Enlarge or Minify Software via Keyboard in Win11"
-date: 2024-08-08T13:11:41.768Z
-updated: 2024-08-09T13:11:41.768Z
+date: 2025-03-03T20:01:04.052Z
+updated: 2025-03-04T20:03:34.219Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 
  Here are some ways you can resize software windows with a keyboard in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Manually Resize Software With the Arrow Keys
 
  You don’t need any extra software to resize software windows with keyboard arrow keys. All you need to do is activate the move pointer cursor on a restored-down window. These are the steps for manually resizing windows with keyboard arrow keys:
@@ -30,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 1. Open a software window.
 2. Click the**Restore down** button in the top-right corner of the window.
 3. Press the**Alt** +**Space** hotkey to bring up a window menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![A software window menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-window-menu.jpg)
 4. Then press the**S** key to activate the move pointer.
 5. Now resize the window by pressing the up, down, left, and right arrow key buttons. You can use the arrow keys on a keyboard’s Numpad with**Num Lock** disabled.
@@ -52,14 +46,8 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 
  You can resize windows by snapping them to either side of the desktop with a couple of hotkeys. Press the**Windows** key +**right** arrow button to snap a window to the right side of the desktop. Or snap to the left side by pressing the**Win** +**left** arrow button. A window snapped with those keyboard shortcuts is resized to half the desktop area.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![Two side-by-side windows resized with Snap Layout hotkeys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/side-by-side-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Resize Software Windows With Custom Hotkeys
 
  Wouldn’t it be great if Windows 11 included options with which you could create hotkeys for resizing software windows to specific sizes? Of course, Microsoft’s flagship OS doesn’t have such a feature; but you can install software that does.
@@ -83,18 +71,6 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 7. Click**OK** on the Sizer Menu Entry window.
 8. Select**Apply** on the Sizer Configuration window.
 9. Then click the**Hot Keys** tab to check the keyboard shortcut has been added. You should see the hotkey listed on that tab.  
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Hot Keys tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-hot-keys-tab.jpg)
 
  Now open File Explorer using one of the many [ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to try out your new hotkey. Press the keyboard shortcut you set for window size. That hotkey will resize your window to the size you assigned it for.
@@ -111,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 
  Sizer has a useful extra popup menu you can access with a keyboard shortcut. Press the**Ctrl** +**Win** +**Z** hotkey to view Sizer’s menu. That menu includes various sizes you can select to resize an active window. You can also access the software’s primary window by selecting Configure Sizer on that menu.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Sizer popup menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-popup-menu.jpg)
 
  If you're really enjoying using hotkeys, check out [how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
@@ -130,8 +103,6 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,6 +110,23 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-6-ways-to-increase-audience-retention-on-youtube/"><u>[New] In 2024, 6 Ways To Increase Audience Retention on YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-precision-perfection-techniques-for-using-the-eraser-in-psx/"><u>[New] Precision Perfection Techniques for Using the Eraser in PSX</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-contrast-what-sets-roku-express-apart-from-the-classic-roku-stick/"><u>Decoding the Contrast: What Sets Roku Express Apart From the Classic Roku Stick?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discounted-phones-and-digital-locks-a-discourse-on-cybersecurity/"><u>Discounted Phones and Digital Locks: A Discourse on Cybersecurity</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-change-heic-files-to-jpeg-format/"><u>Efficiently Change HEIC Files to JPEG Format</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-data-retrieval-how-to-master-the-art-of-qr-scanning-with-windows/"><u>Effortless Data Retrieval: How to Master the Art of QR Scanning with Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-download-ultimate-guide-to-installing-a-mouse-driver-on-windows-7/"><u>Effortless Download: Ultimate Guide to Installing a Mouse Driver on Windows 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-windows-forecasting-apps-guide/"><u>Optimal Windows Forecasting Apps Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powerful-scripts-to-detect-pcs-ip-and-mac/"><u>Powerful Scripts to Detect PC's IP and MAC</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-users-interference-with-windows-safescreensaver/"><u>Preventing Users' Interference with Windows SafeScreensaver</u></a></li>
+<li><a href="https://win11.techidaily.com/restore-functionality-to-windowss-geforce-experience-failures/"><u>Restore Functionality to Windows's GeForce Experience Failures</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/sound-to-scripture-top-pick-offline-recognition-software/"><u>Sound to Scripture Top Pick Offline Recognition Software</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-the-windows-warhammer-woes-say-goodbye-to-stutters/"><u>Tackle the Window's Warhammer Woes - Say Goodbye to Stutters</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-persistent-sign-in-prompts-in-ms-teams-on-windows/"><u>Troubleshooting Persistent Sign-In Prompts in MS Teams on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/uncovering-signs-7-windows-tasks-that-may-infect/"><u>Uncovering Signs: 7 Windows Tasks that May Infect</u></a></li>
+</ul></div>
 

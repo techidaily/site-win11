@@ -1,7 +1,7 @@
 ---
 title: Refining Non-Admin Access on Your Windows Machine
-date: 2025-02-11T16:34:28.817Z
-updated: 2025-02-15T19:13:43.164Z
+date: 2025-02-27T17:16:24.063Z
+updated: 2025-03-05T02:12:05.405Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The UAC Behaviors Available for Standard User Accounts
 
  Unlike when [changing UAC behaviors for administrator accounts](https://www.makeuseof.com/change-user-access-control-works-administrators-windows/), the behaviors for standard user accounts are a little more limited. According to the [Microsoft Learn](https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/user-account-control-behavior-of-the-elevation-prompt-for-standard-users) website, here are the behaviors you can choose and what they mean:
@@ -50,16 +46,8 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 ![modifying the policy for UAC behavior in Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modifying-policy-for-uac-behavior-in-local-group-policy-editor.jpg)
 3. Expand the dropdown and choose a different UAC behavior.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![editing the policy for UAC behavior in Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/editing-policy-for-uac-behavior-in-local-group-policy-editor.jpg)
 4. Click **OK**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Keep in mind that only administrators can change the behavior of the UAC. If a standard user tried to change it using the Local Group Policy Editor, for example, they'd probably get an **Access denied** error message.
 
@@ -80,15 +68,7 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 ![setting Value data for ConsentPromptbehavior Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/setting-value-data-for-consentpromptbehavior-registry-editor.jpg)
 5. Click **OK**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now restart your computer to allow the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Control UAC's Behavior for Standard Users on Windows
 
@@ -106,16 +86,19 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-conquer-the-vr-world-your-first-vr-adventure/"><u>[New] Conquer the VR World Your First VR Adventure</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-view-comprehensively-shared-images-and-movies-by-friends/"><u>[Updated] How To View Comprehensively Shared Images and Movies by Friends?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-iphone-14-pro-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From iPhone 14 Pro? Find the Best Solution Here</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-comic-format-for-seamless-win11-viewing/"><u>Decoding Comic Format for Seamless Win11 Viewing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808209012-download-and-install-utorrent-on-windows-10-no-cost-option-available-now/"><u>Download and Install uTorrent on Windows 10 - No Cost Option Available Now</u></a></li>
-<li><a href="https://discover-help.techidaily.com/essential-system-specifications-needed-for-successful-windows-os-setup-guidance-by-yl-computing/"><u>Essential System Specifications Needed for Successful Windows OS Setup - Guidance by YL Computing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-xs-max-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone XS Max Apple ID and Apple Pay</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-0x80072af9-windows-error-code/"><u>How to Fix the 0X80072AF9 Windows Error Code</u></a></li>
-<li><a href="https://win11.techidaily.com/initiating-system-file-checker-a-step-by-step-approach/"><u>Initiating System File Checker: A Step-by-Step Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/solve-defective-windows-keys-a-quick-guide/"><u>Solve Defective Windows Keys: A Quick Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/starting-windows-11s-system-level-driver-inspector/"><u>Starting Windows 11'S System-Level Driver Inspector</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-combatting-iphones-difficulty-in-autofocusing/"><u>[Updated] 2024 Approved Combatting iPhone's Difficulty in Autofocusing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-best-8-free-4k-video-player-software-for-windows-pcandmac/"><u>[Updated] Best 8 Free 4K Video Player Software for Windows PC&Mac</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-integrating-vids-on-twitter-plus-tumblr-platforms/"><u>2024 Approved Integrating Vids on Twitter + Tumblr Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-windows-experience-installing-the-supercharged-run-tool/"><u>Elevate Your Windows Experience: Installing the Supercharged Run Tool</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/get-hd-quality-facebook-videos-on-pcmobile/"><u>Get HD Quality Facebook Videos on PC/Mobile</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oppo-find-x6-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo Find X6 Lock Screen Password</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-excessive-resource-demands-from-edges-webview2/"><u>Mitigating Excessive Resource Demands From Edge's WebView2</u></a></li>
+<li><a href="https://win11.techidaily.com/revamping-reliability-defragment-hard-drives-in-win11/"><u>Revamping Reliability: Defragment Hard Drives in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-sailing-overcoming-pc-issues-with-messenger/"><u>Smooth Sailing: Overcoming PC Issues with Messenger</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-eliminating-latency-in-street-fighter-6-on-your-computer/"><u>Step-by-Step Solution for Eliminating Latency in Street Fighter 6 on Your Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-the-automatic-open-of-search-bar-win11-edition/"><u>Stop the Automatic Open of Search Bar, Win11 Edition</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-comedic-journey-an-evaluation-of-goofy-adventures-for-2024/"><u>The Comedic Journey An Evaluation of 'Goofy Adventures' For 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/why-one-antivirus-works-best-for-windows-users/"><u>Why One Antivirus Works Best for Windows Users</u></a></li>
 </ul></div>
 

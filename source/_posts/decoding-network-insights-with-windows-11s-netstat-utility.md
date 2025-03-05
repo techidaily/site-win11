@@ -1,7 +1,7 @@
 ---
 title: Decoding Network Insights with Windows 11'S Netstat Utility
-date: 2024-12-20T18:42:50.852Z
-updated: 2024-12-27T23:39:40.077Z
+date: 2025-02-25T23:56:53.408Z
+updated: 2025-03-04T21:45:35.347Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/b5412951ba4c980abeddb9801e54de1f43b896bc3
 * Connections and processes using the internet.
 * Any suspicious connections from unknown applications or services.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use the Netstat Command on Windows
 
  As mentioned before, the netstat command is accessible only from the Command Prompt. If you don't know the steps, follow the ones given below to run netstat from the Command Prompt:
@@ -50,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/b5412951ba4c980abeddb9801e54de1f43b896bc3
 2. Next to the matching search result, click on **Run as administrator**. This will launch Command Prompt with advanced-user permissions.  
 ![Command Prompt In Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/command-prompt-in-windows-search.jpg)
 3. On the Command Prompt, type **netstat** and press **Enter**. The command, after executing, will output a list of active connections along with their status.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![netstat Command Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-command-output.jpg)
 4. If you need to share the output with a tech support team, for example, use this command to copy the results in a text file: "**netstat > Path\\FileName.txt**". In this command, **Path** is any folder's location where you want to save the file and **FileName.txt** is your exported file's name.  
@@ -80,27 +72,15 @@ thumbnail: https://thmb.techidaily.com/b5412951ba4c980abeddb9801e54de1f43b896bc3
 ![netstat -e Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-e-command.jpg)
 * **netstat -o:** Suppose you installed an application (from an untrusted website), in that case, you can check whether the application is doing something suspicious with the connection or not. This is because the **\-o** parameter shows the Process ID (PID) of every connection that you can match from the Task Manager.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![netstat -o Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-o-command.jpg)
 * **netstat -s:** This shows statistics by a protocol like packets sent/received, errors, discarded packets, etc. It's useful if you want to understand per-protocol-based bandwidth usage.  
 ![netstat -s Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-s-command.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now that you have an idea of some useful commands, try running them in the Command Prompt. Note that we recommend running Command Prompt as an administrator only as some connections are only visible with admin privileges.
 
  If you don't like to enter the commands repeatedly, combine the parameters. For example, **netstat -e -s** will show you your Ethernet network details along with the per-protocol-based bandwidth usage in one view.
 
  Above all, netstat is just one command for troubleshooting. If you're interested, check the [Windows network connections tool](https://www.makeuseof.com/windows-open-network-connections-tool/) to learn about another handy tool.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Troubleshooting Your Networks Made Easy With Netstat
 
@@ -120,24 +100,14 @@ thumbnail: https://thmb.techidaily.com/b5412951ba4c980abeddb9801e54de1f43b896bc3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-twists-that-tell-stories-crafting-captivating-visual-narratives-on-instagram-platforms/"><u>[New] 2024 Approved Twists That Tell Stories Crafting Captivating Visual Narratives on Instagram Platforms</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-mastering-iphoneipad-premium-podcast-recording-tips/"><u>[Updated] 2024 Approved Mastering iPhone/iPad Premium Podcast Recording Tips</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-streamline-your-media-convert-fb-videos-to-mp4-hd1080p-for-free/"><u>[Updated] 2024 Approved Streamline Your Media - Convert FB Videos to MP4 HD/1080P for Free</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-streamline-your-gameplay-professional-ps4-recording-tips/"><u>[Updated] In 2024, Streamline Your Gameplay Professional PS4 Recording Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/after-effects-templates-crafting-stories-one-text-at-a-time-for-2024/"><u>After Effects Templates Crafting Stories One Text at a Time for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-boot-up-windows-startup-with-notebooks-available/"><u>Efficient Boot-Up: Windows Startup with Notebooks Available</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-breakpoint-errors-on-windows-pcs-quick-guide/"><u>Fixing Breakpoint Errors on Windows PCs - Quick Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-downloads-for-msi-b350-tomahawk-chipset-drivers-works-great-on-windows-os/"><u>Free Downloads for MSI B350 Tomahawk Chipset Drivers: Works Great on Windows OS</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-fix-basic-printerscanner-support-in-windows-11-operating-system-enhanced/"><u>Latest Fix: Basic Printer/Scanner Support in Windows 11 Operating System Enhanced</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-c53-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme C53 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/maintaining-exclusive-access-to-insider-batches/"><u>Maintaining Exclusive Access to Insider Batches</u></a></li>
-<li><a href="https://win11.techidaily.com/msc-troubleshooting-restoring-windows-print-management/"><u>MSC Troubleshooting: Restoring Windows Print Management</u></a></li>
-<li><a href="https://win11.techidaily.com/optimal-web-visiting-tools-a-compreran-test-of-lightweight-browsers/"><u>Optimal Web Visiting Tools: A Compreran Test of Lightweight Browsers</u></a></li>
-<li><a href="https://win11.techidaily.com/perfect-palette-for-windows-users-our-top-7-drawing-apps/"><u>Perfect Palette for Windows Users: Our Top 7 Drawing Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-multiple-ms-users-error-on-windows/"><u>Resolving Multiple MS Users' Error on Windows</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/screenflow-mastery-on-macos-uncovered-for-2024/"><u>ScreenFlow Mastery on macOS Uncovered for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/tech-savvy-bootable-media-generate-an-efficient-win-11-usb-quickly/"><u>Tech-Savvy Bootable Media: Generate an Efficient Win 11 USB Quickly</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-htc-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For HTC Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://win11.techidaily.com/time-travel-files-top-utilities-in-win8-for-date-alteration/"><u>Time Travel Files: Top Utilities in Win8 for Date Alteration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-compreran-analysis-asus-proart-pa-329qs-innovations-in-4k-monitoring/"><u>[New] A Compreran Analysis Asus ProArt PA 329Q’s Innovations in 4K Monitoring</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-top-e-shops-for-unique-tailored-boxed-gifts-and-packages-for-2024/"><u>[Updated] Top E-Shops for Unique, Tailored Boxed Gifts & Packages for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/ancestry-unveiled-7-enduring-features-of-windows-11/"><u>Ancestry Unveiled: 7 Enduring Features of Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-errors-with-proper-use-of-winservicesexe/"><u>Avoiding Errors with Proper Use of Winservices.exe</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insight-on-the-luxury-ambient-weather-ws-1002-wifi-device-stellar-quality-at-a-high-expense/"><u>Expert Insight on the Luxury Ambient Weather WS-1002 WiFi Device: Stellar Quality at a High Expense</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-chatgpt-for-engaging-presentation-creation/"><u>Harnessing ChatGPT for Engaging Presentation Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-basics-windows-system-configuration/"><u>Master the Basics: Windows System Configuration</u></a></li>
+<li><a href="https://win11.techidaily.com/organize-your-workspace-attaching-this-pc-icon-to-desktop/"><u>Organize Your Workspace: Attaching 'This PC' Icon to Desktop</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pinnacle-creations-synopsis-in-depth-studio-scrutiny-for-2024/"><u>Pinnacle Creations Synopsis In-Depth Studio Scrutiny for 2024</u></a></li>
 </ul></div>
 

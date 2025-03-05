@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Windows 10/11: How to Bypass PIN Locks"
-date: 2024-08-15T23:12:50.884Z
-updated: 2024-08-16T23:12:50.884Z
+date: 2025-03-02T00:37:04.719Z
+updated: 2025-03-04T23:24:12.476Z
 tags:
   - windows10
   - windows11
@@ -47,18 +47,12 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
 1. Click **Sign-in options** to view other options for logging in.
 2. Click the **key icon**, which is usually located on the left.  
 ![sign in options windows 11 password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sign-in-options-windows-11-password.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Type the password associated with your account here.
 
  Once logged in, you can start applying the remaining fixes.
 
  If you don't remember your account password, you can reset it just like you can your PIN. Unlike resetting the PIN, resetting the password mostly goes smoothly and lets you sign in.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Delete the Ngc Folder in Windows
 
  Windows stores all your PIN-related settings in this folder, so if the OS isn't accepting your PIN, which is correct, you should delete this folder. This process will wipe out all PIN-related data from the OS. You can then set up a new PIN, which should work fine.
@@ -69,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
 2. Navigate to **C: drive > Windows> ServiceProfiles > LocalService > AppData > Local> Microsoft**.
 3. Locate the Ngc folder, right-click on it, and hit **Delete**.  
 ![Deleting Ngc Folder in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/Deleting-Ngc-Folder-in-Windows-10-Edit.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Navigate to **Settings > Accounts > Sign-in options** to set up a new PIN after deleting the old one. Afterward, click on **Windows Hello PIN**, add a new PIN, and hopefully, the PIN will start working on your operating system.
 
@@ -88,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
 3. Navigate to **Your info** in the left-sidebar.
 4. Click on **Sign in with a local account instead**.  
 ![changing accounts settings in windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/changing-accounts-settings-in-windows-10-settings-app-edit.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click on **Next**.
 6. Enter your PIN.
 7. Set up your local account by adding your username and password.
@@ -104,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
 
  If the PIN does not work on any account, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## 5\. Tweak PIN Sign-In Settings in Group Policy Editor
 
  When the convenience PIN sign-in setting in the Group Policy Editor is disabled, the PIN will not work. Therefore, it's essential to ensure it's not causing the problem during sign-in.
@@ -143,9 +128,6 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
 
  If the issue persists, run a malware scan to rule out the possibility of malware interference.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## 7\. Turn Off Your Antivirus and Run a Malware Scan
 
  Possible interference from antivirus may also result in your PIN being rejected. To prevent this from happening, temporarily turn off any third-party antivirus you're using. If turning off the third-party security suite fixes the problem, turn it off permanently.
@@ -154,9 +136,6 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
 
  Aside from that, malware infections can also impair many system functions. Thus, it is imperative to rule out this possibility. You can easily do this by [running a Microsoft Defender offline scan](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/). By scanning the system, you can ensure that no hidden malware is affecting its performance.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Run an SFC Scan
 
  When you remove malware from your computer, make sure it hasn't corrupted any Windows files that might have caused the issue at hand.
@@ -171,12 +150,28 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
 
  Likewise, not updating your operating system for long, being infected with malware, or corrupted system files can also prevent your login PIN from working. If you're having trouble logging in to your device using your Windows Hello PIN, give the following solutions a shot.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-auditory-logging-system-tones-and-voice-samples-for-2024/"><u>[New] Auditory Logging System Tones & Voice Samples for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-clear-and-concise-guide-to-easy-screen-capture-techniques-for-2024/"><u>[New] Clear & Concise Guide to Easy Screen Capture Techniques for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amazon-fire-vs-samsung-tablet-which-is-right-for-you/"><u>Amazon Fire Vs. Samsung Tablet: Which Is Right for You?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/beatit-bt-d11-jump-starter-review-mighty/"><u>Beatit BT-D11 Jump Starter Review: Mighty</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/best-spotify-replacements-innovative-music-streaming-platforms-youll-love/"><u>Best Spotify Replacements: Innovative Music Streaming Platforms You'll Love</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-into-a-corruption-free-windows-state/"><u>Easing Into a Corruption-Free Windows State</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-update-guide-ensuring-your-scansnap-ix500-is-fully-functional-on-windows-machines/"><u>Effortless Update Guide: Ensuring Your ScanSnap iX500 Is Fully Functional on Windows Machines</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-complications-during-amd-195-setup/"><u>Fixing Windows Complications During AMD 195 Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/hacks-to-modify-static-power-configurations-on-win11/"><u>Hacks to Modify Static Power Configurations on Win11</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-xiaomi-redmi-k70-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Xiaomi Redmi K70? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-14-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Xiaomi 14 Phone Without Password?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/learn-quickly-flipping-video-sequence-android-style-for-2024/"><u>Learn Quickly Flipping Video Sequence Android-Style for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-your-file-journey-skip-these-file-explorer-slip-ups/"><u>Perfect Your File Journey: Skip These File Explorer Slip-Ups</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-route-to-scrutinizing-and-sweeping-windows-activities/"><u>Quick Route to Scrutinizing & Sweeping Windows Activities</u></a></li>
+</ul></div>
 

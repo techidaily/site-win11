@@ -1,7 +1,7 @@
 ---
 title: Top Methods When Windows Security Is Off-Limits
-date: 2024-12-24T23:27:12.746Z
-updated: 2024-12-28T03:55:54.184Z
+date: 2025-03-03T19:30:58.687Z
+updated: 2025-03-04T21:46:07.819Z
 tags:
   - windows10
   - windows11
@@ -37,18 +37,10 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 ![Download firewall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/download-troubleshooter.jpg)
 2. Click on the downloaded file and proceed with the on-screen instructions to start the scan.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Firewall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/firewall-troubleshooter.jpg)
 3. Once the scan completes, check the results and apply the solutions suggested by the troubleshooter.
 
  You can now close the troubleshooter and check if the issue is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Check if Another Security Software Is Active
 
@@ -57,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
  Disabling the third-party antivirus software may vary depending on the program you have installed. However, a common approach is to right-click on the antivirus icon located in the taskbar. From the context menu that appears, you should find an option to disable the antivirus temporarily until you restart your computer.
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After disabling the antivirus, try enabling the Windows Firewall and check if it functions properly now.
 
@@ -87,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 `netsh firewall set opmode mode=ENABLE exceptions=enable`
 6. Wait for the command to execute and then restart your computer. Check if the problem is now fixed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Modify the Registry Editor
 
  There is also a chance that a Registry key DisableAntiSpyware is enabled, which is preventing you from enabling Firewall on your computer.
@@ -108,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 `​​​​​​​HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender`
 5. Move to the right side and look for the DisableAntiSpyware key. If you locate it, delete it. You can also double-click on it and change its value to 0 if you do not want to delete it.  
 ![Disable or delete the registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/antispyware-key.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Once done, head over to the following location:  
 `​​​​​​​​​​​​​​HKEY_LOCAL_MACHINE/SYSTEM/CurrentControlSet/Services/BFE`
@@ -148,17 +128,15 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-engage-viewers-from-the-start-mobile-film-techniques-for-thumbnails-for-2024/"><u>[New] Engage Viewers From the Start Mobile Film Techniques for Thumbnails for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-what-are-facebook-reels-and-how-to-make/"><u>[New] What Are Facebook Reels and How to Make</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-an-in-depth-examination-of-samsungs-picture-editing-tech/"><u>[Updated] An In-Depth Examination of Samsung’s Picture Editing Tech</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-copilot-key-in-windows-11-enhance-your-experience/"><u>Decoding Copilot Key in Windows 11 - Enhance Your Experience</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-tracer-troubleshooting-for-audio-enthusiasts/"><u>Easy Tracer Troubleshooting for Audio Enthusiasts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-apples-new-m3-macbook-air-an-affordable-ai-marvel-for-all-detailed-analysis-by-zdnet/"><u>Exploring Apple's New M3 MacBook Air: An Affordable AI Marvel for All | Detailed Analysis by ZDNET</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/kickstart-windows-11-help-and-support-mechanism/"><u>Kickstart Windows 11 Help & Support Mechanism</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-windows-server-with-iis-manager/"><u>Master Your Windows Server with IIS Manager</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/outsmarting-fraudgpt-personal-safeguards-explored/"><u>Outsmarting FraudGPT - Personal Safeguards Explored</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-overcoming-no-write-windows-saving-hurdles/"><u>Strategies for Overcoming No Write Windows Saving Hurdles</u></a></li>
-<li><a href="https://win11.techidaily.com/tracing-your-digital-steps-in-windows-11/"><u>Tracing Your Digital Steps in Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essentials-for-youtube-music-playlists/"><u>[Updated] In 2024, Essentials for YouTube Music Playlists</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-premium-virtual-meetup-software-titles/"><u>[Updated] In 2024, Premium Virtual Meetup Software Titles</u></a></li>
+<li><a href="https://win11.techidaily.com/creative-steps-to-obliviate-win-11s-taskbar-button/"><u>Creative Steps to Obliviate Win 11'S Taskbar Button</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-unblocking-steam-when-playing-games/"><u>Essential Tips for Unblocking Steam When Playing Games</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-tecno-camon-20-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Tecno Camon 20 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/how-to-transfer-playlists-between-music-services/"><u>How to Transfer Playlists Between Music Services</u></a></li>
+<li><a href="https://win11.techidaily.com/is-it-necessary-to-keep-pagefilesys-reasons-explored/"><u>Is It Necessary to Keep Pagefile.sys? Reasons Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/masked-commands-the-win-1011-trickery-guide/"><u>Masked Commands: The Win 10/11 Trickery Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-persistent-crashing-problems-in-total-war-rome-remastered/"><u>Resolving the Persistent Crashing Problems in Total War: Rome Remastered</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/video-freedom-top-8-tools-transforming-youtube-into-avis-for-2024/"><u>Video Freedom Top 8 Tools Transforming YouTube Into Avis for 2024</u></a></li>
 </ul></div>
 

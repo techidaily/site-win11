@@ -1,7 +1,7 @@
 ---
 title: Begin Your Windows Journey with a Voice Guide
-date: 2024-08-08T13:16:38.510Z
-updated: 2024-08-09T13:16:38.510Z
+date: 2025-03-04T03:48:24.426Z
+updated: 2025-03-05T01:38:54.384Z
 tags:
   - windows10
   - windows11
@@ -26,18 +26,12 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
  To stop the Narrator from reading aloud, press**Caps Lock + Esc** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. How to Start the Narrator Using a Run Command
 
  The Run command on a Windows operating system is a quick way to open an application or document. If you're using a screen reader or text-to-speech software on your Windows 11 computer, you can open it using the Run command. Here's how:
 
 1. Press**Win + R** on your keyboard. Doing so opens the Run dialog box.
 2. In the Run window that opens, type "Narrator" into the field and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![Open Narrator Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-run-command.jpg)
 3. The narrator will now launch and begin reading aloud whatever is on your screen.
 
@@ -49,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 2. Type "cmd" in the text box and press**Ctrl + Shift + Enter** .
 3. If UAC appears on the screen, click**Yes** to continue.
 4. In the Command Prompt window, type "narrator" and press Enter.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Narrator Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-command-prompt.jpg)
 5. The Narrator window will open, and you can start using the screen reader.
 
@@ -65,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
 You now have Narrator running on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. How to Start the Narrator Through Windows PowerShell
 
  Windows PowerShell is a task-based command-line shell and scripting language designed especially for system administration. You can use this tool to launch programs installed on your computer.
@@ -76,9 +64,6 @@ To open Narrator using Windows PowerShell, follow these steps:
 
 1. Press**Win + X** on your keyboard and select**Terminal (Admin)** .
 2. If UAC appears on the screen, click the**Yes** button to continue.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Narrator Using Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-windows-powershell.jpg)
 3. In the PowerShell window, type "narrator" and press Enter to start the Narrator.
 
@@ -89,9 +74,6 @@ To open Narrator using Windows PowerShell, follow these steps:
 1. Press**Win + I** on your keyboard to open System Settings.
 2. Click the**Accessibility** tab on the left side of the screen.
 3. Navigate to the**Vision** section and click**Narrator** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![Open Narrator Using Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-windows-settings.jpg)
 4. Under the Use Narrator section, switch on the**Narrator** toggle.
 
@@ -101,9 +83,6 @@ To open Narrator using Windows PowerShell, follow these steps:
 
 1. Open the Control Panel (see [how to open the Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/) for help).
 2. In the control panel, change the screen view to**Large icons** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Narrator Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-control-panel.jpg)
 3. Next, select**Easy of Access Centre** \>**Start Narrator** .
 4. The Narrator will start on your Windows 11 device.
@@ -119,9 +98,6 @@ To open Narrator using Windows PowerShell, follow these steps:
 
  Once you have created it, you will see a shortcut icon on your desktop. Double-click on it to start the Narrator.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## 9\. How to Start Narrator Through Task Manager
 
  Windows 11 comes with a lot of useful features, and one of them is the ability to open Narrator using Task Manager. This can be helpful if you're having trouble with your computer and can't access the other methods suggested. To open Narrator using Task Manager, follow these steps:
@@ -142,9 +118,6 @@ To open Narrator using Windows PowerShell, follow these steps:
 
 That's all; your Narrator should now be ready to go.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 11\. How to Pin Narrator to the Taskbar
 
  While you can open Narrator using any of the above methods, you might find it easier to access it right from the Taskbar tray. Having it on the taskbar can make it easier and faster to access an application since it is always in view on your desktop. To do this, follow the below steps:
@@ -159,14 +132,11 @@ That's all; your Narrator should now be ready to go.
 
  The Narrator tool is easy to use and can be very helpful for those who are visually impaired or have disabilities that make using a computer difficult. If you're running Windows 11 and want to open Narrator, now you know the best ways to do so.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,6 +145,26 @@ That's all; your Narrator should now be ready to go.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/utting-edge-editing-techniques-youtube-and-comparable-tools/"><u>[New] Cutting-Edge Editing Techniques YouTube & Comparable Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-explore-top-10-dynamic-picture-background-switchers-for-2024/"><u>[New] Explore Top 10 Dynamic Picture-Background Switchers for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-breaking-barriers-youtube-marketing-mastery/"><u>[New] In 2024, Breaking Barriers YouTube Marketing Mastery</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-ranked-best-voice-change-software-echo-magic-edition/"><u>[New] In 2024, Ranked Best Voice Change Software Echo Magic Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-fbx-studio-guide-for-gamers/"><u>[Updated] In 2024, FBX Studio Guide for Gamers</u></a></li>
+<li><a href="https://win11.techidaily.com/curbing-excessive-cpu-load-from-windows-core/"><u>Curbing Excessive CPU Load From Windows Core</u></a></li>
+<li><a href="https://fox-links.techidaily.com/enhance-virtual-engagement-streaming-with-finesse-using-zoom-and-youtube-live/"><u>Enhance Virtual Engagement Streaming with Finesse Using Zoom and YouTube Live</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-image-focus-with-background-blur-feature-in-windows-11s-photos-app/"><u>Fine-Tuning Image Focus with Background Blur Feature in Windows 11'S Photos App</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-acclaimed-cameras-for-expert-automotive-tracking/"><u>In 2024, Acclaimed Cameras for Expert Automotive Tracking</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-loves-cinematic-journey-youtube-and-vimeos-top-premium-marriage-videos/"><u>In 2024, Love's Cinematic Journey YouTube & Vimeo's Top Premium Marriage Videos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-11-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 11 Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/master-gamers-guide-choosing-the-best-operating-system/"><u>Master Gamer's Guide: Choosing the Best Operating System</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-windows-account-pin-change/"><u>Mastering the Art of Windows Account Pin Change</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-eradicate-code-0x800700e1-issue-in-windows-11-pcs/"><u>Steps to Eradicate Code 0X800700E1 Issue in Windows 11 PCs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-downsides-of-sharing-your-youtube-content-via-tube2gram-on-instagram/"><u>The Downsides of Sharing Your YouTube Content via Tube2Gram on Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-workflow-windows-11s-elite-selection-of-widgets/"><u>Transform Your Workflow: Windows 11'S Elite Selection of Widgets</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-guide-resolving-total-war-saga-troy-stability-problems-on-windowspc/"><u>Troubleshooting Guide: Resolving Total War Saga: Troy Stability Problems on Windows/PC</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-screen-direction-with-windows-control/"><u>Turn Screen Direction with Windows Control</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-updates-whats-in-the-name-and-number/"><u>Windows Updates: What's in the Name and Number?</u></a></li>
+</ul></div>
 

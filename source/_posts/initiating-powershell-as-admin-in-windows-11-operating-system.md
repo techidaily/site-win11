@@ -1,7 +1,7 @@
 ---
 title: Initiating PowerShell as Admin in Windows 11 Operating System
-date: 2025-02-10T04:52:34.942Z
-updated: 2025-02-15T18:36:07.876Z
+date: 2025-02-27T21:44:00.389Z
+updated: 2025-03-04T22:13:46.526Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Open Windows PowerShell as an Administrator Using the Power User Menu
 
  The Power User Menu is a great way to quickly access important system tools and settings in Windows 11\. To open Windows PowerShell using the Power User Menu, do the following:
@@ -37,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 2. From the menu list, select**Terminal (Admin)** .  
 ![Open Windows PowerShell Using Power User Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-power-user-menu.jpg)
 3. If UAC appears on the screen, click**Yes** to grant permission.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Open Windows PowerShell as an Administrator From the Windows Search Tool
 
@@ -75,10 +67,6 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 ![Open Windows PowerShell Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-file-explorer.jpg)
 5. When UAC appears, click**Yes** to grant admin rights.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. How to Open Windows PowerShell as an Administrator Using Command Prompt
 
  A command prompt lets you run almost any program or application on your Windows device. To run Windows PowerShell using this tool, follow these steps:
@@ -86,10 +74,6 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 1. Run Command Prompt as an Administrator (see[how to open the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).  
 ![Open Windows PowerShell Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-command-prompt.jpg)
 2. In the elevated command prompt, copy and paste the given command line:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `powershell Start-Process powershell -Verb runAs`
 
@@ -106,10 +90,6 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 ![Open Windows PowerShell Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-control-panel.jpg)
 5. The UAC will appear on the screen. If it does, click**Yes** to grant administrative privileges.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. How to Open Windows PowerShell as an Administrator Through Task Manager
 
  Task Manager is a powerful tool that can help you troubleshoot and fix problems with your PC. Besides this, you can also use this tool to launch programs on your Windows device.
@@ -121,10 +101,6 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 3. In the pop-up menu, type "PowerShell" and check the "Create this task with administrative privileges" box.  
 ![Open Windows PowerShell Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-task-manager.jpg)
 4. Click**OK** and Windows PowerShell will start as an administrator.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. How to Open Windows PowerShell as an Administrator Using the Control Panel
 
@@ -151,10 +127,6 @@ C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
 4. Type in a name for the shortcut and click Finish.
 
  Now, whenever you want to open PowerShell as an administrator, simply double-click on the shortcut.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. How to Open Windows PowerShell as an Administrator Using a Batch File
 
@@ -189,21 +161,20 @@ Powershell.exe -Command "& {Start-Process Powershell.exe -Verb RunAs}"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-determining-the-perfect-orientation-for-fb-videos/"><u>[New] Determining the Perfect Orientation for FB Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-exploring-the-depths-of-adobe-cloud-storages-plus-top-non-adobe-choices/"><u>[New] In 2024, Exploring the Depths of Adobe Cloud Storages, Plus Top Non-Adobe Choices</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-innovative-frame-tools-and-websites-image-editors-for-2024/"><u>[New] Innovative Frame Tools and Websites Image Editors for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unveiling-figmas-bg-elimination-mastery/"><u>[Updated] In 2024, Unveiling Figma's BG Elimination Mastery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-turbo-speed-photo-browser-for-windows-10/"><u>[Updated] Turbo Speed Photo Browser for Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/configuring-windows-11-mobile-hotspot-on-the-go/"><u>Configuring Windows 11 Mobile Hotspot on the Go</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/easy-techniques-to-download-gif-images-from-social-media-for-2024/"><u>Easy Techniques to Download GIF Images From Social Media for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-mouse-indicators-in-modern-windows-environments/"><u>Elevating Mouse Indicators in Modern Windows Environments</u></a></li>
-<li><a href="https://facebook.techidaily.com/fix-for-inaccessible-verification-codes-on-social-media-platforms-fb/"><u>Fix for Inaccessible Verification Codes on Social Media Platforms (FB)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-13-pro-max-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 13 Pro Max With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-rift-of-war-boost-fps-on-windows-pcs/"><u>Master the Rift of War: Boost FPS on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-tips-for-lunar-client-launch-failure-on-desktops/"><u>Quick-Fix Tips for Lunar Client Launch Failure on Desktops</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-disconnection-issues-from-nvidia-to-os-1011/"><u>Resolving Disconnection Issues From Nvidia to OS 10/11</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-8-compact-android-emulators-windows-and-macos/"><u>Top 8 Compact Android Emulators, Windows & MacOS</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-why-is-my-nvidia-cp-closed/"><u>Troubleshooting: Why Is My Nvidia CP Closed?</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-speed-potential-with-premium-keyboard-cars/"><u>Unleash Speed Potential with Premium Keyboard Cars</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-tracing-the-flow-of-money-in-consumer-opinions/"><u>[New] 2024 Approved Tracing the Flow of Money in Consumer Opinions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-conceal-visages-with-confidence-using-these-select-apps/"><u>[New] Conceal Visages with Confidence Using These Select Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hilarity-in-a-click-meme-creation/"><u>[Updated] Hilarity in a Click (Meme Creation)</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/boost-your-video-virality-essential-tiktok-lyrics-for-2024/"><u>Boost Your Video Virality Essential TikTok Lyrics for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/game-hacks-directories-revealed-in-windows/"><u>Game Hacks: Directories Revealed in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-xbox-mic-fixes-within-windows-11-environment/"><u>Implementing Xbox Mic Fixes Within Windows 11 Environment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-crypto-discussions-with-chatgpt-your-go-to-list-of-top-10-prompts/"><u>Mastering Crypto Discussions with ChatGPT: Your Go-To List of Top 10 Prompts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/navigating-the-world-of-srt-with-ease-for-2024/"><u>Navigating the World of SRT with Ease for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-melodies-in-motion-curating-a-list-of-audiovisual-wonders-for-music-lovers-free-and-paid/"><u>New Melodies in Motion Curating a List of Audiovisual Wonders for Music Lovers (Free and Paid)</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-power-mode-locks-in-windows-11/"><u>Overcoming Power Mode Locks in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-a-translucent-taskbar-in-win11/"><u>Techniques for a Translucent Taskbar in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/transitioning-to-the-future-swapping-aged-window-drivers/"><u>Transitioning to the Future: Swapping Aged Window Drivers</u></a></li>
+<li><a href="https://fox-within.techidaily.com/wie-sie-daten-erfolgreich-von-einer-externen-festplatte-sichern-und-wiederherstellen/"><u>Wie Sie Daten Erfolgreich Von Einer Externen Festplatte Sichern Und Wiederherstellen</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-audio-setup-made-easy/"><u>Windows 11 Audio Setup Made Easy</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-back-connection-overcoming-ea-service-errors/"><u>Winning Back Connection: Overcoming EA Service Errors</u></a></li>
 </ul></div>
 

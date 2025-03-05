@@ -1,7 +1,7 @@
 ---
 title: "Adjusting Login Failure Threshold: Step-by-Step for Windows 11 Users"
-date: 2024-08-08T13:14:29.985Z
-updated: 2024-08-09T13:14:29.985Z
+date: 2025-03-01T00:29:07.406Z
+updated: 2025-03-05T01:33:22.489Z
 tags:
   - windows10
   - windows11
@@ -20,28 +20,16 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
 
  Exceed this threshold and you will need this counter to be reset, which you can do by waiting a set amount of time. Here’s how to change the time you must wait in order for the counter to be automatically reset.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Reset the Windows Account Lockout Counter in Windows via Local Security Policy
 
  This method should be your preferred choice if the system is running the Pro, Enterprise, or Education edition of Windows 10 or 11\.
 
 1. Press the Windows key + R to open the **Run** dialogue.
 2. In the text field, type “secpol.msc” and hit Enter.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Opening security policy via Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/01-windows-run-security-policy.jpg)
 3. On the left pane, navigate to **Account Lockout Policy** under the **Account Policies** folder.  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Change Windows account lockout in Security Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/02-windows-account-policies.jpg)
 4. On the right pane, double-click on the **Reset account lockout counter after** option.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows account logon counter setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-reset-windows-account-logon-counter.jpg)
 5. Choose a number between one and 99,999, and hit **OK** to change how long the system will require to automatically reset any failed logon attempts.  
 ![Set Windows account logon reset timer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/04-choose-windows-account-logon-reset-timer.jpg)
@@ -57,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
 3. This will pull up information on how long a user has to wait before their account lockout counter is reset. It will be under the heading **Lockout observation window**.
 4. To change the account lockout counter reset duration on Windows 10 and 11, type the following command into the console and hit **Enter**:  
 `net accounts /lockoutwindow:60`  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![Use the command prompt to change account lockout counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/06-change-account-lockout-counter-command-prompt.jpg)
 5. Replace the number “60” in the command with any other number from one to 99,999 to set how many minutes a user will have to wait before their failed logon attempts are reset.
 
@@ -67,16 +52,11 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
 
  You can also [limit the number of failed logon attempts on Windows](https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/) with a similar setting change.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Control How Long Before the Incorrect Logon Counter Is Reset
 
  With this setting, you control how long before the counter that keeps track of incorrect logon attempts is reset. Use it in conjunction with the lockout duration option account policy to make things more convenient for local users.
 
  Exceed this threshold and you will need this counter to be reset, which you can do by waiting a set amount of time. Here’s how to change the time you must wait in order for the counter to be automatically reset.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -84,4 +64,19 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-decoding-the-earning-dynamics-for-podcasters-for-2024/"><u>[New] Decoding the Earning Dynamics for Podcasters for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-greatest-7-web-based-recording-tools-2023/"><u>[New] Greatest 7 Web-Based Recording Tools 2023</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-alert-tones-superior-download-sites-list/"><u>[New] Top Alert Tones Superior Download Sites List</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-virtual-voyages-unveiled-the-ultimate-gaming-odyssey-top-10/"><u>[New] Virtual Voyages Unveiled The Ultimate Gaming Odyssey (Top 10)</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-auto-color-management-for-apps-in-windows-11/"><u>How to Enable Auto Color Management for Apps in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-prevent-c-drive-from-being-overfilled/"><u>How to Prevent C: Drive From Being Overfilled</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/proven-ways-to-convert-mkv-files-to-mp4-in-windows/"><u>Proven Ways to Convert MKV Files to MP4 in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-windows-11s-languishing-5g-connection/"><u>Reviving Your Windows 11'S Languishing 5G Connection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-beginners-tutorial-on-clearing-the-cmos-for-effective-bios-management/"><u>The Beginner’s Tutorial on Clearing the CMOS for Effective BIOS Management</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-overcome-the-red-dead-redemption-loading-screen-glitch/"><u>Troubleshooting: How to Overcome the Red Dead Redemption ^Loading Screen Glitch</u></a></li>
+</ul></div>
 

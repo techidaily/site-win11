@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows' Missing Updater Files Problem (Error Code: 0X80070003)"
-date: 2024-12-24T03:24:26.439Z
-updated: 2024-12-28T03:11:36.144Z
+date: 2025-03-03T04:53:10.537Z
+updated: 2025-03-04T20:24:51.466Z
 tags:
   - windows10
   - windows11
@@ -72,31 +72,15 @@ Here is all that you need to do:
 ![SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/sfc-scannow.jpg)
 4. Wait for the command to execute, and then execute the following command:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `Dism /Online /Cleanup-Image /ScanHealth`  
 ![DISM scanhealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/scanhealth.jpg)
 5. Next, proceed with the following command:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `Dism /Online /Cleanup-Image /RestoreHealth`  
 ![DISM restorehealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/restorehealth.jpg)
 6. Once this command is executed, close the Command Prompt window and check if you can now download the targeted updates.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  While you are at it, you can also[run the Windows Update troubleshooter](https://www.makeuseof.com/tag/windows-update-troubleshooter/) . This tool also works like the utilities we just described above. It will scan the system for errors and suggest you relevant fixes that can be applied using the troubleshooter as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Repair the Update Components
 
@@ -128,10 +112,6 @@ net start appidsvc`
 ![Restart the update services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-the-services.jpg)
 7. After the commands are executed, restart your computer. Hopefully, you will be able to install the pending updates on reboot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Get the Missing Update Files Back on Windows
 
  Hopefully, by now, you should have successfully resolved the annoying update error. In case you are still facing the issue, you can use the Microsoft update catalog to install the updates manually. It may also be a good idea to report this issue to the Microsoft support team so they can launch an official fix for the problem.
@@ -151,16 +131,14 @@ net start appidsvc`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prepare-for-the-metaverse-the-7-indispensable-tools/"><u>2024 Approved Prepare for the Metaverse - The 7 Indispensable Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-through-windows-tpm-restrictions-with-ease/"><u>Breaking Through Windows TPM Restrictions with Ease</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premier-visual-sneak-peek-bundle/"><u>In 2024, Premier Visual Sneak Peek Bundle</u></a></li>
-<li><a href="https://win11.techidaily.com/launching-the-speedy-assistance-mechanism-in-w11/"><u>Launching the Speedy Assistance Mechanism in W11</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-black-window-after-system-ignition/"><u>Remedying Black Window After System Ignition</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-overcoming-the-error-in-windows-activation-0x803f700f/"><u>Strategies for Overcoming the Error in Windows Activation 0X803F700f</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1987627-9781782799702-the-spiritual-feminist/"><u>The Spiritual Feminist | Free Book</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-how-to-repair-non-functional-volume-controls/"><u>Troubleshooting iPhone: How to Repair Non-Functional Volume Controls</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-your-pcs-full-potential-in-games-the-win-11-master-plan-of-7-actions/"><u>Unlock Your PC's Full Potential in Games: The Win 11 Master Plan of 7 Actions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-secrets-function-and-processes-behind-effective-bass-control/"><u>Unveiling the Secrets: Function and Processes Behind Effective Bass Control</u></a></li>
-<li><a href="https://win11.techidaily.com/unwrapping-solutions-the-ultimate-guide-to-fixing-e84-in-steam/"><u>Unwrapping Solutions: The Ultimate Guide to Fixing E84 in Steam</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-vlog-editing-essentials-utilizing-jump-cuts-rightly/"><u>[New] 2024 Approved Vlog Editing Essentials Utilizing Jump Cuts Rightly</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-streamline-your-tech-expertise-with-io-screen-recording-for-2024/"><u>[New] Streamline Your Tech Expertise with IO Screen Recording for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-recovery-mode-on-microsoft-devices/"><u>Accessing Recovery Mode on Microsoft Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-ai-assisted-chatgpt-devise-personalized-fitness-programs-that-ensure-your-safety-and-effectiveness/"><u>Can AI-Assisted ChatGPT Devise Personalized Fitness Programs That Ensure Your Safety and Effectiveness?</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-advice-regaining-original-windows-configs/"><u>Expert Advice: Regaining Original Windows Configs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-through-spatial-computing-functionality-explained-on-techinsighthub/"><u>Navigating Through Spatial Computing: Functionality Explained on TechInsightHub</u></a></li>
+<li><a href="https://win11.techidaily.com/severing-cloud-storage-bond-onedrive-from-your-microsoft-account-in-windows/"><u>Severing Cloud Storage Bond: OneDrive From Your Microsoft Account in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-activation-the-hidden-traps-in-inexpensive-keys/"><u>Windows Activation: The Hidden Traps in Inexpensive Keys</u></a></li>
 </ul></div>
 

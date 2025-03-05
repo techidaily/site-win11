@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Missed Messages: Solutions to Windows Mail Alert Issues"
-date: 2024-08-08T13:15:46.063Z
-updated: 2024-08-09T13:15:46.063Z
+date: 2025-03-02T03:24:30.860Z
+updated: 2025-03-04T21:34:03.327Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/7ca1823a541bb8f1b1b4e3f36dc533291122ea53e
 
  If this happens to you, here are some effective troubleshooting tips that will help you fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 1\. Check the In-App Notification Settings
 
  Your first step is to make sure that you haven't turned off notifications from the Mail app.
@@ -36,9 +33,6 @@ To access notification settings in the Mail app:
 5. Enable the toggle for**Show notifications in the action center** .
 6. Tick the**Show a notification banner** checkbox.
 7. Tick the**Play a sound** checkbox.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable Windows Mail Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Windows-Mail-Notifications.jpg)
 
  Once you complete the above steps, the Mail app should start showing notifications on Windows.
@@ -54,9 +48,6 @@ To access notification settings in the Mail app:
 3. Under**Notifications from apps and other senders** , enable the switch next to**Mail** if it isn’t already.  
 ![Enable Windows Mail App Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Windows-Mail-App-Notifications.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Check Mailbox Sync Settings
 
  You can configure the Mail app sync settings to specify how frequently the app should connect to the server to download new content. If Mail app notifications are arriving late, you can resolve the problem by modifying the mailbox sync settings. Here's what you'll need to do.
@@ -68,9 +59,6 @@ To access notification settings in the Mail app:
 5. Click on**Change mailbox sync settings** .
 6. Under**Download new content** , select**as items arrive** .
 7. Under**Sync options** , enable the toggle for**Email** .  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check Mail App Sync Settings Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-Mail-App-Sync-Settings-Windows.jpg)
 
 ## 4\. Allow the Mail App to Run in the Background
@@ -95,18 +83,6 @@ To access notification settings in the Mail app:
 2. Click on**Manage accounts** and select the account you want to remove.
 3. Select**Delete account from this device** .
 4. Choose**Delete** to confirm.  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Delete Account From the Windows Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Delete-Account-From-the-Windows-Mail-App.jpg)
 
 Once removed, restart the Mail app and add your account again.
@@ -120,9 +96,6 @@ Once removed, restart the Mail app and add your account again.
 1. Open the**Settings** app.
 2. Navigate to**System > Focus** .
 3. Set the Focus Assist to**Off** , so you get all notifications.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn Off Focus Assist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turn-Off-Focus-Assist.jpg)
 
  Further, check the**Automatic rules** section to make sure Focus Assist is not set to enable itself automatically.
@@ -137,9 +110,6 @@ Once removed, restart the Mail app and add your account again.
 2. Navigate to**System > Power & battery** .
 3. Click on**Battery saver** to expand it.
 4. Click the**Turn off now** button.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Turn Off Battery Saver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turn-Off-Battery-Saver-on-Windows.jpg)
 
 ## 8\. Repair or Reset the Mail App
@@ -151,16 +121,10 @@ Once removed, restart the Mail app and add your account again.
 3. Scroll down to locate the Mail app on the list.
 4. Click the**three-dot menu icon** next to the app and select**Advanced options** .
 5. Scroll down to the**Reset** section and click on**Repair** .  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Repair or Reset Windows Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Repair-or-Reset-Windows-Mail-App.jpg)
 
  Windows will attempt to repair the app. You should see a checkmark next to the Repair button once the process is complete. If the problem persists, you can try resetting the app instead. Note that this process will delete all the app data.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 9\. Update the Mail App
 
  If you don’t update your apps on a regular basis, they will get outdated eventually. It's possible that the Mail app notifications aren't working because of a faulty app version. If that’s the case, updating the app will help more often than not.
@@ -173,14 +137,11 @@ Once removed, restart the Mail app and add your account again.
 
  If you’ve gotten tired of such issues with the default Windows Mail app, there are plenty of third-party email apps you may want to try.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -189,6 +150,18 @@ Once removed, restart the Mail app and add your account again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-10-cool-features-that-make-you-love-filmora-video-editor/"><u>[Updated] 2024 Approved 10 Cool Features That Make You Love Filmora Video Editor</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/acclaimed-pc-emulators-for-vintage-ps1-titles-for-2024/"><u>Acclaimed PC Emulators for Vintage PS1 Titles for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mic-expressiveness-in-video-theming-tools-for-2024/"><u>Economic Expressiveness in Video Theming Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-office-hours-on-win-11-with-these-apps/"><u>Elevate Your Office Hours on Win 11 with These Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/embrace-the-past-display-today-classics-in-windows-11-pics-space/"><u>Embrace the Past, Display Today: Classics in Windows 11 Pics Space</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-cultivating-productive-collaboration-a-pathway-to-effective-collab-videos/"><u>In 2024, Cultivating Productive Collaboration A Pathway to Effective Collab Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-ethical-buyers-of-tiktok-popularity-boost/"><u>In 2024, Ethical Buyers of TikTok Popularity Boost</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-standard-edition-review-of-djis-drone-model-3/"><u>In 2024, The Standard Edition Review of DJI's Drone Model 3</u></a></li>
+<li><a href="https://win11.techidaily.com/running-libertychat-open-ai-gpt-on-windows-with-freedomgpt/"><u>Running LibertyChat: Open-AI GPT on Windows with FreedomGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-eradicate-windows-steam-game-e84-blunders/"><u>Swiftly Eradicate Windows Steam Game E84 Blunders</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-unseen-windows-on-startup-screen/"><u>Tackling Unseen Windows on Startup Screen</u></a></li>
+</ul></div>
 

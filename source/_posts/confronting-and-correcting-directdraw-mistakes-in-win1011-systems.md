@@ -1,7 +1,7 @@
 ---
 title: Confronting and Correcting DirectDraw Mistakes in Win10/11 Systems
-date: 2025-02-12T00:07:50.475Z
-updated: 2025-02-16T00:35:31.288Z
+date: 2025-03-03T04:06:39.168Z
+updated: 2025-03-04T17:25:37.860Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Configure Affected Apps to Run in Compatibility Mode
 
  Running games and software in compatibility mode is a resolution that’s fixed the DirectDraw error for many users. As the DirectDraw error usually arises for older games and software, it makes sense to do so. You can set games to run in compatibility mode like this:
@@ -40,20 +36,12 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ![The Run the program in compatibility mode option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-this-program-in-compatibility-mode-for.jpg)
 5. Then select the latest Windows platform that was available in the game’s release year. If you’re not sure, choose a **Windows 8** or 7 option on the menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Select **Apply** to set the new compatibility option.
 7. Click **OK** to close out of the properties window.
 
  There’s also a Program Compatibility Troubleshooter that might be useful for troubleshooting the DirectDraw error. That troubleshooter includes an option that sets recommended compatibility settings for a selected program. It enables you to test programs with compatibility settings.
 
  If selecting the compatibility mode setting doesn’t work, consider utilizing the Program Compatibility Troubleshooter. This [Program Compatibility Troubleshooter guide](https://www.makeuseof.com/program-compatibility-troubleshooter-windows-11-guide/) provides guidelines for accessing and utilizing that troubleshooter.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Set a 640 x 480 Resolution for the Game
 
@@ -72,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
 ![Resolution options in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/resolution-options.jpg)
 6. Then click the **Keep Changes** button to set the selected resolution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Try starting the game or software.
 
@@ -115,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
  If nothing has worked yet, there are some simple Windows tricks that usually fix display issues with software and games.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Update Your Video Card’s Driver
 
  This error can also feasibly occur because an outdated or corrupted graphics driver is causing DirectDraw display component issues. Installing the latest graphics driver available for your PC’s GPU could remedy such issues. Our guide to [updating GPU drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) includes instructions for installing new graphics drivers in five different ways.
@@ -131,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
 ![The Target box for a Windows game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/target-box-for-a-game-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Reinstall the Affected Game or Software
 
  Reinstall affected games or software packages if you’re still trying to fix the DirectDraw error after applying other possible resolutions in this guide. If you’ve installed a game with gaming client software like Steam, Epic, or GOG, you can uninstall it with the same software. Or remove the software within the Control Panel or Settings with a method in this [guide to uninstalling programs on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
@@ -142,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-option-in-epic-games.jpg)
 
  When you’ve done that, restart Windows and reinstall the game with your gaming client software. If the game has a DVD/CD, you’ll need to reinstall it with that disc.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enjoy Your Retro Games or Apps on Windows
 
@@ -163,24 +135,18 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-all-you-need-to-know-about-youtube-shorts-fund/"><u>[Updated] In 2024, All You Need to Know About YouTube Shorts Fund</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-the-art-and-science-of-capturing-stunning-gopro-time-lapse/"><u>2024 Approved The Art & Science of Capturing Stunning GoPro Time Lapse</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/webm-mp4-av/"><u>移動維脫改WEBM MP4自由下載 - 魔韋波AV編解像器</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/g-audio-descriptions-to-videos-on-youtube-for-2024/"><u>Adding Audio Descriptions to Videos on YouTube for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/bridging-ai-innovation-and-commerce-insights-from-modern-renaissance-tech-experts-zdnet/"><u>Bridging AI Innovation & Commerce: Insights From Modern Renaissance Tech Experts | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-fixes-when-your-mac-application-wont-launch-correctly/"><u>Easy Fixes When Your Mac Application Won't Launch Correctly</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-productivity-with-custom-copy-paste-keys/"><u>Enhancing Productivity with Custom Copy-Paste Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/flawless-frames-winning-views-top-strategies-for-smooth-playback/"><u>Flawless Frames, Winning Views: Top Strategies for Smooth Playback</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-enable-tpm-and-secure-boot-before-upgrading-to-windows-11/"><u>How to Enable TPM and Secure Boot Before Upgrading to Windows 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-v29-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo V29 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-unlocking-windows-1110s-nvidia-panel/"><u>Quick Guide: Unlocking Windows 11/10'S NVIDIA Panel</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-issues-with-windows-activity-monitor/"><u>Resolving Issues with Windows Activity Monitor</u></a></li>
-<li><a href="https://win11.techidaily.com/revitalizing-timekeeping-on-windows-platforms/"><u>Revitalizing Timekeeping on Windows Platforms</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/sechs-effektive-wege-zum-hochladen-von-smartphone-bildern-von-einem-iphone-auf-ein-anderes/"><u>Sechs Effektive Wege Zum Hochladen Von Smartphone-Bildern Von Einem iPhone Auf Ein Anderes</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-copypaste-operations-in-win-11/"><u>Streamlining Copy/Paste Operations in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-windows-11-for-a-more-intuitive-search/"><u>Tailoring Windows 11 for a More Intuitive Search</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-right-way-to-dry-out-your-soaked-iphone-according-to-apple-avoid-the-age-old-rice-trick/"><u>The Right Way to Dry Out Your Soaked iPhone According to Apple | Avoid the Age-Old Rice Trick</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/troubleshooting-steps-for-restoring-print-screen-key-command-on-windows-10-11-systems/"><u>Troubleshooting Steps for Restoring Print Screen Key Command on Windows 10 / 11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-applying-dism-commands-to-win11-images/"><u>Understanding and Applying DISM Commands to Win11 Images</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unable-to-switch-off-internal-wifibluetooth-how-do-i-fix-it48-char/"><u>“Unable to Switch Off Internal WIFI/Bluetooth - How Do I Fix It?”(48 Char)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-kinemaster-insider-the-art-of-seamless-video-transitions/"><u>[Updated] Kinemaster Insider The Art of Seamless Video Transitions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-what-does-the-blue-marker-on-fb-chat-reveal/"><u>2024 Approved What Does the Blue Marker on FB Chat Reveal?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-setup-with-the-latest-epson-wf-2750-printer-drivers-download-today/"><u>Easy Setup with the Latest Epson WF-2750 Printer Drivers - Download Today</u></a></li>
+<li><a href="https://win11.techidaily.com/five-command-line-charades-for-a-chuckle/"><u>Five Command Line Charades for a Chuckle</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-clipchamp-installation-strategies-for-windows-11-users/"><u>Revive ClipChamp Installation: Strategies for Windows 11 Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-water-resistant-smartwatch-models-in-depth-analysis-and-reviews-by-experts-techradar/"><u>Top Rated Water-Resistant Smartwatch Models - In-Depth Analysis & Reviews by Experts | TechRadar</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-peak-performance-with-these-top-5-windows-productivity-hacks/"><u>Unlock Peak Performance with These Top 5 Windows Productivity Hacks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-top-7-destinations-for-new-release-movie-teasers/"><u>Unveiling the Top 7 Destinations for New Release Movie Teasers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/upcoming-gpt-4-revolutionizing-diy-with-advanced-artificial-intelligence/"><u>Upcoming GPT-4: Revolutionizing DIY with Advanced Artificial Intelligence</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-avchd-video-editing-software-the-top-5-contenders/"><u>Updated In 2024, AVCHD Video Editing Software The Top 5 Contenders</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-ultimate-guide-to-filmora-discounts-4-top-secrets-revealed/"><u>Updated In 2024, The Ultimate Guide to Filmora Discounts 4 Top Secrets Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-saving-screen-captures-locations/"><u>Windows: Saving Screen Captures Locations</u></a></li>
 </ul></div>
 

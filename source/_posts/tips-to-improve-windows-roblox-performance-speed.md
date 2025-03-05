@@ -1,7 +1,7 @@
 ---
 title: Tips to Improve Windows Roblox Performance Speed
-date: 2025-02-12T17:19:04.615Z
-updated: 2025-02-15T18:58:12.831Z
+date: 2025-03-03T04:49:52.625Z
+updated: 2025-03-05T05:02:44.431Z
 tags:
   - windows10
   - windows11
@@ -27,27 +27,15 @@ thumbnail: https://thmb.techidaily.com/c2364ce1ce1631cf3307292a0e382081e93d8f200
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Ensure the Frame Rate Is Actually Low
 
  First, ensure that the frame rate is actually low in Roblox; you can check this using Roblox's in-game FPS counter. To check the game's FPS, you simply have to press the**Shift + F5** keys.
 
 ![Check FPS in Roblox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-fps-in-roblox.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this key combination does not work, function keys may not be enabled on your device. See if your laptop has an**Fn** key, typically found in the lower-left corner of the keyboard, next to the**CTRL** or**Win** key.
 
  Upon finding the Fn key, see if its light is on. If you see the key glowing, it means that the Fn key is on and function keys are already enabled. If the key's light is off, then it is disabled. If it's off, press the**Fn** key to turn it on again. Then, press the same key combination (**Shift + F5)** again to see the frame rate.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Always Run Roblox as Administrator
 
@@ -91,10 +79,6 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
 ![Go to Graphics Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-go-to-graphics-settings-in-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If Roblox is not already listed here, click**Browse** , and select Roblox's EXE file. Once added, click on Roblox and then**Options** . After that, select**High performance** in the**Graphics preference** window.
 
 ![Select High Performance in the Graphics Preferences Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-select-high-performance-in-the-graphics-preferences-window.jpg)
@@ -119,19 +103,11 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
 ![Open Adjust the Appearance and Performance of Windows From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/9-open-adjust-the-appearance-and-performance-of-windows-from-windows-search.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, in the**Performance Options** window, check the circle beside**Adjust for best performance** .
 
 ![Check the Circle Besides Adjust for best performance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/check-the-circle-besides-adjust-for-best-performance.jpg)
 
  Doing so will disable all visual effects, but you'll immediately see a good FPS boost.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Check for Internet Issues
 
@@ -141,10 +117,6 @@ To remove this unnecessary burden from your GPU, follow these steps:
 * Disconnect other devices connected to your internet connection. This will ensure that your device receives the maximum bandwidth possible.
 * Even though there isn't much evidence to support this, changing the DNS settings can reduce latency slightly, which can reduce lag in online games.[Change the DNS server on Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) and see if it improves Roblox's performance.
 * If available, use an Ethernet cable to connect your device to the internet, as it helps establish a stable connection.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Play Roblox Lag-Free and Get Better FPS on Windows
 
@@ -167,24 +139,18 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-infusing-vitality-into-text-an-animated-adventure/"><u>[New] In 2024, Infusing Vitality Into Text An Animated Adventure</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-proven-steps-building-quality-time-lapses-on-galaxy-devices/"><u>[New] Proven Steps Building Quality Time-Lapses on Galaxy Devices</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-capturereview-station/"><u>[Updated] CaptureReview Station</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-elite-camera-set-optimal-webcams-for-windows-11/"><u>2024 Approved The Elite Camera Set Optimal Webcams for Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-flvswf-movavi/"><u>完全無料で専用のOnline FLV/SWFファイルを変換: Movaviスムーズ編集ツール</u></a></li>
-<li><a href="https://win11.techidaily.com/dismantle-the-disarray-how-to-resolve-common-issues-with-windows-shortcuts-and-combinations/"><u>Dismantle the Disarray: How to Resolve Common Issues with Windows Shortcuts and Combinations</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-notepad-in-w11-with-digital-oracle/"><u>Enhance Notepad in W11 with Digital Oracle</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-guide-efficiently-erasing-image-borderlines/"><u>Expert Guide: Efficiently Erasing Image Borderlines</u></a></li>
-<li><a href="https://win11.techidaily.com/fixes-on-windows-for-manual-time-zone-configuration/"><u>Fixes on Windows for Manual Time Zone Configuration</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-on-keeping-taskbar-programs-fixed-in-place/"><u>Guide on Keeping Taskbar Programs Fixed in Place</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/handbrake-safety-guide-secure-downloading-and-usage-tips/"><u>Handbrake Safety Guide - Secure Downloading & Usage Tips</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oneplus-ace-2v-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your OnePlus Ace 2V</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-7-plus-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 7 Plus Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-creating-ken-burns-transitions-in-camtasia-9-a-step-by-step-guide/"><u>In 2024, Creating Ken Burns Transitions in Camtasia 9 A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Motorola Moto G84 5G?</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-no-sound-device-error-in-windows/"><u>Resolving No Sound Device Error in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/safeguarding-data-in-epics-digital-world/"><u>Safeguarding Data in Epic's Digital World</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-full-potential-of-your-pc-with-these-9-fixes-for-unresponsive-keyboard-shortcuts-in-windows/"><u>Unlock the Full Potential of Your PC with These 9 Fixes for Unresponsive Keyboard Shortcuts in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-screen-woes-top-6-easy-fixes-uncovered/"><u>Windows Screen Woes: Top 6 Easy Fixes Uncovered</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-equality-in-tech-easeus-experts-take-for-2024/"><u>[New] Equality in Tech EaseUS Experts' Take for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-software-less-method-to-save-youtube-videos/"><u>[Updated] 2024 Approved Free Software-Less Method to Save YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-path-to-influential-prominence-instagram-edition/"><u>[Updated] In 2024, The Path to Influential Prominence Instagram Edition</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-ultimate-guide-top-8-convertors-for-sub-to-srt-harmony-for-2024/"><u>[Updated] Ultimate Guide Top 8 Convertors for Sub to Srt Harmony for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/como-solucionar-problemas-al-acceder-al-dispositivo-de-arranque-de-windows-11-tras-la-clonacion-guia-detallada/"><u>Cómo Solucionar Problemas Al Acceder Al Dispositivo De Arranque De Windows 11 Tras La Clonación: Guía Detallada</u></a></li>
+<li><a href="https://win11.techidaily.com/converting-apples-ical-to-windows-a-complete-tutorial/"><u>Converting Apple's iCal to Windows: A Complete Tutorial</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-lava-storm-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Lava Storm 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-elevate-your-time-lapse-game-with-essential-gopro-studio-skills/"><u>In 2024, Elevate Your Time-Lapse Game with Essential GoPro Studio Skills</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-11-zerox-error-code-0x80049dd3/"><u>Navigating Through Windows 11 Zerox Error (Code: 0X80049DD3)</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-lockout-no-admin-pass-needed/"><u>Overcoming Windows 11 Lockout: No Admin Pass Needed</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/s-shown-no-more-hidden-videos-for-2024/"><u>Shorts Shown – No More Hidden Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-n-editions-unveiled-a-comparative-guide/"><u>Windows N Editions Unveiled: A Comparative Guide</u></a></li>
 </ul></div>
 

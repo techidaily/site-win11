@@ -1,7 +1,7 @@
 ---
 title: Unlock Your Potential with MS Project Key Shortcuts
-date: 2025-02-10T23:08:51.247Z
-updated: 2025-02-16T00:48:06.720Z
+date: 2025-02-28T03:34:42.888Z
+updated: 2025-03-05T02:53:23.498Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Project Keyboard Shortcuts
 
  Here are some shortcuts that you may need frequently to use in Microsoft Project:
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
 **Ctrl + T:** This will open up a new task window and allow you to enter the necessary information for their project.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Close the Program Window
 
 **Alt + F4:** This will instantly close the Microsoft Project window and end the current session.
@@ -56,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 ### 5\. Open a New Window
 
 **Shift + F11:** This will open up a blank window that can be used for any tasks or projects that need to be created.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Activate the Project Control Menu
 
@@ -69,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
 **Shift + F2:** This will open up a window with detailed information about any selected tasks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 9\. Turn On or off Auto Calculate
 
 **Ctrl + F** **:** This will enable or disable the auto-calculate feature, which automatically updates any changes made to a project.
@@ -81,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
 **Ctrl + Del:** This will clear any data that is currently entered in the selected field and reset it to its default value.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 11\. Copy the Selected Data
 
 **Ctrl + C:** This will automatically copy the data that is currently selected and allow it to be pasted into any other location.
@@ -92,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 ### 12\. Cut the Selected Data
 
 **Ctrl + X:** This will remove the data from its current location.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 13\. Set the Task to Auto Schedule
 
@@ -228,20 +204,18 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-trendsetting-images-their-histories-for-2024/"><u>[New] Trendsetting Images Their Histories for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-chuckling-chambers-humor-for-special-days-for-2024/"><u>[Updated] Chuckling Chambers Humor for Special Days for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-compre-written-analysis-hero4-black-operations/"><u>[Updated] Compre Written Analysis Hero4 Black Operations</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-blur-faces-or-objects-in-youtube-videos-for-2024/"><u>[Updated] How to Blur Faces or Objects in YouTube Videos for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-from-download-to-usage-setting-up-obs-on-a-mac/"><u>[Updated] In 2024, From Download to Usage Setting Up OBS on a Mac</u></a></li>
-<li><a href="https://win11.techidaily.com/command-line-utility-mastery-handling-zipped-data-with-ease/"><u>Command Line Utility Mastery: Handling Zipped Data with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/compre-written-remedy-for-windows-0x0000004e/"><u>Compre Written Remedy for Windows' 0X0000004E</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-methods-for-converting-mkv-to-mp4-on-windows/"><u>Effective Methods for Converting MKV to MP4 on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-remedies-for-the-vanishing-gpeditmsc-error/"><u>Effective Remedies for the Vanishing Gpedit.msc Error</u></a></li>
-<li><a href="https://win11.techidaily.com/erased-windows-elegance-top-6-features/"><u>Erased Windows Elegance: Top 6 Features</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-convert-microsoft-word-docx-files-to-pdfs-in-windows-11/"><u>How to Convert Microsoft Word DOCX Files to PDFs in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-use-group-policy-for-msi-service-adjustment/"><u>How to Use Group Policy for MSI Service Adjustment</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-nokia-c12-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Nokia C12 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-se-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone SE Passcode without a Computer | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-heart-of-windows-11-home-section/"><u>Navigating the Heart of Windows 11: Home Section</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-delve-into-all-shared-visuals-within-a-chat-on-messenger/"><u>[New] 2024 Approved Delve Into All Shared Visuals Within a Chat on Messenger</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-secrets-in-watching-the-instagram-story-narrative/"><u>[New] 2024 Approved Secrets in Watching The Instagram Story Narrative</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-hear-the-difference-mac-in-sound-recording-for-2024/"><u>[Updated] Hear the Difference Mac in Sound Recording for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-vision-pro-mastery-the-ultimate-guide-to-impeccable-screenshots-and-seamless-recordings-avoiding-oddities-every-step-of-the-way-zdnet-insights/"><u>Apple Vision Pro Mastery: The Ultimate Guide to Impeccable Screenshots and Seamless Recordings, Avoiding Oddities Every Step of the Way | ZDNET Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boosting-fps-on-dragons-dogma-2-fixes-for-stutter-and-hitches/"><u>Boosting FPS on Dragon's Dogma 2: Fixes for Stutter and Hitches</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/delineating-distinctions-full-angle-vs-immersive-video-for-2024/"><u>Delineating Distinctions Full-Angle Vs. Immersive Video for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fixes-for-no-network-windows-notification/"><u>Fixes for 'No Network' Windows Notification</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-note-50-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme Note 50</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/lost-iphone-data-restoration-app-for-mac-easy-retrieval-of-photos-videos-and-contact-information/"><u>Lost iPhone Data Restoration App for Mac: Easy Retrieval of Photos, Videos, and Contact Information</u></a></li>
+<li><a href="https://win11.techidaily.com/steering-device-activation-through-pc-sleep-states/"><u>Steering Device Activation Through PC Sleep States</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-overcome-unrecognized-interface-in-windows-os/"><u>Swiftly Overcome Unrecognized Interface in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/unregistered-package-solutions-for-windows-photos-errors/"><u>Unregistered Package Solutions for Windows Photos Errors</u></a></li>
+<li><a href="https://fox-http.techidaily.com/vmix-fusion-crossplatform/"><u>VMix Fusion CrossPlatform</u></a></li>
 </ul></div>
 

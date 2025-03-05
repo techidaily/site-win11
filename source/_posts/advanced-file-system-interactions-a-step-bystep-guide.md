@@ -1,7 +1,7 @@
 ---
 title: "Advanced File System Interactions: A Step-Bystep Guide"
-date: 2024-08-08T13:13:04.653Z
-updated: 2024-08-09T13:13:04.653Z
+date: 2025-03-01T19:42:40.866Z
+updated: 2025-03-05T01:44:51.429Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 `HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers`
 4. Next, right-click**ContextMenuHandlers** and select the**New** submenu.
 5. Click**Key** on the submenu.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The New and Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-key-option.jpg)
 
 1. Enter**Move to folder** for the new key’s name.
@@ -51,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
 ![The Move Items window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/move-items-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Add a Copy to Folder Context Menu Option
 
  The Windows context menu includes a**Copy** option, but that doesn’t enable you to select a destination for pasting the file. Thus, users must manually paste copied items into different folders after selecting that option. However, you can add a better**Copy to folder** context menu option that brings up a destination folder selection window like this:
@@ -62,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 2. Click the**ContextMenuHandlers** with the right mouse button and select its New option.
 3. Select**Key** to add a new one to the registry.
 4. Type**Copy to folder** inside the text box for the new key.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![The Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-folder-option-1.jpg)
 5. Select**Copy to folder** and double-click its**(Default)** string.
 6. Enter the value**{C2FBB630-2971-11D1-A18C-00C04FD75D13}** inside the**Data** box.  
@@ -75,16 +65,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Then you can select the**Copy to folder** context menu option much the same as the move one. Right-click a file in Explorer, select**Show more options** (in Windows 11), and click**Copy to folder** . A Copy Items window will open from which you can choose a folder to include the copied file. Clicking**Copy** will paste the item into the selected folder.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Copy to folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-folder-option.jpg)
 
  You can remove the "Copy/Move to folder" options from the right-click menu by deleting their registry keys. Open the**ContextMenuHandlers** key location specified in step three for adding a Move to folder context menu option. Right-click the**Copy to folder** or**Move to folder** registry key and select**Delete** . Select**Yes** when prompted to confirm you’re sure about erasing that key.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Move and Copy to Folder Context Menu Options With WinBubble
 
  It’s relatively straightforward to add the "Copy/Move to folder" options with the Registry Editor, but there’s still an easier way to do it. You can add the same options to the context menu with the freeware WinBubble. WinBubble is customization software that includes a wide variety of context menu options. This is how to add a "Copy/Move to folder" context menu options with WinBubble:
@@ -96,9 +80,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 5. Double-click the WinBubble ZIP to view that archive inside File Explorer.
 
 1. Select**Extract all** on Explorer’s command bar or the**Compressed Folder Tools** tab in Windows 10.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![The Extract all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extract-all-option.jpg)
 2. Press the**Browse** button.
 3. Choose a suitable directory to extract the archive outside the one it downloaded to, and click the**Select Folder** option.
@@ -119,9 +100,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  You can also utilize WinBubble to remove the "Copy/Move to Folder" options. Uncheck the selected**Move to** and**Copy to** checkboxes on its**General** tab. Click**Apply** to set the new options.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Move and Copy Files to Folders With Your New Context Menu Options
 
  The**"** Copy/Move to folder" context menu options undoubtedly provide more convenient ways to copy and move files into alternative directories. You won’t need to drag files about anymore for moving items in Windows 11 after adding a new**"** Move to Folder option" to the right-click menu. Nor will you need to paste copied files elsewhere in Windows 11 thanks to the "Copy to folder" menu option.
@@ -132,8 +110,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,6 +117,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unlock-the-potential-advanced-techniques-for-podcast-editing-in-garageband/"><u>[New] 2024 Approved Unlock the Potential Advanced Techniques for Podcast Editing in GarageBand</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-high-octane-recordings-top-7-camcorder-picks/"><u>[Updated] 2024 Approved High-Octane Recordings Top 7 Camcorder Picks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mastering-timestamp-placement-in-youtube-clips/"><u>[Updated] 2024 Approved Mastering Timestamp Placement in YouTube Clips</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unraveling-the-cash-accumulation-through-viewers-attention/"><u>[Updated] 2024 Approved Unraveling the Cash Accumulation Through Viewers' Attention</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-a-drone-transformed-with-yuneecs-typhoon-q500/"><u>2024 Approved A Drone Transformed with Yuneec's Typhoon Q500</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-delayed-downloads-in-the-default-folder-of-windows/"><u>Fixing Delayed Downloads in the Default Folder of Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-restoring-functionality-of-non-responsive-windows-start/"><u>Guide to Restoring Functionality of Non-Responsive Window's Start</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-bluetooth-device-showing-voicemusic-only-on-windows/"><u>How to Fix a Bluetooth Device Showing Voice/Music Only on Windows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-x-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone X?</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/solving-audio-issues-a-comprehensive-guide-to-fixing-computer-sound-problems-insights-from-yl-computing/"><u>Solving Audio Issues: A Comprehensive Guide to Fixing Computer Sound Problems - Insights From YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/surge-your-efficiency-the-secret-of-flow-launcher-awaits/"><u>Surge Your Efficiency: The Secret of Flow Launcher Awaits</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-your-android-experience-integrating-speech-controlled-chatgpt-using-the-voicegpt-mobile-application/"><u>Transforming Your Android Experience: Integrating Speech Controlled ChatGPT Using the VoiceGPT Mobile Application</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-tips-for-reducing-tiworkerexes-extensive-disk-activity-on-windows-10-systems/"><u>Troubleshooting Tips for Reducing tiWorker.exe's Extensive Disk Activity on Windows 10 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-the-power-of-windows-11-get-a-bootable-drive-in-three-easy-ways/"><u>Unleash the Power of Windows 11: Get a Bootable Drive in Three Easy Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-cpus-generation-in-windows-with-eight-steps/"><u>Unlocking Your CPU’s Generation in Windows with Eight Steps</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Steps to Reopen W11's Forgotten Mail and Calendars
-date: 2025-02-15T02:42:45.182Z
-updated: 2025-02-16T04:28:33.301Z
+date: 2025-03-02T20:00:35.212Z
+updated: 2025-03-04T17:01:08.925Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Is the Mail and Calendar App Not Opening on Windows 11?
 
@@ -61,17 +57,9 @@ Here's how to update Mail and Calendar on Windows 11.
 ![Microsoft Store app library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Get-updates.jpg)
 4. Microsoft Store will suggest updates for all the installed UWP apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Download the update available for Mail and Calendar.
 
  After updating the application, reboot the system and check for the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Run the Windows Store Apps Troubleshooter
 
@@ -85,10 +73,6 @@ Here's how to run the Windows Store Apps Troubleshooter.
 4. Click on**Run** next to Windows Store Apps.  
 ![A screenshot of some of Windows 11's troubleshooters, including one for 'Windows Store Apps.'](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/other-app-troubleshooters-windows-11.jpg)
 5. The troubleshooting window will pop up and look for the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If any problem is found, follow the onscreen instructions to apply the potential fixes.
 
@@ -106,18 +90,10 @@ Here's how to run the Windows Store Apps Troubleshooter.
 ![Manage option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/manage-option.jpg)
 4. Choose the**Change mailbox sync settings** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click the drop-down icon under**Download new content** and choose**as items arrive** option.
 6. Enable the toggle under the**Email, Calendar** and**Contacts** options.  
 ![Gmail sync settings in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gmail-sync-settings.jpg)
 7. Click**Done** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Change Mail and Calendar Privacy Settings
 
@@ -144,10 +120,6 @@ Here are the steps to repair the Mail and Calendar app.
 5. Choose**Advanced options** .
 6. Under the**Reset** section, click on**Repair.**  
 ![Mail and Calendar repair and reset screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Repair-Mail.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Windows will take a few seconds to repair the app. Once the process is complete, launch the Mail and Calendar, and check if you are still facing the problem.
 
@@ -178,10 +150,6 @@ Here's how to do it.
 7. Click OK to save the changes.
 
  The third-party antivirus program can also cause the issue. Try to disable it and check if you can access the Mail and Calendar app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Re-Register the Mail And Calendar App
 
@@ -243,24 +211,18 @@ Reboot the system once DISM finishes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-deciding-on-video-platforms-podcast-or-youtube/"><u>[New] 2024 Approved Deciding on Video Platforms Podcast or YouTube?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-strategies-for-3d-lut-implementation-in-photoshop/"><u>[New] Expert Strategies for 3D LUT Implementation in Photoshop</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonic-heralds-discovering-the-finest-music-for-podcast-beginnings/"><u>[New] Harmonic Heralds Discovering the Finest Music for Podcast Beginnings</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-uncover-collective-media-on-messenger-networks-for-2024/"><u>[Updated] Uncover Collective Media on Messenger Networks for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/connectivity-at-its-peak-usb-c-and-the-hp-envy-27-monitor/"><u>Connectivity at Its Peak USB-C & the HP Envy 27 Monitor</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-effective-win-11-sandbox-setup/"><u>Essential Tips for Effective Win 11 Sandbox Setup</u></a></li>
-<li><a href="https://games-able.techidaily.com/foremost-gaming-with-device-controllers/"><u>Foremost Gaming with Device Controllers</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-initiating-a-pure-boot-in-windows-11/"><u>Guide to Initiating a Pure Boot in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-configure-a-windows-hello-fingerprint-login-on-windows-11/"><u>How to Configure a Windows Hello Fingerprint Login on Windows 11</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-boosting-youtube-popularity-two-simple-strategies/"><u>In 2024, Boosting YouTube Popularity Two Simple Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/innovative-ways-to-erase-taskview-on-bar/"><u>Innovative Ways to Erase TaskView on Bar</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-terminals-administrator-barrier/"><u>Navigating Windows Terminal's Administrator Barrier</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-unleash-high-definition-videos-best-editing-software-2023/"><u>New 2024 Approved Unleash High-Definition Videos Best Editing Software 2023</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-restrictions-for-hidden-software/"><u>Overcoming Windows Restrictions for Hidden Software</u></a></li>
-<li><a href="https://win11.techidaily.com/proper-techniques-for-auditory-and-visual-recordings-using-the-snipping-tool-in-windows-11-max-156/"><u>Proper Techniques for Auditory & Visual Recordings Using the Snipping Tool in Windows 11 (Max 156)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/streamlining-video-playback-with-safaris-pip/"><u>Streamlining Video Playback with Safari's PIP</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-onedrive-error-code-x04dec5-on-windows-11-login/"><u>Tackling ONEDRIVE Error Code X04Dec5 on Windows 11 Login</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-tecno-pop-7-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Tecno Pop 7 Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-blackout-glitches-in-windows-remote-services/"><u>Unveiling Blackout Glitches in Windows Remote Services</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-comparing-sharex-with-industry-leaders/"><u>[Updated] 2024 Approved Comparing ShareX with Industry Leaders</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-fuse-rhythms-into-powerpoint-layouts/"><u>[Updated] In 2024, Fuse Rhythms Into PowerPoint Layouts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-strategic-approaches-for-creating-impactful-youtubes-finality/"><u>[Updated] Strategic Approaches for Creating Impactful Youtubes' Finality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-endless-display-recorder-app/"><u>2024 Approved Endless Display Recorder App</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-exception-breakpoint-hit-issue-on-your-pc/"><u>Fixing The Exception Breakpoint Hit Issue on Your PC</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/gebruikkersvriendelijke-migration-van-ts-naar-webm-vrijetiesverluchting-gratis-met-movavi/"><u>Gebruikkersvriendelijke Migration Van TS Naar Webm - Vrijetiesverluchting Gratis Met Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-your-android-phone-as-a-webcam-on-windows-11/"><u>How to Use Your Android Phone as a Webcam on Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-gionee-f3-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Gionee F3 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-task-managers-empty-startup-section/"><u>Resolving Task Manager's Empty Startup Section</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-wi-fiethernet-coexistence-for-windows-users/"><u>Seamless Wi-Fi/Ethernet Coexistence for Windows Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-latest-screens-recording-revelation-by-apeaksoft-2023/"><u>The Latest Screens Recording Revelation by Apeaksoft, 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveil-the-8-greatest-places-to-download-3d-text-psd-files-for-2024/"><u>Unveil the 8 Greatest Places to Download 3D Text PSD Files for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-and-fixing-the-usb-not-recognized-error-on-virtualbox/"><u>Unveiling and Fixing the 'USB Not Recognized Error' On VirtualBox</u></a></li>
 </ul></div>
 

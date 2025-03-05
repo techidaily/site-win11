@@ -1,7 +1,7 @@
 ---
 title: Tailor Keyboard Funnels for Windows Programs
-date: 2025-02-12T21:57:11.431Z
-updated: 2025-02-16T02:52:13.504Z
+date: 2025-03-02T01:34:11.488Z
+updated: 2025-03-04T18:34:15.850Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 
  Did you know that you can set a keyboard shortcut for just about any program in Windows? When you want to open a specific program in a hurry, all you need to do is quickly press a few keys and you’re in. Here’s how.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Assign a Keyboard Shortcut to a Shortcut Link on Your Desktop
 
  One of the best ways to [improve your productivity](https://www.makeuseof.com/how-to-improve-productivity-mini-habits/) is to navigate using as few clicks and keystrokes as possible. One way to do that is by setting up keyboard shortcuts. If you’re interested, check out our [ultimate guide to Windows keyboard shortcuts](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/).
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 
 ![Add a keyboard shortcut via the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/01-add-keyboard-shortcut-desktop.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Windows shortcuts must take the form:
 
 * Ctrl + Alt + \[key\]
@@ -55,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 * Ctrl + Shift + Alt + \[key\]
 
  Now, when you press the shortcut key combination, the program will be launched.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Assign a Keyboard Shortcut to a Shortcut Link in the Start Menu
 
@@ -71,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 4. Right-click on the shortcut and select **Properties**.
 
 5. In the **Shortcut key** field, type in the keyboard shortcut you want to have assigned to the program.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. How to Set up a Keyboard Shortcut for a Shortcut Link on the Taskbar
 
@@ -115,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 ![Microsoft PowerToys keyboard shortcut setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/07-powertoys-shortcut-action.jpg)
 3. Under **App**, either enter the path of the program you want to add to this shortcut, or click the **Select program** button to browse and select an application.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![PowerToys shortcut program path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/08-powertoys-shortcut-program-path.jpg)
 4. If you leave the **Start in** field blank, the shortcut will work throughout the Windows environment. If you select a path here, the shortcut will only work when you are in that environment or program.
 
@@ -140,19 +120,16 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-understanding-igtv-from-basics-to-boosting-your-presence/"><u>[New] In 2024, Understanding IGTV From Basics, to Boosting Your Presence</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-budget-conscious-filmmakers-essential-video-gear-list/"><u>[Updated] 2024 Approved Budget-Conscious Filmmaker's Essential Video Gear List</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-nubia-red-magic-8s-proplus-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/elevate-your-pc-best-8-video-capture-tools-for-windows-10-for-2024/"><u>Elevate Your PC Best 8 Video Capture Tools for Windows 10 for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-overcome-app-induced-power-control-failures-in-windows/"><u>How To Overcome App-Induced Power Control Failures in Windows</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-poco-c51-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/misguided-treatment-the-five-pitfalls-of-using-chatgpt-for-your-health-questions/"><u>Misguided Treatment? The Five Pitfalls of Using ChatGPT for Your Health Questions</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-your-media-editing-experience-top-8-apps-for-windows-pcs/"><u>Optimize Your Media Editing Experience – Top 8 Apps for Windows PCs</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/overcoming-youtubes-content-id-blockades-with-tactics/"><u>Overcoming YouTube's Content ID Blockades with Tactics</u></a></li>
-<li><a href="https://win11.techidaily.com/the-offline-path-to-windows-11-success/"><u>The Offline Path to Windows 11 Success</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-terminal-picture-background/"><u>Transform Terminal Picture Background</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/translingual-impact-on-the-fabric-of-eng/"><u>Translingual Impact on the Fabric of ENG</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-administrator-privileges-in-windows-controls/"><u>Unlocking Administrator Privileges in Windows Controls</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-onedrive-in-windows-step-by-step-guide/"><u>Unlocking OneDrive in Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-comparing-the-best-editors-for-professionals-filmora-vs-democreator/"><u>2024 Approved Comparing the Best Editors for Professionals Filmora Vs. Democreator</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-phones-to-fantasy-crafting-a-home-for-vr-goggles/"><u>2024 Approved Phones to Fantasy Crafting a Home for VR Goggles</u></a></li>
+<li><a href="https://win11.techidaily.com/cure-your-systems-dragging-anomalies-in-win11/"><u>Cure Your System's Dragging Anomalies in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/diagnosing-high-cpu-usage-by-vanguards-sleep-service/"><u>Diagnosing High CPU Usage by Vanguard's Sleep Service</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-the-best-features-of-the-economical-fitbit-versa-watch/"><u>Discovering the Best Features of the Economical Fitbit Versa Watch</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-pinnacle-photo-narrative-directors-set/"><u>In 2024, Pinnacle Photo Narrative Director's Set</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/invisible-footprints-tech-review/"><u>Invisible Footprints Tech Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-build-expert-advice-from-toms-hardware-blog/"><u>Mastering Your Build: Expert Advice From Tom's Hardware Blog</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/1728504104436-page-unavailable-http-404-error/"><u>Page Unavailable (HTTP 404 Error)</u></a></li>
+<li><a href="https://win11.techidaily.com/uncover-the-ideal-windows-11-edition-home-vs-professional-focus/"><u>Uncover the Ideal Windows 11 Edition: Home Vs. Professional Focus</u></a></li>
+<li><a href="https://win11.techidaily.com/unexpected-freezes-resolved-for-players-of-tribes-of-midgard/"><u>Unexpected Freezes Resolved for Players of 'Tribes of Midgard'</u></a></li>
 </ul></div>
 

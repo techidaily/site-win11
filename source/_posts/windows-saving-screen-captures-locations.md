@@ -1,7 +1,7 @@
 ---
 title: "Windows: Saving Screen Captures Locations"
-date: 2025-02-15T05:07:47.197Z
-updated: 2025-02-16T05:09:03.189Z
+date: 2025-03-02T03:04:25.841Z
+updated: 2025-03-04T23:22:55.611Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -44,17 +40,9 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 
  There are several built-in tools for [taking screenshots on Windows](https://www.makeuseof.com/take-screenshot-windows-11/), including the Print Screen key (typically abbreviated **Prt Sc** on your keyboard) and Snipping Tool. Depending on which one you use, you might have to save it yourself after taking it, or navigate to a specific folder to grab it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Prt Sc Key
 
  Where do print screens go? The answer is simple: to the clipboard. If you want to access the screenshot, you have to save the it manually in an image editor like Paint. You can even paste the screenshots into programs that allow you to insert images, such as Microsoft Word or Google Docs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Windows Key + Prt Sc
 
@@ -86,19 +74,11 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 
 ![The Game Bar menu and Capture widget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/game-bar-widgets-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Game Bar's gallery, click on the folder icon in the top-right corner of the left panel.
 
 ![The Game Bar gallery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gallery-game-bar-windows.jpg)
 
  In the pop-up, click **Continue**, and it will open the folder with the screenshots.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Where Do Windows Screenshots Go When Using Third-Party Tools?
 
@@ -109,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 ![Navigating to the Screenshots folder in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-view-screenshots.jpg)
 
  If you can't figure out where the app saved the screenshots, open File Explorer and check the **Pictures** and **Documents** folders. For instance, Lightshot saves the screenshots in **Documents > Lightshot**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can You Change Where Screenshots Are Saved on Windows?
 
@@ -140,16 +116,22 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-how-to-use-zoom-on-xbox-one/"><u>[New] How to Use Zoom on Xbox One</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-best-5-gopro-filters-for-underwater-video-shooting/"><u>[New] In 2024, Best 5 GoPro Filters for Underwater Video Shooting</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-s17-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo S17 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/4-ways-to-set-up-your-youtube-talking-head-shots/"><u>4 Ways To Set Up Your YouTube Talking-Head Shots</u></a></li>
-<li><a href="https://article-tips.techidaily.com/how-asmr-enhances-your-daily-life-learn-here/"><u>How ASMR Enhances Your Daily Life – Learn Here</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-apple-calendar-a-windows-11-user-guide/"><u>Navigate Apple Calendar: A Windows 11 User Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pc-players-rejoice-resolving-everspace-2s-sudden-shutdown-problems/"><u>PC Players Rejoice: Resolving Everspace 2'S Sudden Shutdown Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaim-original-window-11-icon-size/"><u>Reclaim Original Window 11 Icon Size</u></a></li>
-<li><a href="https://win11.techidaily.com/stepwise-guide-for-efficient-mkv-to-mp4-conversion-windows/"><u>Stepwise Guide for Efficient MKV-to-MP4 Conversion (Windows)</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-potential-advanced-techniques-to-scan-qr-codes-on-windows/"><u>Unleash Potential: Advanced Techniques to Scan QR Codes on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-three-secrets-enabling-telnet-on-wins/"><u>Unlocking Three Secrets: Enabling Telnet on Wins</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-from-raw-footage-to-youtube-a-step-by-step-process-unveiled/"><u>[New] 2024 Approved From Raw Footage to YouTube A Step-by-Step Process Unveiled</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-essentials-of-animated-visual-communication/"><u>2024 Approved Essentials of Animated Visual Communication</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-transforming-horizontal-footage-into-vertical-video-gold-on-igtv/"><u>2024 Approved Transforming Horizontal Footage Into Vertical Video Gold on IGTV</u></a></li>
+<li><a href="https://win11.techidaily.com/fresh-start-from-past-protection-4-key-windows-cleanup-tips/"><u>Fresh Start From Past Protection: 4 Key Windows Cleanup Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/handling-and-correcting-physxloaderdll-failure-to-load-problem/"><u>Handling and Correcting physxloader.dll Failure to Load Problem</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-itel-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Itel</u></a></li>
+<li><a href="https://win11.techidaily.com/insider-tips-to-propel-property-exploration/"><u>Insider Tips to Propel Property Exploration</u></a></li>
+<li><a href="https://win11.techidaily.com/master-windows-task-handling-with-advanced-execution-tools/"><u>Master Windows Task Handling with Advanced Execution Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-misleading-cpu-data-in-windows-system-dashboard/"><u>Navigating Misleading CPU Data in Windows System Dashboard</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-how-to-dub-a-video-video-dubbing-wondershare-filmora/"><u>New In 2024, How to Dub a Video Video Dubbing - Wondershare Filmora</u></a></li>
+<li><a href="https://win11.techidaily.com/saving-past-executions-in-the-command-window/"><u>Saving Past Executions in the Command Window</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-correct-unsuranlized-device-error-on-windows/"><u>Steps to Correct Unsuranlized Device Error on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/strategic-filing-skillful-steps-to-sidestep-file-explorer-slip-ups/"><u>Strategic Filing: Skillful Steps to Sidestep File Explorer Slip-Ups</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-hardwaredriver-not-compatible-in-rainbow-six-extraction-expert-solutions/"><u>Troubleshoot 'Hardware/Driver Not Compatible' In Rainbow Six Extraction - Expert Solutions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlocking-indonesian-conversations-a-quick-guide/"><u>Unlocking Indonesian Conversations: A Quick Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-ultra-fast-gaming-a-guide-to-hitting-120-fps-on-the-ps5/"><u>Unlocking Ultra-Fast Gaming: A Guide to Hitting 120 FPS on the PS5</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-turn-off-hyper-v-feature/"><u>Win11: Turn Off Hyper-V Feature</u></a></li>
 </ul></div>
 

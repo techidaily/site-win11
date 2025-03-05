@@ -1,7 +1,7 @@
 ---
 title: Overcoming Screen Size Barriers in Windows Games
-date: 2025-02-11T00:58:39.235Z
-updated: 2025-02-16T02:20:51.813Z
+date: 2025-02-27T22:30:30.097Z
+updated: 2025-03-04T18:06:00.849Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 
 ![In-Game Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/in-game-settings-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Disable Full Screen Optimizations in Windows
 
  While the full screen optimizations on Windows are intended to improve your gaming experience, they can occasionally result in games not opening in full screen mode. If that's the case, disabling full screen optimizations for your game should help.
@@ -50,14 +46,6 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 3. Tick the **Disable fullscreen optimizations** checkbox.
 4. Hit **Apply** followed by **OK**.  
 ![Disable Fullscreen Optimization on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-fullscreen-optimization-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Set the Display Scale to 100%
 
@@ -78,17 +66,9 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 5. Click **Apply** followed by **OK** and then open your game again.  
 ![Run Game in Compatiblity Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-game-in-compatiblity-mode.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Disable Any Apps With Overlays
 
  Occasionally, overlays from apps like Discord, Steam, or GeForce Experience can disrupt the full screen functionality of certain games, resulting in issues. To check for this possibility, you can temporarily [disable the GeForce overlay](https://www.makeuseof.com/windows-geforce-overlay-disable/), the Discord overlay, or any other software that shows overlays to see if this works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Perform Some Basic Windows Fixes
 
@@ -113,17 +93,14 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-elite-cost-effective-asmr-recording-devices-unveiled/"><u>[New] 2024 Approved Elite Cost-Effective ASMR Recording Devices Unveiled</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-secure-social-space-end-following-protocols/"><u>[New] In 2024, Secure Social Space End Following Protocols</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unleash-your-photo-potential-with-instagram-filters-for-2024/"><u>[Updated] Unleash Your Photo Potential with Instagram Filters for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/counteracting-read-only-fixes-for-corrupted-file-directories/"><u>Counteracting Read-Only: Fixes for Corrupted File Directories</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-mozilla-revolutionized-screen-splitting-with-ffxp/"><u>How Mozilla Revolutionized Screen Splitting with FFXP</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-realme-11-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Realme 11 5G Through Google Earth?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-audio-experience-pairing-your-samsung-soundbar-with-the-perfect-display/"><u>Seamless Audio Experience: Pairing Your Samsung Soundbar with the Perfect Display</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simplifying-smart-technology-an-introduction-to-ai/"><u>Simplifying Smart Technology: An Introduction to AI</u></a></li>
-<li><a href="https://win11.techidaily.com/successfully-handling-ios-image-import-failures-into-windows-11-pcs/"><u>Successfully Handling iOS Image Import Failures Into Windows 11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-0x800700e9-hitch-in-xbox-game-passwindows-11/"><u>Unraveling the 0X800700E9 Hitch in Xbox Game Pass/Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-art-of-highlighting-mouse-cursors-in-win-11/"><u>Unveiling the Art of Highlighting Mouse Cursors in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-stalled-by-error-solutions-available/"><u>Windows Stalled by Error? Solutions Available</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-love-and-light-nine-essential-filmora-elements/"><u>[Updated] In 2024, Love and Light Nine Essential Filmora Elements</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-control-over-your-windows-setup-with-key-combinations/"><u>Effortless Control Over Your Windows Setup with Key Combinations</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-install-dormant-windows-apps-and-extras/"><u>Essential Tips to Install Dormant Windows Apps & Extras</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/first-steps-in-vector-art-exploring-kinds-applications-for-2024/"><u>First Steps in Vector Art Exploring Kinds, Applications for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-file-format-transitions-in-windows-os/"><u>Simplifying File Format Transitions in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/tick-tock-troubleshooting-chrome-and-system-sync/"><u>Tick-Tock Troubleshooting: Chrome and System Sync</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-value-proposition-is-the-high-priced-google-pixelbook-go-worth-it/"><u>Unpacking the Value Proposition: Is the High-Priced Google Pixelbook Go Worth It?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722972657288-update-your-epson-et-2750-windows-printer-drivers-today-with-these-simple-steps/"><u>Update Your Epson ET-2750 Windows Printer Drivers Today with These Simple Steps!</u></a></li>
 </ul></div>
 

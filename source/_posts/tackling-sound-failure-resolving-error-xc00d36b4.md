@@ -1,7 +1,7 @@
 ---
 title: "Tackling Sound Failure: Resolving Error XC00D36B4"
-date: 2025-02-12T00:08:57.769Z
-updated: 2025-02-16T05:05:28.856Z
+date: 2025-02-27T23:59:41.717Z
+updated: 2025-03-04T22:26:54.357Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Understanding the Problem Behind Audio Error 0xc00d36b4 on Windows
 
  The audio error 0xc00d36b4 occurs when Windows fails to play audio due to a problem with the audio codec. It typically occurs on the Groove Music or the Movies & TV app, and can be caused due to one or more of the following factors:
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 * Outdated or corrupted audio drivers - the essential drivers required to play audio files in Windows might be outdated or infected with an error, which is preventing them from connecting with the audio hardware properly and causing the error.
 
  Below, we have listed different troubleshooting methods that can help you fix the problem in no time, regardless of the cause. Choose the solution that is most appropriate for your situation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Check the File Format of the File You're Playing
 
@@ -62,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 
  We covered how to use this handy tool in our guide on[fixing no audio on Windows](https://www.makeuseof.com/tag/no-sound-7-tips-fix-audio-issues-windows-10/) , so check that out for further details.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Re-enable Windows Media Player
 
  In some cases, while the Media Player is waiting for a missing codec or a corrupt file to load, it may become unresponsive, triggering the error code 0xc00d36b4\. If this happens, it is best to force close the media player and re-enable it to fix the problem.
@@ -79,20 +67,12 @@ Here is how you can do that:
 ![Turn Windows features on or off option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-windows-features-on-or-off.jpg)
 5. Now, scroll down and expand the**Media Features** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Uncheck the box associated with Windows Media Player and click**OK** to save the changes.  
 ![Disable Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-windows-media-player.jpg)
 7. Confirm your action in the User Account Control prompt and restart your computer.
 
 8. Upon reboot, restart the service by following the same steps mentioned above.
 9. Finally, restart your computer again and check if the issue is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Uninstall Nero Codecs
 
@@ -155,17 +135,20 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-exclusive-guide-ranking-most-effective-ig-money-makers/"><u>[New] In 2024, Exclusive Guide Ranking Most Effective IG Money Makers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-in-depth-app-investigation-via-az-screen-recorder/"><u>[New] In 2024, In-Depth App Investigation via AZ Screen Recorder</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-power-of-symbolism-in-crafting-effective-podcast-logos/"><u>[Updated] In 2024, The Power of Symbolism in Crafting Effective Podcast Logos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/screen-recorder-for-youtube/"><u>Best Screen Recorder for YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/conquer-complications-10-fbm-fixes-on-pcs/"><u>Conquer Complications: 10 FBM Fixes on PCs</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/creating-a-unique-online-presence-using-obs-youtube-and-twitch/"><u>Creating a Unique Online Presence Using OBS, YouTube & Twitch</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-tecno-spark-10-4g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Tecno Spark 10 4G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-s24-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy S24 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-the-ultimate-guide-to-media-player-replacements-for-vlc/"><u>In 2024, The Ultimate Guide to Media Player Replacements for VLC</u></a></li>
-<li><a href="https://win11.techidaily.com/overhauling-the-windows-11-mail-app-four-fixes-for-no-mail-alerts/"><u>Overhauling the Windows 11 Mail App: Four Fixes for No Mail Alerts</u></a></li>
-<li><a href="https://win11.techidaily.com/redefining-start-view-on-task-manager-windows-11/"><u>Redefining Start View on Task Manager (Windows 11)</u></a></li>
-<li><a href="https://win11.techidaily.com/solve-the-mystery-of-missing-settings-in-win11-control/"><u>Solve the Mystery of Missing Settings in Win11 Control</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-moviemaker-masterwin8/"><u>[New] MovieMaker MasterWin8</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-rise-to-the-top-the-essentials-of-starting-a-youtube-gaming-sensation/"><u>[Updated] 2024 Approved Rise to the Top The Essentials of Starting a YouTube Gaming Sensation</u></a></li>
+<li><a href="https://win11.techidaily.com/controlling-cpu-excess-strategies-to-tame-vanguards-sleep-mode-consumption/"><u>Controlling CPU Excess: Strategies to Tame Vanguard's Sleep Mode Consumption</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiency-tips-starting-windows-and-immediately-unlocking-notebooks/"><u>Efficiency Tips: Starting Windows and Immediately Unlocking Notebooks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-ultimate-pc-steering-experience-with-logitech-momo-wheel-drives/"><u>Get the Ultimate PC Steering Experience with Logitech MOMO Wheel Drives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-halt-your-jumpy-cursor-a-comprehensive-fix-guide/"><u>How to Halt Your Jumpy Cursor - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/massive-minipcs-missing-momentum-marks/"><u>Massive Minipcs Missing Momentum Marks</u></a></li>
+<li><a href="https://facebook.techidaily.com/misinformation-currents-linked-to-influencer-actions/"><u>Misinformation Currents Linked to Influencer Actions</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-steam-cloud-setbacks-on-pc/"><u>Overcoming Steam Cloud Setbacks on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-invisible-login-window-in-win1011/"><u>Quick Fix for Invisible Login Window in Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-the-denied-login-error-top-8-fixes-for-windows/"><u>Sidestep The Denied Login Error: Top 8 Fixes for Windows</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solving-your-sound-problems-how-to-fix-non-functional-audio-gear-with-yl-software-tips/"><u>Solving Your Sound Problems: How to Fix Non-Functional Audio Gear with YL Software Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/uncomplicated-steps-to-tackle-windows-xp-program-problems/"><u>Uncomplicated Steps to Tackle Windows XP Program Problems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-leap-forward-navigating-an-ai-driven-world/"><u>Windows 11'S Leap Forward: Navigating an AI-Driven World</u></a></li>
 </ul></div>
 

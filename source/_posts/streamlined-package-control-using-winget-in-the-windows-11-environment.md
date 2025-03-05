@@ -1,7 +1,7 @@
 ---
 title: Streamlined Package Control Using Winget in the Windows 11 Environment
-date: 2024-12-23T17:38:12.389Z
-updated: 2024-12-28T00:11:47.075Z
+date: 2025-03-02T16:16:27.382Z
+updated: 2025-03-04T17:10:26.573Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is WingetUI, and How Is It Different From Winget?
 
  WingetUI is a GUI implementation of the [Winget](https://www.makeuseof.com/how-to-download-install-and-use-the-windows-package-manager-winget/)tool that makes it super easy to manage app packages. It also supports Scoop and Chocolatey and can act as GUI forefront for all these three tools. If you'd like to know more about those, check out our [comparison between Chocolatey and Windows Package Manager](https://www.makeuseof.com/chocolatey-vs-windows-package-manager/), and [how to install Scoop on Windows](https://www.makeuseof.com/windows-install-scoop/).
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
  So, you can directly access 14000 packages without leaving the app and will have to rarely search the web. WingetUI can help you to manage all the installed packages, discover and install new ones, [batch install multiple packages](https://www.makeuseof.com/export-import-apps-winget-in-windows-11/), export or import package list, search for packages inside the app, and more.
 
  The fun doesn’t stop there. You can switch to dark mode in the app, and it even notifies you about the app updates whenever you launch the app and can even auto-update them. Furthermore, you can even view the package details, and its commands, and can share the packages with your friends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Download and Install WingetUI on Windows11
 
@@ -81,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
 ![Install a Package in WingetUI 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/install-a-package-in-wingetui-2.jpg)
 2. You can also select a particular version of the app you are trying to install. Expand the **Version to install** dropdown list. You can select any version from here. Keep the **Ignore future updates for this package** option untouched.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Install a Package in WingetUI 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/install-a-package-in-wingetui-3.jpg)
 3. Next, you can pick the **package architecture**: x64, x86, or arm65, depending upon your OS and CPU architecture.
 4. Lastly, pick the **Scope** of the package installation. If you want to do a machine-wide install, pick the **local machine** option. Or pick the **Current user** if you want to install the app only for one user profile.  
@@ -115,19 +103,11 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
 ![batch Install a Package in WingetUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/batch-install-a-package-in-wingetui.jpg)
 3. WingetUI will install these apps one by one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To batch uninstall packages, repeat the following steps:
 
 1. Switch to the **Installed Packages** tab. Then, click and select all the packages you want to remove from your PC.
 2. Click on the **Uninstall selected packages** button to remove the selected packages one by one.  
 ![batch unInstall Packages in WingetUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/batch-uninstall-packages-in-wingetui.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Import Export Packages List
 
@@ -148,14 +128,6 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
 ![import Packages List in WingetUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/import-packages-list-in-wingetui.jpg)
 4. WingetUI will automatically start installing all the packages listed in the import file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Check Software Updates
 
  Switch to the **Software Updates** section. WingetUI will list all the packages which have an update available. To update a single app, right-click on it and select the **Update as administrator** option.
@@ -165,14 +137,6 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
  If you want to update all packages at once, click on the **tick mark** icon to select all the packages. Then, click on the **Update selected packages** button.
 
 ![Check Software Updates in WingetUI 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/check-software-updates-in-wingetui-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## No More Terminal Woes
 
@@ -190,22 +154,24 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-beginning-with-adobe-audition-the-fading-start/"><u>[Updated] 2024 Approved Beginning with Adobe Audition The Fading Start</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-complete-hp-laptop-screen-recording-manual/"><u>[Updated] 2024 Approved The Complete HP Laptop Screen Recording Manual</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-thriving-in-live-streaming-mastery-through-onestream-use/"><u>[Updated] Thriving in Live Streaming Mastery Through OneStream Use</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unveiling-the-secrets-to-engaging-youtube-live-thumbnails/"><u>[Updated] Unveiling the Secrets to Engaging YouTube Live Thumbnails</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-platform-dominance-a-comprehensive-twitch-vs-youtube-review/"><u>2024 Approved Platform Dominance A Comprehensive Twitch Vs. YouTube Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/battle-royale-ai-titans-clash-chatgpt-vs-google-bard/"><u>Battle Royale: AI Titans Clash - ChatGPT Vs. Google Bard</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-visibility-and-efficiency-using-a-90-degree-display-shift/"><u>Enhance Visibility & Efficiency Using a 90-Degree Display Shift</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-techniques-mastering-your-workflow-with-mspcm-on-w11/"><u>Expert Techniques: Mastering Your Workflow with MSPCM on W11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-canon-driver-upgrades-without-hassle-your-simple-guide-to-a-smooth-windows-setup/"><u>Get the Most Recent Canon Driver Upgrades without Hassle – Your Simple Guide to a Smooth Windows Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/guaranteeing-a-smooth-installation-amd-installer-success/"><u>Guaranteeing a Smooth Installation: AMD Installer Success</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pro-level-phone-and-camera-gimbal-tracking-systems/"><u>Pro-Level Phone & Camera Gimbal Tracking Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/refreshing-group-policies-a-proactive-compliance-strategy/"><u>Refreshing Group Policies: A Proactive Compliance Strategy</u></a></li>
-<li><a href="https://win11.techidaily.com/retro-to-revitalized-atlasos-for-old-pcs/"><u>Retro to Revitalized: AtlasOS for Old PCs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/securing-youtube-srt-files-a-threefold-procedure/"><u>Securing YouTube SRT Files A Threefold Procedure</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-alleviate-wlanextexes-power-drain/"><u>Steps to Alleviate WLANEXT.EXE's Power Drain</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-avoiding-random-keypress-responses/"><u>Strategies for Avoiding Random Keypress Responses</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-designing-hotkeys-for-audio-level-management/"><u>Win11: Designing Hotkeys for Audio Level Management</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-classic-cinema-revisited-step-by-step-video-guide/"><u>[New] 2024 Approved Classic Cinema Revisited Step-by-Step Video Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-secure-your-online-footprint-eliminate-tracking-data-from-safari-on-mac-os/"><u>1. Secure Your Online Footprint: Eliminate Tracking Data From Safari on Mac OS</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1726219957563-movavi/"><u>移動電話影片無需付錢地自動更改格式：Movavi畫質變換器</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-and-repairing-your-windows-headsets-microphone/"><u>Addressing and Repairing Your Windows Headset's Microphone</u></a></li>
+<li><a href="https://facebook.techidaily.com/deliberations-continue-expected-decision-from-platforms-oversight-board/"><u>Deliberations Continue: Expected Decision From Platform’s Oversight Board.</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/discover-the-world-from-above-xiaomis-4k-flight-diary-for-2024/"><u>Discover the World From Above - Xiaomi's 4K Flight Diary for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/five-solutions-for-windows-defender-virus-shield-malfunction/"><u>Five Solutions for Windows Defender Virus Shield Malfunction</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-turn-off-auto-start-for-spotify/"><u>Guide to Turn Off Auto-Start for Spotify</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-filmforge-editors-review-complete-overview/"><u>In 2024, FilmForge Editor's Review – Complete Overview</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unlocking-instagrams-hidden-revenue-opportunities/"><u>In 2024, Unlocking Instagram's Hidden Revenue Opportunities</u></a></li>
+<li><a href="https://win11.techidaily.com/in-depth-exploration-of-neglected-windows-11-capabilities/"><u>In-Depth Exploration of Neglected Windows 11 Capabilities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/redefining-your-viewing-experience-youtube-playlist-shuffle-for-2024/"><u>Redefining Your Viewing Experience YouTube Playlist Shuffle for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/scripting-efficient-files-a-python-server-guide-for-windows-os/"><u>Scripting Efficient Files: A Python Server Guide for Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-your-pc-transferring-preferences-from-one-to-another/"><u>Securing Your PC: Transferring Preferences From One to Another</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rectify-low-usb-availability-windows-wise/"><u>Steps to Rectify Low USB Availability Windows-Wise</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-potential-of-openais-ai-for-voice-to-text-in-windows/"><u>Unlocking the Potential of OpenAI's AI for Voice-to-Text in Windows</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-instantaneous-techniques-for-cutting-down-residual-hum-in-recordings/"><u>Updated Instantaneous Techniques for Cutting Down Residual Hum in Recordings</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeos-zero-dollar-video-editing-pathway/"><u>Vimeo's Zero-Dollar Video Editing Pathway</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-customizable-spotlight-picture-guide/"><u>Windows Customizable Spotlight Picture Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Executing System File Checker with Ease in Windows
-date: 2025-02-11T02:30:00.353Z
-updated: 2025-02-16T00:52:59.996Z
+date: 2025-03-01T22:49:31.249Z
+updated: 2025-03-04T20:30:01.022Z
 tags:
   - windows10
   - windows11
@@ -36,18 +36,10 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 ![Run Command Prompt Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Prompt-Using-Windows-Search.jpg)
 3. Click**Yes** in the UAC prompt to allow Command Prompt to make changes to your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. In Command Prompt, enter the below command, and then hit the**Enter** key:  
 `SFC /scannow`
 
  If you’re unfamiliar with operating system files, please read our guide on[what system files are on Windows](https://www.makeuseof.com/windows-system-files-guide/) . And to learn everything you need to know about Command Prompt, you can check out our[beginner's guide to Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Happens After I Run the System File Checker?
 
@@ -56,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
  If your system files are okay, you’ll see a message that says "Windows Resource Protection did not find any integrity violations." If SFC found and fixed all problematic files, the message will read "Windows Resource Protection found corrupt files and successfully repaired them."
 
 ![the results of an sfc scan in Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scan-results.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On the other hand, if it found corrupted files but couldn’t repair any or all of them, the message will read "Windows Resource Protection found corrupt files but was unable to fix some of them." And if SFC encounters a problem, the message will say "Windows Resource Protection could not perform the requested operation."
 
@@ -87,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
  That above command will tell SFC to look for Windows in the**Windows** folder on the**D:** drive. But keep in mind that the Windows version on the bootable media needs to be the same as the one installed on your PC for the scan and repair to be successful.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Find the SFC Log File On Windows
 
  After the SFC does its thing, it will log the results of the scan and any repairs it made into a text file called**CBS.log** . To open it, press**Win + R** to open Windows Run, enter the below text, and click**OK** :
@@ -112,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
  You’ll see that the log file contains entries from the System File Checker only.
 
 ![the sfc details text file on Windows opened in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-detail-txt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re doing an offline scan, you can enable logging by simply specifying the file path with the following command structure:
 
@@ -144,22 +124,19 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-explore-the-top-15-scientific-channels-to-grow-wisdom/"><u>[New] 2024 Approved Explore the Top 15 Scientific Channels to Grow Wisdom</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-gopro-film-perfection-best-15-lut-list-unveiled/"><u>[Updated] In 2024, GoPro Film Perfection Best 15 LUT List Unveiled</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-top-picks-for-the-modern-buyer-advanced-360cams-for-2024/"><u>[Updated] Top Picks for the Modern Buyer Advanced 360Cams for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-ultimate-guide-to-cost-free-cgi-mastery-via-4-youtube-experts-insights/"><u>2024 Approved The Ultimate Guide to Cost-Free CGI Mastery via 4 YouTube Experts' Insights</u></a></li>
-<li><a href="https://fox-place.techidaily.com/5asx44kp44km44gf44ov44kh44kk44or44gu5pwr5ye677ya44kr44oh44op5yaf6js144k544oi44os44o844k444gl44kj44oh44o844k44ks5yan55sf44gz44kl44kz44oe/"><u>失われたファイルの救出：カメラ内蔵ストレージからデータを再生するコツ</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-installation-of-legacy-software-on-modern-windows/"><u>Enabling Installation of Legacy Software on Modern Windows</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-override-windows-automatic-regional-adjustment/"><u>How to Override Windows' Automatic Regional Adjustment</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-sidestep-windows-11s-default-usb-suspend/"><u>How to Sidestep Windows 11'S Default USB Suspend</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/mastering-live-streams-from-your-gopro-camera-to-social-networks/"><u>Mastering Live Streams From Your GoPro Camera to Social Networks</u></a></li>
-<li><a href="https://win11.techidaily.com/peak-your-gpus-performance-the-leading-stress-test-software-ranked/"><u>Peak Your GPU's Performance: The Leading Stress Test Software Ranked</u></a></li>
-<li><a href="https://win11.techidaily.com/revitalizing-windows-11-taskbar-usage/"><u>Revitalizing Windows 11 Taskbar Usage</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-unspecified-obs-studio-error-on-new-windows/"><u>Solving Unspecified OBS Studio Error on New Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/systematic-approach-to-heic-to-jpeg-image-change-in-w11/"><u>Systematic Approach to Heic to JPEG Image Change in W11</u></a></li>
-<li><a href="https://facebook.techidaily.com/uncover-long-standing-bonds-historical-facebook-views/"><u>Uncover Long-Standing Bonds: Historical Facebook Views</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-error-quick-fix-for-0x80072af9/"><u>Unlocking Windows Error: Quick Fix for 0X80072AF9</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-perfect-pixels-in-a-minute-quick-fixes-with-studio-editor/"><u>[Updated] In 2024, Perfect Pixels in a Minute Quick Fixes with Studio Editor</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-directory-of-freely-licensed-sound-sources/"><u>[Updated] The Ultimate Directory of Freely Licensed Sound Sources</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-steering-clear-of-echo-chambers-in-instagram-interactions/"><u>2024 Approved Steering Clear of Echo Chambers in Instagram Interactions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-videos-to-life-an-introduction-to-gopro-quik-on-macbook-for-2024/"><u>Bring Your Videos to Life An Introduction to GoPro Quik on MacBook for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/command-line-snippets-masterful-data-handling-with-powershell/"><u>Command Line Snippets: Masterful Data Handling with PowerShell</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-windows-11s-glitch-empty-spots-for-file-images/"><u>Fix Windows 11'S Glitch: Empty Spots for File Images</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-implement-copypaste-with-edge-shielding-windows-11/"><u>How to Implement Copy/Paste with Edge Shielding, Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-safeguard-electronics-with-an-appropriate-surge-suppressor/"><u>How to Safeguard Electronics with an Appropriate Surge Suppressor</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a05-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy A05 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/insight-into-the-cessation-of-hardware-assisted-gfx-tasking-windows/"><u>Insight Into the Cessation of Hardware-Assisted GFX Tasking Windows</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-face-obscuring-made-easy-expert-video-editing-solutions/"><u>New 2024 Approved Face Obscuring Made Easy Expert Video Editing Solutions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sony-xbr65x850f-a-great-value-for-your-money-in-a-65-4k-tv/"><u>Sony XBR65X850F – A Great Value for Your Money in a 65 4K TV!</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-security-footprint-with-simple-steps-in-win-11/"><u>Streamline Your Security Footprint with Simple Steps in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-top-tier-fs-software-for-pc-enthusiasts/"><u>Unveiling the Top-Tier FS Software for PC Enthusiasts</u></a></li>
 </ul></div>
 

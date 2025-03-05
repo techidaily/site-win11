@@ -1,7 +1,7 @@
 ---
 title: Re-Engaging Lost LAN Discovery on Windows
-date: 2025-02-03T00:24:46.195Z
-updated: 2025-02-04T04:29:52.285Z
+date: 2025-02-27T22:32:15.590Z
+updated: 2025-03-04T16:15:31.575Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 
  While we use Windows 11 here, these fixes apply to Windows 10 as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Causes the "Network discovery is turned off" Error on Windows?
 
  This error typically occurs when the [Windows Network Discovery feature](https://www.makeuseof.com/windows-network-discovery-turn-on-off/) is disabled. You may have disabled this feature accidentally or reset the network settings that disabled it. Other possible causes include:
@@ -86,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 5. If the toggle next to **Network discovery** is turned off, the feature is disabled. To activate it, toggle the switch on and check the box for **Set up network connected devices automatically**.
 6. Also, turn on the toggle next to **File and printer sharing**.  
 ![Enabling the network discovery and file and printer sharing in the Windows Settings app.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/enabling-the-network-discovery-and-file-and-printer-sharing-settings-in-the-windows-settings-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you have activated the feature, try using network sharing again. If you see the error again, apply the remaining fixes.
 
@@ -228,14 +216,6 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 5. If none of these boxes are checked, click on **Change settings**, check the boxes, and click **OK**.  
 ![Whitelisting the Network Discovery in the firewall settings in Windows Control Panel.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/7-whitelisting-the-network-discovery-in-the-firewall-settings-in-windows-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Reset the Windows Defender Firewall Settings
 
  If whitelisting the feature doesn't fix the problem, [reset Windows Defender Firewall's settings](https://www.makeuseof.com/reset-windows-firewall-settings/). This will revert the firewall to its default configuration, removing any custom rules or settings you may have configured.
@@ -297,10 +277,6 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 6. Also, turn on the toggle next to **File and printer sharing**.  
 ![Enabling the network discovery and file and printer sharing in the Windows Settings app.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/enabling-the-network-discovery-and-file-and-printer-sharing-settings-in-the-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you have activated the feature, try using network sharing again. If you see the error again, apply the remaining fixes.
 
 ## 3\. Enable the Services Network Discovery Depends On
@@ -339,10 +315,6 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 5. If none of these boxes are checked, click on **Change settings**, check the boxes, and click **OK**.  
 ![Whitelisting the Network Discovery in the firewall settings in Windows Control Panel.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/7-whitelisting-the-network-discovery-in-the-firewall-settings-in-windows-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Reset the Windows Defender Firewall Settings
 
  If whitelisting the feature doesn't fix the problem, [reset Windows Defender Firewall's settings](https://www.makeuseof.com/reset-windows-firewall-settings/). This will revert the firewall to its default configuration, removing any custom rules or settings you may have configured.
@@ -356,10 +328,6 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
  Outdated network adapter drivers could be a potential cause of this error. To rule out this possibility, update those drivers to the latest version available. There are [different ways to install network adapter drivers on your Windows PC](https://www.makeuseof.com/install-intel-network-drivers-windows/). The most reliable approach is downloading them from the manufacturer's website and manually installing them using Device Manager.
 
  The above solutions will allow your Windows computer to discover other networked devices. Note that if you're on a domain network, group policies can override local settings, and you may be unable to change Network Discovery settings without administrative permissions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -389,19 +357,11 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 
 ![Opening the available troubleshooters in the Windows Settings app.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click on the **Run** button next to **Network and Internet**.
 
 ![Running the Network and Internet troubleshooter from Windows Settings app.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/running-the-network-and-internet-troubleshooter-from-windows-settings-app.jpg)
 
  Windows will launch the Get Help app. Follow the on-screen instructions to assist Windows in pinpointing the main issue with your network. Then it'll guide you through the steps to resolve it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enable the Network Discovery Feature
 
@@ -482,18 +442,14 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-multi-platform-mastery-delivering-content-to-youtube-and-others/"><u>[Updated] Multi-Platform Mastery Delivering Content to YouTube & Others</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-quick-realignment-youtube-on-mac-display-ratio/"><u>[Updated] Quick Realignment YouTube on Mac Display Ratio</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-and-resolving-windows-error-code-0x0000004e/"><u>Decoding and Resolving Windows' Error Code: 0X0000004E</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-solve-the-windows-could-not-automatically-detect-network-proxy-settings-error/"><u>How to Solve the Windows Could Not Automatically Detect Network Proxy Settings Error</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/idea-ink-the-top-10-iosandroid-image-writing-tools/"><u>Idea Ink The Top 10 iOS/Android Image-Writing Tools</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-budget-friendly-microphones-for-online-broadcasters/"><u>In 2024, Budget-Friendly Microphones for Online Broadcasters</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-redefining-visual-impact-how-to-change-and-add-tweets-video-previews/"><u>In 2024, Redefining Visual Impact How to Change and Add Tweets' Video Previews</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/intels-official-network-drivers-for-windows-download-for-win11-10-and-7-users/"><u>Intel's Official Network Drivers for Windows: Download for Win11, 10 & 7 Users</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/most-reliable-iphones-podcast-services/"><u>Most Reliable iPhones Podcast Services</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-split-cut-and-edit-videos-for-free-our-top-recommendations-for-2024/"><u>New Split, Cut, and Edit Videos for Free Our Top Recommendations for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-eliminate-crackling-sound-on-windows-laptop-or-desktop-a-comprehensive-guide-win-107/"><u>Troubleshoot & Eliminate Crackling Sound on Windows Laptop or Desktop – A Comprehensive Guide [WIN 10/7]</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-deskanywhere-failures/"><u>Troubleshooting DeskAnywhere Failures</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-complexities-of-hdr-implementation-in-windows-11/"><u>Unraveling the Complexities of HDR Implementation in Windows 11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-explore-top-rated-image-transition-tools/"><u>[Updated] Explore Top-Rated Image Transition Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-x-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone X Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-windows-update-interruptions/"><u>Disabling Windows Update Interruptions</u></a></li>
+<li><a href="https://win11.techidaily.com/feel-windows-power-with-curated-app-selection/"><u>Feel Windows Power with Curated App Selection</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/how-can-i-restore-or-reboot-my-graphics-card-to-resolve-common-problems-tech-solutions-by-yl/"><u>How Can I Restore or Reboot My Graphics Card to Resolve Common Problems? - Tech Solutions by YL</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175692600-instant-pc-assembly-with-corsairs-game-changing-one-turn-fan-screw-design-save-precious-seconds/"><u>Instant PC Assembly with Corsair's Game-Changing One-Turn Fan Screw Design - Save Precious Seconds</u></a></li>
+<li><a href="https://article-posts.techidaily.com/revamped-interview-inquiries-to-spark-podcast-fans-curiosity/"><u>Revamped Interview Inquiries to Spark Podcast Fans' Curiosity</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-your-windows-with-5-mac-inspired-ideas/"><u>Simplify Your Windows with 5 Mac-Inspired Ideas</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-unsolicited-search-window-opens-in-windows-11/"><u>Stopping Unsolicited Search Window Opens in Windows 11</u></a></li>
 </ul></div>
 

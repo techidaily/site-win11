@@ -1,7 +1,7 @@
 ---
 title: "Restoring Smooth Play: Banishing Win Crashing During DF"
-date: 2025-02-03T04:34:00.836Z
-updated: 2025-02-03T23:35:10.162Z
+date: 2025-02-26T03:04:46.061Z
+updated: 2025-03-04T16:18:20.292Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/781e8428af43f7240e5d953add419c8aa194f2d4e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Is Dwarf Fortress Crashing?
 
 ![screenshot of the dwarf fortress installation directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_game_log.jpg)
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/781e8428af43f7240e5d953add419c8aa194f2d4e
 
  Regardless of what is causing the crash, it's very likely that whatever problem you're having can be fixed by one of the following solutions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Basic Troubleshooting Steps
 
 ![screenshot of verifying steam files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_verify_steam_game_files.jpg)
@@ -51,27 +43,15 @@ thumbnail: https://thmb.techidaily.com/781e8428af43f7240e5d953add419c8aa194f2d4e
 
  The game being on the Steam platform brings with it another share of troubleshooting steps. Take a look at our guide on[troubleshooting Steam issues on Windows](https://www.makeuseof.com/troubleshoot-windows-steam-games-not-playing/) and make sure you at least verify the integrity of the game files. That, combined with a system restart, is sometimes all you need to do.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Force Dwarf Fortress to Use Dedicated Graphics
 
 ![screenshot of the AMD radeon program showing the games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_amd_games_list-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A common cause of crashes for the new Dwarf Fortress release is related to whether or not your dedicated graphics card is being used.
 
  Dwarf Fortress now carries actual graphics, and as simple as they are, they benefit from a dedicated graphics card. Sometimes, Dwarf Fortress will default to your integrated graphics. We'll need to change that.
 
  This process varies depending on what brand or model your graphics card is. We have a guide that explains[how to make games use your dedicated GPU](https://www.makeuseof.com/how-to-set-default-gpu/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Disable Full Screen Optimizations
 
@@ -136,18 +116,24 @@ thumbnail: https://thmb.techidaily.com/781e8428af43f7240e5d953add419c8aa194f2d4e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-navigating-instagrams-latest-filters-a-year-round-guide/"><u>[New] 2024 Approved Navigating Instagram's Latest Filters A Year-Round Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-convenient-tactics-for-transferring-imovie-projects-to-vimeo/"><u>[New] In 2024, Convenient Tactics for Transferring iMovie Projects to Vimeo</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/aximize-video-reach-in-youtubes-seo-arena/"><u>[New] Maximize Video Reach in YouTube's SEO Arena</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-low-cost-leverage-to-youtube-lore-sponsorship-hacks-for-small-spheres/"><u>[Updated] 2024 Approved Low-Cost Leverage to YouTube Lore Sponsorship Hacks for Small Spheres</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-navigating-the-mobile-film-world-thumbnail-creation-essentials-for-2024/"><u>[Updated] Navigating the Mobile Film World Thumbnail Creation Essentials for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-leading-productivity-laptop-thats-not-from-lenovo-or-apple-exclusive-review-by-zdnet/"><u>Discover the Leading Productivity Laptop That's Not From Lenovo or Apple: Exclusive Review by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easily-set-up-a-distinctive-email-closing-in-godaddys-webmail-platform-a-comprehensive-tutorial/"><u>Easily Set Up a Distinctive Email Closing in GoDaddy's Webmail Platform – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-controlling-windows-11-wins-alerts/"><u>Guide to Controlling Windows 11 Wins Alerts</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone 15 Pro Max</u></a></li>
-<li><a href="https://win11.techidaily.com/make-the-most-of-intel-unison-with-these-fixes-for-windows-11/"><u>Make the Most of Intel Unison with These Fixes for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-obstacles-to-activate-windows-batch-scripts/"><u>Overcoming Obstacles to Activate Windows Batch Scripts</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210751416-9781722527679-the-master-key-to-riches/"><u>The Master-Key to Riches | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/utilizing-d-drive-directories-on-windows-explore/"><u>Utilizing D: Drive Directories on Windows Explore</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-missing-icon-reclaim-your-facebook-watch-icon/"><u>[New] Missing Icon? Reclaim Your Facebook Watch Icon</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-top-10-youtube-download-apps-best-in-class-compatibility/"><u>[New] Top 10 YouTube Download Apps - Best in Class Compatibility</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-inside-look-what-makes-asmr-special/"><u>[Updated] 2024 Approved Inside Look What Makes ASMR Special</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-beaming-login-logout-directions/"><u>[Updated] Beaming Login / Logout Directions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-flight-pioneers-face-off-dji-vs-gopro/"><u>[Updated] Flight Pioneers Face Off DJI vs GoPro</u></a></li>
+<li><a href="https://win11.techidaily.com/breathing-life-back-into-windows-service-tool-with-these-7-methods/"><u>Breathing Life Back Into Windows Service Tool With These 7 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/controlling-winapp-and-browser-dynamics/"><u>Controlling WinApp and Browser Dynamics</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-access-to-computers-heartbeat-open-mouse-prop-on-win11/"><u>Effortless Access to Computer's Heartbeat: Open Mouse Prop on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-clear-spotlight-wallpaper-icon-from-win11/"><u>How to Clear Spotlight Wallpaper Icon From Win11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-15-plus-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 15 Plus In Different Conditionsin</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-green-backdrops-available-at-zero-cost/"><u>In 2024, Green Backdrops Available at Zero Cost</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-c32-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Nokia C32 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-non-previewable-file-trouble-on-outlook-365-pc/"><u>Overcoming Non-Previewable File Trouble on Outlook 365 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-access-to-microsoft-store-features-on-pcs/"><u>Regain Access to Microsoft Store Features on PCs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/snapchat-voice-tweaks-simple-methods-for-smooth-adjustments/"><u>Snapchat Voice Tweaks Simple Methods for Smooth Adjustments</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-the-chaos-of-mbr-errors-with-data-interpretation/"><u>Taming the Chaos of MBR Errors with Data Interpretation</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-fixing-broken-internet-connections-6-strategies-for-windows-users/"><u>The Art of Fixing Broken Internet Connections - 6 Strategies for Windows Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-path-to-prodigious-smm-results-delivered-in-10-steps-for-2024/"><u>The Essential Path to Prodigious SMM Results, Delivered in 10 Steps for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-the-power-of-java-sdk-on-windows-11/"><u>Unleashing the Power of Java SDK on Windows 11</u></a></li>
 </ul></div>
 

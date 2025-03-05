@@ -1,7 +1,7 @@
 ---
 title: "Blending Email Services: Adding Gmail to the Outlook App in Windows"
-date: 2024-08-08T13:12:20.682Z
-updated: 2024-08-09T13:12:20.682Z
+date: 2025-03-03T03:47:13.577Z
+updated: 2025-03-04T22:17:12.235Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
 
  More importantly, it supports an improved Gmail integration that allows users to directly access their email, contacts, and calendar through the Outlook for Windows preview app.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Get the Outlook for Windows Preview App
 
  Before we get Gmail accounts into Outlook, we need to get the preview version of the app. The Outlook for Window preview app is available to users who have signed up for the Microsoft 365 Insider (formerly Office Insider) program. The latest version of Outlook aims to help users work more efficiently through a rich design and many new features.
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
 
  Alternatively, you can try Outlook for Windows Preview through the**Mail** and**Calendar** apps on Windows 10 and 11\. Simply launch the apps via the**Start** menu and enable the**Try the new Outlook** toggle button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add a Gmail Account to Outlook
 
  Now that you're using the preview version of Outlook, you can now make use of its Gmail integration. Once enabled, users can access their Google calendar and contacts right through the Outlook for Windows app, so you can say goodbye to using a browser to access your email and calendar.
@@ -49,41 +43,26 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
 2. Alternatively, if you’ve set up Microsoft 365 Insider, launch the**Outlook** app and enable the**Try the new Outlook** toggle button.
 3. Wait for the app to relaunch and quickly walk through the quick start guide.
 4. In the folder pane on the right, scroll to the bottom and select**Add account** .  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add account outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-account-outlook.jpg)
 5. If you can’t find that option, navigate to**Accounts > Email accounts > Settings** instead.
 
 1. Enter your Gmail account and press**Continue.**  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![outlook-preview-account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/outlook-preview-account.jpg)
 2. When asked for confirmation to sync your Gmail account, press**Continue** once again.
 3. You will then be redirected to your web browser to complete the Gmail sign-in.
 4. Once you’ve signed in, press**Open Outlook** when prompted to add your Gmail account to Outlook for Windows preview.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![outlook prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/outlook-prompt.jpg)
 5. Finally, press**Done** within the Outlook for Windows preview app to access your Google email, contacts, and calendar.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The New Outlook App Is Getting Better
 
  Millions of users have trusted Microsoft Outlook for over two decades, and to ensure its continuity, Microsoft has completely revamped the desktop Outlook experience for the better. Outlook is on its way to being a reliable desktop companion for the next generation of its users.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -92,6 +71,20 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/trategic-synergy-in-streams-dissecting-your-videos-from-rivals/"><u>[New] Strategic Synergy in Streams Dissecting Your Videos From Rivals'</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-blackout-blitz-a-moments-work/"><u>[Updated] 2024 Approved Blackout Blitz A Moment's Work</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-cross-platform-content-spread-tweeting-and-tumbling/"><u>[Updated] Cross-Platform Content Spread Tweeting & Tumbling</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-uninitialized-messages-on-windows-disks/"><u>Decoding 'Uninitialized' Messages on Windows Disks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-our-choice-of-five-premium-worldwide-calls-applications-free/"><u>Discover Our Choice of Five Premium Worldwide Calls Applications (Free)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-to-follow-steps-for-downloading-and-keeping-your-zebra-zp450-up-to-date/"><u>Easy-To-Follow Steps for Downloading and Keeping Your Zebra ZP450 Up to Date</u></a></li>
+<li><a href="https://win11.techidaily.com/evaluating-online-and-offline-file-transfer-google-and-windows-compared/"><u>Evaluating Online and Offline File Transfer: Google & Windows Compared</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unlock-and-open-an-inactive-nvidia-cp-on-w11/"><u>How to Unlock and Open an Inactive Nvidia CP on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-leaving-s-mode-in-windows/"><u>Mastering the Art of Leaving S Mode in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-missing-wi-fi-a-fix-guide-for-windows-11-users/"><u>Remedying Missing Wi-Fi: A Fix Guide for Windows 11 Users</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/swift-comment-removal-on-youtube-a-practical-guide/"><u>Swift Comment Removal on YouTube A Practical Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-audacitys-windows-audio-issue/"><u>Troubleshooting Audacity's Windows Audio Issue</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/unveiling-the-top-reasons-behind-network-card-malfunctions-a-deep-dive-by-yl-computing/"><u>Unveiling the Top Reasons Behind Network Card Malfunctions: A Deep Dive by YL Computing</u></a></li>
+</ul></div>
 

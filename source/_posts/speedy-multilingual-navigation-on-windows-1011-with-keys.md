@@ -1,7 +1,7 @@
 ---
 title: Speedy Multilingual Navigation on Windows 10/11 with Keys
-date: 2025-02-11T22:42:56.660Z
-updated: 2025-02-16T03:19:59.286Z
+date: 2025-03-01T18:16:27.215Z
+updated: 2025-03-04T23:44:41.474Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Translate Text in Windows Software With QTranslate
 
  QTranslate is among the[best free translation apps](https://www.makeuseof.com/windows-free-translator-apps/) for Windows platforms dating back to XP. It enables you to translate text in all Windows software with nine cloud-based translator services (including Microsoft and Google). However, the best thing about this software is its hotkey functionality for translating selected text. You can translate text passages with QTranslate like this:
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 8. Select some text to translate on the website, and press the**Ctrl** +**Q** hotkey. A popup window with an English translation for your selected foreign text will open.  
 ![The QTranslate popup window for translations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/qtranslate-popup-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The popup window that opens includes a few options. You can select different translation services at the bottom of the window. Click the star button to save it to your favorites. Add the translated text to the clipboard by selecting the**Copy selection to clipboard** option.
 
@@ -71,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
  If you like translating text on the web, check out the[best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Translate Text in Windows Software With DeepL
 
  DeepL is the online translator service's official Windows desktop program. That software has freemium, starter, advanced, and ultimate versions. The freemium version has a 5,000-word character translation limit. DeepL has similar hotkey functionality to QTranslate with which you can translate text passages as follows:
@@ -88,15 +76,7 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 7. Press the**Ctrl** +**C** hotkey twice to bring up the DeepL translation window. That window shows the selected text alongside an English translation for it.  
 ![The DeepL translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-deepl-translation-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There you can select different languages to translate by clicking the drop-down menu on the right side of the DeepL window. You can also look up translations for specific words. Select a word with the cursor and click**Dictionary entries** at the bottom of the window to look it up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Translate Files With DeepL
 
@@ -133,22 +113,22 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/avigating-thumbnail-sizes-for-youtube-content-excellence/"><u>[New] Navigating Thumbnail Sizes for YouTube Content Excellence</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-make-every-interaction-count-how-to-add-and-share-gifs-on-snapchat/"><u>2024 Approved Make Every Interaction Count How to Add and Share GIFs on Snapchat</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-optimizing-your-social-media-wirecast-on-facebook-streaming/"><u>2024 Approved Optimizing Your Social Media Wirecast on Facebook Streaming</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-5-time-lapse-screen-recorder/"><u>2024 Approved Top 5 Time-Lapse Screen Recorder</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-a-winning-sponsorship-proposal-for-youtube-creators/"><u>Crafting a Winning Sponsorship Proposal for Youtube Creators</u></a></li>
-<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-14-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone 14 Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-education-aesthetics-on-windows-11/"><u>Enabling Education Aesthetics on Windows 11</u></a></li>
-<li><a href="https://fox-info.techidaily.com/evaluating-the-efficacy-of-aurora-hdr-technology-for-2024/"><u>Evaluating the Efficacy of Aurora HDR Technology for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-easily-examine-and-delete-windows-11-events/"><u>How to Easily Examine & Delete Windows 11 Events</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-13-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From iPhone 13</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-footage-windows-11-video-toolkit-guide/"><u>Master Your Footage: Windows 11 Video Toolkit Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-blue-screen-0x8007007e-error-guide/"><u>Resolving Windows Blue Screen: 0X8007007E Error Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/restart-reset-reconnect-fix-windows-11-printing-problems/"><u>Restart, Reset, Reconnect: Fix Windows 11 Printing Problems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/save-big-on-hp-victus-15-top-deals-at-515-during-prime-day-score-it-now-from-best-buy/"><u>Save Big on HP Victus 15: Top Deals at $515 During Prime Day - Score It Now From Best Buy!</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-adjust-misinterpreted-cpu-data-on-task-manager-screen/"><u>Steps to Adjust Misinterpreted CPU Data on Task Manager Screen</u></a></li>
-<li><a href="https://win11.techidaily.com/taskbar-through-windows-lenses-1985-2023-retrospective/"><u>Taskbar Through Windows Lenses: 1985-2023 Retrospective</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-storage-needs-better-strategies-with-windows-diskusage-commands/"><u>Understanding Storage Needs Better: Strategies with Windows' DiskUsage Commands</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-connecting-twitters-and-facebooks-easily/"><u>[Updated] Connecting Twitters & Facebooks Easily</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-captivatescreen-scrutiny-platform/"><u>[Updated] In 2024, CaptivateScreen Scrutiny Platform</u></a></li>
+<li><a href="https://video-capture.techidaily.com/comprehensive-guide-to-android-screenshotting/"><u>Comprehensive Guide to Android Screenshotting</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-windows-rule-sets-with-three-methodologies/"><u>Dissecting Windows Rule Sets with Three Methodologies</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-successful-utorrent-installation-after-failure-on-windows/"><u>Ensuring Successful uTorrent Installation After Failure on Windows</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-earning-edge-exploiting-youtube-studio-for-global-viewers/"><u>In 2024, Earning Edge Exploiting YouTube Studio for Global Viewers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-websites-for-extracting-text-visual-upgrades/"><u>In 2024, Ideal Websites for Extracting Text Visual Upgrades</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-insight-into-t-series-profit-from-youtube-platforms/"><u>In 2024, Insight Into T-Series Profit From YouTube Platforms</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-key-10-windows-software-for-superior-tiktok-editing/"><u>In 2024, Key 10 Windows Software for Superior TikTok Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/modify-image-positioning-on-windows-pcs/"><u>Modify Image Positioning on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-vscode-closure-issues-in-w11/"><u>Overcoming VSCode Closure Issues in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/real-time-speech-to-text-unlocking-with-whisper/"><u>Real Time Speech to Text: Unlocking with Whisper</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-xiaomi-13t-pro-by-fonelab-android-recover-data/"><u>Recover lost data from Xiaomi 13T Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-msresourceapptext-error-in-win11/"><u>Troubleshooting MsResource/AppText Error in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unboxed-an-in-depth-look-at-the-latest-tech-the-samsung-galaxy-note2eby-with-5g-technology/"><u>Unboxed: An In-Depth Look at the Latest Tech - The Samsung Galaxy Note2eby with 5G Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-more-drive-potential-the-definitive-review-of-highpoints-rocket-1608a-usb-expansion-card/"><u>Unleash More Drive Potential: The Definitive Review of HighPoint's Rocket 1608A USB Expansion Card</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-the-power-to-repair-widespread-rainmeter-disruptions/"><u>Unleashing the Power to Repair Widespread Rainmeter Disruptions</u></a></li>
 </ul></div>
 

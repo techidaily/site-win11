@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Windows 11'S 'Access Denied': 5 Effective Remedies"
-date: 2024-08-08T13:14:22.567Z
-updated: 2024-08-09T13:14:22.567Z
+date: 2025-02-26T16:14:03.994Z
+updated: 2025-03-05T01:13:04.449Z
 tags:
   - windows10
   - windows11
@@ -25,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
 * [Take Ownership of the File](#take-ownership-of-the-file)
 * [Disable Your Third-Party Antivirus Software](#disable-your-third-party-antivirus-software)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The "Access Denied" error on Windows 11 indicates a lack of permissions. Check system permissions and grant full control to your user account.
@@ -36,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
 
  When you encounter the "Access Denied" error in Windows 11, it can feel like you're being locked out of your own computer. While having trouble accessing your files, directories, and folders is frustrating, don't panic—with a few simple tweaks, you can regain access to your system.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Why Are You Getting the "Access Denied" Error?
 
  The Access Denied error is a common issue on Windows systems that indicates you don't have permission to view a file or folder. This is because your system has not granted access to that directory for the user account you're currently using. Simply put, you're using an unauthorized account to access paths, folders, and files on your computer or external drives from other computers.
@@ -59,9 +49,6 @@ No advertising on the website.
 2. Go to the **Security** tab and click the **Edit**button.  
 ![The Security tab under Properties of a File on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/file-properties.png)
 3. Choose your username from the list and check the box beside **Full control** in the **Allow** column under the **Permissions for User** section. Then, click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot showing the settings for changing permissions for users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/user-settings.png)
 
 **Note:** If your username is not on the list, you have to add it manually and then change its permissions.
@@ -74,10 +61,6 @@ No advertising on the website.
 
 1. Press **Win** \+ **R** to open **Run**. Type **control userpasswords2** and click **OK.**
 2. On the **User Accounts** window, check the box beside **Users must enter a username and password to use this computer**. If this isn't present, skip this step.  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![The users tab displaying users in a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/the-users-tab-displaying-users-in-a-computer.png)
 3. Select your account and click the **Properties** button below it.
 4. Next, go to the **Group Membership** tab. Choose **Administrator** from the menu, then click **Apply** and **OK**.  
@@ -92,9 +75,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. Open Windows search by pressing **Win** \+ **S**.
 2. Next, type **CMD**, right-click Command Prompt, and click **Run as administrator.**
 3. On the Command Prompt, run the following command: **net user administrator /active:yes**. This will unlock the administrator account.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Prompt for enabling the hidden admin account in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/prompt-for-enabling-the-hidden-admin-account-in-windows.png)
 4. Log off the current account and switch to the newly enabled Administrator account. Using this account, you won't run into access problems, as it has more privileges than a normal admin account.
 5. Once you're done with the Administrator account, log off and sign into your main account again. Repeat steps 1 and 2, then run this command: **net user administrator /active:no.** This will disable the Administrator account.
@@ -107,21 +87,12 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 1. Locate the folder or file you want to access and right-click on it. Click **Properties** from the menu.
 2. Go to the **Security** tab and click the **Advanced** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![Security tab in the Properties tab of a file in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/security-tab-in-the-properties-tab-of-a-file-in-windows.png)
 3. Next, look for the **Owner** section on the top of the window and click **Change**. This will open a new dialog box.  
 ![Permissions page for a file in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/permissions-page-for-a-file-in-windows-11.png)
 4. In the **Select User or Group** window, type your username or **Administrators** in the **Enter the object name** field.  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![Select user or group tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/select-user-or-group-tab.png)
 5. Then, click the **Check Names** and **OK** buttons to save your changes.  
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select user or group tab for a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/select-user-or-group-tab-for-a-file.png)
 6. Next, click **Apply.**
 7. You'll see a Windows Security prompt. Click **OK**.
@@ -143,9 +114,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Restart your computer once you're done with the steps above to check if the problem is resolved. But usually, after running these commands, you should regain access to the files and folders.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Disable Your Third-Party Antivirus Software
 
  On the off chance that the issue isn't resolved, consider turning off your third-party antivirus software.
@@ -156,12 +124,33 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Resolving the "Access Denied" error is straightforward and does not require a lot of technical steps. You can regain control over your files and system by employing a few key strategies. Simply ensure your user account has the necessary permissions and, if needed, elevate your privileges to an administrator level.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-puzzling-out-what-pfp-signifies-on-tiktok/"><u>[New] Puzzling Out What PFP Signifies on TikTok</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-mfc-7360n-step-by-step-printer-driver-setup-for-multiple-windows-versions/"><u>Brother MFC-7360N: Step by Step Printer Driver Setup for Multiple Windows Versions</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-obscure-to-noteworthy-your-path-to-a-better-fb-image/"><u>From Obscure to Noteworthy: Your Path to a Better FB Image</u></a></li>
+<li><a href="https://win11.techidaily.com/halt-chromes-webp-save-guide-to-image-format-changes-pc-wise/"><u>Halt Chrome’s WebP Save: Guide to Image Format Changes PC-Wise</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-darkness-decoded-iphone-photography-mastery/"><u>In 2024, Darkness Decoded IPhone Photography Mastery</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-finest-choices-free-streaming-tools-suitable-everywhere/"><u>In 2024, Finest Choices Free Streaming Tools Suitable Everywhere</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-persistent-edges-windows-11-user-guide/"><u>Managing Persistent Edges: Windows 11 User Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-sea-of-nvidia-drivers-whats-best/"><u>Navigating the Sea of Nvidia Drivers: What's Best?</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-net-issue-deciphering-error-0x800704b3/"><u>Overcoming Windows Net Issue - Deciphering Error 0X800704B3</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-oppo-a38-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Oppo A38</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/professional-acid-pro-analysis-and-substitutes-for-2024/"><u>Professional ACID Pro Analysis and Substitutes for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-disrupted-asana-functionality-in-windows/"><u>Quick Fixes for Disrupted Asana Functionality in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tip-how-to-fire-up-windows-media-player/"><u>Quick Tip: How to Fire Up Windows Media Player</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-remedy-requires-privilege-error-code-0x80070522-in-windows/"><u>Steps to Remedy Requires Privilege Error Code 0X80070522 in Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-pubg-voice-customization/"><u>The Ultimate Guide to PUBG Voice Customization</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-persistent-edge-desktop-widgets/"><u>Troubleshooting Persistent Edge Desktop Widgets</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-lava-yuva-3-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Lava Yuva 3 Pro.</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-severe-js-issue-within-discord-app-solutions-for-w10w11-pcs/"><u>Unraveling Severe JS Issue Within Discord App: Solutions for W10/W11 PCs</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Business Model: Windows 11 & Microsoft"
-date: 2025-02-14T23:06:09.799Z
-updated: 2025-02-15T22:18:10.548Z
+date: 2025-02-27T18:48:53.917Z
+updated: 2025-03-05T00:34:25.118Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 ![A Windows 11 device](https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53a757d0b8f7bbc674ee0d976.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can install Windows 11 on any computer that meets the minimum requirement to run the OS. Unlike Apple, Microsoft sells Windows 11 licenses so that you can make your PC using all the best components available.
 
  You can buy Windows 11 licenses from the Microsoft Store or other authorized retailers. Microsoft earns profit for every license sold everywhere in the world.
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 ## 2\. Microsoft Sells Subscriptions to Windows 11 Users
 
 ![A phone displaying the applications belonging to Microsoft 365](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ed-hardie-xg02jzibf7o-unsplash-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When you start using Windows 11, the chances are high that you'll end up using some of Microsoft's apps and services, some of which are paid. Like it or not, Microsoft keeps promoting its paid subscription offering, like Microsoft 365, through various apps and services.
 
@@ -73,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 ![Screenshot Showing Windows 11 Account Settings Menu on the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-account-settings-menu-on-the-start-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Every major tech company profits from advertising, and Microsoft is no exception. In fact, the company pays significant attention to increasing its advertisement revenue.
 
  And since Windows is the company's most successful product used by billions of people, showing advertisements in Windows 11 is arguably one of the best ways to earn more profit.
@@ -89,17 +77,9 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  Windows 11 shows you personalized ads, meaning it will try to show you advertisements that you might find interesting. And personalized ads require Microsoft to collect your data. But you can get rid of all of them by [making Windows 11 ad-free](https://www.makeuseof.com/windows-11-remove-ads/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Microsoft Makes Money From Search Advertising Business
 
 ![Bing Chat logo with a white abstract background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bing-chat-with-abstract-background.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Microsoft earns a sizable chunk of its revenue from the personal computing space, which includes online search. And search is an integral part of Windows 11—you can see it in the Start menu, Settings app, and even File Explorer.
 
@@ -127,24 +107,24 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-illuminate-your-world-top-iphone-lights-techniques/"><u>[New] 2024 Approved Illuminate Your World Top iPhone Lights Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-get-the-most-out-of-instagram-photos-with-these-apps/"><u>[New] Get the Most Out of Instagram Photos with These Apps</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-best-slide-show-software-selection-on-latest-iphones-for-2024/"><u>[Updated] Best Slide Show Software Selection on Latest iPhones for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-list-10-budget-friendly-picture-storage-vaults/"><u>[Updated] Premium List 10 Budget-Friendly Picture Storage Vaults</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-take-fullscreen-digital-canvas-for-2024/"><u>[Updated] Take Fullscreen Digital Canvas for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-value-asmr-gear-premium-sound-affordably-priced/"><u>[Updated] Top Value ASMR Gear Premium Sound Affordably Priced</u></a></li>
-<li><a href="https://win11.techidaily.com/effortlessly-incorporate-emulators-into-playnite/"><u>Effortlessly Incorporate Emulators Into Playnite</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhance-animal-eye-appearance-a-guide-to-editing-pet-photos/"><u>Enhance Animal Eye Appearance: A Guide to Editing Pet Photos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/essential-fb-video-plays-top-10-choices/"><u>Essential FB Video Plays Top 10 Choices</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-uses-for-vcplusplus-redistribution/"><u>Essential Uses for VC++ Redistribution</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-windows-11-isp-settings/"><u>Exploring Windows 11 ISP Settings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/getting-set-up-signing-up-for-chatgpt-telegram-and-whatsapp-without-your-cell/"><u>Getting Set Up: Signing Up for ChatGPT, Telegram & WhatsApp Without Your Cell</u></a></li>
-<li><a href="https://win11.techidaily.com/instant-troubleshooting-for-windows-ui-glitches/"><u>Instant Troubleshooting for Windows UI Glitches</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-efficiency-incorporating-custom-tasks-into-windows-explorer/"><u>Maximizing Efficiency: Incorporating Custom Tasks Into Windows Explorer</u></a></li>
-<li><a href="https://win11.techidaily.com/monitor-mania-tailoring-your-taskscape-with-themed-windows/"><u>Monitor Mania: Tailoring Your Taskscape with Themed Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/removing-onedrive-from-windows-file-explorer-a-guide/"><u>Removing OneDrive From Windows File Explorer: A Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-overcoming-audio-problems-in-csgo-for-a-seamless-gaming-experience/"><u>Solved! Overcoming Audio Problems in CS:GO for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/the-pinnacle-collection-best-free-aid-for-windows-11-users/"><u>The Pinnacle Collection: Best Free Aid for Windows 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-remedying-windows-error-0x800f0831/"><u>Understanding and Remedying Windows Error 0X800F0831</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-free-screen-recording-techniques-for-pc-enthusiasts/"><u>[New] 2024 Approved Free Screen Recording Techniques for PC Enthusiasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-asus-proart-pa-329q-a-deep-dive-into-high-resolution-monitoring/"><u>[New] Asus ProArt PA 329Q A Deep Dive Into High-Resolution Monitoring</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-tips-for-documenting-virtual-meetings/"><u>[New] In 2024, Tips for Documenting Virtual Meetings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-decoding-the-secrets-to-using-ez-grabber/"><u>[Updated] In 2024, Decoding the Secrets to Using EZ Grabber</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-free-hilarious-memetic-art/"><u>2024 Approved The Ultimate Guide to Free, Hilarious Memetic Art</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/dismantling-windows-11s-fatal-0xf0831-challenge/"><u>Dismantling Windows 11'S Fatal 0XF0831 Challenge</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-could-not-create-windows-snap-error/"><u>Dissecting 'Could Not Create' Windows Snap Error</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/free-guide-on-downloading-high-quality-hd-films-from-123movies-in-720p-and-1080p-resolutions/"><u>Free Guide on Downloading High-Quality HD Films From 123Movies in 720P and 1080P Resolutions</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-activating-the-verifier-toolset-in-win11/"><u>Guide: Activating the Verifier Toolset in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-resolving-windows-errors-in-windows-11/"><u>Mastering the Art of Resolving Windows Errors in Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/pioneering-technology-cutting-edge-screen-capture-software-listings-for-2024/"><u>Pioneering Technology Cutting-Edge Screen Capture Software Listings for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-boost-essential-speed-up-strategies-for-windows-pcs/"><u>Quick Boost: Essential Speed-Up Strategies for Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/redo-windows-11s-classic-folder-display-mode/"><u>Redo Windows 11'S Classic Folder Display Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-overwatch-2-reclaim-lossed-renderer-on-pc/"><u>Resolving Overwatch 2: Reclaim Lossed Renderer on PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/seeking-outtop-8-android-apps-for-cost-effective-video-tile-creation-for-2024/"><u>Seeking Outtop 8 Android Apps for Cost-Effective Video Tile Creation for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-system-calls-quick-remedies-for-windows-11-fails/"><u>Unblocking System Calls: Quick Remedies for Windows 11 Fails</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mystery-of-windows-11s-zero-a00f-cam-error/"><u>Unraveling the Mystery of Windows 11'S Zero-A00F Cam Error</u></a></li>
+<li><a href="https://win11.techidaily.com/where-do-windows-store-images-go/"><u>Where Do Windows Store Images Go?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Completely Eliminate a Printer From Win11
-date: 2025-02-10T17:04:59.307Z
-updated: 2025-02-16T00:50:04.950Z
+date: 2025-03-02T23:22:29.887Z
+updated: 2025-03-04T22:12:55.314Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Remove a Printer From Windows via Settings
 
  You can easily [add or remove printers](https://www.makeuseof.com/tag/printer-setup-windows-10/) from the Settings app. Here’s how to do it:
@@ -43,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 5. Click the **Remove** button in the top right corner and click **Yes** to confirm the action.
 
  If you encounter an error, stop the Print Spooler service in the Services snap-in and try again!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Stop the Print Spooler Service
 
@@ -66,23 +58,11 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 ![Print Spooler Service Start Option in Services MMC on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-start-1.jpg)
 8. Right-click on **Print Spooler** and select **Start**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Restarting the Printer Spooler service](https://www.makeuseof.com/windows-restart-print-spooler-service/) is necessary. If disabled, you may encounter the [printer spooler service is not running](https://www.makeuseof.com/print-spooler-service-not-running-windows/) error on your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Remove the Printer Software to Delete the Printer
 
 ![Remove HP Printer Software in Windows 11 Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/hp-printer-remove-software.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the deleted printer option still appears, you can remove the printer driver associated with the device to uninstall it completely. You can remove the driver using the Apps & feature tab in Windows 10 and 11\.
 
@@ -126,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 ![Hardware and Sound Option in Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/control-panel-hardware-and-sound-1.jpg)
 4. Select any available printer and click on **Print server properties.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Print Server Properties Option in Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-server-properties.jpg)
 5. Open the **Drivers** tab in the **Print Server Properties** dialog.
 
@@ -156,16 +132,8 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 ![Uninstall Printer Option Selected in Device Manager on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/uninstall-printer-device-manager.jpg)
 6. Select the **Delete the driver software for this device** option and click **Uninstall**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. If the **Printers** section is unavailable, expand the **Print queues** section and repeat the steps to remove the printer.
 8. Close Device Manager and restart your computer to complete the uninstall process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. How to Uninstall a Printer Using the Command Prompt
 
@@ -194,10 +162,6 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 2. Type **printmanagement**.**msc** and click **OK** to open **Print Management**.  
 ![Open Print Management Using Run Dialog in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-print-management.jpg)
 3. In the left pane, expand the **Print Servers** section,
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Click on your **Local Printer** server name to expand it.
 5. Next, select **Printers** to view all the installed printers.  
@@ -238,14 +202,16 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-snap-motion-blur-photos-effortlessly-with-iphone-techniques-for-2024/"><u>[New] Snap Motion-Blur Photos Effortlessly with iPhone Techniques for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-cutting-edge-skies-the-ultimate-guide-to-drones-and-their-edits/"><u>[Updated] 2024 Approved Cutting Edge Skies The Ultimate Guide to Drones and Their Edits</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-total-zen-closing-virtual-horizons/"><u>In 2024, Total Zen Closing Virtual Horizons</u></a></li>
-<li><a href="https://win11.techidaily.com/linuxs-surge-the-power-of-wsl-integration/"><u>Linux's Surge: The Power of WSL Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-win-error-due-to-non-existent-mfc71udll/"><u>Resolving Win Error Due to Non-Existent Mfc71u.dll</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-wows-critical-crash-the-win11-solution/"><u>Taming WoW’s Critical Crash: The Win11 Solution</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-secret-sauce-to-instagram-success-with-engaging-puzzles/"><u>The Secret Sauce to Instagram Success with Engaging Puzzles</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-nostalgia-project-from-today-to-98/"><u>Windows Nostalgia Project: From Today to ‘98</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-efficient-editing-harnessing-photoshops-powerful-eraser/"><u>2024 Approved Efficient Editing Harnessing Photoshop’s Powerful Eraser</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/chromatic-shift-strategies-for-skilled-alteration/"><u>Chromatic Shift Strategies for Skilled Alteration</u></a></li>
+<li><a href="https://win11.techidaily.com/combating-windows-errors-a-step-by-cookie-win-error-1152-guide/"><u>Combating Windows Errors: A Step-By Cookie - Win Error 1152 Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/exclusive-guide-365-days-of-no-cost-text-files/"><u>Exclusive Guide 365 Days of No-Cost Text Files</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-alternative-platforms-windows-media-cutting-tools/"><u>In 2024, Alternative Platforms WIndows Media Cutting Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maintain-efficient-use-windows-11-idle-shutdown-tips-and-tricks/"><u>Maintain Efficient Use: Windows 11 Idle Shutdown Tips and Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-network-efficiency-with-dns-setup-in-windows-11/"><u>Maximizing Network Efficiency with DNS Setup in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/pc-reset-guide-discovering-windows-top-8-methods/"><u>PC Reset Guide: Discovering Windows' Top 8 Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-dailymotion-glitches-effective-strategies-for-smooth-playback/"><u>Solving Dailymotion Glitches - Effective Strategies for Smooth Playback</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-best-bargains-in-drone-tech-for-under-100/"><u>The Best Bargains in Drone Tech for Under $100</u></a></li>
 </ul></div>
 

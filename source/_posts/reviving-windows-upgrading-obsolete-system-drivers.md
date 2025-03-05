@@ -1,7 +1,7 @@
 ---
 title: "Reviving Windows: Upgrading Obsolete System Drivers"
-date: 2025-02-13T01:42:39.171Z
-updated: 2025-02-16T02:32:51.077Z
+date: 2025-03-02T16:13:30.781Z
+updated: 2025-03-04T19:18:48.701Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
  When you come across a date associated with a driver, this usually refers to when the driver was published, not necessarily when you installed it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Use Device Manager
 
  A user-friendly way to check drivers is through Device Manager. There are plenty of [ways to open Device Manager](https://www.makeuseof.com/windows-open-device-manager/); a simple method is to press **Windows key + X** and select **Device Manager**.
@@ -49,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 4. If you need more information and want to view the installed driver files, click **Driver Details**.
 
 ![device manager driver details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/device-manager-driver-details.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This method is great if you only need to check a handful of drivers, but it's a bit tedious if you want to see all your drivers. In that case, use an alternative method detailed below.
 
@@ -78,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
  To get the information in a handy text file that you can refer to later, type **driverquery > driver.txt**. The file saves wherever your Command Prompt path is set. See [Microsoft's driverquery page](https://learn.microsoft.com/windows-server/administration/windows-commands/driverquery) for more advanced parameters.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Update Outdated Windows Drivers
 
  There are plenty of [reasons to keep drivers updated](https://www.makeuseof.com/computer-drivers-what-are-they-why-should-you-update/). By doing so, you'll ensure software compatibility, and benefit from bug fixes and security patches.
@@ -96,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
 ![windows 11 windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-11-windows-update.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can [disable automatic driver updates on Windows](https://www.makeuseof.com/windows-stop-automatic-driver-updates/) if you want, perhaps if the latest version is causing trouble, but generally you should let Windows Update do its thing.
 
  Windows Update also provides some drivers as optional downloads—in other words, the drivers aren't automatically updated. Generally, you should only install optional driver updates if you have a specific problem. To do that, from the Windows Update page:
@@ -110,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 4. Click **Download and install**.
 
 ![windows 11 view optional updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-11-view-optional-updates.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use the Manufacturer's Website
 
@@ -153,22 +133,18 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-from-feedback-to-fanbase-the-video-journey/"><u>[Updated] 2024 Approved From Feedback to Fanbase The Video Journey</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-curated-array-of-chat-catalyzing-queries-for-podcasters/"><u>[Updated] Curated Array of Chat-Catalyzing Queries for Podcasters</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-exploring-metaverse-laughter-creating-your-own-funny-online-jokes/"><u>[Updated] In 2024, Exploring Metaverse Laughter Creating Your Own Funny Online Jokes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/behind-the-scenes-of-virtual-reality-films-for-2024/"><u>Behind the Scenes of Virtual Reality Films for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/combatting-common-media-errors-on-windows-11-os/"><u>Combatting Common Media Errors on Windows 11 OS</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/crafting-and-gauging-the-success-of-fb-instream-ads-for-2024/"><u>Crafting and Gauging the Success of FB Instream Ads for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-motorola-moto-g14-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Motorola Moto G14 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-youtubes-creator-hub-explained-simply/"><u>In 2024, YouTube's Creator Hub Explained Simply</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-xbox-app-settings-for-optimal-gaming/"><u>Mastering Xbox App Settings for Optimal Gaming</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-simplify-your-reaction-video-creation-a-step-by-step-guide-with-filmora/"><u>New 2024 Approved Simplify Your Reaction Video Creation A Step-by-Step Guide with Filmora</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-defragmenter-not-activating-problems/"><u>Overcoming Windows Defragmenter Not Activating Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-win-11s-wi-fi-settings/"><u>Streamlining Win 11'S Wi-Fi Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-blend-taskview-into-win-11-ui/"><u>Techniques to Blend TaskView Into Win 11 UI</u></a></li>
-<li><a href="https://win11.techidaily.com/the-transformative-power-of-microsofts-copilot-key-for-windows-11-users/"><u>The Transformative Power of Microsoft's Copilot Key for Windows 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-current-login-failed-window-error/"><u>Troubleshooting Current Login Failed Window Error</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-roblox-error-262-quickly/"><u>Troubleshooting Roblox Error 262 Quickly</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-breaking-down-barriers-to-affordable-editing-power/"><u>2024 Approved Breaking Down Barriers to Affordable Editing Power</u></a></li>
+<li><a href="https://article-files.techidaily.com/ace-your-channel-prime-title-generators/"><u>Ace Your Channel Prime Title Generators</u></a></li>
+<li><a href="https://win11.techidaily.com/compre-written-guide-for-windows-error-code-0xc00000f/"><u>Compre Written Guide for Windows Error Code: 0Xc00000f</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-gaming-worlds-windows-directories-unlocked/"><u>Exploring Gaming Worlds: Windows Directories Unlocked</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-funny-faces-our-simple-meme-guide-for-2024/"><u>Free Funny Faces - Our Simple Meme Guide for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-generative-ai-is-transforming-employment-landscapes-7-key-impacts/"><u>How Generative AI Is Transforming Employment Landscapes: 7 Key Impacts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pushing-boundaries-in-visual-storytelling-with-hdr/"><u>In 2024, Pushing Boundaries in Visual Storytelling with HDR</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-itel-p55-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Itel P55 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/preserving-top-level-calculator-in-windows/"><u>Preserving Top-Level Calculator in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-windows-inactive-start-button/"><u>Reviving Your Window's Inactive Start Button</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-playback-problems-for-dota-2-audio-on-windows-and-mac/"><u>Solving Playback Problems for Dota 2 Audio on Windows and Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-0xc000003e-application-initiation-faults-on-pcs/"><u>Troubleshooting 0XC000003E Application Initiation Faults on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/usb-boot-media-creation-windows-11-tutorial-in-three-parts/"><u>USB Boot Media Creation – Windows 11 Tutorial in Three Parts</u></a></li>
 </ul></div>
 

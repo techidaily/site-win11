@@ -1,7 +1,7 @@
 ---
 title: Boosting Microsoft Edge Performance in Win10/Win11
-date: 2024-08-08T13:14:01.320Z
-updated: 2024-08-09T13:14:01.320Z
+date: 2025-03-02T00:56:13.285Z
+updated: 2025-03-04T22:43:19.828Z
 tags:
   - windows10
   - windows11
@@ -24,24 +24,15 @@ thumbnail: https://thmb.techidaily.com/72ca63d6325a67d4b7a844299776fc3c0b1aca644
 
  Before doing any troubleshooting steps below, make sure that your internet connection works properly. Often, an intermittent connection can slow down your browser. If you’ve established that there are no network-related issues, you can proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Relaunch Microsoft Edge
 
  When we say relaunch, we don’t just mean close the browser and open it again. Most times, exiting a program doesn’t completely stop it from running. They’re just left running in the background. To ensure that the program is completely closed, you need to stop any processes related to it on your Task Manager. Here’s how:
 
 1. Press and hold **Ctrl** + **Shift** + **Esc** keys to open Task Manager.
 2. Look for Microsoft Edge from the list. Click it and press **End Task**. This will completely close the app.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Relaunch Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/end-edge-1.jpg)
 3. Launch Microsoft Edge and see if it works okay.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Update Edge
 
  Outdated programs such as Microsoft Edge can lead to a slow user experience. This is because developers introduced new updates to address several bugs and issues. If you don’t update it, the problems present on the app will stay and hamper your usage.
@@ -62,22 +53,13 @@ thumbnail: https://thmb.techidaily.com/72ca63d6325a67d4b7a844299776fc3c0b1aca644
 2. Click the **three-dot** menu found on the upper right side of the screen. Then, click **Settings** from the drop-down menu.
 3. On the Settings page, click **Start, home, and new tabs** from the left-side navigation.
 4. Under the **New tab page** section, disable the **Preload the new tab page for a faster experience** option.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 5. ![Preload the new tab page feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/preload-pages-1.jpg)  
  Relaunch Microsoft Edge and check if it works faster.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Close Unnecessary Tabs
 
  If you have a lot of open tabs, Microsoft Edge might slow down its performance. Try to close some of the tabs you no longer need to free some of Edge resources. Alternatively, you could use a [browser extension to help you manage your tabs](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### 5\. Change the Tracking Prevention Setting
 
  Microsoft Edge is big on privacy. That’s why it has a built-in feature that prevents companies from collecting your information when browsing. This feature comes in three different settings, and you can choose how you want to be protected.
@@ -107,14 +89,8 @@ thumbnail: https://thmb.techidaily.com/72ca63d6325a67d4b7a844299776fc3c0b1aca644
 4. Next, click **Manage and delete cookies and site data**.
 5. ![Microsoft Edge cookies and data stores settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-cookies-1.jpg)  
  Then, press **See all cookies and site data**.
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. ![Sell all cookies in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/see-all-cookies-1.jpg)  
  Under All cookies and site data, click **Remove all**.
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. ![Remove all Edge cookies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-all-cookies-1.jpg)  
  Check your browser and see if the issue persists.
 
@@ -124,16 +100,10 @@ thumbnail: https://thmb.techidaily.com/72ca63d6325a67d4b7a844299776fc3c0b1aca644
 
 1. Open the Edge browser and click the **three-dots** menu. Then click **Extensions**.
 2. From the Extensions page, manually disable all the extensions you have installed by switching the button off found on the right side of each extension.
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 3. ![Disable Edge extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edge-extensions-1.jpg)  
  After disabling all your extensions, check whether it solves the problem. If it does, go back to the Extensions page and turn the extensions one by one to see which one is causing it.
 4. Once you find out which extension is slowing down your browser, delete it from your Edge.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## 8\. Flush Edge DNS
 
  To load faster, Microsoft Edge stores and uses data about the websites that you access in its DNS (or Domain Name Server). However, if it stores too much data or it somehow gets corrupted, it will slow down the browser.
@@ -156,12 +126,27 @@ thumbnail: https://thmb.techidaily.com/72ca63d6325a67d4b7a844299776fc3c0b1aca644
 
  The latest Microsoft Edge comes with many new features such as sleep tabs, tab groups, and more that can help with productivity and efficiency. However, these updates can sometimes slow down Edge. If you are experiencing this, follow the fixes below to speed your browser up.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-top-8-endorsed-methods-for-video-marketing-success/"><u>[Updated] In 2024, Top 8 Endorsed Methods for Video Marketing Success</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-lasting-freedom-how-to-banish-youtube-shorts-permanently/"><u>[Updated] Lasting Freedom How To Banish YouTube Shorts Permanently</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capturing-the-echoes-of-yesteryears-scanning-and-storing-vintage-prints/"><u>2024 Approved Capturing the Echoes of Yesteryears Scanning and Storing Vintage Prints</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-windows-menu-with-portable-software-tools/"><u>Customizing Windows Menu with Portable Software Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easily-upgrade-to-newest-driver-for-a6200-wi-fi-device/"><u>Easily Upgrade to Newest Driver for A6200 Wi-Fi Device</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-fix-for-disappearing-steam-apps/"><u>Effortless Fix for Disappearing Steam Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-volume-control-windows-11s-mixer-setup-guide/"><u>Integrating Volume Control: Windows 11'S Mixer Setup Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-windows-adding-outlook-preview/"><u>Mastering the Art of Windows: Adding Outlook Preview</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-autolock-settings/"><u>Mastering Windows' Autolock Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-your-first-day-on-windows-11-skip-these-top-8-blunders/"><u>Mastering Your First Day on Windows 11: Skip These Top 8 Blunders</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-rog-phone-7-ultimate-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-gtx-nvidia-geforce-950-graphics-card-code-43-issue-in-windows-10/"><u>Resolving the GTX Nvidia GeForce 950 Graphics Card Code 43 Issue in Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oppo-a59-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Oppo A59 5G for Streaming | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Ways to Dive Into Your Windows 11 AppsDirectory
-date: 2024-12-20T16:22:39.505Z
-updated: 2024-12-27T23:09:50.318Z
+date: 2025-03-03T16:48:48.606Z
+updated: 2025-03-04T20:26:08.827Z
 tags:
   - windows10
   - windows11
@@ -33,15 +33,7 @@ thumbnail: https://thmb.techidaily.com/f8ecdc6c33144a8756139b14ccc37972ba5fac512
 2. Type **shell:AppsFolder** into the text field and hit Enter.  
 ![Open AppsFolder Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-run-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The AppsFolder opens up in its own window, where you can view and manage the applications installed on your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Open AppsFolder Using File Explorer
 
@@ -51,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/f8ecdc6c33144a8756139b14ccc37972ba5fac512
 2. In the address bar, type **shell:AppsFolder** and press **Enter**.
 
  The AppsFolder window appears on your screen. You can even drag and drop files and folders from other locations into the AppsFolder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. How to Open AppsFolder Using Task Manager
 
@@ -76,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/f8ecdc6c33144a8756139b14ccc37972ba5fac512
 3. In the Command Prompt window, type **Explorer Shell:AppsFolder**​ and press **Enter**.  
 ![Open AppsFolder Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. How to Open AppsFolder Using Windows PowerShell
 
  Windows PowerShell is also a command-line tool, and you can use it to open the AppsFolder. Follow these steps:
@@ -88,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/f8ecdc6c33144a8756139b14ccc37972ba5fac512
 2. Select **Windows PowerShell** from the results list.
 3. Once the Windows PowerShell window appears, type **Explorer Shell:AppsFolder** and press Enter.  
 ![Open AppsFolder Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-powershell.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That's it! The AppsFolder window opens with all your installed applications listed inside.
 
@@ -135,14 +115,20 @@ thumbnail: https://thmb.techidaily.com/f8ecdc6c33144a8756139b14ccc37972ba5fac512
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-smart-with-your-youtube-thumbnails-using-a-mac/"><u>[New] 2024 Approved Get Smart with Your YouTube Thumbnails, Using a Mac</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-boxed-insights-unpacking-effective-strategy/"><u>[Updated] 2024 Approved Boxed Insights Unpacking Effective Strategy</u></a></li>
-<li><a href="https://win11.techidaily.com/designing-keybindings-for-windows-applications/"><u>Designing Keybindings for Windows Applications</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-chuckle-clips-for-iphone/"><u>In 2024, Chuckle Clips for iPhone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-iphones-pathway-through-virtual-video-landscapes/"><u>In 2024, IPhone's Pathway Through Virtual Video Landscapes</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-error-resolution-0x80072f8f/"><u>Mastering Windows Error Resolution: 0X80072f8f</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-the-missing-dll-error-rockalldlldll/"><u>Resolving the Missing DLL Error: Rockalldll.dll</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-and-tricks-to-fix-windows-error-message-0x8007007e/"><u>Tips and Tricks to Fix Windows Error Message 0X8007007E</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-key-approaches-to-building-effective-youtube-collaborations/"><u>[New] 2024 Approved Key Approaches to Building Effective YouTube Collaborations</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-capturing-excellence-a-full-breakdown-of-sj-cam-s6/"><u>[New] Capturing Excellence A Full Breakdown of SJ-CAM S6</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-affordable-action-cams-for-beginners/"><u>[New] In 2024, Affordable Action Cams for Beginners</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-proper-techniques-for-exporting-photos-from-phone-to-snapchat/"><u>[Updated] In 2024, Proper Techniques for Exporting Photos From Phone to Snapchat</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effective-fixes-for-your-260ci-wi-fi-usb-port-communication-errors-a-step-by-easy-guide/"><u>Effective Fixes for Your 260Ci Wi-Fi USB Port Communication Errors - A Step-by-Easy Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/horizontal-line-troubleshooting-on-computer-screens-steps-to-restore-visuals/"><u>Horizontal Line Troubleshooting on Computer Screens: Steps to Restore Visuals</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-unraveling-the-sixest-methods-for-copying-file-and-folders-locations/"><u>Mastering Windows 11: Unraveling the Sixest Methods for Copying File & Folders' Locations</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-offline-setup-path-of-win11/"><u>Navigating the Offline Setup Path of Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-defender-written-by-michael-cramer/"><u>Navigating Windows Defender' Written by Michael Cramer</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-windows-security-add-safe-websites-now/"><u>Optimize Windows Security: Add Safe Websites Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/restoring-your-facebook-dark-theme-a-step-by-step-guide/"><u>Restoring Your Facebook Dark Theme: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-access-tackling-onedrive-logins-in-windows/"><u>Reviving Access: Tackling OneDrive Logins in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-your-image-snap-shot-size/"><u>Setting Up Your Image Snap Shot Size</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-value-in-vcplusplus-release-packages/"><u>Unlocking the Value in VC++ Release Packages</u></a></li>
 </ul></div>
 

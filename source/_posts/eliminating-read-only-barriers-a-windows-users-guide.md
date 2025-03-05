@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Read-Only Barriers: A Windows User's Guide"
-date: 2025-02-09T18:27:16.037Z
-updated: 2025-02-15T17:27:06.071Z
+date: 2025-03-02T18:16:16.830Z
+updated: 2025-03-05T04:45:25.807Z
 tags:
   - windows10
   - windows11
@@ -78,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
  If you have multiple personal accounts on your computer, you can change permissions for each account using the administrator account similarly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Disable Ransomware Protection in the Windows Security Settings
 
  To combat ransomware threats and safeguard users' data, Microsoft has introduced a ransomware protection feature. By using this feature, users can prevent third-party apps from changing their files and folders without their permission.
@@ -94,17 +90,9 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 ![Opening Manage Ransomware Protection Option under Virus and Threat Protection in Windows Security App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-5-Opening-Manage-Ransomware-Protection-Option-under-Virus-and-Threat-Protection-in-Windows-Security-App-on-Windows.jpg)
 4. Turn off the toggle under **Controlled folder access**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Disabling Ransomware Protection by Turning Off the Toggle under Controlled Folder Access in Windows Security App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-6-Disabling-Ransomware-Protection-by-Turning-Off-the-Toggle-under-Controlled-Folder-Access-in-Windows-Security-App-on-Windows.jpg)
 
  If disabling this feature doesn't resolve the problem, you may need to reset the entire Windows Defender Firewall settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Reset the Windows Defender Firewall Settings
 
@@ -117,20 +105,8 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 ![Opening Restore Defaults Option in Windows Defender Firewall Tab in System and Security Settings in Control Panel App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-7-Opening-Restore-Defaults-Option-in-Windows-Defender-Firewall-Tab-in-System-and-Security-Settings-in-Control-Panel-App-on-Windows.jpg)
 5. Click **Restore defaults** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. When the confirmation pop-up appears, select **Yes**.  
 ![Clicking on the Yes Button after Clicking on the Restore Defaults Button on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-8-Clicking-on-the-Yes-Button-after-Clicking-on-the-Restore-Defaults-Button-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Disable Antivirus and Other Security Software
 
@@ -139,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
  To rule out this potential cause, temporarily [turn off the Microsoft Defender Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) and see if your folders stop reverting to read-only mode after that. If they do, whitelist those folders from Microsoft Defender and turn on the security suite again. If you use any third-party security software, disable that as well since it can also restrict your access.
 
  Whether disabling the built-in or third-party security suites fixes the issue or not, you should enable them again to keep your device protected from viruses.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Forcefully Remove the Read-Only Attribute
 
@@ -168,10 +140,6 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
  While it may initially seem strange, relocating the folders whose permissions get restricted to another drive also resolved the issue for some users. Therefore, move your folders from one drive to another, remove the read-only attribute, and see if they revert to read-only again. If relocating the folder to a different drive does not resolve the issue, go to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 11\. Go to Previous Restore Point
 
  A System Restore allows Windows users to restore their system to its current state if they accidentally mess something up in the future. It's a quick way to undo changes that mess up your system.
@@ -196,21 +164,24 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-discover-9-easy-no-cost-editing-software-options/"><u>[Updated] 2024 Approved Discover 9 Easy, No-Cost Editing Software Options</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-become-a-facetime-pro-skype-call-basics-for-mobile-users/"><u>[Updated] In 2024, Become a Facetime Pro Skype Call Basics for Mobile Users</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-seamless-system-updates-implementing-macos-sierra/"><u>[Updated] Seamless System Updates Implementing macOS Sierra</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/channel-progression-reach-and-maintain-10k-viewer-threshold/"><u>Channel Progression Reach and Maintain 10K Viewer Threshold</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-pc-writes-on-kernel32/"><u>Fix Your PC' Writes on Kernel32</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-securely-store-and-recover-notes/"><u>How to Securely Store and Recover Notes</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor Magic 5? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-directories-not-empty-error-code-0x80070091-in-win11-os/"><u>Overcoming Directories Not Empty Error (Code: 0X80070091) in Win11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-defense-blockade-by-domain-managers-decision/"><u>Overcoming Windows Defense Blockade by Domain Manager's Decision</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/reappearing-act-steps-to-fix-a-hidden-wi-fi-connection-problem/"><u>Reappearing Act: Steps to Fix a Hidden Wi-Fi Connection Problem</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-non-functional-radeon-tools-on-windows-os/"><u>Reviving Non-Functional Radeon Tools on Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-windows-input-with-custom-shortcuts/"><u>Streamline Windows Input with Custom Shortcuts</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/transform-your-video-content-using-story-remix-on-windows-photos/"><u>Transform Your Video Content Using Story Remix on Windows Photos</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-windows-11s-uptime-error-0x80246007/"><u>Troubleshooting Windows 11'S Uptime Error 0X80246007</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-ultimate-power-with-exceptional-battery-discover-our-top-pick-for-premium-13-inch-notebooks/"><u>Unleash Ultimate Power with Exceptional Battery: Discover Our Top Pick for Premium 13-Inch Notebooks</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11-icons-gone-missing-quick-fix-guide/"><u>Win 11 Icons Gone Missing - Quick Fix Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-ensuring-perfect-fb-live-recordings-a-guide-to-4-ways/"><u>[New] In 2024, Ensuring Perfect FB Live Recordings A Guide to 4 Ways</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximizing-action-footage-with-gopro-a-comparison-between-max-360-and-hero-11/"><u>[New] Maximizing Action Footage with GoPro A Comparison Between Max 360 and Hero 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-professional-video-production-pick-your-favorite-sounds/"><u>[Updated] 2024 Approved Professional Video Production - Pick Your Favorite Sounds</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-audio-ambassadors-where-to-find-legal-skype-ringtone-files/"><u>[Updated] Audio Ambassadors Where to Find Legal Skype Ringtone Files</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-select-20-unencumbered-pubg-visual-stories/"><u>[Updated] In 2024, Select 20 Unencumbered PUBG Visual Stories</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-snapshot-spectaculars-an-experts-review-of-recorders/"><u>[Updated] In 2024, Snapshot Spectaculars An Expert's Review of Recorders</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-leading-top-5-agile-action-camera-selections-for-2024/"><u>[Updated] Leading Top 5 Agile Action Camera Selections for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-mastering-facebook-cover-videos-essential-insights-for-2024/"><u>[Updated] Mastering Facebook Cover Videos Essential Insights for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-failed-capture-on-your-pc-writes/"><u>Eliminating Failed Capture on Your PC' Writes</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-windows-conflicting-camera-use-0xa00f4243/"><u>Eradicating Windows' Conflicting Camera Use (0xA00F4243)</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-on-applying-diskusage-commands-for-storage-assessment/"><u>Essential Tips on Applying DiskUsage Commands for Storage Assessment</u></a></li>
+<li><a href="https://win11.techidaily.com/expensive-shortcuts-why-skimping-on-windows-auth-keys-is-not-ideal/"><u>Expensive Shortcuts: Why Skimping on Windows Auth Keys Is Not Ideal</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-ram-identification-on-your-computer-system/"><u>Mastering RAM Identification on Your Computer System</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-depleted-windows-time-servers-essential-strategies/"><u>Reviving Depleted Windows Time Servers: Essential Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-wmp-server-execution-failed/"><u>Strategies for WMP 'Server Execution Failed'</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-workflow-with-uwp-app-shortcuts-in-windows-11/"><u>Streamlining Workflow with UWP App Shortcuts in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-dealing-with-the-non-existent-d3dx9email-protected-error/"><u>Troubleshooting Steps: Dealing with the Non-Existent D3dx9_([email Protected]) Error</u></a></li>
+<li><a href="https://win11.techidaily.com/uncover-missing-bluetooth-on-device-hub-win/"><u>Uncover Missing Bluetooth on Device Hub WIN</u></a></li>
+<li><a href="https://games-able.techidaily.com/uninterrupted-gameplay-with-xbox-s-controller/"><u>Uninterrupted Gameplay with Xbox S Controller</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Break Free From Stagnant Windows Update Status
-date: 2024-08-08T13:15:07.328Z
-updated: 2024-08-09T13:15:07.328Z
+date: 2025-03-04T04:05:16.277Z
+updated: 2025-03-05T02:41:23.278Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
 
  Below, we have listed the most effective troubleshooting methods you can try to fix this issue for good.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Wait for the Process to Complete
 
  It may take longer for some Windows updates to install, so before you begin troubleshooting, ensure that the update is stuck and not in between operations.
@@ -63,15 +60,9 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
 ![Stop button in Properties dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/win10-windows-update-properties-stop.jpg)
 6. Wait for a few seconds before hitting the **Start** button again.
 7. Expand the dropdown for Startup type and choose **Automatic** from the list.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Startup type of service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/windows-update-automatic-startup-type.jpg)
 8. Click **Apply** \> **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Scan for Viruses
 
  Your operating system might also be infected with a virus or corruption error that is preventing you from installing the latest updates.
@@ -80,16 +71,10 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
 
  However, if you are unable to use the basic Windows features and applications installed, then you must first [boot into Repair Mode](https://www.makeuseof.com/fix-windows-11-stuck-preparing-windows/). Once you are in the Repair Mode, head over to **Troubleshoot** \> **Advanced options**. Then, choose **Command Prompt** from the list of options and run the scans.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win10-command-prompt.jpg)
 
  If these utilities find any issues, they will attempt to resolve them without requiring your input. After the scans, check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Run the Windows Update Troubleshooter
 
  Another troubleshooting method that has helped users fix the issue is running the Windows Update troubleshooter. This is a built-in utility that is specifically designed by Microsoft to fix issues regarding Windows updates.
@@ -114,20 +99,11 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
 
 1. Boot Windows and during the process, press the F11 key repeatedly till Windows displays the Advanced Startup screen.
 2. Head over to navigate to **Troubleshoot** \> **Advanced options** \> **Startup settings**.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Startup settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win10-startup-settings.jpg)
 3. Click on the **Restart** button in the following window.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Restart button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win10-startup-settings-restart.jpg)
 4. Hit the F5 key on the keyboard to proceed. This will launch the Safe Mode successfully.
 5. In Safe Mode, restart your PC the normal way (**Start menu** \> **Sign out** \> **Restart**).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![Restart Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-safe-mode-restart.jpg)
 
  Upon reboot, the issue should no longer appear. You can now check if the updates are successfully installed. If not, you can try any one of [the different methods to update Windows manually](https://www.makeuseof.com/update-windows-manually/).
@@ -140,12 +116,24 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
 
  Below, we have listed the most effective troubleshooting methods you can try to fix this issue for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-get-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios/"><u>[New] Get Rid of YouTube Distractions Ad-Blocking on Chrome, Firefox & iOS</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-ultimate-tiktok-live-jump-a-how-to-guide/"><u>[New] The Ultimate TikTok Live Jump A How-To Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamlining-youtube-edits-with-advanced-sony-vegas-techniques/"><u>2024 Approved Streamlining YouTube Edits with Advanced Sony Vegas Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-undetectable-image-zipped-files-on-windows-pcs/"><u>Crafting Undetectable Image-Zipped Files on Windows PCs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/efficient-video-konvertering-online-vervangt-videomaterial-inmpactmateriaal-en-meer-formaten/"><u>Efficiënt Video Konvertering Online - Vervangt Videomaterial Inmpactmateriaal En Meer Formaten</u></a></li>
+<li><a href="https://win11.techidaily.com/effortlessly-unlock-credentials-on-your-win11-with-these-top-11-methods/"><u>Effortlessly Unlock Credentials on Your Win11 with These Top 11 Methods</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-windows-tweaks-with-hotkeys-in-minutes/"><u>Master the Art of Windows Tweaks with Hotkeys in Minutes</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-vn-video-editor-pro-review-does-it-live-up-to-the-hype-for-2024/"><u>New VN Video Editor Pro Review Does It Live Up to the Hype for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-nvidia-geforce-error-solutions-for-failed-scanning/"><u>Windows Nvidia GeForce Error: Solutions for Failed Scanning</u></a></li>
+</ul></div>
 

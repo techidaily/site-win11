@@ -1,7 +1,7 @@
 ---
 title: Quick & Easy Windows Setup on Steam Deck
-date: 2025-02-08T17:53:27.140Z
-updated: 2025-02-16T04:40:22.235Z
+date: 2025-02-26T00:31:05.198Z
+updated: 2025-03-05T00:20:11.926Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 * [What You Need to Install Windows on Your Steam Deck](#what-you-need-to-install-windows-on-your-steam-deck)
 * [How to Install Windows on Your Steam Deck](#how-to-install-windows-on-your-steam-deck)
 * [Potential Issues and Solutions While Installing Windows on Your Steam Deck](#potential-issues-and-solutions-while-installing-windows-on-your-steam-deck)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -82,10 +78,6 @@ Jhet Borja/MUO
 
 ![Downloading Windows 11 ISO from Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-11-iso-from-microsoft.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Head to the **Download Windows 11 Disk Image (ISO)** option and on the dropdown menu, select **Windows 11 (multi-edition ISO)**. Click on **Download**, then select your language. It should then give you another download button to download the Windows ISO that is about 6GB to 7GB in size.
 
 ### Windows Drivers for Steam Deck
@@ -96,10 +88,6 @@ Jhet Borja/MUO
 
  You can find and download the Windows drivers for your Steam Deck on the [Steam Deck Windows Resources support page](https://help.steampowered.com/en/faqs/view/6121-ECCD-D643-BAA8). Extract all of them into a single folder so that you can paste it onto your SD card or flash drive later.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Install Windows on Your Steam Deck
 
  If you’ve got your flash drive or SD card ready with all the software downloaded, you can now start turning your Steam Deck into a Windows experience. In our case, we’ll be using an SD card so that we don’t need to deal with a USB hub or a dock.
@@ -109,10 +97,6 @@ Jhet Borja/MUO
  To be able to run both the GParted and the Windows 11 ISOs from one SD card without needing to format it multiple times, you’ll need to use Ventoy. This will make things way more convenient.
 
 ![Run Ventoy2Disk from extracted folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/run-ventoy2disk-from-extracted-folder.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To install Ventoy on your flash drive or SD card, you’ll want to plug it into your PC and open the Ventoy folder you extracted earlier. Then click on **Ventoy2Disk.exe**.
 
@@ -135,10 +119,6 @@ Jhet Borja/MUO
  To do this, shut down your Steam Deck first. Once it’s off, hold down the volume down button and power button until you hear a chime. Once you hear the chime, let go of the power button, but keep holding down the volume down button until the boot manager shows, like in the image below.
 
 ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jhet Borja/MUO
 
@@ -234,27 +214,15 @@ Jhet Borja/MUO
 
  We’ve compiled a few issues that we came across during our installation and found solutions to them so that you don’t have to scour the internet to find fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### ISOs Show a Black Screen or Don't Boot Up
 
  If the ISOs aren’t working properly, just press the power button once to exit and shut down. This is most likely due to other USB devices plugged into your Steam Deck like a keyboard and mouse. This is why we used an SD card in our installation. Remove all USB devices except your flash drive or use a USB-C flash drive if possible.
 
  If this doesn’t work, you may also try to delete the other ISO from the SD card or flash drive. You may also try reinstalling Ventoy as a last resort, but this will format the drive so make sure you have everything in a folder that you can easily paste onto the drive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The Windows 0x80300001 Error
 
 ![Selecting partition created in GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-partition-created-in-gparted.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jhet Borja/MUO
 
@@ -270,10 +238,6 @@ Jhet Borja/MUO
 
 ![Windows cannot install required files error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-cannot-install-required-files-error.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jhet Borja/MUO
 
  If you’re near the end of your Windows installation and it suddenly says it cannot install drivers, other USB devices may be interfering with the installation.
@@ -283,10 +247,6 @@ Jhet Borja/MUO
 ### You Can’t Find SteamOS in the Boot Manager
 
 ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jhet Borja/MUO
 
@@ -338,22 +298,24 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-audience-take-movaviscreenvisions-new-release/"><u>[New] Audience Take MovaviScreenVision's New Release</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ite-sized-script-producer-for-2024/"><u>[New] Bite-Sized Script Producer for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-discovering-old-content-on-facebook-via-your-smartphonecomputer/"><u>[New] Discovering Old Content on Facebook via Your Smartphone/Computer</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pro-filmmaking-lenses-the-ten-most-critical-choices/"><u>[New] Pro Filmmaking Lenses The Ten Most Critical Choices</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-budget-friendly-4k-imaging-sources/"><u>[Updated] 2024 Approved Budget-Friendly 4K Imaging Sources</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-tutoring-triumph-selecting-the-superior-video-recorder-list/"><u>[Updated] 2024 Approved Tutoring Triumph Selecting the Superior Video Recorder List</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonizing-youtube-production-with-a-9-to-5-routine/"><u>[Updated] In 2024, Harmonizing YouTube Production with a 9-to-5 Routine</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-window-lock-down-timer/"><u>Customizing Window Lock-Down Timer</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-windows-error-code-0x80071a90/"><u>Demystifying Windows Error Code: 0X80071A90</u></a></li>
-<li><a href="https://win11.techidaily.com/executing-efficient-gpo-analyses-with-gpresult/"><u>Executing Efficient GPO Analyses with GPResult</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-video-memory-shortfall-for-virtual-witchcraft-university-experience/"><u>Fixing Video Memory Shortfall for Virtual Witchcraft University Experience</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-sony-xperia-1-v-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Sony Xperia 1 V to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/limit-cpu-overuse-optimizing-media-consumption-on-windows-pcs/"><u>Limit CPU Overuse: Optimizing Media Consumption on Windows PCs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-ethernet-connection-problems-on-windows-10-quickly-and-effectively/"><u>Resolve Ethernet Connection Problems on Windows 10 Quickly and Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/the-8-windows-11-missteps-to-forget-immediately/"><u>The 8 Windows 11 Missteps to Forget Immediately</u></a></li>
-<li><a href="https://win11.techidaily.com/turning-screen-position-around-easily/"><u>Turning Screen Position Around Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/unblocking-error-in-updates-code-0x8019/"><u>Unblocking Error in Updates: Code 0X8019</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-structure-your-storytelling-with-chapter-tags-in-vimeo-videos/"><u>[New] 2024 Approved Structure Your Storytelling with Chapter Tags in Vimeo Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-from-cluttered-canvases-to-crystal-clear-captures-using-photopea/"><u>[New] From Cluttered Canvases to Crystal Clear Captures Using Photopea</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-top-15-asmr-channels-to-follow/"><u>[New] In 2024, Top 15 ASMR Channels to Follow</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-integrating-azures-speech-recognition-into-development-for-2024/"><u>[New] Integrating Azure’s Speech Recognition Into Development for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-flipbook-of-facebook-feeds/"><u>[Updated] Flipbook of Facebook Feeds</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-start-your-editing-right-with-free-intros/"><u>[Updated] In 2024, Start Your Editing Right With Free Intros</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-iphone-tips-mastering-video-replay/"><u>2024 Approved IPhone Tips Mastering Video Replay</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-series-premium-webcam-grips/"><u>2024 Approved Optimal Series Premium Webcam Grips</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-0x800704b3-error-a-comprehensive-guide/"><u>Decoding Windows' 0X800704B3 Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-windows-data-hunting-via-everythingapp/"><u>Efficient Windows Data Hunting via EverythingApp</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-to-in-hand-typing-windows-features/"><u>Essential Guide to In-Hand Typing: Windows Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-logitech-g430-mic-handy-solutions-for-sound-problems/"><u>Fix Your Logitech G430 Mic: Handy Solutions For Sound Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/from-failure-to-functionality-how-to-fix-windows-with-13-steps/"><u>From Failure to Functionality: How to Fix Windows with 13 Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intels-lunar-lake-project-outsourced-assembly-and-upgrades-via-panther-lake-incorporating-clearwater-forest-power-systems/"><u>Intel's Lunar Lake Project: Outsourced Assembly and Upgrades via Panther Lake, Incorporating Clearwater Forest Power Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-to-turn-off-windows-mobility-center/"><u>Navigate to Turn Off Windows Mobility Center</u></a></li>
+<li><a href="https://win11.techidaily.com/overcome-drag-drops-in-windows-11-issues/"><u>Overcome Drag Drops in Windows 11 Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-sluggish-or-unresponsive-downloads-on-pc/"><u>Quick Fixes for Sluggish or Unresponsive Downloads on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/top-methods-when-windows-security-is-off-limits/"><u>Top Methods When Windows Security Is Off-Limits</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-group-policy-editor-a-win11-adventure/"><u>Unlocking Group Policy Editor: A Win11 Adventure</u></a></li>
 </ul></div>
 

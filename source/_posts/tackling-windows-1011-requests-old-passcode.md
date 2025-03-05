@@ -1,7 +1,7 @@
 ---
 title: Tackling Windows 10/11 Requests Old Passcode
-date: 2025-02-09T22:54:09.857Z
-updated: 2025-02-15T16:20:43.170Z
+date: 2025-02-28T18:40:39.417Z
+updated: 2025-03-04T16:48:13.134Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 
 ![The “We’ll Need Your Current Windows Password One Last Time” Error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-we-ll-need-your-current-windows-password-one-last-time-error.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Microsoft requests this password to verify your access to the local administrator account. A default local administrator account is created when you set up Windows 10 or 11 devices (after purchase); however, this account isn’t generated with a password.
 
  Meanwhile, if you’re setting up after a system reset, your device will revert to the initial local admin account; it won’t create a new one. In this case, there might be an existing password or not.
@@ -49,23 +45,11 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 
  Try your Microsoft account password, any pin you’ve used with the device, and your commonly used passwords.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Press Enter While the Password Field Is Blank
 
 ![Enter Key on Laptop Keyboard in Red](https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Some people who have encountered this error claim that you can resolve it by pressing the Enter key with the password field empty. This should work if you've never set up a password for the local admin account, and it works for some people.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Reset Your Windows Password
 
@@ -77,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 2. On the Settings page, select the **Accounts** option. You should [check that your Windows account has admin rights](https://www.makeuseof.com/check-windows-account-admin-rights/) before continuing.  
 ![Accounts Page in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/accounts-page-in-windows-11.jpg)
 3. Then, select **Sign-In Options** \> **Passwords**. You’ll find **Add** if you’re creating a password for the first time. Otherwise, you’ll find **Change**, meaning you’ll need to [reset your local admin account password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Password Option under Sign-In Options in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-option-under-sign-in-options-in-windows-11.jpg)
 4. If you click **Add**, you’ll be directed to a page where you can set up a password.  
@@ -105,22 +85,18 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-solved-obs-full-screen-not-working/"><u>[Updated] [Solved] OBS Full Screen Not Working</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-navigating-youtubes-community-standards-as-a-viewer-or-creator/"><u>[Updated] Navigating YouTube's Community Standards as a Viewer or Creator</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tech-jest-crafter/"><u>[Updated] Tech Jest Crafter</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-iphone-models-is-the-leap-from-iphone-14-pro-to-iphone-15-pro-worth-it-expert-analysis-by-zdnet/"><u>Comparing IPhone Models: Is The Leap From IPhone 14 Pro To IPhone 15 Pro Worth It? | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/efficient-techniques-for-converting-mts-videos-into-avi-format/"><u>Efficient Techniques for Converting MTS Videos Into AVI Format</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-microsofts-wireless-display-adapter-connectivity-woes-on-windows-10-systems/"><u>Fixing Microsoft's Wireless Display Adapter Connectivity Woes on Windows 10 Systems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/foundations-of-mixing-adobe-auditions-fade-in-technique-for-2024/"><u>Foundations of Mixing Adobe Audition’s Fade In Technique for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/from-standalone-to-integrated-onedrive-plus-windows-id/"><u>From Standalone to Integrated: OneDrive + Windows ID</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/luscious-language-lessons-via-movies/"><u>Luscious Language Lessons via Movies</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-folders-a-merged-path-guide/"><u>Navigating Folders: A Merged Path Guide</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/problemes-avec-le-hdd-toshiba-qui-ne-fonctionne-plus-sur-un-systeme-windows-astuces-pour-recuperer-les-donnees-et-restaurer-lacces/"><u>Problèmes Avec Le HDD Toshiba Qui Ne Fonctionne Plus Sur Un Système Windows : Astuces Pour Récupérer Les Données Et Restaurer L'accès</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-errors-reviving-the-non-working-discord-game-status/"><u>Solving Errors: Reviving the Non-Working Discord Game Status</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-reconnect-your-pcs-razer-gear-via-synapse/"><u>Strategies to Reconnect Your PC's Razer Gear via Synapse</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-screen-time-in-windows-os/"><u>Tailoring Screen Time in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-the-turbulence-strategies-to-combat-blurry-win11-monitors/"><u>Taming the Turbulence: Strategies to Combat Blurry Win11 Monitors</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-disk-navigation-deciphering-c-and-d/"><u>Windows Disk Navigation: Deciphering 'C:' And 'D:'</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-strategies-for-three-column-widget-configuration-on-win11/"><u>Winning Strategies for Three-Column Widget Configuration on Win11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-insiders-guide-to-mastering-windows-10-for-2024/"><u>[New] The Insider's Guide to Mastering WINDOWS 10 for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-exquisite-stop-motion-cinema-top-15-picks/"><u>[Updated] In 2024, Exquisite Stop-Motion Cinema - Top 15 Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-camera-studio-insights-extended-xvideoguide-for-2024/"><u>Behind-the-Camera Studio Insights Extended XVideoGuide for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/everything-you-want-to-know-about-1440p-and-its-impact-on-your-viewing-experience/"><u>Everything You Want To Know About 1440P and Its Impact on Your Viewing Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-darkened-displays-in-lenovo-devices/"><u>Fix Darkened Displays in Lenovo Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-12-pro-max-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone 12 Pro Max iCloud Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-windows-media-player-for-quick-access/"><u>Launching Windows Media Player for Quick Access</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/prime-video-recorders-head-on-screen-viewing/"><u>Prime Video Recorders Head-On Screen Viewing</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-11-drivers-not-loading-issue/"><u>Resolving Windows 11: Drivers Not Loading Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-vpn-connectivity-after-disconnection-issues/"><u>Securing VPN Connectivity After Disconnection Issues</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/simple-steps-for-transferring-bluprint-course-downloads-onto-both-windows-and-macos-systems/"><u>Simple Steps for Transferring Bluprint Course Downloads Onto Both Windows & macOS Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-fixes-for-xbox-ones-connection-woes-with-xbox-live/"><u>The Definitive Fixes for Xbox One's Connection Woes with Xbox Live</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-computers-clock-view-with-these-top-5-dynamic-screen-saver-apps/"><u>Transform Your Computer's Clock View with These Top 5 Dynamic Screen Saver Apps</u></a></li>
 </ul></div>
 

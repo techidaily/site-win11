@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Altering Your Digital Signature: UserName Change"
-date: 2025-02-09T00:02:46.069Z
-updated: 2025-02-16T02:30:32.374Z
+date: 2025-03-01T22:50:40.854Z
+updated: 2025-03-05T04:53:03.404Z
 tags:
   - windows10
   - windows11
@@ -23,19 +23,11 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Before We Get Started…
 
  Keep in mind that the first four methods discussed below can only be used to change the username of a local user account. If you use them to change the username of a Microsoft account, the change will be reversed the next time you restart your device.
 
  So, if you want to change your Microsoft account username, we recommend directly using the last method—changing your username from Microsoft's website. However, if you want to change the username of a local user account, you can use one of the first four methods mentioned below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. How to Change Your Username Using the Control Panel
 
@@ -49,10 +41,6 @@ To change your username using the Control Panel, follow these steps:
 ![Go to User Accounts in Windows Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-go-to-user-accounts-in-windows-control-panel.jpg)
 4. Click on**Change your account name** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Click on Change Your Account Name in User Account Settings in Windows Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-click-on-change-your-account-name-in-user-account-settings-in-windows-control-panel.jpg)
 5. Click**Yes** in the**User Account Control (UAC)** window.
 
@@ -60,10 +48,6 @@ To change your username using the Control Panel, follow these steps:
 7. After that, click on**Change Name** .  
 ![Click on Change Name After Entering the New Username](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-click-on-change-username-after-entering-the-new-username.jpg)
 8. For this change to take effect, you need to sign out of your account and sign back in.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Change Your Username Using the Run Command
 
@@ -87,10 +71,6 @@ To change your username using the Run command, follow these steps:
 ![Click OK After Adding the New Name in the User Accounts Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-click-ok-after-adding-the-new-name-in-the-user-accounts-window.jpg)
 8. Then, log out of your account, and you'll be greeted with your new username on the sign-in screen when you sign in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. How to Change Your Username From Local User and Group Management Tool
 
  If the "netplwiz" command does not work or gives an error when accessing the user account manager, you can use the local user and group management tool to change the username. This is the easiest way to modify your Windows username, as it allows you to simply rename your username directly—like you rename any folder.
@@ -107,10 +87,6 @@ To change your username using the Run command, follow these steps:
 6. Right-click the username and click**Rename** .  
 ![Click Rename by Right-clicking on the Account Name in the Local User and Group Management Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/8-click-rename-by-right-clicking-on-the-account-name-in-the-local-user-and-group-management-tool.jpg)
 7. Enter the new username you want to use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Afterward, close the local user and group management tool, sign out of your account once, and you'll see your new username on the sign-in screen.
 
@@ -168,17 +144,20 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-elevating-creative-content-vimeo-vs-youtubes-approach-for-2024/"><u>[New] Elevating Creative Content Vimeo vs YouTube's Approach for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nleashing-youtube-profits-non-ad-revenue-techniques-for-growth/"><u>[New] Unleashing YouTube Profits Non-Ad Revenue Techniques for Growth</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-navigating-to-sonic-treasures-downloading-app-based-audio-content/"><u>[Updated] Navigating to Sonic Treasures Downloading App-Based Audio Content</u></a></li>
-<li><a href="https://discover-best.techidaily.com/boost-your-pcs-speed-expert-tips-from-yl-computing-and-yl-software/"><u>Boost Your PC's Speed: Expert Tips From YL Computing and YL Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-methods-to-recover-or-repair-d3dx-library-files-on-your-pc/"><u>Effective Methods to Recover or Repair D3DX Library Files on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-windows-irq-noise-in-audios/"><u>Eliminating Windows IRQ Noise in Audios</u></a></li>
-<li><a href="https://win11.techidaily.com/error-2e-disruption-fixes-for-windows-update/"><u>Error 2E Disruption? Fixes for Windows Update</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-asus-rog-phone-7-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Asus ROG Phone 7 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-60-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Realme Narzo 60 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://win11.techidaily.com/maintaining-your-data-regularly-back-up-windows-files/"><u>Maintaining Your Data: Regularly Back Up Windows Files</u></a></li>
-<li><a href="https://win11.techidaily.com/unblock-limited-access-to-wi-fi-in-windows-11-top-7-fixes/"><u>Unblock Limited Access to Wi-Fi in Windows 11: Top 7 Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-wont-msi-afterburner-identify-my-gpu-fixes-for-windows-10-and-11-users/"><u>Why Won't MSI Afterburner Identify My GPU? Fixes for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-exploring-the-pro-features-of-dji-phantom-3-technology/"><u>[Updated] Exploring the Pro Features of DJI Phantom 3 Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-gpt-4-all-operate-an-in-depth-analysis/"><u>How Does GPT-4 All Operate? An In-Depth Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-activate-windows-bound-handbrake/"><u>How to Activate Windows-Bound HandBrake</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-oppo-a18-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-bargain-aerial-instruments-top-500-drones-under-price/"><u>In 2024, Bargain Aerial Instruments Top $500 Drones Under Price</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-realme-c55-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Realme C55 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-cinematographers-playbook-top-5-creative-strategies/"><u>In 2024, The Cinematographer's Playbook Top 5 Creative Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-gpt-3-capable-of-answering-mathematical-queries/"><u>Is GPT-3 Capable of Answering Mathematical Queries?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/legal-battle-hp-enterprise-accuses-inspur-of-intellectual-property-theft-as-it-persists-in-american-market-operations/"><u>Legal Battle: HP Enterprise Accuses Inspur of Intellectual Property Theft as It Persists in American Market Operations</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-guide-utilizing-the-redesigned-widget-chooser-ui/"><u>Mastery Guide: Utilizing the Redesigned Widget Chooser UI</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-1011s-error-0x80246007-complication/"><u>Overcoming Windows 10/11'S Error 0X80246007 Complication</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-common-microsoft-excel-windows-column-failures/"><u>Rectifying Common Microsoft Excel (Windows) Column Failures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-gaming-immersion-solving-cyberpunk-nks-silent-world-in-windows-10/"><u>Restore Gaming Immersion: Solving Cyberpunk Nk's Silent World in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/uncover-9-routes-to-windows-11s-sound-settings-interface/"><u>Uncover 9 Routes to Windows 11'S Sound Settings Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-icons-lost-heres-how-to-fix-it/"><u>Windows 11 Icons Lost? Here's How to Fix It</u></a></li>
 </ul></div>
 

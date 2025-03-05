@@ -1,7 +1,7 @@
 ---
 title: Navigating Modern Design with Microsoft Paint's Fresh Features
-date: 2024-12-22T01:10:29.175Z
-updated: 2024-12-27T18:28:16.197Z
+date: 2025-03-04T04:27:04.915Z
+updated: 2025-03-05T01:16:35.707Z
 tags:
   - windows10
   - windows11
@@ -29,17 +29,9 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 
 ![ms paint windows 11 new ui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-windows-11-new-ui.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The new update brings subtle but important changes to the aging art app. Those familiar with the MS Paint app will notice that the UI for the Edit Color, Resize, and Skew pop-ups now match the style of Windows 11\.
 
  Additionally, the new update brings improved support for screen readers to aid with accessibility. It also fixes the issue where text boxes move unexpectedly if you use IME, and it corrects incorrectly localized dialog boxes in Hebrew, Dutch, Norwegian, and other languages. Finally, Shift-clicking on a color swatch will now select it as your secondary color.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Paint's Dark Mode Is Available for Everyone
 
@@ -51,25 +43,13 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 
  Dark Mode is available on Paint version 11.2304.17.0 and above.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. A Centered Canvas for Paint
 
 ![ms paint centered canvas windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-centered-canvas-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Microsoft Paint canvas has traditionally been located on the top left of the app, which will change with the new update. Version 11.2306.23.0, only available on the Canary and Developers builds at the time of writing, has added support for a centered canvas.
 
  A centered canvas provides visual balance and helps bring the content into focus. Similar to the dark mode, this feature will likely make its way to the stable release eventually.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Enhanced Zoom Controls and Accessibility
 
@@ -97,14 +77,17 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-youtubes-subtitle-system-download-with-ease-using-3-methods/"><u>[New] Navigating YouTube's Subtitle System Download with Ease Using 3 Methods</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/actical-video-migration-youtube-to-dailymotion-masterclass/"><u>[New] Tactical Video Migration YouTube to Dailymotion Masterclass</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dissolving-details-techniques-to-anonymize-youtube-media/"><u>[Updated] 2024 Approved Dissolving Details Techniques to Anonymize YouTube Media</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-windows-0x0000011b-operation-errors/"><u>Correcting Windows' 0X0000011B Operation Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/enriched-notepad-on-win11-with-tech-sage/"><u>Enriched Notepad on Win11 with Tech Sage</u></a></li>
-<li><a href="https://win11.techidaily.com/relaunch-ms-store-programs-efficiently-in-windows-1011/"><u>Relaunch MS Store Programs Efficiently in Windows 10/11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-speedy-way-to-rejuvenate-your-pc-expert-tricks-for-cleanly-installing-windows-11/"><u>The Speedy Way to Rejuvenate Your PC: Expert Tricks for Cleanly Installing Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-fix-for-windows-11-login-blunders/"><u>The Ultimate Fix for Windows 11 Login Blunders</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-printer-models-a-comprehensive-guide-by-zdnet/"><u>Top-Ranked Printer Models : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-spectacular-4k-tvs-nine-picks-for-exceptional-color-fidelity/"><u>[New] In 2024, Spectacular 4K TVs Nine Picks for Exceptional Color Fidelity</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-must-try-titles-for-tranquil-touchscreen-time/"><u>[New] Must-Try Titles for Tranquil Touchscreen Time</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-co-marketing-mastery-on-youtube-for-brand-growth/"><u>2024 Approved Co-Marketing Mastery on YouTube for Brand Growth</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-top-choices-premium-wrist-pads-for-enhanced-typing-ergonomics/"><u>2024’S Top Choices: Premium Wrist Pads for Enhanced Typing Ergonomics</u></a></li>
+<li><a href="https://win11.techidaily.com/3-ways-to-create-multiple-folders-at-once-in-windows-10-and-11/"><u>3 Ways to Create Multiple Folders at Once in Windows 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/exclusive-insight-discerning-storage-type-on-windows/"><u>Exclusive Insight: Discerning Storage Type on Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/making-your-desktop-more-dynamic-activate-windows-11-widget-bar/"><u>Making Your Desktop More Dynamic: Activate Window's 11 Widget Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-windows-activation-error-0x803f700f-hurdle/"><u>Overcoming the Windows Activation Error 0X803F700f Hurdle</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-your-ears-with-these-expert-steps-for-cleaning-airpods-essential-advice-from-tech-experts/"><u>Protect Your Ears with These Expert Steps for Cleaning AirPods - Essential Advice From Tech Experts.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-technique-to-upgrade-graphics-card-software-on-windows-11-computers/"><u>The Ultimate Technique to Upgrade Graphics Card Software on Windows 11 Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/unhindered-microsoft-store-operation-on-windows-11/"><u>Unhindered Microsoft Store Operation on Windows 11</u></a></li>
 </ul></div>
 

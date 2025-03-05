@@ -1,7 +1,7 @@
 ---
 title: Breaking Down the W11 0X8004DEF5 Onedrive Fixes
-date: 2024-08-08T13:14:12.679Z
-updated: 2024-08-09T13:14:12.679Z
+date: 2025-02-25T19:05:07.464Z
+updated: 2025-03-04T20:18:24.528Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 
  If you face the same error and cannot log in and access your OneDrive account, don't worry. We will list out multiple methods to restore OneDrive to its working state. Let's begin.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## 1\. Terminate OneDrive and Restart the App
 
  Before trying out any complex fixes, you must terminate all the active instances of OneDrive. After that, restart it to check if it connects with the server. Here's how:
@@ -42,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 
  You can visit the [Microsoft Service Health page](https://portal.office.com/servicestatus) to check which services are down. Alternatively, you can use third-party websites like [DownDetector](https://downdetector.com/) . That way, you can know if other users also face the same server outage issue. If that's the case, you have to wait until Microsoft resolves the problem and brings up the OneDrive servers again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Completely Shut Down and Reboot Your Computer
 
  Background services are susceptible to glitches and crashes. If one or more such essential services encounter a glitch, it can impede apps that rely on them. However, Windows 11 enables Fast Startup by default which preserves the state of all system and kernel processes for speeding up boot time.
@@ -53,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 
 1. Press**Win + R** to open the Run command box. Type**cmd** and press**Ctrl + Shift + Enter** keys to open the command prompt with administrator privileges.
 2. Now, type the following command and press the enter key:**shutdown /s /f /t 0**  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Perform a complete system shutdown](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perform-a-complete-system-shutdown.jpg)
 3. A complete shutdown will take longer than usual. Wait for the system to Restart and boot to the desktop.
 4. Now, launch OneDrive and check if you can access your files.
@@ -76,9 +67,6 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 3. Press the enter key to navigate to the OneDrive logs folder.
 4. Locate the**userTelemetryCache.otc** file and copy it.**Paste** it to any other disk drive on your system.
 5. Return to the logs folder and**delete** the**userTelemetryCache.otc** file.  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![Clear OneDrive Logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clear-onedrive-logs.jpg)
 6. Close the File Explorer and restart your system.
 7. Launch OneDrive and then check if it encounters the same error code.
@@ -103,32 +91,20 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 3. Now, run the**winget uninstall** command with the OneDrive app ID. This is what it will look like:**Winget uninstall Microsoft.OneDrive**
 4. Wait for winget to remove OneDrive from your system. To confirm the uninstallation, type the following command:**winget list onedrive**
 5. You will see that no package named OneDrive is not present on your system.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Reinstall OneDrive 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reinstall-onedrive-1.jpg)
 
 1. Type**cls** to clear the command prompt window.
 2. Now, input the following command and press the enter key:**winget install Microsoft.OneDrive**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![Reinstall OneDrive 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reinstall-onedrive-2.jpg)
 3. Wait for the tool to download and install OneDrive on your system. You don't need to interact with the installer.
 4. **Close** the command prompt window after seeing the "**Successfully installed** " message.
 5. Launch OneDrive. You will have to**sign in** with your account.
 6. Check if you can connect and browse your files.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Rollback Windows Updates
 
  New Windows updates can sometimes wreck your system and break app compatibility. If OneDrive runs fine before installing a new update,[roll back the Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) . It could take longer if the update file is too big and not all Windows updates can be undone. After that, restart your system and try running the OneDrive app.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Restore or Reset the PC
 
  If you still face the OneDrive error code, it's time to [perform a System Restore or a Windows Reset](https://www.makeuseof.com/windows-reset-system-restore-difference/) . It will help you revert to an old but working system configuration when OneDrive was working fine. Look for the most recent restore point in the wizard and use that.[Perform a factory reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) only if you don't have any Windows Restore points available.
@@ -143,8 +119,6 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,6 +126,20 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/0-top-must-have-gear-items-for-youtubers-for-2024/"><u>[New] 10 Top Must-Have Gear Items for YouTubers for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-speeding-up-spotify-tracks-safe-techniques-and-strategies/"><u>[New] Speeding Up Spotify Tracks Safe Techniques and Strategies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-quick-tip-to-uncover-your-recently-watched-movies-on-fb/"><u>[Updated] In 2024, Quick Tip to Uncover Your Recently Watched Movies on FB</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-precision-flight-the-new-era-with-yuneec-drone-review/"><u>2024 Approved Precision Flight The New Era with Yuneec Drone Review</u></a></li>
+<li><a href="https://discover-able.techidaily.com/movavioggmp4/"><u>最新Movaviプロバイダーが提供するOGG形式をMP4に容易に変換 - 無料オンラインツール</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazingly-clear-and-bright-displays-at-unbeatable-prices-top-lightweight-laptops-revealed/"><u>Amazingly Clear and Bright Displays at Unbeatable Prices - Top Lightweight Laptops Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/finding-the-pathway-system32-in-win11/"><u>Finding the Pathway: System32 in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-common-minecraft-issues-on-pcs/"><u>Fixing Common Minecraft Issues on PCs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mosaicmaker-elite-designing-with-digital-threads-for-2024/"><u>MosaicMaker Elite Designing with Digital Threads for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/optimized-pc-exploration-utilizing-everythingapp/"><u>Optimized PC Exploration: Utilizing EverythingApp</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-erasing-files-with-an-enduring-trash-feature-in-win1011/"><u>Securely Erasing Files with an Enduring Trash Feature in Win10/11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-iphone-models-comprehensive-reviews-by-tech-gurus/"><u>Top-Ranking iPhone Models : Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-selection-of-economical-4k-projection-screens-for-2024/"><u>Ultimate Selection of Economical 4K Projection Screens for 2024</u></a></li>
+</ul></div>
 

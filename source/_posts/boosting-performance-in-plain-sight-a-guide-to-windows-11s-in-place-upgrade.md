@@ -1,7 +1,7 @@
 ---
 title: "Boosting Performance in Plain Sight: A Guide to Windows 11'S In-Place Upgrade"
-date: 2024-08-08T13:15:12.062Z
-updated: 2024-08-09T13:15:12.062Z
+date: 2025-02-28T20:39:38.516Z
+updated: 2025-03-04T20:00:45.075Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 
  We will elaborate on what exactly is an in-place upgrade and how it differs from a clean installation of Windows 11\. Moreover, you will learn about the detailed method to perform the upgrade if the need arises.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is an In-Place Upgrade on Windows?
 
  An in-place upgrade helps you replace your current Windows installation files with a new copy without removing anything else on your system. So, you can use this feature to upgrade to a new version of windows or fix your current installation.
@@ -31,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 
  An in-place upgrade doesn’t replace anything other than Windows files. So, in addition to your personal files, all the installed apps and system settings also remain untouched. You won’t need to re-configure those settings after the in-place upgrade completes. But if you go with the Reset option, it can preserve your files but will remove all your installed programs and settings.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Prerequisites Before Performing a Windows In-Place Upgrade
 
  You will need to do the following things before performing an in-place upgrade:
@@ -44,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 * Remove all external peripherals.
 * Ensure fast internet connectivity.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Perform an In-Place Upgrade on Windows 11
 
  To perform an in-place upgrade, you need to do two things. Firstly, you need to download the latest Windows 11 ISO file. Then, you need to run the setup from the ISO file, pick the appropriate in-place upgrade option, and proceed.
@@ -55,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 
  First of all, you need to grab the Windows 11 ISO image file. If you don't already have one on hand, check out [how to download a Windows ISO without the Media Creation tool](https://www.makeuseof.com/windows-iso-direct-download/) for some easy methods.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Perform an In-Place Upgrade Using the Windows11 ISO Image File
 
  After the download completes, you need to mount the image file in File Explorer. Repeat the following steps to perform an in-place upgrade:
@@ -72,14 +60,8 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 1. On the**Choose what to keep** page, select the**Keep personal files and apps** option. Click on the**Next** button. Then click on the**Install** button.  
 ![Keep all your files and app in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/keep-all-your-files-and-app-in-windows-11.jpg)
 2. The setup will begin installing a new copy of Windows 11\. If you have an SSD, the installation won’t take more than 15 minutes. Your system will restart multiple times during this process.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows 11 Installation Phase](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-installation-phase.jpg)
 3. After the setup finishes installing updates, it will redirect you to the login screen.**Input** your password and press the**Enter** key to continue.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Installing Updates in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installing-updates-in-windows-11.jpg)
 4. Wait for the setup to prepare your system for the first boot. You will automatically enter the desktop.
 5. Check your installed apps list, personal files, and settings. Everything will pretty much be the same.
@@ -88,14 +70,11 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 
  Windows in-place upgrade is perfect when you want to upgrade your system but cannot do so manually. In addition, you can even fix some major issues with Windows 11 that hamper its normal functioning. Use system Reset or format your PC only when the in-place upgrade has little to no effect on your system problems.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,6 +83,20 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-step-by-step-guide-for-vintage-photo-conversion-and-storage/"><u>[Updated] 2024 Approved The Step-by-Step Guide for Vintage Photo Conversion & Storage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-this-years-premier-trivia-broadcasting-titles/"><u>2024 Approved Unveiling This Year's Premier Trivia Broadcasting Titles</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-secure-key-dilemnium-5-proven-fixes-for-win11-errors/"><u>Decoding the Secure Key Dilemnium: 5 Proven Fixes for Win11 Errors</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/drive-smarter-with-the-ix-escort-radar-detector-ai-enhanced-road-safety-on-the-go/"><u>Drive Smarter with the iX Escort Radar Detector: AI-Enhanced Road Safety on the Go</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-honor-magic-6-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Honor Magic 6 for Free? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-5-phone-without-google-account-by-drfone-android/"><u>How to Unlock Honor Magic 5 Phone without Google Account?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-windows-11-photos-incorporating-filters-and-tunes/"><u>In 2024, Mastering Windows 11 Photos Incorporating Filters & Tunes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-your-to-do-list-expert-tips-and-tools-to-optimize-daily-workflow-according-to-zdnet-experts/"><u>Master Your To-Do List: Expert Tips & Tools to Optimize Daily Workflow, According to ZDNet Experts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mts-video-editing-software-top-5-recommendations-for-2024/"><u>MTS Video Editing Software Top 5 Recommendations for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unsigned-update-file-issue-in-windows/"><u>Overcoming Unsigned Update File Issue in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-enhancing-pc-lifespan-via-power-settings/"><u>Quick Guide to Enhancing PC Lifespan via Power Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-no-connection-with-windows-usb-wi-fi-cards/"><u>Troubleshooting: No Connection with Windows' USB Wi-Fi Cards</u></a></li>
+</ul></div>
 

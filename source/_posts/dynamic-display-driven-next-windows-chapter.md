@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Display Driven: Next Windows Chapter"
-date: 2025-02-09T21:40:33.214Z
-updated: 2025-02-16T03:46:36.247Z
+date: 2025-03-04T01:30:42.125Z
+updated: 2025-03-04T16:05:27.431Z
 tags:
   - windows10
   - windows11
@@ -23,29 +23,17 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Deeper Integration With Android Phones
 
  Windows 11 has the Phone Link app (previously called Your Phone) to integrate your android device with your Windows PC. However, Phone Link is an app that works as a doorway to your Android device. Deeper integration with Android devices would make life a lot easier.
 
 ![The app store on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/windows-android-release-date-featured.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit: Koshiro K/[Shutterstock.com](https://www.shutterstock.com/image-photo/kumamoto-japan-oct-3-2021-new-2051415032)
 
  For example, being able to view the phone's notifications, battery level, and other critical information from within the Windows taskbar. A deeper integration would essentially eliminate the need to use the app every time you want to interact with your phone. The idea is to make the Windows-Android integration the same as the Mac-iPhone integration.
 
  It would also be great to see the phone's storage put in the File Explorer too. You should be able to add, edit, and delete files on the phone storage like you would on a cloud-based platform like OneDrive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. A Dedicated Touch UI for Touch Devices
 
@@ -54,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
  Windows 11 has a touch-specific UI, but it's essentially the desktop UI with a few changes to make it easier to work with on a touch device. However, we'd love to see a complete redesign of the Windows 12 desktop UI for touch-only devices, just like Windows 8\. While Windows 8 isn't the best of Microsoft operating systems, its fluid UI was excellent.
 
 ![Windows 8.1 Start Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/05/windows-8.1-start-screen-application-tiles.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The chances of Microsoft radically changing the design are slim. However, the Windows 12 UI might have a few major design changes as revealed in the Microsoft Ignite Keynote. Here's a tweet showing a preview of the possible design changes:
 
@@ -76,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
  Animated wallpapers have been long overdue given that smartphones have already offered them for a while. You can[set animated wallpapers on Windows](https://www.makeuseof.com/tag/set-live-wallpapers-animated-desktop-backgrounds-windows/) , but you need a third-party app. Having animated wallpapers built into Windows 12 would be a welcome feature.
 
  Microsoft could also animate some of its most popular wallpapers, including the default Windows XP wallpaper. To take things up a notch, Microsoft could place additional information on the wallpapers. For example, the weather information could be placed in the sun appearing in an animated wallpaper of a landscape, eliminating the need for[adding widgets to the Windows desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Else Do We Expect from Windows 12?
 
@@ -114,19 +94,19 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-echoes-of-engagement-writing-powerful-podcast-dialogues/"><u>[New] Echoes of Engagement Writing Powerful Podcast Dialogues</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unveiling-mastery-the-ultimate-animoji-guide-for-iphone-x/"><u>[Updated] In 2024, Unveiling Mastery The Ultimate Animoji Guide for iPhone X</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-virtualization-running-windows-11-on-vmware-player-17/"><u>Effortless Virtualization: Running Windows 11 on VMware Player 17</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-erroneous-pc-label-in-windows-os/"><u>Fixing Erroneous PC Label in Windows OS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-handle-internal-windows-error-during-remote-desktop-use/"><u>How to Handle Internal Windows Error During Remote Desktop Use</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-itel-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Itel</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-itel-a60-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Itel A60? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-data-flow-issues-with-windows-usb-devices/"><u>Mending Data Flow Issues with Windows' USB Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-tecno-spark-10c-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Tecno Spark 10C – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-safe-access-getting-back-to-normal-outlook/"><u>Overcoming Safe Access: Getting Back to Normal Outlook</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-effective-setting-up-powershell-script-policies-right/"><u>Secure, Effective: Setting Up PowerShell Script Policies Right</u></a></li>
-<li><a href="https://win11.techidaily.com/unmasking-the-covert-context-options-in-windows-11/"><u>Unmasking the Covert Context Options in Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-a-deep-dive-into-digital-platform-wealth-dailymotion-and-youtube-comparison/"><u>[Updated] A Deep-Dive Into Digital Platform Wealth Dailymotion & YouTube Comparison</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-gratis-global-photo-perfection-suite/"><u>2024 Approved Gratis Global Photo Perfection Suite</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-13c-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-achieving-clear-focus-blurring-videos-on-teams/"><u>In 2024, Achieving Clear Focus Blurring Videos on Teams</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-expert-reviews-top-5-masterful-motion-capture-devices/"><u>In 2024, Expert Reviews Top 5 Masterful Motion Capture Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-large-scale-tiktok-video-downloads/"><u>In 2024, Mastering Large-Scale TikTok Video Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/lockout-logic-how-to-swiftly-disable-a-win11-user-account/"><u>Lockout Logic: How to Swiftly Disable a Win11 User Account</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/master-your-mobile-beats-with-pcdj-red-mobile-student-what-is-the-result-of-adding-negative-three-to-positive-four/"><u>Master Your Mobile Beats with PCDJ Red Mobile [Student]: What Is the Result of Adding Negative Three to Positive Four?</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fix-for-windows-11-camera-app-error-f429f/"><u>Mastering Fix for Windows 11 Camera APP - Error F429F</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-voice-transcription-tips-from-whisper-desktop/"><u>Quick Voice Transcription Tips From Whisper Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaim-your-keyboard-resolve-windows-snipping-command-issue/"><u>Reclaim Your Keyboard: Resolve Windows Snipping Command Issue</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamline-creativity-with-1-to-5-mac-editors-for-sierra-users/"><u>Streamline Creativity with #1 to #5 Mac Editors for Sierra Users</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-altering-your-digital-signature-username-change/"><u>The Ultimate Guide to Altering Your Digital Signature: UserName Change</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1728464909850-404/"><u>ウェブサイトでフロアを探しても、何故か見当たらない!? - 404ページ未発見の謎解き</u></a></li>
 </ul></div>
 

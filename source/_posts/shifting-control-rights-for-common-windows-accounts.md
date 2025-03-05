@@ -1,7 +1,7 @@
 ---
 title: Shifting Control Rights for Common Windows Accounts
-date: 2025-01-29T16:27:40.491Z
-updated: 2025-02-04T04:32:48.945Z
+date: 2025-03-03T23:14:55.726Z
+updated: 2025-03-04T16:36:53.967Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 
  The default UAC behavior for standard user accounts is **Prompt for credentials**, but Microsoft recommends you change it to **Automatically deny elevation requests**. That way, only users with administrator accounts can decide how the UAC behaves and make choices that will keep the computer safe.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Change the UAC Behavior for Standard Users in the Local Group Policy Editor
 
  The easiest way to change the way UAC behaves for standard users is to tweak the **User Account Control: Behavior of the elevation prompt for standard users** policy. To do that, [open the Local Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) and follow the steps below.
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 ![editing the policy for UAC behavior in Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/editing-policy-for-uac-behavior-in-local-group-policy-editor.jpg)
 4. Click **OK**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Keep in mind that only administrators can change the behavior of the UAC. If a standard user tried to change it using the Local Group Policy Editor, for example, they'd probably get an **Access denied** error message.
 
 ## How to Change the UAC Behavior for Standard Users in the Registry Editor
@@ -69,24 +61,12 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 ![the System key in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-key-registry-editor.jpg)
 2. Press **Enter** on your keyboard to go to the **System** key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Right-click the **ConsentPromptBehaviorUser** value in the right panel and select **Modify**.  
 ![modifying the ConsentPromptBehaviorUser value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modifying-consentpromptbehavioruser-in-registry-editor.jpg)
 4. In the **Value data** text box, enter **0** for **Automatically deny elevation requests**, **1** for **Prompt for credentials on the secure desktop**, or **3** for **Prompt for credentials**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![setting Value data for ConsentPromptbehavior Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/setting-value-data-for-consentpromptbehavior-registry-editor.jpg)
 5. Click **OK**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now restart your computer to allow the changes to take effect.
 
@@ -106,18 +86,17 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-unlocking-your-creative-potential-style-and-niche/"><u>[Updated] In 2024, Unlocking Your Creative Potential Style & Niche</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-a-comprehensive-look-at-benq-sw320s-4k-features/"><u>2024 Approved A Comprehensive Look at BenQ SW320's 4K Features</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/boosting-views-essential-hashtags-for-trending-shorts-for-2024/"><u>Boosting Views Essential Hashtags for Trending Shorts for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/chronology-conundrum-best-podcast-times-for-2024/"><u>Chronology Conundrum Best Podcast Times for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-delete-visual-fluff-from-win-search-ui/"><u>How to Delete Visual Fluff From Win Search UI</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-smooth-cuts-ahead-3-ways-to-master-transitions-in-fcp/"><u>New In 2024, Smooth Cuts Ahead 3 Ways to Master Transitions in FCP</u></a></li>
-<li><a href="https://win11.techidaily.com/notepadnightvisionswitchtutorialwin1011/"><u>NotepadNightVisionSwitchTutorialWin10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/sync-your-swat-team-tips-to-stop-mouse-delay-in-bf2/"><u>Sync Your Swat Team: Tips to Stop Mouse Delay in BF2</u></a></li>
-<li><a href="https://win11.techidaily.com/tech-tips-resolving-win-access-denials-swiftly/"><u>Tech Tips: Resolving Win Access Denials Swiftly</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-complete-2023-bandicam-insight-and-tips-for-2024/"><u>The Complete 2023 Bandicam Insight & Tips for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-news/"><u>Tom's Tech Insights: In-Depth Reviews and News</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unboxing-the-lamicall-ss-innovative-features-in-this-thoughtful-tablet-mount-review/"><u>Unboxing the Lamicall S's Innovative Features in This Thoughtful Tablet Mount Review</u></a></li>
-<li><a href="https://article-files.techidaily.com/unveiling-srts-potential-in-subtitle-format-sub-for-2024/"><u>Unveiling SRT's Potential in Subtitle Format (SUB) for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-guide-to-premium-zero-fee-video-meeting-solutions/"><u>[New] In 2024, Guide to Premium, Zero-Fee Video Meeting Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/14-unveiling-windows-11-post-update-feature-list/"><u>14 Unveiling Windows 11: Post-Update Feature List</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-complete-2023-youtubers-handbook-for-rotated-content/"><u>2024 Approved The Complete 2023 Youtuber's Handbook for Rotated Content</u></a></li>
+<li><a href="https://win11.techidaily.com/clashing-cybersecurity-the-case-against-multiple-antiviruses-on-windows/"><u>Clashing Cybersecurity: The Case Against Multiple Antiviruses on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-critical-error-message-when-logging-into-windows-user-profile-service/"><u>Fixing the Critical Error Message When Logging Into Windows User Profile Service</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-infinitely-stop-microsoft-defender-in-windows/"><u>How to Infinitely Stop Microsoft Defender in Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-tomorrow-with-intelligence-collective-wisdom-of-top-tech-innovators-on-artificial-intelligence/"><u>Navigating Tomorrow with Intelligence: Collective Wisdom of Top Tech Innovators on Artificial Intelligence</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-infinix-zero-30-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Infinix Zero 30 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-microsoft-screen-mirroring-issues-windows-11-fixes/"><u>Troubleshooting Microsoft Screen Mirroring Issues: Windows 11 Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/unclogging-windows-chrome-problems/"><u>Unclogging Windows Chrome Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-potential-with-our-top-5-budget-drivers-for-pcs/"><u>Unleash Potential with Our Top 5 Budget Drivers for PCs</u></a></li>
 </ul></div>
 

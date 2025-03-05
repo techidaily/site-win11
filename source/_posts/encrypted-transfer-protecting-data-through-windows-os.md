@@ -1,7 +1,7 @@
 ---
 title: "Encrypted Transfer: Protecting Data Through Windows OS"
-date: 2025-02-14T19:36:14.297Z
-updated: 2025-02-15T23:13:54.925Z
+date: 2025-03-02T02:20:51.931Z
+updated: 2025-03-05T03:26:10.098Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 
  Once you complete the above steps, your drive will no longer appear in File Explorer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Hide a Drive in Windows With Diskpart Command
 
  If you're a power user who prefers to make changes via the command-line interface, you can use the diskpart command to hide a drive on Windows. Fortunately, this isn't as intimidating as it might sound.
@@ -56,27 +52,15 @@ To hide a drive in Windows with Command Prompt, follow these steps:
 ![List of Drives in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/list-of-drives-in-command-prompt.jpg)
 5. Note down the letter of the drive you want to hide from the**Ltr** column.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Type the following command to select your drive. Make sure you replace**X** in the command with the drive letter noted in the last step.  
 `select volume X`
 7. Lastly, run the following command to remove the drive letter and hide the volume.  
 `remove letter X`  
 ![Hide a Drive Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-using-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You should see a message that reads **Diskpart successfully removed the drive letter or mount point** . Following that, the drive will no longer appear on your PC.
 
  If you like using Command Prompt, why not check our guide on[how to master the Command Prompt in Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) ?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Hide a Drive Using the Group Policy Editor
 
@@ -120,10 +104,6 @@ Here's what you need to do:
 
 ![Drive Letter Refrence for Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-letter-refrence-for-registry-editor.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For instance, if you were to hide the**E:** drive from your computer, you'd enter**16** in the Value data field.
 
  You can also use this method to hide multiple drives at the same time. To do so, add the decimal numbers for both drives and enter the total in the Value data field. For example, if you're looking to hide drive**G:** and**H:** from your computer, you should enter**192** (64 + 128) in the Value data field.
@@ -151,21 +131,20 @@ Here's what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-easy-steps-to-the-top-gaming-video-editing-programs-for-2024/"><u>[New] Easy Steps to the Top Gaming Video Editing Programs for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-how-to-secure-free-fcp-software-for-2024/"><u>[Updated] How to Secure Free FCP Software for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-capture-webcam-snapshots-via-vlc-media-player/"><u>[Updated] In 2024, Capture Webcam Snapshots via VLC Media Player</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hero-11-and-max-360-gopro-challenge-video-quality-faceoff/"><u>2024 Approved Hero 11 & Max 360 GoPro Challenge - Video Quality Faceoff</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-the-unknown-visual-facts-from-2017s-youtube-world-for-2024/"><u>Charting the Unknown Visual Facts From 2017'S Youtube World for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-file-reachability-in-windows-os/"><u>Enabling File Reachability in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/exclusive-roundup-wins-top-video-conversion-software/"><u>Exclusive Roundup: Win's Top Video Conversion Software</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210188150-9781908421449-heaven-and-earth/"><u>Heaven and Earth | Free Book</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-connection-issues-with-headphones-or-speakers-windows/"><u>Overcoming Connection Issues with Headphones or Speakers, Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamlessly-enhance-g3000-on-windows-11-intel/"><u>Seamlessly Enhance G3000 on Windows 11, Intel.</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-giants-exploring-facebook-twitter-instagram-and-youtube/"><u>Social Media Giants: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-modifying-login-failure-count-windows-11-security-update/"><u>Strategies for Modifying Login Failure Count: Windows 11 Security Update</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-semaphore-delay-remedies-for-win1110-error/"><u>Tackling Semaphore Delay - Remedies for Win11/10 Error</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-ai-capabilities-for-windows-with-vivetool-help/"><u>Unlocking AI Capabilities for Windows with ViveTool Help</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11-start-spotlight-free-from-ads/"><u>Win 11 Start Spotlight: Free From Ads</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-innovative-techniques-for-flawless-voice-capture-in-facetime-calls-for-2024/"><u>[Updated] Innovative Techniques for Flawless Voice Capture in FaceTime Calls for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-join-the-fortune-changing-club-free-50-banners-await/"><u>[Updated] Join The Fortune-Changing Club Free 50 Banners Await!</u></a></li>
+<li><a href="https://win11.techidaily.com/an-effective-guide-to-fix-error-0xc0000001-on-windows-pcs/"><u>An Effective Guide to Fix Error 0XC0000001 on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/cease-alerts-for-unrequested-system-recommendations/"><u>Cease Alerts for Unrequested System Recommendations</u></a></li>
+<li><a href="https://win11.techidaily.com/creating-a-personalized-calendar-experience-with-windows-outlook/"><u>Creating a Personalized Calendar Experience with Windows Outlook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/dive-into-the-world-of-instagram-voice-personalization/"><u>Dive Into the World of Instagram Voice Personalization</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-redmi-13c-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Redmi 13C 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-find-x7-ultra-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo Find X7 Ultra Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/overcome-blurred-images-the-best-online-enhancers-listed/"><u>Overcome Blurred Images The Best Online Enhancers Listed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revel-in-every-box-with-these-strategies-for-2024/"><u>Revel in Every Box with These Strategies for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-11s-camera-issue-fixing-a00f425d-error/"><u>Tackling Windows 11'S Camera Issue: Fixing A00F425D Error</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolving-landscape-of-tech-careers-is-the-role-of-prompt-engineer-surpassing-data-scientist-exploring-trends-with-zdnet/"><u>The Evolving Landscape of Tech Careers: Is the Role of Prompt Engineer Surpassing Data Scientist? Exploring Trends with ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-more-disk-room-in-windows-here-are-the-7-best-aids/"><u>Unleash More Disk Room in Windows - Here Are the 7 Best Aids</u></a></li>
+<li><a href="https://win11.techidaily.com/win11s-dns-cache-how-to-clear-and-maintain-efficiency/"><u>Win11's DNS Cache: How to Clear and Maintain Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/winexe-enhancement-convert-batch-to-powerful-formats/"><u>WinEXE Enhancement: Convert Batch to Powerful Formats</u></a></li>
 </ul></div>
 

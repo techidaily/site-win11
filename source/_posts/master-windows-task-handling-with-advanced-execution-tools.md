@@ -1,7 +1,7 @@
 ---
 title: Master Windows Task Handling with Advanced Execution Tools
-date: 2025-02-14T02:50:28.803Z
-updated: 2025-02-16T02:06:18.557Z
+date: 2025-02-26T03:37:34.195Z
+updated: 2025-03-04T17:06:39.286Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/3c1c3c36ffd528acf80507ec017f8e098843112bc
 
 ![The Run-Command app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-command-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Another difference you’ll quickly notice is that Run-Command includes 13 shortcut icons. Clicking those shortcuts will open some of the most useful Windows tools. These are the utilities and windows you can access with those Run-Command shortcuts:
 
 * Registry Editor
@@ -65,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/3c1c3c36ffd528acf80507ec017f8e098843112bc
  However, what totally sets Run-Command apart from Windows’ Run accessory is that you can add shortcuts to it. To do so, input a command for accessing an app, file, or website (or you can click**Browse** to select one); click the**Favorites** button on Run-Command, which opens a menu that already includes many more shortcuts for accessing system tools. Then select the**Add to Favorites** option.
 
 ![The Favorites menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-favorites-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can remove shortcuts added and edit the menu by clicking the**Manage Favorites** option. Select a shortcut in the Manage Favorites window and click the**X** button to remove it. Or you can click a folder button there to add new subfolders to the menu to move your shortcuts in. To edit a shortcut’s title, select it and click the rename button.
 
@@ -101,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/3c1c3c36ffd528acf80507ec017f8e098843112bc
 9. Toggle on the Enable PowerToys**Run** option if it’s off.  
 ![The Enable PowerToys Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-powertoys-run-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now press the**Alt** +**Space** hotkey to bring up a**Start typing** box. Then input the name of the software you want to launch inside PowerToys Run. Select a matching application within the results shown to open its window.
 
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
@@ -127,27 +115,15 @@ thumbnail: https://thmb.techidaily.com/3c1c3c36ffd528acf80507ec017f8e098843112bc
 
 ![A calculator command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-calculator-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also access Control Panel applets and Settings app pages by inputting the**$** plugin followed by a search phrase. For example, entering**$uninstall** will find both Programs and Features and the Apps & Features tool. Or you input**$** on its own to view a long list of Settings pages and Control Panel applets.
 
 ![The $ command for accessing Control Panel applets and Settings pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-command.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can disable or enable plugins via the**PowerToys Run** tab. Scroll down to the**Plugins** section of that tab to view those options. You can click the**On** or**Off** switches to enable/disable them.
 
 ![The plugin settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/plugin-options.jpg)
 
  Click the down arrows for the plugins to view their settings. Then you can see the activation commands for the plugins in their**Direct** **activation command** boxes. You can change the command by selecting that box, clicking the**X** , and entering a different one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Make the Most of the Your Enhanced Run Accessory in Windows 11/10
 
@@ -168,22 +144,22 @@ thumbnail: https://thmb.techidaily.com/3c1c3c36ffd528acf80507ec017f8e098843112bc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-harmonizing-your-android-device-a-guide-to-personalized-ringtone-and-sound-configurations/"><u>[New] 2024 Approved Harmonizing Your Android Device A Guide to Personalized Ringtone and Sound Configurations</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-curious-case-of-inverted-images-on-social-media/"><u>[New] In 2024, The Curious Case of Inverted Images on Social Media</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-times-illusion-crafting-engaging-slow-motion-videos-on-ig/"><u>[New] In 2024, Time's Illusion Crafting Engaging Slow-Motion Videos on IG</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlock-your-creativity-with-top-title-methods/"><u>[New] Unlock Your Creativity with Top Title Methods</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-differences-between-standard-360-and-vr-content-for-2024/"><u>[Updated] Differences Between Standard 360° & VR Content for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-overcoming-the-hal-initialization-failure-error-0x00000n5c/"><u>Expert Advice: Overcoming the HAL Initialization Failure - Error 0X00000n5C</u></a></li>
-<li><a href="https://win11.techidaily.com/flat-faces-for-windows-cutting-corners-off/"><u>Flat Faces for Windows: Cutting Corners Off</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-verify-if-xbox-live-is-operational-insight-into-service-availability/"><u>How to Verify if Xbox Live Is Operational – Insight Into Service Availability</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-5-gratis-open-source-graphics-engines/"><u>Leading 5 Gratis, Open-Source Graphics Engines</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-rufus-for-bypassing-tpmsecure-boot-in-windows-11/"><u>Navigating Rufus for Bypassing TPM/Secure Boot in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-inconsistency-in-your-pcs-choosing-printer/"><u>Preventing Inconsistency in Your PC's Choosing Printer</u></a></li>
-<li><a href="https://win11.techidaily.com/scrutinizing-windows-n-features-which-to-choose/"><u>Scrutinizing Windows N Features: Which to Choose?</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-bypass-windows-package-incompatibilities/"><u>Solutions to Bypass Windows Package Incompatibilities</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-touchpad-glitches-in-windows-environment/"><u>Solving Touchpad Glitches in Windows Environment</u></a></li>
-<li><a href="https://win11.techidaily.com/the-retro-architect-building-on-old-games-with-new-achievement-features/"><u>The Retro Architect: Building on Old Games with New Achievement Features</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-for-low-iphone-phone-call-volume/"><u>Troubleshooting Techniques for Low iPhone Phone Call Volume</u></a></li>
-<li><a href="https://win11.techidaily.com/window-into-worldwide-weather-premium-windows-11-apps-guide/"><u>Window Into Worldwide Weather: Premium Windows 11 Apps Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-innovative-video-enhancement-using-vce-22/"><u>[New] 2024 Approved Innovative Video Enhancement Using VCE 2.2</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-revolutionary-rendition-of-recording-link/"><u>[New] 2024 Approved Revolutionary Rendition of Recording Link</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/utlining-operational-offshoots-for-2024/"><u>[New] Outlining Operational Offshoots for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/double-down-on-efficiency-speeding-up-mouse-closings/"><u>Double Down on Efficiency: Speeding Up Mouse Closings</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-setting-up-your-computers-startup-routines-in-win11/"><u>Efficiently Setting Up Your Computer's Startup Routines in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/exclusive-ifa-2023-the-ultimate-laptop-guide/"><u>Exclusive IFA 2023: The Ultimate Laptop Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-tactics-for-success-amidst-facebooks-algorithm-evolution/"><u>In 2024, Tactics for Success Amidst Facebook’s Algorithm Evolution</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-basic-blueprint-for-win-based-fishy-vocal-shifts/"><u>In 2024, The Basic Blueprint for Win-Based Fishy Vocal Shifts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-vision-quest-identifying-top-tier-slow-motion-cameras/"><u>In 2024, Vision Quest Identifying Top-Tier Slow Motion Cameras</u></a></li>
+<li><a href="https://extra-support.techidaily.com/inter-device-image-sharing-expertise-for-2024/"><u>Inter-Device Image Sharing Expertise for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/leap-into-efficiency-crafting-quick-access-points-in-windows-11/"><u>Leap Into Efficiency: Crafting Quick-Access Points in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-ip-configuration-windows-11-focus/"><u>Mastering IP Configuration: Windows 11 Focus</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-list-of-lego-stop-motion-producers/"><u>New In 2024, The Ultimate List of Lego Stop Motion Producers</u></a></li>
+<li><a href="https://win11.techidaily.com/no-more-lockouts-windows-11-pin-recovery-steps/"><u>No More Lockouts: Windows 11 PIN Recovery Steps</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-itel-a05s-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Itel A05s Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/rethinking-performance-entering-a-new-standard-with-16gb-ram/"><u>Rethinking Performance: Entering a New Standard with 16GB RAM</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-macos-with-out-of-operating-system-tools/"><u>Transforming macOS with Out-of-Operating System Tools</u></a></li>
 </ul></div>
 

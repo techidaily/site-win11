@@ -1,7 +1,7 @@
 ---
 title: Black-Out Bliss with Microsoft's Basic Brush
-date: 2024-08-08T13:14:51.038Z
-updated: 2024-08-09T13:14:51.038Z
+date: 2025-02-26T18:32:26.991Z
+updated: 2025-03-04T23:14:16.085Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
  But Microsoft is finally testing a dark mode version of the Paint app along with new feature add-ons in the Insider program. Curious? Let’s discuss what the app has to offer now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## Do You Need a Dark Mode in Microsoft Paint?
 
  Currently, if you apply a dark theme on your Windows 11 PC, most elements will turn completely black to adapt to the change in the color scheme. But some elements like the old Control Panel dialog box, Windows tools, and so on, don’t adapt to this change.
@@ -39,18 +36,12 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
  But if you don’t want to wait, you can directly download the aforementioned version of Paint from the Store.Rg-adguard website.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Downloading New Paint app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/downloading-new-paint-app.jpg)
 
  Firstly, go to the official Microsoft Store webpage for the Paint app. Copy the webpage URL and visit the [Store.Rg-adguard website](https://store.rg-adguard.net/). Paste the link in the search box and select the Fast or Slow option.
 
  After that, click on the checkmark icon. The latest Photos app build will begin downloading on your PC. Install the app and then follow the steps mentioned in the next section.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Switch to Dark Mode in Microsoft Paint
 
  You can switch to dark mode in Paint in two ways:
@@ -61,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
 ![enable Dark mode in Paint app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-dark-mode-in-paint-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Other Major Improvements With the Dark Mode Paint App
 
  Apart from the dark mode support, the Paint app has had another pestering issue that lingered for decades. The zoom feature doesn’t have a drop-down list with some default zoom sizes.
@@ -76,23 +64,15 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
  Go to the bottom right area in the Paint app and click on the **Fit to window** button. The image will be zoomed in or out to fit the Paint display window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![New Fit to window Feature in Paint app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-fit-to-window-feature-in-paint-app.jpg)
 
  Other major improvements include some changes to the Image Properties section in the app and accessibility support.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Go Dark in Paint
 
  Dark Mode support in the Paint app is great news for all Windows users. No more eye-gouging white color glare whenever you open the app. Despite being in the Insider channel, we expect that Microsoft will soon roll out the updated version of Paint to the stable channel as well. But it still has a long way ahead to become a full-fledged image editing app.
 
  But Microsoft is finally testing a dark mode version of the Paint app along with new feature add-ons in the Insider program. Curious? Let’s discuss what the app has to offer now.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -100,4 +80,23 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-tricks-to-make-your-profile-video-stand-out-for-2024/"><u>[Updated] Tricks to Make Your Profile Video Stand Out for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-step-into-the-future-of-video-creation-with-animated-subscribe-buttons-in-filmora/"><u>2024 Approved Step Into the Future of Video Creation with Animated Subscribe Buttons in Filmora</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-15-plus-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On Apple iPhone 15 Plus Online</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-vivo-y100i-power-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Vivo Y100i Power 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/crucial-considerations-before-overhauling-pc-os/"><u>Crucial Considerations Before Overhauling PC OS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/decoding-fb-lives-multiscreen-mastery-techniques/"><u>Decoding FB Live's Multiscreen Mastery Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-guide-to-affordable-wired-and-wireless-keys/"><u>Gamer's Guide to Affordable Wired and Wireless Keys</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-data-retrieval-tool-restore-lost-data-from-honor-90-lite-by-fonelab-android-recover-data/"><u>Honor Data Retrieval tool – restore lost data from Honor 90 Lite</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-websites-work-on-windows-like-apps/"><u>How To Make Websites Work on Windows Like Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-slidestream-creator-pro-macos/"><u>In 2024, SlideStream Creator Pro (macOS)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/no-pocket-money-needed-heres-a-free-solution-to-coffee-stains-in-images-for-2024/"><u>No Pocket Money Needed? Here’s a FREE Solution to Coffee Stains in Images for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-hidden-windows-update-on-your-os/"><u>Reactivating Hidden Windows Update on Your OS</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-windows-default-safescreensaver-position/"><u>Securing Windows Default SafeScreensaver Position</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-the-beast-troubleshoot-sonic-fullscreen-crashes-in-w11/"><u>Taming The Beast: Troubleshoot Sonic Fullscreen Crashes in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-gptmimicry-a-costless-local-edition-via-gpt4all/"><u>Windows GPTMimicry: A Costless Local Edition via GPT4All</u></a></li>
+</ul></div>
 

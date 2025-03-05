@@ -1,7 +1,7 @@
 ---
 title: Best Practices to Prevent Unauthorized Device Usage
-date: 2024-08-08T13:12:14.002Z
-updated: 2024-08-09T13:12:14.002Z
+date: 2025-02-28T23:43:06.261Z
+updated: 2025-03-05T00:07:21.857Z
 tags:
   - windows10
   - windows11
@@ -20,21 +20,12 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
  In this article, we’ll explore how you can prevent others from installing removable storage devices on Windows. That way, your device won't read any removable storage devices without your permission. Lastly, we’ll also show you how to allow others to install specific removable storage devices.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## How to Prevent Others From Installing Any Removable Storage Devices
 
  Let's start by checking out how you can prevent others from installing any removable storage device into your PC. You can do this using either the Local Group Policy Editor or the Registry Editor.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Using the Local Group Policy Editor
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
 
  The Local Group Policy Editor (LGPE) is a reliable tool for troubleshooting system errors. Interestingly, you can also use it for other tasks such as [preventing others from changing your Windows desktop background](https://www.makeuseof.com/stop-others-change-windows-desktop-background/).
@@ -56,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
 ### Using the Registry Editor
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
  The Registry Editor is another reliable tool you can use for tweaking system settings and troubleshooting PC issues.
@@ -79,9 +67,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 2. Right-click on the **DeviceInstall** key and select **New > Key**. Next, name the key as **Restrictions** and press **Enter**.
 3. Click the **Restrictions** folder, right-click on a blank space on the right, and then select **New > DWORD (32-bit) Value**. From there, name the value as **DenyRemovableDevices** and press **Enter**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Clicking the DenyRemovableDevices value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-DenyRemovableDevices-value.jpg)
 
  Now, follow these steps:
@@ -90,21 +75,15 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 2. Set the **Value data** as **1** and then press **OK** to prevent others from installing storage devices into your PC. Alternatively, set the **Value data** as **0** and press **OK** to allow others to install removable storage devices on your PC.
 3. Close the Registry Editor and restart your device to save these changes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Prevent Others From Installing Specific Removable Storage Devices
 
  In some instances, you might want to prevent others from installing specific removable storage devices. So, let’s show you how you can do that using either the LGPE or the Registry Editor.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -113,6 +92,22 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-harnessing-skypes-potential-on-pc-and-mac-with-ease-for-2024/"><u>[New] Harnessing Skype's Potential on PC & Mac with Ease for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-start-smart-free-video-intro-templates/"><u>[Updated] In 2024, Start Smart Free Video Intro Templates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-get-still-on-the-move-gopro-stability-tips/"><u>2024 Approved How to Get Still on the Move GoPro Stability Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-m14-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy M14 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-ipad-pro-and-macbook-air-determining-the-optimal-laptoptablet-for-you-gadget-flow/"><u>Comparing iPad Pro and MacBook Air: Determining the Optimal Laptop/Tablet for You | Gadget Flow</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-fixing-dism-issue-0x800f082f/"><u>Comprehensive Guide to Fixing DISM Issue 0X800F082F</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-sharing-problems-with-geforce-experience-in-windows/"><u>Eradicating Sharing Problems with GeForce Experience in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-skype-microphone-working-again-on-windows-11-step-by-step-fixes/"><u>Get Your Skype Microphone Working Again on Windows 11: Step-by-Step Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-turn-off-hyper-v-in-windows-11-pro/"><u>Guide to Turn Off Hyper-V in Windows 11 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/localize-chatgpt-on-pc-free-and-simple-with-gpt4all/"><u>Localize ChatGPT on PC - Free & Simple With GPT4All.</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/revitalized-interview-selections-for-podcasters-for-2024/"><u>Revitalized Interview Selections for Podcasters for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-your-system-the-best-windows-apps-to-drop/"><u>Simplify Your System: The Best Windows Apps to Drop</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-adding-powertoys-to-win11/"><u>Step-by-Step Guide: Adding PowerToys to Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-hidden-threats-a-user-guide-to-pc-security/"><u>Unveiling Hidden Threats: A User Guide to PC Security</u></a></li>
+</ul></div>
 

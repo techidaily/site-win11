@@ -1,7 +1,7 @@
 ---
 title: Breaking Grayed-Out Delete PIN Option in Windows 11
-date: 2024-08-08T13:12:27.225Z
-updated: 2024-08-09T13:12:27.225Z
+date: 2025-03-02T00:03:53.556Z
+updated: 2025-03-05T01:59:21.984Z
 tags:
   - windows10
   - windows11
@@ -20,14 +20,8 @@ thumbnail: https://thmb.techidaily.com/4f442cf2fb2227aedd89e7821028b21747d22144c
 
  However, when you try to remove your PIN, you may find the option grayed out in the Settings app. Fortunately, fixing this problem is easy enough. Here's how you can disable the feature and fix the Remove PIN option grayed-out issue on Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Disable the Windows Hello Sign-in Requirement to Restore the Remove PIN Option
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Fingerprint key on a laptop keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Ways-to-Fix-Windows-Hello-Fingerprint-Not-Working-In-Windows.jpg)
 
  In Windows 11, you can enable Windows Hello sign-in for Microsoft account to force users to use their PIN to log in. While a handy feature, for security reasons, it also disables the Remove PIN option for the device. To restore the Remove PIN option, you must disable the Windows Hello sign-in requirement. Here's how to do it.
@@ -48,17 +42,11 @@ To remove PIN using forgot my PIN:
 1. Press**Win + I** to open**Settings** .
 2. Next, open the**Accounts** tab and then click on**Sign-in options.**
 3. Expand the**PIN (Windows Hello)** section.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![windows 11 i forgot my pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-i-forgot-my-pin.jpg)
 4. Click on**I forgot my PIN** next **to Related links.**
 5. Click**Continue** when the confirmation dialog appears.  
 ![confirmation dialog windows hello PIN remove](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/confirmation-dialog-windows-hellow-pin-remove.jpg)
 6. Next, enter your Microsoft account details to sign in.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set up a pin cancel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/set-up-a-pin-cancel.jpg)
 7. When the**Set up a PIN** dialog appears, click on**Cancel** .  
 ![close your account requires windows hello pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-your-account-requires-windows-hello-pin.jpg)
@@ -80,22 +68,13 @@ That's it! You have successfully removed the Windows Hello PIN.
 1. Click on**Advanced security options** .  
 ![microsoft account advanced security options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microsoft-account-advanced-security-options.jpg)
 2. Now scroll down to the**Additional security** section.  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![additional security turn off passwordless account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/additional-security-turn-off-passwordless-account.jpg)
 3. Click on**Turn Off** for**Passwordless account.**
 4. Next, follow the on-screen instruction to disable the features.
 5. Once done, you should be able to use the Remove PIN option in Settings.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Remove the PIN on Your Windows 11 PC
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![windows 11 remove pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-remove-pin.jpg)
 
  Once the option is restored, follow these steps to remove Windows Hello PIN from the Settings app:
@@ -111,14 +90,11 @@ That's it! You have successfully removed the Windows Hello PIN.
 
  Windows deliberately disables the Remove PIN option as an additional security measure. While we don't recommend disabling it, you can freely do so using the steps above, especially if you prefer to protect your Windows PC solely using alphanumeric passwords.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,6 +103,17 @@ That's it! You have successfully removed the Windows Hello PIN.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-complete-breakdown-hero4-black-usage/"><u>[New] Complete Breakdown Hero4 Black Usage</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/firmware-update-blackened-vision/"><u>Firmware Update: Blackened Vision</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-frame-your-shot-ultimate-software-guide-image-editors/"><u>In 2024, Frame Your Shot Ultimate Software Guide Image Editors</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-windows-11-potential-with-microsofts-innovative-copilot-key/"><u>Maximizing Windows 11 Potential with Microsoft's Innovative Copilot Key</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-to-win-11s-insider-program-enrollment/"><u>Navigating to Win 11'S Insider Program Enrollment</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-office-productivity-make-word-open-email-attachments-read-only/"><u>Optimize Office Productivity: Make Word Open Email Attachments Read-Only</u></a></li>
+<li><a href="https://win11.techidaily.com/revamping-windowed-discord-for-better-search-results/"><u>Revamping Windowed Discord for Better Search Results</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-malwarebytes-connection-failures-in-windows-10-and-11/"><u>Steps to Overcome Malwarebytes Connection Failures in Windows 10 & 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-writing-efficiency-discover-8-essential-ai-tools-for-authors/"><u>Streamline Writing Efficiency: Discover 8 Essential AI Tools for Authors</u></a></li>
+</ul></div>
 

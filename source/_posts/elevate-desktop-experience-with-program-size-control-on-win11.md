@@ -1,7 +1,7 @@
 ---
 title: Elevate Desktop Experience with Program Size Control on Win11
-date: 2025-02-11T17:41:11.612Z
-updated: 2025-02-16T04:35:15.389Z
+date: 2025-03-01T18:39:18.076Z
+updated: 2025-03-04T18:10:37.627Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 ![The Action to perform drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/autosize-window.jpg)
 3. Then select the**Resize** /**Position** option on the**Action to perform** drop-down menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click the**Set size** checkbox.
 5. Input the window width and height values in the two text boxes. The left box sets the width and the right one is for height.
 6. Click the**OK** button. The software window you set a size for will then be resized to the values entered.
@@ -57,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
  AutoSizer has an Options window that includes some general settings for the program. Click the**Options** button to view the app’s miscellaneous settings. You can enable or disable the app for the Windows startup by selecting or deselecting the**Load AutoSizer automatically** option.
 
 ![General options for AutoSizer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/general-autosize-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To set a hotkey to restore windows to their preset sizes, click inside the**AutoSize Now! Shortcut key** box. Press a keyboard hotkey to set it. Then you’ll be able to restore windows to their preset dimensions after resizing them by pressing that hotkey.
 
@@ -81,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 5. ![The Extract all button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-extract-all-option3.jpg)
 6. Make sure**Show extracted files** is selected within the extraction utility.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Click**Extract** to bring up the WinSize2\_2.38.04 folder.
 
 Now it's time to use WinSize2 to size our windows:
@@ -102,10 +90,6 @@ Now it's time to use WinSize2 to size our windows:
 
 ![The Complete Title of the Window drop-down menu in WinSize2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-wintitle-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The window you set the preset size for will always open with its saved dimensions, so long as WinSize2 is running. Try it out by opening the software, resizing its window, and closing the program. The software’s window will still open at the size set when you launch it again.
 
  You can change the saved width and height values for the window. To do so, click inside the width and height boxes to input different values there. Select**Change** and**OK** to apply the new window size.
@@ -117,10 +101,6 @@ Now it's time to use WinSize2 to size our windows:
  To customize WinSize2’s hotkey for saving windows, click the**Extras-1** tab. Click inside the key box, and press the keyboard buttons for an alternative hotkey. Then select the**OK** option to apply.
 
 ![The define a new Hotkey box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-define-a-hotkey-box.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Open Your Software at Your Preferred Window Sizes
 
@@ -141,22 +121,21 @@ Now it's time to use WinSize2 to size our windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-growth-hackers-guide-the-ultimate-list-of-top-strategies-to-retain-youtube-viewers/"><u>[New] 2024 Approved Growth Hackers Guide The Ultimate List of Top Strategies to Retain YouTube Viewers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-enhancing-online-presence-obs-and-facebook-synergy-for-2024/"><u>[New] Enhancing Online Presence OBS & Facebook Synergy for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-flaunt-your-brand-with-ease-the-top-10-youtube-theme-designers/"><u>[Updated] 2024 Approved Flaunt Your Brand with Ease - The Top 10 YouTube Theme Designers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-optimal-hash-tags-for-youtube-success-story/"><u>[Updated] Optimal Hash Tags for YouTube Success Story</u></a></li>
-<li><a href="https://extra-information.techidaily.com/complete-breakdown-hero4-black-functionality-for-2024/"><u>Complete Breakdown Hero4 Black Functionality for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-windows-functionality-compiling-and-reviewing-reports/"><u>Demystifying Windows Functionality: Compiling & Reviewing Reports</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/experience-next-level-entertainment-with-nvidia-shield-tv-pro-review-gaming-and-more/"><u>Experience Next-Level Entertainment with Nvidia Shield TV Pro Review: Gaming & More</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-reverse-error-80080300-on-microsoft-teams-w11/"><u>Guide to Reverse Error 80080300 on Microsoft Teams, W11</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-foster-community-with-unique-insta-story-questions/"><u>In 2024, Foster Community with Unique Insta Story Questions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-intersecting-realities-metaverse-and-multiverse-differences/"><u>In 2024, Intersecting Realities Metaverse and Multiverse Differences</u></a></li>
-<li><a href="https://win11.techidaily.com/master-file-management-top-windows-strategies-max-156/"><u>Master File Management: Top Windows Strategies (Max 156)</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-high-privilege-commands-on-your-system/"><u>Mastering High-Privilege Commands on Your System</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-boost-security-with-vboxs-secure-boot/"><u>Step-by-Step: Boost Security with VBox's Secure Boot</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-for-ungrouping-taskbar-elements/"><u>Techniques for Ungrouping Taskbar Elements</u></a></li>
-<li><a href="https://win11.techidaily.com/the-clear-winner-in-the-gadget-rivalry-pcs-versus-macs-9/"><u>The Clear Winner in the Gadget Rivalry: PCs Versus Macs (#9)</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-index-configuration-tools/"><u>Understanding Index Configuration Tools</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-apowersoft-audio-recorder-tutorial-and-4-alternatives/"><u>Updated In 2024, Apowersoft Audio Recorder Tutorial and 4 Alternatives</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-creative-starter-kit-no-cost-ae-visual-aids/"><u>[Updated] 2024 Approved Creative Starter Kit No-Cost AE Visual Aids</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-exploring-the-best-tools-for-snapshots-and-video-capture-for-2024/"><u>[Updated] Exploring the Best Tools for Snapshots and Video Capture for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-immersive-worlds-vrs-impact-on-entertainment-for-2024/"><u>[Updated] Immersive Worlds VR's Impact on Entertainment for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-unlock-the-power-of-broadcasts-how-to-master-youtube-and-twitch-using-obs/"><u>[Updated] In 2024, Unlock the Power of Broadcasts How to Master YouTube & Twitch Using OBS</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-dark-display-hack-fixes-and-solutions/"><u>Decoding Windows' Dark Display Hack: Fixes and Solutions</u></a></li>
+<li><a href="https://fox-search.techidaily.com/five-proven-techniques-for-recovering-missing-microsoft-outlook-documents/"><u>Five Proven Techniques for Recovering Missing Microsoft Outlook Documents</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-erroneous-system-calls-on-windows/"><u>Fixing Erroneous System Calls on Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-error-messages-openal32dll-cannot-be-found-on-your-system/"><u>Fixing Error Messages: OpenAL32.DLL Cannot Be Found on Your System</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209876683-9781913192372-grave-doubts/"><u>Grave Doubts | Free Book</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-top-5-best-video-editing-apps-for-iphone/"><u>In 2024, Top 5 Best Video Editing Apps for iPhone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-connectivity-a-step-by-step-approach/"><u>Mastering Windows Connectivity: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-challenges-with-windows-java-setup-process/"><u>Overcoming Challenges with Windows Java Setup Process</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-controller-non-detecting-woes-in-windows/"><u>Overcoming Controller Non-Detecting Woes in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/returning-to-academia-maximize-your-budget-with-samsungs-exclusive-discounts-for-students-laptops-tablets-and-accessories-zdnet/"><u>Returning to Academia? Maximize Your Budget with Samsung’s Exclusive Discounts for Students: Laptops, Tablets & Accessories - ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-erasing-email-from-user-credentials-window/"><u>Securely Erasing Email From User Credentials Window</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-at-mcp-free-old-championship-manager-on-windows/"><u>Winning at MCP: Free Old Championship Manager on Windows</u></a></li>
 </ul></div>
 

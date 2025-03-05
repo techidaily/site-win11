@@ -1,7 +1,7 @@
 ---
 title: "Bootable Windows 11 USB Setup: A Quick, Easy Guide to 3 Methods"
-date: 2024-08-08T13:14:59.409Z
-updated: 2024-08-09T13:14:59.409Z
+date: 2025-02-27T21:53:04.098Z
+updated: 2025-03-04T19:50:26.811Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/ff65255da837891834ddbec118debc41ab0f1d1e5
 ![download windows 11 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/download-windows-11-iso.jpg)
 4. Next, click on the **Download** **Now** button to continue.
 5. The current page will load additional information and show the **Select the product language** section. Click the drop-down for **Choose one** and select your preferred language. Click **Confirm** to continue.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![download windows 11 iso choose language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/download-windows-11-iso-choose-language.jpg)
 6. When the download section loads, click the **64-bit Download** button.  
 ![download windows 11 iso 64 bit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/download-windows-11-iso-64-bit.jpg)
@@ -40,14 +37,8 @@ thumbnail: https://thmb.techidaily.com/ff65255da837891834ddbec118debc41ab0f1d1e5
 
  Once you have the ISO file downloaded, follow one of the methods below to create a Windows 11 bootable USB drive.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 1\. How to Create a Windows 11 Bootable USB Using Rufus
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create windows 11 bootable usb drive with rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/create-windows-11-bootable-usb-drive-with-rufus.png)
 
  Rufus is an open-source utility to format and create a bootable USB flash drive for the Windows operating system. It's a lightweight utility and offers a few more customization options compared to Microsoft's in-house media creation tool.
@@ -82,23 +73,14 @@ thumbnail: https://thmb.techidaily.com/ff65255da837891834ddbec118debc41ab0f1d1e5
 3. Under the **Create Windows 11 Installation Media** section, click the **Download Now** button and save the file to your PC.
 4. Next, run the **Mediacreationtool.exe** file and click **Yes** if prompted by UAC. The tool may take a few seconds to launch, so wait till you see the **Setup wizard.**
 5. Click the **Accept button** to agree to the terms.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![select language and edition Create bootable drive windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/select-langugae-and-edition.png)
 
 1. The media creation tool will automatically select the **Edition** and **Language** to match the current Windows configuration on your PC. To change the language, uncheck **Use the recommended options for this PC** box and select your preferred language from the drop-down menu.
 2. Choose your options and click **Next**.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![choose which media to use Media Creation Tool Bootable Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/choose-which-media-to-use.png)
 3. In the **Choose which media to use** window, select **USB flash** drive.
 4. Click the **Next** button.
 5. Select your USB drive from the list of drives available.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select a usb drive media creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/select-a-usb-drive.png)
 6. Click the **Next** button to continue.
 7. Next, click the **Finish** button.
@@ -142,19 +124,12 @@ thumbnail: https://thmb.techidaily.com/ff65255da837891834ddbec118debc41ab0f1d1e5
 1. To do this, type the following command and hit **Enter** to mount the Windows 11 ISO file:  
 `PowerShell Mount-DiskImage -ImagePath "C:\Users\UserName\Downloads\Win11_English_x64v1.iso"`
 2. In the above command, replace the file path with the location of your Windows 11 ISO.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![cmd list volume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/cmd-list-volume.png)
 3. Once the ISO is mounted, type the following command to launch Diskpart.  
 `Diskpart`
 4. Next, type the following command to show the available volume.  
 `List volume`
 5. This will help you determine the Drive letter for the mounted ISO file. In the **Type column**, the mounted ISO will be listed as **DVD-ROM**. And the **Ltr column** lists the letter associated with the volume. Note down the details of the ISO volume as you will be using it moving forward.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![list volume cmd windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/list-volume-cmd-windows-11.png)
 
 1. Once you have the volume details for the mounted ISO, type the following command to exit Diskpart:  
@@ -166,9 +141,6 @@ thumbnail: https://thmb.techidaily.com/ff65255da837891834ddbec118debc41ab0f1d1e5
 4. Next, type the following command to apply the master boot code compatible with Bootmgr to the USB flash drive:  
 `Bootsect /nt60 I:`
 5. In the above command, replace **I** with the drive letter associated with your USB flash drive.  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![copy iso files to usb drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/copy-iso-files-to-usb-drive.png)
 6. Next, type the following command and hit Enter to copy Windows 11 system files to the USB flash drive:  
 `xcopy J:\*.* I:\ /E /F /H`
@@ -186,12 +158,31 @@ thumbnail: https://thmb.techidaily.com/ff65255da837891834ddbec118debc41ab0f1d1e5
 
  Microsoft makes it easy to create an installation media with its Media Creation Tool. In addition, you can also use Rufus and the Command Prompt to create one. In this guide, we show you the three different ways to create a USB flash drive installer for Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-comedy-kings-the-most-popular-memes/"><u>[New] In 2024, Comedy Kings The Most Popular Memes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-elite-list-of-smartwatches-in-depth-analysis-and-ratings-zdnet/"><u>2024'S Elite List of Smartwatches: In-Depth Analysis and Ratings | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/7-of-our-favorite-note-taking-apps-for-ipad-and-ipad-pro/"><u>7 of Our Favorite Note-Taking Apps for iPad and iPad Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-11s-secrets-to-mac-retrieval/"><u>Decoding Windows 11'S Secrets to MAC Retrieval</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/easy-guide-to-setting-up-and-testing-audio-configuration-in-windows-tips-from-yl-computing/"><u>Easy Guide to Setting Up & Testing Audio Configuration in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/getting-out-the-windows-store-in-win11/"><u>Getting Out the Windows Store in Win11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-pova-5-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-sony-fdr-x1000v-action-camera-complete-review/"><u>In 2024, Sony FDR-X1000V Action Camera Complete Review</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-functionality-snipkey-shortcut-woes/"><u>Restoring Functionality: SnipKey Shortcut Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-network-status-on-disconnected-pc/"><u>Reviving Network Status on Disconnected PC</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-upgrade-for-your-computers-double-click-rate/"><u>Speedy Upgrade for Your Computer's Double Click Rate</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-turn-off-microsofts-assistant/"><u>Strategies to Turn Off Microsoft's Assistant</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-workflow-with-top-videomodding-apps-on-win11/"><u>Streamline Your Workflow With Top Videomodding Apps on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-secrets-of-windows-camera-a-fixers-manual/"><u>Unlock the Secrets of Windows Camera: A Fixer’s Manual</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-excellent-video-creatives/"><u>Unveiling Excellent Video Creatives</u></a></li>
+</ul></div>
 

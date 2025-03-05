@@ -1,7 +1,7 @@
 ---
 title: Removing Visual Elements From Windows Search
-date: 2025-01-28T08:33:05.647Z
-updated: 2025-02-04T01:36:09.929Z
+date: 2025-03-02T04:12:38.610Z
+updated: 2025-03-04T23:49:07.101Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Are There Pictures in Your Search Box?
 
  The illustrations in the search bar are a part of the "Search Highlights" feature that Microsoft introduced beforehand. When you hover your cursor over the illustration or click it, you will see relevant content and images.
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
  This content is typically related to the illustrations on display. For instance, if you see a boots icon on the taskbar, the content is most likely going to be related to hiking, trails, or something similar. The pop-up window will then show options like trials near you, hiking tips, and tent shops.
 
  This information is different for both organizations and regular users. If you are signed in to Windows using your work account, you will see information regarding your organization and its employees. On your home PC, you'll see more generic informational content.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Disable the Illustrations in Windows Search Icons
 
@@ -50,10 +42,6 @@ Here is how you can do that:
 1. Right-click in an empty space on your taskbar.
 2. Choose**Search** \>**Show Search Highlights** .  
 ![Taskbar menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/search-highlights-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you have unchecked the Search highlights option, the illustrations will disappear immediately. If this does not work for you, you can also[use the Group Policy to disable search highlights](https://www.makeuseof.com/windows-10-remove-search-highlights/) .
 
@@ -66,19 +54,11 @@ If you are a Windows 11 user, you can use these steps as well:
 ![Search permissions option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/search-permissions.jpg)
 3. Head over to the More settings section and turn the toggle off for**Show search highlights** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Search Highlights toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/show-search-highlights-1.jpg)
 
  Alternatively, you can also press the Win + S keys together to open the Windows Search utility. Click on the three-dot icon and choose**Search settings** . Once the Settings window launches, you can scroll down to the More settings section and disable**Show search highlights** .
 
 ![Access the Search settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Search Illustrations, Solved
 
@@ -99,24 +79,24 @@ If you are a Windows 11 user, you can use these steps as well:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-creating-a-seamless-virtual-workspace-slack-filmora-combo-for-teams/"><u>[Updated] 2024 Approved Creating a Seamless Virtual Workspace Slack-Filmora Combo for Teams</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-a-year-in-the-market-top-15-finance-videos/"><u>[Updated] A Year in the Market Top 15 Finance Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-ensuring-privacy-4-steps-to-safely-log-fb-calls/"><u>2024 Approved Ensuring Privacy 4 Steps to Safely Log FB Calls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bandwidth-breakdown-4-ways-to-measure-your-ethernets-pace/"><u>Bandwidth Breakdown: 4 Ways to Measure Your Ethernet's Pace</u></a></li>
-<li><a href="https://article-posts.techidaily.com/dive-into-editing-a-complete-look-at-final-cut-pro-for-2024/"><u>Dive Into Editing A Complete Look at Final Cut Pro for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-unzip-several-zips-at-once-in-windows/"><u>Efficiently Unzip Several ZIPs at Once in Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-creativity-with-top-ai-enhanced-pdf-tools/"><u>Effortless Creativity with Top AI-Enhanced PDF Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/expedited-troubleshoot-utility-access-via-windows-hotkey-setups/"><u>Expedited Troubleshoot Utility Access via WIndows Hotkey Setups</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-g22-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from G22?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-switch-off-sound-amplification-and-effects-on-windows-11/"><u>How to Switch Off Sound Amplification and Effects on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/identifying-older-windows-systems-quickly/"><u>Identifying Older Windows Systems Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/master-swift-keystrokes-through-powertoys-use/"><u>Master Swift Keystrokes Through PowerToys Use</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-your-surfing-adding-trusted-websites/"><u>Secure Your Surfing: Adding Trusted Websites</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocketing-back-to-basics-three-windows-restarts/"><u>Skyrocketing Back to Basics: Three Windows Restarts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-strategies-selecting-comparing-and-acquiring-the-ideal-televisions-for-your-household/"><u>Step-by-Step Strategies: Selecting, Comparing & Acquiring the Ideal Televisions for Your Household</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-quick-repair-of-call-failed-on-windows-1011/"><u>Strategies for Quick Repair of 'Call Failed' On Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/top-10-fixes-fbm-stuck-in-windows-interface/"><u>Top 10 Fixes: FBM Stuck in Windows Interface</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/troubleshooting-unrecognized-devices-solutions-from-yl-computing-and-software/"><u>Troubleshooting Unrecognized Devices: Solutions From YL Computing & Software</u></a></li>
-<li><a href="https://win11.techidaily.com/whisper-mode-diminishing-windows-11-activity/"><u>Whisper Mode: Diminishing Windows 11 Activity</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-curated-list-dj-video-sources-at-your-fingertips/"><u>[Updated] 2024 Approved Curated List DJ Video Sources at Your Fingertips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-full-time-employees-guide-to-video-content-success-for-2024/"><u>[Updated] The Full-Time Employee's Guide to Video Content Success for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-online-sources-for-high-quality-vector-illustrations/"><u>[Updated] Top Online Sources for High-Quality Vector Illustrations</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-k70-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Xiaomi Redmi K70</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-cheap-traps-the-realities-of-inferior-windows-activation-codes/"><u>Avoid Cheap Traps: The Realities of Inferior Windows Activation Codes</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-the-fatal-javascript-issue-on-windows-11s-discord-app/"><u>Easing the Fatal Javascript Issue on Windows 11'S Discord App</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-valorant-gameplay-fps-fixes-and-tips/"><u>Elevate Valorant Gameplay: FPS Fixes and Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/esd-files-demystified-creating-iso-versions-for-windows-systems/"><u>ESD Files Demystified: Creating ISO Versions for Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-through-win11s-network-settings/"><u>Guiding Through Win11's Network Settings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-your-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Identify missing your drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-8-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 8 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-switch-for-regedit-on-win11/"><u>Mastering the Switch for RegEdit on Win11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/premier-external-hard-drive-choices-for-xbox-for-2024/"><u>Premier External Hard Drive Choices for Xbox for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-sensations-unveiled-dive-into-facebook-tweets-gram-and-tube/"><u>Social Sensations Unveiled - Dive Into Facebook, Tweets, Gram, and Tube!</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-not-writable-file-problems-in-windows-11/"><u>Solutions for Not Writable File Problems in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-microsoft-store-access-on-windows-11/"><u>Troubleshooting Microsoft Store Access on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/twinkling-tokens-gifting-windows-games-via-mstore/"><u>Twinkling Tokens: Gifting Windows Games via MSTORE</u></a></li>
 </ul></div>
 

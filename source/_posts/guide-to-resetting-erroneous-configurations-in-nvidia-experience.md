@@ -1,7 +1,7 @@
 ---
 title: Guide to Resetting Erroneous Configurations in NVIDIA Experience
-date: 2025-02-02T16:16:25.365Z
-updated: 2025-02-03T19:29:28.225Z
+date: 2025-03-02T17:49:05.239Z
+updated: 2025-03-04T20:22:57.237Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run GeForce Experience With Administrative Rights
 
  A few players have said running GeForce Experience with admin rights resolved the “Unable to retrieve settings” error for them. So, that’s a simple resolution worth trying. To see if that works for you, bring up the Windows search tool and input GeForce Experience. Then right-click the GeForce Experience search result to select **Run as administrator**.
@@ -49,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
 ![The Remove button for scan locations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-button.jpg)
 5. Press the **Scan Now** button to rescan.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Delete the CefCache Folder
 
  CefCache is a GeForce Experience folder that stores cached data. GeForce Experience optimization issues can arise when that cache includes corrupted configuration files. You might be able to resolve the “Unable to retrieve settings” error by deleting the CafCache folder like this:
@@ -63,22 +55,10 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
 ![The CefCache folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/cefcache-folder.jpg)
 3. Right-click the **CefCache** folder to select **Delete**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-button.jpg)
 4. Then launch the GeForce Experience software.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Input your GeForce Experience account details again and click **Log In**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Restore Default NVIDIA 3D Settings
 
@@ -89,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
 3. Click **Restore** on the **Global Settings** tab.  
 ![The Restore button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/restore-button.jpg)
 4. Select **Yes** to reset the settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Delete the Steam User Data
 
@@ -114,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
  The Temp folder stores temporary files. GeForce Experience users confirm deleting data in that Temp folder can fix the “Unable to retrieve settings” issue. So, try eradicating data in that folder with one of the methods in our guide to [deleting temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/)[in Windows 11](http://www.makeuseof.com/windows-11-delete-temporary-files/).
 
 ![disk-cleanup-tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disk-cleanup-tool.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Install the Latest NVIDIA Driver for Your GPU
 
@@ -159,14 +131,24 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-unlocking-your-creative-potential-without-spending/"><u>[New] In 2024, Unlocking Your Creative Potential Without Spending</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-obs-temporal-control-initiating-countdown-features-seamlessly/"><u>[Updated] In 2024, OBS Temporal Control Initiating Countdown Features Seamlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/delving-into-windows-memory-management-via-pagefilesys/"><u>Delving Into Windows' Memory Management via Pagefile.sys</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-lava-yuva-2-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Lava Yuva 2.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ingredient-list-essentials-for-clean-gpu-driver-installation/"><u>Ingredient List: Essentials for Clean GPU Driver Installation</u></a></li>
-<li><a href="https://win11.techidaily.com/rapid-data-access-on-windows-via-everythingapp/"><u>Rapid Data Access on Windows, via EverythingApp</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-older-pcs-boot-images/"><u>Reviving Older PCs' BOOT Images</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-restore-functional-file-transfer-in-chrome-windows/"><u>Steps to Restore Functional File Transfer in Chrome, Windows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/toda-informacao-essencial-sobre-como-converter-dvds-em-videos-digitais-uma-guia-completa/"><u>Toda Informação Essencial Sobre Como Converter DVDs Em Vídeos Digitais: Uma Guia Completa</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-essential-iphoneandroid-apps-for-aspiring-creators/"><u>[Updated] 2024 Approved Essential iPhone/Android Apps for Aspiring Creators</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-best-practices-for-uploading-windows-media-content-to-vimeo/"><u>[Updated] Best Practices for Uploading Windows Media Content to Vimeo</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-shuttered-creations-sudden-delete-incidents/"><u>[Updated] In 2024, Shuttered Creations Sudden Delete Incidents</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-disabled-windows-firewall-4-methods-explored/"><u>Bypassing Disabled Windows Firewall: 4 Methods Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/configure-windows-apps-with-personalized-keys/"><u>Configure Windows Apps with Personalized Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/digging-deep-into-digital-details-step-by-step/"><u>Digging Deep Into Digital Details, Step by Step</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-steps-to-resolve-lagging-and-connections-in-new-world-update/"><u>Easy Steps to Resolve Lagging & Connections in 'New World' Update</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-a-brief-guide-to-download-install-and-use-ez-grabber/"><u>In 2024, A Brief Guide to Download, Install, and Use EZ Grabber</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-humorous-file-downloader-examination/"><u>In 2024, Humorous File Downloader Examination</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-master-higher-rankings-on-yt-the-best-seo-tips-and-tricks-1-11/"><u>In 2024, Master Higher Rankings on YT The Best SEO Tips and Tricks (1-11)</u></a></li>
+<li><a href="https://win11.techidaily.com/prose-perfection-on-a-windows-desktop-the-top-5-picks/"><u>Prose Perfection on a Windows Desktop - The Top 5 Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-error-no-audio-output-on-win-10-devices/"><u>Tackling Error: No Audio Output on Win 10 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-halting-windows-boot-straight-into-cmos-setup/"><u>Techniques for Halting Windows Boot Straight Into CMOS Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/transformative-tips-for-a-productive-win-11-bar/"><u>Transformative Tips for a Productive Win 11 Bar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-overcome-your-pcs-perpetual-startup-loop/"><u>Troubleshooting: Overcome Your PC's Perpetual Startup Loop</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/turbo-testing-our-compreenas-five-best-racing-games/"><u>Turbo Testing Our Compreenas Five Best Racing Games</u></a></li>
+<li><a href="https://win11.techidaily.com/uncovering-and-mitigating-windows-pause-problems/"><u>Uncovering and Mitigating Windows Pause Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/wu-and-orchestrator-the-pillars-of-update-routine/"><u>WU & Orchestrator: The Pillars of Update Routine</u></a></li>
 </ul></div>
 

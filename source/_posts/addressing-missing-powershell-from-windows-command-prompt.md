@@ -1,7 +1,7 @@
 ---
 title: Addressing Missing PowerShell From Windows Command Prompt
-date: 2024-08-08T13:12:53.018Z
-updated: 2024-08-09T13:12:53.018Z
+date: 2025-02-28T16:18:29.119Z
+updated: 2025-03-05T01:39:57.099Z
 tags:
   - windows10
   - windows11
@@ -20,15 +20,6 @@ thumbnail: https://thmb.techidaily.com/e7857315bad256fdc5741086fa363d0007b6f6fca
 
  If you use PowerShell frequently, it can be aggravating when Windows cannot find it. Thankfully, it’s possible to restore the missing PowerShell with a few troubleshooting tips. In this post, we'll walk you through all of them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## 1\. Make Sure Windows PowerShell Is Enabled
 
  On Windows, you can enable or disable optional features and programs from the Control Panel. To start, you need to ensure that PowerShell isn’t disabled on your computer. Here’s how to check.
@@ -41,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/e7857315bad256fdc5741086fa363d0007b6f6fca
 6. When the User Account Control (UAC) prompt appears, select**Yes** to continue.
 7. In the Windows Features dialog, locate**Windows PowerShell** and select its checkbox.
 8. Click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-PowerShell-on-Windows.jpg)
 
  Restart your computer after this (see [how to restart a Windows computer](https://www.makeuseof.com/windows-restart-methods/) ) and then try to launch PowerShell using the search menu.
@@ -52,20 +40,10 @@ thumbnail: https://thmb.techidaily.com/e7857315bad256fdc5741086fa363d0007b6f6fca
 
  If you are unable to open PowerShell via the search menu, you can try using the Run dialog box. Press**Win + R** to open the Run dialog. Type**powershell** in the box and press**Enter** . If you want to launch PowerShell with admin rights, press**Ctrl + Shift + Enter** instead.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open PowerShell via Run Command on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-PowerShell-via-Run-Command-on-Windows.jpg)
 
  You can also open PowerShell from the File Explorer address bar. To do so, press**Win + E** to open File Explorer. Type**PowerShell** in the address bar and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 3\. Create a Desktop Shortcut for PowerShell
 
  Windows may fail to open PowerShell if it does not know the exact file path to the PowerShell executable file. If that’s the case, you can manually locate the PowerShell executable file on your computer and create a desktop shortcut for it. Here are the steps for doing the same.
@@ -113,9 +91,6 @@ To update PowerShell on Windows:
 3. When the User Account Control (UAC) prompt shows up, select**Yes** .
 4. Type the following command and press**Enter** .  
 `winget install --id Microsoft.Powershell --source winget`  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Update PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-PowerShell-on-Windows.jpg)
 
  Windows will download and install the most recent version of PowerShell. Following that, you should be able to access PowerShell.
@@ -137,23 +112,17 @@ To create a new user account on Windows, use these steps.
 
  Sign in with your newly created account, and see if Windows can find PowerShell now.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Access Windows PowerShell Again
 
  Hopefully, one of the above fixes has proven useful, and you're able to access PowerShell once again. If not, you may have to consider resetting your Windows computer as a last resort.
 
  PowerShell isn't the only command-line tool available on Windows. You can also use the Command Prompt to communicate with your system.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,6 +131,22 @@ To create a new user account on Windows, use these steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-windows-way-to-pluck-visuals-from-videos/"><u>[New] 2024 Approved Window's Way to Pluck Visuals From Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-clear-screening-for-focused-online-participation/"><u>[Updated] Clear Screening for Focused Online Participation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-journey-through-youtubes-spectacular-vr-realms/"><u>[Updated] In 2024, Journey Through YouTube's Spectacular VR Realms</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-screenplay-foundations-a-guide/"><u>[Updated] In 2024, Screenplay Foundations A Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-playlist-portability-service-to-service-swap/"><u>[Updated] The Art of Playlist Portability Service to Service Swap</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-for-ms-store-crash-error-code-0x0-on-windows-devices/"><u>Fix for MS Store Crash (Error Code 0X0) on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-file-writing-problems-in-windows-11/"><u>Fixing File Writing Problems in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-gpresult-to-generate-gpo-data/"><u>Harnessing GPResult to Generate GPO Data</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-poco-c51-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Poco C51 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/showcasing-self-with-instagram-a-collection-of-100-captions-for-2024/"><u>Showcasing Self with Instagram A Collection of 100 Captions for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-tackling-itbm-missing-driver-problems-swiftly/"><u>Step-by-Step Guide to Tackling ITBM Missing Driver Problems Swiftly</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-fixing-the-persistent-0xf0831-issue/"><u>Strategies for Fixing the Persistent 0XF0831 Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-optimize-your-pcs-storage-space/"><u>Tips to Optimize Your PC's Storage Space</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/top-ranking-mobile-video-format-tips-for-ios-and-android-devices/"><u>Top-Ranking Mobile Video Format Tips for iOS & Android Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unresponsive-windows-start-button-quick-solutions/"><u>Troubleshooting: Unresponsive Windows Start Button - Quick Solutions</u></a></li>
+</ul></div>
 

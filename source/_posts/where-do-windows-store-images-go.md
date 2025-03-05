@@ -1,7 +1,7 @@
 ---
 title: Where Do Windows Store Images Go?
-date: 2025-01-05T17:09:32.478Z
-updated: 2025-01-06T17:25:21.347Z
+date: 2025-02-28T03:39:21.190Z
+updated: 2025-03-04T22:29:26.078Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -66,19 +62,11 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 
  Make sure you select a location you can easily remember so you don't forget where you placed it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Xbox Game Bar (Windows Key + G)
 
  You can find where the Xbox Game Bar saves your screenshots by heading to **This PC > Local Disk (C:) > Users > \[your username\] > Videos > Captures**.
 
 ![The Captures folder highlighted in the Videos folder on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/captures-folder-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the file path, replace **\[your username\]** with the name of the user account you've logged into. That means if the account username is Jack, then the file path will be **This PC > Local Disk (C:) > Users > Jack > Videos > Captures**.
 
@@ -86,19 +74,11 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 
 ![The Game Bar menu and Capture widget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/game-bar-widgets-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Game Bar's gallery, click on the folder icon in the top-right corner of the left panel.
 
 ![The Game Bar gallery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gallery-game-bar-windows.jpg)
 
  In the pop-up, click **Continue**, and it will open the folder with the screenshots.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Where Do Windows Screenshots Go When Using Third-Party Tools?
 
@@ -122,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 
 ![A screenshot in the Recent section of the File Explorer Home tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/file-explorer-home-recent.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Another thing you can do, on top of looking in the **Pictures** and **Documents** folders, is [check the installation location of the program](https://www.makeuseof.com/windows-ways-to-find-programs-install-location/) you use for screenshots. Look for folders with names like **Screenshots** or **Captures**. Using Windows Search for these common terms could help you locate them.
 
  Once you find the folder where the screenshots are, you may wish to note the file path in the Sticky Notes app. Alternatively, you can right-click the folder and select **Pin to Quick Access**. This will make it easier to remember where your Windows screenshots go.
@@ -140,19 +116,24 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-defining-your-visual-and-stylistic-identity-high-relevance/"><u>[New] 2024 Approved Defining Your Visual and Stylistic Identity [High Relevance]</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nalyzing-the-income-generated-by-every-youtube-viewer-for-2024/"><u>[New] Analyzing the Income Generated by Every YouTube Viewer for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-mac-audio-lab-a-comprehensive-guide-for-2024/"><u>[New] Mac Audio Lab A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-dji-sky-artistry-experiment-with-color-filters-at-zero-cost/"><u>[Updated] 2024 Approved DJI Sky Artistry - Experiment with Color Filters at Zero Cost</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-limitless-video-snipping-program/"><u>[Updated] 2024 Approved Limitless Video Snipping Program</u></a></li>
-<li><a href="https://win11.techidaily.com/deceptive-aesthetics-real-speed-problems-in-windows-11-pcs/"><u>Deceptive Aesthetics, Real Speed Problems in Windows 11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-6-windows-computers-tracking-apps-unveiled/"><u>Essential 6 Windows Computers Tracking Apps Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-unusable-compatibility-center-on-vista7-pcs-fast/"><u>Fix Unusable Compatibility Center on Vista/7 PCs Fast!</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-blueprinting-breathtaking-cinematic-sketches/"><u>In 2024, Blueprinting Breathtaking Cinematic Sketches</u></a></li>
-<li><a href="https://win11.techidaily.com/making-the-most-of-your-audio-settings-in-windows-11/"><u>Making the Most of Your Audio Settings in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-keyboards-in-windows-11-minimize-lag-time/"><u>Master Your Keyboards in Windows 11: Minimize Lag Time</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-smoother-quick-fixes-for-laggy-wow-battlefront/"><u>Navigate Smoother: Quick Fixes for Laggy WoW Battlefront</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pivotal-processes-for-privacy-preserving-photography/"><u>Pivotal Processes for Privacy-Preserving Photography</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-widespread-connectivity-problem-in-steam-windows-11/"><u>Resolving Widespread Connectivity Problem in Steam Windows 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-breaking-down-the-fundamentals-of-mixed-reality-for-2024/"><u>[New] Breaking Down the Fundamentals of Mixed Reality for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-expertise-in-editing-how-to-add-descriptive-texts-to-videos-for-2024/"><u>[New] Expertise in Editing How to Add Descriptive Texts to Videos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-speak-slide-and-convince-the-vo-powerpoint-pathway-for-2024/"><u>[New] Speak, Slide & Convince - The VO Powerpoint Pathway for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-achieving-content-balance-a-thorough-exploration-of-yt-aspect-ratios/"><u>[Updated] 2024 Approved Achieving Content Balance A Thorough Exploration of YT Aspect Ratios</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-fast-techniques-to-recover-deleted-reddit-posts/"><u>2024 Approved Fast Techniques to Recover Deleted Reddit Posts</u></a></li>
+<li><a href="https://win11.techidaily.com/5-creative-ways-to-transform-windows-for-a-mac-appearance/"><u>5 Creative Ways to Transform Windows for a Mac Appearance</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-disabled-windows-accounts-after-fails/"><u>Bypassing Disabled Windows Accounts After Fails</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-access-the-key-to-your-windows-11-folder/"><u>Conquering Access: The Key to Your Windows 11 Folder</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-diaries-7-excelent-notetakers-for-pcs-and-slate/"><u>Digital Diaries: 7 Excelent Notetakers for PCs & Slate</u></a></li>
+<li><a href="https://win11.techidaily.com/from-concept-to-reality-paving-new-ways-in-windows-11-widgets/"><u>From Concept to Reality: Paving New Ways in Windows 11 Widgets</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-ace-2v-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Ace 2V If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 8 3 Ways To Unlock</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-pace-perfection-snappy-windows-11-image-tips/"><u>In 2024, Pace Perfection Snappy Windows 11 Image Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/no-window-no-problem-master-the-art-of-reviving-hidden-apps-on-win-1011-with-6-tactics/"><u>No Window, No Problem! Master the Art of Reviving Hidden Apps on Win 10/11 with 6 Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefining-assistance-four-new-options-post-cortana/"><u>Redefining Assistance: Four New Options Post-Cortana</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-silent-speaker-issue-in-win11-environments/"><u>Resolving Silent Speaker Issue in Win11 Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-embedding-app-shortcuts-in-windows-11/"><u>Step-by-Step Guide to Embedding App Shortcuts in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-remove-programs-without-permission-in-windows/"><u>Steps to Remove Programs Without Permission in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-model-code-of-your-apple-macbook-expert-tips-and-tricks/"><u>Unveiling the Model Code of Your Apple MacBook: Expert Tips & Tricks</u></a></li>
 </ul></div>
 

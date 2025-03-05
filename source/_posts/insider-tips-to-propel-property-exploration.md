@@ -1,7 +1,7 @@
 ---
 title: Insider Tips to Propel Property Exploration
-date: 2025-02-12T23:43:08.501Z
-updated: 2025-02-15T23:06:13.033Z
+date: 2025-02-27T23:26:04.651Z
+updated: 2025-03-04T18:43:54.108Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
  Here are some easy ways to view the file or folder properties on a Windows PC. These methods will work for Windows 11 and older versions of Windows OS too.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Using the Keyboard Shortcut
 
  You can view the file properties using the pre-defined shortcut keys on Windows. Here’s how to do it:
@@ -48,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
 1. Open the File Explorer app and navigate to the folder location.
 2. Now, hold the**Alt** key and**double-click** on the file to display its properties.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Using the Context Menu
 
@@ -76,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 ![View File Properties using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-file-explorer.jpg)
 5. The Properties window will launch on your system. Press**Alt + F4** to close it after you no longer need it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Using the CMD Tool
 
  The above-mentioned shortcuts launch the Properties window which shows the GUI version of File Properties. But, you can also view the properties of a folder or file using the command prompt on Windows. Repeat the following steps to view file properties using the command prompt utility:
@@ -91,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 ![View File Properties using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-cmd.jpg)
 5. Scroll down to check the file properties such as size, creation date, and more attributes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Using PowerShell
 
  PowerShell has a different command to display folder or file properties. Like the CMD command, it also displays the file properties inside the shell in text format.
@@ -104,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 3. Replace “**File Path** ” with the actual storage location like you did in the fifth method.  
 ![View File Properties using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-powershell.jpg)
 4. Press the**Enter** key to execute the command.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Quickly View File or Folder Properties on Windows
 
@@ -128,22 +108,19 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-brilliant-asus-monitor-ultrahd-true-black/"><u>[New] Brilliant Asus Monitor UltraHD, True Black</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-master-list-of-premium-9-multi-platform-video-communication-apps/"><u>[Updated] In 2024, Master List of Premium 9 Multi-Platform Video Communication Apps</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/comparing-strategies-how-backups-and-archives-serve-unique-roles-in-data-preservation/"><u>Comparing Strategies: How Backups and Archives Serve Unique Roles in Data Preservation</u></a></li>
-<li><a href="https://win11.techidaily.com/deceptive-aesthetics-real-speed-problems-in-windows-11-pcs/"><u>Deceptive Aesthetics, Real Speed Problems in Windows 11 PCs</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/effortless-creation-and-publishing-of-ibooks-for-ipad-using-flippdf-builder-on-mac/"><u>Effortless Creation & Publishing of iBooks for iPad Using FlipPDF Builder on Mac</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-6-windows-computers-tracking-apps-unveiled/"><u>Essential 6 Windows Computers Tracking Apps Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-unusable-compatibility-center-on-vista7-pcs-fast/"><u>Fix Unusable Compatibility Center on Vista/7 PCs Fast!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-lava-storm-5g-easily-by-drfone-android/"><u>How To Unlock a Lava Storm 5G Easily?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-itel-p55plus-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Itel P55+ Activity | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-s17e-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo S17e Location | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/making-the-most-of-your-audio-settings-in-windows-11/"><u>Making the Most of Your Audio Settings in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-keyboards-in-windows-11-minimize-lag-time/"><u>Master Your Keyboards in Windows 11: Minimize Lag Time</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-smoother-quick-fixes-for-laggy-wow-battlefront/"><u>Navigate Smoother: Quick Fixes for Laggy WoW Battlefront</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-complete-tutorial-on-augmenting-android-video-projects-with-essential-audioscapes/"><u>New In 2024, The Complete Tutorial on Augmenting Android Video Projects with Essential Audioscapes</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-steps-for-reinstating-a-hidden-windows-service/"><u>Quick Steps for Reinstating a Hidden Windows Service</u></a></li>
-<li><a href="https://fox-that.techidaily.com/siri-malfunction-solutions-key-steps-to-restore-voice-command-functionality-on-your-apple-device/"><u>Siri Malfunction Solutions: Key Steps to Restore Voice Command Functionality on Your Apple Device</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-performance-intel-network-driver-enhancement/"><u>Unlocking Performance: Intel Network Driver Enhancement</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-revealing-the-ultimate-collection-of-youtube-beauty-experts/"><u>[New] In 2024, Revealing the Ultimate Collection of YouTube Beauty Experts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nveiling-the-must-have-gear-for-new-youtubers-for-2024/"><u>[New] Unveiling the Must-Have Gear for New YouTubers for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-novices-selection-guide-to-ideal-filming-cameras/"><u>[Updated] Novice's Selection Guide to Ideal Filming Cameras</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/complete-guide-how-to-get-your-warzone-audio-working-perfectly-on-any-device/"><u>Complete Guide: How to Get Your Warzone Audio Working Perfectly on Any Device</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-doodling-on-windows-11-bring-your-desktop-to-life/"><u>Digital Doodling on Windows 11: Bring Your Desktop to Life</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellent-office-mats-and-their-benefits/"><u>Excellent Office Mats and Their Benefits</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/forgot-your-ios-passcode-learn-how-to-factory-reset-and-start-fresh/"><u>Forgot Your iOS Passcode? Learn How to Factory Reset and Start Fresh</u></a></li>
+<li><a href="https://win11.techidaily.com/got-a-windows-problem-heres-how-to-get-help/"><u>Got a Windows Problem? Here's How to Get Help</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tricks-for-bypassing-wrong-password-in-win-11/"><u>Quick Tricks for Bypassing ‘Wrong Password’ in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-taskbar-button-image-functionality/"><u>Restoring Taskbar Button Image Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-linking-win-key-and-microsoft-identity/"><u>Securely Linking Win Key and Microsoft Identity</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-insiders-approach-leveraging-luts-in-adobe-premiere-projects-for-2024/"><u>The Insider's Approach Leveraging LUTs in Adobe Premiere Projects for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-dominance-of-samsung-galaxy-s21-ultra-a-benchmark-for-top-tier-android-phones/"><u>Unveiling the Dominance of Samsung Galaxy S21 Ultra: A Benchmark for Top-Tier Android Phones</u></a></li>
 </ul></div>
 

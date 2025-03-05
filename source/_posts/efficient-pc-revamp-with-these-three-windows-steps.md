@@ -1,7 +1,7 @@
 ---
 title: Efficient PC Revamp with These Three Windows Steps
-date: 2025-02-13T19:23:13.583Z
-updated: 2025-02-16T03:11:27.953Z
+date: 2025-02-28T23:50:04.917Z
+updated: 2025-03-05T02:35:38.029Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Before You Reset Windows, Make Sure You Back Up
 
  Before we look at how to factory reset Windows, you should ensure you have a recent backup of your data. Performing a factory reset will wipe out all your installed programs, and in some cases, your files. You don't want to leave anything behind.
@@ -46,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
  If you're on Windows 11, head to **Settings > System > Recovery**. Click **Reset PC** next to **Reset this PC** to get started. The steps from here are the same for Windows 11 and Windows 10\. If you run into trouble, see how to [factory reset Windows 11 without an admin password](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/).
 
 ![Reset This PC Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Reset-This-PC-Windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Keep Your Files or Remove Everything?
 
@@ -99,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 
  Make sure you [take the recommended steps after reinstalling Windows 10](https://www.makeuseof.com/tag/post-installation-windows-10/) if you're sticking with that OS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Reinstall Windows Manually Using Windows Installation Media
 
  If you're not using Windows 10 or 11, want to factory reset Windows 10 or 11 without the Settings menu, or don't want to use the other methods for some reason, you can always factory reset Windows using installation media. This allows you to install a fresh copy of Windows on your computer and wipe out everything currently on it.
@@ -113,19 +101,11 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 
 ![Create installation media for Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/muo-windows-install-usb-media2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need to reinstall Windows 8.1 from scratch for some reason, you can use [Microsoft's Windows 8.1 download tool](https://www.microsoft.com/en-us/software-download/windows8ISO). This lets you download an [ISO to burn onto a flash drive](https://www.makeuseof.com/tag/10-tools-make-bootable-usb-iso-file/) or DVD so you can reinstall Windows. Simply insert the USB drive or disc containing your installation media, then [boot from the removable device](https://www.makeuseof.com/tag/how-to-change-the-boot-order-on-your-pc-so-you-can-boot-from-usb/). You'll be greeted with the Windows setup screen, which you can proceed through to install a clean copy. Remember that doing this will remove everything currently on the drive where you install Windows.
 
  Since Windows 7 has been out of support for years, Microsoft no longer offers an official Windows 7 download. We recommend that you [upgrade to a modern version of Windows](https://www.makeuseof.com/why-you-shouldnt-use-old-windows/); don't download Windows 7 from a random website, as it may contain malware.
 
  Note that the methods in #1 above allow you to reinstall Windows in effectively the same way without manually creating a USB installer, so they're much more convenient.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Factory Reset Windows 10 or 11 From Boot Using Advanced Methods
 
@@ -140,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
  Once Advanced Startup is open, choose **Troubleshoot**, then select **Reset This PC** to walk through nearly the same factory reset procedure as #1 above. You can pick **Advanced options** for more choices, but none of them let you factory reset Windows 10 or 11 unless you have a saved system image.
 
 ![advanced recovery option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/troubleshoot-options-reset-this-PC.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Otherwise, you may be able to boot into the BIOS and directly load the recovery partition on your hard drive, if your PC manufacturer included one. However, if you factory reset with this method, you'll reinstall all the manufacturer bloatware. While it's not ideal, it can work if you have no other options.
 
@@ -179,17 +155,24 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-revival-of-obs-camera-achieved/"><u>[New] 2024 Approved Revival of OBS Camera Achieved</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/dobe-premiere-power-enhancing-your-youtube-presence-for-2024/"><u>[New] Adobe Premiere Power Enhancing Your YouTube Presence for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-visualquilt-maker-macos-photoplusvideo-display/"><u>[Updated] In 2024, VisualQuilt Maker MacOS Photo+Video Display</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-mobile-and-professional-camera-capture-for-impressive-igtv/"><u>[Updated] Mastering Mobile and Professional Camera Capture for Impressive IGTV</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-optimize-your-videos-the-quick-thumbnail-guide/"><u>2024 Approved Optimize Your Videos The Quick Thumbnail Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-restricted-access-opening-closed-folders-in-microsoft-email/"><u>Disabling Restricted Access: Opening Closed Folders in Microsoft Email</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-access-denied-issue-when-uninstalling-software/"><u>Fixing Access Denied Issue when Uninstalling Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/master-the-art-of-mp4-motion-modulation-for-2024/"><u>Master the Art of MP4 Motion Modulation for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-performance-understanding-16gb-windows-pcs/"><u>Optimizing Performance: Understanding 16GB Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-critical-missing-components-alert-in-windows-os/"><u>Overcoming Critical Missing Components Alert in Windows OS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-next-level-of-vr-gaming-with-psvr2-key-info-on-price-tag-spec-sheets-and-arrival-date/"><u>The Next Level of VR Gaming with PSVR2 - Key Info on Price Tag, Spec Sheets & Arrival Date</u></a></li>
-<li><a href="https://win11.techidaily.com/the-windows-wrangler-guide-which-is-best-for-screen-capture/"><u>The Window's Wrangler Guide: Which Is Best for Screen Capture?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-ranked-techniques-for-capturing-online-sport-spectacles/"><u>[New] In 2024, Top-Ranked Techniques for Capturing Online Sport Spectacles</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-transform-your-igtv-videos-with-top-10-video-editors/"><u>[New] In 2024, Transform Your IGTV Videos with Top 10 Video Editors</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-essential-list-of-8-authentic-youtube-boosters/"><u>[New] The Essential List of 8 Authentic YouTube Boosters</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-roadmap-for-successful-online-brand-collaborations-on-youtube/"><u>[Updated] In 2024, The Roadmap for Successful Online Brand Collaborations on Youtube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-spectacular-10-royale-skirmishes/"><u>2024 Approved Spectacular 10 Royale Skirmishes</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-addressing-steam-auth-timeout-on-windows-with-rust-coding/"><u>Deciphering and Addressing Steam Auth Timeout on Windows with Rust Coding</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-gaming-devices-a-windows-approach-to-testing/"><u>Fine-Tuning Gaming Devices: A Windows Approach to Testing</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-online-screen-mirroring-connect-your-pc-or-mac-to-tv-without-cost/"><u>Free Online Screen Mirroring: Connect Your PC or Mac to TV Without Cost</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-motorola-razr-40-ultra-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Motorola Razr 40 Ultra FRP Locks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-tecno-camon-20-premier-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Tecno Camon 20 Premier 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-efficiency-navigating-windows-files-without-ls-command/"><u>Maximizing Efficiency: Navigating Windows Files without LS Command</u></a></li>
+<li><a href="https://win11.techidaily.com/method-to-handle-unavailable-files-on-windows-oses-150-chars/"><u>Method to Handle 'Unavailable' Files on Windows OSes (150 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-password-change-windows-11-tutorial/"><u>Navigating Password Change: Windows 11 Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-entry-to-windows-shared-directories/"><u>Regain Entry to Windows Shared Directories</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secure-saving-of-display-configurations-in-win-7-10-editions-settled/"><u>Secure Saving of Display Configurations in WIN 7-10 Editions [Settled]</u></a></li>
+<li><a href="https://win11.techidaily.com/speeding-up-wake-up-sequence-windows-11-boot-timer-control/"><u>Speeding Up Wake-Up Sequence: Windows 11 Boot Timer Control</u></a></li>
+<li><a href="https://win11.techidaily.com/the-photographers-shield-preventing-windows-camera-problems/"><u>The Photographer’s Shield: Preventing Windows Camera Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/winerror-hackers-the-essential-10-tool-list/"><u>WinError Hackers: The Essential 10-Tool List</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-live-gold-transforms-into-essential-game-pass-access/"><u>Xbox Live Gold Transforms Into Essential Game Pass Access</u></a></li>
 </ul></div>
 

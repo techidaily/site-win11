@@ -1,7 +1,7 @@
 ---
 title: "Skyrockets Ethernet Speeds: Bypassing Windows' 100Mbps Cap"
-date: 2025-02-09T17:11:00.579Z
-updated: 2025-02-16T01:25:06.320Z
+date: 2025-03-03T04:42:20.910Z
+updated: 2025-03-05T00:03:06.785Z
 tags:
   - windows10
   - windows11
@@ -57,19 +57,11 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 5. Select **Speed and Duplex** from the **Property** column, then expand the **Value** dropdown.  
 ![Speed and Duplex Settings in the Network Adapter Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/speed-and-duplex-settings-in-the-network-adapter-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If **1.0 Gbps Full Duplex** is listed, your card supports gigabit connectivity. Your card does not support gigabit connections if **100 Mbps Full Duplex** is the highest value listed. In any case, select **Auto Negotiation** from the **Value** dropdown in the network adapter settings if any other value is selected.
 
 ## 4\. Ensure Your Router Supports Gigabit Connection
 
 ![a close up shot of router ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/modern-wifi-router-ports.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Like your network card, your router should also be capable of delivering 100Mbps+ speeds. You can check that by looking at the router's documentation or description on the manufacturer's website. If the router manufacturer claims this specific model is a gigabit router, it can likely deliver gigabit speeds.
 
@@ -80,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 ## 5\. Get a High-Category Ethernet Cable
 
 ![CAT5, CAT5e, CAT6, CAT6A Ethernet cables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-picture-showing-cat5-cat5e-cat6-cat6a-ethernet-cables.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Ethernet cable itself should be capable of delivering 100Mbps+ speed, just like your router. Ethernet cables with low bandwidth, such as Cat5, can only deliver speeds up to 100Mbps. If you want higher speeds, you need at least Cat5e cable, which can provide speeds of up to 1000Mbps.
 
@@ -108,19 +96,11 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
 ![image of ethernet cables connected to router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ethernet-router-connection.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Start the hardware inspection by checking both ends of the Ethernet cable where cable connectors are installed. Ensure both connectors are in good condition and all internal wires/conductors are pushed to the end and aren't falling off.
 
  Once you have confirmed that, inspect the Ethernet cable from one end and go through the entire length. If the cable shows any physical damage, especially areas that remain bent all the time, you may need to replace it.
 
  If the cable is intact, examine the Ethernet ports on your router and laptop. If any of the ports appears damaged, you should switch to another one (if available).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get the Most Out of Your Ethernet Connection on Windows
 
@@ -140,15 +120,22 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-advice-on-tailoring-game-sounds-to-stand-out-in-the-virtual-arena-of-free-fire/"><u>[New] Expert Advice on Tailoring Game Sounds to Stand Out in the Virtual Arena of Free Fire</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-discover-a-must-have-voice-transform-tool-no-cost-maximum-impact/"><u>[New] In 2024, Discover a Must-Have Voice Transform Tool - No Cost, Maximum Impact</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-hidden-face-technique-for-anonymous-content-sharing/"><u>[New] The Hidden Face Technique for Anonymous Content Sharing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-tailoring-your-obs-feeds-for-best-social-media-impact/"><u>[Updated] 2024 Approved Tailoring Your OBS Feeds for Best Social Media Impact</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-ultimate-selection-high-quality-zero-price-free-luts/"><u>[Updated] 2024 Approved The Ultimate Selection High Quality, Zero Price Free LUTs</u></a></li>
-<li><a href="https://win11.techidaily.com/harnessing-powershell-to-auto-move-files-on-win-11/"><u>Harnessing PowerShell to Auto-Move Files on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-clear-up-the-nullzero-error-on-new-windows-installation/"><u>How to Clear Up the Null/Zero Error on New Windows Installation</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/soft-install-showdown-chocolatey-vs-windows-package-manager/"><u>Soft Install Showdown: Chocolatey VS. Windows Package Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-propelled-forward-utilizing-vivetools-features/"><u>Windows Propelled Forward: Utilizing ViVeTool's Features</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-science-and-art-behind-powerful-youtube-thumbnails/"><u>[New] The Science and Art Behind Powerful YouTube Thumbnails</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-inside-the-speech-of-cyberspace-must-know-vr-terms/"><u>[Updated] Inside the Speech of Cyberspace Must-Know VR Terms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensible-guide-to-managing-windows-key/"><u>A Comprehensible Guide to Managing Windows Key</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-mb-service-unreachability-issue-in-windows-11/"><u>Correcting MB Service Unreachability Issue in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-connect-remote-drives-seamlessly-with-your-mac-system/"><u>Easy Steps to Connect Remote Drives Seamlessly with Your Mac System</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-12-mini-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-computer-interaction-worldwide-powertoy-mouse-skills/"><u>Elevate Your Computer Interaction: Worldwide PowerToy Mouse Skills</u></a></li>
+<li><a href="https://win11.techidaily.com/expedite-your-way-through-window-11-apps/"><u>Expedite Your Way Through Window 11 Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-steam-error-code-e84-quickly-and-effectively/"><u>Fixing Steam Error Code E84 Quickly and Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-switch-off-windows-copilot/"><u>How to Switch Off Windows Copilot</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-x100-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professionals-complete-handbook-to-fcp-mastery-for-2024/"><u>Professional's Complete Handbook to FCP Mastery for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-steps-for-entering-windows-11s-safe-mode/"><u>Quick Steps for Entering Windows 11'S Safe Mode</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restore-your-broken-movie-files-quickly-the-ultimate-vlc-repair-method/"><u>Restore Your Broken Movie Files Quickly: The Ultimate VLC Repair Method</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-streaming-with-these-zero-cost-media-tools-win/"><u>Seamless Streaming with These Zero-Cost Media Tools (Win)</u></a></li>
+<li><a href="https://win11.techidaily.com/thorough-techniques-to-purge-wsl-in-windows-11-environment/"><u>Thorough Techniques to Purge WSL in Windows 11 Environment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visionaries-converge-globally-minded-perspectives-on-ai/"><u>Visionaries Converge: Globally-Minded Perspectives on AI</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Debugging Java Virtual Machine Creation Failure on Windows
-date: 2025-02-12T00:43:53.296Z
-updated: 2025-02-15T22:06:16.061Z
+date: 2025-02-25T18:03:24.351Z
+updated: 2025-03-04T19:44:43.250Z
 tags:
   - windows10
   - windows11
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/405adc45ebf84824c8425ce7d2ecb9e77863385d3
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Verify Your Java Installation
 
@@ -68,10 +64,6 @@ To check the Java version installed on Windows:
 
  To remedy this issue, you can increase the Java heap size. You can do this by modifying the**Runtime Parameters** from**Java Runtime Environment Settings** or changing the**\_JAVA\_OPTIONS** variable value to your preference.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Increase Java Heap Size by Manually Modifying Variables
 
 To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
@@ -83,10 +75,6 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 3. In the**Advanced** tab, click**Environment Variables** .  
 ![The Environment Variables button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/environment-variables-button.jpg)
 4. In the**System Variables** section, click**New** . It is important to select the correct section.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Windows new system variable java options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-new-system-variable-java-options.jpg)
 5. Type**\-JAVA\_OPTIONS** in the**Variable name** field.
@@ -113,17 +101,9 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 ![Java runtime environment settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/java-runtime-environment-settings.jpg)
 7. Click**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Uninstall and Reinstall Java
 
 ![uninstall java Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-java.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the issue persists, a reinstall may be necessary. You can uninstall and reinstall Java to fix any issues with the release. These issues may remain even if you install a newer version. To fix the issue, uninstall Java using the Java uninstaller and then reinstall the latest version available.
 
@@ -140,10 +120,6 @@ To clean install Java:
 ## 6\. Install Java in a WindowsClean Boot State
 
  In Clean Boot State, Windows starts with only essential Microsoft services and apps. It’s a troubleshooting method to determine and find third-party app conflicts causing system errors. If you continue to see the error when installing Java,[start your Windows computer in a clean boot state](https://www.makeuseof.com/clean-boot-windows-11/) and try installing it again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the "Could Not Create the Java Virtual Machine" Error on Windows
 
@@ -166,17 +142,22 @@ To clean install Java:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-motion-magic-mixtures/"><u>[Updated] Motion Magic Mixtures</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-c51-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/context-menu-enhancement-adding-compatibility-tools/"><u>Context Menu Enhancement: Adding Compatibility Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-new-gadgets-with-toms-electronics-expertise/"><u>Discover New Gadgets with Tom's Electronics Expertise</u></a></li>
-<li><a href="https://win11.techidaily.com/from-blank-canvases-to-full-screen-restore-your-windows-10-and-11/"><u>From Blank Canvases to Full Screen: Restore Your Windows 10 & 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-13-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 13 Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-start-guide-zooming-into-fb-live-on-the-web/"><u>In 2024, Quick Start Guide Zooming Into FB Live on the Web</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-barnes-and-noble-nook-glowlight-3-your-ultimate-guide/"><u>In-Depth Analysis of the Barnes & Noble Nook GlowLight 3 - Your Ultimate Guide!</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-stealth-disguise-windows-key-in-start-menu/"><u>Mastering Stealth: Disguise Windows Key in Start Menu</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-honor-magic-6-pro-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Honor Magic 6 Pro</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/ready-set-edit-top-15-fast-and-fun-tricks-to-use-in-pixlr-for-2024/"><u>Ready, Set, Edit! Top 15 Fast and Fun Tricks to Use in Pixlr for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/reducing-the-heavy-load-from-unrealcefsubprocess-on-windows-pcs/"><u>Reducing the Heavy Load From UnrealCEFSubprocess on Windows PCs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-leveraging-consumer-reviews-for-youtube-wealth-creation/"><u>[New] Leveraging Consumer Reviews for YouTube Wealth Creation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comparing-360-immersion-to-vr-experience/"><u>[Updated] Comparing 360° Immersion to VR Experience</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-elevate-video-editing-gratuitous-premiere-pro-tools-for-2024/"><u>[Updated] Elevate Video Editing Gratuitous Premiere Pro Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-exclusive-security-on-pcs-with-self-designed-pins/"><u>Crafting Exclusive Security on PCs with Self-Designed Pins</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/effortless-pdf-integration-made-simple-by-yl-softwares-advanced-tools/"><u>Effortless PDF Integration Made Simple by YL Software's Advanced Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-workflow-scheduled-batch-processes/"><u>Enhance Your Workflow: Scheduled Batch Processes</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-disruptions-caused-by-new-windows-software-upgrades/"><u>Handling Disruptions Caused by New Windows Software Upgrades</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-restore-smooth-performance-in-tiktok-chrome-and-devices/"><u>In 2024, Restore Smooth Performance in TikTok (Chrome & Devices)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-the-art-of-quickly-repairing-presonus-audiobox-usb-drivers-a-step-by-step-approach/"><u>Master the Art of Quickly Repairing Presonus AudioBox USB Drivers – A Step-by-Step Approach!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-lumafusion-for-macos-download-and-explore-top-alternatives/"><u>New In 2024, Lumafusion for macOS Download and Explore Top Alternatives</u></a></li>
+<li><a href="https://win11.techidaily.com/overhauling-setup-glitches-a-guide-to-finding-lost-configs/"><u>Overhauling Setup Glitches: A Guide to Finding Lost Configs</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-discords-automatic-activation-at-pc-boot-up/"><u>Stop Discord's Automatic Activation at PC Boot-Up</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-trimming-wmis-cpu-footprint/"><u>Strategies for Trimming WMI's CPU Footprint</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-utorrent-downloads-a-guide-for-windows-users/"><u>Tackling uTorrent Downloads: A Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-lightning-speeds-a-deep-dive-into-the-quickest-ssd-on-earth-pro-tech-enthusiasts-prepare-to-be-wowed/"><u>Unleashing Lightning Speeds: A Deep Dive Into the Quickest SSD on Earth - Pro Tech Enthusiasts, Prepare to Be Wowed!</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-to-a-working-windows-pen/"><u>Unveiling the Secrets to a Working Windows Pen</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-audiovisual-alchemy-expert-tips-for-incorinasiting-and-modifying-audio-timestamps-for-cinematic-effects-in-final-cut-pro-x-for-2024/"><u>Updated Audiovisual Alchemy Expert Tips for Incorinasiting and Modifying Audio Timestamps for Cinematic Effects in Final Cut Pro X for 2024</u></a></li>
 </ul></div>
 

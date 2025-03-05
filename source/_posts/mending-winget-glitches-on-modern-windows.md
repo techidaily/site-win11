@@ -1,7 +1,7 @@
 ---
 title: Mending Winget Glitches on Modern Windows
-date: 2025-02-10T19:11:34.604Z
-updated: 2025-02-16T01:03:55.773Z
+date: 2025-03-01T00:48:00.519Z
+updated: 2025-03-04T22:18:53.395Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Reasons Why Winget Stops Working on Windows
 
@@ -61,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 ![Completely Shutdown your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/completely-shutdown-your-pc.jpg)
 3. Your system will shut down. It will take longer than a usual shutdown because Windows will close everything.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Power on your system and try to run Winget using the Terminal app to check if it works now.
 
 ## 4\. Update App Installer
@@ -74,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 ![Update App Installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-app-installer.jpg)
 
  So, open Microsoft Store and check the library section for any pending updates for the App Installer. Manually search and install the update and check if Winget works now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Enable the App Execution Alias
 
@@ -100,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 ![Manually Add the Path Environment Variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manually-add-the-path-environment-variable.jpg)
 4. Click on the **OK** button. Restart your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Open the Terminal app and check if Winget works or not.
 
 ## 7\. Re-register Winget Using PowerShell
@@ -115,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 `Add-AppxPackage -DisableDevelopmentMode -Register "C:\Program Files\WindowsApps\Microsoft.Winget.Source_2021.718.1322.843_neutral__8wekyb3d8bbwe\AppXManifest.xml" -Verbose`
 3. You won’t see any confirmation message after the command executes successfully. Close the PowerShell window and restart your PC.  
 ![Re-register Winget Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/re-register-winget-using-powershell.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Try Some Generic Windows Fixes
 
@@ -142,17 +122,18 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-discovering-high-definition-smarts-sony-xperia-xz-reviewed/"><u>[New] 2024 Approved Discovering High-Definition Smarts Sony Xperia XZ Reviewed</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-step-by-step-guide-to-create-engaging-thumbnails-for-your-videos-on-youtube/"><u>[New] In 2024, Step-by-Step Guide to Create Engaging Thumbnails for Your Videos on YouTube</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-three-proven-steps-for-archiving-your-favorite-discord-shows/"><u>[Updated] 2024 Approved Three Proven Steps for Archiving Your Favorite Discord Shows</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-photo-app-issues-step-by-step/"><u>Fixing Window's Photo App Issues Step by Step</u></a></li>
-<li><a href="https://driver-install.techidaily.com/harmonizing-startech-with-multiple-windows-versions/"><u>Harmonizing StarTech with Multiple Windows Versions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Motorola Defy 2? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-turbo-utorrents-speed-on-your-windows-system/"><u>How to Turbo uTorrent's Speed on Your Windows System</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-for-resolving-windows-update-hanging-at-zero-percent/"><u>Quick Solutions for Resolving Window's Update Hanging at Zero Percent</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-functionality-to-windows-10-audio-controls/"><u>Restoring Functionality to Windows 10 Audio Controls</u></a></li>
-<li><a href="https://win11.techidaily.com/snip-and-sketch-or-prtsc-select-the-ideal-capture-method/"><u>Snip & Sketch or PrtSc? Select the Ideal Capture Method</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-by-step-pubg-vocal-changes-made-easy-for-2024/"><u>Step-by-Step PUBG Vocal Changes Made Easy for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-transition-woes-why-many-dont-jump-on-version-11/"><u>Windows Transition Woes: Why Many Don't Jump on Version 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-premier-ios-applications-for-playstation-2-simulation/"><u>[New] In 2024, Premier IOS Applications for PlayStation 2 Simulation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-master-iphone-cams-with-these-hacks/"><u>[New] Master iPhone Cams with These Hacks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-earnings-epicenter-tech-gaming-on-youtube-for-2024/"><u>[Updated] Earnings Epicenter Tech Gaming on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-establishing-a-mac-based-sports-media-outlet/"><u>[Updated] Establishing a Mac-Based Sports Media Outlet</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-video-sharing-triad-vimeo-vs-youtube-and-dailymotion-showdown/"><u>2024 Approved The Video Sharing Triad Vimeo vs YouTube & Dailymotion Showdown</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-y27s-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo Y27s? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/creating-a-linux-subsystem-inside-hyper-v-for-windows/"><u>Creating a Linux Subsystem Inside Hyper-V for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-windows-11-a-detailed-look-at-the-registry/"><u>Delving Into Windows 11: A Detailed Look at the Registry</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-fixes-for-pc-game-crash-in-assassins-creed-odyssey/"><u>Easy Fixes for PC Game Crash in Assassin's Creed: Odyssey</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-se-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone SE Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-process-of-purging-disk-partitions-in-windows/"><u>Navigating the Process of Purging Disk Partitions in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-steam-service-errors-on-windows-11/"><u>Resolving Steam Service Errors on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-sluggishness-in-windows-app-internet-connectivity-today/"><u>Tackle Sluggishness in Windows App Internet Connectivity Today</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Advanced Tips for Converting HEIC Images to JPEG in Windows 11
-date: 2024-08-08T13:13:05.593Z
-updated: 2024-08-09T13:13:05.593Z
+date: 2025-03-02T23:43:06.310Z
+updated: 2025-03-04T19:30:20.732Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff17
 
  However, few Windows software packages support the HEIC format. Some users prefer to convert HEIC images to JPEG format so they can open iPhone photos on PCs with many more Windows apps. Batch conversion is preferable since it enables you to convert multiple HEIC images simultaneously. This is how you can batch-convert HEIC images to JPEG in Windows 11/10.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## How to Batch Convert HEIC Images to JPEG With CopyTrans HEIC for Windows
 
  CopyTrans HEIC for Windows is software that adds a convenient HEIC to JPEG conversion option to File Explorer’s context menu. Then you can select multiple HEIC images in Explorer and convert them to JPEG by right-clicking the files.
@@ -35,23 +32,6 @@ thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff17
 4. Click**Next** to proceed to the software agreement options for CopyTrans HEIC.
 5. Select the**I accept** radio button for the terms of use agreement and click**Next** .
 6. Click the**I am installing CopyTrans HEIC for home use** checkbox to select that option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![The CopyTrans setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copytrans-setup-window.jpg)
 7. Then select**Next** \>**Install** to add the new HEIC conversion context menu option.
 
@@ -99,22 +79,12 @@ Now it's time to convert images with FoneTool:
 
  It’s worth exploring some of the other handy tools FoneTool has to offer beyond its image conversion utility. You can transfer images from mobile to PC by connecting your iPhone and clicking**Get Started** for iPhone to PC on the Phone Transfer tab. Click the**+** button to choose files and press the**Start transfer** option.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Phone Transfer tab in FoneTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/phone-transfer-tab.jpg)
 
  Plus, there’s a duplicate photo finder tool that could be useful for some users. Click**Photo Deduplication** on the**Toolbox** tab to open that utility. Select the**Scan Computer** option and click**Add Folder** to search a directory for matching images. Then you can erase similar or duplicate photos by selecting them and clicking**Delete** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![The Photo Deduplication tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photo-duplication-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Bach Convert HEIC Images With HEIC to JPEG Free Online Converter
 
  There are various [online HEIC to JPEG conversion tools](https://www.makeuseof.com/convert-heic-files-tools/) you can utilize in Windows browsers. HEIC to JPEG Free Online Converter is a web app with which you can convert up to 100 images simultaneously to JPEG, PNG, or BMP formats. These are the steps for converting HEIC images to JPEG alternatives with that web app:
@@ -125,16 +95,10 @@ Now it's time to convert images with FoneTool:
 3. Choose a HEIC image to convert and click the**Open** option. As you can only select one image at a time, you’ll need to repeat steps two and three to add more files.
 4. Click (Select output format) to expand options.
 5. Select**JPEG** on the**Convert to** drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Convert to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-to-option.jpg)
 6. Then set a value in the**Quality** box.
 7. Select the**I consent** checkbox. You can click the**Privacy Policy** link to view further info about the fCoder Solutions' data-sharing policy.
 8. Press**Convert** to perform the conversion.  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Convert button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-button.jpg)
 9. Click**Download all** to save the JPEG files.
 
@@ -142,9 +106,6 @@ Now it's time to convert images with FoneTool:
 
 ![Image resize options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-image-size-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Make iPhone Photos More Accessible on Windows
 
  Converting HEIC images to JPEG format will enable you to open, view, and edit them with a much wider variety of Windows software. If you have lots of them, it’s best to utilize a batch conversion tool for converting HEIC files to JPEG format. You can quickly convert masses of HEIC images in Windows 11 and 10 with CopyTrans HEIC, FoneTool, and HEIC to JPEG Free Online Converter.
@@ -155,8 +116,6 @@ Now it's time to convert images with FoneTool:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,6 +123,16 @@ Now it's time to convert images with FoneTool:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/desktop-dilemrances-navigating-the-pink-phase-of-windows/"><u>Desktop Dilemrances: Navigating the Pink Phase of Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-email-notification-pinning-gmail-on-windows-desktop/"><u>Easy Email Notification: Pinning Gmail on Windows Desktop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-the-night-light-feature-up-and-running-again-on-your-windows-1011-device/"><u>Getting the Night Light Feature Up and Running Again on Your Windows 10/11 Device</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-streamline-windows-views-and-trim-overscan/"><u>How to Streamline Windows Views and Trim Overscan</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-poco-m6-pro-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Poco M6 Pro 5G Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/latest-strategies-to-solve-division-2-startup-problems/"><u>Latest Strategies to Solve Division 2 Startup Problems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/cting-your-presentations-youtube-and-google-slides/"><u>Perfecting Your Presentations YouTube and Google Slides</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-worrying-fix-the-non-working-esc-key-today/"><u>Stop Worrying, Fix the Non-Working Esc Key Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-pc-gear-at-toms-electronics-review/"><u>Unveiling the Latest in PC Gear at Tom's Electronics Review</u></a></li>
+</ul></div>
 

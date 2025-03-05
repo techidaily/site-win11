@@ -1,7 +1,7 @@
 ---
 title: "Boosting Your PC: How To Turn On Hyper-V in Win11"
-date: 2024-08-08T13:12:02.809Z
-updated: 2024-08-09T13:12:02.809Z
+date: 2025-03-03T03:08:51.067Z
+updated: 2025-03-05T03:30:53.201Z
 tags:
   - windows10
   - windows11
@@ -35,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
 ## Prerequisites to Enable Hyper-V on Windows 11
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![check Windows 11 edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/check-Windows-11-edition.png)
 
  Hyper-V is available as an optional feature on Windows 11 Pro, Enterprise, and Education. To check your edition of Windows, go to **Settings > System > About**. Then, check the **Windows specifications** section to find your Windows edition.
@@ -57,15 +54,9 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 1. Shut down your PC if it is powered on.
 2. Press the **Power** button to power on the system and start pressing the **Esc** key to view the **Startup Menu.**
 3. In the **Startup Menu**, press **F10** to enter the **BIOS setup.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![Startup menu hp laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Startup-menu-hp-laptop.jpg)
 4. In the BIOS Setup Utility, use the arrow key and open the **Configuration** tab.
 5. Next, use the down arrow key to highlight the **Virtualization Technology** option.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![enable hardware virtualization bios hp laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hardware-virtualization-bios-hp-laptoop.jpg)
 6. Hit **Enter** and then select **Enabled** from the options.
 7. Press **F10** to save the changes and exit **BIOS**.
@@ -73,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  After restart, you can enable Hyper-V on Windows 11\. Here’s how to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## 1\. Turn On Hyper-V in Windows 11 Via Control Panel
 
 ![enable hyper v windows features control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-features-control-panel.png)
@@ -94,9 +82,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
 ## 2\. Add Hyper-V to Windows 11 Using Command Prompt
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable hyper v command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-command-prompt.png)
 
  Command Prompt offers a fast and efficient way to perform repetitive tasks. You can use the DISM (Deployment Image Servicing and Management) command-line tool to access and install optional Windows features via Command Prompt.
@@ -113,9 +98,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
 ## 3\. Enable Hyper-V Using PowerShell
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![enable hyper v windows 11 powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-11-powershell.png)
 
  If you prefer Windows PowerShell over Command Prompt, you can also enable Hyper-V using the shell application.
@@ -144,9 +126,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
 ## How to Configure Hyper-V Settings
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![hyper v manager windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hyper-v-manager-windows-11.jpg)
 
  Once Hyper-V is up and running, you can configure some settings to optimize your virtual machines for optimal performance. Here are a few settings you can configure before creating a virtual machine. You can access these settings from the right pane in Hyper-V Manager.
@@ -161,9 +140,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  Download [Windows Admin Center](https://www.microsoft.com/en-in/windows-server/windows-admin-center) from the official Microsoft page and run the installer to give it a go. Once installed, open the app, and it will launch in your default browser, giving you access to a host of management tools.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Many Ways to Enable Hyper-V in Windows 11
 
  Hyper-V is a type 1 hypervisor, which means it runs directly on a computer’s hardware. It comes pre-installed, free to use without restriction, and offers linear performance on a consumer-grade system.
@@ -172,12 +148,31 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
  In this article, we show you the how to enable Hyper-V in Windows 11 and create virtual machines without third-party tools.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-drones-unleashed-selecting-the-right-supplementary-gear/"><u>[New] In 2024, Drones Unleashed Selecting the Right Supplementary Gear</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-top-mac-hd-frame-gems-guide-char-limit-156/"><u>[New] In 2024, Top Mac HD Frame Gems Guide (Char Limit 156)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-screen-captures-in-firefox-land/"><u>[New] Top Screen Captures in Firefox Land</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-cognitive-conclave-2024-selective-guide-to-top-trivia-channels/"><u>[Updated] Cognitive Conclave 2024 Selective Guide to Top Trivia Channels</u></a></li>
+<li><a href="https://win11.techidaily.com/configure-windows-companion-using-vivetool/"><u>Configure Windows Companion Using ViveTool</u></a></li>
+<li><a href="https://win11.techidaily.com/enhanced-file-protection-best-practices-for-windows-password-storage/"><u>Enhanced File Protection: Best Practices for Windows Password Storage</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-infinix-zero-30-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Infinix Zero 30 5G Phone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-curating-youtube-music-experiences/"><u>In 2024, Curating YouTube Music Experiences</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-transform-your-photos-into-videos-with-these-10-online-tools/"><u>New In 2024, Transform Your Photos Into Videos with These 10 Online Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-malwarebytes-procedure-call-issues-on-pc/"><u>Overcoming Malwarebytes Procedure Call Issues on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-choosing-your-perfect-ebike-spotlight-on-the-compact-and-economical-propella-7s/"><u>The Ultimate Guide to Choosing Your Perfect Ebike - Spotlight on the Compact and Economical Propella 7S!</u></a></li>
+<li><a href="https://win11.techidaily.com/triple-techniques-for-comprehending-windows-policy-mechanics/"><u>Triple Techniques for Comprehending Windows Policy Mechanics</u></a></li>
+<li><a href="https://win11.techidaily.com/uncovering-vanished-window-panes-quick-methods-for-win11/"><u>Uncovering Vanished Window Panes: Quick Methods for Win11</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-xiaomi-redmi-k70-pro-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Xiaomi Redmi K70 Pro?</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11s-vanished-symbols-restoration-procedures/"><u>Win 11'S Vanished Symbols: Restoration Procedures</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-graphics-overhaul-simple-upgrades-guide/"><u>Win Graphics Overhaul: Simple Upgrades Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-custom-control-commands-for-sound-adjustment/"><u>Win11 Custom Control Commands for Sound Adjustment</u></a></li>
+</ul></div>
 

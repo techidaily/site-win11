@@ -1,7 +1,7 @@
 ---
 title: Addressing NVIDIA OpenGL Failure Code 3 on Win11
-date: 2024-08-08T13:11:47.358Z
-updated: 2024-08-09T13:11:47.358Z
+date: 2025-03-04T04:20:36.067Z
+updated: 2025-03-04T21:17:22.259Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
  Error code 3 has been reported to immediately close game, video, and image-editing software. Users must resolve that issue because it’s usually a recurring error. This is how you can fix error code 3 in Windows 10 and 11.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 1\. Set the Prefer Maximum Performance Setting for Affected Software
 
  The NVIDIA Control Panel has alternative maximum performance and adaptive power management options. Error code 3 will more likely occur with the**Optimal power** setting selected. So, try selecting the**Prefer maximum performance** option like this:
@@ -40,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
  Alternatively, you can set maximum performance specifically for an affected app instead. To do so, click the**Programs Settings** tab in NVIDIA Control Panel. Select the software for which error code 3 arises within the**Select a program to customize** drop-down menu. Then select**Prefer maximum performance** in the program settings and click**Apply** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Select the 3D App Visual Simulation Option
 
  Some users have fixed OpenGL error code 3 by selecting a**Visual Simulation** preset option within the NVIDIA Control Panel. However, note that option is only available for NVIDIA Quadro graphics adapters. So, you can’t see and select that setting if your PC doesn’t have a Quadro GPU. This is how to select the**3D App Visual Simulation** setting in the NVIDIA Control Panel:
@@ -54,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 ![The Visual Simulation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/visual-simulation-setting-1.jpg)
 5. Click**Apply** to set the selected preset option.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Roll Back an NVIDIA Graphics Driver Update
 
  Have you recently updated your PC’s graphics driver? If so, the new driver could be causing the error code 3 issue on your PC. You might be able to resolve error code 3 by rolling back a recent graphics driver update.
@@ -67,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
  Select**Yes** to roll back the driver, then restart the PC before you try opening affected apps and games again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Select the Repair and Reset Options for the Affected App
 
  If error code 3 occurs for a Universal Windows Platform app or game, try fixing it with the**Repair** or**Reset** options. Each UWP app has options for repairing and resetting you can select within Settings. Check out our article about [resetting apps in Windows 11](https://www.makeuseof.com/windows-reset-app/) to clear the app’s data.
@@ -86,23 +74,14 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
  Then reinstall the uninstalled program in Windows. First, download the latest software version, preferably from the publisher’s website. Open the folder containing the downloaded installer and double-click that setup wizard to reinstall its software.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Cleanly Reinstall the NVIDIA Graphics Driver
 
  The OpenGL error code 3 message suggests an issue with your PC’s graphics (GPU) driver. Reinstalling the NVIDIA display driver could fix such an issue. We recommend that you cleanly reinstall your graphics card’s driver as covered in our guide to [cleanly reinstalling GPU drivers on Windows](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## 7\. Reset Windows
 
  The last resort for fixing error code 3 (and many other Windows issues) is to reset the OS. Resetting Windows 11 or 10 reinstalls the platform, which restores it to a default factory configuration. Alas, the reset also wipes all third-party Windows software you’ve installed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-this-pc-tool.jpg)
 
  Therefore, resetting Windows is a drastic troubleshooting method, but it's also one that often works. Our guide on [how to reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=If%20you're%20on%20Windows,Windows%2011%20and%20Windows%2010.) tells you how to apply this potential resolution with the Reset this PC tool. You can at least select to preserve all your user files by resetting your PC with that utility.
@@ -117,8 +96,6 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,6 +103,18 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-deep-dive-into-youtube-view-counts-and-more/"><u>[Updated] 2024 Approved A Deep Dive Into YouTube View Counts and More</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-dream-weavers-the-marvel-interactive-sculptors/"><u>[Updated] In 2024, Dream Weavers The Marvel Interactive Sculptors</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-ultimate-pizza-image-collection-high-quality-hd-wallpapers-photo-collections-and-design-inspiration-by-yl-computing/"><u>1. Ultimate Pizza Image Collection: High-Quality HD Wallpapers, Photo Collections & Design Inspiration by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-vivo-x-flip-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Vivo X Flip to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-sony-xperia-5-v-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Sony Xperia 5 V Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reverse-color-mismatch-in-microsoft-store/"><u>How To Reverse Color Mismatch in Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-the-faulty-game-tracking-of-discord-for-microsoft-os/"><u>Improving the Faulty Game Tracking of Discord for Microsoft OS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-mastery-comprehensive-list-of-freebies-for-win11-pcs/"><u>Maximize Mastery: Comprehensive List of Freebies for Win11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/rearranging-monitor-input-in-windows-os/"><u>Rearranging Monitor Input in Windows OS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-youtube-outro-makers-lots-of-free-options/"><u>Top 6 YouTube Outro Makers - Lots of FREE Options</u></a></li>
+</ul></div>
 

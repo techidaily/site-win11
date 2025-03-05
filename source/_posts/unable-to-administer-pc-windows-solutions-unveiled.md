@@ -1,7 +1,7 @@
 ---
 title: "Unable To Administer PC: Windows Solutions Unveiled"
-date: 2024-12-24T18:28:16.574Z
-updated: 2024-12-27T18:06:55.022Z
+date: 2025-02-27T05:07:19.447Z
+updated: 2025-03-05T02:00:27.818Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
 
  Once done, close the Command Prompt and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Activate the Built-In Administrator Account
 
 ![Enable the built-in admin account in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-built-in-admin-account.jpg)
@@ -70,10 +66,6 @@ net user administrator /active:yes
 5. Uncheck the **Account is disabled** option and click **OK**.  
 ![Enable the built-in admin account in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-admin-account.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This should successfully activate the built-in administrator account. You can now access the Settings app again and check if you can switch the account type easily now.
 
 ## 3\. Make the Changes in Safe Mode
@@ -83,10 +75,6 @@ net user administrator /active:yes
  To determine if this is the cause of the issue, you can [boot your computer into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/). Safe Mode launches the system with minimal drivers and programs, disabling any background processes that may be contributing to the problem. In this diagnostic state, you should be able to switch to the administrator account if such processes were previously causing the obstruction.
 
  Once you have booted into Safe Mode, try performing the action that was initially causing the problem. If it does not occur in Safe Mode, you can try eliminating the culprit by either uninstalling it manually or [using the System Restore utility](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) to revert to a stable, error-free state.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Disable Your Antivirus Program
 
@@ -99,10 +87,6 @@ net user administrator /active:yes
  If this works, you can consider [switching to a better security program for your Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) to prevent issues like this from occurring in the future.
 
 ## 5\. Create a New Administrator Account
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Finally, if none of the methods above have helped you, you can try creating a new administrator account in Windows
 
@@ -125,10 +109,6 @@ net user administrator /active:yes
 
  You can now log into the new administrator account and begin using it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Enjoy Administrative Access to Your Windows System
 
  The inability to change an account type to Administrator in Windows can be caused by a number of reasons, such as misconfigured User Account Control (UAC) settings or underlying system issues. However, with the right troubleshooting methods, you can overcome the account type change challenge and enjoy administrative access to the system.
@@ -145,20 +125,20 @@ net user administrator /active:yes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-elevate-your-daily-blog-key-practices-and-avoidance-tactics/"><u>[Updated] 2024 Approved Elevate Your Daily Blog Key Practices and Avoidance Tactics</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-leveraging-snap-functions-boosting-virtual-interaction-during-meets/"><u>[Updated] 2024 Approved Leveraging Snap Functions Boosting Virtual Interaction During Meets</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-spotlight-on-8-trusted-youtube-growth-services/"><u>[Updated] In 2024, Spotlight on 8 Trusted Youtube Growth Services</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-proving-ideal-for-iphone-users-9-photo-watermarking-tools/"><u>2024 Approved Proving Ideal for iPhone Users 9 Photo Watermarking Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-samsung-galaxy-s23plus-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Samsung Galaxy S23+ Quickly | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-dial-back-unrequested-youtube-recommendations/"><u>In 2024, Dial Back Unrequested YouTube Recommendations</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/jumpstart-windows-tapping-into-startup-directories/"><u>Jumpstart Windows: Tapping Into Startup Directories</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premium-timepieces-for-your-dream-wedding-on-smartphones-for-2024/"><u>Premium Timepieces for Your Dream Wedding on Smartphones for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/prime-nintendo-switch-fighting-game-guide-max-156-for-2024/"><u>Prime Nintendo Switch Fighting Game Guide (Max 156) for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-windows-11s-media-app-a-fix-guide/"><u>Reviving Windows 11'S Media App: A Fix Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/samsungs-dex-breakthrough-control-your-phone-on-windows-with-ease/"><u>Samsung’s DeX Breakthrough: Control Your Phone on Windows with Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-correct-error-0xc00ce556-in-winoss/"><u>Steps to Correct Error 0xC00CE556 in WinOSs</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-file-management-windows-11s-automatic-deletion-feature-explained/"><u>Streamlining File Management: Windows 11'S Automatic Deletion Feature Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-magic-behind-16gb-memory-in-windows-pcs/"><u>Unveiling the Magic Behind 16GB Memory in Windows PCs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-dslrs-place-among-mirrorless-cameras-for-videos-for-2024/"><u>[Updated] DSLR's Place Among Mirrorless Cameras for Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-a-valid-temp-directory-in-windows-11-os/"><u>Ensuring a Valid Temp Directory in Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-through-correction-processes-for-faulty-win11-registry-data/"><u>Guiding Through Correction Processes for Faulty Win11 Registry Data</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-connect-remote-desktop-without-a-password-in-windows-11/"><u>How to Connect Remote Desktop Without a Password in Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-itel-a60-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Itel A60 and Browser | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-top-cinema-teasers-compilation/"><u>In 2024, Top Cinema Teasers Compilation</u></a></li>
+<li><a href="https://win11.techidaily.com/organize-like-a-pro-5-must-try-windows-folder-tricks/"><u>Organize Like a Pro: 5 Must-Try Windows Folder Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/probing-into-windows-11s-potential-for-phone-synergy/"><u>Probing Into Windows 11’S Potential for Phone Synergy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-detection-issues-astro-command-center-and-the-a50-headset/"><u>Resolving Detection Issues: Astro Command Center and the A50 Headset</u></a></li>
+<li><a href="https://windows11.techidaily.com/showing-d-drive-directories-in-explorer-view/"><u>Showing D: Drive Directories in Explorer View</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-correcting-type-mistakes-in-windows-11-zerox-error/"><u>Solutions for Correcting Type Mistakes in Windows 11 Zerox Error</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-ultimate-guide-to-success-on-desktop-for-tiktok-videos-for-2024/"><u>The Ultimate Guide to Success on Desktop for TikTok Videos for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/understanding-icloud-keychain-a-complete-guide-to-unlocking-your-iphones-secure-storage/"><u>Understanding iCloud Keychain: A Complete Guide to Unlocking Your iPhone's Secure Storage</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-the-potential-dangers-of-playful-online-quizzes/"><u>Unveiling the Potential Dangers of Playful Online Quizzes</u></a></li>
+<li><a href="https://win11.techidaily.com/what-everyone-must-know-before-purchasing-their-first-win-notebook/"><u>What Everyone Must Know Before Purchasing Their First Win Notebook</u></a></li>
 </ul></div>
 

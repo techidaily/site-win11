@@ -1,7 +1,7 @@
 ---
 title: Addressing Write-Prohibited Steam Directories in Win 11
-date: 2024-08-08T13:13:59.485Z
-updated: 2024-08-09T13:13:59.485Z
+date: 2025-02-25T23:03:55.987Z
+updated: 2025-03-04T22:17:07.765Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/33c48593ec0173b68a8667f248e53142d39bc8c36
 6. Closethe File Explorer window and reopenthe Steam client.
 7. Try to install the game and check if the error appears or not.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## 2\. Run the Steam App With Administrator Privileges
 
  Missing privileges can cause issues with some features in Steam. So, you must close and restart the Steam app with admin rights. Here’s how:
@@ -47,9 +43,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![Run the Steam App With Administrator Privileges-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/run-the-steam-app-with-administrator-privileges-1.jpg)
 4. The User Account Control window will launch. Click on the **Yes** button.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Grant Full Ownership of the Steam Folder
 
  If you don’t have complete ownership of the Steam folder, you can face problems while installing a game or making changes to any file or folder. Repeat the following steps to gain complete ownership of the Steam folder:
@@ -61,16 +54,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 5. Click on the **Edit** button.
 6. Select your User Profile and click on the **Edit** button.
 7. Click on the **Full Control** checkbox to grant all the permissions for your user profile.  
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Grant Full Ownership of the Steam Folder-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/grant-full-ownership-of-the-steam-folder-1.jpg)
 8. Now, click on the **Apply** button.
 9. Lastly, click on the **OK** button and then close the Properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Repair the Steam Library Folder
 
  Steam offers the option to repair the Steam library folders to fix issues with it. Here’s how to repair the folder using the Steam app:
@@ -102,9 +89,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Click on the **Steam** button and then click on the **Settings** option to open the app settings.
 3. Navigate down and click on the **Downloads** option.
 4. Find the **Clear Download Cache** option in the right pane. Click on the **Clear Cache** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![Flush the Download Cache-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/flush-the-download-cache-1.jpg)
 5. Steam will reconfirm your decision to clear the cache. Click on the **Confirm** button.
 6. The app will restart after purging the download cache. You will have to sign in again to your Steam account.
@@ -113,9 +97,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Hard Disk errors can be a reason due to which Steam is unable to add or modify files. You can [use the Check Disk utility in Windows](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) to check your hard disk for errors and fix them. The Check Disk utility will scan the hard disk for errors and repair them, if possible.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## 8\. Reinstall the Game on Another Drive
 
  If you are unable to install the game on the C drive, you must add another drive in the Steam Storage settings. Then, attempt the game installation in the newly added drive. Here’s how to do it:
@@ -124,9 +105,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Click on the **Settings** option.
 3. Scroll down and click on the **Storage** option.
 4. Click on the **plus** icon. Expand the drop-down list and select a drive.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Reinstall the Game on Another Drive-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reinstall-the-game-on-another-drive-1.jpg)
 5. Now, click on the **Add** button.
 
@@ -139,16 +117,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. Open the **Start** menu and type **create and format disk partitions**. Click on the **Open** option in the right pane.
 2. Right-click on the new drive whose letter you want to change. Select the **Change Drive Letter and Paths** option.
 3. Click on the **Change** button.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Format the Disk And Try Again-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/format-the-disk-and-try-again-1.jpg)
 4. Expand the drop-down list and select a new drive letter. Click on the **OK** button.
 5. Now, right-click on the disk drive and select the **Format** option.
 6. Keep the **File System** as **NTFS** and click on the **OK** button.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Format the Disk And Try Again 2-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/format-the-disk-and-try-again-2-1.jpg)
 7. Lastly, click on the **OK** button once again.
 8. **Close** the Disk Management utility.
@@ -159,12 +131,31 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  If you face the same predicament, don’t fret. Let's explore multiple methods to resolve this annoying error code and help you successfully install your games on Steam again.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-ideal-approaches-to-mobile-content-preservation/"><u>[Updated] Ideal Approaches to Mobile Content Preservation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-8-youtube-fitness-ideas-for-viewers-active-participation/"><u>[Updated] Unlock 8 YouTube Fitness Ideas for Viewers' Active Participation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-installing-logitech-rx250-drivers-on-windows-7-8-or-10/"><u>Easy Guide to Installing Logitech RX250 Drivers on Windows 7, 8 or 10</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-copy-performance-on-windows-11/"><u>Enhancing Copy Performance on Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gopro-hero5-black-vs-gopro-hero4-silver/"><u>GoPro Hero5 Black vs GoPro Hero4 Silver</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-a-streamlined-windows-search-box/"><u>Guidelines for a Streamlined Windows Search Box</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-6s-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For Apple iPhone 6s?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-manage-secure-boot-and-tpm-on-virtualbox-70/"><u>How to Manage Secure Boot & TPM on VirtualBox 7.0</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-gaming-environment-fix-fullscreen-woes/"><u>Master Your Gaming Environment: Fix Fullscreen Woes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/masterful-fb-marketing-essential-tips-for-every-business-level/"><u>Masterful FB Marketing Essential Tips for Every Business Level</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-wsl-2-best-methods-in-windows-1011-era/"><u>Mastering WSL 2: Best Methods in Windows 10/11 Era</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-incorrect-token-access-error-on-pcs/"><u>Overcoming the Incorrect Token Access Error on PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-troubleshooting-guide-for-a-smooth-roblox-experience-on-desktop-update-2024/"><u>Quick Troubleshooting Guide for a Smooth Roblox Experience on Desktop - Update 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209940611-9781734426533-saying-yes-to-life/"><u>Saying Yes to Life | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-resolve-write-file-issues-in-winos/"><u>Strategies to Resolve Write File Issues in WINOS</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-realme-c67-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Realme C67 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-companion-guide-to-use-chatgpt/"><u>Windows Companion Guide to Use ChatGPT</u></a></li>
+</ul></div>
 

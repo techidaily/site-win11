@@ -1,7 +1,7 @@
 ---
 title: Investigating Underutilized Windows' System Health Indicators
-date: 2025-01-29T05:58:35.043Z
-updated: 2025-02-03T23:01:29.466Z
+date: 2025-02-26T04:41:33.331Z
+updated: 2025-03-05T00:50:27.532Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/98381f75da9e421b6eb855209185ef7a1fbf0a3e4
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Are the Reliability and Performance Monitors on Windows?
 
@@ -73,10 +69,6 @@ Here are some of the noticeable features of the Performance Monitor:
 
 ![Reliability Monitor Event Details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reliability-monitor-event-details.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the other side, the Performance Monitor also helps you with filtering, but it's far superior and advanced.
 
  The best part is, you can also configure alerts in the Performance Monitor. By doing so, you can record the moments when specific performance metrics exceed certain thresholds. For example, you can set an alert to notify you when CPU usage exceeds 90% for more than 15 minutes. This ultimately helps you to take proactive measures to prevent system downtime.
@@ -88,10 +80,6 @@ Here are some of the noticeable features of the Performance Monitor:
  You can use it to troubleshoot software installations, monitor system updates, and resolve Blue Screen of Death errors. But that's not all! As Windows updates sometimes fail for no reason, Reliability Monitor may come to the rescue and highlight any issues during the update process.
 
 ![Reliability Monitor Chart Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reliability-monitor-chart-overview.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Performance Monitor can help you monitor how your system is running and find problems related to its performance. You can even use it to[speed up Windows](http://www.makeuseof.com/windows-11-speed-up-tricks/) by analyzing the performance trends of your computer.
 
@@ -109,16 +97,8 @@ Here are some of the noticeable features of the Performance Monitor:
 ![Reliability Monitor Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reliability-monitor-overview.jpg)
 4. If you're an advanced user, type**Performance Monitor** in the search bar to open it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. You can click the green**(+)** icon on the Performance Monitor window to add a counter (a performance metric) and let the tool measure it for you.  
 ![Performance Monitor Overview In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/performance-monitor-overview-in-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Besides these tools, Windows is bloated with many other useful utilities to improve your experience. If you are interested in such things, check out our guide on some[useful Windows administrative tools](https://www.makeuseof.com/windows-administrative-tools-guide/) .
 
@@ -143,21 +123,16 @@ Here are some of the noticeable features of the Performance Monitor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ourney-through-time-the-best-history-yt-channels-ranked-1-10-for-2024/"><u>[New] Journey Through Time The Best History YT Channels Ranked #1-10 for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-master-memes-access-to-premium-free-designs/"><u>[New] Master Memes Access to Premium FREE Designs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-what-to-do-when-youtube-shorts-thumbnails-fail-to-appear/"><u>[New] What to Do When YouTube Shorts Thumbnails Fail to Appear?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-exclusive-insights-into-top-8-facebook-film-extractors/"><u>[Updated] Exclusive Insights Into Top 8 Facebook Film Extractors</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-to-windows-uac-images/"><u>Comprehensive Guide to Windows UAC Images</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-windowed-mode-switch-to-fullscreen-successfully/"><u>Conquering Windowed Mode: Switch to Fullscreen Successfully</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-advice-setting-up-the-outlook-preview-app/"><u>Expert Advice: Setting up the Outlook Preview App</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/get-your-hands-on-discounted-wonderfox-dvd-converter-software-via-bitsdujour-promotion/"><u>Get Your Hands-On Discounted WonderFox DVD Converter Software via BitsDuJour Promotion!</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-pinpoint-your-pcs-ram-quickly-on-windows/"><u>How to Pinpoint Your PC's RAM Quickly on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-resolve-store-error-0x80d03801/"><u>How to Resolve Store Error 0X80D03801</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-honor-90-pro-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Honor 90 Pro for Parents | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/liberate-locked-windows-run-handbrake-now/"><u>Liberate Locked Windows: Run HandBrake Now</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-say-goodbye-to-grain-top-rated-video-resolution-enhancers-for-2024/"><u>New Say Goodbye to Grain Top-Rated Video Resolution Enhancers for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/personalize-windows-screen-lock-time/"><u>Personalize Windows Screen Lock Time</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-vivo-y78plus-t1-edition-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Vivo Y78+ (T1) Edition</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rankings-the-leading-portable-disc-writers/"><u>Top Rankings: The Leading Portable Disc Writers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-expert-psd-text-framing/"><u>[New] 2024 Approved Expert PSD Text Framing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonizing-visuals-and-soundtracks-with-youtubes-video-editor/"><u>[Updated] 2024 Approved Harmonizing Visuals & Soundtracks with YouTube's Video Editor</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-visualize-and-save-premium-free-screen-capture-software-on-pcmac/"><u>[Updated] In 2024, Visualize and Save - Premium Free Screen Capture Software on PC/Mac</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-elite-zoonotic-pattern-compendium/"><u>2024 Approved Elite Zoonotic Pattern Compendium</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-tips-and-tricks-for-easy-and-effective-xbox-gameplay-capture/"><u>2024 Approved Tips & Tricks for Easy and Effective Xbox Gameplay Capture</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/affordable-high-res-4k-cameras-under-1k/"><u>Affordable High-Res 4K Cameras Under $1K</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-robot-generated-passwords-for-win-11-access/"><u>Bypassing Robot-Generated Passwords for Win 11 Access</u></a></li>
+<li><a href="https://win11.techidaily.com/cortanas-farewell-windows-future-awaits/"><u>Cortana's Farewell, Windows' Future Awaits</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-android-studio-efficiency-on-windows-dev-environment/"><u>Maximize Android Studio Efficiency on Windows Dev Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-1110-onedrive-errors/"><u>Troubleshooting Windows 11/10 OneDrive Errors</u></a></li>
+<li><a href="https://win-docs.techidaily.com/usb-to-iphone-melody-migration-a-tutorial-on-beats-bypassing-itunes/"><u>USB to iPhone Melody Migration - A Tutorial on Beats Bypassing iTunes</u></a></li>
 </ul></div>
 

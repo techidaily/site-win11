@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Microsoft Store Crashes: Solving 0X80072F30 Error"
-date: 2024-08-08T13:13:44.033Z
-updated: 2024-08-09T13:13:44.033Z
+date: 2025-02-27T16:07:27.738Z
+updated: 2025-03-05T04:43:31.449Z
 tags:
   - windows10
   - windows11
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/05409c86ab861958a6ea56c42e05a9e6a04b032d3
 
 1. [Open S](https://www.makeuseof.com/windows-ways-to-open-system-settings/) e [ttings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) with the app’s handy**Win** +**I** keyboard shortcut. See [how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more handy methods.
 2. Next, click Settings'**Troubleshoot** navigation option in the**System** tab.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-run-button-for-the-app-troubleshooter.jpg)
 3. Click**Other-troubleshooters** to access Windows 11’s troubleshooting tools.
 4. Press Windows Store App’s**Run** button to see if that troubleshooter detects any issues.  
@@ -45,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/05409c86ab861958a6ea56c42e05a9e6a04b032d3
 
 1. Press the**Win** +**S** keyboard buttons simultaneously to access a search tool.
 2. Type**wsreset.exe** inside the text box to find that run command.  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A wsreset.exe search command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-wsreset-search.jpg)
 3. Select**wsreset.exe** to initiate the command.
 4. Restart Windows after resetting MS Store’s cache.
@@ -59,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/05409c86ab861958a6ea56c42e05a9e6a04b032d3
 1. Bring up the search tool in Windows 11 or 10, and input the keyword services there.
 2. Select**Services** to access that app’s window.
 3. Double-click**Windows Update** to view its properties window.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![The Services app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-service-window.jpg)
 4. Select the service’s**Automatic** option on the**Startup** drop-down if it’s not set to that already.  
 ![The Automatic startup option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-automatic-option.jpg)
@@ -69,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/05409c86ab861958a6ea56c42e05a9e6a04b032d3
 6. Remember to select**Apply** .
 7. Select**OK** to close the Windows Update Properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Check the Date & Time Settings on Your PC
 
  MS Store is an app for which correct time and date settings on your PC are important. Issues often occur when the MS Store app’s time is not in sync with that of your PC. You can check your PC’s date and time by glancing at its system tray clock. Follow these steps if it looks like you might need to readjust your PC’s time settings:
@@ -97,15 +85,9 @@ thumbnail: https://thmb.techidaily.com/05409c86ab861958a6ea56c42e05a9e6a04b032d3
 2. Then type**inetcpl.cpl** inside the**Open** command box.
 3. Click**OK** to view Internet Options.
 4. Select that window’s**Connections** tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![The Connections tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-connections-tab.jpg)
 5. Next, click**LAN** **settings** to reach the proxy server option.
 6. Deselect (uncheck) the checkbox for the**Use a proxy server** for your LAN setting if enabled.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Use a proxy server option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-use-proxy-server-option.jpg)
 7. Click**OK** on the Local Area Network window.
 
@@ -118,23 +100,13 @@ thumbnail: https://thmb.techidaily.com/05409c86ab861958a6ea56c42e05a9e6a04b032d3
 3. Right-click your internet connection there and select its**Properties** option.  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-properties-option.jpg)
 4. Select**Internet Protocol Version 4** , and click the**Properties** button.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Networking tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-networking-tab.jpg)
 5. Then click the**Obtain an IP address automatically** radio button to select that option.
 6. Select the**Obtain DNS server address automatically** setting.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The obtain DNS and IP address options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-automatic-dns-and-ip-address-options.jpg)
 7. Click**OK** on the Internet Protocol window.
 8. Select**Close** to exit the**Networking** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## 7\. Reinstall the Microsoft Store App
 
  The final solution for error 0x80072F30 is to reinstall MS Store. You can’t reinstall Microsoft Store like a standard app. However, you can effectively reinstall Microsoft Store by executing a PowerShell command in the following steps:
@@ -144,9 +116,6 @@ thumbnail: https://thmb.techidaily.com/05409c86ab861958a6ea56c42e05a9e6a04b032d3
 3. Select the**Run as administrator** option for PowerShell inside the search tool.
 4. Then input this command for reinstalling the Microsoft Store:  
 `Get-AppxPackage -allusers Microsoft.WindowsStore | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register &ldquo;$($_.InstallLocation)\AppXManifest.xml&rdquo;}`  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The reinstall Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-reinstall-powershell-command.jpg)
 5. Press**Enter** to reinstall the Microsoft Store.
 
@@ -160,8 +129,6 @@ thumbnail: https://thmb.techidaily.com/05409c86ab861958a6ea56c42e05a9e6a04b032d3
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,6 +136,18 @@ thumbnail: https://thmb.techidaily.com/05409c86ab861958a6ea56c42e05a9e6a04b032d3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-a-deeper-dive-into-youtube-seo-and-keywords/"><u>[New] In 2024, A Deeper Dive Into YouTube SEO and Keywords</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-tech-gear-best-win-11-webcam-recorders/"><u>[Updated] In 2024, Ultimate Tech Gear Best Win 11 Webcam Recorders</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-precision-adjustment-of-iphone-photo-dimensions-revealed/"><u>2024 Approved Precision Adjustment of iPhone Photo Dimensions Revealed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/elite-10-survival-skirmishes-for-2024/"><u>Elite 10 Survival Skirmishes for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/expediting-remedies-for-virtualboxs-efail-error-on-windows/"><u>Expediting Remedies for Virtualbox’s E_FAIL Error on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-child-safety-in-windows-11-settings/"><u>Implementing Child Safety in Windows 11 Settings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/music-and-motion-imovie-edition/"><u>Music & Motion IMovie Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/novice-to-pro-generating-win11-sefx-archives/"><u>Novice to Pro: Generating Win11 SEFx Archives</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-chrome-file-upload-obstacles-in-windows-os/"><u>Overcoming Chrome File Upload Obstacles in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-optimize-webview2-memory-on-edge/"><u>Strategies to Optimize WebView2 Memory on Edge</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-x-fold-2-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo X Fold 2</u></a></li>
+</ul></div>
 

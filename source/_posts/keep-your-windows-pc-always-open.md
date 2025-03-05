@@ -1,7 +1,7 @@
 ---
 title: Keep Your Windows PC Always Open
-date: 2024-12-24T17:55:20.871Z
-updated: 2024-12-28T01:37:20.097Z
+date: 2025-02-27T04:03:43.522Z
+updated: 2025-03-05T01:58:08.589Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
  By locking itself automatically once your PC goes into sleep mode, Windows ensures that your data stays private and nobody except you has access to your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Stop Windows From Automatically Locking Itself
 
 You can stop Windows from automatically locking itself by:
@@ -57,15 +53,7 @@ Now that we know how to do it, let's dive into the steps.
 
 ![Disable Windows sign-in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-sign-in-2.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Dynamic lock automatically locks your PC if a Bluetooth-connected device, for instance, your smartphone, goes out of range. So, disabling this option will ensure that your PC doesn’t lock up when you walk away from it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Disabling Sleep Mode and Screen Saver
 
@@ -75,20 +63,12 @@ Now that we know how to do it, let's dive into the steps.
 * In the Power & sleep section, set disable mode by choosing**Never** from both dropdowns under**Sleep** .  
 ![Disable sleep mode on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-sleep-mode.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’ve set a screen saver active on your PC, we also recommend turning it off, as it can, sometimes, cause Windows to automatically lock itself. To disable the screen saver:
 
 * Hit the Windows key again, type “screen saver”, and click**Turn screen saver on or off** to open**Screen Saver Settings** .
 * In the Screen Saver Settings, set**Screen saver** to**None** and uncheck**On resume, display the logon screen** .
 
 ![Disable screen saver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-screen-saver.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Editing Windows Registry to Disable Auto-Locking
 
@@ -127,22 +107,20 @@ Finally, restart your computer to see if a lock screen appears.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-peeling-back-layers-of-the-apple-m1-chip/"><u>[New] Peeling Back Layers of the Apple M1 Chip</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-agrees-to-reimburse-eligible-macbook-users-in-landmark-class-action-settlement-a-deep-dive-techinsider/"><u>Apple Agrees to Reimburse Eligible MacBook Users in Landmark Class Action Settlement: A Deep Dive - TechInsider</u></a></li>
-<li><a href="https://win11.techidaily.com/fixes-for-iphone-images-not-working-with-windows-systems/"><u>Fixes for iPhone Images Not Working with Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/free-windows-chatbot-embrace-gpt-liberation/"><u>Free Windows ChatBot: Embrace GPT Liberation</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/how-to-find-the-optimal-balance-equipment-for-drone-photography/"><u>How To Find the Optimal Balance Equipment for Drone Photography</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12, Apples New iPhone</u></a></li>
-<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo S17e? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/leverage-powertoys-to-speed-up-rename-tasks/"><u>Leverage PowerToys to Speed Up Rename Tasks</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-over-memory-metrics-for-windows-users/"><u>Mastery over Memory Metrics for Windows Users</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-unlock-the-power-of-dvd-creation-a-beginners-guide-to-movie-making-software/"><u>New 2024 Approved Unlock the Power of DVD Creation A Beginners Guide to Movie Making Software</u></a></li>
-<li><a href="https://win11.techidaily.com/recognize-invisible-drives-and-fix-windows-errors/"><u>Recognize Invisible Drives & Fix Windows Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/reigniting-windows-11-triggering-start-with-a-windows-7-code/"><u>Reigniting Windows 11: Triggering Start with a Windows 7 Code</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-your-crashing-resource-monitor-app-in-win11/"><u>Reviving Your Crashing Resource Monitor App in Win11</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/schritt-fur-schritt-anleitung-zum-klonen-einer-hdd-auf-einen-m2-ssd-unter-verwendung-von-secure-boot/"><u>Schritt-Für-Schritt Anleitung Zum Klonen Einer HDD Auf Einen M.2 SSD Unter Verwendung Von Secure Boot</u></a></li>
-<li><a href="https://win11.techidaily.com/the-basics-of-managing-windows-11-volume-levels/"><u>The Basics of Managing Windows 11 Volume Levels</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/outubers-overture-orchestrating-video-triumphs-for-2024/"><u>The YouTuber’s Overture Orchestrating Video Triumphs for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-reimagining-blockbuster-favorites-7-swap/"><u>[New] 2024 Approved Reimagining Blockbuster Favorites - #7 Swap</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-effortless-video-capturing-on-win11-os/"><u>[Updated] In 2024, Effortless Video Capturing on Win11 OS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-screens-sole-contender-software-or-hardware-triumph/"><u>[Updated] The Screen's Sole Contender Software or Hardware Triumph?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-is-inshot-leading-video-editing-an-examination-review/"><u>2024 Approved Is InShot Leading Video Editing? An Examination Review</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-functionality-of-law-filters-for-windows-users/"><u>Decoding the Functionality of LAW Filters for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/empowering-tech-connection-winpc-galaxy-with-flow-app/"><u>Empowering Tech Connection - WinPC, Galaxy with Flow App</u></a></li>
+<li><a href="https://win11.techidaily.com/exclusive-single-board-compatible-with-windows/"><u>Exclusive Single-Board Compatible with Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-x-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone X Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-windows-upgrade-error-0xc004f050/"><u>How to Fix the Windows Upgrade Error 0Xc004f050</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-permanently-delete-your-facebook-account/"><u>How to Permanently Delete Your Facebook Account</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-huawei-p60-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Huawei P60</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-inspecting-and-cleaning-windows-logs/"><u>Mastering the Art of Inspecting & Cleaning Windows Logs</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-no-display-driver-found-on-windows-11/"><u>Overcoming No Display Driver Found on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-code-navigating-through-lost-windows-1110-patches/"><u>Unlock the Code: Navigating Through Lost Windows 11/10 Patches</u></a></li>
 </ul></div>
 

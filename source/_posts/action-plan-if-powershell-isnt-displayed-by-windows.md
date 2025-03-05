@@ -1,7 +1,7 @@
 ---
 title: Action Plan if PowerShell Isn’t Displayed by Windows
-date: 2024-08-08T13:15:22.235Z
-updated: 2024-08-09T13:15:22.235Z
+date: 2025-03-02T23:39:50.654Z
+updated: 2025-03-04T22:33:43.725Z
 tags:
   - windows10
   - windows11
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/c811d888eaef42c6d49c05cdca31aa1712344b1b9
 6. When the User Account Control (UAC) prompt appears, select**Yes** to continue.
 7. In the Windows Features dialog, locate**Windows PowerShell** and select its checkbox.
 8. Click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-PowerShell-on-Windows.jpg)
 
  Restart your computer after this (see [how to restart a Windows computer](https://www.makeuseof.com/windows-restart-methods/) ) and then try to launch PowerShell using the search menu.
@@ -43,16 +40,10 @@ thumbnail: https://thmb.techidaily.com/c811d888eaef42c6d49c05cdca31aa1712344b1b9
 
  If you are unable to open PowerShell via the search menu, you can try using the Run dialog box. Press**Win + R** to open the Run dialog. Type**powershell** in the box and press**Enter** . If you want to launch PowerShell with admin rights, press**Ctrl + Shift + Enter** instead.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![Open PowerShell via Run Command on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-PowerShell-via-Run-Command-on-Windows.jpg)
 
  You can also open PowerShell from the File Explorer address bar. To do so, press**Win + E** to open File Explorer. Type**PowerShell** in the address bar and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Create a Desktop Shortcut for PowerShell
 
  Windows may fail to open PowerShell if it does not know the exact file path to the PowerShell executable file. If that’s the case, you can manually locate the PowerShell executable file on your computer and create a desktop shortcut for it. Here are the steps for doing the same.
@@ -100,18 +91,12 @@ To update PowerShell on Windows:
 3. When the User Account Control (UAC) prompt shows up, select**Yes** .
 4. Type the following command and press**Enter** .  
 `winget install --id Microsoft.Powershell --source winget`  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![Update PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-PowerShell-on-Windows.jpg)
 
  Windows will download and install the most recent version of PowerShell. Following that, you should be able to access PowerShell.
 
  Using Command Prompt isn't the only way to update PowerShell on Windows. If you want to learn other methods, check our guide on [how to install or update PowerShell on Windows](https://www.makeuseof.com/windows-11-powershell-install-update/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Create a New User Account
 
  It's possible that the PowerShell not opening problem is limited to your current user account. In that case, you can create and switch to a new user account and see if that works.
@@ -123,9 +108,6 @@ To create a new user account on Windows, use these steps.
 3. Select**Other users** .
 4. Click the**Add account** button.
 5. Click on **I don't have this person's sign-in information** and follow the on-screen prompts to create a new user account.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Microsoft Account Sign-In](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Microsoft-Account-Sign-In.jpg)
 
  Sign in with your newly created account, and see if Windows can find PowerShell now.
@@ -136,14 +118,11 @@ To create a new user account on Windows, use these steps.
 
  PowerShell isn't the only command-line tool available on Windows. You can also use the Command Prompt to communicate with your system.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,6 +131,19 @@ To create a new user account on Windows, use these steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-build-and-launch-youtube-video-ads-on-budget/"><u>[New] In 2024, Build & Launch YouTube Video Ads on Budget</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-evaluating-active-presenter-8s-performance-for-2024/"><u>[Updated] Evaluating Active Presenter 8'S Performance for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/breaking-down-instagrams-video-cap-limit/"><u>Breaking Down Instagram's Video Cap Limit</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-remote-connections-tips-for-windows-11-users/"><u>Decoding Remote Connections: Tips for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-scope-windows-terminal-vs-powershells-features/"><u>Exploring The Scope: Windows Terminal Vs. PowerShell's Features</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-m54-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Samsung Galaxy M54 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-marketing-magic-with-testimonial-videos/"><u>In 2024, Marketing Magic with Testimonial Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-samsung-galaxy-f54-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Samsung Galaxy F54 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-non-initialized-disk-errors-in-windows-810/"><u>Navigating Through Non-Initialized Disk Errors in Windows 8/10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-integrating-chatgpt-widget-into-your-android-device/"><u>Step-by-Step Guide: Integrating ChatGPT Widget Into Your Android Device</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-battery-status-updates-for-windows-devices/"><u>Tailored Battery Status Updates for Windows Devices</u></a></li>
+</ul></div>
 

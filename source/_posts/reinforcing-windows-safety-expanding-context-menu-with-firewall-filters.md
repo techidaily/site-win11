@@ -1,7 +1,7 @@
 ---
 title: "Reinforcing Windows Safety: Expanding Context Menu with Firewall Filters"
-date: 2025-02-09T17:00:17.878Z
-updated: 2025-02-15T21:56:29.508Z
+date: 2025-03-01T20:53:13.162Z
+updated: 2025-03-04T20:05:24.103Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add Firewall Block Options With OneClickFirewall
 
  OneClickFirewall is a freely available software that adds a couple of firewall context menu options. One is a**Block Internet Access** option that establishes a rule blocking the right-clicked program. The other option removes the rule when selected. This is how you can add those firewall block options to the context menu with OneClickFirewall.
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ![The OneClickFirewall setup wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/oneclickfirewall-window.jpg)
 7. Click**Next** \>**Install** to add new firewall options to the context menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Select**Finish** to exit the OneClickFirewall wizard.
 
  Now you can block software internet access from the classic context menu in Windows 11\. Bring up a software installation folder in File Explorer. Then right-click the program’s EXE (application) file to select**Show more options** . Select the new**Block Internet Access** option to set up an outbound rule.
@@ -55,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
  You’ll see the outbound rule in the Windows Defender Firewall with Advanced Security window. To view it, click the**Search** box button on the taskbar; and input**Windows Defender Firewall** inside the search box. Select the**Windows Defender Firewall with Advanced Security** search result. You can see the new rule by clicking**Outbound Rules** in the firewall app that opens.
 
 ![Outbound rules in the Windows Defender With Advanced Security app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/outbound-rules.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can remove the outbound rule by right-clicking it in the Windows Defender Firewall window and selecting**Disable Rule** . However, now you can also remove the rule via Explorer’s context menu.
 
@@ -83,17 +71,9 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 
 ![The Tweaking.com - Windows Firewall submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/tweaking-com-windows-firewall-submenu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can remove the Tweaking firewall context menu options within the window you selected to add them. Double-click**Right\_Click\_Options.exe** again to view that window. Then select the**Remove Right Click Menu** option there.
 
  You’ll also need to restart File Explorer for the change to take effect. To do this, perform one of the many[ways to open the Task Manager on Windows](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) and select its**Processes** tab. Right-click the Windows Explorer process and select**Restart** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apply Firewall Blocks to Software via the Context Menu
 
@@ -116,18 +96,22 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-premier-camera-drones-10-filmmakers-dream-fleet/"><u>[New] 2024 Approved Premier Camera Drones #10 Filmmakers' Dream Fleet</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-virtual-verbal-excellence-proven-methods-for-effective-zoom-interactions/"><u>[New] 2024 Approved Virtual Verbal Excellence Proven Methods for Effective Zoom Interactions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-creating-captivating-hdr-portraits-in-10-steps-for-2024/"><u>[New] Creating Captivating HDR Portraits in 10 Steps for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-immediate-techniques-for-instagram-video-audio-extraction-mp3-for-2024/"><u>[New] Immediate Techniques for Instagram Video Audio Extraction (MP3) for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-to-selecting-6-premium-live-audio-devices/"><u>[Updated] Ultimate Guide to Selecting 6 Premium Live Audio Devices</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-winter-vibes-selecting-heated-background-ideas/"><u>2024 Approved Winter Vibes Selecting Heated Background Ideas</u></a></li>
-<li><a href="https://extra-information.techidaily.com/audience-wow-factor-how-to-create-spectacular-live-streams/"><u>Audience Wow Factor How to Create Spectacular Live Streams</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-an-unstable-cursor-on-windows-systems/"><u>Fixing an Unstable Cursor on Windows Systems</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-illuminating-your-android-videos/"><u>In 2024, Illuminating Your Android Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/masterful-method-to-install-windows-11-on-elderly-pcs-with-to-go-and-rufus/"><u>Masterful Method to Install Windows 11 on Elderly PCs with To Go and Rufus</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-sony-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Sony</u></a></li>
-<li><a href="https://win11.techidaily.com/upgrading-graphics-ram-on-modern-windows-devices/"><u>Upgrading Graphics RAM on Modern Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-subsystem-discontinued-adapting-to-new-android-setup/"><u>Windows Subsystem Discontinued: Adapting to New Android Setup</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-dive-into-dynamic-youtube-discussions/"><u>[Updated] 2024 Approved Dive Into Dynamic YouTube Discussions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-innovate-with-spinning-images-iphone-filming-tactics/"><u>[Updated] 2024 Approved Innovate with Spinning Images IPhone Filming Tactics</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-youtubes-subtitlecc-landscape-with-expertise-and-speed/"><u>[Updated] Navigating YouTube's Subtitle/CC Landscape with Expertise and Speed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-oneplus-11r-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From OnePlus 11R to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-guide-reading-your-favorite-manga-on-amazon-kindle-devices/"><u>Easy Guide: Reading Your Favorite Manga on Amazon Kindle Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/echoenthusiast-auditory-review-exploration/"><u>EchoEnthusiast Auditory Review Exploration</u></a></li>
+<li><a href="https://win11.techidaily.com/hack-proof-guide-for-stripping-emails-post-logon/"><u>Hack-Proof Guide for Stripping Emails Post Logon</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://win11.techidaily.com/lightning-faster-the-5-fastest-pc-boosters-for-windows/"><u>Lightning Faster: The 5 Fastest PC Boosters for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-e84-issue-in-steam-on-windows-pcs/"><u>Resolving E84 Issue in Steam on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/revising-windows-lockout-settings-after-failed-login-attempts/"><u>Revising Windows Lockout Settings After Failed Login Attempts</u></a></li>
+<li><a href="https://win11.techidaily.com/separating-cloud-storage-onedrive-and-microsoft-account-in-windows-os/"><u>Separating Cloud Storage (OneDrive) and Microsoft Account in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-esc-key-woes-actionable-fixes-for-your-pc/"><u>Solving Esc Key Woes: Actionable Fixes for Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-solve-usb-recognition-problems-in-win-11/"><u>Steps to Solve USB Recognition Problems in Win 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-smartphone-fixes-apples-shift-to-reusing-old-iphone-parts-for-specific-models-detailed-analysis-by-zdnet/"><u>Transforming Smartphone Fixes: Apple's Shift to Reusing Old iPhone Parts for Specific Models - Detailed Analysis by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/unified-desktop-display-mastering-alt-tab-order-win1110/"><u>Unified Desktop Display: Mastering Alt-Tab Order (Win11/10)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unplugged-gaming-world-the-ultimate-list-of-best-free-mobile-apps-for-2024/"><u>Unplugged Gaming World - The Ultimate List of Best Free Mobile Apps for 2024</u></a></li>
 </ul></div>
 

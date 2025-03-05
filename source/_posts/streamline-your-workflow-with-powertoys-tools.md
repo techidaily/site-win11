@@ -1,7 +1,7 @@
 ---
 title: Streamline Your Workflow with PowerToys Tools
-date: 2024-12-22T17:27:47.767Z
-updated: 2024-12-28T02:58:12.392Z
+date: 2025-03-01T04:16:46.628Z
+updated: 2025-03-04T23:40:50.127Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
  If your version of PowerToys is up-to-date, you get the Paste as Plain Text feature which works like a charm. You can even paste text in Microsoft Word and other applications that don’t play nicely with the default**Ctrl + Shift + V** shortcut. The application even allows you to set a custom keyboard shortcut: so you don’t need to press a longer and more difficult three-key combination.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Enable and Use the "Paste as Plain Text" Feature in PowerToys
 
  This feature is available in the PowerToys version 0.68.0\. So, make sure to update the application to the latest version from Microsoft Store or[download PowerToys from GitHub](https://github.com/microsoft/PowerToys/releases) . Repeat the following steps to enable and customize the feature:
@@ -50,14 +46,6 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
 6. Open Microsoft Word or Google Docs and press the key combination you previously set for the Paste as Plain Text feature. You will see that the text appears in the document without any source formatting.  
 ![Paste as Plain Text Feature in Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/paste-as-plain-text-feature-in-action.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is "Mouse Jump" in PowerToys?
 
@@ -77,16 +65,8 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 ![Enable Mouse Jump in Power Toys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-mouse-jump-in-power-toys.jpg)
 4. Minimize the PowerToys window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. **Press** the key combination to open the Mouse Jump window. Hover the mouse pointer to the desired display area and click on it. The Mouse Jump window will close automatically, and the mouse pointer will appear in the area you selected before.  
 ![Mouse Jump Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mouse-jump-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Leverage These Useful PowerToys Features on Windows
 
@@ -107,15 +87,18 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-the-future-of-sound-design-magix-music-makers-latest-upgrade/"><u>[New] The Future of Sound Design Magix Music Maker's Latest Upgrade</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-invisible-glance-at-fb-episodes/"><u>[Updated] 2024 Approved Invisible Glance at FB Episodes</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-top-ten-lady-gamers-on-youtube-rising/"><u>[Updated] In 2024, Top Ten Lady Gamers on YouTube Rising</u></a></li>
-<li><a href="https://win11.techidaily.com/disassembling-and-reassembling-windows-app-settings-for-success/"><u>Disassembling and Reassembling Windows App Settings for Success</u></a></li>
-<li><a href="https://win11.techidaily.com/establish-prerequisites-before-vbox-installation/"><u>Establish Prerequisites Before VBox Installation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-mobile-photography-with-androids-lightroom/"><u>In 2024, Mastering Mobile Photography with Android’s Lightroom</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-infinix-smart-7-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Infinix Smart 7</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-inactive-alerts-for-phone-link-app-on-windows-devices/"><u>Tackling Inactive Alerts for Phone Link App on Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/temporary-user-profiles-avoiding-login-interruptions/"><u>Temporary User Profiles: Avoiding Login Interruptions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-iphone-case-that-stands-out-a-physical-keyboard-plus-more-surprises-insights/"><u>The iPhone Case That Stands Out: A Physical Keyboard Plus More Surprises - Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revolutionizing-image-quality-with-advanced-exposure-controls/"><u>[New] Revolutionizing Image Quality with Advanced Exposure Controls</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-quick-shot-screen-plus-sound-combo/"><u>[Updated] In 2024, Quick Shot Screen + Sound Combo</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-reality-of-youtubes-fast-subscribe-technique/"><u>[Updated] The Reality of YouTube's Fast Subscribe Technique</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-one-sided-windows-headphone-sound-loss/"><u>Fixing One-Sided Windows Headphone Sound Loss</u></a></li>
+<li><a href="https://win11.techidaily.com/get-rid-of-unwanted-files-setting-up-scheduled-deletions-on-win11/"><u>Get Rid of Unwanted Files: Setting Up Scheduled Deletions on Win11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-xs-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone XS Apple ID on MacBook</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-iphone-15-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your iPhone 15 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/instructional-manual-restoring-originality-in-windows-11-search/"><u>Instructional Manual: Restoring Originality in Windows 11 Search</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-fatal-application-hiccups-windows-edition/"><u>Overcoming Fatal Application Hiccups: Windows Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-recurring-audiotrack-flaw-the-fix-for-code-9999/"><u>Tackling Windows' Recurring Audiotrack Flaw: The Fix for Code 9999</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-s17-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo S17</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-sluggish-windows-printer/"><u>Troubleshoot Sluggish WIndows Printer</u></a></li>
 </ul></div>
 

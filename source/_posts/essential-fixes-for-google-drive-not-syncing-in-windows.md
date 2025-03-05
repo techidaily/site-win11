@@ -1,7 +1,7 @@
 ---
 title: Essential Fixes for Google Drive Not Syncing in Windows
-date: 2025-02-14T00:49:09.509Z
-updated: 2025-02-15T18:13:52.183Z
+date: 2025-02-26T19:21:14.374Z
+updated: 2025-03-05T00:00:11.391Z
 tags:
   - windows10
   - windows11
@@ -37,14 +37,6 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 
 ![Restart Option In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-option-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Disconnect and Reconnect Your Google Account
 
  If your Google account doesn’t connect properly during the initial Drive setup, it starts throwing syncing errors. So, if you’re unable to modify any files in the Drive, you should try reconnecting your Google account. Note that before reconnecting your account, you first need to disconnect it from Google Drive preferences.
@@ -55,10 +47,6 @@ Follow the below steps to disconnect your Google account from Drive:
 2. Click the**Settings** **(gear)** icon and select**Preferences** .  
 ![Preferences Options In Drive For Desktop Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/preferences-options-in-google-drive.jpg)
 3. On the**Preferences** window, click**Disconnect account** next to your Google account.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Google Drive Preferences Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/google-drive-preferences-window.jpg)
 4. Again, click**Disconnect** to confirm your action. Once done, open Google Drive from the start menu.
@@ -88,10 +76,6 @@ Follow the below steps to disconnect your Google account from Drive:
 
 ![Ipconfig Command In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ipconfig-in-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your issue is still not resolved, keep reading, as you may need to jump on to some advanced troubleshooting methods.
 
 ## 5\. Check the Required Permissions to Sync Files
@@ -120,10 +104,6 @@ Follow the below steps to disconnect your Google account from Drive:
 ![Google Drive's Official Website Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/google-drive-website-overview.jpg)
 2. Run the installer file you just downloaded and click**Install** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Drive For Desktop Installer Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-for-desktop-installer.jpg)
 3. Click**Sign in with browser** and log in with your desired Google account.
 
@@ -141,10 +121,6 @@ Follow the below steps to disconnect your Google account from Drive:
 * **Check your Drive’s Storage:** Google Drive offers only 15GB of storage to normal users. If you have low cloud storage, you may not be able to upload any new files because of storage limits.
 * **Tweak Sync option:** Google Drive will stop syncing any files if you’ve modified the sync options. To revert it, click the**Settings (gear)** icon in Google Drive and select**Resume syncing** .
 * **Restart Google Drive:** To restart the Drive for desktop, click the**Google Drive** icon on the bottom right of the taskbar, and then click**Settings > Quit** . Now, reopen it from the search or start menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Restore Google Drive Sync on Windows
 
@@ -167,17 +143,19 @@ Follow the below steps to disconnect your Google account from Drive:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-adding-closed-captions-to-vimeo-footage/"><u>[New] Adding Closed Captions to Vimeo Footage</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-best-free-online-photo-tools-ranked-15-for-2024/"><u>[Updated] Best Free Online Photo Tools Ranked #15 for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-tailoring-thumbnails-for-increased-video-engagement-on-youtube/"><u>[Updated] Tailoring Thumbnails for Increased Video Engagement on YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-click-issues-in-windows-11-a-step-by-step-guide/"><u>Fixing Click Issues in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-apple-iphone-14-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked Apple iPhone 14 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guia-passo-a-passo-para-fazer-uma-copia-de-dvd-no-windows-11/"><u>Guia Passo a Passo Para Fazer Uma Cópia De DVD No Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-cannot-play-file-error-224003-on-videos/"><u>How to Overcome the 'Cannot Play File: Error #224003' On Videos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-asmr-gurus-recommend-best-microphones-reviewed/"><u>In 2024, ASMR Gurus Recommend Best Microphones Reviewed</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-network-proxy-errors/"><u>Overcoming Windows Network Proxy Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-limit-high-utilization-by-windows-module-worker/"><u>Solutions to Limit High Utilization by Windows Module Worker</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/mlining-revenue-with-youtubes-mobile-monetization-features-for-creators/"><u>Streamlining Revenue with YouTube's Mobile Monetization Features for Creators</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-strategies-outlook-turbocharged-tips/"><u>Winning Strategies: Outlook Turbocharged Tips</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-optimal-camera-balance-for-drone-use-for-2024/"><u>[Updated] Optimal Camera Balance for Drone Use for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/crucial-aspects-getting-ready-for-a-full-operating-system-removal/"><u>Crucial Aspects: Getting Ready for a Full Operating System Removal</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-solving-audio-problems-in-your-logitech-video-capture-device/"><u>Diagnosing & Solving Audio Problems in Your Logitech Video Capture Device</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-ntfs-files-space-savings-via-compression/"><u>Exploring NTFS Files' Space Savings via Compression</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/implement-real-time-speeds-in-system-ui-settings/"><u>Implement Real-Time Speeds in System UI Settings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-oneclickpodcaststream-effortlessly-livestream-your-podcast-content/"><u>In 2024, OneClickPodcastStream Effortlessly Livestream Your Podcast Content</u></a></li>
+<li><a href="https://win11.techidaily.com/insights-into-user-complaints-about-windows-11/"><u>Insights Into User Complaints About Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/masterclass-on-device-serial-number-extraction-for-windows-users/"><u>Masterclass on Device Serial Number Extraction for Windows Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastering-focus-8-powerful-chatgpt-prompts-that-block-digital-disruptions/"><u>Mastering Focus: 8 Powerful ChatGPT Prompts That Block Digital Disruptions</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-reduce-webm-file-size-top-online-compressors/"><u>New In 2024, Reduce WebM File Size Top Online Compressors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-remedies-to-restore-bluetooth-connectivity-on-windows-10-computers/"><u>Quick Remedies to Restore Bluetooth Connectivity on Windows 10 Computers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-update-or-download-new-elan-smbus-drivers-on-your-windows-pc/"><u>Step-by-Step Tutorial: Update or Download New ELAN SMBus Drivers on Your Windows PC</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-made-easy-how-driver-updates-can-fix-your-device-issues-insights-from-yl-software/"><u>Troubleshooting Made Easy: How Driver Updates Can Fix Your Device Issues – Insights From YL Software</u></a></li>
 </ul></div>
 

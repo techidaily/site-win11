@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Tutorial: Starting Windows Media Player"
-date: 2024-08-08T13:15:13.898Z
-updated: 2024-08-09T13:15:13.898Z
+date: 2025-02-26T04:50:46.408Z
+updated: 2025-03-04T23:04:14.683Z
 tags:
   - windows10
   - windows11
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 
  If you're looking for an easy way to play and manage your media files in Windows 11, then Windows Media Player is what you need. It's a free built-in application that allows you to quickly access your audio, video, and photo files with just a few clicks. In this article, we'll show you how to open Windows Media Player in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. How to Open Windows Media Player Using Search Tool
 
  If you're seeking information about how to open Windows Media Player on your computer, the Windows Search tool is a good place to start. To open Windows Media Player using the search tool, do the following:
@@ -42,9 +39,6 @@ To open Windows Media Player using the Run command, do the following:
 
  That's it. This is how you can open Windows Media Player on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. How to Open Windows Media Player Via Task Manager
 
  Task Manager is a powerful Windows tool you can use to manage your computer's resources as well as close unresponsive programs, but it isn't limited to this. You can also use it to open applications, such as Windows Media Player, quickly and easily.
@@ -59,9 +53,6 @@ To open Windows Media Player using Task Manager, follow these steps:
 
  This will open up Media Player, so you can enjoy all your media files without any trouble!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## 4\. How to Open Windows Media Player From File Explorer
 
  Another way to access Windows Media Player is by using File Explorer. To do this, follow the below steps:
@@ -91,9 +82,6 @@ To open Windows Media Player using Task Manager, follow these steps:
 ![Open Windows Media Player Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-control-panel.jpg)
 4. Now double-click**Windows Media Player Legacy** to launch the tool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## 7\. How to Open Windows Media Player With a Desktop Shortcut
 
  Creating a desktop shortcut for Windows Media Player is one of the most convenient and efficient ways to start playing audio and video files. This can be very useful if you frequently open the Windows Media Player application on your computer. This way, you can quickly access the application without having to search your hard drive or a search engine.
@@ -101,9 +89,6 @@ To open Windows Media Player using Task Manager, follow these steps:
  To open Windows Media Player from a desktop shortcut, you must first create its shortcut. Here's how to do it.
 
 1. Right-click on your desktop area and select**New > Shortcut** .  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create Desktop Shortcut of Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-desktop-shortcut-of-windows-media-player.jpg)
 2. In the text box, type the following path and click**Next** or press**Enter** .  
 C:\Program Files (x86)\Windows Media Player\wmplayer.exe
@@ -119,18 +104,12 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
 
  After creating the shortcut, double-click it to launch Windows Media Player Legacy.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. How to Open Windows Media Player Using a Keyboard Shortcut
 
  Windows offers multiple ways to open Windows Media Player, but the keyboard shortcut is the quickest and easiest way. To use it, follow these steps:
 
 1. Make a Windows Media Player shortcut as per method number seven.
 2. Right-click on the shortcut icon and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create Shortcut key for Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-shortcut-key-for-windows-media-player.jpg)
 3. Type any letter or number in the shortcut field.
 4. Next, click**Apply > OK** to save the changes
@@ -141,14 +120,11 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
 
  After reading this article, you should now be familiar with nine different ways that you can use to open Windows Media Player on your Windows operating system. Try them out and choose the one that works for you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,6 +133,22 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-elevate-your-hashtag-game-on-instagram-a-comprehensive-guide/"><u>[New] In 2024, Elevate Your Hashtag Game on Instagram A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-photo-perfection-can-picku-be-top-for-android-users/"><u>2024 Approved Exploring Photo Perfection Can PickU Be Top for Android Users?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-hook-it-game-winning-podcast-beginnings/"><u>2024 Approved The Hook-It Game Winning Podcast Beginnings</u></a></li>
+<li><a href="https://win11.techidaily.com/disassembled-data-dike-consider-continuity-over-change/"><u>Disassembled Data Dike: Consider Continuity Over Change</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-nonexistent-hardware-reference-errors/"><u>Eradicating Nonexistent Hardware Reference Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tools-and-platforms-for-successful-twitch-streaming/"><u>Essential Tools and Platforms for Successful Twitch Streaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-chilling-prowess-of-boston-dynamics-latest-creation-the-atlas-robot-an-in-depth-analysis-zdnet/"><u>Exploring the Chilling Prowess of Boston Dynamics' Latest Creation, The Atlas Robot: An In-Depth Analysis | ZDNET</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-quick-access-to-xps-movie-making-tools/"><u>In 2024, Quick Access to XP's Movie Making Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-kinemaster-techniques-for-memelore/"><u>In 2024, Quick KineMaster Techniques for Memelore</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-missing-file-updates-fix-guide-error-code-0x80070003/"><u>Mastering Windows' Missing File Updates Fix Guide (Error Code: 0X80070003)</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-improper-token-operation-in-windows-1011/"><u>Mitigating Improper Token Operation in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-power-of-wintoys-an-efficient-guide-to-windows-apps/"><u>Navigating the Power of 'WinToys': An Efficient Guide to Windows Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-graphics-integrity-win-11s-dxgi-solutions/"><u>Secure Graphics Integrity: Win 11'S DXGI Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/triggering-windows-recovery-five-steps/"><u>Triggering Windows' Recovery: Five Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-audio-malfunctions-in-microsofts-slide-decks/"><u>Troubleshooting Audio Malfunctions In Microsoft's Slide Decks</u></a></li>
+</ul></div>
 

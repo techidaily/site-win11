@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Extraction Fails: Addressing Error 1152 in Windows"
-date: 2024-08-08T13:14:11.741Z
-updated: 2024-08-09T13:14:11.741Z
+date: 2025-02-28T03:09:28.594Z
+updated: 2025-03-04T16:14:43.810Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
 
  The error 1152 message highlights something has gone wrong with the extraction of files during installation. It also mentions extraction to a temporary location, a clue for a possible cause. This is how you can fix Error 1152 on a Windows 10 or 11 PC.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Download the Affected Installation File Again
 
  This error can feasibly occur because of an issue with the downloaded installer file. Download process errors can corrupt files. So, try downloading the same setup file again, preferably from a different website source if you can. Then right-click the new installer file and select to run it with administrative rights.
@@ -33,17 +29,11 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
  Setting full control permissions for the Temp folder has fixed error 1552 for many users. That highlights error 1152 occurs because the Temp folder has insufficient permissions. You can address such a potential cause by adjusting permission settings for the Temp folder like this:
 
 1. Go to "C:\\Windows" in File Explorer, then right-click on the **temp** directory in the Windows folder and select **Properties**.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 2. ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/properties-option5.jpg)
 3. Select **Security** within the tab bar.
 4. Click on the **Edit** button to view a permission window.  
 ![The Edit button on the temp Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button.jpg)
 5. Next, click **Add** to bring up an object name selection window.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Select Users or Groups window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/select-user-or-groups-window.jpg)
 
 1. Type **everyone** inside the object name box, then click **Check Names**.
@@ -63,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
 
  Our guide on [deleting temporary files on Windows 11](https://www.makeuseof.com/windows-11-delete-temporary-files/) includes instructions for erasing data in the Temp folder with Disk Cleanup and other methods.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Temporary files checkbox in the Disk Clean-up tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/temporary-files-checkbox.jpg)
 
 ## 4\. Perform a Clean Boot
@@ -74,21 +61,13 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
 
  First, you must configure a clean boot by disabling third-party background items with Task Manager and System Configuration (MSConfig). To do that, follow the instructions in our [how to clean boot Windows](https://www.makeuseof.com/clean-boot-windows-11/) guide. Then restart your PC with the third-party items disabled and try running the affected installer file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![The Hide all Microsoft services checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hide-all-microsoft-services-checkbox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Install the Windows Software You Need Again
 
  There aren’t that many confirmed resolutions for error 1152\. However, the ones covered here have worked for many users who’ve needed to fix that Windows software installation issue.
 
  The error 1152 message highlights something has gone wrong with the extraction of files during installation. It also mentions extraction to a temporary location, a clue for a possible cause. This is how you can fix Error 1152 on a Windows 10 or 11 PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -96,4 +75,27 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fix-hidden-suggested-youtube-and-facebook-videos-explained/"><u>[Updated] Fix Hidden Suggested YouTube & Facebook Videos Explained</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-detailed-look-at-garmin-forerunner-45-unveiling-its-capabilities-for-various-fitness-pursuits/"><u>A Detailed Look at Garmin Forerunner 지오45 - Unveiling Its Capabilities for Various Fitness Pursuits</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/a-step-by-step-guide-to-snapchats-boomerang-magic-for-2024/"><u>A Step-by-Step Guide to Snapchat's Boomerang Magic for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/choreographing-climactic-crescendos-for-2024/"><u>Choreographing Climactic Crescendos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-fixes-to-stop-severe-js-problems-from-appearing-in-discord/"><u>Effective Fixes to Stop Severe JS Problems From Appearing in Discord</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-to-effortlessly-setup-the-jdk-on-windows-11/"><u>Expert Tips to Effortlessly Setup the JDK on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-microsoft-wi-fi-display-connection-issues-on-windows-11-a-step-by-step-guide/"><u>Fixing Microsoft Wi-Fi Display Connection Issues on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/hacks-for-tapping-into-windows-statistics-hub-quickly/"><u>Hacks for Tapping Into Windows Statistics Hub Quickly</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-tecno-camon-20-premier-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Tecno Camon 20 Premier 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-asus-rog-phone-7-ultimate-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Asus ROG Phone 7 Ultimate Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reestablishing-utorrent-peer-connections-a-windows-focus-guide/"><u>Reestablishing uTorrent Peer Connections: A Windows Focus Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-incorrect-system-token-access-error-in-windows-1110/"><u>Solving Incorrect System Token Access Error in Windows 11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/stripping-backgrounds-with-ease-using-paintbrushes/"><u>Stripping Backgrounds with Ease Using Paintbrushes</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/stunning-ascension-day-backgrounds-by-yl-computing-digital-artwork-collection/"><u>Stunning Ascension Day Backgrounds by YL Computing - Digital Artwork Collection</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-setup-placing-essential-icons-on-windows-11-taskbar/"><u>Swift Setup: Placing Essential Icons on Windows 11 Taskbar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-dvd-playback-problems-on-windows-computers/"><u>Troubleshooting Guide: DVD Playback Problems on Windows Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-your-computer-disable-windows-11-firewall/"><u>Unleashing Your Computer: Disable Windows 11 Firewall</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-secure-boot-disabled-a-windows-bios-strategy/"><u>Unlocking Secure Boot Disabled: A Windows BIOS Strategy</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Boost Productivity with These Top 5 File Management Hacks
-date: 2024-08-08T13:11:58.501Z
-updated: 2024-08-09T13:11:58.501Z
+date: 2025-02-28T02:18:12.084Z
+updated: 2025-03-05T03:03:17.643Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 
  Surely you'd like to know ways to make working with folders easier and better. So here are a few quick folder tips and tricks that make things easy and fun.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Create an Invisible Secret Folder
 
  Create a folder faster through this shortcut: press and hold the **Ctrl + Shift** keys together on your keyboard and then press the **N** key. You can then name the folder.
@@ -31,22 +28,13 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 
 1. When you create a folder, the name field underneath the folder gets selected for naming. But instead of naming the folder, press the **Alt** key followed by the number **255**, and then hit **Enter**.
 2. The name field of the folder will disappear—actually, it's still there but becomes invisible.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Folder on Desktop With Name Field Invisible](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/name-field-of-folder-invisible-1.jpg)
 3. Then make the folder invisible too. **Right-click** the folder and choose **Properties** from the menu.
 4. In **Properties**, select the **Customize** tab. Then under **Folder icons**, select **Change icon**.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select Change Icon In Customize Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-icon-in-customize-tab.jpg)
 5. In the **Change Icon for Folder** window scroll to the right with the arrow key to reach a blank space. This blank space is a blank icon—you will know when you select it. Then click on **OK**.  
 ![Blank Space Selected As Folder Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/select-blank-space-as-folder-icon.jpg)
 6. Back in the **Customize** tab, you will see no icon under **Folder icon**. Click **Apply** and then **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Folder Icon Not Visible in Customize Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/folder-icon-not-visible.jpg)
 
  You will see that the default yellow folder icon has become invisible. Without selecting it, no one can see it. Only you know it is there.
@@ -57,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 
  And if you want to name it, right-click the folder and select **Rename** to make the name field visible.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Rename Multiple Folders Together
 
  You don't need to click each folder name field and type the names to name or rename multiple folders together. Use the following method that works well within a folder with subfolders or in File Explorer:
@@ -81,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 
  Now with two folder windows, you can move and navigate easily between subfolders and files.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Change Folder Size With the Mouse
 
  You'll find this tip handy if you use a desktop PC with a mouse or a mouse with your laptop.
@@ -91,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 1. Left-click with your mouse on the desktop, in File Explorer, or within a folder.
 2. Press and hold the **ctrl** key. Then use your **mouse scroll wheel** to change the size of folders on the desktop or subfolders within a folder.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 5\. Find Hidden Folders You Forgot About
 
  Your PC would have thousands of files and folders. And there may be times when you can't find some folders because you may have hidden them earlier and forgot about them.
@@ -103,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 1. Press the **Win + E** keys together to open **File Explorer**. Or use the [many ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/).
 2. Click the **View** tab.
 3. Then click **Options** and then **Change folder and search options**.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![Select Change Folder and Search Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-folder-options-file-explorer.jpg)
 4. In **Folder Options**, select the **View** tab.
 5. Under **Advanced settings**, turn on the option to **Show hidden files, folders, and drives**. Then click **OK**.  
@@ -126,12 +101,29 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 
  Surely you'd like to know ways to make working with folders easier and better. So here are a few quick folder tips and tricks that make things easy and fun.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-uav-connoisseurs-guide-to-essential-equipment/"><u>[New] In 2024, The UAV Connoisseur's Guide to Essential Equipment</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-incorporating-yt-playlists-into-web-design/"><u>2024 Approved Incorporating YT Playlists Into Web Design</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-pun-picture-studio-chucklecrafts/"><u>2024 Approved Pun Picture Studio ChuckleCrafts</u></a></li>
+<li><a href="https://win11.techidaily.com/executing-windows-sfc-a-step-wise-procedure/"><u>Executing Windows SFC: A Step-Wise Procedure</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-runmux-gaming-microphone-issues-troubleshooting-tips/"><u>Fixing Runmux Gaming Microphone Issues: Troubleshooting Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/futureproof-your-pc-with-the-elite-ssd-picks-insights-from-zdnet/"><u>Futureproof Your PC with the Elite SSD Picks - Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-cascade-all-open-windows-in-windows-11-and-10/"><u>How to Cascade All Open Windows in Windows 11 and 10</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-unknown-usb-device-port-reset-failed-error-in-windows-11/"><u>How to Fix the Unknown USB Device, Port Reset Failed Error in Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/master-the-mix-incorporating-and-refining-music-into-canva-projects/"><u>Master the Mix Incorporating & Refining Music Into Canva Projects</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-resolution-of-0x800f0845/"><u>Mastering the Resolution of 0X800f0845</u></a></li>
+<li><a href="https://win11.techidaily.com/quicken-keystrokes-unlocking-potential-via-powertoys/"><u>Quicken Keystrokes: Unlocking Potential via PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-outlook-cant-access-message-on-shared-pc-folders/"><u>Remedy for Outlook Can’t Access Message on Shared PC Folders</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-steps-seamlessly-converting-mvi-files-to-avi-and-enjoying-flawless-playback-across-all-gadgets/"><u>Simple Steps: Seamlessly Converting MVI Files to AVI & Enjoying Flawless Playback Across All Gadgets</u></a></li>
+<li><a href="https://win11.techidaily.com/stepwise-implementation-of-custom-lock-patterns-for-windows-11/"><u>Stepwise Implementation of Custom Lock Patterns for Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Realme Narzo 60 5G | Dr.fone</u></a></li>
+</ul></div>
 

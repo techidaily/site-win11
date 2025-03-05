@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Customizing Hotkey Behavior"
-date: 2024-08-08T13:11:50.131Z
-updated: 2024-08-09T13:11:50.131Z
+date: 2025-03-04T02:56:11.161Z
+updated: 2025-03-04T16:56:58.613Z
 tags:
   - windows10
   - windows11
@@ -28,15 +28,9 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 2. Click the**QuickTextPaste\_x64.zip** download link.
 3. Press the**Windows** logo +**E** keyboard buttons to open the file manager and go to the directory the QuickTextPaste ZIP downloaded.
 4. Follow the steps in this guide about [unzipping files within Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the QuickTextPaste archive.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-compressed-window.jpg)
 5. Double-click**QuickTextPaste\_x64.exe** to run QuickTextPaste.
 6. Now input some text you want to set up a custom paste hotkey for within the**Add** **text** box.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The QuickTextPaste window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-quicktextpaste-window.jpg)
 7. Select the keys to include within your hotkey on the two drop-down menus at the bottom of the QuickTextPaste window.
 8. Press the**Add** button. You should see your new hotkey listed within the Keyboard Shortcuts column.
@@ -51,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
  QuickTextPaste needs to be running in the background for its hotkeys to work. You can set the program to run automatically by clicking**Action** \>**Start** **with Windows** . Select the**Always start minimized (ToTray)** option to set the program to appear only in the system tray area when started.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Set up Hotkeys for Pasting Pre-Defined Text With HotkeyP
 
  HotkeyP is a lightweight app with which you can set up a wide variety of system, display, multimedia, window, and macro hotkeys. As it’s a portable program, you can utilize it on most Windows platforms with no installation necessary. These are the steps for setting up a custom paste hotkey for pre-defined text with HotkeyP:
@@ -63,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 3. Click the**External Mirror - x64** option for a 64-bit version of the software.
 4. Go into Explorer and open the folder your hotkeyp\_64bit ZIP file downloaded in.
 5. Unzip the**hotkeyp\_64bit.zip** archive by right-clicking it and selecting**Extract All** . Click**Show extracted files** **when complete** \>**Extract** within the extraction tool.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Extract All context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-all-option.jpg)
 
 1. Double-click**HotkeyP.exe** within the hotkeyp\_64bit folder.
@@ -78,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 6. Select one or more**Ctrl** ,**Alt** ,**Win** , and**Shift** checkboxes.
 7. Input a letter key within the text box to set the hotkey.
 8. Enter a title for the hotkey in the**Description** box.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hot-key-window.jpg)
 9. Select**OK** to add the new custom paste hotkey.
 
@@ -90,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
  You can configure general settings for HotkeyP by clicking**Window** \>**Options** . The**Start automatically at Windows startup** checkbox is already selected by default on the**General** tab. That tab also includes options for adding/removing buttons in the main window, setting buttons for hiding the window and showing the program in the system tray among others.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The General tab in HotkeyP's Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-general-tab.jpg)
 
 ## Creating Other Hotkeys With HotkeyP
@@ -115,8 +97,6 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,6 +104,20 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-gameplay-chronicles-proven-techniques-for-recording-your-sims-epic-saga-in-sims-4-for-2024/"><u>[New] Gameplay Chronicles Proven Techniques for Recording Your Sim's Epic Saga in Sims 4 for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-dynamic-dialogue-dance-decks/"><u>[Updated] In 2024, Dynamic Dialogue Dance Decks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-three-cameras-for-ultra-detailed-videography/"><u>[Updated] Leading Three Cameras for Ultra-Detailed Videography</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-prime-video-capturing-applications/"><u>[Updated] Prime Video Capturing Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/convenient-notetaking-tips-for-windows-users/"><u>Convenient Notetaking Tips for Windows Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-ways-to-add-and-employ-chatgpt-modules-on-any-device/"><u>Easy Ways to Add & Employ ChatGPT Modules on Any Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/evaluating-gopro-hero5-video-outputs/"><u>Evaluating GoPro Hero5 Video Outputs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-efficiency-on-your-iphone-with-ios-18-customizing-the-quick-settings-menu/"><u>Maximize Efficiency on Your iPhone with iOS 18 - Customizing the Quick Settings Menu</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/preventing-and-repairing-corrupted-mov-files-on-mac/"><u>Preventing and Repairing Corrupted MOV Files on Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/reawakening-windows-photo-viewer-in-windows-10-with-ease-for-2024/"><u>Reawakening Windows Photo Viewer in Windows 10 with Ease for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-complete-walkthrough-to-tablet-bar-setup-in-windows-11/"><u>The Complete Walkthrough to Tablet Bar Setup in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-win1011-error-0x800700e1/"><u>Troubleshooting Win10/11 Error 0X800700E1</u></a></li>
+<li><a href="https://win11.techidaily.com/win-steam-tips-for-overcoming-offline-problems/"><u>Win Steam: Tips for Overcoming Offline Problems</u></a></li>
+</ul></div>
 

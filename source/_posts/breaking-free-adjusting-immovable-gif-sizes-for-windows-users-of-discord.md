@@ -1,7 +1,7 @@
 ---
 title: "Breaking Free: Adjusting Immovable GIF Sizes for Windows Users of Discord"
-date: 2024-08-08T13:11:54.704Z
-updated: 2024-08-09T13:11:54.704Z
+date: 2025-03-02T21:04:26.190Z
+updated: 2025-03-04T17:05:46.067Z
 tags:
   - windows10
   - windows11
@@ -28,15 +28,9 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
 1. Visit the [Ezgif website](https://ezgif.com/optimize).
 2. Click the **Choose** **File** button and select the GIF that's throwing the error on uploading on Discord.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Choose File on Ezgif website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/choose-file.jpg)
 3. Click the **Upload** button.
 4. Use the **Compression level slider** to manually adjust the amount of compression. If your GIF is large in size, set the slider at a higher level.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![Compression slider on Ezgif website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/compression-slider.jpg)
 5. Click the **Optimize GIF** button.
 6. Click the **Save** button.  
@@ -50,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 ![Resize image option in Ezgif wesbite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/resize-image.jpg)
 4. Click the **Save** icon.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## 2\. Log Out and Back Into the Discord App
 
  Discord's "cannot resize GIF" error can also occur due to a temporary glitch or bug with your Discord account. In this case, the best solution is to log out and in on your Discord app. Here's how to do that:
@@ -65,27 +55,18 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  After that, try to upload the GIF and check if you still face the error.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 3\. Clear the Discord Cache Data
 
  Discord's cache stores all your media, so you don't have to re-download them every time you see it. However, whether it's because of malware attacks, sudden system shutdowns due to power cuts, or something else, the cache data can get corrupted and cause issues like the one at hand.
 
  To fix this issue, you will have to [clear the Discord cache](https://www.makeuseof.com/tag/discord-users-free-up-disk-space/) on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Reinstall Discord
 
  The error message can also occur due to an issue in the Discord installation files. You can fix this by reinstalling Discord.
 
  To do that, first [uninstall the app on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and restart your computer. Then, visit the [Discord download page](https://discord.com/download) and install it on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Contact Discord Support
 
  Are you still facing the issue? If yes, that means this is probably an issue with your Discord account. In this case, the only solution is to reach out to the [Discord support](https://support.discord.com/hc/en-us) team and ask them to resolve the issue.
@@ -96,12 +77,31 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  This error typically occurs when the GIF size exceeds Discord's supported limits. Fortunately, it's very easy to troubleshoot this error. Below, we'll look at various solutions to fix the Discord "cannot resize GIF" error on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-all-facets-of-adobes-storage-system-and-its-equivalents-in-the-market/"><u>[New] 2024 Approved All Facets of Adobe's Storage System & Its Equivalents in the Market</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-gleeful-loginsign-up-step-guide/"><u>[New] 2024 Approved Gleeful Login/Sign Up Step Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-one-mans-quest-with-3d-tech-3dr-analysis-for-2024/"><u>[New] One Man's Quest with 3D Tech '3DR' Analysis for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-techniques-for-incorporating-hyperlinks-into-tiktok-profiles/"><u>2024 Approved Top Techniques for Incorporating Hyperlinks Into TikTok Profiles</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-ultimate-list-premier-iphone-tone-producers/"><u>2024 Approved Ultimate List Premier iPhone Tone Producers</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-tecno-spark-10-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Tecno Spark 10 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/guide-complet-pour-rectifier-erreurs-de-donnees-en-implantant-la-redondance-cyclique-ccrm/"><u>Guide Complet Pour Rectifier Erreurs De Données en Implantant La Redondance Cyclique (CCRM)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-agni-2-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Agni 2 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-monitor-settings-high-res-windows/"><u>Mastering Monitor Settings: High Res Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-network-fixes-resolving-windowss-spotify-problems/"><u>Mastering Network Fixes: Resolving Windows's Spotify Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-0x0000004e-windows-failure/"><u>Overcoming 0X0000004E Windows Failure</u></a></li>
+<li><a href="https://win11.techidaily.com/remedies-for-the-malfunction-of-windows-11s-brightness-control-fn/"><u>Remedies for the Malfunction of Windows 11'S Brightness Control Fn</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-directx-installation-obstacles/"><u>Remedying DirectX Installation Obstacles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-addressing-and-repairing-the-d3d-device-creation-failure/"><u>Solution Guide: Addressing and Repairing the D3D Device Creation Failure</u></a></li>
+<li><a href="https://win11.techidaily.com/wake-up-your-pcs-potential-with-these-fixes-that-can-rescue-broken-keyboard-shortcuts-in-windows/"><u>Wake up Your PC's Potential with These Fixes that Can Rescue Broken Keyboard Shortcuts in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-1011-mastering-the-art-of-clearing-security-history/"><u>Windows 10/11: Mastering the Art of Clearing Security History</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-desktop-website-launcher-guide/"><u>Windows Desktop Website Launcher Guide</u></a></li>
+</ul></div>
 

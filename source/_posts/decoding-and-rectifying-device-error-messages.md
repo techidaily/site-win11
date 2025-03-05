@@ -1,7 +1,7 @@
 ---
 title: Decoding and Rectifying Device Error Messages
-date: 2025-02-11T23:06:54.580Z
-updated: 2025-02-16T01:10:11.619Z
+date: 2025-03-02T22:27:11.373Z
+updated: 2025-03-05T00:41:15.432Z
 tags:
   - windows10
   - windows11
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 
 ![The Block apps checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-block-apps-checkbox.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Deselect the "Unblock File" Setting
 
  Sometimes [Windows blocks access to files or folders](https://www.makeuseof.com/windows-askadmin-guide/) downloaded from untrusted online sources, which can cause the "cannot access the specified device" error. When that happens, you'll see an **Unblock** checkbox on an affected files properties window. This is how you can deselect the "unblock file" setting:
@@ -88,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 
 9. Press the **OK** buttons on all windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Recreate a Program's Shortcut
 
  If the "cannot access the specified device" error occurs when you try to run a program shortcut, the issue might lie within the shortcut itself. In this case, setting up a new shortcut for affected software could resolve the issue. This is how to do so on your desktop:
@@ -101,19 +93,11 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 ![The Shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortcut-option.jpg)
 3. Then click **Browse** to select an EXE file the error occurs for and press the **OK** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Create Shortcut tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-shortcut-window.jpg)
 4. Select **Next** and input a shortcut title in the text box.
 
 5. Click **Finish** to add the new program shortcut.
 6. Right-click the program's old shortcut to select **Delete** (the trash can button in Windows 11).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Double-Check the File's Location
 
@@ -127,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 
  Should you discover a shortcut's file has been deleted, you might be able to retrieve it. Open the Recycle Bin to see if the file is in it. If so, right-click the file and select **Restore**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Enable Admin Permissions With the Group Policy Editor
 
  Users have confirmed enabling admin approval mode in Group Policy Editor can resolve this file access error. However, Group Policy Editor is only available in Windows 11 and 10 Pro and Enterprise editions. If you can utilize Group Policy Editor, try enabling admin approval mode as follows:
@@ -141,19 +121,11 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 ![The Local Group Policy Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/group-policy-editor.jpg)
 4. Double-click the **Admin Approval Mode for Built-in Administrator** account policy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Then select the **Enabled** radio button.  
 ![The Admin Approval Mode policy setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-admin-approval-mode-policy-settings.jpg)
 6. Click **Apply** to set the policy.
 
 7. Select **OK** to exit the window for the policy setting and close the Group Policy Manager utility.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Set Up a Windows Security Exclusion Affected Software or File
 
@@ -171,10 +143,6 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 
  Should this potential solution work, you'll know what's causing it. However, don't leave your antivirus software disabled. Add affected files to the security software's exceptions list.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10\. Repair or Reinstall the File
 
  If you are facing this issue due to corruption in the file, then repairing or reinstalling it is your best bet. Using the Control Panel will be your best bet in this case. Here's how you can do it:
@@ -187,10 +155,6 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 ![control panel on windows pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/control-panel-on-windows-pc.jpg)
 
  Depending on the app, you will get an option to either uninstall the app or change its settings. That's it—from there just follow the on-screen instructions, and you will be done in no time. If you installed the app, make sure you get it from a trusted source again and then see if you are facing the same error again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get the "Cannot Access the Specified Device" Error Sorted in Windows 10 and 11
 
@@ -208,24 +172,18 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-proficient-strategies-for-hyperlink-integration-into-tiktok-profiles/"><u>[New] Proficient Strategies for Hyperlink Integration Into TikTok Profiles</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-voicing-victory-tactics-in-free-fire-games/"><u>[New] Voicing Victory Tactics in Free Fire Games</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-unveiling-the-most-effective-zoom-recording-tools/"><u>[Updated] In 2024, Unveiling the Most Effective Zoom Recording Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-comprehensive-guide-to-perfecting-facetime-call-screen-captures/"><u>2024 Approved Comprehensive Guide to Perfecting FaceTime Call Screen Captures</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-maximizing-wealth-with-smart-advertising-tactics-on-vimeo/"><u>2024 Approved Maximizing Wealth with Smart Advertising Tactics on Vimeo</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-data-corruption-solutions-for-win11s-filesystem/"><u>Conquering Data Corruption: Solutions for Win11's Filesystem</u></a></li>
-<li><a href="https://win11.techidaily.com/determining-cpu-version-on-windows-here-are-8-ways/"><u>Determining CPU Version on Windows – Here Are 8 Ways!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-latest-drivers-for-corsairs-high-performance-h80i-v2/"><u>Download Latest Drivers for Corsair's High-Performance H80I V2.</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/effective-solutions-for-resolving-cpu-overheating-problems-tips-by-yl-computing/"><u>Effective Solutions for Resolving CPU Overheating Problems - Tips by YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-your-computer-writable-archive-functionality/"><u>Enhancing Your Computer' Writable Archive Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/handling-windows-updater-bug-0x80073712/"><u>Handling Windows Updater Bug: 0X80073712</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-find-your-ip-or-mac-address-on-windows-using-powershell/"><u>How to Find Your IP or MAC Address on Windows Using PowerShell</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-hotkey-creation-your-keyboard-shortcuts-for-text-snippet-pasting/"><u>Navigating Hotkey Creation: Your Keyboard Shortcuts for Text Snippet Pasting</u></a></li>
-<li><a href="https://solve-news.techidaily.com/quick-and-easy-pro-hd-dvd-converter-rip-dvds-to-high-quality-mp4-h264-using-winx-software-in-just-half-an-hour/"><u>Quick & Easy Pro HD DVD Converter: Rip DVDs to High-Quality MP4 (H.264) Using WinX Software in Just Half an Hour</u></a></li>
-<li><a href="https://win11.techidaily.com/rediscover-your-past-upgrade-videos-using-madvr/"><u>Rediscover Your Past: Upgrade Videos Using MadVR</u></a></li>
-<li><a href="https://win11.techidaily.com/tweak-how-windows-renders-confirmation-alerts/"><u>Tweak How Windows Renders Confirmation Alerts</u></a></li>
-<li><a href="https://win11.techidaily.com/what-is-a-windows-arp-cache-and-how-can-it-be-cleared-136-chars-exceeds-limit-adjusted-to-fit-better-clearing-windows-arp/"><u>What Is a Windows ARP Cache & How Can It Be Cleared? (136 Chars, Exceeds Limit, Adjusted to Fit Better: Clearing Windows ARP</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-amplify-views-and-engagement-through-google-analytics-expertise/"><u>[New] 2024 Approved Amplify Views & Engagement Through Google Analytics Expertise</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-movies-with-yi-4k-hero-for-2024/"><u>[New] Mastering Movies with YI 4K HERO for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-from-novice-to-pro-an-extensive-guide-to-capturing-top-notch-audio-on-zoom/"><u>[Updated] 2024 Approved From Novice to Pro An Extensive Guide to Capturing Top-Notch Audio on Zoom</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-comprehensive-approach-to-video-assisted-instruction/"><u>2024 Approved A Comprehensive Approach to Video-Assisted Instruction</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-fixing-the-steam-failed-to-load-dll-issue-and-restoring-gameplay/"><u>Comprehensive Guide: Fixing the Steam 'Failed to Load DLL' Issue and Restoring Gameplay</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/crafting-stories-essential-tips-for-youtube-video-editors/"><u>Crafting Stories Essential Tips for YouTube Video Editors</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-windows-11s-auto-hdr-feature/"><u>How to Use Windows 11'S Auto HDR Feature</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 8 Plus 3 Ways To Unlock</u></a></li>
+<li><a href="https://win11.techidaily.com/master-easy-steps-for-managing-sounds-on-your-windows-11-pc/"><u>Master Easy Steps for Managing Sounds on Your Windows 11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-full-hd-classics-superior-scummvm-strategies-for-windows-enthusiasts/"><u>Mastering Full HD Classics: Superior ScummVM Strategies for Windows Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-windows-11-taskbar-interactions/"><u>Mending Windows 11 Taskbar Interactions</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-windows-ethernet-net-access/"><u>Restoring Windows Ethernet Net Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/tecno-unveils-thinner-t1-vivid-s1-at-ifa-2023/"><u>Tecno Unveils Thinner T1, Vivid S1 at IFA 2023</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Keeping Windows 11 Serene: Stop Background Jobs"
-date: 2024-12-22T16:53:03.872Z
-updated: 2024-12-28T06:52:49.956Z
+date: 2025-03-01T17:27:02.269Z
+updated: 2025-03-04T21:49:16.220Z
 tags:
   - windows10
   - windows11
@@ -36,18 +36,10 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
 ![advanced options windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-options-windows-11-settings.jpg)
 5. Scroll down to the **Background apps permissions** section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![background app permission never](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/background-app-permission-never.png)
 6. Click the drop-down for **Let this app run in background** and select **Never**. This should disable the app from running in the background.
 
  By default, the background permission for the app is set to **Power optimized(recommended)**. This means Windows will decide when the app can run in the background to save more power. If you set it to **Always**, the app will continuously run in the background irrespective of your power status.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Disable Background Apps via Power & Battery Settings
 
@@ -104,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
 
 ![reg file content background app disable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/reg-file-content-background-app-disable.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `Windows Registry Editor Version 5.00  
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications]  
 "GlobalUserDisabled"=-  
@@ -132,24 +120,12 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
 ![registry editor create new value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/registry-editor-create-new-value.png)
 7. Right-click on the **LetAppsRunInBackground** value and select **Modify**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![registry editor data 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/registry-editor-data-2.png)
 8. Type **2** in the **Value data** field and click **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 9. Close the Registry Editor and restart your PC to apply the changes.
 
  This should disable Microsoft Store apps from running in the background. To enable the background apps, modify the **LetAppsRunInBackground** value and set it to **0**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. How to Disable Background Apps Using the Group Policy Editor
 
@@ -192,20 +168,20 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-accelerate-follower-count-key-strategies-unlocked-for-2024/"><u>[New] Accelerate Follower Count Key Strategies Unlocked for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-ideal-dimensions-for-youtube-thumbnail-attraction/"><u>[Updated] In 2024, Ideal Dimensions for YouTube Thumbnail Attraction</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-windows-portable-executable-pe-syntax/"><u>Decoding Windows Portable Executable (PE) Syntax</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-workday-6-time-management-apps-on-windows/"><u>Elevate Your Workday: 6 Time Management Apps on Windows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-itel-p55-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Itel P55 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/integrate-and-setup-windows-hello-with-a-fingerprint/"><u>Integrate and Setup: Windows Hello with a Fingerprint</u></a></li>
-<li><a href="https://video-capture.techidaily.com/optimal-solution-for-actions-screening-for-2024/"><u>Optimal Solution for Actions Screening for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/quick-guide-sharing-multiple-images-and-movies-on-instagram-for-2024/"><u>Quick Guide Sharing Multiple Images & Movies on Instagram for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/reaching-new-heights-with-overclocking-how-i-pushed-a-ryzen-9-3900xt-beyond-world-records/"><u>Reaching New Heights with Overclocking: How I Pushed a Ryzen 9 3900XT Beyond World Records</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-android-tablet-and-w11-duo-display-setup/"><u>Seamless Android Tablet & W11 Duo Display Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/simplicity-and-clarity-in-the-newest-w11-start/"><u>Simplicity & Clarity in the Newest W11 Start</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11s-credentials-top-11-techniques/"><u>Unlocking Windows 11'S Credentials: Top 11 Techniques</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/unveiling-advanced-game-recording-techniques-in-windows-11/"><u>Unveiling Advanced Game Recording Techniques in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/win1011-network-conundrum-defeat-error-0x800704b3/"><u>Win10/11 Network Conundrum: Defeat Error 0X800704B3</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-sharing-authenticity-a-guide-to-personal-youtube-content/"><u>[New] In 2024, Sharing Authenticity A Guide to Personal YouTube Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-infinity-series-ultra-hd-single-touch-display-for-2024/"><u>[New] Infinity Series – Ultra HD, Single Touch Display for 2024</u></a></li>
+<li><a href="https://solve-info.techidaily.com/fixing-the-issue-when-your-outlooks-email-deletion-process-fails/"><u>Fixing the Issue When Your Outlook's Email Deletion Process Fails</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-motorola-moto-g04-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Motorola Moto G04 Phone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-amalgamate-ppts-for-video-creation/"><u>In 2024, Amalgamate PPTs for Video Creation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/masterful-radial-blur-transformation-techniques-for-ps-users-for-2024/"><u>Masterful Radial Blur Transformation Techniques for PS Users for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-volume-adjustment-issues-in-windows-os/"><u>Mastering Volume Adjustment Issues in Windows OS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-free-and-paid-3d-animation-programs/"><u>New Discover the Best Free and Paid 3D Animation Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-galaxy-performance-through-seamless-integration-in-windows-11/"><u>Optimizing Galaxy Performance Through Seamless Integration in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-thumbnails-dimensions-on-desktop/"><u>Personalize Thumbnails: Dimensions on Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/rapid-pc-data-access-everythingapp-utilization/"><u>Rapid PC Data Access: EverythingApp Utilization</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-kraken-microphone-troubleshooting-fixes-for-unresponsive-sound-device/"><u>Razer Kraken Microphone Troubleshooting: Fixes for Unresponsive Sound Device</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-keyboard-errors-fixing-function-keys-on-windows-11/"><u>Resolve: Keyboard Errors - Fixing Function Keys on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-clear-sight-crusade-nine-methods-to-sharpen-your-monitor/"><u>The Clear Sight Crusade: Nine Methods to Sharpen Your Monitor</u></a></li>
+<li><a href="https://win11.techidaily.com/the-top-7-no-cost-player-titles-for-pcs-and-viewing/"><u>The Top 7 No-Cost Player Titles for PCs & Viewing</u></a></li>
 </ul></div>
 

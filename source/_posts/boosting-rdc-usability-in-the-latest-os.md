@@ -1,7 +1,7 @@
 ---
 title: Boosting RDC Usability in the Latest OS
-date: 2024-08-08T13:11:52.878Z
-updated: 2024-08-09T13:11:52.878Z
+date: 2025-02-26T04:39:29.222Z
+updated: 2025-03-04T21:25:32.525Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 
  To connect to a remote PC, you’ll need to open the Remote Desktop Connection tool. Once done, you can then enter the login credentials for the remote PC to connect to it through the Remote Desktop Connection window. As such, let's explore how to enable the Remote Desktop Connection tool on Windows 11
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## How to Enable Remote Desktop Connection on Windows 11
 
  If you want your PC to be a host computer, you’ll need to [enable Remote Desktop](https://www.makeuseof.com/how-to-set-up-microsofts-remote-desktop-connection/) on that PC's copy of Windows 11\. Note that you can only activate that feature in Enterprise and Professional editions of Microsoft’s latest desktop platform, as is also the case for Windows 10\. You can enable Remote Desktop as follows:
@@ -48,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 3. Then click **Remote Desktop Connection** to open that accessory.
 4. Alternatively, you can click its **Run as administrator** option within the search tool.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Open Remote Desktop Connection With the Run Tool
 
  The Run tool is, as its title implies, a way to launch apps and programs. You can open Windows 11’s accessories and Control Panel applets just by entering Run commands. Here is how you can open Remote Desktop Connection with Run:
@@ -61,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ![The Run accessory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/the-run-accessory.png)
 4. Click the **OK** button to open Remote Desktop Connection.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## 3\. Open Remote Desktop Connection With the Windows Terminal
 
  You can open Remote Desktop Connection with both the Command Prompt and PowerShell command-line tools. The Windows Terminal brings both those command-line tools together in Microsoft’s latest desktop platform. You can open RDC with the Windows Terminal as follows.
@@ -83,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 1. Press the **File Explorer** button (the one with the folder icon) on Windows 11’s taskbar.
 2. Open this folder in File Explorer:  
 `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories`  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Windows Accessories folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/windows-accessories-folder.png)
 3. Click Remote Desktop Connection in that folder.
 
@@ -99,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ![The mstsc.exe process entered in File Explorer's address bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/mstsc-exe-command.jpg)
 4. Press **Enter** to open Remote Desktop Connection.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Open Remote Desktop Connection With the Start Menu
 
  Remote Desktop Connection is also among the apps and system utilities within the Windows Tools folder. That folder is accessible on the Start menu. You can access Remote Desktop Connection by opening its Windows Tools folder with the Start menu as follows.
@@ -110,17 +94,11 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 2. Select the **All apps** option to view all program and folder shortcuts on the Start menu.  
 ![The Windows Tools folder shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-tools-folder-on-start-menu.jpg)
 3. Scroll down the menu and double-click **Windows Tools**.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Remote Desktop Connection app in the Windows Tools folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/remote-desktop-connection-app.jpg)
 4. Double-click **Remote Desktop Connection** within the Windows Tools folder.
 
  Windows Tools is also accessible within the Control Panel. [Open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) and change its view by selecting **Small icons**. Then you can click **Windows Tools** and select to open Remote Desktop Connection from there.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Open Remote Desktop Connection With Task Manager
 
  Task Manager is a utility with which you can both terminate and run processes. This is how you can open Remote Desktop Connection by running its process with Task Manager’s Create new task tool:
@@ -130,14 +108,6 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ![The Run new task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-run-new-task-option.jpg)
 3. Select the checkbox labeled **Create this task with administrative privileges**.
 4. Input the **mstsc** process command into the **Open** box.  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Create new task window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-create-new-task-tool.jpg)
 5. Select **OK** to run the Remote Desktop Connection process.
 
@@ -147,15 +117,9 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 
 1. Right-click an area of your desktop wallpaper to select **New** \> **Shortcut**.
 2. Input **%windir%\\system32\\mstsc.exe** in the Create Shortcut window, and click **Next** to continue.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![The Create Shortcut window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/create-shortcut-window.png)
 3. Type **Remote Desktop Connection** in the text box.
 4. Press the **Finish** button to add the shortcut to the desktop as in the screenshot directly below.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![A Remote Desktop Connection shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/remote-desktop-connection-shortcut.png)
 5. Now you can click the new desktop shortcut to open Remote Desktop Connection.
 
@@ -171,27 +135,12 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 
 1. Right-click the Remote Desktop Connection shortcut on the desktop and select **Properties**.
 2. Click inside the **Shortcut** **key** box shown in the screenshot below.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/shortcut-key-box.png)
 3. Press the **R** key to set up a **Ctrl + Alt + R** hotkey.
 4. Click the **Apply** button to save the new keyboard shortcut.
 
  Now you can press **Ctrl + Alt + R** to bring up Remote Desktop Connection whenever you need it. However, don’t delete the desktop shortcut for it. That shortcut must remain in place for its hotkey to work.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Open Remote Desktop Connection With the Context Menu
 
  The context menu is the right-click menu you can open from the desktop. That menu doesn’t include Remote Desktop Connection by default. However, you can add a shortcut for opening Remote Desktop Connection to the context menu with a relatively straightforward registry tweak as follows:
@@ -209,25 +158,17 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 9. Right-click the **(Default)** string inside the new command subkey and select **Modify**.  
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-modify-option.jpg)
 10. Input **"C:\\Windows\\System32\\mstsc"** inside the **Value data** box and select **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Edit String window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/edit-string-window.jpg)
 
  Now you can open the Remote Desktop Connection app from your desktop’s context menu. Right-click any empty area of the Windows 11 desktop to select **Show more options** for viewing the classic context menu. You’ll see a new **Remote Desktop Connection** shortcut on the classic context menu. Click that shortcut to access the Remote Desktop Connection app.
 
  You can remove the **Remote Desktop Connection** context menu shortcut any time you wish. To do so, return to the shell registry location specified in step three above. Right-click the **Remote Desktop Connection** key you added and select **Delete** \> **Yes**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Open Remote Desktop Connection With Your Favorite Method
 
  So, there are various ways you can open Remote Desktop Connection in Windows 11\. The quickest and most direct methods are to open it from the desktop or with a hotkey, which you’ll need shortcuts for. Or you can open it via Run, the search tool, File Explorer, and Windows Terminal. Choose whatever method you prefer for opening Remote Desktop Connection.
 
  To connect to a remote PC, you’ll need to open the Remote Desktop Connection tool. Once done, you can then enter the login credentials for the remote PC to connect to it through the Remote Desktop Connection window. As such, let's explore how to enable the Remote Desktop Connection tool on Windows 11
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -235,4 +176,25 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-enhancing-visual-quests-hunt-for-pristine-pexels-images/"><u>[New] 2024 Approved Enhancing Visual Quests Hunt for Pristine Pexels Images</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-illuminated-insights-visualizing-youtubes-17-data-story/"><u>[Updated] Illuminated Insights! Visualizing YouTube's '17 Data Story</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-persistent-boot-into-windows-vista7-bios/"><u>Eliminating Persistent Boot Into Windows Vista/7 BIOS</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-monitor-resolution-in-the-latest-os-update/"><u>Enhance Monitor Resolution in the Latest OS Update</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/enhanced-conversion-rates-using-leading-analytics-software/"><u>Enhanced Conversion Rates Using Leading Analytics Software</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/ensuring-accurate-iphone-photo-archive-in-snapchat/"><u>Ensuring Accurate iPhone Photo Archive in Snapchat</u></a></li>
+<li><a href="https://win11.techidaily.com/guaranteeing-secure-winvpn-link-establishment/"><u>Guaranteeing Secure WinVPN Link Establishment</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-actionable-techniques-for-efficient-media-conversion-chains/"><u>In 2024, Actionable Techniques for Efficient Media Conversion Chains</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-accurate-user-persona-development/"><u>Leveraging ChatGPT for Accurate User Persona Development</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/macx-dvd-ripper-pro-quick-and-easy-conversion-of-dvds-to-mp4-on-mac-iphone-and-ipad/"><u>MacX DVD Ripper Pro: Quick and Easy Conversion of DVDs to MP4 on Mac, iPhone & iPad</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/mastering-jujutsu-kaisen-challenges-for-tiktok-for-2024/"><u>Mastering Jujutsu Kaisen Challenges for TikTok for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-android-tabs-with-w11-a-dual-screen-guide/"><u>Maximizing Android Tabs with W11: A Dual-Screen Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/no-more-stuck-how-to-ditch-the-epic-games-hub-in-w11/"><u>No More Stuck: How to Ditch the Epic Games Hub in W11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-8-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 8 Plus Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-global-communication-hotkey-based-language-switching-in-winos/"><u>Unlock Global Communication: Hotkey-Based Language Switching in WinOS</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-esd-conversion-secrets-to-formatting-as-an-iso-file/"><u>Windows ESD Conversion: Secrets to Formatting as an ISO File</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-memory-strategies-understanding-and-cleansing/"><u>Windows Memory Strategies: Understanding and Cleansing</u></a></li>
+</ul></div>
 

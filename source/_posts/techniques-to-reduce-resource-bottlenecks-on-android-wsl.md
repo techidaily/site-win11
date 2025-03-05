@@ -1,7 +1,7 @@
 ---
 title: Techniques to Reduce Resource Bottlenecks on Android WSL
-date: 2025-02-12T23:18:08.188Z
-updated: 2025-02-16T01:00:32.394Z
+date: 2025-02-25T19:58:47.564Z
+updated: 2025-03-05T04:58:55.397Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## "As Needed" or "Continuous?" Which One to Choose
 
  You have two choices when it comes to the way WSA uses your computer’s resources:**As needed** or**Continuous** .
@@ -37,33 +33,17 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 **Continuous** , on the other hand, keeps WSA running in the background. The benefit is that Android apps will fire up much quicker at the cost of using more of your computer’s resources. You can choose this option if your Windows 11 PC has the resources to spare.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Do I Manage the Way Windows Subsystem for Android Uses Its Resources?
 
  To change the way the Windows Subsystem for Android utilizes resources on Windows 11, start by pressing**Win + S** to bring up Windows Search. In the search box, type**windows subsystem for android** . In the results click on**Windows Subsystem for Android Settings** to launch the program.
 
 ![searching for WSA on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-search-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the left side menu of Windows Subsystem for Android, make sure you have selected**System** . On the right side, click on the**Subsystem resources** to expand the section. Then, select either**As needed** or**Continuous** by clicking on the appropriate radio button.
 
 ![the Subsystems resources section of WSA settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-windows-subsystem-resources.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now Windows Subsystem for Android will use resources depending on the option you have chosen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Best Way For Windows Subsystem for Android to Use Resources
 
@@ -86,24 +66,17 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-effortless-documentation-speech-to-text-conversion-via-microsoft-word/"><u>[New] 2024 Approved Effortless Documentation Speech-to-Text Conversion via Microsoft Word</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-high-flying-brain-games-top-11-knowledge-channels/"><u>[New] 2024 Approved High-Flying Brain Games Top 11 Knowledge Channels</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-obs-full-screen-glitch-resolution-dropped/"><u>[New] In 2024, Obs Full Screen Glitch Resolution Dropped</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-step-by-step-iphone-guide-for-stunning-photo-mashups/"><u>[New] Step-by-Step iPhone Guide for Stunning Photo Mashups</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-from-novice-to-pro-your-roadmap-to-crafting-engaging-fb-stories/"><u>[Updated] 2024 Approved From Novice to Pro Your Roadmap to Crafting Engaging FB Stories</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-checklist-for-webinar-video-documentation/"><u>[Updated] The Ultimate Checklist for Webinar Video Documentation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-rank-the-best-10-cost-free-image-enhancers-for-smartphone-users/"><u>2024 Approved Rank the Best 10 Cost-Free Image Enhancers for Smartphone Users</u></a></li>
-<li><a href="https://win11.techidaily.com/dusk-to-dawn-mastery-of-paints-dimmest-modes/"><u>Dusk to Dawn: Mastery of Paint's Dimmest Modes</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/from-unverified-to-verified-amplifying-your-instagram-profile-with-proven-strategies-for-2024/"><u>From Unverified to Verified Amplifying Your Instagram Profile with Proven Strategies for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-address-critical-javascript-issues-impacting-discord-users/"><u>How to Address Critical JavaScript Issues Impacting Discord Users</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-enable-firewall-when-its-disabled-on-windows/"><u>How to Enable Firewall when It's Disabled on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-prevent-and-repair-internal-errors-during-windows-rdp-session/"><u>How to Prevent and Repair Internal Errors During Windows RDP Session</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-unravel-windows-policies-thwarting-software-install/"><u>How to Unravel Windows Policies Thwarting Software Install</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-15-plus-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 15 Plus</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-review-benefits-of-using-apc-back-ups-pro-eby-powerful-protection-multiple-outlets-and-swappable-batteries/"><u>In-Depth Review: Benefits of Using APC Back-UPS Pro Eby - Powerful Protection, Multiple Outlets, and Swappable Batteries</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-mobile-sound-for-windows-pcs/"><u>Optimize Mobile Sound for Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-fix-failed-launch-lunar-client-error-on-windows-os/"><u>Steps to Fix Failed Launch: Lunar Client Error on Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-content-access-via-nvidias-gui/"><u>Streamlining Content Access via NVIDIA's GUI</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-11-mails-default-html-email-formatting-problems/"><u>Tackling Windows 11 Mail's Default HTML Email Formatting Problems</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-best-in-class-skype-recorders-ranked/"><u>[New] Best-in-Class Skype Recorders Ranked</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-above-average-cloud-service-selections/"><u>[Updated] Above-Average Cloud Service Selections</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-y27-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo Y27 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eco-conscious-choices-for-the-apple-watch-series-10-the-path-to-carbon-neutrality-through-smart-band-selection-zdnet/"><u>Eco-Conscious Choices for the Apple Watch Series 10: The Path to Carbon Neutrality Through Smart Band Selection | ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-infinix-note-30-vip-racing-edition-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Infinix Note 30 VIP Racing Edition in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/experience-the-new-look-of-pcdj-official-site-now-live-with-improved-navigation-and-design/"><u>Experience the New Look of PCDJ: Official Site Now Live with Improved Navigation and Design!</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-windows-error-missing-file-programs/"><u>Handling Windows Error: Missing File Programs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/kompetente-umwandlung-von-videodateien-mit-digiarty-software-fur-dvds/"><u>Kompetente Umwandlung Von Videodateien Mit Digiarty Software Für DVDs</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-crash-dumps/"><u>Navigating Through Windows' Crash Dumps</u></a></li>
+<li><a href="https://win11.techidaily.com/straightforward-wireless-linking-win-plus-playstation-3-pad/"><u>Straightforward Wireless Linking: Win + PlayStation 3 Pad</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-files-overcoming-download-hiccups-in-win11/"><u>Unleashing Files: Overcoming Download Hiccups in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/why-one-antivirus-saves-the-day-for-windows-users/"><u>Why One Antivirus Saves the Day for Windows Users</u></a></li>
 </ul></div>
 

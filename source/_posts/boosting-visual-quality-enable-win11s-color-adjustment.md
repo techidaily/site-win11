@@ -1,7 +1,7 @@
 ---
 title: "Boosting Visual Quality: Enable Win11's Color Adjustment"
-date: 2024-08-08T13:13:42.183Z
-updated: 2024-08-09T13:13:42.183Z
+date: 2025-02-25T16:56:45.981Z
+updated: 2025-03-05T01:29:56.622Z
 tags:
   - windows10
   - windows11
@@ -20,18 +20,12 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 
  This remarkable tool has been made available in Windows 11's 25309 build, but if you don't have this version yet, you can use a third-party application called ViveTool instead. Read this guide to learn how to enable Auto Color Management for apps in Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## How to Enable Auto Color Management for Apps in Windows 11
 
  The Auto Color Management feature is currently in beta testing. It is only available in Windows Insider builds 25309 and above. If you want to enable this feature on your system, you will first need to [update to the latest Canary channel build](https://www.makeuseof.com/what-is-windows-insider-canary-channel/) and then [download ViVeTool from the GitHub page](https://github.com/thebookisclosed/ViVe/releases).
 
  Now open the Command Prompt with administrative rights. If you need help, see our detailed tutorial on [how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Enable New Auto Color Management-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-new-auto-color-management-1.jpg)
 
  Once you're in the Command Prompt window, run the following command:
@@ -49,36 +43,18 @@ vivetool /enable /id:36371531
 1. Press **Win + I** to [open the Settings menu](https://www.makeuseof.com/windows-ways-to-open-system-settings/).
 2. Then navigate to **System > Display**.
 3. Scroll down to Related settings and click **Advanced display**.  
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Advanced display settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-display-settings-1.jpg)
 4. Next, turn on the toggle for **Automatically manage color for apps**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## Windows Settings Now Includes Auto Color Management
 
  With the release of Windows Insider builds 25309, you will get a new feature called Auto Color Management feature in your Windows settings. You can use it for multiple activities such as photo editing and graphic design.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,6 +63,23 @@ vivetool /enable /id:36371531
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-best-ios-psp-emulators-our-top-5-selections/"><u>[Updated] 2024 Approved Best iOS PSP Emulators Our Top 5 Selections</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-harnessing-online-platforms-beyond-youtube-to-30plus-communities-for-2024/"><u>[Updated] Harnessing Online Platforms Beyond YouTube to 30+ Communities for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-complete-manual-for-logging-and-storing-periscope-video/"><u>2024 Approved A Complete Manual for Logging & Storing Periscope Video</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-urban-pursuit-without-the-need-for-gta/"><u>2024 Approved Urban Pursuit Without the Need for GTA</u></a></li>
+<li><a href="https://win-best.techidaily.com/hp-ssd/"><u>快速指南：如何無需付費，安全地遷移HP SSD上的資料</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-shift-key-functionality-in-windows/"><u>Regain Shift Key Functionality in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-your-chrome-browser-on-the-latest-os-win11/"><u>Revitalizing Your Chrome Browser on the Latest OS (Win11).</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-a-permanently-deletable-desktop-bin-on-windows-11-and-11/"><u>Setting up a Permanently Deletable Desktop Bin on Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-removing-error-0xc0f1103f-in-geforce-now-win/"><u>Solutions for Removing Error 0Xc0f1103f in GeForce Now, Win</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-windows-wlanextexe-overheating/"><u>Taming Windows WLANEXT.EXE Overheating</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/tips-to-rank-facebook-page-better/"><u>Tips to Rank Facebook Page Better</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-nokia-c12-plus-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Nokia C12 Plus Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-your-potential-with-our-recommended-8-timer-apps-for-windows/"><u>Unleash Your Potential With Our Recommended 8 Timer Apps for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/xmas-cheer-present-wrapped-in-ms-store-delights/"><u>Xmas Cheer: Present Wrapped in MS Store Delights</u></a></li>
+</ul></div>
 

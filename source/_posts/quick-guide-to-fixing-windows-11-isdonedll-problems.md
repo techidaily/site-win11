@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Fixing Windows 11 ISDone.dll Problems
-date: 2025-02-09T17:55:04.663Z
-updated: 2025-02-15T20:09:26.235Z
+date: 2025-02-25T23:07:00.229Z
+updated: 2025-03-04T22:22:16.854Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 ![The Run this program in compatibility mode for option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-run-this-program-in-compatibility-mode-setting.jpg)
 7. Click**Apply** to save the compatibility settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Select**OK** to close the setup properties window.
 
 ## 3\. Set the Game’s Setup Wizard at High Priority
@@ -55,14 +51,6 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
  Increasing the priority for a game’s setup wizard will raise the system resources allocated to its process. Our article about[setting a priority level for a program](https://www.makeuseof.com/windows-11-set-program-priority/) includes step-by-step instructions for how to apply this potential fix. Open the game’s setup wizard and set its priority level to High in Task Manager as outlined within that guide.
 
 ![The Set priority option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-set-priority-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run System File and Image Scans
 
@@ -82,15 +70,7 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 
 ![The Virtual Memory window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/custom-radio-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For example, a PC with four GB RAM would have 4096 megabytes of memory. Then you would need to multiply 1.5 by 4096 to input a value of 6144 in the**Initial** box. Three times 4096 amounts to 12288, which would be the value to enter the**Maximum size** box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Install Any Missing Visual C++ Redistributables
 
@@ -118,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 `regsvr32 isdone.dll`  
 ![The regsvr32 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-regsvr-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Temporarily Switch Off Your PC’s Antivirus Shield
 
  It’s not entirely unusual for antivirus apps to cause installation issues like the ISDone.dll error. You can ensure your antivirus tool isn’t interfering with the installation process by temporarily disabling its shield before attempting to install the game. Our[guide to disabling Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) explains how to turn off the antivirus shield for the default Windows Security app.
@@ -137,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
  To minimize potential conflicting processes, try clean booting your PC. Setting a clean boot involves disabling all third-party startup apps and services. That will reduce the number of background services and apps that start with Windows, which could eliminate a process causing the ISDone.dll error.
 
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-services-tab.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Our guide to[configuring a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to disable third-party startup apps and services with Task Manager and MSConfig. When you’ve set the clean boot and restarted Windows, try installing the game the ISDone.dll error occurs for. Then you can restore the original boot configuration afterward.
 
@@ -163,19 +135,21 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-fundamentals-the-core-terms-in-vr-worlds/"><u>[New] 2024 Approved Fundamentals The Core Terms in VR Worlds</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-demystifying-syncopated-soundscapes-via-crossfading/"><u>[New] Demystifying Syncopated Soundscapes via Crossfading</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-a-step-by-step-approach-to-using-cg-central-luts-in-grading/"><u>2024 Approved A Step-by-Step Approach to Using CG Central LUTs in Grading</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-m54-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy M54 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/breaking-down-the-selfie-security-on-insta-for-2024/"><u>Breaking Down the Selfie Security on Insta for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/dreamlands-choice-ultimate-10-affordable-rpg-games-for-2024/"><u>Dreamland's Choice Ultimate 10 Affordable RPG Games for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-win1011-graphics-memory-increase-your-pcs-punch/"><u>Enhancing Win10/11 Graphics Memory: Increase Your PC's Punch</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-for-portable-software-integration-w11/"><u>Essential Steps for Portable Software Integration W11</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-steam-controller-blunders-on-pc/"><u>Fixing Steam Controller Blunders on PC</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/resizing-images-made-easy-for-windows-11-users-uncover-the-top-6-methods/"><u>Resizing Images Made Easy for Windows 11 Users – Uncover the Top 6 Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-net-core-runtime-error-on-windows-a-guide/"><u>Resolving .NET Core Runtime Error on Windows: A Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/restore-order-steady-your-windows-updates-again/"><u>Restore Order: Steady Your Windows Updates Again</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-from-pixel-to-prospectus-the-top-7-generators-for-artistic-conversion/"><u>[New] 2024 Approved From Pixel to Prospectus - The Top 7 Generators for Artistic Conversion</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-maximizing-video-quality-on-periscope-live-streams/"><u>[New] 2024 Approved Maximizing Video Quality on Periscope Live Streams</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-best-practices-for-imovie-videos-entering-the-vimeo-realm/"><u>[New] In 2024, Best Practices for iMovie Videos Entering the Vimeo Realm</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-ultimate-tutorial-downloading-and-extracting-audio-from-vids-on-social-platforms/"><u>[Updated] In 2024, Ultimate Tutorial Downloading and Extracting Audio From Vids on Social Platforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-beginners-besties-essential-gopro-upgrades-list/"><u>[Updated] The Beginner's Besties - Essential GoPro Upgrades List</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-oppo-find-x6-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Oppo Find X6 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-error-zero-eighty-three-one-in-windows/"><u>Conquering Error Zero-Eighty-Three-One in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-graphics-with-these-top-6-stress-test-apps/"><u>Elevate Graphics with These Top 6 Stress Test Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/flashback-to-gaming-origins-the-legendary-super-mario-bros-experience-with-game-and-watch/"><u>Flashback to Gaming Origins: The Legendary Super Mario Bros. Experience with Game & Watch</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-recover-from-failed-printer-spooler-on-windows/"><u>Guide to Recover From Failed Printer Spooler on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-plus-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 Plus To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-asus-rog-phone-8-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Asus ROG Phone 8 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-windows-camera-app-issues-quickly/"><u>Solving Windows Camera App Issues Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-directx-update-procedures-uncovered/"><u>Step-by-Step DirectX Update Procedures Uncovered</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-unfreeze-utorrent-downloads-in-windows/"><u>Steps to Unfreeze uTorrent Downloads in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-linux-setup-skip-wsl/"><u>Streamlined Linux Setup: Skip WSL</u></a></li>
 </ul></div>
 

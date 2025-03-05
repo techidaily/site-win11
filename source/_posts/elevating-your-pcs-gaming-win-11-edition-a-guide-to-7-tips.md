@@ -1,7 +1,7 @@
 ---
 title: "Elevating Your PC's Gaming: Win 11 Edition - A Guide to 7 Tips"
-date: 2025-02-12T04:04:49.694Z
-updated: 2025-02-16T03:58:27.408Z
+date: 2025-02-27T04:26:12.418Z
+updated: 2025-03-04T16:04:17.168Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn On Game Mode
 
  Turning on Game Mode does a lot to improve gaming performance. It redirects more system resources to gaming applications, turns off notifications, and reduces most background activities, thus improving your gaming sessions.
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
  To enable it, click on the Windows icon from the taskbar and then open the**Settings** application. Once Settings is open, navigate to**Gaming > Game Mode** and toggle the**Game Mode** switch to the**On** position.
 
 ![Screenshot showing how to turn on game mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-on-how-to-turn-on-game-mode.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Use Auto HDR
 
@@ -55,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
  Once they're on you should be able to enjoy an immersive gaming experience. And if you're unsure as to what HDR does exactly, be sure to read[HDR vs. SDR: what's the difference?](https://www.makeuseof.com/hdr-vs-sdr-whats-the-difference/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Ensure Your Games Use Your Primary GPU
 
  For graphically-demanding games, it's a good idea to ensure they always use your PC's strongest GPU. Most gaming PCs have at least both a dedicated GPU and one built into the CPU, and it's best to give games the former to use.
@@ -66,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
  Once you follow the above steps to get into the Game Mode menu, select the**Graphics** option. This will display another default setting you may wish to change; using per-app GPU selection settings. You can also toggle on the**Hardware-accelerated GPU scheduling** while you're here.
 
 ![Screenshot showing how to use per-app GPU selection settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-to-use-per-app-gpu-selection-settings.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Turn Off Enhanced Pointer Precision
 
@@ -96,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
  Just as it's important to update your GPU drivers, it's also best to regularly update the Windows 11 OS on your PC. Before you install games and applications on your PC you should check if there are any pending OS updates. These usually come with performance and user experience improvements.
 
  If you're not sure how to do this, be sure to read[how to install Windows 11 updates](https://www.makeuseof.com/windows-11-install-updates/) for more information. Note that Windows won't automatically update on metered connections. So if you’re on one, you must manually check for pending updates periodically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Apply Generic Windows Performance Tweaks
 
@@ -130,22 +110,24 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-groupcapture-hd-toolkit-fb-edition/"><u>[New] In 2024, GroupCapture HD Toolkit, FB Edition</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-unlock-creative-potential-with-no-cost-green-screen-knowledge-from-top-4-educational-channels/"><u>[Updated] 2024 Approved Unlock Creative Potential with No-Cost Green Screen Knowledge From Top 4 Educational Channels</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-say-goodbye-to-stumbles-in-your-instagram-stream/"><u>2024 Approved Say Goodbye to Stumbles in Your Instagram Stream</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-mov-files-free-mp4-converter-tool-compatible-with-mac-and-windows-11/"><u>Convert MOV Files Free: MP4 Converter Tool - Compatible with Mac and Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-activity-log-of-your-windows-10-system/"><u>Decoding the Activity Log of Your Windows 10 System</u></a></li>
-<li><a href="https://win11.techidaily.com/guiding-you-through-nat-type-reconfiguration-on-windows-xp-to-z/"><u>Guiding You Through NAT Type Reconfiguration on Windows XP to Z</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-missing-pin-issue-amidst-system-errors-on-win-11/"><u>How To Fix Missing PIN Issue Amidst System Errors on Win 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-a25-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy A25 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/january-12th-robert-oppenheimer-an-american-physicist-known-for-his-role-in-creating-the-atomic-bomb-and-contributing-to-quantum-mechanics-his-work-has-left630/"><u>January 12Th - Robert Oppenheimer, an American Physicist Known for His Role in Creating the Atomic Bomb and Contributing to Quantum Mechanics. His Work Has Left a Lasting Impact on Science and Technology.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/join-the-twitter-conversation-a-step-by-step-guide/"><u>Join the Twitter Conversation: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-popular-win-11-22h2-hiccups/"><u>Resolving Popular WIN 11 22H2 Hiccups</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-auto-scroll-issues-on-your-pcs-os/"><u>Solving Auto-Scroll Issues on Your PC's OS</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-roblox-access-error-403-on-windows-os/"><u>Tackling Roblox Access Error 403 on Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/the-complete-blueprint-for-graphics-reset-on-pc/"><u>The Complete Blueprint for Graphics Reset on PC</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-definitive-guide-to-youtubes-algorithmic-secrets-for-rankings-for-2024/"><u>The Definitive Guide to YouTube's Algorithmic Secrets for Rankings for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-windows-wizardry-of-managing-system-activities-and-changes/"><u>The Windows Wizardry of Managing System Activities & Changes</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/tracing-treasure-trails-fast-friending-fundamentals/"><u>Tracing Treasure Trails Fast Friending Fundamentals</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-crafting-captivating-slow-motion-photos-for-instagram/"><u>[Updated] 2024 Approved Crafting Captivating Slow-Motion Photos for Instagram</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-androids-ultimate-capture-secrets-revealed/"><u>2024 Approved Android's Ultimate Capture Secrets Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-the-action-the-fastest-most-effective-home-filmmaking-tricks/"><u>2024 Approved Capture the Action The Fastest, Most Effective Home Filmmaking Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-notch-meme-editing-suite/"><u>2024 Approved Top-Notch Meme Editing Suite</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024flacmp37/"><u>2024新着！高品質音源に変換しやすいFLAC用MP3フリーソフト7選ベスト</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-crash-reports-following-a-bsod-event/"><u>Decoding Windows Crash Reports Following a BSOD Event</u></a></li>
+<li><a href="https://fox-that.techidaily.com/elasticity-estimation/"><u>Elasticity Estimation</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-windows-11-registry-for-unseen-themes/"><u>Exploring the Windows 11 Registry for Unseen Themes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/fbx-recorder-alternatives-the-new-era-of-gaming-capture-for-2024/"><u>FBX Recorder Alternatives The New Era of Gaming Capture for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-windows-activation-failure-code-0x803f700f/"><u>How to Rectify Windows Activation Failure: Code 0X803f700f</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-nokia-xr21-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Nokia XR21 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/orchestrate-instagram-reel-magic-with-music-and-voiceovers-for-2024/"><u>Orchestrate Instagram Reel Magic with Music & Voiceovers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-ways-to-dive-into-your-windows-11-appsdirectory/"><u>Quick Ways to Dive Into Your Windows 11 AppsDirectory</u></a></li>
+<li><a href="https://win11.techidaily.com/rejuvenate-ccleaner-on-win11-and-11/"><u>Rejuvenate CCleaner on Win11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-supercharged-window-11-usage/"><u>The Ultimate Guide to Supercharged Window 11 Usage</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-hardware-excellence/"><u>Tom's Tech Insights: Your Guide to Hardware Excellence</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-functional-win11-activation-keys/"><u>Troubleshooting Non-Functional Win11 Activation Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-managing-windows-odbc-sources/"><u>Understanding and Managing Windows ODBC Sources</u></a></li>
+<li><a href="https://win11.techidaily.com/win-10-regain-network-connections/"><u>Win 10: Regain Network Connections</u></a></li>
 </ul></div>
 

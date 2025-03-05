@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows 11'S Help App Malfunction
-date: 2025-02-15T03:00:55.942Z
-updated: 2025-02-15T21:08:49.721Z
+date: 2025-03-03T05:02:17.567Z
+updated: 2025-03-05T00:51:01.004Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 * **Update your Windows version:** Older versions of Windows may contain bugs that may prevent the Get Help app from functioning correctly. So, always [ensure your Windows version is up-to-date](https://www.makeuseof.com/update-windows-manually/).
 
  Note that these fixes can't help you if your issue is serious. In that case, try the following troubleshooting methods.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Repair or Reset the Get Help App
 
@@ -95,22 +91,10 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 ![Services Command On Run App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/services-command-on-run.jpg)
 2. Now press **Enter** to launch the Services app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. You'll see a list of all the services currently available in your system. Locate the **Diagnostic Policy Service** and right-click on its name.
 4. Select **Restart** from its context menu.  
 ![Diagnostic Policy Service Restart Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/diagnostic-policy-service-restart-option.jpg)
 5. Similarly, repeat the steps to restart the **Windows Management Instrumentation** service.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Install the Microsoft Edge WebView2 Runtime
 
@@ -125,17 +109,9 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 ![Microsoft Edge Developer Site Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-edge-developer-site-screenshot.jpg)
 3. Once you download the setup file, run it and follow the instructions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. After installing the Microsoft Edge WebView2 Runtime, check if the Get Help app functions correctly.
 
  If you see an error saying "**Setup failed**," "please re-download the correct version again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Uninstall and Reinstall the Get Help App
 
@@ -165,21 +141,18 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-turn-your-google-meet-into-a-youtube-live-event-for-2024/"><u>[New] How To Turn Your Google Meet Into a YouTube Live Event for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-adobe-advice-brighten-up-faded-iphone-videos-using-four-critical-techniques/"><u>[New] In 2024, [Adobe Advice] Brighten Up Faded iPhone Videos Using Four Critical Techniques</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-ppro-full-screen-showcase-made-simple/"><u>[Updated] In 2024, PPro Full-Screen Showcase Made Simple</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-the-mysteries-of-ig-metrics-an-essential-toolkit-for-marketers/"><u>[Updated] Unveiling the Mysteries of IG Metrics An Essential Toolkit for Marketers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-ae-text-excellence-discover-our-best-10-ideas/"><u>2024 Approved AE Text Excellence Discover Our Best 10 Ideas</u></a></li>
-<li><a href="https://win11.techidaily.com/converting-cr2-images-to-jpg-on-windows-with-ease-and-precision/"><u>Converting CR2 Images to JPG on Windows with Ease and Precision</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-screen-with-ordered-icons/"><u>Enhance Your Screen with Ordered Icons</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-technology-toms-comprehensive-hardware-analysis/"><u>Inside Look at Technology: Tom's Comprehensive Hardware Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/key-uses-for-visual-cplusplus-redistribution/"><u>Key Uses for Visual C++ Redistribution</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mental-marathon-best-trivia-videos-online/"><u>Mental Marathon Best Trivia Videos Online</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-input-methods-and-keyboard-setups-for-win-11-users/"><u>Optimize Input Methods and Keyboard Setups for Win 11 Users</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/sprint-to-efficiency-quick-fixes-for-win-outlook/"><u>Sprint to Efficiency: Quick Fixes for WIN Outlook</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-resolve-screen-driver-failure-on-windows-11/"><u>Strategies to Resolve Screen Driver Failure on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-update-windows-11-admin-identity-and-role/"><u>Strategies to Update Windows 11 Admin Identity and Role</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-rated-free-avi-media-player-downloads-compatible-with-windows-10-and-mac-os/"><u>Top Rated Free AVI Media Player Downloads Compatible with Windows 10 & Mac OS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfect-for-broadcasters-top-360-cameras-listed/"><u>[New] Perfect for Broadcasters Top 360° Cameras Listed</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-choosing-your-gopro-an-exhaustive-comparison/"><u>[Updated] Choosing Your GoPro An Exhaustive Comparison</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-free-from-marks-acquiring-unmarked-stock-photography-for-2024/"><u>[Updated] Free From Marks Acquiring Unmarked Stock Photography for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-depth-analysis-av1-versus-vp9-video-encoding-for-2024/"><u>[Updated] In-Depth Analysis AV1 versus VP9 Video Encoding for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-security-navigating-potential-threats/"><u>Chatbot Security: Navigating Potential Threats</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-key-combinations-for-windows-programs/"><u>Customizing Key Combinations for Windows Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-seamless-windows-11-access-to-5ghz-wi-fi/"><u>Ensuring Seamless Windows 11 Access to 5GHz Wi-Fi</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-navigating-zoom-to-elevate-your-facebook-lives/"><u>In 2024, Navigating Zoom to Elevate Your Facebook Lives</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-ultimate-list-free-virtual-meetings-plus-shared-screens/"><u>In 2024, The Ultimate List FREE Virtual Meetings + Shared Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-the-startup-process-with-windows-11s-quick-start-techniques/"><u>Simplify the Startup Process with Windows 11’S Quick Start Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-the-differences-in-windows-n-versions/"><u>Understanding the Differences in Windows N Versions</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-solutions-for-error-0x80242016-in-wu/"><u>Unleashing Solutions for Error 0X80242016 in WU</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-secrets-of-srt-creation-from-text-formats-for-2024/"><u>Unveiling the Secrets of SRT Creation From Text Formats for 2024</u></a></li>
 </ul></div>
 

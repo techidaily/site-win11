@@ -1,7 +1,7 @@
 ---
 title: Achieve Peak Valorant Playthrough with Optimized PC Settings
-date: 2024-08-08T13:14:16.028Z
-updated: 2024-08-09T13:14:16.029Z
+date: 2025-02-27T18:13:31.228Z
+updated: 2025-03-05T00:49:52.051Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/2921f580a005bca983d6da9a3afb73cd46b329730
 
  Here's how to boost FPS in Valorant and keep it stable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Don't Let Valorant Limit Your Frame Rate
 
  Valorant comes with settings built into it that limit your FPS in various situations. These settings allow you to limit your FPS when the game is idle when you scroll through menus, when the game is minimized, or when you are using the laptop battery as the primary power source. You can also set it to limit your FPS at all times.
@@ -33,16 +30,9 @@ thumbnail: https://thmb.techidaily.com/2921f580a005bca983d6da9a3afb73cd46b329730
 
 1. Press **Escape** to open the Valorant settings.
 2. Navigate to the **Video** tab at the top and open **General** settings.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Open General Settings in the Video Tab of Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-open-general-settings-in-the-video-tab-of-valorant.jpg)
 3. Turn off the options next to **Limit FPS on Battery** and **Limit FPS Always**. Also, increase the maximum frame rate.
 4. Turn on the **Limit FPS in Menus** and **Limit FPS in Background** options.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Enable and Disable Selective Options in General Settings in the Video Tab of Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-enable-and-disable-selective-options-in-general-settings-in-the-video-tab-of-valorant.jpg)
 
 ## 2\. Change the Screen Resolution Settings in Valorant
@@ -61,27 +51,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 7. Disable **Improve Clarity**, **Experimental Sharpening**, **Bloom**, **Distortion**, and **Cast Shadows**.  
 ![Turn Off VIsual Effets in Valorant's Game Settings to Increase FPS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-reduce-the-resolution-to-increase-fps-in-valorant-by-changing-settings-in-the-game.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## 3\. Turn Off Hardware-Accelerated GPU Scheduling
 
  Hardware-accelerated GPU scheduling transfers some CPU workload to your GPU. It enhances the performance of high-priority processes on your device. Although handy, this can put extra strain on your GPU and prevent it from using all its resources when playing Valorant, causing the frame rate to drop.
 
  To turn off this feature in Windows settings, check out [what hardware-accelerated GPU scheduling means and how to disable it](https://www.makeuseof.com/hardware-accelerated-gpu-scheduling-disable-windows/). If you follow the steps and discover that the hardware-accelerated GPU scheduling setting is already disabled, try turning it on and see if it improves or worsens your FPS.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Turn Any Active In-Game Overlays Off
 
  Do you use in-game overlays with Valorant, such as the Discord overlay? While overlays can help you quickly open apps or chats, they also put more strain on your hardware. The additional load can reduce the GPU resources allocated to Valorant, causing the FPS to drop significantly.
 
  If you use any such overlay or keep more than one overlay enabled while playing Valorant, turn them off to see how much of an impact it has on your game's performance.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Apply Some Windows-Specific Fixes
 
  If none of the fixes covered so far haven't helped boost your FPS on Valorant, don't fret. Try applying the following Windows-based tweaks and see if they help things:
@@ -95,14 +76,8 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 5. Boost the performance of Valorant by setting the **Graphics preference** settings to **High**. This ensures you're [using your preferred graphics card on Windows](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) when running Valorant.  
 ![Set Valorants Graphics Preference to High in the Graphics Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/10-set-valorants-graphics-preference-to-high-in-the-graphics-settings-of-the-windows-settings-app.jpg)
 6. Set Valorant's process priority to high. To do that, open Task Manager, navigate to the **Details** tab, right-click the **Valorant** process, and select **High** from the **Set priority** menu.  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Set Valorants Process Priority to High in the Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-set-valorants-process-priority-to-high-in-the-windows-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Optimize Your Graphics Card Software
 
  If you've previously tweaked your GPU's software settings (for example, you [customized your graphics card settings using the NVIDIA Control Panel](https://www.makeuseof.com/how-to-customize-graphics-settings-nvidia-control-panel-geforce-experience/)), open the software again and turn down some of the settings. This is especially true if you told the GPU software to override any in-game settings you've set up.
@@ -119,12 +94,33 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Here's how to boost FPS in Valorant and keep it stable.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-the-best-budget-friendly-high-fidelity-webm-players/"><u>[New] The Best Budget-Friendly, High-Fidelity WebM Players</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-proven-methods-for-assessing-youtube-channel-profitability/"><u>2024 Approved Proven Methods for Assessing YouTube Channel Profitability</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ais-generational-journey-into-falsehood-spreaders/"><u>AI's Generational Journey Into Falsehood Spreaders</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparing-ipad-pro-and-macbook-pro-key-features-and-benefits/"><u>Comparing iPad Pro and MacBook Pro: Key Features & Benefits</u></a></li>
+<li><a href="https://win11.techidaily.com/enable-visibility-recognize-unlisted-cameras-in-dm/"><u>Enable Visibility: Recognize Unlisted Cameras in DM</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-error-code-0x80d03801-in-windows-app-store/"><u>Fixing Error Code 0X80D03801 in Windows App Store</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-directing-traffic-from-tiktok-to-twitter/"><u>In 2024, Directing Traffic From TikTok to Twitter</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-backdrop-changer-toolkit-unveiled/"><u>Innovative Backdrop Changer Toolkit Unveiled</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-and-affordable-video-editing-software/"><u>New Free and Affordable Video Editing Software</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-to-address-windows-notepad-crashes/"><u>Quick Fixes to Address Windows Notepad Crashes</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-microsoft-store-on-windows-11-and-11/"><u>Resetting Microsoft Store on Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-1011-updater-error-code-0x80246007-fix-guide/"><u>Resolving Windows 10/11 Updater Error: Code 0X80246007 Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steps-for-windows-exception-breakpoint-problem/"><u>Troubleshooting Steps for Windows' Exception Breakpoint Problem</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-the-windows-11-insider-program-and-how-do-you-join-it/"><u>What Is the Windows 11 Insider Program and How Do You Join It?</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-a-comprehensive-look-at-customizing-themes/"><u>Windows 11: A Comprehensive Look at Customizing Themes</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-protocol-port-assessment-techniques/"><u>Windows Protocol Port Assessment Techniques</u></a></li>
+</ul></div>
 

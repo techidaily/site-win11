@@ -1,7 +1,7 @@
 ---
 title: Advanced Tips for NTFS Compression in Win11 Systems
-date: 2024-08-08T13:14:32.839Z
-updated: 2024-08-09T13:14:32.839Z
+date: 2025-02-25T20:51:28.421Z
+updated: 2025-03-04T16:06:57.466Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 
  Nevertheless, let's check out some ways to enable NTFS file compression in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Enable NTFS File Compression Through the File Explorer
 
  The quickest way to enable NTFS [file compression](https://www.makeuseof.com/windows-11-file-compression-guide/) is through File Explorer. Below are the steps to compress a folder:
@@ -33,15 +30,9 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 2. Right-click on the target folder and choose**Properties** from the context menu.
 3. In the**General** tab, select the**Advanced** option.
 4. Under the**Compress or Encrypt attributes** section, check the**Compress contents to save disk space** box and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Compress content to save disk option in Folder properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/compress-content-to-save-disk-option.jpg)
 5. Click**Apply** \>**OK** to save the changes.
 6. In the confirmation dialog box that crops up, choose the **Apply changes to this folder, subfolders, and files option** .  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apply changes option in folder properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/apply-changes-option.jpg)
 7. Click**OK.**
 
@@ -56,9 +47,6 @@ Similarly, you can compress an entire drive. Here's how:
 ![Driver properties in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/driver-properties.jpg)
 3. Click**Apply** and then click**OK** on the confirmation box that crops up.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Enable NTFS File Compression Using the Command Prompt
 
  If you are a power user, you can use the Command Prompt to enable file compression on Windows 11\. Here are the steps to do it:
@@ -76,9 +64,6 @@ Similarly, you can compress an entire drive. Here's how:
 
 `fsutil behavior set disablecompression 1`
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Enable NTFS File Compression Using the Registry Editor
 
  Another quick way to enable compression is through the Registry Editor. Follow the below steps to do it:
@@ -112,32 +97,17 @@ Similarly, you can compress an entire drive. Here's how:
 
  You can disable the file compression by choosing the**Enabled** option in the**Do not allow compression on all NTFS volumes policy** properties window.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Free Up Space on Windows 11 With File Compression
 
  Enabling file compression is a great way to free up some space on Windows 11\. Using this feature can come in handy when you are running out of space but also don't want to compress your files using third-party compression tools.
 
  Meanwhile, you might be interested in learning more about the NTFS file system.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,6 +116,22 @@ Similarly, you can compress an entire drive. Here's how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-pioneering-online-presence-with-cutting-edge-360-videos-for-facebook/"><u>[Updated] In 2024, Pioneering Online Presence with Cutting-Edge 360 Videos for Facebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-tales-leveraging-chatgpt-for-epic-narratives/"><u>Crafting Tales: Leveraging ChatGPT for Epic Narratives</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-downloading-the-latest-epson-wf-3620-printer-driver-software-for-windows-1087/"><u>Easy Guide to Downloading the Latest Epson WF-3620 Printer Driver Software for Windows 10/8/7</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-tecno-spark-go-2024-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Tecno Spark Go (2024) FRP In 3 Different Ways</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-y100-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo Y100 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-15-pro-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 15 Pro Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instas-friendship-breakdown-detect-it-fast-for-2024/"><u>Insta's Friendship Breakdown Detect It Fast for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-fix-for-virtualboxs-non-attached-usb-error/"><u>Mastering the Fix for VirtualBox's Non-Attached USB Error</u></a></li>
+<li><a href="https://win11.techidaily.com/neglecting-nuances-5-hidden-risks-in-budgeted-windows-keys/"><u>Neglecting Nuances: 5 Hidden Risks in Budgeted Windows Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-application-management-via-windows-package-manager/"><u>Optimizing Application Management via Windows Package Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-windows-11s-classic-folder-view/"><u>Reviving Windows 11'S Classic Folder View</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-0x000000ea-blue-screen-error/"><u>SOLVED: 0X000000EA Blue Screen Error</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-non-displaying-alerts-on-taskbars/"><u>Tackling Non-Displaying Alerts on Taskbars</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-applied-policies-in-windows-via-3-views/"><u>Understanding Applied Policies in Windows via 3 Views</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-worldwide-network-link-in-minecraft-wins/"><u>Unlocking Worldwide Network Link in Minecraft Wins</u></a></li>
+</ul></div>
 

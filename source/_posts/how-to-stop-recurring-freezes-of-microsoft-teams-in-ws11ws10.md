@@ -1,7 +1,7 @@
 ---
 title: How to Stop Recurring Freezes of Microsoft Teams in WS11/WS10
-date: 2025-02-08T21:16:02.483Z
-updated: 2025-02-16T04:15:58.197Z
+date: 2025-03-02T23:52:34.277Z
+updated: 2025-03-05T01:02:36.188Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 
 ![end microsoft teams process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/end-microsoft-teams-process.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can kill and restart the Microsoft Teams process in Task Manager to fix crashing issues due to a temporary glitch. Here's how to do it:
 
 1. Press **Win + R** to open the **Run** dialog.
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 5. Close Task Manager and launch the Microsoft Teams app. Check if the app works without crashing.
 
  If the problem persists, perform a restart. A quick restart will force end all the background processes and help resolve issues due to temporary glitches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Sign Out and Quit the Teams App
 
@@ -63,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 4. Once you log out, close the Teams' sign-in window that appears. This should exit the app.  
 ![quit teams app system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/quit-teams-app-system-tray.jpg)
 5. Next, open the **System Tray** and check if the Microsoft **Teams** icon exists. If yes, right-click on the **Teams** icon and select **Quit**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Relaunch the app and sign in. Check for any improvements.
 
@@ -104,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 ![repair microsoft teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/repair-microsoft-teams.png)
 6. Scroll down to the **Reset** section and click on **Repair**. Windows will start repairing the app and show a checkmark after the repair is complete.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Close the **Settings** page and launch Microsoft Teams to see if the crashing problem is resolved.
 
 ## 5\. Reset the Microsoft Teams App
@@ -133,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 
 ![Microsoft teams settings update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Microsoft-teams-settings-update.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Newer updates often include bug fixes and performance improvements. While Microsoft Teams auto-updates every two weeks, you can manually check for a newer update in the app settings.
 
  To update Microsoft Teams:
@@ -145,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 2. Click the **three-dots** **menu** (Settings and more) in the top right corner and select **Settings**.
 3. Open the **About Teams** tab in the bottom left corner.
 4. Microsoft Teams will check for pending updates and install them if available.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Run Teams in Compatibility Mode
 
@@ -171,10 +147,6 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 8. Click **Apply** and **OK** to save the changes.
 
  With the new changes in place, launch Microsoft Teams to see if the crashing problem is resolved. If the issue persists, use a different Windows version in compatibility mode to see if that helps resolve the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Update the Display Adapter Driver
 
@@ -224,10 +196,6 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 
 ![run system file checker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/run-system-file-checker.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If Microsoft Teams fails to launch, you can run the System File Checker tool. It will scan the system for file corruption and restore the corrupted system files. This is helpful if the system-related issues are preventing the app from launching.
 
 1. Press **Win + X** to open the **WinX menu**.
@@ -236,10 +204,6 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 `sfc /scannow`
 4. Depending on your disk drive size, the process will take a while to complete. Once completed, it shows a summary of the errors found and fixed.
 5. Restart your PC and launch the Microsoft Teams app to see if it works normally.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the Microsoft Teams App Crashing Problem
 
@@ -261,24 +225,24 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-easy-links-for-seamless-connections-between-spotify-and-discord-for-2024/"><u>[Updated] Easy Links for Seamless Connections Between Spotify & Discord for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-examining-gopro-max-and-hero-11-pursuit-of-perfect-footage/"><u>[Updated] Examining GoPro Max & Hero 11 Pursuit of Perfect Footage</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-punchline-creator-suite/"><u>2024 Approved Punchline Creator Suite</u></a></li>
-<li><a href="https://win11.techidaily.com/easily-fix-no-permissions-issue-for-windows-files/"><u>Easily Fix No-Permissions Issue for Windows Files</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminate-winx-updater-error-0x80246007-in-windows-1011/"><u>Eliminate WinX Updater Error: 0X80246007 in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/enders-guide-stopping-unseen-windows-programs/"><u>Ender's Guide: Stopping Unseen Windows Programs</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-network-adapter-error-code-31-on-windows/"><u>How to Fix the Network Adapter Error Code 31 on Windows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-tecno-spark-20c-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Tecno Spark 20C Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-update-your-firmware-on-surface-computers/"><u>How to Update Your Firmware on Surface Computers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-compelling-mp4-player-selections-reviewed/"><u>In 2024, Compelling MP4 Player Selections Reviewed</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-note-30-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Note 30 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/introductory-handbook-on-video-quality-and-size/"><u>Introductory Handbook on Video Quality and Size</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-journey-across-devices-windows-launches-for-apples-tech-ecosystem/"><u>Seamless Journey Across Devices: Windows Launches for Apple's Tech Ecosystem</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sprint-to-stunning-photos-in-win-11-edition-for-2024/"><u>Sprint to Stunning Photos in Win 11 Edition for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-5-best-procreate-alternatives-for-windows/"><u>The 5 Best Procreate Alternatives for Windows</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-tecno-spark-10c-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Tecno Spark 10C without backup.</u></a></li>
-<li><a href="https://win11.techidaily.com/unmasking-invisible-hardware-on-pcs/"><u>Unmasking Invisible Hardware on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-and-beyond-ai-copilots-revolutionary-impact/"><u>Windows 11 and Beyond: AI Copilot's Revolutionary Impact</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/1728482068212-windows-113/"><u>Windows 11で素早い起動を容易にオフにするための3手法</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-a-practical-approach-to-installing-obs-on-apple-systems/"><u>[New] 2024 Approved A Practical Approach to Installing OBS on Apple Systems</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-ultimate-guide-for-effortless-youtube-shorts-design/"><u>[New] 2024 Approved The Ultimate Guide for Effortless YouTube Shorts Design</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-simple-way-to-control-comment-functionality-in-youtube/"><u>[Updated] The Simple Way to Control Comment Functionality in YouTube</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-itel-p40-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Itel P40 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-ways-chatgpt-can-help-you-build-a-website/"><u>4 Ways ChatGPT Can Help You Build a Website</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-frozen-menu-items-in-windows-11-desktop/"><u>Addressing Frozen Menu Items in Windows 11 Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-chkdsk-sfc-and-dism-for-system-repairing/"><u>Decoding CHKDSK, SFC & DISM for System Repairing</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/erase-sensitive-information-securely-with-leading-iphone-apps/"><u>Erase Sensitive Information Securely with Leading iPhone Apps 🚫</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/esr-halolock-innovation-unveiled-multi-card-wallet-with-adjustable-support-ideal-for-iphones-zdnet-insider-report/"><u>ESR HaloLock Innovation Unveiled: Multi-Card Wallet with Adjustable Support, Ideal for iPhones - ZDNET Insider Report</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-strategies-to-change-file-formats-on-pc/"><u>Expert Strategies to Change File Formats on PC</u></a></li>
+<li><a href="https://win-studio.techidaily.com/master-your-machine-customizing-hardware-preferences-on-your-laptop-or-desktop-with-yl-computing/"><u>Master Your Machine: Customizing Hardware Preferences on Your Laptop or Desktop with YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixing-your-windows-stylus-device/"><u>Mastering the Art of Fixing Your Windows Stylus Device</u></a></li>
+<li><a href="https://win11.techidaily.com/max-1-antivirus-for-windows-optimize-system-performance/"><u>Max 1 Antivirus for WIndows: Optimize System Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-msstdfmtdll-not-found-error-effective-solutions-unveiled/"><u>Overcoming 'Msstdfmt.dll Not Found' Error - Effective Solutions Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-operation-failed-0x0000011b-in-windows/"><u>Overcoming Operation Failed 0X0000011B in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionizing-gaming-with-dxvk-the-windows-perspective/"><u>Revolutionizing Gaming with DXVK - The Windows Perspective</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-unhandled-exception-strategies-to-mitigate-on-pc/"><u>Simplifying Unhandled Exception: Strategies to Mitigate on PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/tailored-digital-purchasing-by-facebook-triumphs-over-apples-standard-model/"><u>Tailored Digital Purchasing by Facebook Triumphs Over Apple's Standard Model</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-gaming-potential-android-on-win-11-through-google-services-access/"><u>Unlock Gaming Potential: Android on Win 11 Through Google Services Access</u></a></li>
 </ul></div>
 

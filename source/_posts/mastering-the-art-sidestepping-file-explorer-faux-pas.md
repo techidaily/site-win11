@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art: Sidestepping File Explorer Faux Pas"
-date: 2025-02-09T16:41:40.153Z
-updated: 2025-02-16T00:46:50.537Z
+date: 2025-03-01T20:40:40.055Z
+updated: 2025-03-04T21:53:20.839Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
  There are more benefits to using tabs. Right-clicking on tabs will display options to **Close other tabs**, which closes all tabs except the one you're currently seeing.
 
  Tabs can save you time, as you don't have to click multiple times to close multiple windows. You can learn [how to use tabs in File Explorer](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) to become more productive on Windows 11\.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Neglecting Keyboard Shortcuts
 
@@ -75,17 +71,9 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
 
  If you type "name:" followed by the file's name, it will only display the exact file you typed. You can also use "kind," "size," and "date." as syntax, too. For example, typing "size: 84 KB" in the File Explorer search box will display only a list of files that are of that size.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Relying on Both Keyboard and Mouse To Select Multiple Files
 
 ![man using keyboard and mouse on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keyboard-and-mouse-on-desk.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
@@ -99,19 +87,11 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
 ![rename atig6pxx dll file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-atig6pxx-dll-file.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  One of the reasons you're facing challenges in finding files or folders could be that you aren't naming them properly. And if you have many of them, it can get messy.
 
  There are also some restrictions to what you can use in a file or folder name. You must know all that to avoid getting surprises whenever you name them.
 
  To help you, we have some [pro tips for naming and organizing files in Windows](https://www.makeuseof.com/pro-tips-naming-organizingfiles-windows/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Not Taking Advantage of Customization Options in File Explorer
 
@@ -139,21 +119,22 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-master-your-audience-smooth-screen-sharing-on-social-livestreams/"><u>[New] In 2024, Master Your Audience Smooth Screen Sharing on Social Livestreams</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-simplifying-google-meet-on-android-devices/"><u>[Updated] 2024 Approved Simplifying Google Meet on Android Devices</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-lasting-eradication-strategy-for-youtube-shorts-feature/"><u>[Updated] Lasting Eradication Strategy for YouTube Shorts Feature</u></a></li>
-<li><a href="https://article-helps.techidaily.com/best-video-gear-of-2024-our-curated-list-unleashed/"><u>Best Video Gear of 2024 – Our Curated List Unleashed</u></a></li>
-<li><a href="https://windows11.techidaily.com/breached-byte-bastion-maintain-reflect-then-switch/"><u>Breached Byte Bastion: Maintain, Reflect, Then Switch</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-invalid-device-names-in-windows-11/"><u>Correcting Invalid Device Names in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-audio-precision-with-these-five-editors/"><u>Enhance Audio Precision with These Five Editors</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/essential-steps-for-successfully-installing-the-latest-arduino-driver-update-on-windows/"><u>Essential Steps for Successfully Installing the Latest Arduino Driver Update on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-handle-windows-defender-error-code-0x80004004/"><u>How to Handle Windows Defender Error Code 0X80004004</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-realme-c53-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme C53 Without Password | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-error-e8024002e-in-windows-updates/"><u>Navigating Error E:8024002E in Windows Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-directory-name-challenges-creative-fixes-for-windows-11/"><u>Overcoming Directory Name Challenges: Creative Fixes for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-art-of-authenticity-choosing-legitimate-windows-software/"><u>The Art of Authenticity: Choosing Legitimate Windows Software</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-unilateral-windows-headphone-functionality/"><u>Troubleshooting: Unilateral Windows Headphone Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlocking-the-beginning-of-windows-11-where-and-how-to-find-the-start-button/"><u>Unlocking the Beginning of Windows 11: Where and How to Find the Start Button</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-frame-perfection-top-10-tools-to-edge-your-instagram-content/"><u>[New] Frame Perfection Top 10 Tools to Edge Your Instagram Content</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-complete-handbook-for-saving-movies-on-desktop-laptop-and-android/"><u>[New] In 2024, The Complete Handbook for Saving Movies on Desktop, Laptop & Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-tier-writing-structure-space/"><u>[Updated] Top-Tier Writing Structure Space</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unleash-the-full-potential-of-your-tiktok-content-with-key-typefaces-for-2024/"><u>[Updated] Unleash the Full Potential of Your TikTok Content with Key Typefaces for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-reviving-the-past-flipping-iphone-video-streams/"><u>2024 Approved Reviving the Past Flipping iPhone Video Streams</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-your-lost-windows-product-key-quick-guide/"><u>Discover Your Lost Windows Product Key Quick Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-assessing-video-streaming-giants-vs-manycam/"><u>In 2024, Assessing Video Streaming Giants Vs. ManyCam</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstart-high-speed-play-for-yuzu-windows-ways/"><u>Jumpstart High-Speed Play for Yuzu, Windows Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/labeling-legends-taking-note-of-files-via-comments/"><u>Labeling Legends: Taking Note of Files via Comments</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-control-filter-key-functionality/"><u>Mastering Windows: Control Filter Key Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/nine-tactics-for-a-successful-google-drive-sync-in-windows/"><u>Nine Tactics for a Successful Google Drive Sync in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/plug-incredible-solar-powered-motion-detection-capabilities-unveiled/"><u>Plug: Incredible Solar-Powered Motion Detection Capabilities Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrecting-erased-folders-on-windows-systems/"><u>Resurrecting Erased Folders on Windows Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/steps-to-disguise-contributors-in-digital-forums/"><u>Steps to Disguise Contributors in Digital Forums</u></a></li>
+<li><a href="https://win11.techidaily.com/turbocharge-win-outlook-faster-fixes-guide/"><u>Turbocharge Win Outlook: Faster Fixes Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-display-sync-and-configure-two-or-more/"><u>Windows 11 Display: Sync and Configure Two or More</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Addressing Missing Configuration Backup by Nvidia CP
-date: 2024-08-08T13:15:19.450Z
-updated: 2024-08-09T13:15:19.450Z
+date: 2025-02-26T00:49:41.190Z
+updated: 2025-03-05T03:56:48.745Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
 
  This can be exasperating, especially if you've spent hours setting your preferences. As such, if the NVIDIA Control Panel is not saving settings in Windows 11, try the below solutions to troubleshoot the problem for good.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Temporarily Disable Your Security Program
 
  Security applications are designed to safeguard your system from malware and unauthorized access. However, they can sometimes interfere with trusted applications, like the NVIDIA Control Panel, and prevent them from making any changes to your system.
@@ -47,27 +44,17 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
 2. Expand the**Display adapters** node by double-clicking on it.
 3. Right-click the NVIDIA graphics card and choose**Uninstall device** from the context menu.
 4. Click**Uninstall** again from the confirmation prompt that crops up.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Uninstall option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option-2.jpg)
 5. Now, wait until the Device Manager uninstalls the NVIDIA graphics driver.
 
  After that, restart your computer and head toward the [NVIDIA driver download website](https://www.nvidia.com/download/index.aspx) . Enter your driver details and search for and download the latest update.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![NVIDIA Driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/nvidia-driver-download.jpg)
 
  Once the download is complete, launch the installer and follow the on-screen instructions to complete the installation process.
 
 ![NVIDIA Installer to update NVIDIA graphics driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/nvidia-installer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## 4\. Customize NVIDIA Corporation Folder Settings
 
  The NVIDIA Corporation folder contains all the important files and settings related to the NVIDIA graphics card driver. If you do not have permission to access or make changes to this folder, the NVIDIA Control Panel will fail to save settings.
@@ -79,29 +66,20 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
 3. Switch to the**Security** tab and click the**Edit** button.  
 ![Edit option in the NVIDIA Corporation Folder Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-option.jpg)
 4. Select your username from the**Group or user names** section and then check the**Full Control** checkbox.  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Full control checkbox in the folder properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-control-checkbox.jpg)
 5. Click**Apply** \>**OK** to save the changes.
 
  That's it! Restart your system, and you'll see that you can easily save settings in the NVIDIA Control Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Customize Your NVIDIA Experience With the Control Panel Once More
 
  The NVIDIA Control Panel allows you to customize its settings per your preference. However, due to corrupt drivers, security applications, and lack of permissions, the NVIDIA Control Panel will not be able to save settings in Windows 11\. Fortunately, it's a very common issue and can easily be solved using the above solutions.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,6 +88,21 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-combining-skypes-ease-with-zooms-advanced-features/"><u>[New] In 2024, Combining Skype's Ease with Zoom's Advanced Features</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-tier-screen-capture-tools-for-windows-and-macos/"><u>[New] In 2024, Top-Tier Screen Capture Tools for Windows & macOS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-action-sequence-showdown-new-era-gopro-hero5-black-vs-old-guard-hero4-silver/"><u>[Updated] Action Sequence Showdown New Era GoPro Hero5 Black Vs Old Guard Hero4 Silver</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-application-launch-disruptions-from-qt-shortfall/"><u>Correcting Application Launch Disruptions From Qt Shortfall</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-practical-uses-for-the-innovative-ampasys-andes-1500-compact-generator/"><u>Discovering Practical Uses for the Innovative Ampasys Andes 1500 Compact Generator</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-truthgpg-unraveling-its-true-nature-and-potential-scam-risks/"><u>Exploring TruthGPG: Unraveling Its True Nature & Potential Scam Risks</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-xbox-game-pass-0x800700e9-error-in-windows-10-and-11/"><u>How to Fix the Xbox Game Pass 0X800700e9 Error in Windows 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-prevent-and-resolve-video-crash-on-win1110-pcs/"><u>How to Prevent and Resolve Video Crash on Win11/10 PCs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oneplus-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock OnePlus Phone When You Forget the Password</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-harnessing-microsoft-teams-power-with-simple-snap-camera-use/"><u>In 2024, Harnessing Microsoft Teams' Power with Simple Snap Camera Use</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/jpgjpegwindows/"><u>JPG・JPEG画像からWindows環境下で動画への変換ガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-prevent-blue-screens-win11-plus-vmware-edition/"><u>Methods to Prevent Blue Screens: Win11 + VMware Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-pc-information-discovery-everythingapp-way/"><u>Quick PC Information Discovery, EverythingApp Way</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-savings-on-w11-pro-exclusive-deals-inside/"><u>Secure Savings on W11 Pro - Exclusive Deals Inside</u></a></li>
+</ul></div>
 

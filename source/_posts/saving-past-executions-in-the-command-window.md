@@ -1,7 +1,7 @@
 ---
 title: Saving Past Executions in the Command Window
-date: 2025-02-08T22:05:04.796Z
-updated: 2025-02-15T18:14:51.615Z
+date: 2025-03-03T18:42:33.461Z
+updated: 2025-03-04T20:07:11.605Z
 tags:
   - windows10
   - windows11
@@ -35,15 +35,7 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 4. Enable the toggle next to **Let Windows improve Start and search results by tracking app launches**.  
 ![Allow Windows to Track App Launches on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-windows-to-track-app-launches-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After completing the above steps, try running a few commands via the Run dialog box. Then, check if it is saving your command history and providing auto-complete suggestions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Edit Registry Files
 
@@ -60,15 +52,7 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 7. Click **OK**.  
 ![Edit Registry DWORD on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-registry-dword-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart your PC after this for the changes to take effect. Following this, the Run command should start saving your history on Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Apply Generic Fixes
 
@@ -77,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 * **Restart Your PC:** This may appear rudimentary, but temporary OS-related glitches can sometimes cause such anomalies. If it’s nothing major, [restarting your PC](https://www.makeuseof.com/windows-restart-methods/) should fix any issues with the Run command.
 * **Run an SFC Scan:** Such issues can also arise if some of the critical system files on your PC are corrupt. [Running a System File Checker (SFC) scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) can help detect and repair any damaged system files on your PC.
 * **Scan for Malware:** It’s possible that your system is infected by malware, which is why the Run command is having trouble saving your history. To rule out this possibility, you can [scan Windows for malware using PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) or Windows Defender.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get the Run Tool to Save Your History on Windows
 
@@ -100,19 +80,19 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-quick-recording-techniques-for-firaxis-age-of-empires-ii-for-2024/"><u>[New] Quick Recording Techniques for Firaxis' Age of Empires II for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-top-12-youtube-game-openers-both-free-and-fee-based-options/"><u>[Updated] In 2024, Top 12 YouTube Game Openers Both Free & Fee-Based Options</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/becoming-a-master-at-iphones-hdr-photography-techniques-for-2024/"><u>Becoming a Master at iPhone's HDR Photography Techniques for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-installation-and-maintenance-with-windows-package-manager/"><u>Comprehensive Installation & Maintenance with Windows Package Manager</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-anthropics-new-ai-prompt-emporium/"><u>Explore Anthropic's New AI Prompt Emporium</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-list-of-superior-live-streaming-services/"><u>In 2024, The Ultimate List of Superior Live Streaming Services</u></a></li>
-<li><a href="https://win11.techidaily.com/realigning-dysfunctional-windows-keyboard-keys/"><u>Realigning Dysfunctional Windows Keyboard Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-server-slip-ups-overcoming-ms-store-glitches-on-win-1011/"><u>Resolving Server Slip-Ups: Overcoming MS Store Glitches on Win 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-revive-failing-voice-access-features-in-windows-11/"><u>Steps to Revive Failing Voice Access Features in Windows 11</u></a></li>
-<li><a href="https://fox-http.techidaily.com/streamlining-film-grading-with-cg-centrals-look-up-tables/"><u>Streamlining Film Grading with CG Central's Look-Up Tables</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-review-the-powerhouse-netgear-nighthawk-x10-ad7200-router-delivers-lightning-fast-wi-fi-connectivity/"><u>Top Review: The Powerhouse Netgear Nighthawk X10 (AD7200) Router Delivers Lightning Fast Wi-Fi Connectivity</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-notepad-in-w11-with-insightful-ai/"><u>Transform Notepad in W11 with Insightful AI</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-email-failures-in-windows-11s-mail-app/"><u>Troubleshooting Email Failures in Windows 11'S Mail App</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-achieving-flawless-fb-live-via-zoom-streaming-for-2024/"><u>[New] Achieving Flawless FB Live via Zoom Streaming for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-does-youtube-offer-regular-viewers-money-for-2024/"><u>[New] Does YouTube Offer Regular Viewers Money for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-5-key-strategies-to-correct-iphone-hdri-premiere-pro-edition/"><u>[Updated] 5 Key Strategies to Correct iPhone HDRI Premiere Pro Edition</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-beginners-guide-to-visual-storytelling-key-shot-techniques-for-2024/"><u>[Updated] Beginner’s Guide to Visual Storytelling Key Shot Techniques for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-quickclip-artisan/"><u>[Updated] QuickClip Artisan</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-techniques-for-crafting-bootable-windows-11-media-in-3-ways/"><u>Expert Techniques for Crafting Bootable Windows 11 Media in 3 Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-blank-screen-on-windows-remote-workspace/"><u>Fixing Blank Screen on Windows Remote Workspace</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-the-windows-terminal-settings-to-their-defaults-in-windows-11/"><u>How to Reset the Windows Terminal Settings to Their Defaults in Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/mastering-the-art-of-saving-twitter-jokes-gifs/"><u>Mastering the Art of Saving Twitter Jokes (GIFs)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/persona-3-fes-stuck-on-not-launching-heres-how-to-fix-it/"><u>Persona 3 FES Stuck on 'Not Launching'? Here’s How to Fix It!</u></a></li>
+<li><a href="https://win11.techidaily.com/redefine-productivity-the-finest-6-android-apps-for-windows-11-users/"><u>Redefine Productivity: The Finest 6 Android Apps for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-potential-installing-ms-works-in-latest-windows-os/"><u>Unlock Potential: Installing MS Works in Latest Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/win11s-null-error-explained-and-solved-efficiently/"><u>Win11's Null Error Explained & Solved Efficiently</u></a></li>
+<li><a href="https://extra-information.techidaily.com/yuneecs-breeze-a-quest-for-perfect-vision/"><u>Yuneec's Breeze - A Quest for Perfect Vision</u></a></li>
 </ul></div>
 

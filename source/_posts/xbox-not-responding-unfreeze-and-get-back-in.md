@@ -1,7 +1,7 @@
 ---
 title: Xbox Not Responding? Unfreeze and Get Back In
-date: 2025-01-30T02:30:26.760Z
-updated: 2025-02-03T17:37:03.089Z
+date: 2025-03-02T16:01:20.352Z
+updated: 2025-03-04T21:18:25.799Z
 tags:
   - windows10
   - windows11
@@ -43,10 +43,6 @@ Restart the Xbox app after this and see if it works fine.
 
  If the clock keeps messing up after this fix, check out[the reasons why your Windows 10 or 11 time is wrong](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) for more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Sign Out and Back Into the Xbox App
 
  Authentication issues with your account can also cause the Xbox app to stop working. One way to fix such issues is to sign out of the Xbox app and sign back in.
@@ -71,10 +67,6 @@ Restart the Xbox app after this and see if it works fine.
 ![Reinstall Gaming Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Reinstall-Gaming-Services-App.jpg)
 6. Click the**Install** button to download the app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Restart your PC](https://www.makeuseof.com/windows-restart-methods/) after this and try to use the Xbox app again.
 
 ## 5\. Run the Windows Store Apps Troubleshooter
@@ -88,10 +80,6 @@ To run the Windows Store Apps troubleshooter:
 3. Select**Other troubleshooters** .
 4. Click the**Run** button next to**Windows Store Apps** and follow the on-screen prompts to run the troubleshooter.  
 ![Run the Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-the-Windows-Store-Apps-Troubleshooter-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Repair or Reset Xbox App
 
@@ -110,10 +98,6 @@ To repair the Xbox app on Windows:
 
  If any Windows apps begin to misbehave in the future, check out[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) for similar steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Update the Xbox App
 
  If you haven't updated Xbox app in a while, you could encounter problems while using it. Plus, using an outdated version of the Xbox app also causes you to miss out on the latest features. Hence, it’s always a good idea to enable automatic app updates on Windows or learn[how to update Windows apps](https://www.makeuseof.com/update-apps-windows-11/) manually. Alternatively, you can update the Xbox app manually from the Microsoft Store.
@@ -123,10 +107,6 @@ To repair the Xbox app on Windows:
  While you are at it, we’d also recommend you install any pending Windows updates. To do so, open the**Settings** app and head over to the**Windows Update** section. Click the**Check for updates** button and install any pending system updates on your computer. Following this, the Xbox app should work fine.
 
 ![Windows Update Tab in Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Check-for-Updates-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Leave the Xbox Insider Program
 
@@ -141,10 +121,6 @@ To leave the Xbox Insider Program:
 5. Click the**Leave preview** button.
 6. Select**Continue** when prompted.  
 ![Leave Xbox Insider Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Leave-Xbox-Insider-Program.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Restart the Xbox app after this and try to use it again.
 
@@ -169,22 +145,20 @@ Restart the Xbox app after this and try to use it again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-apowersofts-place-in-the-screen-capture-market/"><u>[New] Apowersoft's Place in the Screen Capture Market</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-deciding-on-live-stream-software-streamlabs-vs-obs-comparison/"><u>[Updated] 2024 Approved Deciding on Live Stream Software Streamlabs Vs. OBS Comparison</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-designing-engrossing-videography-storylines/"><u>[Updated] In 2024, Designing Engrossing Videography Storylines</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-evolution-of-auto-hdr-and-its-role-in-todays-photography/"><u>[Updated] The Evolution of Auto HDR and Its Role in Today's Photography</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/compact-powerful-and-discreet-why-the-size-matters-when-choosing-a-personal-safety-device-expert-insights-on-top-brands/"><u>Compact, Powerful and Discreet - Why the Size Matters When Choosing a Personal Safety Device – Expert Insights on Top Brands</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-task-manager-addressing-erroneous-processor-use/"><u>Correcting Task Manager: Addressing Erroneous Processor Use</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-windows-11s-novelty-post-update-features/"><u>Discover Windows 11'S Novelty Post-Update Features</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-newest-nvidia-geforce-drivers-compatible-with-games-windows-version/"><u>Download the Newest Nvidia GeForce Drivers Compatible with Games - Windows Version</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-perfecting-visual-virality-crafting-engaging-square-videos/"><u>In 2024, Perfecting Visual Virality Crafting Engaging Square Videos</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/insightful-evaluation-of-the-amazon-fire-hd-8-a-budget-tablet-worth-its-cost/"><u>Insightful Evaluation of the Amazon Fire HD 8 : A Budget Tablet Worth Its Cost</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-customization-of-fax-pages-in-win11/"><u>Navigating Through Customization of Fax Pages in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-resuming-lol-after-disconnects-in-windows/"><u>Quick Guide: Resuming LoL After Disconnects in Windows</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/refreshing-individual-webpages-without-overhauling-your-entire-project-with-flipbuilder-tools/"><u>Refreshing Individual Webpages Without Overhauling Your Entire Project with FlipBuilder Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/revolutionizing-your-window-experience-with-top-product-key-deals/"><u>Revolutionizing Your Window Experience with Top Product Key Deals</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-solutions-nine-fixes-to-avoid-wwe-crashes-windows-11/"><u>Speedy Solutions: Nine Fixes to Avoid WWE Crashes Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-blueprint-mastering-windows-insight-views/"><u>Unlock the Blueprint: Mastering Windows Insight Views</u></a></li>
-<li><a href="https://win11.techidaily.com/utilizing-windows-11-calendar-for-organization/"><u>Utilizing Windows 11 Calendar for Organization</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-flashback-snapshot/"><u>[New] Vimeo Flashback Snapshot</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-chromebook-shutter-magic-4-simple-steps/"><u>[Updated] In 2024, Chromebook Shutter Magic - 4 Simple Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-windows-11s-security-six-pathways-for-safe-mode/"><u>Accessing Windows 11'S Security: Six Pathways for Safe Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-startup-options-your-ultimate-guidebook/"><u>Decoding Windows Startup Options: Your Ultimate Guidebook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-for-continuous-freezing-in-fallout-4-when-played-on-pc/"><u>Fixes & Solutions for Continuous Freezing in Fallout 4 When Played on PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-windows-11-installation-with-these-easy-to-implement-tweaks/"><u>Optimize Your Windows 11 Installation with These Easy-to-Implement Tweaks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalized-settings-for-users-implementing-local-groups-policies-in-windows-11-and-11/"><u>Personalized Settings for Users: Implementing Local Groups Policies in Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/rebooting-routine-file-explorer-revival-tips-for-win-11/"><u>Rebooting Routine: File Explorer Revival Tips for Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/restore-optional-features-on-windows-os-with-ease/"><u>Restore Optional Features on Windows OS with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/set-up-a-stunning-slideshow-easily-create-in-win11-heres-how/"><u>Set Up a Stunning Slideshow: Easily Create in Win11 Here’s How</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/soluciones-innovadoras-como-mejora-del-programa-norton-goback-en-sistemas-windows/"><u>Soluciones Innovadoras Como Mejora Del Programa Norton GoBack en Sistemas Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-stalled-resource-monitors-procedure-in-windows-11/"><u>Streamlining Stalled Resource Monitors: Procedure in Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-showdown-assessing-the-pros-and-cons-of-amazon-fire-versus-samsung-tablets/"><u>The Ultimate Showdown: Assessing the Pros and Cons of Amazon Fire Versus Samsung Tablets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-free-mac-mp4-converters-ranking-the-top-9-options/"><u>Ultimate Guide to Free Mac MP4 Converters: Ranking the Top 9 Options</u></a></li>
 </ul></div>
 

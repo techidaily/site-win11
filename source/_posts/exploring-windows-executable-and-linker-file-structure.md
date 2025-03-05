@@ -1,7 +1,7 @@
 ---
 title: Exploring Windows Executable & Linker File Structure
-date: 2025-02-12T20:35:05.516Z
-updated: 2025-02-15T23:58:07.226Z
+date: 2025-02-28T16:26:19.272Z
+updated: 2025-03-04T16:35:08.499Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
 ![laptop with code on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/laptop-with-code-on-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Before exploring the Windows Portable Executable format, it's important to clear up the basics. Let's take a step back and learn about the underlying concept of Windows PE—COFF.
 
  When you compile the source code to a program, the compiler generates an object file (.obj). This object file contains instructions for the computer in binary format.
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
  It contains sections and headers which provide information about the executable in question and helps the system loader manage data related to the executable. The headers in a PE file help the system loader map the file onto the memory, resolve dependencies such as API exports/imports, manage resources and prepare the file for execution.
 
  Linux also has its own iteration of the COFF; it's called Executable Link File or in short, ELF binary. You can check if a file is ELF or not by running the**file command** on Linux with the filename as the first argument.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Structure of a Windows Portable Executable
 
@@ -62,27 +54,15 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
  Overall, these components work together to create a structured format that allows the operating system to properly load, execute, and manage the executable code contained in the file. Let's learn exactly what each component does.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### DOS Header
 
  The first part of a PE file is called the DOS Header. A small amount of executable code is stored in the DOS header which can also be run on a DOS machine.
 
  This code is also called the MS-DOS stub and is used to throw an error message on systems that don't support the PE file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### PE Header
 
  The Portable Executable header gives information about the executable, like how big the file is, where the different parts are located, and what resources the executable needs. The PE header also has information about the type of executable, whether it’s a[Windows .DLL file](https://www.makeuseof.com/what-are-dll-files-on-windows/) or an .EXE.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Section Headers
 
@@ -115,21 +95,20 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-innovative-approaches-to-saving-your-instagram-highlights/"><u>[New] 2024 Approved Innovative Approaches to Saving Your Instagram Highlights</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-revival-of-obs-camera-achieved/"><u>[New] In 2024, Revival of OBS Camera Achieved</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-essential-tips-for-subtitling-stories-on-instagram/"><u>[New] In 2024, The Essential Tips for Subtitling Stories on Instagram</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-decoding-the-future-pivotal-changes-to-fb-advertising-post-2023-for-2024/"><u>[Updated] Decoding the Future Pivotal Changes to FB Advertising Post-2023 for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-creativity-the-best-ai-text-synthesizers/"><u>Boost Creativity: The Best AI Text Synthesizers</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-microsoft-store-error-code-0x80073cf3/"><u>Eliminating Microsoft Store Error Code: 0X80073CF3</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-access-your-pc-files-on-iosandroid-with-windows-network-share/"><u>How to Access Your PC Files on iOS/Android With Windows Network Share</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oneplus-ace-3-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring OnePlus Ace 3 to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-samsung-galaxy-a14-4g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Samsung Galaxy A14 4G Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/microsoft-store-locked-heres-your-path-forward/"><u>Microsoft Store Locked? Here's Your Path Forward</u></a></li>
-<li><a href="https://win11.techidaily.com/overcome-no-support-errors-in-windows-systematically/"><u>Overcome No Support Errors in Windows Systematically</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-normal-color-to-windows-display/"><u>Restoring Normal Color to Windows Display</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/seamless-setup-a-guide-to-adding-collaborative-inboxes-to-microsoft-outlook-effortlessly/"><u>Seamless Setup: A Guide to Adding Collaborative Inboxes to Microsoft Outlook Effortlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/securely-bidding-farewell-to-apps-in-windows-11-105-chars/"><u>Securely Bidding Farewell to Apps in Windows 11 (105 Chars)</u></a></li>
-<li><a href="https://win11.techidaily.com/three-innovations-for-customizing-your-win11-interface/"><u>Three Innovations for Customizing Your Win11 Interface</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-list-of-conversation-catalysts-for-listener-retention/"><u>Updated List of Conversation Catalysts for Listener Retention</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-are-you-violating-copyright-by-screenrecording-youtube-in-2024/"><u>[Updated] Are You Violating Copyright by ScreenRecording YouTube, In 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-hasten-artistic-touch-ups-on-windows-10-photos/"><u>[Updated] In 2024, Hasten Artistic Touch-Ups on Windows 10 Photos</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-the-sound-scourge-methods-for-eradicating-irrelevant-audio-noise-in-productions/"><u>2024 Approved The Sound Scourge Methods for Eradicating Irrelevant Audio Noise in Productions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-video-transcoding-applications-for-windows-1110-secure-speedy-solutions/"><u>Best Video Transcoding Applications for Windows 11/10: Secure, Speedy Solutions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/daily-movie-storage-gb-explained-for-2024/"><u>Daily Movie Storage GB Explained for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-fixes-for-google-drive-not-syncing-in-windows/"><u>Essential Fixes for Google Drive Not Syncing in Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-aps-guide-to-crafting-exquisite-hdr-photos/"><u>In 2024, Step-by-Step APS Guide to Crafting Exquisite HDR Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-ai-for-windows-next-gen-software-ecosystem/"><u>Leveraging AI for Windows' Next-Gen Software Ecosystem</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-error-code-0x80300024/"><u>Resolving Windows Error Code: 0X80300024</u></a></li>
+<li><a href="https://win11.techidaily.com/triumph-with-win-graphics-by-using-these-1-6-tools/"><u>Triumph with Win Graphics by Using These #1-#6 Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/turbo-typing-techniques-via-powertoys/"><u>Turbo Typing Techniques via PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/unfreezing-the-user-interface-a-windows-guide/"><u>Unfreezing the User Interface: A Windows Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-screen-without-mobile-mode-win-11/"><u>Unlock Full Screen Without Mobile Mode (Win 11)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oneplus-open-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your OnePlus Open Phone Network-Ready</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-uncovering-5-surprising-visual-discrepancies/"><u>Windows 11: Uncovering 5 Surprising Visual Discrepancies</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boost Speed: Identifying Your GPU on Windows 11 OS"
-date: 2024-08-15T23:12:55.127Z
-updated: 2024-08-16T23:12:55.127Z
+date: 2025-03-03T16:02:12.379Z
+updated: 2025-03-04T21:30:07.359Z
 tags:
   - windows10
   - windows11
@@ -33,9 +33,6 @@ To check the installed graphics card or GPU of your Windows 11 PC:
 
  Check out [how to use the Windows Task Manager](https://www.makeuseof.com/how-to-use-windows-task-manager/) for more in-depth instructions on this tool.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How to Find Your GPU Model Using DirectX on Windows 11
 
  You can use the DirectX Diagnostics Tool to get detailed specs of your PC. You can find system details such as the processor, total available RAM, BIOS version, GPU, sound, and even the details of input devices configured to your PC.
@@ -44,14 +41,8 @@ To check the installed graphics card or GPU of your Windows 11 PC:
 
 1. Launch the**Start** menu, search for**dxdiag** , and select the**Best match** .  
 ![directx GPU specs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/directx-specs.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Select the**Display** tab to view details of your GPU, including the GPU manufacturer, chip type, dedicated display memory, etc. If you have more than one GPU on your PC, you will see multiple**Display** tabs with details of each GPU.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. How to Confirm Your Graphics Card Model via the Windows 11 Settings App
 
  While you may have used the Settings app to configure different aspects of your PC, you can also use it to view the specs of the graphic card installed in your system. You can also view other display settings, such as the screen resolution and display type.
@@ -62,31 +53,19 @@ To check the installed graphics card or GPU of your Windows 11 PC:
 2. From the side menu, select**System** and then**Display** .
 3. Under**Related settings** , select**Advanced display** .  
 ![advanced display settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-display-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 4. You can see your GPU make and model under the**Display information** tab.  
 ![display adapter properties in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/display-adapter-properties-win11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. For more details, select**Display adapter properties for Display** .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get to Know Your GPU Model Better on Windows 11
 
  Whether you want to double-check your system requirements for a new game, or you want to update your GPU's drivers properly, knowing your graphics card's model is essential. Now you know how to quickly find out which card you have on Windows 11.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,6 +74,20 @@ To check the installed graphics card or GPU of your Windows 11 PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-generating-a-signature-tiktok-keyphrase/"><u>[New] Generating a Signature TikTok Keyphrase</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-a-comprehensive-list-of-alternatives-to-popular-gopro-cams/"><u>[New] In 2024, A Comprehensive List of Alternatives to Popular GoPro Cams</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-seamless-audio-transfer-best-iphone-tools-for-youtube-to-mp3/"><u>2024 Approved Seamless Audio Transfer Best iPhone Tools for YouTube-to-MP3</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>4 solution to get rid of pokemon fail to detect location On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevating-brand-visibility-a-10-step-roadmap-to-exceptional-smm-skills/"><u>Elevating Brand Visibility A 10-Step Roadmap to Exceptional SMM Skills</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-system-integrity-enabling-controlled-access-in-windows/"><u>Ensuring System Integrity: Enabling Controlled Access in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-dark-mode-in-microsoft-paint/"><u>How to Use Dark Mode in Microsoft Paint</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-bust-a-smile-well-up-in-tears-with-top-10-instagram-meme-groups/"><u>In 2024, Bust a Smile, Well Up in Tears with Top 10 Instagram Meme Groups</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-policy-settings-for-safe-powershell-scripting/"><u>Leveraging Policy Settings for Safe PowerShell Scripting</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixing-microsofts-email-error-0x800713f/"><u>Mastering the Art of Fixing Microsoft's Email Error (0X800713F)</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-black-white-problems-with-microsoft-store/"><u>Overcoming Black, White Problems with Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-rectify-error-code-0x00000709/"><u>Tips to Rectify Error Code 0X00000709</u></a></li>
+</ul></div>
 

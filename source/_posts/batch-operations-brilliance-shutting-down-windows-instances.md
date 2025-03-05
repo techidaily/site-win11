@@ -1,7 +1,7 @@
 ---
 title: "Batch Operations Brilliance: Shutting Down Windows Instances"
-date: 2024-08-15T23:12:59.284Z
-updated: 2024-08-16T23:12:59.284Z
+date: 2025-03-02T18:45:53.037Z
+updated: 2025-03-05T04:05:46.690Z
 tags:
   - windows10
   - windows11
@@ -47,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
 4. Right-click on one of the results and select the **End Process** option. This should simultaneously close all the programs you selected.
 
 ![Closing multiple apps using the Resource Monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/closing-multiple-apps-using-the-resource-monitor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Want to know the best part about using the Resource Monitor? This tool allows you to re-open multiple apps simultaneously with just a few clicks!
 
@@ -59,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
 2. Check the boxes of all the apps you want to re-open.
 3. Right-click on one of the results and select **Resume Process**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## 3\. Use the Command Prompt
 
 ![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
@@ -77,13 +70,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Right-click on the **Best match** result and select **Run as administrator**.
 
 ![Opening the Command Prompt using the Start menu search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-command-prompt-using-the-start-menu-search-bar.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 
  Let’s say you want to close multiple File Explorer windows simultaneously. To do that, type the following command in the Command Prompt and press **Enter**:
 
@@ -91,9 +77,6 @@ taskkill /f /im explorer.exe
 
  The “taskkill /f /im” command is the one that closes the program, and the “explorer.exe” command is the name of the app. To close multiple windows of your other apps, replace the “explorer.exe” part with the relevant command.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Create a Batch Script for Closing Multiple Apps Simultaneously
 
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
@@ -119,9 +102,6 @@ taskkill /f /im SnippingTool.exe /T > nul
 taskkill /f /im paintdotnet.exe /T > nul
 
 ![Creating a Batch Script for Closing Multiple Apps Simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-a-batch-script-for-closing-multiple-apps-simultaneously.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 
  From there, follow these steps:
 
@@ -137,9 +117,6 @@ taskkill /f /im paintdotnet.exe /T > nul
 3. Click the **Close Multiple Apps Simultaneously.bat** batch file.
 
 ![Clicking a batch script on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/clicking-a-batch-script-on-the-desktop.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  You can add as many apps as you want to your batch script.
 
@@ -167,14 +144,11 @@ taskkill /f /im paintdotnet.exe /T > nul
 
  Want a quick way to speed up your device? Close your multiple active programs simultaneously using the tips we’ve covered. And if you end up closing some apps by mistake, you can apply some quick tricks to restore them again.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -183,6 +157,21 @@ taskkill /f /im paintdotnet.exe /T > nul
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/build-your-affordable-virtual-reality-headgear-using-google-cards-for-2024/"><u>Build Your Affordable Virtual Reality Headgear Using Google Cards for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-resource-consumption-in-subsystem-for-android/"><u>Fine-Tuning Resource Consumption in Subsystem for Android</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-dynamic-typography-guide-the-most-innovative-ae-text-ideas/"><u>In 2024, Dynamic Typography Guide The Most Innovative AE Text Ideas</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-y200-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo Y200 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-unveils-upcoming-z890-chipset-compatible-core-ultra-arrow-lake-processors-leaked-images-reveal-new-desktop-cpu-names/"><u>Intel Unveils Upcoming Z890 Chipset-Compatible Core Ultra Arrow Lake Processors – Leaked Images Reveal New Desktop CPU Names</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-of-windows-credentials-access/"><u>Mastery of Windows Credentials Access</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-speech-capture-shortcut-techniques-in-windows-11/"><u>Optimize Your Speech Capture: Shortcut Techniques in Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/overcoming-the-challenge-of-hidden-youtube-shorts-thumbnails-for-2024/"><u>Overcoming the Challenge of Hidden YouTube Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-control-over-office-suite-after-safe-mode-outbreak/"><u>Regaining Control Over Office Suite After Safe Mode Outbreak</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/share-wisdom-4-proven-methods-to-tie-fb-stories-for-2024/"><u>Share Wisdom 4 Proven Methods to Tie FB Stories for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-streaming-reducing-latency-in-windows-discord/"><u>Speedy Streaming: Reducing Latency in Windows Discord</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/troubleshooting-usb-formatting-issues-in-windows-11-tips-and-solutions-for-a-smooth-fix/"><u>Troubleshooting USB Formatting Issues in Windows 11: Tips and Solutions for a Smooth Fix</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating the Art of Note-Saving Windows
-date: 2025-02-08T22:08:45.538Z
-updated: 2025-02-15T21:38:04.781Z
+date: 2025-02-26T02:23:04.562Z
+updated: 2025-03-04T23:19:37.762Z
 tags:
   - windows10
   - windows11
@@ -42,15 +42,7 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
 7. Scroll down and click **Sync now**.  
 ![the Sync Now button in Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/sync-now-button-in-sticky-notes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To restore the notes on another computer, open the Sticky Notes app (make sure the PC is connected to the internet) and sign in with your Microsoft account. Once signed in, the app will load all the notes you previously synced. Furthermore, every time you finish writing a Sticky Note or edit one, the app will automatically back it up to the cloud.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Manually Back Up and Restore Your Sticky Notes
 
@@ -63,16 +55,8 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
 ![opening tne Local State folder in Windows Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/opening-local-state-folder-in-windows-run.jpg)
 3. In the **LocalState** folder, copy the **plum.sqlite** file.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![the plum database for Sticky Notes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/the-plum-database-for-sticky-notes-on-windows.jpg)
 4. Paste the **plum.sqlite** file to an external drive, such as a flash drive or external SDD, or upload it to cloud storage, such as OneDrive or Google Drive, for safekeeping.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To manually restore your sticky notes on another Windows computer, follow the steps below:
 
@@ -83,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
 5. Paste the backup **plum.sqlite** file in the **LocalState** folder.
 
  Now when you open Sticky Notes, it will load the **plum.sqlite** file, and you should see all your notes appear in the app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Never Lose Your Sticky Notes Again
 
@@ -104,21 +84,16 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-essential-insight-into-the-best-6-harnesses-for-gopro-headsets/"><u>[New] Essential Insight Into The Best 6 Harnesses for GoPro Headsets</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-from-airplay-to-download-apple-podcasts-simplified/"><u>[Updated] From Airplay to Download Apple Podcasts Simplified</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-harnessing-the-power-of-video-the-most-effective-fb-ad-practices/"><u>2024 Approved Harnessing the Power of Video The Most Effective FB Ad Practices</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-key-steps-to-find-your-youtube-content-creation-hub/"><u>2024 Approved Key Steps to Find Your YouTube Content Creation Hub</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/call-of-duty-mobile-silence-solved-top-tips-and-tricks-to-bring-back-warzone-sound-for-pc-users/"><u>Call of Duty Mobile Silence Solved: Top Tips and Tricks to Bring Back Warzone Sound for PC Users</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oneplus-11r-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass OnePlus 11R FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-program-use-via-right-click-menu-upgrade/"><u>Efficient Program Use via Right-Click Menu Upgrade</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-elevate-your-skills-comprehensive-periscope-tutorial/"><u>In 2024, Elevate Your Skills Comprehensive Periscope Tutorial</u></a></li>
-<li><a href="https://win11.techidaily.com/innovative-techniques-for-username-customization-in-windows/"><u>Innovative Techniques for UserName Customization in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-virtualboxs-efail-windows-issue-0x80004005/"><u>Navigating Through Virtualbox's E_FAIL (Windows) Issue: 0X80004005</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-11-display-brightness-issues/"><u>Overcoming Windows 11 Display Brightness Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11s-zip-extraction-hurdle/"><u>Overcoming Windows 11'S ZIP Extraction Hurdle</u></a></li>
-<li><a href="https://win11.techidaily.com/prime-tools-excluding-microsofts-snipping-for-efficient-screen-grabbing/"><u>Prime Tools Excluding Microsoft's Snipping for Efficient Screen Grabbing</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-windows-11-icon-size-from-falling-short/"><u>Stop Windows 11 Icon Size From Falling Short</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-lags-achieve-android-like-speed-on-pc/"><u>Windows Lags? Achieve Android-Like Speed on PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-quick-techniques-for-documenting-youtube-videos/"><u>[New] 2024 Approved Quick Techniques for Documenting YouTube Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-eliminate-haze-maintaining-pristine-gopro-sight/"><u>[Updated] In 2024, Eliminate Haze Maintaining Pristine GoPro Sight</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-artisans-path-to-memetic-fame-via-gifs/"><u>[Updated] The Artisan's Path to Memetic Fame via GIFs</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-windows-11-camera-error-no-image-save/"><u>Correcting Windows 11 Camera Error: No Image Save</u></a></li>
+<li><a href="https://win11.techidaily.com/embrace-pure-linux-leave-behind-wsl/"><u>Embrace Pure Linux - Leave Behind WSL</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-win-cs-go-frames-per-second-strategies/"><u>Enhancing Win CS GO Frames Per Second Strategies</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-motorola-moto-g73-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Motorola Moto G73 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/mastering-fisheye-photography-for-full-spheres/"><u>Mastering Fisheye Photography for Full Spheres</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-speech-problems-for-valorant-players/"><u>Overcoming Windows Speech Problems for Valorant Players</u></a></li>
+<li><a href="https://win11.techidaily.com/speak-up-start-out-engaging-windows-11-voices/"><u>Speak Up, Start Out: Engaging Windows 11 Voices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-xiaomi-redmi-note-12t-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Xiaomi Redmi Note 12T Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
 </ul></div>
 

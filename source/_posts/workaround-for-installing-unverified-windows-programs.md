@@ -1,7 +1,7 @@
 ---
 title: Workaround for Installing Unverified Windows Programs
-date: 2025-01-27T18:17:46.303Z
-updated: 2025-02-04T05:14:54.131Z
+date: 2025-02-28T02:30:26.581Z
+updated: 2025-03-04T22:59:45.798Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Install the App From the Microsoft Store
 
  Considering you get the error when downloading apps outside the Microsoft Store, it makes sense to first check if the same app is available there. If the app is available, you can download it from there, and there won't be any need to go through advanced troubleshooting.
@@ -43,15 +39,7 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
 ![Check the Authenticity of a Software by Entering its URL in VirusTotal’s Official Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/1-check-the-authenticity-of-a-software-by-entering-its-url-in-virustotal-s-official-website.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the scanner doesn't find any problems with the download link, it's probably safe. After ensuring that, you can apply the remaining fixes to enable app installation outside the store.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Change the Operating System App Settings
 
@@ -73,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
 ![Select Anywhere From the Dropdown Menu Next to Choose Where to Get Apps Option in Apps Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-select-anywhere-from-the-dropdown-menu-next-to-choose-where-to-get-apps-option-in-apps-settings-in-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Turn Off the App Install Control Policy
 
  The App Install Control is a Microsoft Defender SmartScreen feature that prevents users from installing apps outside the Microsoft Store. It does this to prevent users from infecting their devices with third-party applications.
@@ -90,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
 4. Select **Disabled** to turn off this feature.  
 ![Disable the Policy for Configure App Install Control in Windows Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/5-disable-the-policy-for-configure-app-install-control-in-windows-local-group-policy-editor.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Change the App Install Control Permission in the Registry Editor
 
@@ -114,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 6. Restart the computer for the changes to take effect.
 
  If the above Registry tweak does not resolve the issue, turn off S mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Disable Windows S Mode
 
@@ -160,20 +136,20 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-open-source-templates-transform-your-youtube-channel/"><u>[New] 2024 Approved Open-Source Templates Transform Your YouTube Channel</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-essentials-of-making-professional-level-facebook-reels/"><u>[New] In 2024, The Essentials of Making Professional-Level Facebook Reels</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-how-to-analyze-your-and-competitors-youtube-video/"><u>[Updated] 2024 Approved How to Analyze Your and Competitor’s YouTube Video</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/chromebooks-to-the-rescue-mastering-webcam-recordings/"><u>Chromebooks to the Rescue Mastering Webcam Recordings</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevate-your-tiktok-must-know-editing-insights/"><u>Elevate Your TikTok Must-Know Editing Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-1011-stop-do-not-have-sufficient-access-error/"><u>Fixing Windows 10/11: Stop 'Do Not Have Sufficient Access' Error</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How does the stardust trade cost In pokemon go On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/identifying-open-ports-on-windows-systems/"><u>Identifying Open Ports on Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/make-your-pc-cooler-with-personalized-weather-icons-for-windows-11-status-bar/"><u>Make Your PC Cooler with Personalized Weather Icons for Windows 11 Status Bar</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-disks-unveiling-4-access-methods-to-disk-editor-in-windows-11/"><u>Mastering Disks: Unveiling 4 Access Methods to Disk Editor in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-reorganize-overlapping-system-icons/"><u>Methods to Reorganize Overlapping System Icons</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-world-of-windows-11-photography-crafting-dynamic-slide-shows-and-spot-repairing/"><u>Navigating the World of Windows 11 Photography: Crafting Dynamic Slide Shows & Spot Repairing</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-guide-windows-onedrive-folder-addition-issue/"><u>Quick Fix Guide: Windows OneDrive Folder Addition Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-non-functional-headset-mic-on-runmux-game-system/"><u>Resolving Non-Functional Headset Mic on RunmuX Game System</u></a></li>
-<li><a href="https://win-web.techidaily.com/wechat-iphone/"><u>WeChat 会話履歴の迅速な回復術 - iPhoneユーザ向けレシピ</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-detailed-guide-on-making-gifs-into-stickers-whatsapp-discord-and-telegram-edition/"><u>[New] A Detailed Guide on Making GIFs Into Stickers WhatsApp, Discord & Telegram Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-google-pixel-rhythms-the-ideal-online-source-for-2024/"><u>[New] Google Pixel Rhythms The Ideal Online Source for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pinnacle-tools-for-audio-infused-photography/"><u>[Updated] Pinnacle Tools for Audio Infused Photography</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-subscription-wins-unlock-monetization-benefits-for-2024/"><u>[Updated] Subscription Wins Unlock Monetization Benefits for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-an-inactive-firewall-a-step-by-step-guide/"><u>Bypassing an Inactive Firewall: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/expanding-pin-code-length-in-windows-11-and-11/"><u>Expanding Pin Code Length in Windows 11 and 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-f25-pro-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo F25 Pro 5G Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/identifying-and-fixing-absence-of-hypervisor-on-windows-sandbox/"><u>Identifying and Fixing Absence of Hypervisor on Windows Sandbox</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-window-image-display-windows-11-style/"><u>Maximizing Window Image Display: Windows 11 Style</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-pcs-wi-fi-woes-six-effective-steps-from-fixing-adapter-failure/"><u>Reviving Your PC's Wi-Fi Woes - Six Effective Steps From Fixing Adapter Failure</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-m4v-file-a-comprehensive-guide-on-opening-and-managing-video-formats/"><u>Understanding the M4V File: A Comprehensive Guide on Opening and Managing Video Formats</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-top-windows-11-fps-monitors-and-counter-tools/"><u>Unveiling Top Windows 11 FPS Monitors & Counter Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-hot-30-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix Hot 30 5G Device</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-guide-to-security-focused-dialogue-shortcuts/"><u>Windows 11: Guide to Security-Focused Dialogue Shortcuts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fine-Tuning Subnet Settings in Win11
-date: 2025-02-11T00:54:53.563Z
-updated: 2025-02-16T01:12:29.773Z
+date: 2025-02-25T19:51:22.113Z
+updated: 2025-03-04T16:33:22.542Z
 tags:
   - windows10
   - windows11
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
 
  Now that you know how to find the subnet mask on your computer, let's check out how to change it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Change the Subnet Mask Using the Windows Settings
 
  The settings menu is the central hub of a Windows operating system. It's a place to configure different settings of your computer and manage the network. You can also use it to change the subnet mask.
@@ -74,24 +70,12 @@ Here's how to do it:
 ![Network name in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-name.jpg)
 5. Choose**Properties** from the window that appears.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Select the IP version you're using. For instance, if you're using IPv4, select**Internet Protocol Version 4 (TCP/IPv4)** and click the**Properties** button.  
 ![IPv4 properties option in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ipv4-properties.jpg)
 7. Select the**Use the following address** option and enter the details.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Changing the Subnet Mask in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/changing-the-subnet-mask.jpg)
 8. Click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Change the Subnet Mask Using Windows PowerShell
 
@@ -107,10 +91,6 @@ Here's how to do it:
 `Set-NetIPAddress -InterfaceIndex 3 -PrefixLength 24`
 
 ![Command to change the subnet mask in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-change-the-subnet-mask.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Changing the Subnet Mask in Windows 11
 
@@ -133,17 +113,21 @@ Here's how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-practical-steps-in-mastering-telegram-web-services-for-2024/"><u>[New] Practical Steps in Mastering Telegram Web Services for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/creating-an-intuitive-taskbar-experience-on-windows-11-tablets/"><u>Creating an Intuitive Taskbar Experience on Windows 11 Tablets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/demystifying-the-livekernelevent-error-144-tips-to-get-your-system-running-smoothly-again/"><u>Demystifying the LiveKernelEvent Error 144 – Tips to Get Your System Running Smoothly Again</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/faceoff-of-giants-comparing-llama-3-and-gpt-n-to-find-the-best/"><u>Faceoff of Giants: Comparing Llama 3 and GPT-N to Find the Best</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mitigating-graphics-driver-fails-without-system-lockup/"><u>Mitigating Graphics Driver Fails Without System Lockup</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-gen-showdown-ps5-versus-low-cost-gaming-machine/"><u>Next-Gen Showdown: PS5 Versus Low-Cost Gaming Machine</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-connection-reestablishing-obs-link-on-pc-top-7-strategies/"><u>Seamless Connection: Reestablishing OBS Link on PC (Top 7 Strategies)</u></a></li>
-<li><a href="https://win11.techidaily.com/setting-up-triadic-widget-display-for-enhanced-productivity/"><u>Setting up Triadic Widget Display for Enhanced Productivity</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-reviving-non-responsive-ctrl-in-windows-11/"><u>Troubleshooting: Reviving Non-Responsive Ctrl in Windows 11</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ate-selection-10-budget-friendly-youtube-caption-tools/"><u>Ultimate Selection 10 Budget-Friendly YouTube Caption Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-fast-steam-downloads-on-windows-systems/"><u>Unlock Fast Steam Downloads on Windows Systems</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-best-video-highlight-makers-for-pc-mac-android-and-ios/"><u>Updated In 2024, Best Video Highlight Makers for PC, Mac, Android, and iOS</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-quadcopters-unveiled-their-intricate-workings-revealed/"><u>[New] 2024 Approved Quadcopters Unveiled Their Intricate Workings Revealed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-picture-power-infusing-textual-elements-on-windows-and-mac-photo-canvas/"><u>[Updated] Picture Power Infusing Textual Elements on Windows & Mac Photo Canvas</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-breaking-down-the-font-inclusion-process-in-ae/"><u>2024 Approved Breaking Down the Font Inclusion Process in AE</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-designs-top-windows-notebooks-for-future-tech/"><u>Cutting-Edge Designs: Top Windows Notebooks for Future Tech</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-efficiency-with-window-tabbing-windows-11-essentials/"><u>Enhancing Efficiency with Window Tabbing: Windows 11 Essentials</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-increase-dedicated-video-ram-vram-in-windows-10-and-11/"><u>How to Increase Dedicated Video RAM (VRAM) in Windows 10 and 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-basics-to-expertise-the-quantum-hdr-journey/"><u>In 2024, From Basics to Expertise The Quantum HDR Journey</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-journey-beyond-boundaries-secure-this-top-7-metavue-tech/"><u>In 2024, Journey Beyond Boundaries - Secure This Top 7 Metavue Tech</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-honor-x50iplus-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Honor X50i+ Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-text-pasting-like-a-pro-in-powertoys/"><u>Navigate Text Pasting Like a Pro in PowerToys</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/simple-steps-integrating-sound-files-into-your-macs-itunes-library/"><u>Simple Steps: Integrating Sound Files Into Your Mac's iTunes Library</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-workflow-with-powertoys-tools/"><u>Streamline Your Workflow with PowerToys Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-adjust-your-windows-clock-without-regional-defaults/"><u>Tips to Adjust Your Windows Clock Without Regional Defaults</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-computer-speakers-logitech-and-audioengine-leading-the-pack-insights-from-zdnet/"><u>Top-Rated Computer Speakers : Logitech & Audioengine Leading the Pack - Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-new-features-tailoring-fn-key-behavior-on-windows-11/"><u>Unlock New Features: Tailoring FN Key Behavior on Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On ZTE Blade A73 5G? | Dr.fone</u></a></li>
 </ul></div>
 

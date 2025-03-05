@@ -1,7 +1,7 @@
 ---
 title: Adjusting Network Settings with Precision (Win11)
-date: 2024-08-08T13:14:48.243Z
-updated: 2024-08-09T13:14:48.243Z
+date: 2025-03-02T22:58:59.645Z
+updated: 2025-03-05T00:19:28.228Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
 2. In the search bar, type**Command Prompt** and choose the**Run as administrator** option from the right pane.
 3. In the elevated Command Prompt window, type**ipconfig /all** and press Enter. This command will display all the important details about the network your computer is connected to, including the subnet mask.
 4. Scroll and look for**Subnet Mask.** It'll be under the**Wireless LAN adapter Wi-Fi** section.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Finding the Subnet mask in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/finding-the-subnet-mask.jpg)
 
  The steps to do it using Windows PowerShell are similar to the Command Prompt. To do it,[open Windows PowerShell with admin rights](https://www.makeuseof.com/windows-11-powershell-administrator/) , type the ipconfig /all command, and press Enter.
@@ -41,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
 
  Now that you know how to find the subnet mask on your computer, let's check out how to change it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### 1\. Change the Subnet Mask Using the Windows Settings
 
  The settings menu is the central hub of a Windows operating system. It's a place to configure different settings of your computer and manage the network. You can also use it to change the subnet mask.
@@ -59,13 +53,6 @@ Here's how to do it:
 6. Enter the details, including the subnet mask, and click**Save.**  
 ![Entering the new Subnet Mask in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/entering-the-new-subnet-mask.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### 2\. Change the Subnet Mask Using the Control Panel
 
  The Control Panel is the go-to place to configure window settings and make changes to your device. To use it to change the subnet mask, follow the below instructions:
@@ -74,9 +61,6 @@ No advertising on the website.
 2. Click the drop-down icon next to**View by** and choose**Large icons.**
 3. Choose**Network and Internet** , and then select**Network and Sharing Center** in the following window.
 4. Click on your network next to**Connections.**  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Network name in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-name.jpg)
 5. Choose**Properties** from the window that appears.
 6. Select the IP version you're using. For instance, if you're using IPv4, select**Internet Protocol Version 4 (TCP/IPv4)** and click the**Properties** button.  
@@ -85,9 +69,6 @@ No advertising on the website.
 ![Changing the Subnet Mask in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/changing-the-subnet-mask.jpg)
 8. Click**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### 3\. Change the Subnet Mask Using Windows PowerShell
 
  Windows PowerShell is also one of the places from where you can change the subnet mask in Windows 11\. Here's how to do it:
@@ -103,23 +84,17 @@ No advertising on the website.
 
 ![Command to change the subnet mask in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-change-the-subnet-mask.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Changing the Subnet Mask in Windows 11
 
  The subnet mask helps to identify the network and the host bit of the IP address. If you want to find and change the subnet mask on your computer, you can do it using either of the above methods.
 
  Meanwhile, you might be interested to know more about subnets and how to calculate them.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,6 +103,18 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-pro-editors-pathway-perfecting-video-for-instagram-on-final-cut-x/"><u>[Updated] 2024 Approved Pro Editor's Pathway Perfecting Video for Instagram on Final Cut X</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-cloud-economy-unveiling-best-deals-for-2024/"><u>[Updated] Cloud Economy Unveiling Best Deals for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-exploring-the-world-of-youtube-channel-naming-innovative-ideas-for-vloggers-and-filmmakers-no-more-than-156-characters/"><u>[Updated] Exploring the World of YouTube Channel Naming Innovative Ideas For Vloggers & Filmmakers (No More than 156 Characters)</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-your-pcs-blue-screen-madness-in-windows-11/"><u>Eliminate Your PC's Blue Screen Madness in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-se-2022-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone SE (2022) to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/ideal-mobile-platforms-android-plus-windows-pc-compatibility/"><u>Ideal Mobile Platforms: Android + Windows PC Compatibility</u></a></li>
+<li><a href="https://win11.techidaily.com/improve-battery-awareness-enable-full-charge-warnings-on-windows-11/"><u>Improve Battery Awareness: Enable Full Charge Warnings on Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-file-not-writable-error-in-windows-os/"><u>Resolving 'File Not Writable' Error in Windows OS</u></a></li>
+<li><a href="https://facebook.techidaily.com/top-social-network-cast-your-vote/"><u>Top Social Network: Cast Your Vote</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-how-to-pick-a-superior-photo-monopod-for-self-portraits/"><u>Ultimate Guide: How to Pick a Superior Photo Monopod for Self-Portraits</u></a></li>
+</ul></div>
 

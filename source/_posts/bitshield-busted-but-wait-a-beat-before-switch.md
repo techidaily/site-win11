@@ -1,7 +1,7 @@
 ---
 title: BitShield Busted, But Wait a Beat Before Switch
-date: 2024-08-08T13:15:47.913Z
-updated: 2024-08-09T13:15:47.913Z
+date: 2025-03-03T02:44:48.545Z
+updated: 2025-03-04T19:57:42.008Z
 tags:
   - windows10
   - windows11
@@ -16,17 +16,11 @@ thumbnail: https://thmb.techidaily.com/15566fd0d6cad9f26c793e08c16498fac2c5b4803
 
 ## BitShield Busted, But Wait a Beat Before Switch
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [How Was BitLocker's Encryption Broken?](#how-was-bitlocker-39-s-encryption-broken)
 * [Is It Time to Ditch BitLocker?](#is-it-time-to-ditch-bitlocker)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * BitLocker's encryption keys can be stolen with a Raspberry Pi Pico, but the exploit only works with external TPMs using the LPC bus.
@@ -35,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/15566fd0d6cad9f26c793e08c16498fac2c5b4803
 
  Microsoft's BitLocker is one of the most popular full-disk encryption tools, and is built into Windows 10 and 11 Pro providing an easy encryption option for millions of Windows users worldwide. But BitLocker's reputation as a leading encryption tool could be under threat after a YouTuber successfully stole encryption keys and decrypted private data in just 43 seconds—using a Raspberry Pi Pico costing $6\.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Was BitLocker's Encryption Broken?
 
  BitLocker's encryption was broken by YouTuber Stacksmashing, who posted a video detailing how he intercepted BitLocker data, extracted decryption keys, and successfully exploited the BitLocker encryption process.
@@ -50,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/15566fd0d6cad9f26c793e08c16498fac2c5b4803
 
  Tools like the [Raspberry Pi Pico, the minute $6 single-board computer](https://www.makeuseof.com/raspberry-pi-pico-projects/) that has a bunch of uses. In this case, Stacksmashing connected a Raspberry Pi Pico to unused connectors on a test laptop and managed to read the binary data as the machine booted. The resulting data contained the Volume Master Key stored on the TPM, which he could then use to decrypt other data.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Is It Time to Ditch BitLocker?
 
  Interestingly, [Microsoft was already aware](https://learn.microsoft.com/en-us/windows/security/operating-system-security/data-protection/bitlocker/countermeasures#attacker-countermeasures) of the potential for this attack. However, this is the first time a practical attack has surfaced at large, illustrating just how fast BitLocker encryption keys can be stolen.
@@ -66,12 +53,31 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  It's also worth noting that despite this exploit, BitLocker remains secure, and the actual encryption underpinning it, AES-128 or AES-256, is still secure.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-facebook-live-recording/"><u>[New] 2024 Approved The Ultimate Guide to Facebook Live Recording</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-from-xml-to-srt-a-step-by-step-solution-approach/"><u>[New] In 2024, From XML to SRT A Step-by-Step Solution Approach</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-to-use-or-not-to-use-sns-hdr-pro-reviewed-for-2024/"><u>[New] To Use or Not to Use SNS HDR Pro Reviewed for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-launching-into-the-spotlight-instagram-lives/"><u>[Updated] 2024 Approved Launching Into the Spotlight Instagram Lives</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-free-video-chatting-software-for-windowsmac-users-uncovered/"><u>[Updated] Free Video Chatting Software for Windows/Mac Users Uncovered</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-13-creative-ways-to-save-and-store-online-audio-broadcasts/"><u>[Updated] In 2024, 13 Creative Ways to Save and Store Online Audio Broadcasts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-ultimate-zoom-tricks-for-chromebook-users-for-2024/"><u>[Updated] Ultimate Zoom Tricks for Chromebook Users for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discovering-your-passion-for-the-latest-fallout-series-perfect-moment-to-begin-your-virtual-adventure/"><u>Discovering Your Passion for The Latest Fallout Series: Perfect Moment to Begin Your Virtual Adventure</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-anachronisms-the-guide-to-updated-window-drivers/"><u>Eliminating Anachronisms: The Guide to Updated Window Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/keeping-your-stickies-safe-a-step-by-step/"><u>Keeping Your Stickies Safe: A Step-by-Step</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-curtail-involuntary-terminal-showings/"><u>Methods to Curtail Involuntary Terminal Showings</u></a></li>
+<li><a href="https://win11.techidaily.com/muting-unsolicited-system-suggestions-in-windows-11/"><u>Muting Unsolicited System Suggestions in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-microsoft-account-conflicts-in-shared-devices/"><u>Overcoming Microsoft Account Conflicts in Shared Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-1011-print-sharing-woes/"><u>Tackling Windows 10/11 Print Sharing Woes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96028584-9780835621564-thoughts-for-aspirants/"><u>Thoughts for Aspirants | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-dxgi-device-disappearance-issue/"><u>Troubleshooting Windows' DXGI Device Disappearance Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-savings-on-upcoming-windows-11-keys/"><u>Unlocking Savings on Upcoming Windows 11 Keys</u></a></li>
+</ul></div>
 

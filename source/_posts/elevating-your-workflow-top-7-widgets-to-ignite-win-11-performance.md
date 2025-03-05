@@ -1,7 +1,7 @@
 ---
 title: "Elevating Your Workflow: Top 7 Widgets to Ignite Win 11 Performance"
-date: 2024-12-22T17:44:00.586Z
-updated: 2024-12-28T06:32:00.244Z
+date: 2025-02-27T00:40:12.262Z
+updated: 2025-03-05T02:21:43.450Z
 tags:
   - windows10
   - windows11
@@ -29,27 +29,15 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
 
 ![Widgets settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/widgets-settings-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Before installing widgets, it’s important to know how to access them and where to find widgets. With the help of keyboard shortcuts, accessing widgets in Windows 11 is easy.
 
  To open the widgets board, use the shortcut **Windows + W**. From here, you can view all installed widgets and add new ones. To add a new widget, hit the **plus** icon (**+**) at the top of the widgets board. Here, you can view all widgets created by Microsoft and access the Microsoft Store to explore further widgets. You can also [pin widgets to your desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) using a third-party app.
 
  To access all of Microsoft’s widgets, you’ll need to be signed in to your Microsoft account. Click the profile icon at the top right of the widgets board. At the top of the widget settings, hit the sign-in button to log in to your Microsoft account. Let’s explore the best widgets to boost your productivity.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Outlook Calendar
 
 ![Outlook Calendar productivity widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/outlook-calendar-productivity-widget-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Outlook Calendar is the perfect widget if you need a quick glance at your schedule. The widget displays an upcoming outline of today’s events alongside a flexible weekly view.
 
@@ -67,19 +55,11 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
 
 ![Focus session widget expanded view Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/focus-session-widget-expanded-view-windows-11-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Staying focused while working from home can be challenging. Focus Session is a great tool that utilizes the [Pomodoro method](https://www.makeuseof.com/what-is-pomodoro-method-how-increase-productivity/) to help you be more efficient.
 
  Using the widget is simple—select how long you want your focus session to be, then hit the play button to start the timer. During a focus session, many distracting features on Windows 11 will be disabled. This includes removing badges from taskbar apps and enabling Do Not Disturb mode.
 
  You can also change which features are disabled during focus sessions by heading to the Windows Settings page and then navigating to **System > Focus**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Phone Link
 
@@ -88,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
  Phone Link is one of Microsoft’s newer features, allowing you to connect your Android or iOS device to your PC. Using the tool, you can view mobile notifications and updates directly from your Windows machine.
 
  To get started, simply select your mobile’s operating system from the widget, then scan the QR code to link your mobile to your PC. You can also send text messages and make calls using Phone Link. The widget features some useful information about your device’s status, including its battery, Wi-Fi connectivity, and signal strength. You can open the Phone Link app in full by clicking the phone icon from the widget.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Tips
 
@@ -137,14 +113,21 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-become-a-viral-sensation-maximizing-your-youtube-reach/"><u>[Updated] 2024 Approved Become a Viral Sensation Maximizing Your YouTube Reach</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-profit-prowess-a-comprehensive-guide-to-8-tiktok-money-making-methods/"><u>[Updated] In 2024, Profit Prowess A Comprehensive Guide to 8 TikTok Money-Making Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-hotkeys-for-pre-text-snip-pasting-in-w10w11/"><u>Efficient Hotkeys for Pre-Text Snip Pasting in W10/W11</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-to-network-settings-unveiling-group-policies/"><u>Navigate to Network Settings: Unveiling Group Policies</u></a></li>
-<li><a href="https://games-able.techidaily.com/powered-ideas-envisioning-a-bright-future/"><u>Powered Ideas: Envisioning a Bright Future</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/safety-of-adobe-flash-player-an-analysis-by-malwarefox/"><u>Safety of Adobe Flash Player: An Analysis by MalwareFox</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-playthrough-valorant-performance-enhancement/"><u>Streamline Your Playthrough: Valorant Performance Enhancement</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-future-key-upgrades-from-microsofts-feb-win11-patch/"><u>Unveiling the Future: Key Upgrades From Microsoft's Feb Win11 Patch</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-expansion-through-smart-youtube-link-building-methods/"><u>[New] In 2024, Channel Expansion Through Smart YouTube Link-Building Methods</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-navigating-screen-magnification-in-ms-teams-for-2024/"><u>[Updated] Navigating Screen Magnification in MS Teams for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-rotate-videos-for-instagram-a-guide-for-desktop-and-mobile-users-alke/"><u>[Updated] Rotate Videos for Instagram A Guide for Desktop and Mobile Users Alke</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-podcasters-playlist-the-best-music-spots-to-open-your-ears/"><u>2024 Approved Podcaster’s Playlist The Best Music Spots to Open Your Ears</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/exploiting-windows-software-to-elevate-macos-usability/"><u>Exploiting Windows Software to Elevate macOS Usability</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-performance-features-of-netgears-nighthawk-x4-wi-fi-mesh-expansion-kit-reviewed-here/"><u>Exploring the Performance Features of Netgear's Nighthawk X4 Wi-Fi Mesh Expansion Kit - Reviewed Here</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721448990051-fix-that-jittery-sound-experience-in-airpods-disable-head-tracking-functionality-now/"><u>Fix that Jittery Sound Experience in AirPods! Disable Head-Tracking Functionality Now</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-what-the-fn-keys-do-in-windows-11-and-11/"><u>How to Change What the Fn Keys Do in Windows 11 and 11</u></a></li>
+<li><a href="https://win11.techidaily.com/permanent-elimination-guide-for-wsl-on-windows-11-systems/"><u>Permanent Elimination Guide for WSL on Windows 11 Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-fix-how-to-upgrade-your-synaptics-ps2-touchpad-driver-with-minimal-hassle/"><u>Quick Fix: How to Upgrade Your Synaptics PS/2 Touchpad Driver with Minimal Hassle</u></a></li>
+<li><a href="https://win11.techidaily.com/run-a-free-locally-stored-gpt-on-your-pc-with-gpt4all/"><u>Run a Free, Locally-Stored GPT on Your PC with GPT4All</u></a></li>
+<li><a href="https://win11.techidaily.com/sync-chrome-and-pc-time-seamlessly-on-windows/"><u>Sync Chrome and PC Time Seamlessly on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tracing-the-footprints-of-your-latest-window-use/"><u>Tracing the Footprints of Your Latest Window Use</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-nothing-phone-3-anticipated-launch-details-cost-estimates-and-leaked-specifications/"><u>Unveiling the 'Nothing Phone 3': Anticipated Launch Details, Cost Estimates & Leaked Specifications</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-hidden-gems-unlocking-full-potential/"><u>Windows 11'S Hidden Gems: Unlocking Full Potential</u></a></li>
 </ul></div>
 

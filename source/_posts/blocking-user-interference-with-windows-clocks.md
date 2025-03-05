@@ -1,7 +1,7 @@
 ---
 title: Blocking User Interference with Windows Clocks
-date: 2024-08-08T13:16:03.355Z
-updated: 2024-08-09T13:16:03.355Z
+date: 2025-02-25T22:59:22.389Z
+updated: 2025-03-04T22:13:41.008Z
 tags:
   - windows10
   - windows11
@@ -18,27 +18,12 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 
  You’re using your Windows device and notice something strange in the date and time settings. Someone has changed the settings without your knowledge or permission. This makes it difficult to stay on schedule with tasks and activities. In this guide, we’ll show how to stop anonymous users from changing date and time settings on Windows computers.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How To Prevent Users From Changing the Date and Time on Windows
 
  There are two ways to prevent users from changing Windows date and time. The first is to use Group Policy Editor, a system administration tool designed to control computer behavior in an organization. While the second way is to use Registry Editor, which allows you to modify Windows registry settings.
 
  For both methods, you need administrative access to the computer to change it. Once you’ve made the changes, nobody can alter the date and time settings. Let’s look at each method in more detail.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Use the Group Policy Editor
 
  If your computer is part of an organization and users often change the date and time, use Group Policy Editor to stop it. This will prevent those with limited access to the computer from altering the date and time. However, this method only works for Windows Pro, Enterprise, or Education Editions.
@@ -52,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 3. On the left side of the window, navigate to the following path:  
 Computer Configuration > Administrative Templates > System > Locale Services
 4. In the right-side pane, double-click on **Disallow user override of locale settings**.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Disallow user override of locale settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disallow-user-override-of-locale-settings.jpg)
 5. In the pop-up window, check the **Enabled** radio button.
 6. Then click **Apply** \> **OK** to save the changes.
@@ -63,9 +45,6 @@ Computer Configuration > Administrative Templates > System > Locale Services
 
  If you want to revert to the default settings later, open Group Policy Editor again and change the value of Disallow user override of locale settings back to Not Configured or Disabled. This way, users can change the time and date again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Tweak the Registry Editor
 
  If you’re using Windows Home Edition or have disabled the Group Policy Editor, use the Registry Editor to protect date and time settings. This method is more advanced and has a higher risk of system damage.
@@ -82,9 +61,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Control Panel\International\
 5. Then right-click on **International** and select New > DWORD (32-bit) Value.
 6. Name the newly created value **PreventUserOverrides**.
 7. Double-click on the **PreventUserOverrides** DWORD value.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![Use Registry Editor to Prevent Users From Chaning date and time settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/use-registry-editor-to-prevent-users-from-chaning-date-and-time-settings.jpg)
 8. In the pop-up window, change the Value data to **1** and click **OK**.
 
@@ -92,14 +68,9 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Control Panel\International\
 
  To undo this restriction, delete the **PreventUserOverrides** DWORD value from the registry or change the value to **0**. Doing so will enable users to change the time and date again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stop Windows Time and Date Changes
 
  Now stop unauthorized users from changing the date and time settings on your Windows computer. This keeps your tasks and activities on track. If necessary, you can always undo this restriction.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -107,4 +78,25 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Control Panel\International\
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-premier-video-record-breakdown-and-alternatives/"><u>[New] 2024 Approved Premier Video Record Breakdown and Alternatives</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-zoom-in-on-zucks-users-rapidly-pinpoint-profiles/"><u>[New] 2024 Approved Zoom-In on Zuck's Users Rapidly Pinpoint Profiles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-cut-to-perfection-a-detailed-guide-on-youtube-short-video-making-for-2024/"><u>[Updated] Cut to Perfection A Detailed Guide on YouTube Short Video Making for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streaming-success-story-which-video-site-tops-others-vimeo-youtube-for-2024/"><u>[Updated] Streaming Success Story Which Video Site Tops Others – Vimeo, YouTube for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-the-mystery-of-blank-logins-on-windows-devices/"><u>Deciphering the Mystery of Blank Logins on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-system-repair-accessibility-in-windows-11/"><u>Enhancing System Repair Accessibility in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-faulty-lock-screen-timeout-in-windows-1011/"><u>Fixing Faulty Lock Screen Timeout in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-printer-spooler-service-after-halt-message/"><u>How to Reactivate Printer Spooler Service After Halt Message</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-economical-pc-streaming-with-simple-obs-configurations/"><u>In 2024, Economical PC Streaming with Simple OBS Configurations</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-nubia-red-magic-8s-proplus-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Nubia Red Magic 8S Pro+ to iPad | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/key-insights-mastering-win11-features-for-2024/"><u>Key Insights Mastering Win11 Features for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-google-drives-faulty-syncing-in-your-workspace/"><u>Mending Google Drive's Faulty Syncing in Your Workspace</u></a></li>
+<li><a href="https://win11.techidaily.com/simultaneous-zip-file-handling-a-windows-users-guide/"><u>Simultaneous ZIP File Handling: A Windows User's Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/charge-videos-download-premium-effs-for-2024/"><u>Supercharge Videos - Download Premium Effs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-updates-error-0x80242016/"><u>Tackling Windows Updates' Error 0X80242016</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-arp-cache-and-clearing-pathway-a-users-guide-148-chars-exceeds-limit-adjusted-to-fit-better-clearing-windows-arp/"><u>Windows ARP Cache & Clearing Pathway: A User's Guide (148 Chars, Exceeds Limit, Adjusted to Fit Better: Clearing Windows ARP</u></a></li>
+</ul></div>
 

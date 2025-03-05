@@ -1,7 +1,7 @@
 ---
 title: Navigate Your Files Like a Pro with Win 11’S Auto-Transfer
-date: 2025-02-14T23:56:30.206Z
-updated: 2025-02-16T04:55:33.698Z
+date: 2025-02-27T23:09:18.714Z
+updated: 2025-03-05T00:38:41.036Z
 tags:
   - windows10
   - windows11
@@ -37,18 +37,10 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 ![The register shell extension prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/register-shell-extension-prompt.jpg)
 4. Now bring up a directory that includes some files with which to create a new folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select files to include in your new folder.
 6. Then right-click a selected file and select **Show more options** and **Files 2 Folder** on the classic context menu.  
 ![The Files 2 Folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/files-2-folder-option.jpg)
 7. Input a folder name within the text for the **Move all selected items into a subfolder named** option.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The Files 2 Folders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/files2folder-window.jpg)
 8. Click **OK** to create the new folder with the files selected moved into it. The new folder will be in the directory where you selected the files.
@@ -70,16 +62,8 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 ![The Teracopy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/teracopy-window.jpg)
 5. Make sure the **Add to Explorer context menu** option is selected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click **OK** to exit the preferences and close the TeraCopy window.  
 ![The Add to Explorer context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-to-explorer-context-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now that TeraCopy is ready to go, let's put it to use.
 
@@ -91,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 4. The new folder is created as a subfolder within the directory that included your original file selection. Open the new folder to view and access the files you selected to move into it.
 
  TeraCopy also provides us with another way to move more files into your new folder. To do so, select **Menu** \> **Add files** in the TeraCopy window. Select the files you want to move and click **Open**. Then click **Move** \> **Browse** to choose the directory and press the **Select Folder** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Add a Handy New Folder Creation Option to Windows 11’s Context Menu
 
@@ -112,18 +92,22 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-evaluating-the-impact-of-true-to-self-imagery-on-instagram-for-2024/"><u>[New] Evaluating the Impact of True-to-Self Imagery on Instagram for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-vr-liftoff-top-peripherals-and-their-impacts-for-2024/"><u>[New] VR Liftoff - Top Peripherals & Their Impacts for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-webcam-recorder-reviews-unlocking-your-video-potential/"><u>[New] Webcam Recorder Reviews - Unlocking Your Video Potential</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-investigating-unmodified-audio-from-ffmpeg-output/"><u>[Updated] 2024 Approved Investigating Unmodified Audio From FFmpeg Output</u></a></li>
-<li><a href="https://win11.techidaily.com/ending-latency-woes-of-windows-gpsvc/"><u>Ending Latency Woes of Windows GPSVC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone 12</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-guide-to-win10-bsod-troubleshooting/"><u>Quick-Fix Guide to Win10 BSOD Troubleshooting</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-functionality-in-windows-11-help-app/"><u>Restoring Functionality in Windows 11 Help App</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-tasks-experience-microsofts-ai-copilot-on-the-windows-11-taskbar/"><u>Streamline Your Tasks: Experience Microsoft's AI Copilot on the Windows 11 Taskbar</u></a></li>
-<li><a href="https://win11.techidaily.com/the-experts-guide-to-installing-ms-work-in-w11-os/"><u>The Expert's Guide to Installing MS Work in W11 OS</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/unleash-your-creativity-how-to-edit-video-files-on-mac-os-x-yosemite/"><u>Unleash Your Creativity How to Edit Video Files on Mac OS X Yosemite</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1728469387033-windows-11-pc/"><u>Windows 11 移行ガイド: PCへのシームレス転送手順</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-essential-tips-for-sims-4-video-gaming/"><u>[New] 2024 Approved Essential Tips for Sims 4 Video Gaming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-first-footage-assessment-breakdown/"><u>[Updated] 2024 Approved First Footage Assessment Breakdown</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-seamless-content-curation-with-youtubes-watch-later-feature/"><u>[Updated] In 2024, Seamless Content Curation with YouTube’s Watch Later Feature</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-maximizing-video-visibility-on-youtube-with-seo-insights/"><u>[Updated] Maximizing Video Visibility on YouTube with SEO Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-step-by-step-throwing-epic-intros-with-imovie/"><u>[Updated] Step-by-Step Throwing Epic Intros with iMovie</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-hastening-vimeo-media-transmission/"><u>2024 Approved Hastening Vimeo Media Transmission</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cost-efficient-filmmaking-action-cams-under-100-guide-for-2024/"><u>Cost-Efficient Filmmaking ACTION Cams Under $100 Guide for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-intelligent-cpu-drivers-fast-simple-steps-inside/"><u>Download Intelligent CPU Drivers Fast - Simple Steps Inside</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-bluetooth-speaker-usability-volume-control-restored/"><u>Enhancing Windows Bluetooth Speaker Usability: Volume Control Restored</u></a></li>
+<li><a href="https://win11.techidaily.com/getting-your-windows-media-player-running/"><u>Getting Your Windows Media Player Running</u></a></li>
+<li><a href="https://win11.techidaily.com/ifas-hottest-laptops-unveiled/"><u>IFA's Hottest Laptops Unveiled!</u></a></li>
+<li><a href="https://win11.techidaily.com/old-hardware-new-horizons-reviving-pcs-with-windows-11-to-go-and-rufus/"><u>Old Hardware, New Horizons - Reviving PCs with Windows 11 To Go & Rufus</u></a></li>
+<li><a href="https://win11.techidaily.com/override-non-met-requirements-alert-in-win-11/"><u>Override Non-Met Requirements Alert in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unpacking-and-remedying-windows-1011-update-errors-0xc1900101/"><u>Unpacking & Remedying Windows 10/11 Update Errors (0xC1900101)</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-process-of-switching-windows-terminals-attentive-state/"><u>Unveiling the Process of Switching Windows Terminal's Attentive State</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-storage-cleanup-removing-microsoft-app/"><u>Win11 Storage Cleanup: Removing Microsoft App</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/youtube-url-your-way-easy-personalization-steps-for-2024/"><u>Your YouTube URL, Your Way Easy Personalization Steps for 2024</u></a></li>
 </ul></div>
 

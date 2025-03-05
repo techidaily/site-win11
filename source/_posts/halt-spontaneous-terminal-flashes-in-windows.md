@@ -1,7 +1,7 @@
 ---
 title: Halt Spontaneous Terminal Flashes in Windows
-date: 2024-12-30T16:09:00.184Z
-updated: 2025-01-06T16:32:07.094Z
+date: 2025-02-28T03:40:07.357Z
+updated: 2025-03-05T03:52:58.218Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Basic Fixes to Stop CMD From Randomly Popping Up
 
  The first thing we'd recommend you do to stop Command Prompt from randomly popping up is to restart your computer and see if it keeps happening again. If it does, then you should check for corrupted, damaged, or missing system files, as well as fix any hard drive errors your storage disk may have encountered. To that end, you can [perform an SFC, DISM, and CHKDSK scan](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/).
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sfc-scannow-command.jpg)
 
  If those scans don't work, you can try [updating your Windows computer](https://www.makeuseof.com/update-windows-manually/) to see if Microsoft has released a fix that can address the issue. If there are no updates or the update doesn't fix the problem, try performing a virus scan in case the issue is related to malware.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Clear the RAM Cache
 
@@ -57,15 +49,7 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 
 ![the cmd task in startup apps in Task Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cmd-in-startup-apps-in-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart your computer and check if the problem persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Try Performing a Clean Boot
 
@@ -78,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
  Press **Win + R** to open Windows Run. Then, type **taskschd.** **msc** in the text box, and then click on **OK** to launch Task Scheduler.
 
 ![opening the Task Scheduler using Windows Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/opening-task-scheduler-from-windows-run.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In Task Scheduler, select **Task Scheduler Library > Microsoft > Windows** and check if Command Prompt is there. If it is, right-click it and select **Delete**.
 
@@ -123,20 +103,22 @@ net user /add username password
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-unleash-the-power-of-zoom-your-win10-journey-begins-here/"><u>[New] 2024 Approved Unleash the Power of Zoom Your Win10 Journey Begins Here</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-practices-for-seamless-transitions-using-b-roll/"><u>[Updated] Best Practices for Seamless Transitions Using B Roll</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-top-notch-gif-utilities-on-ios-devices/"><u>[Updated] Exploring Top-Notch GIF Utilities on iOS Devices</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-linguistic-edge-influential-expressions-for-leaders/"><u>[Updated] The Linguistic Edge Influential Expressions for Leaders</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-program-use-via-right-click-menu-upgrade/"><u>Efficient Program Use via Right-Click Menu Upgrade</u></a></li>
-<li><a href="https://win11.techidaily.com/innovative-techniques-for-username-customization-in-windows/"><u>Innovative Techniques for UserName Customization in Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/logitech-g402-precision-gaming-mouse-driver-downloads-and-install-guide/"><u>Logitech G402 Precision Gaming Mouse: Driver Downloads & Install Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivate-your-tabs-a-guide-to-resurrecting-key-functions/"><u>Reactivate Your Tabs: A Guide to Resurrecting Key Functions</u></a></li>
-<li><a href="https://common-error.techidaily.com/say-goodbye-a-comprehensive-guide-on-fixing-recurring-usb-recognition-issues/"><u>Say Goodbye: A Comprehensive Guide on Fixing Recurring USB Recognition Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-windows-11-icon-size-from-falling-short/"><u>Stop Windows 11 Icon Size From Falling Short</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-windows-with-a-mac-os-layout-heres-how/"><u>Streamline Your Windows With A Mac OS Layout: Here's How</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-pc-inadequate-for-game-captures-on-pc/"><u>Tackling PC Inadequate for Game Captures on PC</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-redmi-a2-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi Redmi A2? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-lags-achieve-android-like-speed-on-pc/"><u>Windows Lags? Achieve Android-Like Speed on PC</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-echo-your-personality-setting-unique-ringtones-and-sounds-in-androids-settings-menu-for-2024/"><u>[New] Echo Your Personality Setting Unique Ringtones & Sounds in Android's Settings Menu for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-navigating-facebook-sharing-twitter-video-integration/"><u>[Updated] 2024 Approved Navigating Facebook Sharing Twitter Video Integration</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-create-professional-fb-ad-videos-leverage-free-creative-toolkit-for-2024/"><u>[Updated] Create Professional FB Ad Videos Leverage Free Creative Toolkit for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210087630-9781722526030-6-steps-to-total-self-healing/"><u>6 Steps to Total Self-Healing | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726225098840-aump3-movavi/"><u>網路上免費移轉AU到MP3 - 利用Movavi的音頻格式轉換器</u></a></li>
+<li><a href="https://win11.techidaily.com/aesthetic-enhancement-in-wt-with-personalized-schemes/"><u>Aesthetic Enhancement in WT with Personalized Schemes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bridging-communities-with-language-why-choose-afrikaans-and-mondly/"><u>Bridging Communities with Language: Why Choose Afrikaans and Mondly?</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-down-on-space-spotlight-on-large-files-in-windows/"><u>Cutting Down on Space: Spotlight on Large Files in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-control-set-active-hours-to-avoid-surprises-on-windows-11/"><u>Cutting Edge Control: Set Active Hours to Avoid Surprises on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/deactivating-mouse-speed-sensitivity-in-windows-1011/"><u>Deactivating Mouse Speed Sensitivity in Windows 10/11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-essential-driver-software-for-your-asus-computer/"><u>Download & Update: Essential Driver Software for Your ASUS Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-paths-back-to-success-in-steam-gaming/"><u>Easy Paths Back to Success in Steam Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-firewall-options-for-blocking-software-to-windows-11s-context-menu/"><u>How to Add Firewall Options for Blocking Software to Windows 11’S Context Menu</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/incorporate-no-cost-tunes-to-boost-your-vlogs-for-2024/"><u>Incorporate No-Cost Tunes to Boost Your Vlogs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-the-lost-connection-top-9-remedies-for-missing-bluetooth-on-win-11/"><u>Revive the Lost Connection: Top 9 Remedies for Missing Bluetooth on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/seven-vintage-windows-traits-that-made-it-to-version-11/"><u>Seven Vintage Windows Traits That Made It to Version 11</u></a></li>
 </ul></div>
 

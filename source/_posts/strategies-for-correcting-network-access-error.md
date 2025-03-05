@@ -1,7 +1,7 @@
 ---
 title: Strategies for Correcting Network Access Error
-date: 2025-01-27T19:21:14.360Z
-updated: 2025-02-03T22:53:10.504Z
+date: 2025-03-02T18:21:11.248Z
+updated: 2025-03-04T16:48:14.249Z
 tags:
   - windows10
   - windows11
@@ -37,20 +37,12 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 ![Drive properties in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-properties.jpg)
 2. In the following dialog, head over to the **Sharing tab** and check the status of Network Path.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. If it says Not Shared, then click on the **Advanced Sharing** button.  
 ![Advanced sharing button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-properties-advanced-sharing.jpg)
 4. Checkmark the box associated with **Share this folder** and note the Share name of the drive.  
 
 ![Type folder name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-share-this-folder.jpg)
 5. Once done, click on **Apply** \> **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can now check if the drive is accessible after following the steps above.
 
@@ -80,16 +72,8 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 ![ipv4 address in cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ipconfig-all-ipv4-address.jpg)
 5. Now, open a Run dialog again and paste the IPv4 Address you noted in the text field here.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ipv4 address in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/cmd-ipv4-address.jpg)
 6. Click **Enter** and see if you can connect to the remote computer successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Restart the TCP/IP NetBIOS Helper Service
 
@@ -113,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 
  Once done, check if that fixes the issue for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable SMB 1.0
 
  SMB is a network protocol that allows users access to shared files and printers on Windows. This is disabled by default in Windows, but enabling it can help you connect to a remote device and share files across the network.
@@ -133,16 +113,8 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 ![Turn Windows feature on or off option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/turn-windows-features-on-or-off.jpg)
 4. Now, look for "SMB 1.0/CIFS File Sharing Support" and checkmark the box associated with it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![SMB 1.0 option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/smb-cifs-file-sharing-support.jpg)
 5. Click **OK** to save the changes and check if the error is now fixed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Modify Network Security Settings
 
@@ -178,17 +150,20 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-ensuring-precision-the-art-of-skype-call-documentation/"><u>[New] In 2024, Ensuring Precision The Art of Skype Call Documentation</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-exploring-japanese-artistry-adding-anime-filters-on-snaps/"><u>[Updated] 2024 Approved Exploring Japanese Artistry Adding Anime Filters on Snaps</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-common-windows-crash-codes-0xc0000001/"><u>Correcting Common Windows Crash Codes (0xC0000001)</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/download-our-universal-free-media-player-compatible-with-video-audio-and-dvd-formats/"><u>Download Our Universal Free Media Player: Compatible with Video, Audio & DVD Formats</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-webcam-activity-notifications-for-ws11-users/"><u>Enabling Webcam Activity Notifications for WS11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/enlarge-your-windows-11-pin-for-better-protection/"><u>Enlarge Your Windows 11 PIN for Better Protection</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-tecno-camon-20-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Tecno Camon 20 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-a2plus-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi A2+ to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/mastering-fb-story-sharing-a-four-step-guide-for-2024/"><u>Mastering FB Story Sharing A Four-Step Guide for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-overcome-silent-microphone-on-pc-while-recording/"><u>Methods to Overcome Silent Microphone on PC While Recording</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/reliable-ipad-pro-usb-c-hub-always-on-hand-a-zdnet-review/"><u>Reliable iPad Pro USB-C Hub: Always on Hand - A ZDNet Review</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-recycle-bin-glitch-in-win-11/"><u>Solutions to Recycle Bin Glitch in Win 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/s-it-legal-to-record-youtube/"><u>[New] Is It Legal to Record YouTube?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-audiovisual-experts-choices-the-ultimate-video-editing-gear/"><u>[Updated] 2024 Approved Audiovisual Experts' Choices The Ultimate Video Editing Gear</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-broadcast-tools-battle-wirecast-versus-obs-in-detail/"><u>[Updated] Broadcast Tools Battle Wirecast versus OBS in Detail</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-docker-setup-tips-for-optimized-wsl-2-use/"><u>Elevate Your Docker Setup: Tips for Optimized WSL 2 Use</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-camera-error-a00f4289-in-windows-environments/"><u>Eradicating Camera Error A00F4289 in Windows Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-windows-policies-an-in-depth-analysis-using-3-different-views/"><u>Exploring Windows Policies: An In-Depth Analysis Using 3 Different Views</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-focusrite-scarlett-2i4-driver-software-compatible-with-windows-pcs/"><u>Free Download: Focusrite Scarlett 2I4 Driver Software Compatible with Windows PCs</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-motorola-moto-g84-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Motorola Moto G84 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-exception-handling-error-in-windows-devices/"><u>How to Overcome Exception Handling Error in Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-save-locations-on-windows-devices/"><u>How to Resolve Save Locations on Windows Devices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-stabilizer-roundup-the-best-options/"><u>New Free Video Stabilizer Roundup The Best Options</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-erasing-memory-dump-files-on-windows-10/"><u>Step-by-Step Guide: Erasing Memory Dump Files on Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-solve-no-connection-found-error-in-win/"><u>Steps to Solve No Connection Found Error in WIN</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tick-tock-troubles-in-wintime-calibrate-now/"><u>Tick-Tock Troubles in WinTime? Calibrate Now</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/uncover-top-11-effective-video-size-slashers-for-your-phone-for-2024/"><u>Uncover Top 11 Effective Video Size Slashers for Your Phone for 2024</u></a></li>
 </ul></div>
 

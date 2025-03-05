@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Basics: Windows 11'S Hidden Treasures Revealed"
-date: 2024-08-08T13:15:30.204Z
-updated: 2024-08-09T13:15:30.204Z
+date: 2025-03-02T18:23:32.004Z
+updated: 2025-03-04T22:22:06.306Z
 tags:
   - windows10
   - windows11
@@ -24,16 +24,10 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
 
  Here are a few features of Windows 11 we think you should know about and use more often:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ### 1\. Get Familiar With Snap Layouts
 
  This is one of the most effective ways to boost your productivity in Windows 11, and frankly, everyone should be using this neat feature. Microsoft introduced a new set of layout options to snap windows side-by-side or in a tiled format on your screen. This tool is so powerful and simple to use—it’s built into the OS—that it seems obvious Microsoft will expand on it in the next iteration of their desktop operating system.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![windows 11 snap layouts three windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/windows-11-snap-layouts-three-windows.jpg)
 
  We’ve covered [how to use Snap Layouts in Windows 11](https://www.makeuseof.com/how-to-use-snap-layouts-in-windows-11/) in a separate article that also explains customizing them to best suit how you work.
@@ -54,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
 
  We’ve got a comprehensive article on [how to use the new Windows 11 Focus Sessions](https://www.makeuseof.com/how-to-use-windows-11-focus-sessions/) , which explains what they are and guides you to set things up so you can get the most out of your time at your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Leverage the Clipboard Manager
 
  If you found the Windows 10 clipboard somewhat limited in capability, you’ll be pleased to know that the clipboard manager underwent something of an overhaul in Windows 11\. You can copy multiple items to the clipboard and access them easily via clipboard history. The Windows 11 clipboard even has support for emojis and kaomoji.
@@ -65,32 +56,20 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
 
  Even though it may seem overwhelming, there’s nothing complicated about [using the improved clipboard manager in Windows 11](https://www.makeuseof.com/how-to-use-clipboard-manager-in-windows-11/) .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### 5\. Quicker Text Capture With Voice Typing
 
  Here’s another feature that you’ve probably been using on mobile already. Voice typing makes it easier for you to send text messages by simply talking into your microphone. The feature is baked into Windows 11 so you don’t have to install third-party software to make your work more productive.
 
 [Microsoft’s voice typing tool on Windows](https://www.makeuseof.com/how-to-start-voice-typing-on-windows-11/) can be powerful if used correctly, and it is not difficult to [set up voice access on Windows 11](https://www.makeuseof.com/windows-11-enable-voice-access/) .
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Use Taskbar Hotkeys for Fast Switching
 
  The Windows 11 taskbar automatically sets up hotkeys when you pin items to it. Not sure what a hotkey is? We’ve got more about them and [how to make your own hotkeys](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Taskbar keyboard shortcut numbers for pinned apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/keyboard-shortcut-numbers-1.jpg)
 
  You can quickly switch to a specific window or application by using the Windows key in conjunction with a number key that corresponds to the position of the pinned item. Especially for lower numbers, this shaves off seconds when switching between windows and apps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 7\. Android / Linux Emulators
 
  This may not be a feature that everyone is comfortable with or even needs, which is why it languishes in last place. While it is an interesting add-on, you probably won’t be using it unless it is a work-related necessity.
@@ -107,8 +86,6 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,6 +93,19 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-groundbreaking-tools-for-analyzing-computer-sounds-and-mics/"><u>[New] 2024 Approved Groundbreaking Tools for Analyzing Computer Sounds & Mics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-ultimate-biking-experience-index/"><u>[New] 2024 Approved Ultimate Biking Experience Index</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-charting-the-course-for-a-cohesive-subscriber-rich-channel/"><u>[New] Charting the Course for a Cohesive, Subscriber-Rich Channel</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streaming-stardom-versus-punch-driven-legends/"><u>[New] Streaming Stardom Versus Punch-Driven Legends</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-ultimate-guide-to-xbox-one-and-zoom-harmony/"><u>2024 Approved The Ultimate Guide to Xbox One and Zoom Harmony</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-run-time-exception-guide-for-windows-users/"><u>Eliminating 'Run-Time Exception': Guide for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/embracing-change-ais-role-in-future-windows/"><u>Embracing Change: AI's Role in Future Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-eliminate-the-dreadful-application-didnt-start-error-xc000003e-in-win11/"><u>How to Eliminate the Dreadful Application Didn’t Start: Error Xc000003e in Win11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-x5-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco X5 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-onedrive-local-access-blueprint-for-windows/"><u>Mastering the Art of OneDrive: Local Access Blueprint for WINDOWS</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-securing-windows-file-permissions/"><u>Mastering the Art of Securing Windows File Permissions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-how-to-monitor-iphone-user-position-with-consent/"><u>Understanding How to Monitor iPhone User Position with Consent</u></a></li>
+</ul></div>
 

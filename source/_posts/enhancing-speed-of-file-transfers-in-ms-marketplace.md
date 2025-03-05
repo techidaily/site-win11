@@ -1,7 +1,7 @@
 ---
 title: Enhancing Speed of File Transfers in MS Marketplace
-date: 2025-02-09T02:08:10.635Z
-updated: 2025-02-15T22:14:02.402Z
+date: 2025-03-03T05:00:25.945Z
+updated: 2025-03-04T16:51:35.341Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
  Before making any major changes in the Windows settings, ensure your internet connection isn't responsible for slow downloading on the Microsoft Store. You can confirm this by testing your internet speed using one of the[best speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
 
  If you are getting a slower download speed across all your internet-based apps, check out our guide on[how to boost your internet speed](https://www.makeuseof.com/tag/10-ways-to-improve-the-speed-of-your-current-router/) . If this guide resolves the slow downloading issue, you're good to go. But if you're still facing the problem, contact your internet service provider (ISP).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Close Network-Consuming Applications
 
@@ -74,18 +70,10 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 ![Percentage of measured bandwidth (measured against the updates source) option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/percentage-of-measured-bandwidth-measured-against-the-updates-source.jpg)
 6. Check the **Limit how much bandwidth is used for downloading updates in the background** option, and drag the slider to**100%.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Then, check the **Limit how much bandwidth is used for downloading updates in the foreground** option and drag the slider to**100%.**  
 ![Limit how much bandwidth is used for downloading updates in the foreground option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/limit-how-much-bandwidth-is-used-for-downloading-updates-in-the-foreground.jpg)
 
  That's it. Check if there is an improvement in the downloading speed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Clear the Microsoft Store Cache Data
 
@@ -97,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 2. In the search bar, type**Command Prompt** and choose**Run as administrator** from the right pane.
 3. In the elevated Command Prompt window, type**wsreset** and press**Enter** .  
 ![wsreset command in the Command Prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/wsreset-command.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Switch to the Google Public DNS
 
@@ -117,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 7. Type**8.8.8.8** in the**Preferred DNS** **server** box and**8.8.4.4** in the**Alternate DNS** **server** box.  
 ![Configuring the Google Public DNS in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-public-dns.jpg)
 8. Click**OK** to save the settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Re-register the Microsoft Store
 
@@ -147,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 ![Reset now button to reset the network settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-now-button.jpg)
 4. Click**Yes** to the confirmation box that appears.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Improve Your Microsoft Store Download Speed
 
  Microsoft Store is the go-to place to download games and apps on a Windows computer. But sometimes, misconfigured Windows settings, a temporary glitch, or network-hogging applications running in the background can slow down the download speed on the Microsoft Store. Fortunately, you can quickly fix this issue by applying the above fixes.
@@ -170,19 +146,24 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-prime-products-best-free-and-paid-macpc-video-decoders/"><u>[New] Prime Products Best Free & Paid Mac/PC Video Decoders</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-crafting-compelling-narratives-the-top-8-educational-hubs-for-2024/"><u>[Updated] Crafting Compelling Narratives The Top 8 Educational Hubs for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-crafting-visual-stories-in-minutes-using-windows-8-movie-maker/"><u>[Updated] Crafting Visual Stories in Minutes Using Window's 8 Movie Maker</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-honor-70-lite-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Honor 70 Lite 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://win-hot.techidaily.com/comment-fabriquer-un-peripherique-amovible-bootable-pour-windows-11-legacy-ou-uefi/"><u>Comment Fabriquer Un Périphérique Amovible Bootable Pour Windows 11 : Legacy Ou UEFI</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-network-unavailable-in-windows-xp7/"><u>Correcting Network Unavailable in Windows XP/7</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/diagnosing-scanner-issues-expert-advice-by-yl-computing-and-yl-software/"><u>Diagnosing Scanner Issues: Expert Advice by YL Computing & YL Software</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-failed-to-connect-usb-device-error-in-virtualbox-virtually-speaking/"><u>Fixing Failed to Connect USB Device Error in VirtualBox, Virtually Speaking</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-tool-quickly-transform-wav-files-into-m4a-format-with-movavi/"><u>Free Online Tool: Quickly Transform WAV Files Into M4A Format with Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/harnessing-self-extraction-power-with-the-newest-windows/"><u>Harnessing Self-Extraction Power with the Newest Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-sony-xperia-10-v-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Sony Xperia 10 V Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-vanguards-user-mode-service-issues-in-windows/"><u>Navigating Through Vanguard’s User-Mode Service Issues in Windows</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-t2-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo T2 Pro 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-lost-changes-made-by-nvidia-gui-on-win11-systems/"><u>Restoring Lost Changes Made by Nvidia GUI on Win11 Systems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-captureit-all-revisiting-recordmax-users-for-2024/"><u>[Updated] CaptureIt All! Revisiting 'RecordMax' Users for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-deciphering-the-secrets-of-gopro-hero5-captures-for-2024/"><u>[Updated] Deciphering the Secrets of GoPro Hero5 Captures for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-hunt-and-harvest-game-plan-for-2024/"><u>[Updated] The Ultimate Hunt and Harvest Game Plan for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-unusual-upward-turning-of-ig-video-images-for-2024/"><u>[Updated] The Unusual Upward Turning of IG Video Images for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-analysis-of-the-xpg-cybercore-1000-platinum-elite-power-supply-unit/"><u>Comprehensive Analysis of the XPG Cybercore 1000 Platinum Elite Power Supply Unit</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-6-plus-by-phone-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 6 Plus by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For OnePlus Ace 2V? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-google-pixel-8-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Google Pixel 8 Pro to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/inside-out-decoding-wacatacbmls-impact-on-microsoft-windows-users/"><u>Inside Out: Decoding Wacatac.B!ml's Impact on Microsoft Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-edges-uninterrupted-operation-on-win11/"><u>Mastering Edge's Uninterrupted Operation on Win11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-efficiency-at-home-leveraging-the-capabilities-of-an-ipad-pro-for-office-use-zdnet/"><u>Maximizing Efficiency at Home: Leveraging the Capabilities of an iPad Pro for Office Use | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/overriding-windows-error-codes-with-amd-solutions/"><u>Overriding Windows Error Codes with AMD Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-error-code-0xc00d36b4-from-windows-devices/"><u>Rectifying Error Code 0xC00D36B4 From Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/releasing-overflow-fixing-caps-on-gpt-chat/"><u>Releasing Overflow: Fixing Caps on GPT Chat</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-multidevice-use-installing-windows-11-with-parallels-on-mac/"><u>Simplify Multidevice Use: Installing Windows 11 with Parallels on Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/slowing-down-the-mouse-speeds-for-a-better-interface/"><u>Slowing Down the Mouse Speeds for a Better Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-windows-nvidia-software-links/"><u>Unblocking Windows NVIDIA Software Links</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-magic-vs-2s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Honor Magic Vs 2s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-over-window-devices-no-more-naming-clashes/"><u>Winning Over Window Devices: No More Naming Clashes!</u></a></li>
 </ul></div>
 

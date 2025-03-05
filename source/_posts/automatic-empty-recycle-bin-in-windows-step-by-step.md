@@ -1,7 +1,7 @@
 ---
 title: Automatic Empty Recycle Bin in Windows Step by Step
-date: 2024-08-08T13:11:32.728Z
-updated: 2024-08-09T13:11:32.728Z
+date: 2025-02-25T16:59:18.373Z
+updated: 2025-03-05T03:54:03.138Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
  Let's look at the different ways to auto-empty the Recycle Bin on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## 1\. How to Automate the Recycle Bin Using the System Settings
 
  It's easy to configure Windows to empty the recycle bin automatically. All you need to do is open System settings, fiddle with a few things, and you're done.
@@ -45,18 +42,6 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
  Once you're done, close the Settings window. Windows will automatically empty your Recycle Bin from now on.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How to Automate the Recycle Bin Using the Task Scheduler
 
  If you want more control over the process, you can use Windows Task Scheduler to empty your Recycle Bin. Here's how:
@@ -65,33 +50,20 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 2. Type **taskschd.msc** and hit **Enter** or click **OK**. Doing this [opens the Task Scheduler program](https://www.makeuseof.com/windows-11-open-task-scheduler/).
 3. On the left-hand side of the window, select **Task Scheduler Library**.
 4. Now, click **Create Basic Task** from the right-hand panel. It will open another window where you can configure your task settings.  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create Basic Task](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-basic-task.jpg)
 5. Enter a name for your task (e.g., Empty Recycle Bin) and a brief description if you want. Then, click the **Next** button.
 
 1. The following window will ask you to select the frequency when Windows should empty your Recycle Bin. You can choose Daily, Weekly, Monthly, or One time only. Once you've chosen your preferred frequency, click **Next**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Create a Basic Task](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-a-basic-task.jpg)
 2. After that, set the start date and time for your task. Also, select **Recur every** to specify the total duration of each cleaning session. Then, click **Next**.  
 ![Start Date and Time in Task Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/start-date-and-time-in-task-wizard.jpg)
 3. You must specify what action Windows should perform when this task runs. Click on the **Start a program** option and click **Next** again.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Start a program in Task Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/start-a-program-in-task-wizard.jpg)
 4. In the **Program/script** box, type _**C:\\Windows\\System32\\cmd.exe**_. Then, in the **Add arguments (optional)** field, type the following command:  
 /c "echo Y|PowerShell.exe -NoProfile -Command Clear-RecycleBin"  
 ![Write Program or Script in Task Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/write-program-or-script-in-task-wizard.jpg)
 5. Running this command will delete your Recycle Bin content. Click **Next** to continue.
 6. Now, you can review your settings and tick **Open the Properties dialog for this task when I click Finish** if you want to make any changes. When done, hit the **Finish** button.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Finish Task Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/finish-task-wizard.jpg)
 
  Once you're done, close the Task Scheduler window. From now on, Windows will empty your Recycle Bin according to your specified frequency.
@@ -102,12 +74,30 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Let's look at the different ways to auto-empty the Recycle Bin on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-premium-picks-the-ultimate-gopro-upgrades/"><u>[New] Premium Picks The Ultimate Gopro Upgrades</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-engaging-local-audiences-with-social-media-videos/"><u>[Updated] Engaging Local Audiences with Social Media Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-juggling-jargons-an-experts-guide-to-multiple-youtube-views/"><u>[Updated] Juggling Jargons An Expert's Guide to Multiple YouTube Views</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-of-the-best-trivia-channels/"><u>2024 Approved Best of the Best Trivia Channels</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/elevate-your-streams-step-by-step-discord-tips-for-2024/"><u>Elevate Your Streams Step-by-Step Discord Tips for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-a-frozen-opera-installer-in-windows-environment/"><u>Fix a Frozen Opera Installer in Windows Environment</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-effective-timestamp-integration-in-image-files/"><u>In 2024, Effective Timestamp Integration in Image Files</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-windows-pin-update-techniques/"><u>Mastery over Windows PIN Update Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/obs-studio-troubleshooting-muted-sound-recording-in-windows-11/"><u>OBS Studio: Troubleshooting Muted Sound Recording in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-your-wi-fi-connections-metric-functionality/"><u>Optimizing Your Wi-Fi Connection's Metric Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/speed-up-3d-painting-crucial-shortcuts/"><u>Speed Up 3D Painting: Crucial Shortcuts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-multi-drop-pinning-in-google-maps/"><u>Step-by-Step Tutorial: Multi-Drop Pinning in Google Maps</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-secrets-of-disarming-windows-11-alert-messages/"><u>Unlock Secrets of Disarming Windows 11 Alert Messages</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mystery-of-non-initialized-disks-on-windows/"><u>Unraveling the Mystery of Non-Initialized Disks on Windows</u></a></li>
+</ul></div>
 

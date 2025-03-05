@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Restriction Error: Disable 'Limited Admin Power'"
-date: 2025-02-12T21:32:04.294Z
-updated: 2025-02-16T04:28:57.046Z
+date: 2025-02-27T02:24:07.590Z
+updated: 2025-03-04T19:51:59.695Z
 tags:
   - windows10
   - windows11
@@ -25,23 +25,11 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Change Your User Account to an Admin Account
 
  You shouldn’t usually need admin rights to access Windows Security. However, make sure you’re signed in to an admin account to ensure you have full system permissions. If you’re utilizing a standard account, change it to an administrator one. You can do that with one of the methods outlined in this guide to[changing user account type in Windows](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) .
 
 ![The Access work or school account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/work-or-school-accounts.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Uninstall Third-Party Security Software
 
@@ -58,14 +46,6 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 3. Click a connected work or school account to expand it.  
 ![The Access work or school account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/work-or-school-accounts.jpg)
 4. Press the**Disconnect** button and select**Yes** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Disable the Turn Off Microsoft Defender Antivirus Policy
 
@@ -105,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 `set-MpPreference -UILockdown`  
 ![The set-Mppreference PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-set-mppreference-command.jpg)
 5. Exit PowerShell and open Windows Security again to see if the error persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Repair/Reset Windows Security
 
@@ -158,10 +134,6 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
 
  Our guide on[creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/) provides instructions for rolling back Windows with System Restore. Choose the oldest restore point you can. However, remember that you’ll probably need to reinstall some software packages installed after the restore point’s date.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Start Utilizing Windows Security Again
 
  The potential solutions covered in this guide address many of the primary causes for that error occurring. So, they’ll probably get the “Page not available” error sorted on most users’ Windows 11/10 PCs. Fixing the “Page not available” error will enable you to access all the settings in Windows Security again.
@@ -181,24 +153,14 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-behind-the-scenes-guide-to-finding-facebooks-finest-vids/"><u>[New] Behind-the-Scenes Guide to Finding Facebook's Finest Vids</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-circle-of-connectivity-spotlighting-instas-top-25-influencers/"><u>[Updated] The Circle of Connectivity Spotlighting Insta's Top 25 Influencers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-the-essentials-of-writing-amazing-end-of-episode-scripts/"><u>2024 Approved The Essentials of Writing Amazing End-of-Episode Scripts</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-the-fat-in-your-win-11-menu-choices/"><u>Cutting the Fat in Your Win 11 Menu Choices</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/discover-review-and-compare-with-az-screenshotter/"><u>Discover, Review & Compare with AZ Screenshotter</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-flashy-flights-prime-pc-and-mobile-game-hits/"><u>In 2024, Flashy Flights Prime PC and Mobile Game Hits</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-securely-shutting-down-your-instagram-presence-forever/"><u>In 2024, Securely Shutting Down Your Instagram Presence Forever</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211350922-9780062415004-invincible-living/"><u>Invincible Living | Free Book</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-multiple-languages-with-help-from-googled-editors-mondly/"><u>Mastering Multiple Languages with Help From Googled Editors - Mondly</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-microsoft-teams-instability-in-win11-win10/"><u>Overcoming Microsoft Teams Instability in Win11, Win10</u></a></li>
-<li><a href="https://win11.techidaily.com/precise-control-over-time-in-windows-without-auto-adjustments/"><u>Precise Control Over Time in Windows without Auto-Adjustments</u></a></li>
-<li><a href="https://win11.techidaily.com/prime-virtual-configurations-matching-windows-11-os-specs/"><u>Prime Virtual Configurations Matching Windows 11 OS Specs</u></a></li>
-<li><a href="https://win11.techidaily.com/proven-strategies-to-advance-your-wsl-2-docker-use/"><u>Proven Strategies to Advance Your WSL 2 Docker Use</u></a></li>
-<li><a href="https://win11.techidaily.com/proven-techniques-to-activate-wordpad-in-computer-os/"><u>Proven Techniques to Activate WordPad in Computer OS</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-os-transition-windows-on-your-steam-deck/"><u>Seamless OS Transition: Windows on Your Steam Deck</u></a></li>
-<li><a href="https://win11.techidaily.com/security-concern-hacked-biometrics-in-windows-hello/"><u>Security Concern: Hacked Biometrics in Windows Hello</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-guide-to-choosing-a-win10-video-grabber-tool-for-2024/"><u>The Ultimate Guide to Choosing a Win10 Video Grabber Tool for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/whats-new-with-windows-11-in-2024/"><u>What's New with Windows 11, In 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-ui-mismatches-a-quick-listicle/"><u>Windows 11 UI Mismatches: A Quick Listicle</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-tailor-made-melodies-your-roadmap-for-playlists/"><u>[New] In 2024, Tailor-Made Melodies Your Roadmap for Playlists</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-infinix-smart-8-plus-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Infinix Smart 8 Plus</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-samsung-galaxy-a34-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/introducing-a-quick-checkup-menu-option-to-win1111-systems/"><u>Introducing a Quick Checkup Menu Option to Win11/11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-guide-reestablishing-access-to-pc-management-in-windows-11/"><u>Mastery Guide: Reestablishing Access to PC Management in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-browser-experience-chrome-for-windows-11-users/"><u>Optimizing Browser Experience: Chrome for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/regulating-shifting-printers-on-desktop-systems/"><u>Regulating Shifting Printers on Desktop Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-planning-an-unforgettable-labor-day-bash-techbargains/"><u>Ultimate Guide to Planning an Unforgettable Labor Day Bash | TechBargains</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-reasons-behind-purchasing-damaged-macbook-pro-monitors-insights-from-zdnet/"><u>Understanding the Reasons Behind Purchasing Damaged MacBook Pro Monitors - Insights From ZDNet</u></a></li>
 </ul></div>
 

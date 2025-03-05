@@ -1,7 +1,7 @@
 ---
 title: "Boosting Wake-Up Alerts: Win 10/11 FULL CHARGE DING"
-date: 2024-08-08T13:15:21.303Z
-updated: 2024-08-09T13:15:21.303Z
+date: 2025-03-03T00:42:52.491Z
+updated: 2025-03-05T01:44:14.072Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
  Windows doesn’t incorporate a high-battery notifier (alert) for informing you when a plugged-in laptop is fully charged or close to it. Such a feature would be useful for users who prefer to leave their laptops unplugged when they can. This is how you can add a full battery charge alert to Windows 11/10 with three apps.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Add a Full Battery Charge Alert With Battery Notification
 
  Battery Notification is a Microsoft Store app you can utilize in Windows 11/10\. That app enables you to set both high and low-battery alert notifications. The basic app is freely available, but you can upgrade it to one with battery analytics for $4.99\. You can set up a fully charged notifier with Battery Notification as follows:
@@ -43,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
  You can also change the notification’s sound. Click**Default notification sound** to view a list of alarm sounds. To preview a sound, click its play button. Press the**Set audio** option to select an alternative.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Notification sounds in Battery Notification](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/notification-sounds.jpg)
 
  This app also has a handy taskbar indicator for your battery. The app’s taskbar icon shows the percentage level of your batter. Thus, you can keep an eye on the battery level on the taskbar when Battery Notification is open.
@@ -68,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
  To configure the Battery Notifier app, click the**Settings** tab. There you can set the battery percentage level for the full and low battery notifiers to alert you. Drag the**Full Battery** bar’s slider to set it how you wish.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Settings tab in Battery Notifier](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-setting-tab.jpg)
 
  You can also set custom sounds for the full battery charge notifier. Click the music folder icon below the**Full Battery** bar to view a file selection window. Then choose a music or sound file for the alarm and click**OK** .
@@ -81,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
 ![The Light theme option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-white-theme.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## How to Add a Full Battery Charge Alert Full Battery & Theft Alarm
 
  Alert Full Battery & Theft Alarm is an app with which you add a full battery charge notifier to Windows laptops and Android mobile devices, as it’s available on Google Play. It also provides an additional theft alarm for security. The upgraded version of the app ($1.49) shows your battery history. These are the steps for adding a full battery charge notifier with Full Battery & Theft Alarm.
@@ -96,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 ![The Charge Alarm option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/charge-alarm-setting.jpg)
 6. Click the**Settings** (cog) button at the bottom left of the app.
 7. Set the**Notification Type** option to**Reminder** . Then you can wait for the notification to appear at the bottom right of the desktop when your laptop is charged to the set battery level.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Reminder option in Full Battery & Theft Alarm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reminder-option.jpg)
 
  You can change the charge percentage for the high alert by dragging the bar on the**Battery level to notify** bar. Below that there’s also a**Low battery level to notify** bar you can configure.
@@ -107,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
 ![A test notification for Full Battery & Theft Alarm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/test-notification.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Enable Notifications for the Battery Apps
 
  Note that Windows notifications need to be turned on for the above apps’ full battery charge notifiers to work right. Make sure notifications for the battery apps are enabled in Windows 11/10 like this:
@@ -117,22 +98,11 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 1. Open Run by pressing**Win + R** (see [all the ways to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for more).
 2. Type**ms-settings:notifications** inside Run, and click that accessory’s**OK** option.
 3. Turn on the**Notifications** or**Get notifications** setting.  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![The Notifications option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/notifications-option.jpg)
 4. Select the**Allow notifications to play sounds** option.
 5. Click the notification toggle switches on for the battery apps in this guide.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Notification options for battery apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/app-notification-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Listen Out for Your Full Battery Charge Notifiers in Windows
 
  Battery Notification, Full Battery & Theft Alarm, and Battery Notifier include some good options and features for monitoring battery levels in Windows. You’ll never forget to unplug a fully charged laptop when you’ve added a full battery charge notifier to Windows 11/10 with one of those apps. They’ll help minimize laptop battery degradation by always reminding you when to pull the plug on a fully charged laptop.
@@ -143,8 +113,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,6 +120,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/chieving-profit-through-youtube-sourav-joshis-guide/"><u>[New] Achieving Profit Through YouTube Sourav Joshi’s Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-streamlining-social-sharing-coordinating-vids-on-tweets-plus-tumbles/"><u>[Updated] Streamlining Social Sharing Coordinating Vids on Tweets + Tumbles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphones-role-in-creating-immersive-vr-content/"><u>2024 Approved IPhone's Role in Creating Immersive VR Content</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-xiaomi-redmi-a2-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Xiaomi Redmi A2 to Roku | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-curse-of-24-solutions-for-a-smooth-start-in-forza-horizon-4/"><u>Beat the Curse of '24 – Solutions for a Smooth Start in Forza Horizon 4</u></a></li>
+<li><a href="https://win11.techidaily.com/executing-group-policies-on-a-per-user-basis-with-windows-1111/"><u>Executing Group Policies on a Per-User Basis with Windows 11/11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-clear-spotlight-highlight-on-windows-11-desk/"><u>How to Clear Spotlight Highlight on Windows 11 Desk</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-steam-black-screen-issue-on-windows/"><u>How to Fix the Steam Black Screen Issue on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-an-inactive-windows-defense-system/"><u>How to Reactivate an Inactive Windows Defense System</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-scrutinizing-if-opinions-on-items-are-paid-for/"><u>In 2024, Scrutinizing if Opinions on Items Are Paid For</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-like-a-dragon-for-eternal-riches-the-ultimate-guide-to-thriving-on-pc/"><u>Mastering 'Like A Dragon' For Eternal Riches - The Ultimate Guide to Thriving on PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/minimca-haven-unveiling-simple-homes-in-minecraft-for-2024/"><u>MiniMCA Haven Unveiling Simple Homes in Minecraft for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-0x8007045d-blue-screen-problems-in-win11/"><u>Quick Fixes for 0X8007045D Blue Screen Problems in Win11</u></a></li>
+</ul></div>
 

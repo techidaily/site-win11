@@ -1,7 +1,7 @@
 ---
 title: Personalizing PC Shortcuts in Windows 11
-date: 2025-02-14T00:51:19.803Z
-updated: 2025-02-15T18:04:33.571Z
+date: 2025-03-02T00:19:22.795Z
+updated: 2025-03-05T04:30:34.626Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Download and Install WinHotKey
 
  WinHotKey is a freely available app for setting up new keyboard shortcuts. That software is compatible with most Windows desktop platforms as well. It has a quick and easy setup and takes up very little drive storage space. You can download and install WinHotKey as follows.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 4. Double-click the WinHotKey setup wizard to open its window.  
 ![The WinHotKey setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/WinHotKey-setup-wizard.png)
 5. Select the **Next** option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click the **I accept the agreement** radio button, and press the **Next** button again.
 7. Press the **Browse** button to choose an installation folder.  
@@ -58,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 1. Press the **New Hotkey** button at the top left of the WinHotKey Configuration window.  
 ![The WinHotKey Configuration window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/winhotkey-configuration-window.png)
 2. Type an optional description for the hotkey in the text box on the **General** tab if you wish.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Select the **Launch an application** option on the drop-down menu.
 4. Press the **Browse** button to bring up a new application window.  
@@ -96,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 * Services Windows: services.msc
 * Optimize Drives: dfrgui
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Set Up Folder, Document, and Window Control Hotkeys
 
  Aside from software shortcuts, you can establish hotkeys for opening folders and document files much the same. Instead of selecting **Launch an Application** on the New Hotkey window, select either the **Open a Folder** or **Open a Document** option. Then click **Browse** to select a document’s or folder’s path, configure a key combination, and press the **OK** button.
@@ -107,14 +91,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
  WinHotKey also enables you to set up hotkeys for six different window control actions. To set up such a keyboard shortcut, select the **Control the Current Window** option on the New Hotkey window. Then you can select minimize, maximize, restore, toggle, resize, and move window control options for the keyboard shortcut.
 
 ![Make the Current Windows drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/make-the-current-window-drop-down-menu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Create Custom Keyboard Shortcuts With HotkeyP
 
@@ -168,22 +144,18 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-amplify-your-videos-impact-7-royalty-free-sounds/"><u>[New] 2024 Approved Amplify Your Video's Impact 7 Royalty-Free Sounds</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-streamlined-method-keeping-and-capturing-twitters-videomedia/"><u>[New] 2024 Approved Streamlined Method Keeping and Capturing Twitters Video/Media</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-behind-the-scenes-with-viral-image-memes-and-stories-for-2024/"><u>[New] Behind the Scenes with Viral Image Memes & Stories for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-integrating-comfort-with-efficiency-modern-approaches-to-office-design/"><u>[New] Integrating Comfort with Efficiency Modern Approaches to Office Design</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/astering-vlog-production-top-8-mirrorless-cameras-ranked/"><u>[New] Mastering Vlog Production Top 8 Mirrorless Cameras Ranked</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-aural-archive-download-preserve-and-examine-tracks-for-2024/"><u>[Updated] Aural Archive Download, Preserve & Examine Tracks for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-top-tier-external-ssds-for-elevated-xbox-use/"><u>[Updated] Top-Tier External SSDs for Elevated Xbox Use</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-drag-tabs-out-from-file-explorer-in-windows-11/"><u>How to Drag Tabs Out From File Explorer in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-something-happened-and-your-pin-isnt-available-on-windows-11/"><u>How to Fix Something Happened, And Your PIN Isn't Available on Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-y27-4g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo Y27 4G</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-safely-how-to-append-trusted-domains-on-windows-11/"><u>Navigate Safely: How to Append Trusted Domains on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-optional-components-in-windows-11-a-step-by-step-approach/"><u>Optimizing Optional Components in Windows 11: A Step-by-Step Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-reclaim-lost-files-in-windows-environment/"><u>Strategies to Reclaim Lost Files in Windows Environment</u></a></li>
-<li><a href="https://win11.techidaily.com/the-guide-to-submenu-insertion-in-windows-11/"><u>The Guide to Submenu Insertion in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-perfect-set-of-apps-for-successful-laptop-os-transition/"><u>The Perfect Set of Apps for Successful Laptop OS Transition</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-surveillance-on-a-budget-10-free-security-camera-tools-for-2024/"><u>Updated Surveillance on a Budget 10 Free Security Camera Tools for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/win10win11-woes-here-are-7-ways-to-fix-optional-features/"><u>Win10/Win11 Woes? Here Are 7 Ways to Fix Optional Features</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-football-game-analysis-premier-insights-in-graphs/"><u>[Updated] Football Game Analysis Premier Insights in Graphs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-invisible-time-recording-expertise/"><u>[Updated] Invisible Time Recording Expertise</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-laugh-ledger-the-ultimate-list-of-hilarious-tweets-for-2024/"><u>[Updated] Laugh Ledger The Ultimate List of Hilarious Tweets for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/affordable-entertainment-10-great-substitutes-for-netflix/"><u>Affordable Entertainment: 10 Great Substitutes for Netflix</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/efficient-revenue-streams-the-guide-to-making-money-from-youtube-mobile-for-2024/"><u>Efficient Revenue Streams The Guide to Making Money From YouTube Mobile for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-for-browsing-on-new-systems/"><u>Essential Steps for Browsing on New Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-windows-laptops-for-tech-enthusiasts/"><u>Essential Windows Laptops for Tech Enthusiasts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/flawlessimage-advanced-bg-eraser-app/"><u>FlawlessImage Advanced BG Eraser App</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-elite-mac-compatible-4k-screens-ranked-1/"><u>In 2024, Elite Mac-Compatible 4K Screens Ranked #1</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-store-correction-guide-for-windows-error-x800704cf/"><u>Microsoft Store Correction Guide for Windows Error X800704CF</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-secures-prestigious-witsa-accolade/"><u>Mondly Secures Prestigious WITSA Accolade</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/obs-studio-vs-bandicam-which-takes-the-crown-in-2024/"><u>OBS Studio Vs. Bandicam Which Takes the Crown, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-error-code-0x80070091-directories-not-empty-issue-on-windows-11/"><u>Unblocking Error Code: 0X80070091 Directories Not Empty Issue on Windows 11</u></a></li>
 </ul></div>
 

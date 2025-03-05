@@ -1,7 +1,7 @@
 ---
 title: "Maximize File Selection: Activating Windows 11 Checkboxes"
-date: 2025-02-08T19:08:53.649Z
-updated: 2025-02-15T16:46:54.932Z
+date: 2025-02-25T20:26:07.534Z
+updated: 2025-03-05T00:47:34.320Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Enable Checkboxes Using the Command Bar
 
  The quickest way to enable checkboxes in File Explorer is through the command bar. Here's how:
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 3. Click the**Show option** from the context menu that crops up.
 4. Select the**Item check boxes** option.  
 ![Item check boxes in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/item-check-boxes.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That's it. You might need to restart your computer to see the changes.
 
@@ -58,10 +50,6 @@ Here's how to use the Folder Option to enable the checkboxes:
 ![Use check boxes to select items in Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/use-check-boxes-to-select-items.jpg)
 5. Click**Apply** and then**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Enable Checkboxes by Editing the Registry
 
  The Registry Editor is an essential Windows tool that lets you customize system settings. To use the Registry Editor to enable checkboxes in the File Explorer, follow the below steps:
@@ -76,15 +64,7 @@ Here's how to use the Folder Option to enable the checkboxes:
 5. Type**1** in the**Value data** and click**OK** to save the changes.  
 ![AutoCheckSelect Option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/autocheckselect-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to disable checkboxes, type**0** in AutoCheckSelect Value data and save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enabling Checkboxes in the File Explorer
 
@@ -105,14 +85,24 @@ Here's how to use the Folder Option to enable the checkboxes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-masterful-insights-the-top-6-video-snaggers-on-mac/"><u>[Updated] In 2024, Masterful Insights The Top 6 Video Snaggers on Mac</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-itel-s23-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-tips-for-configuring-a-freshly-bought-echo-dot-into-setup-mode/"><u>Easy Tips for Configuring a Freshly Bought Echo Dot Into Setup Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-file-management-from-docx-to-pdf-in-windows-11/"><u>Enhancing File Management: From DOCX to PDF in Windows 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-8-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 8 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-your-system-for-zero-paperwork-windows-trash-auto-empty/"><u>Optimize Your System for Zero Paperwork - Windows Trash Auto-Empty</u></a></li>
-<li><a href="https://win11.techidaily.com/practicality-and-style-combined-asus-vivobook-s-15-insight/"><u>Practicality & Style Combined - ASUS Vivobook S 15 Insight</u></a></li>
-<li><a href="https://win11.techidaily.com/remedies-for-no-display-of-startups-in-taskbar/"><u>Remedies for No Display of Startups in Taskbar</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-5-reasons-ai-cannt-fulfill-creative-writing-demands/"><u>The 5 Reasons AI Cann't Fulfill Creative Writing Demands</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-elite-watchlist-top-10-advanced-video-capture-programs/"><u>[Updated] Elite Watchlist Top 10 Advanced Video Capture Programs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-iphone-time-lapse-capturing-moments-quickly/"><u>[Updated] IPhone Time-Lapse Capturing Moments Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-manual-for-ws11s-software-reset/"><u>A Step-By-Step Manual for WS11's Software Reset</u></a></li>
+<li><a href="https://win11.techidaily.com/dont-let-file-explorer-crashes-hamper-win11-productivity/"><u>Don't Let File Explorer Crashes Hamper Win11 Productivity</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-strategies-to-rectify-windows-defender-engine-outage/"><u>Effective Strategies to Rectify Windows Defender Engine Outage</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-techniques-to-overcome-directdraw-errors-on-win1011/"><u>Efficient Techniques to Overcome DirectDraw Errors on WIN10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-frozen-epic-launcher-on-your-windows-11-machine/"><u>Eliminate Frozen Epic Launcher on Your Windows 11 Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-geforce-experiences-unable-to-retrieve-settings-error-in-windows-10-and-11/"><u>How to Fix GeForce Experience’s “Unable to Retrieve Settings” Error in Windows 10 & 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-90-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-vivo-y100-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo Y100 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-infinix-easily-by-drfone-android/"><u>In 2024, How To Unlock a Infinix Easily?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/le-temps-de-la-france/"><u>Le Temps De La France</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/oneplus-6t-review/"><u>OnePlus 6T Review</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-a-non-responsive-windows-monitor-app/"><u>Reviving a Non-Responsive Windows Monitor App</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-fixing-exception-reached-error-on-pc/"><u>Strategies for Fixing 'Exception Reached' Error on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-solve-chromes-profile-problems-on-desktops/"><u>Strategies to Solve Chrome's Profile Problems on Desktops</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1728462231775-windows-1011/"><u>Windows 10/11硬盘数据恢复无需格式化的免费方法</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-woes-slow-browser-speed-phones-unaffected/"><u>Windows Woes: Slow Browser Speed - Phones Unaffected?</u></a></li>
 </ul></div>
 

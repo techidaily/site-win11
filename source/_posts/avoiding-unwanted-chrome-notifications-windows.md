@@ -1,7 +1,7 @@
 ---
 title: Avoiding Unwanted Chrome Notifications (Windows)
-date: 2024-08-08T13:11:40.744Z
-updated: 2024-08-09T13:11:40.744Z
+date: 2025-02-28T20:38:50.779Z
+updated: 2025-03-04T23:48:45.004Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 
  Thankfully, it's quite easy to disable Google Chrome notifications on Windows. You can either block Chrome notifications for a few specific websites or turn them off entirely. In this post, we’ll show you how to do both.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## How to Turn Off Google Chrome Notifications From Windows Settings
 
  The Windows Settings app lets you enable or [disable notifications for each of your apps](https://www.makeuseof.com/tag/selectively-disable-app-notifications-windows-10/) separately. If you do not want to receive any notifications from Google Chrome, you can disable its notification permission on Windows. Here's how you can go about it.
@@ -37,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 
 ![Customize Google Chrome Notifications on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Customize-Google-Chrome-Notifications-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Turn Off Notifications in Google Chrome
 
  You can also enable or disable Google Chrome notifications from its settings menu. Here are the steps for the same.
@@ -50,21 +44,12 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 4. Select**Site settings** from the right pane.
 5. Scroll down to the**Permissions** section and click on**Notifications** .
 6. Under**Default behavior** , select**Don’t allow sites to send notifications** to disable Chrome notifications.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![Disable Google Chrome Notifications From Browser Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-From-Browser-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Turn Off Notifications for Specific Sites in Google Chrome
 
  Not all notifications are useless. If you don't wish to disable Google Chrome notifications entirely, you can disable them for specific websites. To do so, open Google Chrome and navigate to the website for which you want to disable notifications. Click the**padlock icon** on the left of the website URL at the top. Then, toggle off the switch next to**Notifications** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![Disable Google Chrome Notifications for a Specific Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-for-a-Specific-Site.jpg)
 
  The method outlined above is ideal if you only want to disable notifications for one or two websites. However, if you want to turn off Chrome notifications for several websites, you can visit the notifications section in Chrome settings. Here are the steps you need to follow.
@@ -74,14 +59,6 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 3. Navigate to **Privacy and security > Site Settings > Notifications** .
 4. Click the**Add** button next to**Not allowed to send notifications** .
 5. Enter the URL of the website for which you want to turn off notifications and click on**Add** .  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable Google Chrome Notifications for a Specific Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-for-a-Specific-Website.jpg)
 
  Once you complete the above steps, the website will appear under the**Not allowed to send notifications** section.
@@ -96,14 +73,11 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 
  Like Google Chrome, other apps on your Windows computer can also annoy you with constant notifications. If you don't want to be bothered by those notifications, you can use Focus Assist on Windows to silence them.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,6 +86,19 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-top-7-best-fmovie-alternatives2023-updates/"><u>[New] 2024 Approved Top 7 Best Fmovie Alternatives[2023 Updates]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-list-of-websites-for-text-styling-tools/"><u>[Updated] Expert List of Websites for Text Styling Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-setting-up-your-first-zoom-call-on-android/"><u>[Updated] In 2024, Setting Up Your First Zoom Call on Android</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-zoom-sound-tweaks-boosting-clarity-and-fidelity/"><u>2024 Approved Top Zoom Sound Tweaks Boosting Clarity and Fidelity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/early-may-release-sneak-peek-new-features-of-the-latest-ipad-pro-and-air-detailed-insights/"><u>Early May Release Sneak Peek: New Features of the Latest iPad Pro & Air - Detailed Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-methods-to-combat-wlanextexe-overuse/"><u>Effective Methods to Combat Wlanext.exe Overuse</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-amd-radeon-software-not-working-on-windows/"><u>How to Fix AMD Radeon Software Not Working on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-motorola-moto-g14-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Motorola Moto G14?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/sion-cinematography-ideal-lenses-for-digital-storytellers/"><u>Precision Cinematography Ideal Lenses for Digital Storytellers</u></a></li>
+<li><a href="https://win11.techidaily.com/proven-methods-for-accessing-disk-management-win-1011/"><u>Proven Methods for Accessing Disk Management (Win 10/11)</u></a></li>
+<li><a href="https://win11.techidaily.com/revamp-the-windows-terminal-bg-and-theme/"><u>Revamp the Windows Terminal Bg & Theme</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/etailed-breakdown-of-youtube-money-for-2024/"><u>The Detailed Breakdown of YouTube Money for 2024</u></a></li>
+</ul></div>
 

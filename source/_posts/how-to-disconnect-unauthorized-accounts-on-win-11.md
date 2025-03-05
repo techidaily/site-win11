@@ -1,7 +1,7 @@
 ---
 title: How to Disconnect Unauthorized Accounts on Win 11
-date: 2025-02-13T22:07:02.918Z
-updated: 2025-02-16T02:10:56.734Z
+date: 2025-03-02T16:28:28.528Z
+updated: 2025-03-05T00:41:23.904Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -52,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 2. In Task Manager, open the **Users** tab in the left pane which displays the number of users currently logged in. If not visible, click the **Open Navigation** button (three horizontal bars) in the top left corner.  
 ![Winx Menu Task Manager Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/winx-menu-task-manager-windows-11.png)
 3. In the **Users** tab, locate the account you want to sign off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Right-click on the user account and select **Sign off**.  
 ![Users Tab in Task Manager with Logoff Option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/users-tab-in-task-manager-with-logoff-option-in-windows-11.jpg)
@@ -90,23 +82,11 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 ![Download Process Explorer Web Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/download-process-explorer-web-page.jpg)
 2. Right-click on the **ProcessExplorer.zip** archive, and select **Extract All**. Select a location and extract the folder.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Process Explorer Exe File Run as Administrator Option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-exe-file-run-as-administrator-option-in-windows-11.jpg)
 3. Open the **ProcessExplorer** folder, right-click on **procexp64.exe**, and select **Run as administrator**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Process Explorer App User Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-option-selected-in-windows-11.jpg)
 4. In the **Process Explorer** window, click **Users** to view all the active user sessions.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Process Explorer App User Account Logoff Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-account-logoff-option-selected-in-windows-11.jpg)
 5. Hover your cursor over the user account name and select **Logoff**.
@@ -127,24 +107,19 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/levate-your-youtube-presence-with-custom-animated-subscription-buttons-in-filmora/"><u>[New] Elevate Your YouTube Presence with Custom Animated Subscription Buttons in Filmora</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-quick-and-easy-incorrante-audio-into-fb-profiles-ios-android/"><u>[New] Quick & Easy Incorrante Audio Into FB Profiles (iOS, Android)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-top-microphones-for-idevices-and-their-benefits-explained/"><u>[Updated] Top Microphones for iDevices & Their Benefits Explained</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-assemble-mp3-files-with-powerpoint-narratives/"><u>2024 Approved Assemble MP3 Files with PowerPoint Narratives</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-explore-the-9-best-iphone-watermarking-solutions/"><u>2024 Approved Explore the 9 Best iPhone Watermarking Solutions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/avoid-hassle-learn-the-right-way-to-get-your-sandisk-ssd-drivers-installed/"><u>Avoid Hassle: Learn the Right Way to Get Your Sandisk SSD Drivers Installed</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-nonstop-window-upgrades/"><u>Eliminating Nonstop Window Upgrades</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engaging-with-intelligence-a-comparative-study/"><u>Engaging with Intelligence: A Comparative Study</u></a></li>
-<li><a href="https://win11.techidaily.com/essentials-for-viewing-and-removing-windows-history-data/"><u>Essentials for Viewing & Removing Windows History Data</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-drivers-restored-no-more-errors/"><u>Graphics Drivers Restored, No More Errors</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-flickvista-app-performance-index/"><u>In 2024, FlickVista App Performance Index</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/mastering-the-art-of-choosing-high-quality-hdr-cameras-for-2024/"><u>Mastering the Art of Choosing High-Quality HDR Cameras for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-start-integrating-airpods-with-windows-computers/"><u>Quick Start: Integrating AirPods With Windows Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-tips-resolving-windows-error-1053-unresponsive-service/"><u>Quick Tips: Resolving Windows Error 1053 - Unresponsive Service</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-resourceerror-appnametext-in-w11/"><u>Remedying ResourceError: AppName/Text in W11</u></a></li>
-<li><a href="https://win11.techidaily.com/revitalize-invisible-windows-your-guide-to-regaining-lost-panes-in-windows/"><u>Revitalize Invisible Windows: Your Guide to Regaining Lost Panes in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-integration-of-microsofts-powertoys-on-win11/"><u>Seamless Integration of Microsoft's PowerToys on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/step-up-your-drawing-game-a-compilation-of-top-7-windows-11-artists/"><u>Step Up Your Drawing Game: A Compilation of Top 7 Windows 11 Artists</u></a></li>
-<li><a href="https://win11.techidaily.com/win-fix-guide-override-firewallantivirus-prohibiting-chrome-access/"><u>Win Fix Guide: Override Firewall/Antivirus Prohibiting Chrome Access</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-comprehensive-list-of-ios-compatible-ps2-games-for-2024/"><u>[New] Comprehensive List of iOS-Compatible PS2 Games for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-pcs-premier-ps3-imitators-ranked-top-5-choices/"><u>[New] In 2024, PC's Premier PS3 Imitators Ranked Top 5 Choices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-auditory-ambiance-music-in-instagrams-visual-narratives/"><u>[Updated] Auditory Ambiance Music in Instagram's Visual Narratives</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-from-hype-to-highlighted-the-art-of-editing-hauls-for-2024/"><u>[Updated] From Hype to Highlighted The Art of Editing Hauls for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-restoring-windows-11-media-software/"><u>Essential Tips for Restoring Windows 11 Media Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-non-responsive-iphone-volume-control-buttons-with-these-7-tips/"><u>Fixing Non-Responsive iPhone Volume Control Buttons with These 7 Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-hero5-black-vs-yi-4k-action-camera-which-is-better/"><u>In 2024, GoPro Hero5 Black Vs. Yi 4K Action Camera Which Is Better?</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-muted-sound-despite-settings-to-full-volume/"><u>Remedy Muted Sound Despite Settings to Full Volume</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-order-resolving-windows-charmap-dysfunction/"><u>Restoring Order: Resolving Windows CharMap Dysfunction</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalize-your-desktop-effective-steps-for-restoring-missing-windows-in-11/"><u>Revitalize Your Desktop: Effective Steps for Restoring Missing Windows in 11</u></a></li>
+<li><a href="https://win11.techidaily.com/speeding-up-task-manager-refreshes-on-windows-11/"><u>Speeding Up Task Manager Refreshes on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-5-best-monitors-for-ps5/"><u>Top 5 Best Monitors for Ps5</u></a></li>
+<li><a href="https://win11.techidaily.com/winx-chroma-challenge-overcoming-blacked-out-displays/"><u>WinX Chroma Challenge: Overcoming Blacked-Out Displays</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Best Browsing on Three OSes: Minimal Resource Browser Choices"
-date: 2024-08-08T13:12:55.359Z
-updated: 2024-08-09T13:12:55.359Z
+date: 2025-02-25T23:32:06.009Z
+updated: 2025-03-05T02:58:06.652Z
 tags:
   - windows10
   - windows11
@@ -34,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 
  For Windows, we will analyze the resource consumption of Edge, Opera, Firefox, and Chrome browser to determine which one you should use. The following image shows the specifications of the Windows device we are running this test on:
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Specifications of a Windows Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/specifications-of-a-windows-laptop.jpg)
 
  Here are the RAM and CPU consumption figures for all browsers on a Windows device when running one YouTube video, WhatsApp Web, a blog site, and a Reddit video:
@@ -54,16 +51,10 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 
  If you use a browser that consumes lots of CPU resources and can't switch to another for some reason, turn on efficiency mode for the browser's processes. It's a feature introduced in Windows 11 that makes the processes low-priority, making the processor allocate fewer resources, thereby limiting their CPU usage.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Which Browser Consumes the Least Memory and CPU Resources on ChromeOS?
 
  For [the Chromebook operating system, ChromeOS](https://www.makeuseof.com/what-is-chrome-os/), we will analyze the resource consumption of Opera, Firefox, and Chrome. Microsoft Edge is not available by default, so we'll exclude this browser. The following image shows the specifications of the Chromebook we are running this test on:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Lenovo Yoga N23 Chromebook Specifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lenovo-yoga-n23-chromebook-specifications.jpg)
 
  After running the same processes on ChromeOS as we did on Windows, here's the breakdown of resources consumed by different browsers:
@@ -84,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 
  For macOS, we will analyze the resource consumption of Safari, Opera, Firefox, and Chrome. In the following image, you can see the specifications of the macOS device we are using for the test:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Specifications of Macbook Air 2015](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/specifications-of-macbook-air-2015.jpeg)
 
  Below, you can find a breakdown of the resources consumed by each browser when running the same processes on a MacBook:
@@ -119,15 +106,9 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 2. Open the relevant resource monitoring app on your device: Task Manager in Windows, [Activity Monitor in macOS](https://www.makeuseof.com/tag/activity-monitor-mac-equivalent-ctrlaltdelete/), and Diagnostics in ChromeOS.
 3. Launch the browser you wish to test the resource consumption of and run a few processes on it.
 4. Observe how many resources your browser consumes in the monitoring app.  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![Resources Consumption of Brave Browser in Task Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/resources-consumption-of-brave-browser-in-task-manager-on-windows.jpg)
 5. To compare this browser's resource consumption with others, run the same processes on other browsers and compare their results.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Use the Most Efficient Browser
 
  Browsers consume the most resources and hinder our user experience the most. Hopefully, our evaluations comparing the resources consumed by different browsers will help you choose the right one for your device. Furthermore, if the less popular browser consumes fewer resources on your device, you might be better off using it.
@@ -136,12 +117,31 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 
  In this article, we'll compare the RAM and CPU resources consumed by different browsers on Windows, macOS, and ChromeOS; so you can see which browser uses the least resources on your device.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-converting-jpegpng-images-to-pdf-on-ipad-and-iphone-devices/"><u>[New] 2024 Approved Converting JPEG/PNG Images to PDF on iPad and iPhone Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-cut-beyond-youtube-unveiling-the-top-5-video-editor-options-for-2024/"><u>[New] Cut Beyond Youtube Unveiling the Top 5 Video Editor Options for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-improve-viewability-master-the-art-of-adding-timestamps-to-youtube-urls/"><u>[Updated] 2024 Approved Improve Viewability Master the Art of Adding Timestamps to YouTube URLs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-obsudio-screen-recorder-examination-top-contenders-revealed/"><u>[Updated] 2024 Approved Obsudio Screen Recorder Examination Top Contenders Revealed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-struggling-youtuber-to-industry-leader-the-hub-of-creator-studios-wisdom/"><u>[Updated] In 2024, From Struggling Youtuber to Industry Leader The Hub of Creator Studio's Wisdom</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-streamlining-creation-top-10-easy-to-create-biz-channels-on-youtube-for-2024/"><u>[Updated] Streamlining Creation Top 10 Easy-to-Create Biz Channels on YouTube for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-editors-echo-chamber/"><u>[Updated] The Editor's Echo Chamber</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-down-unnecessary-cpu-exertion-on-windows/"><u>Cutting Down Unnecessary CPU Exertion on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-a-disabled-printer-service-in-win/"><u>How to Reactivate a Disabled Printer Service in Win</u></a></li>
+<li><a href="https://win11.techidaily.com/master-task-manager-administration-in-windows-11/"><u>Master Task Manager Administration in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-installation-of-western-digital-ses-devices-2011-and-beyond/"><u>Mastering the Installation of Western Digital SES Devices (2011 and Beyond)</u></a></li>
+<li><a href="https://win11.techidaily.com/refresh-your-display-three-cleansing-methods/"><u>Refresh Your Display: Three Cleansing Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/seeking-help-navigate-through-windows-troubles-easily/"><u>Seeking Help? Navigate Through Windows Troubles Easily!</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-tasks-in-windows-11-via-enhanced-run-toolset/"><u>Streamlining Tasks in Windows 11 via Enhanced Run Toolset</u></a></li>
+<li><a href="https://win11.techidaily.com/unmasking-top-7-suspicious-windows-tasks/"><u>Unmasking Top 7 Suspicious Windows Tasks</u></a></li>
+<li><a href="https://win11.techidaily.com/wave-bye-bye-to-software-efficient-uninstall-methods-for-windows-11-users-123-chars/"><u>Wave Bye Bye to Software: Efficient Uninstall Methods for Windows 11 Users (123 Chars)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-analysis-unleashing-robust-sounds-from-the-tiny-tribit-stormbox-micro-2-speakers/"><u>ZDNet Analysis: Unleashing Robust Sounds From the Tiny Tribit StormBox Micro 2 Speakers!</u></a></li>
+</ul></div>
 

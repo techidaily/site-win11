@@ -1,7 +1,7 @@
 ---
 title: Boost Notability of Your Scribbles with Strategic Sticky Note Placement in Win OS
-date: 2024-08-08T13:12:35.172Z
-updated: 2024-08-09T13:12:35.172Z
+date: 2025-02-28T16:58:07.553Z
+updated: 2025-03-05T03:39:33.146Z
 tags:
   - windows10
   - windows11
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 1. Open the [Microsoft PowerToys page](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) and install the app from Microsoft Store.
 2. You can launch the app from the recently installed list or system tray.
 3. In the PowerToys Settings window, open the**Always on Top** tab**.**  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![power toys always on top](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top.jpg)
 4. Next, toggle the**Enable Always on Top** switch and set it to**On** .
 5. Next, under**Activation** , note down the**Activation shortcut** . By default, it is set to**Win + Ctrl + T** . To change the shortcut combo, click the**Edit** button (Pencil icon) and make changes.  
@@ -48,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 
  Impressed with PowerToys yet? Here are some more [impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Use DeskPins to Pin Sticky Notes
 
  DeskPins is a third-party open-source utility to pin app windows on Windows OS. It officially supports Windows 10 and earlier editions; however, we also tested it and found it working on Windows 11.
@@ -62,41 +56,25 @@ To pin Sticky Notes using DeskPins:
 1. Go to the [DeskPins page](https://efotinis.neocities.org/deskpins/) and download the latest version available.
 2. Run the installer and keep all the options selected.
 3. Once installed, search for**DeskPins** and click on the**App** icon to launch the app.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![desk pins system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-system-tray.jpg)
 4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
 5. Next, click on the**Sticky Note** app window to keep it always on top.
 6. Click the**Pin** icon to unpin the window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
 
  You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## Keep Sticky Notes Always on Top in Windows 10 and 11
 
  The Sticky Notes app is an excellent productivity tool if you need to continuously jot down ideas and notes. With PowerToys’s Always On Top feature, the app can stay pinned forever on your desktop and not get lost with the other hundred apps in the background. Alternatively, use DeskPins if you find PowerToys overkill for this task.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -105,6 +83,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-bring-back-the-buzz-transforming-previous-media-with-ig-filters/"><u>[New] 2024 Approved Bring Back the Buzz Transforming Previous Media with IG Filters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-asus-proart-excellence-in-4k-hdr-monitoring/"><u>[New] ASUS ProArt Excellence in 4K HDR Monitoring</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-art-of-subtle-sonic-softening-using-lumafusion-for-2024/"><u>[Updated] The Art of Subtle Sonic Softening Using Lumafusion for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-flawless-underwater-images-easily-in-7-steps/"><u>2024 Approved Capture Flawless Underwater Images Easily in 7 Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-anydesk-not-working-on-windows-11/"><u>How to Fix AnyDesk Not Working on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-unseen-hard-drive-problem-in-windows/"><u>Mending Unseen Hard Drive Problem in Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-quick-guide-to-innovative-voice-personalization-techniques-for-2024/"><u>The Quick Guide to Innovative Voice Personalization Techniques for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-bring-back-taskbar-alerts/"><u>Tips to Bring Back Taskbar Alerts</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-without-taskbar-chat-your-experience-explained/"><u>Windows 11 Without Taskbar Chat: Your Experience Explained</u></a></li>
+</ul></div>
 

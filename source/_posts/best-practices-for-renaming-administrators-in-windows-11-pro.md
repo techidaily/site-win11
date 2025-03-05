@@ -1,7 +1,7 @@
 ---
 title: Best Practices for Renaming Administrators in Windows 11 Pro
-date: 2024-08-08T13:12:03.790Z
-updated: 2024-08-09T13:12:03.790Z
+date: 2025-03-02T21:21:11.993Z
+updated: 2025-03-04T18:10:00.100Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
  But if you ever decide to alter this username, there are different options available for doing so. This tutorial will show you how to change the Microsoft account administrator name in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. How to Change the Administrator Name Through System Settings
 
  The Settings app is a built-in application on Windows that allows you to customize and manage settings on your computer. To change the Microsoft account administrator name in Windows 11,[open the System Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and follow these steps:
@@ -34,18 +31,12 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 4. Sign in with the Microsoft account you need to change the name of.
 5. After signing in, click**Your info** option from the top section.
 6. Under your Profile photo, you'll see your name. Click the**Edit name** option and enter your new name.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Modify Microsoft Account Name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/modify-microsoft-account-name.jpg)
 7. To ensure that you are a real person and not an automated program, type the characters in the Captcha field.
 8. Click the**Save** changes button, and you're all set.
 
  Your Microsoft account administrator name has been successfully changed.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How to Change the Administrator Name Through Control Panel
 
  The Control Panel is a graphical user interface (GUI) in Microsoft Windows that you can use to change your computer's hardware and software features.
@@ -57,16 +48,10 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 3. On the right side of the page, click the**Change your account name** link.  
 ![Change your account name in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-your-account-name-in-control-panel.jpg)
 4. Enter the new name and click**Change Name** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Rename account in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rename-account-in-control-panel.jpg)
 
  Your Microsoft account administrator name will now be changed. Now you can access all the services provided by Windows with your new name.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## 3\. How to Change the Administrator Name Through Command Prompt
 
  If you prefer using the Command Prompt instead of the Settings app or Control Panel, you can also change your Microsoft account administrator name through it. This is a command line interpreter tool that allows you to control your Windows computer system with instructions.
@@ -90,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 1. Right-click on Start and select**Run** from the menu list.
 2. In the Run dialog box, type**netplwiz** and press Enter. This will open the User Accounts window.
 3. Select the Microsoft account you want to change and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![Change the account name in User Account window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-the-account-name-in-user-account-window.jpg)
 4. Under the**General** tab, enter the new name in the**Full Name** field.
 5. Click**Apply > OK** to save the changes.
@@ -104,14 +85,11 @@ Your Microsoft account administrator name is now changed.
 
  Need to change the name of your Microsoft Account administrator? All you have to do is follow the instructions outlined in this article and your Microsoft account administrator name will be changed.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,6 +98,26 @@ Your Microsoft account administrator name is now changed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-from-backstage-to-center-stage-mastering-twitter-livestreaming/"><u>[New] 2024 Approved From Backstage to Center Stage Mastering Twitter Livestreaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-videography-secrets-leveraging-strikethrough-for-impactful-edits-for-2024/"><u>[Updated] Videography Secrets Leveraging Strikethrough for Impactful Edits for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-latency-in-win-1011-keystrokes-with-7-tips/"><u>Eliminate Latency in Win 10/11 Keystrokes with 7 Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/enablingdisabling-battery-saving-mode-on-windows-pcs/"><u>Enabling/Disabling Battery Saving Mode on Windows PCs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-nokia-g310-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Nokia G310 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-leading-video-to-twitter-platforms/"><u>In 2024, Leading Video To Twitter Platforms</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unleashing-the-power-of-tales-complimentary-apps-galore/"><u>In 2024, Unleashing the Power of Tales Complimentary Apps Galore</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-search-in-windows-11-the-ultimate-guides-top-five/"><u>Maximizing Search in Windows 11: The Ultimate Guide's Top Five</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/navigating-the-path-iphone-file-exchange-for-2024/"><u>Navigating the Path IPhone File Exchange for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-your-ms-store-applications-in-windows-oses/"><u>Reactivating Your MS Store Applications in Windows OSes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-routine-discover-how-chatgpt-can-help-you-thrive/"><u>Revolutionize Your Routine: Discover How ChatGPT Can Help You Thrive</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-non-existent-powershell-in-windows-os/"><u>Solutions for Non-Existent PowerShell in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-enabledisable-windows-11-registry-tools/"><u>Steps to Enable/Disable Windows 11 Registry Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-epic-sign-in-a-quick-fix-guide-for-windows/"><u>Streamlining Epic Sign-In: A Quick Fix Guide for Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-managing-fast-forward-functions/"><u>The Ultimate Guide to Managing Fast Forward Functions</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-resolving-error-in-stores-hub-0x80073cf3/"><u>Understanding and Resolving Error in Store's Hub: 0X80073CF3</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-make-your-own-cartoons-10-essential-animation-apps-for-mobile/"><u>Updated In 2024, Make Your Own Cartoons 10 Essential Animation Apps for Mobile</u></a></li>
+<li><a href="https://win11.techidaily.com/win-friendly-techniques-to-test-mics/"><u>Win-Friendly Techniques to Test Mics</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-a2plus-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi A2+ Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+</ul></div>
 

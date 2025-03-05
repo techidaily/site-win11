@@ -1,7 +1,7 @@
 ---
 title: Optimize Win11 with Custom Screen Savers
-date: 2025-02-10T17:42:21.783Z
-updated: 2025-02-16T02:20:32.236Z
+date: 2025-03-01T01:50:47.969Z
+updated: 2025-03-04T20:43:49.343Z
 tags:
   - windows10
   - windows11
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 
 ![The Photos screen saver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photos-screensaver-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Wait time** and**On resume** are the only options you can change for the Photos and 3D Text screensavers outside the settings windows. Adjust the**Wait time** value to set a longer or shorter idle activation time for the screensaver. If you prefer to return to a log-in screen after resuming, select the**On resume** option.
 
 ## How to Customize Bubbles, Mystify, and Ribbons with Winaero ScreenSavers Tweaker
@@ -73,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 4. Extract the**System\_Screensavers\_Tweaker.zip** file as instructed within our[how-to unzip files](https://www.makeuseof.com/unzip-files-windows-10/) guide.  
 ![The Extract Compressed Folders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/extract-compressed-window.jpg)
 5. Next, open the extracted screensavertweaker folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click the Windows 8 and x64 subfolders.
 7. Then double-click**ScreensaversTweaker.exe** to open the Windows Screensavers Tweaker software.
@@ -93,29 +85,17 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 
 ![The Ribbons screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/ribbons-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The ribbons blur and fade in the screensaver by default. However, you can change that by deselecting the**Apply Blur and Fade** checkbox. Then ribbons will fill up the screen without fading away.
 
  To customize Mystify, select that screensaver's tab. You can increase or reduce the number of lines Mystify has by dragging the slider on the**Number of Lines** bar. Drag the**Lines Width** bar's slider to set broader or narrower lines.
 
 ![The Mystify screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mystify-screensaver-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Mystify, Bubbles, and Ribbons tabs all include**Span Multiple Monitor** checkboxes. That setting is enabled by default so that the screensaver extends across multiple monitors. Deselecting that checkbox will display a set screensaver separately on multiple monitors.
 
  You can select to preview all changes you make to screensavers within the software. Click**Play Preview** to see the screensaver in a small thumbnail screen. Or choose**Full Screen** to see what the customized screensaver looks like in fullscreen mode.
 
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Customize Windows 11's Screensavers for Better Effect
 
@@ -136,20 +116,18 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-chrome-video-errors-a-step-by-step-fix-guide/"><u>[New] In 2024, Chrome Video Errors A Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-dual-angles-debate-vertical-vs-horizontal-fb-videos/"><u>[Updated] 2024 Approved Dual Angles Debate Vertical vs Horizontal FB Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-fastest-rising-youtube-stars-for-personal-growth-and-motivation-for-2024/"><u>[Updated] The Fastest Rising YouTube Stars for Personal Growth and Motivation for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/digital-game-highlights-6-pc-snapshot-strategies/"><u>Digital Game Highlights 6 PC Snapshot Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/dxgidll-gone-regain-it-on-windows-11-heres-why/"><u>Dxgi.dll Gone? Regain It on Windows 11, Here's Why</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-error-code-80080300-with-microsoft-teams-on-win11/"><u>Fixing Error Code 80080300 with Microsoft Teams on Win11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For HTC U23? | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/malwarefox-the-ultimate-protection-against-ransomware-attacks/"><u>MalwareFox: The Ultimate Protection Against Ransomware Attacks</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-repair-fixing-windows-office-system-hiccups/"><u>Mastering Repair: Fixing Windows Office System Hiccups</u></a></li>
-<li><a href="https://win11.techidaily.com/method-for-solving-xc0f1103f-issue-on-windows-geforce/"><u>Method for Solving XC0F1103F Issue on Windows, GeForce</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-wows-critical-failure-code-132/"><u>Quick Fixes for WoW’s Critical Failure Code #132</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-for-non-loading-steamuidll-on-windows/"><u>Remedy for Non-Loading SteamUI.DLL on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/scripting-a-robust-python-server-for-effective-filesharing-in-windows/"><u>Scripting a Robust Python Server for Effective Filesharing in Windows</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/selection-mastery-making-every-frame-count-on-youtube/"><u>Shot Selection Mastery Making Every Frame Count on YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-optimize-video-search-with-these-top-7-youtube-tags-extractor-tools/"><u>[New] In 2024, Optimize Video Search with These Top 7 Youtube Tags Extractor Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-conquer-all-platforms-your-key-to-recording-hulu-effortlessly/"><u>2024 Approved Conquer All Platforms - Your Key to Recording Hulu Effortlessly</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/conversion-libera-e-gratuita-da-accondi-ogg-a-mp4-con-movavi/"><u>Conversion Libera E Gratuita Da ACCONDI OGG a MP4 Con Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/david-and-goliaths-showdown-how-the-kickstarter-campaign-led-to-a-strategic-buyout/"><u>David and Goliath's Showdown: How the Kickstarter Campaign Led to a Strategic Buyout</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-auto-triggered-cmd-openings-on-windows/"><u>Disabling Auto-Triggered CMD Openings on Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-revolutionize-your-photos-with-these-best-grid-makers-for-ig/"><u>In 2024, Revolutionize Your Photos with These Best Grid Makers for IG</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-zombie-survival-quest-top-8-game-guide/"><u>In 2024, Zombie Survival Quest - Top 8 Game Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/restore-functionality-to-your-windows-keys/"><u>Restore Functionality to Your Windows Keys</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-vpn-connectivity-problems-7-essential-troubleshooting-steps/"><u>Solve Your iPhone's VPN Connectivity Problems: 7 Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-win-error-caused-by-mfc71udll/"><u>Tackling Win Error Caused by Mfc71u.dll</u></a></li>
+<li><a href="https://win11.techidaily.com/the-complete-manual-to-thriving-at-ps1-on-win-unveiled-by-duckstation/"><u>The Complete Manual to Thriving at PS1 on WIN - Unveiled by Duckstation</u></a></li>
+<li><a href="https://win11.techidaily.com/the-in-depth-guide-to-fixing-your-windows-camera-app/"><u>The In-Depth Guide to Fixing Your Windows Camera App</u></a></li>
 </ul></div>
 

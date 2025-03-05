@@ -1,7 +1,7 @@
 ---
 title: "Beyond Ordinary Displays: Elevate Your Screen with Customized Themes on Win11"
-date: 2024-08-08T13:16:37.586Z
-updated: 2024-08-09T13:16:37.586Z
+date: 2025-03-01T20:52:43.004Z
+updated: 2025-03-05T04:36:19.632Z
 tags:
   - windows10
   - windows11
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 4. Under the Current theme section, click on any of the available themes to apply them to your system.
 5. Close the settings app.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Using the Settings App
 
  Since the desktop context menu redirects you to the Settings app, you can directly open it and change the system theme. Here’s how:
@@ -41,16 +38,9 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 1. Press**Win + I** to launch the Settings app.
 2. Click on the**Personalization** option in the left-hand side menu.
 3. Scroll down and select the**Themes** option.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![Changing Theme Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/changing-theme-using-the-settings-app.jpg)
 4. Now, click on any theme from the section of available themes. You can also apply a high-contrast theme by selecting the Contrast Theme option below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Using the Old Control Panel Personalization Utility
 
  The older version of Windows OS had a control panel personalization utility, using which you could change the themes, color schemes, and wallpapers. Microsoft hid this option in Windows 11, but you can still access it using the run command box. Here’s how:
@@ -59,9 +49,6 @@ The ultimate burning program for all your needs!</a>
 
 1. Press**Win + R** to [launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type the following command and press the enter key.
 2. The old Personalization utility will launch. Navigate to the themes window and click on any theme to apply it. The utility won’t redirect you to the Settings app.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Changing Theme Using the Old Control Panel Personalization Utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/changing-theme-using-the-old-control-panel-personalization-utility.jpg)
 3. Close the Personalization utility window.
 
@@ -80,9 +67,6 @@ The ultimate burning program for all your needs!</a>
 1. Press**Win + E** to [launch the File Explorer app](https://www.makeuseof.com/windows-open-file-explorer/) .
 2. Go to the address bar, paste the following path, and press the enter key:**%LocalAppData%\\Microsoft\\Windows\\Themes**
 3. You will see a bunch of themes listed here. Double-click on any ".theme" file to apply it to your system.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Changing Theme Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/changing-theme-using-file-explorer.jpg)
 4. There will be a bunch of folders as well. These usually belong to the downloaded themes. Open the folder, and locate the theme file to apply a downloaded theme.
 
@@ -93,18 +77,6 @@ The ultimate burning program for all your needs!</a>
 1. Press**Win + X** to launch the Power user menu. Scroll down and select the**Terminal (admin)** option from the menu.
 2. The Terminal app will launch. Click on the**+** icon to open a command prompt window with admin privileges.
 3. Now, type**C:\\Windows\\resources\\Themes\\aero.theme** command and press the enter key.  
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Changing Theme Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/changing-theme-using-cmd.jpg)
 4. Your Windows 11 system will change to the inbuilt aero theme. Similarly, you can replace the name of any other inbuilt theme and apply it.
 
@@ -117,16 +89,10 @@ The ultimate burning program for all your needs!</a>
 3. Press the enter key to open the Themes folder.
 4. Now, right-click on a theme and click on**Show More** options.
 5. Then click on the**Send to** option and select the**Desktop (create shortcut)** option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Changing Theme Using a Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/changing-theme-using-a-shortcut.jpg)
 6. Press**Win + D** to switch to the Desktop. Make sure to close the Settings app before running the shortcut.
 7. Double-click on the newly created theme shortcut to apply the theme to your computer
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Using PowerShell
 
  Like CMD, you can access the theme files from PowerShell and change the theme. Repeat the following steps:
@@ -148,9 +114,6 @@ The ultimate burning program for all your needs!</a>
 1. Press**Win + S** and type Notepad. Click on the first search result to open the Notepad app.
 2. Now, paste the following script into the Notepad file:
 3. Go to the top menu bar and click on**File > Save as** option. Keep the filename as**changetheme.bat** , select the**All files** option, and save it on the desktop.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![Changing Theme Using a Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/changing-theme-using-a-batch-file.jpg)
 4. Close the Notepad app and Press Win + D to switch to the desktop.
 5. Now, right-click on the changetheme.bat file and select the**Run as administrator** option.
@@ -160,14 +123,11 @@ The ultimate burning program for all your needs!</a>
 
  Windows 11 stores themes in multiple locations. The simplest way to change the theme is by using the Settings app. But if you want to keep the mouse clicks to a minimum, creating the shortcut of a theme file or running a batch script is better. If you aren’t afraid of the Terminal, the command prompt and PowerShell methods also work like a charm.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -176,6 +136,24 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-can-i-view-friends-shared-vids-and-photos-for-2024/"><u>[New] How Can I View Friend’s Shared Vids and Photos for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nnovative-education-prime-15-youtube-science-outlets/"><u>[New] Innovative Education Prime 15 YouTube Science Outlets</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-master-the-art-of-funimate-video-extraction/"><u>2024 Approved Master the Art of Funimate Video Extraction</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-xipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on Apple iPhone X/iPad/iPod</u></a></li>
+<li><a href="https://win11.techidaily.com/command-prompt-techniques-to-run-task-manager-admin-style-on-windows-11/"><u>Command Prompt Techniques to Run Task Manager Admin-Style on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/1723005468576-cyberpunk-2077-black-screen-dilemma-top-solutions-revealed/"><u>Cyberpunk 2077 Black Screen Dilemma: Top Solutions Revealed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-samsung-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Samsung</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-web-privacy-proxies-on-win-11/"><u>Master Your Web Privacy: Proxies on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-data-consolidation-a-compreenas-guide-for-windows-11/"><u>Mastering Data Consolidation: A Compreenas Guide for Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signature-for-pdf-file-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Online signature for .pdf file document</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-technical-hurdles-to-enjoy-store-downloads/"><u>Overcoming Technical Hurdles to Enjoy Store Downloads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/podcast-sharing-instagram-stories-and-posts-tutorial-for-2024/"><u>Podcast Sharing Instagram Stories & Posts Tutorial for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/screen-partnerships-and-talent-licensing/"><u>Screen Partnerships and Talent Licensing</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-approach-installing-msixbundle-and-apppackages-via-windows-store/"><u>Tailored Approach: Installing MSixBundle & Apppackages via Windows Store</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-picks-cost-effective-remobell-video-doorbells-for-your-home/"><u>Top Picks: Cost-Effective RemoBell Video Doorbells for Your Home</u></a></li>
+<li><a href="https://win11.techidaily.com/top-secrets-to-boosting-windows-11-games-unveiling-the-seven-key-moves/"><u>Top Secrets to Boosting Windows 11 Games: Unveiling the Seven Key Moves</u></a></li>
+<li><a href="https://win11.techidaily.com/unplugged-reactivate-your-windows-wi-fi-with-these-tips-and-tricks/"><u>Unplugged? Reactivate Your Windows Wi-Fi with These Tips and Tricks</u></a></li>
+</ul></div>
 

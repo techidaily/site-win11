@@ -1,7 +1,7 @@
 ---
 title: Avoiding Disruptions to WSL After Installing Windows 11
-date: 2024-08-08T13:13:32.799Z
-updated: 2024-08-09T13:13:32.799Z
+date: 2025-03-02T23:16:06.634Z
+updated: 2025-03-04T16:10:31.627Z
 tags:
   - windows10
   - windows11
@@ -24,16 +24,10 @@ thumbnail: https://thmb.techidaily.com/172d2b5e16d3f59f8f3e9aeaa8db2d7a1dcd42c12
 
  Here are several ways to get the Windows Subsystem for Linux working again after upgrading to Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Check That WSL Is Enabled
 
  It isn't unusual that upgrading to a newer version of the OS will break some apps and features. So although it might sound obvious, checking WSL hasn't simply been disabled during the upgrade process should be your first step. Here's how to check:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![checking if WSL is enabled in Windows Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wsl-enabled.jpg)
 
 1. In Windows Search, type**Turn Windows features on or off** and click the search result that should appear at the top.
@@ -49,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/172d2b5e16d3f59f8f3e9aeaa8db2d7a1dcd42c12
 
  If you want to use a subsystem such as WSL in Windows, you'll also need to enable the virtualization tools. These include Hyper-V and the Virtual Machine Platform.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Error message in the command line interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wsl-feature-missing.jpg)
 
  If a command line interface opens, telling you a required feature is not installed, when you try to run your Linux distribution, this is likely what it refers to.
@@ -61,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/172d2b5e16d3f59f8f3e9aeaa8db2d7a1dcd42c12
 3. Check the boxes next to each of these features and then click**Ok** .
 4. You will need to restart your computer to complete the installation of these tools.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Repair the Linux Distribution App
 
  Your Linux distribution app, such as Ubuntu, Kali, or Debian, could be corrupted or require updating. This can cause WSL to appear to be broken. Repairing Windows apps is very easy.
@@ -77,18 +65,12 @@ thumbnail: https://thmb.techidaily.com/172d2b5e16d3f59f8f3e9aeaa8db2d7a1dcd42c12
 
  Check if WSL is working. If not, try uninstalling and reinstalling the Linux distribution app.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Force WSL to Open Using the Microsoft Store
 
  If WSL is enabled but still refuses to open, you can try forcing launch through the Microsoft Store app. This can sometimes fix temporary glitches when opening WSL directly doesn't work.
 
 1. Open the Microsoft Store app and search for**WSL** .
 2. On the store page for WSL, you should see an**Open** button. If the button says**Update** , click it to update the app.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![opening the WSL app in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/force-open-store.jpg)
 3. Click the**Open** button, and the default Linux distro app should launch.
 4. If a command line interface window opens instead, it will probably tell you a required feature is missing. See**Enable Hyper-V and Virtual Machine Platform** above.
@@ -113,14 +95,11 @@ thumbnail: https://thmb.techidaily.com/172d2b5e16d3f59f8f3e9aeaa8db2d7a1dcd42c12
 
  Upgrading to Windows 11 usually goes smoothly, but apps and features can occasionally break. If you find that WSL is no longer working after upgrading to the newest Windows OS, don't worry, there is usually an easy fix. You might only need to re-enable the feature in the Windows system settings, but if not, running through the other fixes here will usually solve the problem.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -129,6 +108,24 @@ thumbnail: https://thmb.techidaily.com/172d2b5e16d3f59f8f3e9aeaa8db2d7a1dcd42c12
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/astering-filmmaking-on-youtube-and-substitutes/"><u>[New] Mastering Filmmaking on YouTube & Substitutes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-leading-alternatives-to-twitter-ranked-best/"><u>[Updated] 2024 Approved Leading Alternatives to Twitter, Ranked Best</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-movavi-video-pro-review-release-for-2024/"><u>[Updated] Movavi Video Pro Review Release for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-winerror-not-found-step-by-step-guide/"><u>Eliminate WinError 'Not Found': Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-features-of-espnplus-the-ultimate-sports-streaming-hub/"><u>Exploring the Features of ESPN+, The Ultimate Sports Streaming Hub</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-auto-open-in-file-explorer-on-win-pcs/"><u>Fix Auto-Open in File Explorer on Win PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-windows-backup-to-its-defaults/"><u>How to Reset Windows Backup to Its Defaults</u></a></li>
+<li><a href="https://extra-support.techidaily.com/integrate-soundtracks-with-ppt-visuals-for-2024/"><u>Integrate Soundtracks with PPT Visuals for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-workspace-positioning-gmail-bar-for-quick-access/"><u>Master Your Workspace: Positioning Gmail Bar for Quick Access</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-login-security-tweaking-the-reset-lockout-after-fails-in-windows-11/"><u>Mastering Login Security: Tweaking the Reset Lockout After Fails in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/nullify-windows-launch-tracker-effects/"><u>Nullify Windows Launch Tracker Effects</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-compatibility-problems-for-iphone-accessories-that-dont-fit-the-mold/"><u>Resolving Compatibility Problems for iPhone Accessories That Don't Fit the Mold</u></a></li>
+<li><a href="https://win11.techidaily.com/skirting-microsofts-dism-hurdle-error-0x800f082f/"><u>Skirting Microsoft's DISM Hurdle: Error 0X800F082F</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-ranking-mini-computers-comprehensive-evaluation-by-tech-experts/"><u>Top-Ranking Mini Computers - Comprehensive Evaluation by Tech Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/upgraded-task-management-windowed-console-with-clis/"><u>Upgraded Task Management: Windowed Console with CLIs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210659244-why-isnt-my-razer-keyboard-lighting-up-solutions-inside/"><u>Why Isn't My Razer Keyboard Lighting Up? Solutions Inside</u></a></li>
+<li><a href="https://techtrends.techidaily.com/zdnets-ultimate-guide-to-apple-vision-pro-price-specs-and-review-highlights/"><u>ZDNet's Ultimate Guide to Apple Vision Pro - Price, Specs & Review Highlights</u></a></li>
+</ul></div>
 

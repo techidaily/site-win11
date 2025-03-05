@@ -1,7 +1,7 @@
 ---
 title: Key Strategies for Accessing Disk Management in Win 10/11
-date: 2025-02-11T19:28:39.244Z
-updated: 2025-02-16T00:24:37.729Z
+date: 2025-02-27T19:51:30.402Z
+updated: 2025-03-04T22:45:24.690Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 * [Use the Run Dialog to Open Disk Management](#use-the-run-dialog-to-open-disk-management)
 * [Open Disk Management From the Control Panel](#open-disk-management-from-the-control-panel)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Disk Management is a Windows tool that allows you to set up your new storage drive and manage existing ones.
@@ -48,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 ![Disk Management app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/6-ways-to-open-disk-management-windows-10-0.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Search for Disk Management in Windows
 
 [The search feature in Windows 10 and 11](https://www.makeuseof.com/windows-search-use-guide/) lets you open any app on your computer, no matter where it's stored. You can use it to launch a built-in utility like Disk Management too. However, the search results may confuse you since Disk Management doesn't directly show up here. Let's clarify this:
@@ -60,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 * Alternatively, you can type in **diskmgmt.msc** in the Start menu search bar for a more direct result. Clicking on the best match will take you to Disk Management.
 
  Both search keywords do the same thing. Although you don't see "Disk Management" as a result, the best match will still launch the program you need to initialize or manage your storage drives.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Launch Disk Management From the Quick Access Menu
 
@@ -75,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
  When the program opens, you'll be able to see your connected drives and start managing their partitions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Use the Run Dialog to Open Disk Management
 
  As the name suggests, the Run dialog lets you run or open any program on your Windows PC, provided you know the full file path. You can also run any executable stored in the **C:\\Windows** directory by typing the file name. It can be a great productivity tool if you know exactly [which Windows Run commands to use](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/).
@@ -88,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 ![Run dialog box with diskmgmt command in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/run-dialog-box-with-diskmgmt-command-in-windows-11.png)
 
  This way to open Disk Management is preferable if you're busy on the keyboard and don't want to reach for your mouse.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Open Disk Management From the Control Panel
 
@@ -124,19 +104,14 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-transform-your-screen-with-webcam-creativity/"><u>[New] Transform Your Screen with Webcam Creativity</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-art-of-instagram-video-craftsmanship-for-2024/"><u>[Updated] The Art of Instagram Video Craftsmanship for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-nba-experience-top-15-ways-to-watch-games-online/"><u>[Updated] The Ultimate NBA Experience - Top 15 Ways to Watch Games Online</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/1726028487727-wrfmp4/"><u>一言で説明する、WRFファイルからMP4へのシンプルな変換ガイド</u></a></li>
-<li><a href="https://windows11.techidaily.com/configuring-win11-remote-storage-paths/"><u>Configuring Win11 Remote Storage Paths</u></a></li>
-<li><a href="https://win11.techidaily.com/empowering-app-aesthetics-enable-autocolor-in-win11-devices/"><u>Empowering App Aesthetics: Enable AutoColor in Win11 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-windows-update-error-0x80246007-in-windows-10-and-11/"><u>How to Fix the Windows Update Error 0X80246007 in Windows 10 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-translate-foreign-languages-with-hotkeys-in-windows-10-and-11/"><u>How to Translate Foreign Languages With Hotkeys in Windows 10 & 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-c12-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia C12 Pro to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-nokia-c12-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Nokia C12? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-the-world-of-video-conferencing-with-zoom-and-win10/"><u>Navigating the World of Video Conferencing with Zoom & Win10</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-wi-fi-deletion-on-windows-11/"><u>Navigating Wi-Fi Deletion on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-path-to-less-clutter-automating-your-trash-bin-emptying-procedure/"><u>The Path to Less Clutter: Automating Your Trash Bin Emptying Procedure</u></a></li>
-<li><a href="https://win11.techidaily.com/the-pathway-to-prominent-cursors-on-modern-windows-machines/"><u>The Pathway to Prominent Cursors on Modern Windows Machines</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-building-dynamic-youtube-music-chains-for-2024/"><u>[New] Building Dynamic YouTube Music Chains for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/broadcast-platform-showdown-obs-or-twitch-studio/"><u>Broadcast Platform Showdown OBS or Twitch Studio?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversion-rapide-et-facile-de-votre-contenu-audio-en-wma-sans-frais-avec-le-service-en-ligne-gratuit-de-movavi/"><u>Conversion Rapide Et Facile De Votre Contenu Audio en WMA Sans Frais Avec Le Service en Ligne Gratuit De Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-sudo-for-enhanced-windows-security/"><u>Leveraging Sudo for Enhanced Windows Security</u></a></li>
+<li><a href="https://win11.techidaily.com/maintain-your-data-expand-disk-space-techniques-for-windows-11-users-max-156-chars/"><u>Maintain Your Data, Expand Disk Space: Techniques for Windows 11 Users (Max 156 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-task-execution-efficient-keybinds-in-win-os/"><u>Personalize Task Execution: Efficient Keybinds in WIN OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/precision-techniques-in-spinning-and-fusing-android-videography/"><u>Precision Techniques in Spinning & Fusing Android Videography</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-higher-frame-rates-ultimate-strategies-to-boost-fps-in-ring-of-elysium/"><u>Unlock Higher Frame Rates: Ultimate Strategies to Boost FPS in Ring of Elysium</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-notetakers-the-7-greatest-for-pcs-and-slate/"><u>Winning Notetakers: The 7 Greatest for PCs and Slate</u></a></li>
 </ul></div>
 

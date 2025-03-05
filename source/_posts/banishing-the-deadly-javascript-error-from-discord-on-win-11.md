@@ -1,7 +1,7 @@
 ---
 title: Banishing the Deadly JavaScript Error From Discord on Win 11
-date: 2024-08-08T13:13:49.205Z
-updated: 2024-08-09T13:13:49.205Z
+date: 2025-02-25T16:42:21.420Z
+updated: 2025-03-05T01:59:32.700Z
 tags:
   - windows10
   - windows11
@@ -50,23 +50,14 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 2. Click**Processes** if that tab doesn’t open with Task Manager.
 3. Then look for any Discord-related processes.
 4. Terminate all Discord-related processes by selecting them and clicking their**End task** options.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A Discord-related processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-related-process.jpg)
 5. Open Windows Explorer with**Win + E** .
 6. Type**%appdata%** inside Explorer’s address bar and press**Return** .
 7. Then select the Discord data folder and click Explorer's**Delete** option on the**Home** tab or command bar.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![A discord folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-folder.jpg)
 8. Input**%LocalAppData%** in Explorer’s address bar and press**Enter** .
 9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## 4\. Reinstall Discord
 
  The Javascript error can be due to missing or corrupted Discord modules. If the error message lists specific modules as the culprit for this error, reinstalling Discord will restore all its modules. You can reinstall Discord via Settings like this:
@@ -74,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 1. Check out our guide for [how to open Apps & Features](https://www.makeuseof.com/9-ways-to-open-the-apps-features-tool-in-windows-11/) to bring up the uninstaller tool.
 2. Click the menu button on the right side of the Discord app listed in Apps & Features to select**Uninstall** .
 3. Then select**Uninstall** when prompted for app removal confirmation.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-option2.jpg)
 4. Delete leftover Discord app data subfolders as outlined for the third resolution.
 5. Reboot your Windows PC before reinstalling the Discord software.
@@ -86,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
 9. Go through Discord’s installation wizard to reinstall the software.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Disable Any Third-Party Antivirus Tools
 
  Conflicting third-party antivirus tools can also cause the fatal Javascript error by blocking some of Discord’s files. Avast Antivirus is one such utility known to conflict with Discord. If you’ve got that third-party software installed or another alternative, try disabling its shield before attempting to start (or install) Discord.
@@ -101,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
 1. To access Windows Security, double-click its shield icon on the system tray.
 2. Select**Virus & threat protection** on Windows Security’s**Home** tab.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Virus & threat protection tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/virus-threat-protection.jpg)
 3. Click**Manage Settings** to view the options.
 4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
@@ -116,22 +98,12 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 1. To access the app launcher in Windows, right-click**Start** (on the taskbar) and select the**Run** accessory shortcut.
 2. Input**services.msc** inside Run’s**Open** command box.
 3. Select**OK** to launch the Services app.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![The Services app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-app.jpg)
 4. Then double-click**Quality Windows Audio Video Experience** inside the Services window.
 5. If Quality Windows Audio Video Experience is disabled, select the**Automatic** startup option.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-startup-type-drop-down-menu.jpg)
 6. Press the service’s**Start** button.
 7. Select**Log On** at the top of the service’s properties window.  
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/this-account-radio-button.jpg)
 8. Click**Browse** for the**This account** radio button.
 9. Input your user account within the**Enter** object name box.
@@ -149,8 +121,6 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,6 +128,23 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-formulating-windowsmac-skype-group-chats-easily/"><u>[New] In 2024, Formulating Windows/Mac Skype Group Chats Easily</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-child-stars-staggering-fortune-from-youtube-success-for-2024/"><u>[Updated] Child Star's Staggering Fortune From YouTube Success for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/crucial-windows-11-dos-and-donts-the-red-alert-list/"><u>Crucial Windows 11 Do's and Don'ts: The Red Alert List</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/difference-entre-la-sauvegarde-de-partition-et-de-volume-quest-ce-qui-change/"><u>Différence Entre La Sauvegarde De Partition Et De Volume : Qu'est-Ce Qui Change ?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-x6-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X6 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unlock-zooms-full-power-with-share-screen-expertise/"><u>In 2024, Unlock Zoom’s Full Power with Share Screen Expertise</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-the-latest-geforce-now-update-worth-your-time/"><u>Is the Latest GeForce NOW Update Worth Your Time?</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-your-graphics-potential-an-ultimate-windows-10-and-11-vram-guide/"><u>Maximize Your Graphics Potential: An Ultimate Windows 10 & 11 VRAM Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-battery-life-sleep-or-shutdown/"><u>Maximizing Battery Life: Sleep or Shutdown?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-download-splice-video-editor-for-mac-for-2024/"><u>New Download Splice Video Editor for Mac for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-resolving-ios-photo-import-issues-on-windows-os/"><u>Quick Guide: Resolving iOS Photo Import Issues on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagine-calendars-with-personal-flair-using-windows-outlook/"><u>Reimagine Calendars with Personal Flair Using Windows Outlook</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-picture-edits-eliminating-backdrops/"><u>Simplifying Picture Edits: Eliminating Backdrops</u></a></li>
+<li><a href="https://fox-links.techidaily.com/subtlety-savvy-sound-settings-for-garageband-for-2024/"><u>Subtlety Savvy Sound Settings for Garageband for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-premier-maximilian-documentary-selection-for-july-2024-our-expert-picks/"><u>The Premier Maximilian Documentary Selection for July 2024 - Our Expert Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/top-windows-writing-tools-seeking-excellence/"><u>Top Windows Writing Tools: Seeking Excellence</u></a></li>
+</ul></div>
 

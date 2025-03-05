@@ -1,7 +1,7 @@
 ---
 title: "Boosting Productivity: Essential Win11 and Cmd Commands"
-date: 2024-08-08T13:14:03.201Z
-updated: 2024-08-09T13:14:03.201Z
+date: 2025-03-02T02:47:24.724Z
+updated: 2025-03-04T21:16:45.753Z
 tags:
   - windows10
   - windows11
@@ -34,15 +34,9 @@ thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c60
  Now that you’ve downloaded and extracted the NirCmd utility, you can set up desktop shortcuts for executing the commands below. These are the steps for creating a Windows desktop shortcut for a NirCmd command:
 
 1. Click any area of your Windows desktop with the mouse’s right button and select the **New** and **Shortcut** options.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![The Shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/shortcut-option.jpg)
 2. Then input (or copy and paste) one of the NirCmd commands below in the item location box as follows:  
 `C:\Users\nircmd-x64\nircmd.exe NirCmd command`  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Create Shortcut window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-shortcut-wizard.jpg)
 3. Click **Next** to continue to the final step in the shortcut wizard.
 4. Input a suitable name for your NirCmd command shortcut and select **OK**.
@@ -63,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c60
 
 1. Right-click on a NirCmd desktop shortcut to select **Properties**.
 2. Click in the Shortcut box and press a key combination to set up a **Ctrl** \+ **Alt** or **Ctrl** \+ **Shift** hotkey.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-shortcut-tab.jpg)
 3. Then select **Apply** to save your hotkey.
 4. Click **OK** to exit the shortcut’s properties window.
@@ -74,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c60
 
  If you prefer not to clutter your desktop with shortcuts, you can move them into a subfolder. To do so, right-click the desktop to select **New** \> **Folder** and input a directory title. Drag and drop the shortcuts into the folder on the desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Examples of Handy Commands You Can Create With NirCmd
 
  Now you can set up NirCmd desktop and keyboard command shortcuts that do all kinds of things. Here are eight handy NirCmd commands to create shortcuts for.
@@ -87,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c60
 
 `nircmd.exe emptybin`
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### 2\. Center Align All Windows
 
  This NirCmd command will centrally align all restored down windows. It’s a useful command for organizing windows on the desktop. The command for centrally aligning windows is:
@@ -106,9 +87,6 @@ No advertising on the website.
 
 `nircmd.exe exitwin logoff`
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Read Out the Copied Clipboard Item
 
  This NirCmd command will read out the most recently copied text item on the Windows clipboard. Creating a hotkey for it will give you a convenient way to check what text you’ve copied to the clipboard. The NirCmd command for reading a copied clipboard item aloud is:
@@ -129,8 +107,6 @@ keywords: Win11 Productivity Tips,Enhance Workflow Win11,Efficient Command Line 
 thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c604ae901531790591bfbc5dab.jpg
 ---
 
-
-
 ### 5\. Activate Your Windows 11/10 Screensaver
 
  Do you have a screensaver set that you love viewing? If so, set up a NirCmd command shortcut that enables you to immediately activate that screensaver. You can create a desktop and keyboard shortcut for activating the screensaver with this NirCmd command:
@@ -149,25 +125,17 @@ thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c60
 
 `nircmd.exe win settopmost title "Calculator" 1`
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### 8\. Set the Brightness Level
 
  This NirCmd command shortcut will enable you to [set a screen brightness level](https://www.makeuseof.com/windows-10-adjust-screen-brightness/) by pressing a hotkey. Activating this command changes the brightness level set within Settings. The command needs to include a brightness value to set. For example, a NirCmd command for setting the brightness level to 60 percent looks like this:
 
 `nircmd.exe setbrightness 60 3`
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Create Handy Windows Task Shortcuts With NirCmd
 
  Those are just a few handy Windows tasks for which you can create desktop and keyboard shortcuts with NirCmd commands. This [NirCmd command reference page](https://nircmd.nirsoft.net/) shows there are 105 NirCmd commands available for creating Windows task shortcuts. So, you can also create Windows task shortcuts for adjusting the volume, setting display resolution, restarting File Explorer, saving screenshots, converting images, and much more!
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -175,4 +143,25 @@ thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c60
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-exploring-the-new-frontier-what-makes-triller-stand-out-in-2024/"><u>[New] Exploring the New Frontier What Makes Triller Stand Out, In 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aking-your-music-collection-accessible-worldwide/"><u>[New] Making Your Music Collection Accessible Worldwide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-simplified-editing-for-clean-cut-canvas-photos/"><u>[Updated] 2024 Approved Simplified Editing for Clean-Cut Canvas Photos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-amass-a-million-in-moments-join-instagrams-elite/"><u>[Updated] Amass a Million in Moments Join Instagram's Elite</u></a></li>
+<li><a href="https://win11.techidaily.com/decluttering-made-simple-spotting-and-purging-vacant-folders-in-windows/"><u>Decluttering Made Simple: Spotting & Purging Vacant Folders in Windows</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-solutions-how-to-rapidly-resolve-no-location-found-issues-on-your-iphone/"><u>Effortless Solutions: How to Rapidly Resolve 'No Location Found' Issues on Your iPhone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/elevated-skatepark-visuals-and-backdrops-for-your-space-premium-picks-from-yl-computings-software-suite/"><u>Elevated Skatepark Visuals & Backdrops for Your Space – Premium Picks From YL Computing's Software Suite</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-android-apps-for-a-richer-windows-11-experience/"><u>Essential Android Apps for a Richer Windows 11 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-camera-app-correction-for-error-a00f425d-in-win11/"><u>Mastering Camera App Correction for Error A00F425D in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/release-the-chains-widows-handbrake-fixes/"><u>Release the Chains: Widows' HandBrake Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-chromium-enhancing-youtube-performance/"><u>Tackling Chromium: Enhancing YouTube Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/the-6-best-to-do-list-apps-for-windows-11-and-11/"><u>The 6 Best To-Do List Apps for Windows 11 & 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-of-phablets-arrives-discover-the-speculated-details-on-samsung-galaxy-z-fold-7s-price-point-launch-date-and-hardware-features/"><u>The Future of Phablets Arrives – Discover the Speculated Details on Samsung Galaxy Z Fold 7'S Price Point, Launch Date, and Hardware Features</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-mastering-win-11-taskbar-controls/"><u>The Ultimate Guide to Mastering Win 11 Taskbar Controls</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-accurate-monitoring-of-tasks-cpu-impact-on-system/"><u>Tips for Accurate Monitoring of Tasks' CPU Impact on System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlimited-outro-options-at-no-expense-online-for-2024/"><u>Unlimited Outro Options at No Expense Online for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-get-animated-top-free-software-for-windows-mac-and-beyond/"><u>Updated 2024 Approved Get Animated Top Free Software for Windows, Mac, and Beyond</u></a></li>
+</ul></div>
 

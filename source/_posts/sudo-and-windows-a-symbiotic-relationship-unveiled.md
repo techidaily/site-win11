@@ -1,7 +1,7 @@
 ---
 title: "Sudo and Windows: A Symbiotic Relationship Unveiled"
-date: 2025-02-13T19:14:17.807Z
-updated: 2025-02-15T23:41:08.889Z
+date: 2025-03-01T03:38:22.054Z
+updated: 2025-03-04T23:22:57.391Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
  If you're a fan of tweaking your Windows setup, you often need to run "elevated" or Administrator-level commands. You're probably used to doing this by running a Command Prompt as administrator, but it's about to get a lot easier with sudo on Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Does the sudo Command Do?
 
  Despite the general focus on configuring everything through the Settings apps and easy-to-use configuration wizards on Windows, every once in a while, you still need to type in commands. Many of these won't work with your standard user account. Instead, you need to run them as an administrator. Requiring administrator permissions is still a relatively new concept in Windows, but it was prevalent for far longer in older operating systems.
@@ -49,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
  Unlike some features that Microsoft tests in these versions, it seems fairly likely that sudo is going to arrive on the operating system soon.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Enable the sudo Command on Windows
 
  If the sudo command isn't yet available for your version of Windows, you'll need to [sign up for Windows Insider](https://www.makeuseof.com/windows-11-insider-program-join/). This is a simple process, but be warned: the Developer and Canary options can be unstable, so don't use them on a PC you're not willing to lose data on.
@@ -62,14 +54,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  Here, scroll down and enable the checkbox that reads **Enable sudo**.
 
 ![Enabling sudo on Window in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/enabling-sudo-on-window-in-the-settings-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Enable sudo via the Command Prompt
 
@@ -92,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 ![Running a command on Windows via sudo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/running-a-command-on-windows-via-sudo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This feature may seem a tad unnecessary—and for many people, it is. That said, if you spend your day running command after command on Windows and wish for the simplicity of the sudo command, its addition will make your life easier.
 
  Microsoft seems committed to its implementation of sudo, even going so far as to release [sudo on GitHub](http://github.com/microsoft/sudo) as open source. If reading this entices you to learn more about what goes on under the hood in Windows, make sure to take a look at our list of [commands every Windows user should know](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/).
@@ -112,19 +92,14 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-everything-you-need-to-know-about-the-youtube-shorts-fund/"><u>[New] 2024 Approved Everything You Need to Know About the YouTube Shorts Fund</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-sticky-visuals-at-a-glance-iphoneandroids-best-sticker-add-on-apps/"><u>[New] Sticky Visuals at a Glance – iPhone/Android's Best Sticker Add-On Apps</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-unleashing-your-gaming-potential-with-fbx/"><u>[Updated] 2024 Approved Unleashing Your Gaming Potential with FBX</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-win11-launch-speed-with-these-simple-tweaks/"><u>Enhance Win11 Launch Speed with These Simple Tweaks</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-stop-hyber-v-with-win11-tools/"><u>How to Stop Hyber-V with Win11 Tools</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-enrich-your-visuals-captions-on-the-go-in-instagram/"><u>In 2024, Enrich Your Visuals Captions on the Go in Instagram</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-infinix-hot-30-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Infinix Hot 30 5G Phone Pattern Lock</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-the-best-gameplay-experience-samsung-q60r-series-tv-unveiled/"><u>In-Depth Look at the Best Gameplay Experience - Samsung Q60R Series TV Unveiled</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximize-storage-on-your-linux-virtualbox-efficiently-free-up-drive-space/"><u>Maximize Storage on Your Linux VirtualBox: Efficiently Free Up Drive Space</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/navigating-steam-with-your-switch-pro-controller-for-2024/"><u>Navigating Steam With Your Switch Pro Controller for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/nostalgic-keys-to-contemporary-computing-windows-7-and-11/"><u>Nostalgic Keys to Contemporary Computing: Windows 7 and 11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-update-failure-x80246007-issue-solution/"><u>Overcoming Windows Update Failure: X80246007 Issue Solution</u></a></li>
-<li><a href="https://win11.techidaily.com/tackle-turbulent-troubles-stop-lag-on-star-wars-battlefront-2-pc/"><u>Tackle Turbulent Troubles: Stop Lag on Star Wars Battlefront 2 PC</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-a59-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo A59 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-epochs-epic-journey-best-free-mmo-games-roundup-for-2024/"><u>[New] Epoch's Epic Journey Best Free MMO Games Roundup for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-decoding-the-best-of-beauty-youtubes-elite-artists-showcased/"><u>[Updated] 2024 Approved Decoding the Best of Beauty YouTube's Elite Artists Showcased</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-pro-gif-maker-software-that-wins-every-time/"><u>2024 Approved Pro-Gif Maker Software That Wins Every Time</u></a></li>
+<li><a href="https://win11.techidaily.com/drag-and-drop-not-working-in-windows-11-try-these-fixes/"><u>Drag and Drop Not Working in Windows 11? Try These Fixes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-honor-magic-5-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Honor Magic 5 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-guide-to-acquiring-adobe-reader-through-ms-store/"><u>Instant Guide to Acquiring Adobe Reader Through MS Store</u></a></li>
+<li><a href="https://win-answers.techidaily.com/minecraft-pc-crashes-top-2024-fixes-for-uninterrupted-gaming/"><u>Minecraft PC Crashes: Top 2024 Fixes for Uninterrupted Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-application-start-failed-no-qt-found-situations/"><u>Remedying 'Application Start Failed: No Qt Found' Situations</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-tackle-microsoft-store-error-on-xbox-app/"><u>Steps to Tackle Microsoft Store Error on Xbox App</u></a></li>
 </ul></div>
 

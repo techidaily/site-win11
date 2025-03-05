@@ -1,7 +1,7 @@
 ---
 title: Why Keeping Track With Wins 11 Alerts Matters
-date: 2025-02-12T23:01:28.473Z
-updated: 2025-02-16T04:22:51.880Z
+date: 2025-03-03T22:38:40.136Z
+updated: 2025-03-04T21:22:51.193Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 
  To turn on Notifications, open the Settings app, click **Notifications,** and then enable the **Notifications** toggle.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. You Can Perform Quick Actions Without Opening the App
 
 ![Screenshot showing actionable WhatsApp notification](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/actionable-notifications.jpg)
@@ -59,17 +55,9 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 
 ![Disable the Toggle Next to Specific Apps in the Notifications From Apps and Other Senders Section in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-the-toggle-next-to-specific-apps-in-the-notifications-from-apps-and-other-senders-section-in-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You may not want notifications from all apps even when you're not working. Windows 11 allows you to choose which apps you want notifications from. As a rule of thumb, never turn off notifications for apps that are super important to you. For example, if your organization uses Teams for communication, you should always allow Teams notifications to show up even when you're working so that you don't miss anything time-sensitive.
 
  You can tweak notifications from apps and other senders from the Notifications page in the Settings app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Notifications Help You Capture Better Screenshots
 
@@ -81,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 
  ou can avoid all of this and get notified when a screenshot is captured and get an option to save it from the notification itself. It is also important to note that you may not be able to take screenshots with Notifications turned on. If that is the case, you can [fix the Snipping Tool not working on Windows 11](https://www.makeuseof.com/windows-11-fix-snipping-tool-not-working/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Notifications Can Help You Stay Secure in Windows 11
 
  Security is one of the most important aspects of your computer, no matter which operating system you are running. Equally important is staying up to date with what's wrong with the security of your PC. The only easy way to get notified instantly about any compromise in security in Windows 11 is by enabling Notifications.
@@ -92,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
  Windows 11 will push notifications if the Microsoft Defender application in the OS detects malware, thus helping you take action before it's too late. If you turn off the **Notifications** toggle in Windows 11, you must open the Microsoft Defender security application to check if your system is infected with malware.
 
  To ensure your PC is less vulnerable to malware and other threats, you should learn [how to beef up Windows 11 security](https://www.makeuseof.com/windows-11-improve-security/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Make Windows 11's Notifications a Help, Not a Hinder
 
@@ -113,24 +93,20 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capturing-content-in-the-digital-age-top-strategies/"><u>[New] 2024 Approved Capturing Content in the Digital Age Top Strategies</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instagrams-trust-tales-decoding-the-power-of-selfies/"><u>[New] Instagram's Trust Tales Decoding the Power of Selfies</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-tips-for-stellar-video-conclusions/"><u>[Updated] In 2024, Tips for Stellar Video Conclusions</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-aim-higher-boosting-views-and-reach-on-youtube/"><u>2024 Approved Aim Higher Boosting Views and Reach on YouTube</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978128799-brief-overview-of-hahron-spices-mission-vision-and-strategic-positioning-within-the-chemical-industry/"><u>Brief Overview of HAHRON SPICE's Mission, Vision, and Strategic Positioning Within the Chemical Industry.</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-and-tricks-for-efficient-application-management-with-wpm/"><u>Expert Tips & Tricks for Efficient Application Management with WPM</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-logitech-g-hub-compatibility-issues-with-microsofts-operating-system/"><u>Fixing Logitech G Hub Compatibility Issues with Microsoft's Operating System</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-average-spend-on-successful-youtube-videos/"><u>In 2024, Average Spend on Successful YouTube Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/is-it-safe-to-delete-the-windows-bt-folder/"><u>Is It Safe to Delete the Windows ~BT Folder?</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-transition-implementing-win11-in-vmware-platform/"><u>Mastering Windows Transition: Implementing Win11 in VMware Platform</u></a></li>
-<li><a href="https://win11.techidaily.com/professional-photoshop-tips-how-to-cut-out-unwanted-areas/"><u>Professional Photoshop Tips: How to Cut Out Unwanted Areas</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-to-rectify-error-0x800700e1-on-windows-11-pcs/"><u>Quick Fixes to Rectify Error 0X800700E1 on Windows 11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-non-start-warnings-in-windows-search-service/"><u>Resolving Non-Start Warnings in Windows Search Service</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-the-onedrive-tag-validity-problem-in-windows-filesystem/"><u>Solving the OneDrive Tag Validity Problem in Windows Filesystem</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-a-broken-integrated-webcam-on-a-windows-machine/"><u>Step-by-Step Fixes for a Broken Integrated Webcam on a Windows Machine</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/superior-video-recording-apps-on-mac-not-bandicam/"><u>Superior Video Recording Apps on Mac, Not Bandicam</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essentials-of-python-server-use-for-windows-file-exchange/"><u>The Essentials of Python Server Use for Windows File Exchange</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unpacking-the-inner-workings-7-apps-with-gpt-4/"><u>Unpacking the Inner Workings: 7 Apps with GPT-4</u></a></li>
-<li><a href="https://win11.techidaily.com/why-opt-for-dxvk-in-windows-gaming-scene/"><u>Why Opt for DXVK in Windows' Gaming Scene?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-speedy-social-snooping-techniques-for-fb-users/"><u>[Updated] Speedy Social Snooping Techniques for FB Users</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-20-wonderful-stop-motion-ideas-for-beginners-and-kids/"><u>2024 Approved 20 Wonderful Stop Motion Ideas for Beginners and Kids</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/big-sur-readiness-system-and-hardware-guide-for-2024/"><u>Big Sur Readiness System & Hardware Guide for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquered-device-setup-issue/"><u>Conquered Device Setup Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/finding-zen-in-windows-sleep-mode/"><u>Finding Zen in Windows Sleep Mode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-windows-boot-failures-resolve-your-resetting-pc-error-today/"><u>Fixing Windows Boot Failures: Resolve Your 'Resetting PC' Error Today!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://solve-info.techidaily.com/kostenloser-hyper-v-server-2019-datenwiederherstellung-entdecken-sie-die-zwei-hauptwege/"><u>Kostenloser Hyper-V Server 2019 Datenwiederherstellung – Entdecken Sie Die Zwei Hauptwege</u></a></li>
+<li><a href="https://win11.techidaily.com/make-text-work-again-in-windows-pdf-documents/"><u>Make Text Work Again in Windows' PDF Documents</u></a></li>
+<li><a href="https://driver-install.techidaily.com/microsoft-surface-pro-4-drivers-download-and-install-in-windows/"><u>Microsoft Surface Pro 4 Drivers Download & Install in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-barriers-to-microsoft-store-usage-in-windows-11/"><u>Overcoming Barriers to Microsoft Store Usage in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/taking-control-from-bat-to-winexe-mastery/"><u>Taking Control: From .bat to WinEXE Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/the-hidden-meanings-of-windows-update-ids/"><u>The Hidden Meanings of Windows Update IDs</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-multitasking-shutdown-many-at-once/"><u>The Ultimate Guide to Multitasking: Shutdown Many at Once</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/top-techniques-for-transferring-data-from-your-iphone-x-to-an-android-device/"><u>Top Techniques for Transferring Data From Your iPhone X to an Android Device</u></a></li>
 </ul></div>
 

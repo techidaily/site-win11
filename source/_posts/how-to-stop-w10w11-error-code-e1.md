@@ -1,7 +1,7 @@
 ---
 title: How to Stop W10/W11 Error Code E1
-date: 2025-02-11T22:40:55.102Z
-updated: 2025-02-16T00:19:14.264Z
+date: 2025-02-25T16:21:16.138Z
+updated: 2025-03-05T04:13:39.375Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run a Malwarebytes Scan
 
  The error 0x800700E1 message specifically says the operation didn’t finish because of a file containing malware (a virus). Thus, it could be the case there’s a genuine virus causing this issue. So, run an antivirus scan with the freeware Malwarebytes. You can run a full scan of your PC with Malwarebytes like this:
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![The Scan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/scan-option.png)
 8. Select **Quarantine** if anything is detected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If error 0x800700E1 occurs when you try to transfer some files from a USB drive, scan the folder that includes the files you’re trying to move or copy. To do that, you’ll need to connect the drive to your PC. Then right-click the folder on the external drive within Explorer and select **Scan with Malwarebytes**.
 
 ## 2\. Turn Off Microsoft Defender (or Any Active Third-Party Antivirus Apps)
@@ -57,15 +49,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/real-time-protection-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’ve installed an alternative third-party antivirus app, you must disable that software’s real-time protection instead. Most antivirus apps have context menu settings for disabling antivirus shields. So, look in the system tray area, right-click your antivirus app, and select an option that will temporarily disable its antivirus shield for an hour or two.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Repair File Explorer
 
@@ -82,14 +66,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![An SFC scanfile command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-explorer-command.jpg)
 5. Wait for both scans to finish and show a Windows Resource Protection message.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Clear Browsing Data
 
  This resolution is more applicable for fixing error 0x800700E1 when it occurs for Windows backup operations. Temporary and cached browsing data can cause issues with the Windows backup operation. So, clearing browsing data might resolve this issue when Windows backup fails. Try clearing Internet Explorer browsing data in Windows like this:
@@ -99,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 3. Click the **Delete** option for browsing history.  
 ![The Internet Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-general-tab.jpg)
 4. Deselect the **Preserve Favorites** website data checkbox if selected.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Select the **Cookies**, **History**, and T**emporary Internet Files** checkboxes.  
 ![The Delete Browsing History window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-browsing-history-window.jpg)
@@ -156,22 +128,24 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/igh-paying-creator-status-on-youtube/"><u>[New] High-Paying Creator Status on YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-investigating-the-practical-usefulness-of-photo-stabilization/"><u>[New] Investigating the Practical Usefulness of Photo Stabilization</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-8-superior-youtube-to-avi-software/"><u>[Updated] 2024 Approved Exploring 8 Superior YouTube-to-AVI Software</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-nocturnal-nuances-essential-tips-for-moonlit-portraiture/"><u>[Updated] In 2024, Nocturnal Nuances Essential Tips for Moonlit Portraiture</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-unlocking-the-secrets-of-success-top-strategies-for-fb-video-growth/"><u>[Updated] Unlocking the Secrets of Success Top Strategies for FB Video Growth</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ax201-not-connecting-intel-wi-fi-6-patch-released/"><u>AX201 Not Connecting - Intel Wi-Fi 6 Patch Released</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-paste-and-move-powertoys-explained/"><u>Essential Tips for Paste & Move: PowerToys Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/establishing-safe-file-housing-on-win1011-systems/"><u>Establishing Safe File Housing on Win10/11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-wintoys-a-brief-yet-in-depth-look-into-windows-powerhouse/"><u>Exploring WinToys: A Brief Yet In-Depth Look Into Windows' Powerhouse</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-for-preventing-win11-v22h2-updater-failure/"><u>Guide for Preventing WIN11 V22H2 Updater Failure</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-cross-border-mouse-navigation-and-glance-with-powertoys/"><u>Mastering Cross-Border Mouse Navigation & Glance with PowerToys</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-start-problems-when-playing-csgo-w11/"><u>Navigating Start Problems When Playing CS:GO W11</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-s-most-popular-online-video-reverse-editors/"><u>New In 2024, S Most Popular Online Video Reverse Editors</u></a></li>
-<li><a href="https://win11.techidaily.com/reinventing-screens-post-11-windows-dreamscape/"><u>Reinventing Screens: Post-11 Windows Dreamscape</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-reinstallation-of-nvidia-software/"><u>Secure Reinstallation of NVIDIA Software</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-fix-the-privileged-requirement-not-met-error-in-windows/"><u>Strategies to Fix the Privileged Requirement Not Met Error in Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-for-irreversibly-deleting-your-yahoo-mail-profile/"><u>The Ultimate Walkthrough for Irreversibly Deleting Your Yahoo Mail Profile</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-rapid-assembly-of-google-image-mosaics/"><u>[New] 2024 Approved Rapid Assembly of Google Image Mosaics</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-ultimate-guide-to-best-in-class-racing-games/"><u>[New] 2024 Approved The Ultimate Guide to Best-in-Class Racing Games</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-is-obs-studio-or-fraps-your-ideal-choice-for-capturing-screens/"><u>[Updated] 2024 Approved Is OBS Studio or Fraps Your Ideal Choice for Capturing Screens?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-walkers-wonderland-curating-the-top-8-zombie-video-experiences/"><u>[Updated] In 2024, Walkers' Wonderland Curating the Top 8 Zombie Video Experiences</u></a></li>
+<li><a href="https://win11.techidaily.com/credential-manager-breaking-the-open-barrier/"><u>Credential Manager: Breaking the Open Barrier</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-leading-6-task-assistants-that-work-with-windows-11/"><u>Discover the Leading 6 Task Assistants That Work with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/get-back-whats-gone-enhance-your-windows-functionality/"><u>Get Back What's Gone: Enhance Your Window's Functionality</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-infinix-hot-40-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Infinix Hot 40 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unfreeze-steam-game-server-status-in-windows-environments/"><u>How to Unfreeze Steam Game Server Status in Windows Environments</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c110-phone-without-password-by-drfone-android/"><u>How To Unlock Nokia C110 Phone Without Password?</u></a></li>
+<li><a href="https://win11.techidaily.com/hyper-v-layers-virtualizing-linux-within-windows/"><u>Hyper-V Layers: Virtualizing Linux Within Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-tecno-spark-20-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Tecno Spark 20 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-to-extract-device-info/"><u>Navigating Through Windows to Extract Device Info</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/peering-into-pitfalls-a-deep-dive-into-vr-shortcomings/"><u>Peering Into Pitfalls A Deep Dive Into VR Shortcomings</u></a></li>
+<li><a href="https://win11.techidaily.com/the-quintet-of-top-tier-write-enhancers-windows-edition/"><u>The Quintet of Top-Tier Write Enhancers (Windows Edition)</u></a></li>
+<li><a href="https://win11.techidaily.com/top-9-new-enhancements-in-windows-11-feb-update/"><u>Top 9 New Enhancements in Windows 11 Feb Update</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unbeatable-bike-sims-showcase/"><u>Unbeatable Bike Sims Showcase</u></a></li>
+<li><a href="https://win11.techidaily.com/unblock-selecthighlight-functionality-window-edition/"><u>Unblock Select/Highlight Functionality, Window Edition</u></a></li>
 </ul></div>
 

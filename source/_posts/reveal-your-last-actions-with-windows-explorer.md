@@ -1,7 +1,7 @@
 ---
 title: Reveal Your Last Actions with Windows Explorer
-date: 2025-02-13T01:53:30.444Z
-updated: 2025-02-16T01:41:08.240Z
+date: 2025-03-01T19:31:38.680Z
+updated: 2025-03-04T23:27:51.156Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
  Moreover, Quick Access does not allow you to sort recently opened files by specific parameters, which is easy to do in the Recent Items folder. Let's see how you can access recently opened files on Windows using both methods.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to View Recently Opened Files in Quick Access
 
  You can view recently opened items in Quick Access by opening**File Explorer** from the taskbar and selecting**Quick access** from the left sidebar. Following that, you will see a list of recently opened files in the right pane. So, scroll down to find the recent file or folder you were looking for.
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
  In most cases, Quick Access displays the recently opened files in File Explorer; however, there are times when it breaks and stops showing them. If that's the case for you, check out our article on[fixing Quick Access when it doesn't show recent files](https://www.makeuseof.com/windows-11-fix-quick-access-not-showing-recent-files/) .
 
  If you cannot fix the Quick Access to show recently opened files or want to do a deeper analysis of recently opened items, you can check recently opened items in the Recent Items folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to View Recently Opened Items in the Recent Items Folder
 
@@ -72,18 +64,10 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![Sorting the Files or Folders by Clicking on the Sort By Option in the Context Menu of the File in the Recent Items Folder in File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Sorting-the-Files-or-Folders-by-Clicking-on-the-Sort-By-Option-in-the-Context-Menu-of-the-File-in-the-Recent-Items-Folder-in-File-Explorer-in-Windows.jpg)
 4. If you cannot find the parameter you want to sort the items by, click on the**More...** button in the**Sort by** menu, check the box for the detail you wish to sort the data by, and click**Ok** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Sorting Data by Checking the Box for Author Field by Clicking on the More button in the Sort By Dropdown Menu in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Sorting-Data-by-Checking-the-Box-for-Author-Field-by-Clicking-on-the-More-button-in-the-Sort-By-Dropdown-Menu-in-File-Explorer.jpg)
 5. After that, the parameter will appear in the**Sort by** menu, where you can select it to sort the recently opened items.  
 
 ![Sorting the Files or Folder by Author by Clicking on the Sort By Option in the Recent Items Folder in File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/5-Sorting-the-Files-or-Folder-by-Author-by-Clicking-on-the-Sort-By-Option-in-the-Recent-Items-Folder-in-File-Explorer-in-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to View Recently Opened Files for Specific Apps on Windows
 
@@ -94,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
  To see more recently opened items than what appears in the search results, open the app and navigate to its recent files section.
 
 ![Viewing Recently Opened Files for Specific Apps by Navigating to Recent File Section in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/6-Viewing-Recently-Opened-Files-for-Specific-Apps-by-Navigating-to-Recent-File-Section-in-Windows-Search.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to See Recently Opened Files Removed From Quick Access
 
@@ -136,24 +116,18 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-unveiling-underground-favorites-in-the-world-of-memes-for-2024/"><u>[New] Unveiling Underground Favorites in the World of Memes for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-breaking-the-cycle-or-not-ideas-for-snapstreaks/"><u>[Updated] 2024 Approved Breaking the Cycle - Or Not? Ideas for Snapstreaks</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-androids-best-artistic-tools-top-10-creative-graphics-apps-for-2024/"><u>[Updated] Android's Best Artistic Tools Top 10 Creative Graphics Apps for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-professional-recording-essentials-evaluating-apeaksofts-capabilities/"><u>[Updated] In 2024, Professional Recording Essentials – Evaluating Apeaksoft's Capabilities</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/effective-solutions-for-fixing-a-non-responsive-scanner-tips-and-tricks-by-yl-computing/"><u>Effective Solutions for Fixing a Non-Responsive Scanner - Tips & Tricks by YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-it-support-efficiency-customize-w11-troubleshooters-keys/"><u>Enhance IT Support Efficiency: Customize W11 Troubleshooters Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicating-repetitive-microsoft-edge-shortcuts/"><u>Eradicating Repetitive Microsoft Edge Shortcuts</u></a></li>
-<li><a href="https://win11.techidaily.com/harmonizing-your-device-ecosystem-with-win11-notes/"><u>Harmonizing Your Device Ecosystem with Win11 Notes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-make-and-convert-slow-motion-videos-on-iphone/"><u>How to Make and Convert Slow Motion Videos on iPhone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-samsung-galaxy-s23-tactical-edition-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Samsung Galaxy S23 Tactical Edition to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-savetech-reviews-insights/"><u>In 2024, SaveTech Reviews Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-common-windows-display-issues/"><u>Navigating Through Common Windows Display Issues</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211270353-9780062109514-peace-love-and-healing/"><u>Peace, Love and Healing | Free Book</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/psvitapsvita/"><u>PSVITAに完璧なソリューション！：専用オプションでのみ動作するPSVITAの音楽再生方法</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivation-process-phone-link-non-functional-windows-notifications/"><u>Reactivation Process: Phone Link' Non-Functional Windows Notifications</u></a></li>
-<li><a href="https://win11.techidaily.com/top-7-alterations-windows-11s-updated-file-explorer/"><u>Top 7 Alterations: Windows 11'S Updated File Explorer</u></a></li>
-<li><a href="https://win11.techidaily.com/unpacking-why-win11-surpasses-macos/"><u>Unpacking Why Win11 Surpasses macOS</u></a></li>
-<li><a href="https://win11.techidaily.com/unsure-where-to-place-games-on-xbox-helpful-hacks/"><u>Unsure Where to Place Games on Xbox: Helpful Hacks</u></a></li>
-<li><a href="https://win11.techidaily.com/vs-vs-a-study-on-windows-underused-monitors/"><u>Vs. Vs. - A Study on Windows' Underused Monitors</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ccelerate-engagement-the-best-12-ways-to-increase-video-popularity-for-2024/"><u>[New] Accelerate Engagement - The Best 12 Ways to Increase Video Popularity for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-no-installed-devices-in-windows-os/"><u>Correcting 'No Installed Devices' In Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-activatedisable-internet-safety-filter-in-win-11/"><u>How to Activate/Disable Internet Safety Filter in Win 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-meme-makers-dream-toolkit/"><u>In 2024, FREE Meme Makers' Dream Toolkit</u></a></li>
+<li><a href="https://win11.techidaily.com/no-cords-just-games-setting-up-ps3-controller/"><u>No Cords, Just Games: Setting Up PS3 Controller</u></a></li>
+<li><a href="https://win11.techidaily.com/opt-for-windows-10-why-it-still-wins-over-win11/"><u>Opt for Windows 10: Why It Still Wins Over Win11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-storportsys-blue-screen-errors-on-windows-11-a-step-by-step-guide/"><u>Resolving Storport.sys Blue Screen Errors on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-integration-of-chatgpt-into-windows/"><u>Seamless Integration of ChatGPT Into Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/seamless-slidecasts-combining-webcam-and-ppt-for-2024/"><u>Seamless Slidecasts Combining Webcam and PPT for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reestablish-xbox-mic-connection-on-windows-11/"><u>Steps to Reestablish Xbox Mic Connection on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamline-accessibility-a-compreenas-top-free-tts-apps-list-for-mac-users/"><u>Streamline Accessibility A Compreenas Top Free TTS Apps List for Mac Users</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/troubleshooting-windows-11-fix-file-history-issues-now/"><u>Troubleshooting Windows 11 - Fix File History Issues Now</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-poco-x6-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Poco X6 Pro? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

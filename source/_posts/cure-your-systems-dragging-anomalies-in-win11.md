@@ -1,7 +1,7 @@
 ---
 title: Cure Your System's Dragging Anomalies in Win11
-date: 2025-02-11T16:50:42.805Z
-updated: 2025-02-16T04:38:57.261Z
+date: 2025-03-02T23:42:57.601Z
+updated: 2025-03-04T17:00:11.828Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
  Left-click and hold the file or folder you want to drag and click the **Esc** key. Then, release the left click on your mouse, and check if you can drag and drop items after that.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Restart the Problematic App
 
  If the drag and drop feature is not working only in a specific app, such as Chrome or Outlook, there may be an issue with that app. You can try restarting the problematic app or program to fix the problem.
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 ![Close Programs Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-programs-using-task-manager.jpg)
 
  Reopen your app and check if the issue still occurs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run the Hardware and Devices Troubleshooter
 
@@ -70,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 3. In the Hardware and Devices window, click **Advanced** and tick the **Apply repairs automatically** checkbox.
 4. Click **Next** to run the troubleshooter.  
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-devices-troubleshooter-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Update or Reinstall Mouse Drivers
 
@@ -114,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 6. Similarly, set the value of the **DragWidth** entry value to **4**.  
 ![Drag and Drop Registry Entries on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/drag-and-drop-registry-entries-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart your PC after making the above changes and see if the drag and drop feature works after that.
 
 ## Effortlessly Move Your Files With Drag and Drop Functionality on Windows
@@ -128,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Q: How Do You Drag Maximized Windows in Windows 11?
 
  You drag maximized Windows in Windows 11 by pressing and holding down the Windows key and pressing an arrow key (right, left, up, or down arrow key). This changes your current window's position on your screen.
@@ -139,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 ### Q: How Do You Change Drag and Drop From Copy to Move in Windows 11?
 
  You can change drag-and-drops's action from copy to move by holding down the Shift key while dragging and dropping your files. This makes Windows move your files instead of copying them to a folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q: How Do You Drag and Drop From One Computer to Another?
 
@@ -160,20 +136,19 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-save-snapchat-videos-with-apps-on-android-and-mac-for-2024/"><u>[Updated] How to Save Snapchat Videos with Apps on Android and Mac for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-simplifying-the-process-sharing-tiktok-content-with-facebook/"><u>2024 Approved Simplifying the Process Sharing TikTok Content with Facebook</u></a></li>
-<li><a href="https://win-dash.techidaily.com/access-the-cutting-edge-magiccard-rio-pro-driver-a-must-have-software-for-windows-users/"><u>Access The Cutting-Edge Magiccard Rio Pro Driver: A Must-Have Software for Windows Users</u></a></li>
-<li><a href="https://win-unique.techidaily.com/answer-the-new-length-will-be-6-inches-12-72-inches-maintaining-proportionality-in-scale-increase/"><u>Answer: The New Length Will Be 6 Inches 1.2 = 7.2 Inches, Maintaining Proportionality in Scale Increase.</u></a></li>
-<li><a href="https://win11.techidaily.com/combatting-the-ea-server-offline-on-windows/"><u>Combatting the EA Server Offline On Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-bios-related-hard-drive-errors/"><u>Demystifying BIOS-Related Hard Drive Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/guides-to-fix-windows-operation-fail/"><u>Guides to Fix Windows Operation Fail</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-redmi-a2plus-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Redmi A2+?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-honor-x50-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Honor X50</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-media-showdown-podcasts-vs-youtube-in-the-modern-world/"><u>In 2024, Media Showdown Podcasts Vs. YouTube in the Modern World</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-xiaomi-civi-3-disney-100th-anniversary-edition-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Xiaomi Civi 3 Disney 100th Anniversary Edition Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-vpn-failure-to-reconnect-remote-pc/"><u>Overcoming VPN Failure to Reconnect Remote PC</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-prevent-unrecoverable-roblox-problems/"><u>Strategies to Prevent Unrecoverable Roblox Problems</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/streamline-workflow-learn-io-screen-recording/"><u>Streamline Workflow Learn IO Screen Recording</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-restore-the-functionality-of-your-windows-11-search-bar/"><u>Swiftly Restore the Functionality of Your Windows 11 Search Bar</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-achieve-slick-sound-segmentation-in-premiere/"><u>[New] How to Achieve Slick Sound Segmentation in Premiere</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-explore-the-10-most-influential-makeup-personalities-online/"><u>[New] In 2024, Explore the 10 Most Influential Makeup Personalities Online</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-navigating-the-social-maze-tweets-plus-tumble-videos/"><u>[Updated] 2024 Approved Navigating the Social Maze Tweets + Tumble Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-visualizing-2023-social-medias-next-big-thing-for-2024/"><u>[Updated] Visualizing 2023 Social Media's Next Big Thing for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-photo-challenger-nikon-a10-shot-user-slammed/"><u>Budget Photo Challenger: Nikon A10 Shot, User Slammed</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-oppo-a1x-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Oppo A1x 5G Lock Screen Password</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-6s-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 6s from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-identity-verification-a-deep-dive-into-ig-selfies/"><u>Mastering Identity Verification A Deep Dive Into IG Selfies</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-settings-in-windows-11/"><u>Mastering the Settings in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-no-save-photoerror-in-windows-11/"><u>Overcoming the 'No Save' PhotoError in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-keeping-the-taskbar-ready-while-maximized/"><u>Strategies for Keeping the Taskbar Ready While Maximized</u></a></li>
+<li><a href="https://win11.techidaily.com/uncover-cause-for-windows-11-icon-reduction/"><u>Uncover Cause for Windows 11 Icon Reduction</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-repair-top-10-methods/"><u>Unlocking Windows Repair: Top 10 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/win-the-battle-against-credential-lockup/"><u>Win the Battle Against Credential Lockup</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Avoiding Unauthorized User Error on Windows 11 & 11
-date: 2024-08-08T13:13:31.878Z
-updated: 2024-08-09T13:13:31.878Z
+date: 2025-02-26T04:22:14.917Z
+updated: 2025-03-04T19:36:22.401Z
 tags:
   - windows10
   - windows11
@@ -27,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 1. Open Microsoft Store by clicking the shortcut for that app on the Windows 11/10 Start menu.
 2. Click the user account button at the top of the MS Store.
 3. Select**Sign out** on the menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![The Sign out option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/microsoft-store-window.jpg)
 4. Then click the account button again to select**Sign in** .
 5. Input your Microsoft account details to sign back in.
@@ -46,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
  Some users have said the System File Checker (SFC) tool can help resolve the “Specified user does not have a valid profile” error. Running an SFC scan is worth a try since that’s a straightforward potential solution to apply. Our article about [running SFC scans in Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) tells you how to repair system files.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sfc-scannow-command.jpg)
 
 ## 4\. Take Ownership of the WindowsApps Folder
@@ -59,14 +53,8 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
  It’s recommended to input your target user account within the object name box for taking ownership.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![The Select User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/select-user-or-group-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Change the Location of an Affected App’s Folder
 
  It has also been confirmed that changing the location of folders that include affected apps can resolve the “Specified user does not have a valid profile” error. You’ll also need to take ownership of the WindowsApps folder to apply this potential solution. When you’ve done that, try moving an affected app’s folder out of WhatsApps like this:
@@ -86,18 +74,6 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
  If that doesn’t work, completely uninstall CloudPaging Player or Creo Trial to ensure such software cannot cause the “Specified user does not have a valid profile” error.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Perform a Clean Startup
 
  CloudPaging Player and Creo Trial might not be the only apps that can cause the “user does not have a valid profile” error. So, it’s recommended users disable other apps from starting with Windows by performing a clean boot.
@@ -108,16 +84,10 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
  When you’ve configured a clean startup, restart your PC and try launching the app again. If that works, you can leave the boot configuration as it is. If you prefer to undo the boot changes, you’ll need to identify what app is causing the valid profile error when it’s running in the background and keep it disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 8\. Reinstall the Affected Apps
 
  There could be an issue with the app that only reinstalling it will resolve. So, remove an affected app by opening Apps & Features, clicking its menu button, and selecting**Uninstall** . Windows 10 users only need to select the app in Settings and click**Uninstall** to remove it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-option.jpg)
 
  Open the app’s page within Microsoft Store. You can find it more easily by inputting the app’s title within Microsoft Store’s search box. Click the**Get** button to download and install the app you just removed.
@@ -128,14 +98,8 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
  As this issue can occur because of restricted account access, setting up a new admin account could be a potential fix. Follow the steps in our [guide to fixing Windows issues by setting up a new account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) to apply this possible solution. Then try opening the same app in the new user account. If that works, you can copy the data from your old account to the new one, as outlined within the linked guide.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-account-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Kick-Start Your Windows Apps With These Fixes
 
  Those are the best potential fixes for the “Specified user does not have a valid profile” error as confirmed by many users. If they’ve worked for other users, one of the above resolutions will probably fix the same issue on your PC. Then you’ll be able to open and utilize all the affected apps that previously didn’t start because of this error.
@@ -146,8 +110,6 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,6 +117,21 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-finding-lost-iphone-x-heres-what-you-can-do-for-2024/"><u>[New] Finding Lost iPhone X? Here's What You Can Do for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-interconnecting-your-music-collection-across-services/"><u>[New] Interconnecting Your Music Collection Across Services</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-optimal-viewing-settings-for-roblox-experience/"><u>2024 Approved Optimal Viewing Settings for Roblox Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-networking-error-asus-webcam-with-windows-11/"><u>Fixed Networking Error: ASUS Webcam with Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-delete-all-photos-from-iphone-14-beyond-scope-of-recovery-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Delete All Photos from iPhone 14 Beyond Scope of Recovery? | Stellar</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-poco-c50-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Poco C50 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/interactive-content-platform-audit-and-rating-for-2024/"><u>Interactive Content Platform Audit & Rating for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/most-advanced-iphone-videography-apps/"><u>Most Advanced iPhone Videography Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-6-premier-performance-trackers-for-pcs/"><u>Navigate Through 6 Premier Performance Trackers for PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-the-common-windows-update-failures/"><u>Rectifying the Common Windows Update Failures</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/seamlessly-downloading-hd-content-from-facebook/"><u>Seamlessly Downloading HD Content From Facebook</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-typical-rainmeter-glitches-on-pc/"><u>Solutions for Typical Rainmeter Glitches on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-dealing-with-immutable-windows-energy-modes/"><u>Tips for Dealing with Immutable Windows Energy Modes</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-update-error-code-0x800736cc/"><u>Troubleshooting Windows Update: Error Code 0X800736CC</u></a></li>
+</ul></div>
 

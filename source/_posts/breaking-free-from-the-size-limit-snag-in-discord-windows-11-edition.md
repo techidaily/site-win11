@@ -1,7 +1,7 @@
 ---
 title: Breaking Free From the Size Limit Snag in Discord (Windows 11 Edition)
-date: 2024-08-15T23:12:48.803Z
-updated: 2024-08-16T23:12:48.803Z
+date: 2025-03-04T04:48:02.180Z
+updated: 2025-03-04T19:19:36.074Z
 tags:
   - windows10
   - windows11
@@ -44,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 ![Resize image option in Ezgif wesbite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/resize-image.jpg)
 4. Click the **Save** icon.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Log Out and Back Into the Discord App
 
  Discord's "cannot resize GIF" error can also occur due to a temporary glitch or bug with your Discord account. In this case, the best solution is to log out and in on your Discord app. Here's how to do that:
@@ -54,48 +51,31 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 1. Launch Discord on your computer and click the **Gear icon** at the bottom left corner.
 2. Click the **Log Out** option on the left sidebar.  
 ![Log out option of Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/log-out-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 3. Enter your credentials and click the **Log In** button.
 
  After that, try to upload the GIF and check if you still face the error.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Clear the Discord Cache Data
 
  Discord's cache stores all your media, so you don't have to re-download them every time you see it. However, whether it's because of malware attacks, sudden system shutdowns due to power cuts, or something else, the cache data can get corrupted and cause issues like the one at hand.
 
  To fix this issue, you will have to [clear the Discord cache](https://www.makeuseof.com/tag/discord-users-free-up-disk-space/) on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Reinstall Discord
 
  The error message can also occur due to an issue in the Discord installation files. You can fix this by reinstalling Discord.
 
  To do that, first [uninstall the app on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and restart your computer. Then, visit the [Discord download page](https://discord.com/download) and install it on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 5\. Contact Discord Support
 
  Are you still facing the issue? If yes, that means this is probably an issue with your Discord account. In this case, the only solution is to reach out to the [Discord support](https://support.discord.com/hc/en-us) team and ask them to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Make Your Conversations Interesting With GIF Emotes on Discord
 
  It's very easy to upload and post GIF emotes on Discord. But sometimes you might encounter the "cannot resize GIF" error when you try to upload one.. Luckily, you can quickly solve the issue by following the above solutions.
 
  This error typically occurs when the GIF size exceeds Discord's supported limits. Fortunately, it's very easy to troubleshoot this error. Below, we'll look at various solutions to fix the Discord "cannot resize GIF" error on Windows.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -103,4 +83,19 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-loom-reel-detailed-guide-to-screen-capture/"><u>[Updated] 2024 Approved The Loom Reel Detailed Guide to Screen Capture</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-ultimate-flashback-2022s-snowboard-x-winners-for-2024/"><u>[Updated] Ultimate Flashback 2022'S Snowboard X Winners for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-windows-screens-unique-wallpapers-for-each-display/"><u>Customizing Windows Screens: Unique Wallpapers for Each Display</u></a></li>
+<li><a href="https://win11.techidaily.com/defeat-erratic-mouse-wheels-with-7-fixes/"><u>Defeat Erratic Mouse Wheels with 7 Fixes</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-samsung-galaxy-m14-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/method-for-turning-off-windows-defender-firewall/"><u>Method for Turning Off Windows Defender Firewall</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-multilingual-experience-in-win1011-via-quick-keys/"><u>Optimize Multilingual Experience in Win10/11 via Quick Keys</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/screen-recording-winners-pc-and-mac-edition-for-2024/"><u>Screen Recording Winners PC & Mac Edition for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-unseen-dangers-lurking-behind-low-cost-activation-codes/"><u>The Unseen Dangers Lurking Behind Low-Cost Activation Codes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-process-of-removing-old-gpt-chats/"><u>Unveiling the Process of Removing Old GPT Chats</u></a></li>
+</ul></div>
 

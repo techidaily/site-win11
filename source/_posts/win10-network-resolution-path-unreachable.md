@@ -1,7 +1,7 @@
 ---
 title: "Win10 Network Resolution: Path Unreachable"
-date: 2024-12-25T18:36:48.489Z
-updated: 2024-12-28T04:02:36.171Z
+date: 2025-03-02T20:23:28.712Z
+updated: 2025-03-04T20:26:08.537Z
 tags:
   - windows10
   - windows11
@@ -41,16 +41,8 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 ![Advanced sharing button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-properties-advanced-sharing.jpg)
 4. Checkmark the box associated with **Share this folder** and note the Share name of the drive.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Type folder name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-share-this-folder.jpg)
 5. Once done, click on **Apply** \> **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can now check if the drive is accessible after following the steps above.
 
@@ -77,18 +69,10 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 ![ipconfig all command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ipconfig-all.jpg)
 4. Scroll down and bit and note down the address for IPv4 Address.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ipv4 address in cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ipconfig-all-ipv4-address.jpg)
 5. Now, open a Run dialog again and paste the IPv4 Address you noted in the text field here.  
 ![ipv4 address in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/cmd-ipv4-address.jpg)
 6. Click **Enter** and see if you can connect to the remote computer successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Restart the TCP/IP NetBIOS Helper Service
 
@@ -102,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 4. Choose **Properties** from the context menu.  
 ![Properties of TCP/IP helper service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/services-tcp-ip-netbios-helper-properties.jpg)
 5. In the following dialog, click on the **Stop** button.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Stop button in Properties dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/services-tcp-ip-netbios-helper-stop.jpg)
 6. Wait for a few seconds and then click **Start**.
@@ -133,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 ![SMB 1.0 option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/smb-cifs-file-sharing-support.jpg)
 5. Click **OK** to save the changes and check if the error is now fixed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Modify Network Security Settings
 
  There can also be a problem with the network security settings of your computer, which might block access to shared resources, resulting in the error. Here is how you can ensure that you have the correct network settings to effectively communicate with other devices or resources on the network.
@@ -148,10 +124,6 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
 4. Expand the dropdown and choose **Send LM & NTLM-use NTLMv2 session security if negotiated**.  
 ![Modify network security settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/local-security-policy-settings.jpg)
 5. Click **Apply** \> **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reset TCP/IP
 
@@ -175,22 +147,19 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-navigating-url-integration-in-ig-stories-and-posts/"><u>[New] 2024 Approved Navigating URL Integration in IG Stories and Posts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-tactics-for-trimming-outside-fb-ads-for-2024/"><u>[New] Tactics for Trimming Outside FB Ads for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-captivate-your-circle-the-art-of-sending-gifs-on-snapchat/"><u>[Updated] 2024 Approved Captivate Your Circle The Art of Sending Gifs on Snapchat</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-spinning-jujutsu-kaisen-stories-on-tiktok/"><u>[Updated] 2024 Approved Spinning Jujutsu Kaisen Stories on TikTok</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-user-friendly-approach-to-getting-your-lenovos-fingerprint-feature-back-on-track/"><u>A User-Friendly Approach to Getting Your Lenovo's Fingerprint Feature Back On Track</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-8-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone 8 with/without SIM Card</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-detailed-guide-to-zoom-youtube-live/"><u>In 2024, Detailed Guide to Zoom YouTube Live</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/installment-challenge-overcoming-mspm-errors/"><u>Installment Challenge: Overcoming MSPM Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-cross-border-controls-the-complete-guide-to-powertoys/"><u>Mastering Cross-Border Controls: The Complete Guide to PowerToys</u></a></li>
-<li><a href="https://win11.techidaily.com/purging-windows-11-store-simple-steps/"><u>Purging Windows 11 Store: Simple Steps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/realign-video-components-on-pcs/"><u>Realign Video Components on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/saving-success-fixing-volume-mixer-glitches/"><u>Saving Success: Fixing Volume Mixer Glitches</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-steam-download-routines-for-windows-pcs/"><u>Speedy Steam Download Routines for Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-device-not-initialized-error-in-win-11/"><u>Troubleshooting 'Device Not Initialized' Error in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-full-potential-narrator-keybindings-decoded/"><u>Unlocking Full Potential: Narrator Keybindings Decoded</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11s-disruptive-layout-elements-a-review/"><u>Windows 11'S Disruptive Layout Elements: A Review</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-enhancing-video-content-iphoneipad-screen-capture-basics-for-2024/"><u>[Updated] Enhancing Video Content IPhone/iPad Screen Capture Basics for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-audio-capture-for-post-review/"><u>[Updated] In 2024, Audio Capture for Post-Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-virtual-audiences-audio-visual-makers/"><u>2024 Approved Virtual Audiences Audio-Visual Makers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-honor-play-8t-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Honor Play 8T FRP Bypass Instantly</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-performance-trimming-high-memorycpu-usage-by-news-and-interests-apps-on-windows/"><u>Boosting Performance: Trimming High Memory/CPU Usage by News & Interests Apps on Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/easy-steps-moving-your-contacts-and-files-from-an-old-iphone-to-a-new-iphone-xs/"><u>Easy Steps: Moving Your Contacts and Files From an Old iPhone to a New iPhone XS</u></a></li>
+<li><a href="https://win11.techidaily.com/master-autominimize-windows-woes-no-more/"><u>Master AutoMinimize: Windows Woes No More</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-power-indicator-designs-for-win-users/"><u>Masterful Power Indicator Designs for Win Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-mac-security-how-to-retrieve-stored-passwords-from-macos-keychain-tips-and-tricks/"><u>Mastering Mac Security: How to Retrieve Stored Passwords From macOS Keychain - Tips & Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-xbox-stranded-glitch-on-win11/"><u>Overcoming the Xbox Stranded Glitch on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/secrets-to-everlasting-deactivation-of-microsoft-defender/"><u>Secrets to Everlasting Deactivation of Microsoft Defender</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-starting-windows-search-service-problems/"><u>Solutions for Starting Windows Search Service Problems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streaming-made-easy-with-these-11-advanced-recording-tips-for-2024/"><u>Streaming Made Easy with These 11 Advanced Recording Tips for 2024</u></a></li>
 </ul></div>
 

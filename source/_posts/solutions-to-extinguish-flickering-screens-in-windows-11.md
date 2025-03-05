@@ -1,7 +1,7 @@
 ---
 title: Solutions to Extinguish Flickering Screens in Windows 11
-date: 2024-12-24T01:23:44.380Z
-updated: 2024-12-27T18:14:48.240Z
+date: 2025-03-04T04:15:23.617Z
+updated: 2025-03-05T02:13:36.009Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 
  If it's the former, follow the instructions below in order. If it's the latter, skip to step five. That said, if the advice there doesn't work, check the advice in the other sections too.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check Your Monitor and Cables
 
  If you have a flashing screen, the first thing to rule out is the hardware. Check all the cable connections from the monitor to the computer—take them out and plug them back in to ensure the cables are secure.
@@ -48,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
  If you have a spare monitor cable, try using it instead. Or buy a replacement online, since it's an inexpensive purchase. Cables can degrade over time, or maybe a pet has had a sneaky chew. Either way, switch the cable and see if it stops the screen flickering.
 
  If you can, try a different monitor. If this resolves the problem, you know it's your monitor that's the issue. At that point, contact the manufacturer for support or to raise a warranty claim.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Set the Correct Refresh Rate
 
@@ -62,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 To adjust your refresh rate:
 
 ![windows 11 advanced display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-advanced-display.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Press**Windows key + I** to open Settings.
 2. Click**System** \>**Display** .
@@ -127,10 +115,6 @@ Next, use Device Manager to uninstall the display driver:
 
  If this doesn't fix it,[your graphics card might be faulty or dying](https://www.makeuseof.com/signs-graphics-card-is-dying/) . Contact the manufacturer for support or to claim on the warranty.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Uninstall Problematic Applications
 
  Some apps are incompatible with Windows 10/11 and can cause screen flickering. Think about whether you installed any new software before the screen flashing began or if an app recently updated. In the past, three problematic apps have been Norton Antivirus, iCloud, and IDT Audio.
@@ -139,20 +123,12 @@ Next, use Device Manager to uninstall the display driver:
 
 ![windows 11 apps and features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-apps-and-features.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this doesn't work, uninstall the program. To do so:
 
 1. Press**Windows Key + I** to open Settings.
 2. Click**Apps** \>**Apps & features** .
 3. Click**Sort by** and choose**Installation date** .
 4. Click the offending app and click**Uninstall** . You may need to restart your system for the changes to take full effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Create a New Windows User Profile
 
@@ -187,18 +163,19 @@ To create a new account:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-androidiphones-best-free-imagery-modification-apps-ranked/"><u>2024 Approved Android/iPhone's Best FREE Imagery Modification Apps Ranked</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-safaris-picture-in-picture-feature-usage-guide/"><u>2024 Approved Safari's Picture-in-Picture Feature Usage Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-fixing-nspr4dll-error-messages/"><u>Comprehensive Guide to Fixing Nspr4.dll Error Messages</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-ways-to-recover-deleted-messages-on-your-phone-a-comprehensive-guide/"><u>Easy Ways to Recover Deleted Messages on Your Phone - A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-explorer-extraordinaire-unlocking-the-sixest-techniques-for-windows-11-path-duplication/"><u>Exploring Explorer Extraordinaire: Unlocking the Sixest Techniques for Windows 11 Path Duplication</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-vmware-blue-screen-errors-on-windows-11/"><u>Fixing VMware Blue Screen Errors on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/future-forward-workspace-microsoft-adds-ai-to-windows-11-boosting-productivity/"><u>Future-Forward Workspace: Microsoft Adds AI to Windows 11, Boosting Productivity</u></a></li>
-<li><a href="https://win11.techidaily.com/learn-to-detach-onedrive-from-msid-the-microsoft-identity-on-windows/"><u>Learn to Detach OneDrive From MSID, the Microsoft Identity on WINDOWS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-the-art-of-enhancing-facebook-video-sounds-on-your-pc-top-strategies-unveiled/"><u>Master the Art of Enhancing Facebook Video Sounds on Your PC - Top Strategies Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-windows-passwords-essential-guide-to-unlocking-credential-manager/"><u>Master Your Windows Passwords: Essential Guide to Unlocking Credential Manager</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-windows-11s-0x8007045d-bluescreen-troubleshooting/"><u>Navigating Through Windows 11'S 0X8007045D Bluescreen Troubleshooting</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-blend-top-5-monitors-for-seamless-color-grading/"><u>The Ultimate Blend Top 5 Monitors for Seamless Color Grading</u></a></li>
-<li><a href="https://win11.techidaily.com/top-4-portable-windows-platforms/"><u>Top 4 Portable Windows Platforms</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/apid-video-grabber-your-gateway-to-all-online-videos/"><u>[New] Rapid Video Grabber - Your Gateway to All Online Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-boosting-playback-speed-guidelines-for-secure-sound-enhancement/"><u>2024 Approved Boosting Playback Speed Guidelines for Secure Sound Enhancement</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-survivals-thrill-top-picks-for-heart-pounding-zombie-games/"><u>2024 Approved Survival's Thrill Top Picks for Heart-Pounding Zombie Games</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-unsuccessful-image-saving-on-win11-pc/"><u>Addressing Unsuccessful Image Saving on Win11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/clarifying-computer-storage-c-d-distinctions/"><u>Clarifying Computer Storage: C, D Distinctions</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-file-handling-in-win-11-by-adding-movecopy-menus/"><u>Elevate Your File Handling in Win 11 by Adding Move/Copy Menus</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensure-perfect-printing-with-modern-samsung-printer-drivers-free-download-guide/"><u>Ensure Perfect Printing with Modern Samsung Printer Drivers: Free Download Guide.</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-for-preventing-heat-in-w11-systems/"><u>Essential Steps for Preventing Heat in W11 Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/funimate-android-gameplay-apk-to-victory-guide-for-2024/"><u>Funimate Android Gameplay - APK to Victory Guide for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-14-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone 14 Apple ID and Apple Pay</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-infinix-hot-40-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Infinix Hot 40 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-rectifying-bluetooth-pin-related-disconnects/"><u>Mastering the Art of Rectifying Bluetooth PIN-Related Disconnects</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-of-amd-graphics-driver-updates-in-the-windows-ecosystem/"><u>Mastery of AMD Graphics Driver Updates in the Windows Ecosystem</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-steps-how-to-quickly-download-and-install-hbos-game-of-thrones-subtitles/"><u>Simple Steps: How to Quickly Download and Install HBO's Game of Thrones Subtitles</u></a></li>
 </ul></div>
 

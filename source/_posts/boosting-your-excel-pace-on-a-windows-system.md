@@ -1,7 +1,7 @@
 ---
 title: Boosting Your Excel Pace on a Windows System
-date: 2024-08-08T13:16:16.454Z
-updated: 2024-08-09T13:16:16.454Z
+date: 2025-02-26T18:35:25.609Z
+updated: 2025-03-04T21:22:49.086Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
  Before you consider switching to Excel’s web version or another alternative, try the following tips to boost Excel’s performance on your Windows computer.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## 1\. Run Excel in Safe Mode
 
  One of the most common reasons why Excel may run slowly on your Windows computer is if one of the add-ins is disrupting app processes. To investigate this possibility, you can run Excel in safe mode.
@@ -49,16 +46,10 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 2. Head to **File > Options**.
 3. In the **General** tab, select **Optimize for compatibility** under the **User Interface Options** section.
 4. Click **OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Optimize Excel for Compatiblity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/optimize-excel-for-compatiblity.jpg)
 
  Restart Excel after this and check if it still runs slowly or lags on your Windows computer.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Disable Hardware Graphics Acceleration
 
 [Hardware graphics acceleration](https://www.makeuseof.com/what-is-hardware-acceleration/) is a useful feature in Microsoft Excel that allows the app to use your GPU and enhance performance during graphics-related tasks. However, if this feature fails to work as expected, Excel may operate slowly on Windows.
@@ -76,14 +67,8 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
  To fix this, you can try enabling manual calculation mode in Excel. For that, switch to the **Formulas** tab, click the **Calculation Options** button, and select **Manual**. Following this, you can press **F9** any time you want Excel to recalculate.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Enable Manual Calculation in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-manual-calculation-in-excel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Reduce the Size of Your Excel File
 
  The larger your spreadsheet, the more calculations and operations Excel has to perform. This can have a negative impact on Excel's performance and lead to various problems. To avoid this, you can try reducing the size of your Excel workbook by decreasing the number of sheets, removing unnecessary formatting, and compressing any pictures within your workbook.
@@ -92,14 +77,8 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
 ## Save As Dialog in Excel
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Save As Dialog in Excel](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/save-as-dialog-in-excel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Update Microsoft Excel
 
  Are you using an outdated version of Excel? If so, you may be missing out on new features and performance enhancements. Try updating Excel on your PC and see if that improves its performance on your Windows computer.
@@ -111,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
  Wait for Microsoft Office to update Excel along with other Office apps and check if that fixes the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## 7\. Run the Office Repair Tool
 
  If updating Excel proves ineffective, there may be an issue with some of the core app files. In that case, you can try running the Office repair tool to fix the underlying issue. Here’s how to do it.
@@ -142,12 +118,31 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
  Before you consider switching to Excel’s web version or another alternative, try the following tips to boost Excel’s performance on your Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-run-a-sports-youtube-chain-on-macos/"><u>[New] 2024 Approved How to Run a Sports YouTube Chain on MacOS</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-professional-rapid-thumbnail-artistry-for-valorant-games/"><u>[New] In 2024, Professional Rapid Thumbnail Artistry for Valorant Games</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/advanced-power-protection-top-ups-technologies-dominating-the-market/"><u>Advanced Power Protection: Top UPS Technologies Dominating the Market</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-windows-update-failure-code-0xca00a009/"><u>Demystifying Windows Update Failure Code: 0XCA00A009</u></a></li>
+<li><a href="https://win11.techidaily.com/elite-selection-top-156-characters-nintendo-switch-simulators/"><u>Elite Selection: Top 156 Characters Nintendo Switch Simulators</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-storage-solutions-the-role-of-windows-iscsi-initiator/"><u>Exploring Storage Solutions: The Role of Windows iSCSI Initiator</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-overcoming-windows-net-core-demand/"><u>Guide to Overcoming Windows' .NET Core Demand</u></a></li>
+<li><a href="https://article-files.techidaily.com/how-to-change-video-speed-on-instagram-stories-for-2024/"><u>How to Change Video Speed on Instagram Stories for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unbeatable-deals-on-top-quality-budget-friendly-asmr-mics/"><u>In 2024, Unbeatable Deals on Top Quality, Budget-Friendly ASMR Mics</u></a></li>
+<li><a href="https://games-able.techidaily.com/maintaining-community-standards-implementing-twitch-user-controls/"><u>Maintaining Community Standards: Implementing Twitch User Controls</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-best-options-top-live-streaming-platforms-according-to-types/"><u>New In 2024, Best Options Top Live Streaming Platforms According to Types</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/pro-tips-for-the-best-pc-snipping-software-of-today/"><u>Pro Tips for the Best PC Snipping Software of Today</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-pin-inaccessibility-after-windows-11-software-errors/"><u>Restoring PIN Inaccessibility After Windows 11 Software Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-dual-programming-harmony-in-windows/"><u>Strategies for Dual Programming Harmony in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-approach-implementing-apple-maps-on-windows-pc/"><u>Tailored Approach: Implementing Apple Maps on Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-unpacking-directory-metrics-with-powershell/"><u>The Ultimate Guide to Unpacking Directory Metrics with PowerShell</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unlock-premium-quality-streaming-on-the-worlds-largest-network-for-2024/"><u>Unlock Premium Quality Streaming on the World's Largest Network for 2024</u></a></li>
+</ul></div>
 

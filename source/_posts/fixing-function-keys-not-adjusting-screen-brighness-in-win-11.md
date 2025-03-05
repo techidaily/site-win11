@@ -1,7 +1,7 @@
 ---
 title: Fixing Function Keys Not Adjusting Screen Brighness in Win 11
-date: 2025-02-12T17:36:38.213Z
-updated: 2025-02-16T04:39:44.979Z
+date: 2025-02-28T20:52:54.488Z
+updated: 2025-03-05T04:19:40.901Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Restart Your Computer
 
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
 2. Once you're in the Command Prompt window, type and execute the command below:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `msdt.exe -id DeviceDiagnostic`
 
  This will open the Hardware and Devices Troubleshooter window. Follow the on-screen instructions and complete the process to detect and fix any problems related to your keyboard and function keys. Once done, you can try using the brightness function key to adjust the screen's brightness.
@@ -72,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
 4. Scroll down to locate the Keyboard and then click**Run** .
 
  Once you complete the above steps, try using the brightness function key again to see if the issue is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Update the Keyboard Driver
 
@@ -100,10 +88,6 @@ To update the keyboard driver, follow these steps:
 ![Uninstall device in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-device-in-device-manager.jpg)
 3. Click**Uninstall** again to confirm and follow the on-screen instructions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After performing the above steps, restart your computer to reinstall the drivers. Once you power up again, check if the function key works now.
 
 ## 7\. Turn Off the Filter Keys
@@ -119,15 +103,7 @@ To update the keyboard driver, follow these steps:
 ![Turn on Filter Keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-on-filter-keys.jpg)
 5. Click**Apply** and then**OK** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now check if your keyboard is working properly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Scan for Malicious Programs
 
@@ -164,18 +140,24 @@ Now check if your keyboard is working properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-most-admired-iphone-based-podcast-platforms/"><u>[Updated] 2024 Approved Most Admired iPhone-Based Podcast Platforms</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-iphones-high-dynamic-range-photography-demystified/"><u>[Updated] IPhone's High-Dynamic Range Photography Demystified</u></a></li>
-<li><a href="https://win11.techidaily.com/conveniently-connecting-to-the-clouds-dropboxgoogle-drive-on-your-system-writes/"><u>Conveniently Connecting to the Clouds: Dropbox/Google Drive on Your System' Writes</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/exclusive-access-8-top-fb-link-extractors-for-2024/"><u>Exclusive Access 8 Top FB Link Extractors for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-non-functional-window-previews/"><u>Fixing Non-Functional Window Previews</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-infinix-hot-30-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Infinix Hot 30 5G</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-unleash-creative-expression-with-these-7-royalty-free-tunes/"><u>In 2024, Unleash Creative Expression with These 7 Royalty-Free Tunes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/mastering-money-making-top-13-strategies-for-novice-reddit-users-for-2024/"><u>Mastering Money-Making Top 13 Strategies for Novice Reddit Users for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-unlock-eye-catching-animations-top-10-text-generator-tools/"><u>New 2024 Approved Unlock Eye-Catching Animations Top 10 Text Generator Tools</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revolutionizing-digital-sketching-a-complete-guide-to-the-huion-kamvas-gt-191-tablet/"><u>Revolutionizing Digital Sketching: A Complete Guide to the Huion Kamvas GT-191 Tablet</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-version-control-github-desktop-for-windows-11-users/"><u>Tackling Version Control: GitHub Desktop for Windows 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/the-leap-from-8gb-to-16gb-why-it-matters-for-win-pcs/"><u>The Leap From 8GB to 16GB: Why It Matters for Win PCs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-5-minute-timelapse-video-maker/"><u>Ultimate 5-Minute Timelapse Video Maker</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-ultimate-t5-eye-cutting-edge-action-video-capture-for-2024/"><u>[New] Ultimate T5 Eye Cutting-Edge Action Video Capture for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-quick-guide-iphones-easiest-screen-recording-method/"><u>[Updated] 2024 Approved Quick Guide IPhone's Easiest Screen Recording Method</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-phonelinkexes-purpose-and-safety-for-windows-users/"><u>Deciphering PhoneLinkExe's Purpose and Safety for Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diablo-iv-quest-for-optimal-fps-and-loot-drop-rates-pc-user-guides-and-fixes/"><u>Diablo IV Quest for Optimal FPS & Loot Drop Rates - PC User Guides & Fixes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-steps-to-install-the-insignia-usbvga-connector-plus-free-software-download/"><u>Easy Steps to Install the Insignia USB/VGA Connector + Free Software Download</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-live-streams-mastering-intels-command-center-gaming/"><u>Elevate Live Streams: Mastering Intel's Command Center Gaming</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-for-free-your-90-day-trial-awaits/"><u>Final Cut Pro for Free Your 90-Day Trial Awaits</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-1011-unsigned-update-errors-quickly/"><u>Fixing Windows 10/11 Unsigned Update Errors Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-users-through-fixing-audio-driver-unsupported-issue/"><u>Guiding Users Through Fixing Audio Driver Unsupported Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-sonic-frontiers-crashing-when-going-full-screen-on-windows-11/"><u>How to Fix Sonic Frontiers Crashing When Going Full-Screen on Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://win11.techidaily.com/keep-your-tasks-at-the-forefront-top-notifications-techniques/"><u>Keep Your Tasks at the Forefront: Top Notifications Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lost-ark-gaming-improving-fps-and-addressing-lag-concerns/"><u>Lost Ark Gaming - Improving FPS & Addressing Lag Concerns</u></a></li>
+<li><a href="https://win-net.techidaily.com/master-the-art-of-self-made-picture-albums-using-flipbuilders-step-by-step-guide/"><u>Master the Art of Self-Made Picture Albums Using FlipBuilder's Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-android-battery-life-the-benefits-of-adaptive-charging-techniques/"><u>Maximize Android Battery Life: The Benefits of Adaptive Charging Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11-printer-connection-challenges/"><u>Navigating Windows 11 Printer Connection Challenges</u></a></li>
+<li><a href="https://win11.techidaily.com/realigning-the-skewed-discord-game-detector-for-windows-users/"><u>Realigning the Skewed Discord Game Detector for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-addressing-write-restricted-errors-in-windows-11/"><u>Strategies for Addressing Write-Restricted Errors in Windows 11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-real-deal-on-the-docooler-usb-20-12-megapixel-dslr-an-in-depth-camera-review/"><u>The Real Deal on the Docooler USB 2.0 12 Megapixel DSLR - An In-Depth Camera Review</u></a></li>
 </ul></div>
 

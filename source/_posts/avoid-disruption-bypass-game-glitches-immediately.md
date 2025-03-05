@@ -1,7 +1,7 @@
 ---
 title: Avoid Disruption - Bypass Game Glitches Immediately
-date: 2024-08-08T13:12:47.406Z
-updated: 2024-08-09T13:12:47.406Z
+date: 2025-03-03T00:47:09.373Z
+updated: 2025-03-04T22:32:07.792Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 
  Here we show you a few quick troubleshooting steps to fix the "exit code: 1" and get back to playing Minecraft on your Windows computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## 1\. Delete or Disable Outdated Mods
 
  The "exit code: 1" error can occur due to outdated mods. To resolve the error, check the Minecraft mods folder and delete it. Removing mods can break your worlds. So make sure to create a backup before attempting to remove any mods. Here’s how to do it.
@@ -30,23 +27,14 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 1. Press**Win + R** and type the following in the**Run** dialog:  
 `%appdata%\`
 2. Click**OK** to open the**AppData\\Roaming** folder in**File Explorer** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![appdata run dialog windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/appdata-run-dialog-windows-11.jpg)
 3. Next, open the**.minecraft** folder.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![minecraft mods folder windows file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-mods-folder-windows-file-explorer.jpg)
 4. Open the**mods** folder inside the**.minecraft** folder.
 5. Select and right-click on all the**mods** one by one and select**Delete** .
 
  Once all the mods are removed, close File Explorer and relaunch Minecraft to see if the error is resolved. On the flip side, you may find some Minecraft levels (worlds) broken upon launch. You may also want to re-download mods to make further modifications.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Repair Minecraft Launcher
 
  You can fix common problems with the Minecraft Launcher using the [built-in repair option on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) . During repair, Windows will look for common issues and try to fix them automatically. It will also delete the app’s data.
@@ -58,23 +46,14 @@ To repair Minecraft Launcher:
 3. Click on**Installed Apps** and search**Minecraft Launcher** .  
 ![minecrafft launcher advanced options windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecrafft-launcher-advanced-options-windows-11.jpg)
 4. Next, click the**three-dots menu** beside the app name and select**Advanced Options** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![repair minecraft launcher windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-minecraft-launcher-windows-11.jpg)
 5. Scroll down to the**Reset** section and click**Repair** . Windows will perform a quick repair and show a checkmark once the repair is complete.
 6. Relaunch Minecraft Launcher and check for any improvements.
 
  Similarly, you can also repair your Minecraft game. Open Minecraft’s**Advanced Options** and perform a repair in the**Settings** app.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Modify the Minecraft Launcher File Path
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![modify minecraft launcher file path working directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/modify-minecraft-launcher-file-path-working-directory.jpg)
 
  Issues with the Minecraft Launcher file path can cause the "exit code: 1" on Windows. If your user name has a special character, the Minecraft Launcher file path may not respond to a user account with a special character.
@@ -125,9 +104,6 @@ To backup Minecraft saves and uninstall the game:
 2. Paste the following in the**Run** field and click**OK** :  
 `%appdata%\`
 3. Open the**.minecraft** folder.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![delete minecraft data folder uninstall windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-minecraft-data-folder-uninstall-windows.jpg)
 4. Right-click on the saves folder and select**Copy (Ctrl +C)** .
 5. Paste the**saves** folder outside the**.minecraft** folder.  
@@ -150,13 +126,6 @@ C:\Users\[Username]\AppData\Roaming\.minecraft
 
  Intel users can download newer updates from the Windows update page. To do this, press Win + I to open Settings. Open Windows Updates and install any update available for your Intel graphics. Alternatively, check Intel’s website for newer display drivers for Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### Reinstall Java
 
 ![java runtime environment install windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/java-runtine-environment-install-windows.jpg)
@@ -170,23 +139,17 @@ To reinstall Java Runtime Environment:
 3. Run the installer and follow the on-screen instructions to complete installations.
 4. Once installed, restart your computer and check for any improvements.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing the Minecraft Exit Code: 1 Error
 
  Many things can go wrong and trigger the "exit Code: 1 error" in Minecraft. To resolve the issue, try to disable mods and change the Minecraft Launcher path. If the issue persists, check your graphics driver for the problem.
 
  If all else fails, perform a reinstall. You can reinstall Minecraft while keeping saves. If you are using the latest Microsoft Store version of the game, you can also uninstall it from the settings app.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -195,6 +158,24 @@ To reinstall Java Runtime Environment:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-editcanvas-solutions/"><u>[New] 2024 Approved EditCanvas Solutions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-maximize-impact-mastering-instagram-video-transforms-into-mp4/"><u>[Updated] In 2024, Maximize Impact Mastering Instagram Video Transforms Into MP4</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-rippleringers-finding-the-happiest-online-rhythms/"><u>[Updated] In 2024, RippleRingers Finding the Happiest Online Rhythms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-10-battle-royale-games/"><u>2024 Approved Top 10 Battle Royale Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-your-vintage-gamepads-power-sources-compatible-with-oled-switch/"><u>Are Your Vintage Gamepad's Power Sources Compatible with OLED Switch?</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-aggregatorhostexe-function-and-security-overview/"><u>Decoding Windows' AggregatorHost.exe: Function & Security Overview</u></a></li>
+<li><a href="https://win11.techidaily.com/deepening-understanding-of-microsoft-family-safety/"><u>Deepening Understanding of Microsoft Family Safety</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-cold-chronicles-the-2022-winter-olympics-in-china/"><u>In 2024, Cold Chronicles The 2022 Winter Olympics in China</u></a></li>
+<li><a href="https://win11.techidaily.com/journey-to-streamlined-browsing-chrome-on-windows-11/"><u>Journey to Streamlined Browsing: Chrome on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/masked-menu-mastery-vanishing-the-start-button-on-win11/"><u>Masked Menu Mastery: Vanishing the Start Button on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-cpu-management-reducing-ums-strain-on-windows-pcs/"><u>Mastering CPU Management: Reducing UMS Strain on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-custom-gpo-assignment-to-one-user-in-win-oses/"><u>Mastering the Art of Custom GPO Assignment to One User in Win OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-for-windows-image-error-0x80780119/"><u>Quick Fix for Windows' Image Error: 0X80780119</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-resource-lock-error-in-windows-oses-156-chars/"><u>Removing Resource Lock Error in Windows OSes (156 Chars)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m54-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M54 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95659178-9781633410343-the-witching-herbs/"><u>The Witching Herbs | Free Book</u></a></li>
+</ul></div>
 

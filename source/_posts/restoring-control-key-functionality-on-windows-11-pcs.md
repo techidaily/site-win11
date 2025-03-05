@@ -1,7 +1,7 @@
 ---
 title: Restoring Control Key Functionality on Windows 11 PCs
-date: 2024-12-24T22:12:08.478Z
-updated: 2024-12-28T02:42:20.079Z
+date: 2025-03-04T00:03:19.521Z
+updated: 2025-03-05T01:39:19.307Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Isn't the Ctrl Key Working on Windows 11?
 
@@ -52,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
 
 ![Keyboard layout on a Keyboard Testing website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/keyboard-layout.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the website doesn't recognize the Ctrl key input, it's probable that your keyboard has sustained damage. There might be debris or other particles that are responsible for the issue. In that case, use a gentle brush or a microfiber cloth to cleanse the affected area. If you need help, check out our guide on how to [clean beneath keyboard keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/).
 
 ## 3\. Use the Windows Troubleshooter
@@ -72,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
 4. Click the **Run** button next to Keyboard.  
 ![Keyboard troubleshooter in the setting menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Keyboard-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The troubleshooter will now look for any issues with your keyboard and try to fix them. However, if the keyboard troubleshooter fails to fix the issue, run the Hardware and Devices troubleshooter instead. For that, follow these instructions:
 
 1. Press the **Win + R** hotkey to open the Run dialog box.
@@ -84,15 +72,7 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
 4. Click **Next**.  
 ![Hardware and Devices troubleshooter window on Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hardware-and-devices-troubleshooter-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Hardware and Device troubleshooter will look for any available issues and fix them without much user input. After that, restart your computer and check for the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Change Keyboard Accessibility Settings
 
@@ -118,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
 4. Right-click on your keyboard driver and choose **Uninstall** **device**.
 5. Click **Uninstall** to confirm your selection.  
 ![Uninstall option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now, restart your computer. Upon restart, Windows will automatically reinstall the keyboard driver.
 
@@ -161,20 +137,17 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-explore-top-picks-for-high-resolution-4k-panels/"><u>[New] 2024 Approved Explore Top Picks for High-Resolution 4K Panels</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-inverted-playback-the-hidden-technique-for-a-reversed-youtube-list/"><u>[New] In 2024, Inverted Playback The Hidden Technique for a Reversed YouTube List</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-analysis-of-android-based-lightroom-software/"><u>[Updated] Comprehensive Analysis of Android-Based Lightroom Software</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-checklist-for-logitech-webcam-setup/"><u>[Updated] The Ultimate Checklist for Logitech Webcam Setup</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-a58-4g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo A58 4G</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-functional-status-of-windows-event-viewer/"><u>Ensuring Functional Status of Windows Event Viewer</u></a></li>
-<li><a href="https://win11.techidaily.com/experience-freed-digital-conversations-winstyle/"><u>Experience Freed Digital Conversations, WinStyle</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-surface-driver-software-effortlessly-downloaded-here/"><u>Get the Latest Surface Driver Software Effortlessly Downloaded Here!</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-increase-virtual-memory-in-windows-11/"><u>How to Increase Virtual Memory In Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/implementing-win-friendly-chatgpt-services/"><u>Implementing Win-Friendly ChatGPT Services</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-ultimate-guide-to-10-premium-vector-websites/"><u>In 2024, Ultimate Guide to 10 Premium Vector Websites</u></a></li>
-<li><a href="https://win11.techidaily.com/minecraft-wi-fi-connectivity-problems-solved-on-pc/"><u>Minecraft Wi-Fi Connectivity Problems, Solved on PC</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/optimal-hd-video-memory-creators/"><u>Optimal HD Video Memory Creators</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-invalid-profile-error-windows-xpvista7-solution/"><u>Tackling Invalid Profile Error: Windows XP/Vista/7 Solution</u></a></li>
-<li><a href="https://win11.techidaily.com/the-new-codex-of-operating-systems-post-windows-era/"><u>The New Codex of Operating Systems: Post-Windows Era</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-leading-photo-backdrop-alternatives-list/"><u>[Updated] 2024 Approved Leading Photo Backdrop Alternatives List</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-behind-the-scenes-how-to-flip-your-snaps/"><u>[Updated] Behind-the-Scenes How to Flip Your Snaps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-youtube-success-mastering-the-art-of-shorts-thumbnails/"><u>[Updated] Unlocking YouTube Success Mastering the Art of Shorts Thumbnails</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-image-navigation-using-file-explorer-windows/"><u>Effortless Image Navigation Using File Explorer Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-disappearances-in-system-navigator/"><u>Eradicating Disappearances in System Navigator</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/go-big-go-viral-channel-tiktok-trends-into-instagram-reels-for-2024/"><u>Go Big, Go Viral Channel TikTok Trends Into Instagram Reels for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-non-loading-drivers-functional-on-windows-11/"><u>How to Make Non-Loading Drivers Functional on Windows 11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-pro-photo-expertise-at-your-fingertips-with-these-tips/"><u>In 2024, Pro Photo Expertise at Your Fingertips with These Tips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-switching-up-your-iphones-call-sound-effectively/"><u>In 2024, Switching up Your iPhone's Call Sound Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/simultaneous-shutdown-techniques-for-windowed-applications/"><u>Simultaneous Shutdown Techniques for Windowed Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-non-windows-sniping-tools-for-quick-screen-capture/"><u>Top 5 Non-Windows Sniping Tools for Quick Screen Capture</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-realme-note-50-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Realme Note 50 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

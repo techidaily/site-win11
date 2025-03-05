@@ -1,7 +1,7 @@
 ---
 title: Steps for Eliminating Windows Generic Sound Problem
-date: 2024-12-31T17:09:13.815Z
-updated: 2025-01-06T17:59:38.301Z
+date: 2025-02-25T18:17:10.368Z
+updated: 2025-03-04T21:19:17.723Z
 tags:
   - windows10
   - windows11
@@ -49,18 +49,10 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/end-task-option.jpg)
 4. Click Task Manager’s **File** menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select **Run new task** on the menu.
 6. Then input **explorer** in Create new task.  
 ![The Create a new task tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-create-a-new-task-window.jpg)
 7. Select **Create this task with administrative privileges**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Click **OK** to restart Explorer.
 
@@ -82,14 +74,6 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 ![A USB Attached option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/usb-attached-option.jpg)
 6. Click **Apply this fix** if the Hardware and Devices troubleshooter suggests a resolution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Select the Quick Removal Option
 
  Selecting the **Quick Removal** option is another confirmed fix for the “Windows can’t stop your generic volume device” error. The **Quick Removal** option disables write caching. You can select the **Quick Removal** option for an affected drive using the following steps:
@@ -108,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 ![The Quick removal radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/quick-removal-option.jpg)
 8. Select **OK** to exit the device properties window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Deselect the Index Drive Setting
 
  Having file indexing enabled for an external USB drive can cause the “Windows can’t stop your generic volume” error. If that option is enabled, files copied onto your USB drive will be indexed, which can keep it in use for some time after transferring lots of files onto it.
@@ -123,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 3. Deselect the **Allow files on this drive to have contents indexed in addition to file properties** option.  
 ![The Allow files on this drive to have contents indexed box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/index-option.jpg)
 4. Select **Apply** and **OK** to set the drive’s new setting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Set the Connected USB Drive to Be in Offline Mode
 
@@ -140,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 `list disk`  
 ![The diskpart command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/list-disk-command.jpg)
 5. Next, execute this command to select your USB drive:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `select disk <drive number>`
 6. Finally, set the selected disk to offline by executing this command:  
@@ -184,21 +156,17 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-essential-media-makers-software-linux-edition/"><u>[Updated] 2024 Approved Essential Media Makers' Software Linux Edition</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-submerged-splendor-top-underwater-video-techniques-with-gopro/"><u>[Updated] Submerged Splendor Top Underwater Video Techniques with GoPro</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-upload-made-easy-your-device-based-guide-for-youtube-shorts-for-2024/"><u>[Updated] Upload Made Easy Your Device-Based Guide for YouTube Shorts for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/discover-the-leading-no-cost-photo-editor-apps-for-mac-a-comprehensive-guide-beyond-movavi/"><u>Discover the Leading No-Cost Photo Editor Apps for Mac: A Comprehensive Guide Beyond Movavi</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/elevate-your-aspects-of-sound-and-sight-in-asmr-recording-for-2024/"><u>Elevate Your Aspects of Sound and Sight in ASMR Recording for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-reno-8t-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo Reno 8T Devices</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-resolve-samsung-ssd-connectivity-issues-under-the-windows-os-complete-solution/"><u>How to Resolve Samsung SSD Connectivity Issues Under the Windows OS [Complete Solution]</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-virtualboxs-efail-windows-issue-0x80004005/"><u>Navigating Through Virtualbox's E_FAIL (Windows) Issue: 0X80004005</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-11-display-brightness-issues/"><u>Overcoming Windows 11 Display Brightness Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/prime-tools-excluding-microsofts-snipping-for-efficient-screen-grabbing/"><u>Prime Tools Excluding Microsoft's Snipping for Efficient Screen Grabbing</u></a></li>
-<li><a href="https://windows11.techidaily.com/python-server-setup-for-effective-windows-based-data-sharing/"><u>Python Server Setup for Effective Windows-Based Data Sharing</u></a></li>
-<li><a href="https://win11.techidaily.com/reconnecting-ethernet-on-windows-os/"><u>Reconnecting Ethernet on Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-memory-integrity-for-secure-windows-11/"><u>Reinstating Memory Integrity for Secure Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-for-missing-microphone-sounds-while-recording-on-pc/"><u>Remedy for Missing Microphone Sounds While Recording on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-your-computers-network-link/"><u>Restoring Your Computer's Network Link</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/survival-in-shambles-selecting-the-top-8-zombie-classics-for-2024/"><u>Survival in Shambles Selecting the Top 8 Zombie Classics for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-echo-of-tamil-syncing-songs-as-mobile-notifications/"><u>[New] Echo of Tamil Syncing Songs as Mobile Notifications</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-ultimate-toolwiz-photo-experience-analyzed-2023-for-2024/"><u>[New] The Ultimate Toolwiz Photo Experience, Analyzed 2023 for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/9-essential-functions-of-google-tv-every-user-needs-to-know/"><u>9 Essential Functions of Google TV Every User Needs to Know</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-lava-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Lava</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comprehensively-curated-list-15-prime-gear-for-gopro/"><u>Comprehensively Curated List 15 Prime Gear for GoPro</u></a></li>
+<li><a href="https://win11.techidaily.com/determine-your-pcs-wattage-usage-on-windows-system/"><u>Determine Your PC's Wattage Usage on Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/determining-optimal-nvidia-driver-gamingstudio-edition/"><u>Determining Optimal Nvidia Driver: Gaming/Studio Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-photoshopping-in-windows-11-without-hurdles/"><u>Enabling Photoshopping in Windows 11 Without Hurdles</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-innovative-brainstroming-techniques-for-channels-names/"><u>In 2024, Innovative Brainstroming Techniques for Channels' Names</u></a></li>
+<li><a href="https://win11.techidaily.com/keep-win10-fresh-actions-for-those-who-skip-11/"><u>Keep Win10 Fresh: Actions for Those Who Skip 11</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-image-clarity-with-windows-11s-enhanced-photo-app/"><u>Maximizing Image Clarity with Windows 11'S Enhanced Photo App</u></a></li>
+<li><a href="https://discover-best.techidaily.com/unlocking-the-full-potential-of-ai-key-lessons-from-abbyy-user-experiences/"><u>Unlocking the Full Potential of AI: Key Lessons From ABBYY User Experiences</u></a></li>
 </ul></div>
 

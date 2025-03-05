@@ -1,7 +1,7 @@
 ---
 title: Begin Your Digital Discourse with Windows 11
-date: 2024-08-08T13:16:13.661Z
-updated: 2024-08-09T13:16:13.661Z
+date: 2025-03-01T02:03:15.578Z
+updated: 2025-03-05T00:57:25.195Z
 tags:
   - windows10
   - windows11
@@ -26,18 +26,12 @@ thumbnail: https://thmb.techidaily.com/98f34ca3fe8cce60e4b7bdc2a18ea2c36cd4a116d
 
  To stop the Narrator from reading aloud, press**Caps Lock + Esc** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How to Start the Narrator Using a Run Command
 
  The Run command on a Windows operating system is a quick way to open an application or document. If you're using a screen reader or text-to-speech software on your Windows 11 computer, you can open it using the Run command. Here's how:
 
 1. Press**Win + R** on your keyboard. Doing so opens the Run dialog box.
 2. In the Run window that opens, type "Narrator" into the field and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![Open Narrator Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-run-command.jpg)
 3. The narrator will now launch and begin reading aloud whatever is on your screen.
 
@@ -49,16 +43,9 @@ thumbnail: https://thmb.techidaily.com/98f34ca3fe8cce60e4b7bdc2a18ea2c36cd4a116d
 2. Type "cmd" in the text box and press**Ctrl + Shift + Enter** .
 3. If UAC appears on the screen, click**Yes** to continue.
 4. In the Command Prompt window, type "narrator" and press Enter.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Narrator Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-command-prompt.jpg)
 5. The Narrator window will open, and you can start using the screen reader.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 4\. How to Start the Narrator With the Windows Search Tool
 
  If you're using a screen reader because you have vision problems, you know how important it is to be able to find things quickly on your computer. The Windows Search tool can help you do just that.
@@ -80,9 +67,6 @@ To open Narrator using Windows PowerShell, follow these steps:
 ![Open Narrator Using Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-windows-powershell.jpg)
 3. In the PowerShell window, type "narrator" and press Enter to start the Narrator.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. How to Start the Narrator Using Windows Settings
 
  On Windows, you can also open Narrator from the system settings to read texts aloud and use other voice commands. The steps are as follows:
@@ -90,9 +74,6 @@ To open Narrator using Windows PowerShell, follow these steps:
 1. Press**Win + I** on your keyboard to open System Settings.
 2. Click the**Accessibility** tab on the left side of the screen.
 3. Navigate to the**Vision** section and click**Narrator** .  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Narrator Using Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-windows-settings.jpg)
 4. Under the Use Narrator section, switch on the**Narrator** toggle.
 
@@ -106,9 +87,6 @@ To open Narrator using Windows PowerShell, follow these steps:
 3. Next, select**Easy of Access Centre** \>**Start Narrator** .
 4. The Narrator will start on your Windows 11 device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. How to Start Narrator With a Desktop Shortcut
 
  If you use Narrator often, you may want to consider creating desktop shortcuts that will quickly open it when you need it. Here's how to open Narrator using a desktop shortcut:
@@ -126,17 +104,11 @@ To open Narrator using Windows PowerShell, follow these steps:
 
 1. Right-click on the taskbar and select "Task Manager" from the menu that appears. You can also use**Ctrl + Shift + Enter** to open the tool directly.
 2. In the Task Manager window, click on the**Run new task** button.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Narrator Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-task-manager.jpg)
 3. Type "Narrator" in the text field and hit Enter.
 
  Close the Task Manager window and the Narrator should now be up and running.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## 10\. How to Start Narrator From File Explorer
 
  If you're looking for a quick way to open Narrator in Windows 11, there is no better way to do so than by using File Explorer. Here's how to do it:
@@ -160,14 +132,11 @@ That's all; your Narrator should now be ready to go.
 
  The Narrator tool is easy to use and can be very helpful for those who are visually impaired or have disabilities that make using a computer difficult. If you're running Windows 11 and want to open Narrator, now you know the best ways to do so.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -176,6 +145,24 @@ That's all; your Narrator should now be ready to go.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-narrative-techniques-for-impactful-documentaries/"><u>[New] Narrative Techniques for Impactful Documentaries</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-preventing-unseen-frames-in-video-captures/"><u>[Updated] 2024 Approved Preventing Unseen Frames in Video Captures</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-pin-based-login-barriers-in-win10win11/"><u>Conquering Pin-Based Login Barriers in Win10/Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-and-fixing-the-persistent-windows-update-error-code-0x80244022/"><u>Decoding and Fixing the Persistent Windows Update Error Code: 0X802#44022</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-realme-11x-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Realme 11X 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-to-recovering-from-faulty-asana-use-in-windows/"><u>Essential Guide to Recovering From Faulty Asana Use in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reconnect-with-missing-copilot-on-ws11-pcs/"><u>How To Reconnect With Missing Copilot On WS11 PCs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone 15 Pro?</u></a></li>
+<li><a href="https://win11.techidaily.com/rediscover-classic-games-enhancing-imagery-via-retroshaders/"><u>Rediscover Classic Games: Enhancing Imagery via RetroShaders</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-deleting-run-session-logs/"><u>Solutions for Deleting Run Session Logs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-audio-fading-in-lumafusion-software-for-2024/"><u>Step-by-Step Audio Fading in Lumafusion Software for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-overcoming-win11s-tpmsecure-boot-restrictions/"><u>Techniques for Overcoming Win11's TPM/Secure Boot Restrictions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-8-best-open-source-videoconference-systems-for-enterprises-today-for-2024/"><u>The 8 Best Open Source Videoconference Systems for Enterprises Today for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unclutter-desktop-techniques-for-window-arrangement-in-win11/"><u>Unclutter Desktop: Techniques for Window Arrangement in Win11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-chatbot-simulation-localize-for-free-with-gpt4all/"><u>Windows ChatBot Simulation: Localize for Free with GPT4All.</u></a></li>
+</ul></div>
 

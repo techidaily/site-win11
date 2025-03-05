@@ -1,7 +1,7 @@
 ---
 title: Awaken Your Windows 11 to Create Stunning AI Images with Paint Tool SAI
-date: 2024-08-08T13:15:02.280Z
-updated: 2024-08-09T13:15:02.280Z
+date: 2025-03-01T02:48:10.142Z
+updated: 2025-03-04T20:41:02.550Z
 tags:
   - windows10
   - windows11
@@ -18,18 +18,12 @@ thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d
 
  Microsoft plans to include AI in every nook and cranny of Windows 11, as evident from the Copilot feature and its integration in many Microsoft products. It is also testing a Cocreator feature for the Microsoft Paint app in the Windows Insider channel. This feature will enable users to harness the power of AI to create images using text inputs. Let’s dive into how it works.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is Paint Cocreator?
 
  Paint Cocreator is a feature embedded in the Microsoft Paint app. It can create multiple versions of images using DALL-E, an image-AI system based on the text inputs that you provide. Apart from that, it offers multiple styling options for the images, which you can use to generate images belonging to a particular theme.
 
  The Paint app has already received significant upgrades like the Fit to Window option, support for image layers, and a background removal feature.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Use the Paint Cocreator Feature
 
  The Paint Cocreator feature is in the experimental phase and available to Windows Insiders. If you have enrolled your PC in the Canary, Dev, or Beta channel of the [Windows Insider program](https://www.makeuseof.com/windows-11-insider-program-join/), you can try out the Cocreator feature. Release Preview Insider users will have to wait longer.
@@ -49,25 +43,11 @@ thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d
 3. Type a detailed description of the image you want to generate using AI. We typed “a cat wearing a pirate hat, riding a car, in the countryside, detailed”.
 4. Click on the dropdown list below the **Choose a style** option. Click on any option, or you can keep it as **no selection**.
 5. Click on the **Create** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![creating an image prompt in Paint cocreator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/creating-an-image-prompt-in-paint-cocreator.jpg)
 6. Wait for the feature to generate the images based on the prompt you provided. It can take a while to create the images and fetch them from the server. It will produce three sets of images for each prompt.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![Generated images in Paint cocreator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/generated-images-in-paint-cocreator.jpg)
 7. Once the images are generated, you can click on them to add to the image or empty canvas.
 8. To save the generated image, click on the **ellipses** icon of the image and select the **Save image** option.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![saving the generated image in Paint](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/saving-the-generated-image-in-paint.jpg)
 9. Name the image and click on the **Save** button to save it in a PNG format.
 
@@ -81,16 +61,11 @@ The ultimate burning program for all your needs!</a>
 
  In the experimental phase, you only get 50 credits to try out this feature. After that runs out, you can still use the Copilot to [generate images using the Bing Image Creator](https://www.makeuseof.com/how-use-bing-image-creator-free/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![Generating image using Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/generating-image-using-copilot.jpg)
 
 ## Generate AI Images in Paint
 
  Integrating the AI image generation feature inside the Paint app will be a boon for users. The app already has support for layers and a few other features which will surely reduce dependence on third-party apps for basic image annotation and editing. Non-Inisders will have to wait a little longer to try out Paint Cocreator.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -98,4 +73,20 @@ The ultimate burning program for all your needs!</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-streamlining-social-media-facebook-video-auto-play/"><u>[Updated] 2024 Approved Streamlining Social Media Facebook Video Auto-Play</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/blue-prism-and-abbyy-unite-to-elevate-customer-uptake-amidst-surge-in-intelligent-automation-demand-insights-from-abbyy-newsroom/"><u>Blue Prism and ABBYY Unite to Elevate Customer Uptake Amidst Surge in Intelligent Automation Demand - Insights From ABBYY Newsroom</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-xiaomi-14-pro-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Xiaomi 14 Pro.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-line-application-analysis-a-users-perspective/"><u>Comprehensive Line Application Analysis: A User's Perspective</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-your-win11-ui-icon-size-enhancement/"><u>Elevating Your Win11 UI: Icon Size Enhancement</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-soundscape-free-sound-blaster-audigy-fx-driver-software/"><u>Enhance Your Soundscape: Free Sound Blaster Audigy Fx Driver Software 🎧</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-tools-and-tricks-for-minecraft-recordings/"><u>Essential Tools and Tricks for Minecraft Recordings</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-13-pro-max-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro Max To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-steps-to-restarting-windows-explorer/"><u>Simple Steps to Restarting Windows Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/the-time-travelers-guide-to-windows-11-seven-enduring-elements/"><u>The Time Travelers' Guide to Windows 11: Seven Enduring Elements</u></a></li>
+<li><a href="https://win11.techidaily.com/top-strategies-for-overcoming-windows-updater-failure-code-0x800f080a/"><u>Top Strategies for Overcoming Windows Updater Failure Code 0X800F080A</u></a></li>
+</ul></div>
 

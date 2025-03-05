@@ -1,7 +1,7 @@
 ---
 title: "Boost File Navigation: Use Box for Selection in Win11"
-date: 2024-08-08T13:11:51.961Z
-updated: 2024-08-09T13:11:51.961Z
+date: 2025-02-28T21:08:12.121Z
+updated: 2025-03-05T00:51:36.499Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/33028f93fa14d69bbcfce2acf14136a66954cb281
 
  So, we'll share three ways you can enable the checkboxes in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## 1\. Enable Checkboxes Using the Command Bar
 
  The quickest way to enable checkboxes in File Explorer is through the command bar. Here's how:
@@ -31,18 +28,10 @@ thumbnail: https://thmb.techidaily.com/33028f93fa14d69bbcfce2acf14136a66954cb281
 2. Click the**View** option in the top bar.
 3. Click the**Show option** from the context menu that crops up.
 4. Select the**Item check boxes** option.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Item check boxes in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/item-check-boxes.jpg)
 
  That's it. You might need to restart your computer to see the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 2\. Enable Checkboxes Using the Folder Option
 
  The [Folder Option](https://www.makeuseof.com/windows-folder-options-guide/) is an incredible Windows feature using which you can configure important File Explorer settings. You can use it to [clear File Explorer history](https://www.makeuseof.com/windows-10-clear-file-explorer-search-address-bar-history/) , change privacy settings, and even enable checkboxes in File Explorer.
@@ -53,18 +42,6 @@ Here's how to use the Folder Option to enable the checkboxes:
 2. From the context menu, choose**Options.**
 3. In the Folder Options, switch to the**View** tab.
 4. Check the**Use check boxes to select items** option. It'll be under the**Files and Folders** section.  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Use check boxes to select items in Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/use-check-boxes-to-select-items.jpg)
 5. Click**Apply** and then**OK** to save the changes.
 
@@ -80,28 +57,19 @@ Here's how to use the Folder Option to enable the checkboxes:
 `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced`
 4. Double-click on the**AutoCheckSelect** entry in the right pane.
 5. Type**1** in the**Value data** and click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AutoCheckSelect Option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/autocheckselect-option.jpg)
 
  If you want to disable checkboxes, type**0** in AutoCheckSelect Value data and save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Enabling Checkboxes in the File Explorer
 
  The checkboxes option of the File Explorer allows you to select multiple items more efficiently. However, the feature is disabled by default in Windows 11 File Explorer. Fortunately, you can quickly enable it using either of the above methods.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,6 +78,21 @@ Here's how to use the Folder Option to enable the checkboxes:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-breaking-the-mold-how-to-create-a-standout-youtube-channel-name-for-2024/"><u>[New] Breaking the Mold How to Create a Standout YouTube Channel Name for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-becoming-an-ig-star-essential-management-tools-reviewed/"><u>[Updated] In 2024, Becoming an IG Star Essential Management Tools Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-15-activities-for-podcast-enthusiasts/"><u>[Updated] Top 15 Activities for Podcast Enthusiasts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-honor-x50-gt-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Honor X50 GT Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-display-issue-windows-11-now-shows-fullscreen/"><u>Corrected Display Issue - Windows 11 Now Shows Fullscreen</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-file-handling-a-guide-to-python-servers-in-windows/"><u>Efficient File Handling: A Guide to Python Servers in Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-itel-s23-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Itel S23 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-acer-aspire-e15-windows-11-driver-downloads/"><u>Latest Acer Aspire E15 Windows 11 Driver Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-steam-file-privilege-obstacles-in-win11/"><u>Overcoming Steam File Privilege Obstacles in Win11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/palette-perfection-in-11-step-by-step-lessons-for-2024/"><u>Palette Perfection in 11 Step-by-Step Lessons for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/prolonging-pc-shutdown-in-windows-10-with-open-apps/"><u>Prolonging PC Shutdown in Windows 10 With Open Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-window-sharing-rdp-tricks-for-win-11-users/"><u>Seamless Window Sharing: RDP Tricks for Win 11 Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/speed-up-instagrams-media-a-comparative-guide-for-2024/"><u>Speed Up Instagram's Media A Comparative Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/why-does-task-manager-show-extras-with-edge/"><u>Why Does Task Manager Show Extras with Edge?</u></a></li>
+</ul></div>
 

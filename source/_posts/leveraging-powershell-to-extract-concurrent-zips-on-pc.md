@@ -1,7 +1,7 @@
 ---
 title: Leveraging PowerShell to Extract Concurrent ZIPs on PC
-date: 2024-12-24T01:06:07.754Z
-updated: 2024-12-27T21:42:50.969Z
+date: 2025-03-03T19:34:37.828Z
+updated: 2025-03-04T17:52:42.716Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 ![The 7-Zip download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/7-zip-download-page.jpg)
 3. Click the pinned taskbar shortcut for [opening Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and go to the folder your browser downloaded 7-Zip to.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Double-click the **7z2301-x64** file.
 5. Click **Install** to install 7-Zip in the directory specified within the **Destination folder** box.
 6. Select **Close** to exit the installer.
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-extract-window.jpg)
 6. Select **OK** to extract the selected ZIP archives.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This will extract all the selected ZIP archives to different subfolders. Those extracted subfolders will have the same names as the ZIP files you extracted. Close out of 7-Zip and then bring up the directory you selected to extract the archives in to open the extracted folders from there.
 
@@ -74,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 ![The ExtractNow Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extractnow-setup-window.jpg)
 6. Click **Close** to open ExtractNow.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now it's time to use the app:
 
 1. Right-click inside the ExtractNow window and select **Add archives**.  
@@ -88,19 +76,11 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 ![The Extract option in ExtractNow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-button4.jpg)
 4. Then click **OK** **to All** to extract the selected archives to subfolders with titles that match the ZIP files within the same directory. Alternatively, you can manually select a different destination to extract each file within the Browse for Folder window and click **OK**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Browse for Folder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-for-folder.jpg)
 
  By default, this software will always ask you where to extract files. However, you can change ExtractNow to automatically unzip ZIP files without asking via its settings. To do so, click the **Settings** button and select the **Destination** tab. Then select the **Automatically extract archives to** radio button.
 
 ![The Destination tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/destination-tab.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to set a location to always extract selected ZIPs, click the **Browse for Folder** button; select a directory within the Browse for Folder window and click **OK**. Then select **OK** on the Settings window to save options.
 
@@ -122,15 +102,22 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-enhancing-iphone-x-security-mending-facial-detection-glitches/"><u>[Updated] 2024 Approved Enhancing iPhone X Security Mending Facial Detection Glitches</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-expert-strategies-for-clear-communication-on-google-meet/"><u>[Updated] 2024 Approved Expert Strategies for Clear Communication on Google Meet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-clear-up-cloudy-captures-uncover-the-best-10-web-enhancers-ranked/"><u>[Updated] Clear Up Cloudy Captures Uncover the Best 10 Web Enhancers Ranked</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-honor-x50i-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Honor X50i Without PUK Codes</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-stealthy-toolbar-additions-in-win-1011/"><u>Mastering Stealthy Toolbar Additions in Win 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-overcome-the-windows-11-v22h2-update-hurdle/"><u>Techniques to Overcome the Windows 11 V22H2 Update Hurdle</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-solution-for-error-code-3-with-nvidia-windows/"><u>Unveiling the Solution for Error Code 3 with NVIDIA, Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11-unbundled-outstanding-non-native-software/"><u>Win 11 Unbundled: Outstanding Non-Native Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-recovering-a-stopped-up-link-to-your-obs-cam/"><u>[New] In 2024, Recovering a Stopped-Up Link to Your OBS Cam</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unraveling-virtual-realitys-interactive-gear/"><u>[Updated] Unraveling Virtual Reality's Interactive Gear</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-data-analytics-methods-for-market-research-analysis/"><u>2024 Approved Advanced Data Analytics Methods for Market Research Analysis</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-essential-tips-on-acquiring-profitable-yt-channels/"><u>2024 Approved Essential Tips on Acquiring Profitable YT Channels</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-language-top-8-free-and-accurate-srt-translators/"><u>2024 Approved Unlocking Language Top 8 Free & Accurate SRT Translators</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-youtube-fixed-shorts-are-now-easily-accessible/"><u>2024 Approved YouTube Fixed Shorts Are Now Easily Accessible</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-retry-interval-for-unsuccessful-login-attempts/"><u>Adjusting Retry Interval for Unsuccessful Login Attempts</u></a></li>
+<li><a href="https://win11.techidaily.com/beginning-the-speedy-support-function-of-w11/"><u>Beginning the Speedy Support Function of W11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-freespace-a-comprehensive-windows-approach/"><u>Enhancing FreeSpace: A Comprehensive Windows Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-to-rectify-predominant-windows-anydesk-mishaps/"><u>Essential Steps to Rectify Predominant Windows AnyDesk Mishaps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-tackling-video-upload-snags-your-pathway-to-success-on-fb/"><u>In 2024, Tackling Video Upload Snags Your Pathway to Success on Fb</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-fitbit-charge-4-a-perfect-blend-of-design-and-functionality/"><u>In-Depth Analysis of the Fitbit Charge 4 - A Perfect Blend of Design & Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-inoperative-windows-11-speech-recognition/"><u>Resolving Inoperative Windows 11 Speech Recognition</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-winerror-with-code-0x8019/"><u>Resolving WinError with Code 0X8019</u></a></li>
+<li><a href="https://win11.techidaily.com/the-starting-line-in-diablo-basic-play-wisdom/"><u>The Starting Line in Diablo: Basic Play Wisdom</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-correcting-unresponsive-video-files/"><u>Tips for Correcting Unresponsive Video Files</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-list-best-windows-11-webcams-for-recording/"><u>Ultimate List Best Windows 11 Webcams for Recording</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 'Essential Elements' Warning on Windows 11/Win11
-date: 2025-02-12T18:37:08.860Z
-updated: 2025-02-15T23:04:34.928Z
+date: 2025-03-03T02:25:18.939Z
+updated: 2025-03-04T19:52:36.767Z
 tags:
   - windows10
   - windows11
@@ -73,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![The I accept the agreement radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-i-accept-radio-button.jpg)
 4. Click **Next** to proceed to an offer for installing a Bing Bar.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Uncheck the **Install the Bing Bar** checkbox if you don’t want that software.  
 ![The Install the Bing Bar checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-bing-bar-option.jpg)
 6. Select **Next** to install the required DirectX components.
@@ -85,33 +81,17 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
 
  Check out [how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Verify the Affected Game Within Your Game Launcher
 
 ![The Verify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-verify-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A few users say verifying games’ files works for fixing the “following components are required” error. You can only perform this step if you bought and downloaded the game using one of the big game launcher apps, such as Steam, Epic Games, EA Desktop, and Origin.
 
  If you're unsure how to do this, check out [how to repair game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Affected Game or Software
 
@@ -120,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
  Reinstalling games or any other software this error affects is worth a try since that will restore any missing files. You can uninstall some games via **Programs and Features** as covered in our guide to [uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). If you don’t see the game listed there, you’ll probably have to uninstall it via its client software, such as Epic Games.
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/programs-and-features.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then reinstall the latest version of the game by downloading it from its official site. If installed with Steam or Epic, or other launcher software, you’ll need to select to reinstall the game via its gaming client. Or reinstall the game from its Microsoft Store page if that’s where you purchased it.
 
@@ -147,20 +123,18 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-how-to-make-instagram-highlight-covers/"><u>[New] How to Make Instagram Highlight Covers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-gpts-evolutionary-journey-from-1-to-4/"><u>Decoding GPT's Evolutionary Journey From 1 to 4</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/diy-movie-previews-made-easy-with-our-free-digital-trailer-crafting-platform/"><u>DIY Movie Previews Made Easy with Our Free Digital Trailer Crafting Platform</u></a></li>
-<li><a href="https://win11.techidaily.com/enable-dark-visual-settings-in-wincalc-app/"><u>Enable Dark Visual Settings in WinCalc App</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-guide-procuring-mac-address-on-windows-11-devices/"><u>Essential Guide: Procuring MAC Address on Windows 11 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-uncharted-with-w11s-upcoming-moment-update/"><u>Exploring the Uncharted with W11's Upcoming Moment Update</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-xr-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone XR to an Older iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-undo-personalized-windows-sleep-settings/"><u>How To Undo Personalized Windows Sleep Settings</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-through-the-tablet-wars-amazon-fire-vs-samsung-which-one-wins-for-you/"><u>Navigating Through the Tablet Wars: Amazon Fire Vs. Samsung, Which One Wins for You?</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-data-disasters-in-windows-systems/"><u>Preventing Data Disasters in Windows Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/self-reflection-and-insight-the-gpt-way/"><u>Self-Reflection and Insight: The GPT Way</u></a></li>
-<li><a href="https://win11.techidaily.com/the-insiders-look-at-notifications-on-win-11/"><u>The Insider’s Look at Notifications on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-access-steps-to-locate-and-restore-your-hidden-pin-in-win-11/"><u>Unlocking Access: Steps to Locate and Restore Your Hidden PIN in Win 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/xtreme-old-phone-photos-the-ultimate-archive/"><u>Xtreme Old Phone Photos – The Ultimate Archive</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-deciphering-ios-mechanism-for-image-capture/"><u>[New] Deciphering IO's Mechanism for Image Capture</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-punchline-perfection-creating-memes-that-make-people-tickle/"><u>[New] In 2024, Punchline Perfection Creating Memes that Make People Tickle</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-navigating-instagrams-authenticity-rules-for-2024/"><u>[Updated] Navigating Instagram’s Authenticity Rules for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-shorts-description-everything-you-should-know/"><u>[Updated] YouTube Shorts Description Everything You Should Know</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-share-on-major-networks-facebook-twitter-instagram-and-youtube-explained/"><u>Connect and Share on Major Networks: Facebook, Twitter, Instagram & YouTube Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/discarding-the-extraneous-six-strategies-for-streamlined-windows-11-mail-views/"><u>Discarding the Extraneous: Six Strategies for Streamlined Windows 11 Mail Views</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone X</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/iphone-photo-management-guide-for-albums-and-cloud-storage/"><u>IPhone Photo Management Guide for Albums & Cloud Storage</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-interconnectivity-with-samsungs-flow-app/"><u>Mastering Interconnectivity with Samsung's Flow App</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-outlook-how-to-overcome-0x80072746-errors/"><u>Streamlining Outlook: How to Overcome 0X80072746 Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/uniting-two-cameras-error-elimination-code-0xa00f4243/"><u>Uniting Two Cameras: Error Elimination (Code 0xA00F4243)</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windows-update-nomenclature/"><u>Unveiling Window's Update Nomenclature</u></a></li>
 </ul></div>
 

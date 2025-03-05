@@ -1,7 +1,7 @@
 ---
 title: The Photographer's Keyboard Handbook for Windows
-date: 2024-12-25T20:42:19.026Z
-updated: 2024-12-28T00:15:26.471Z
+date: 2025-02-28T02:15:18.776Z
+updated: 2025-03-05T00:11:39.719Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 
  The shortcut to play or pause the video in the Photos app is the**Spacebar** . Pressing this key will either start or stop a currently playing video, depending on its current state.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Rotate an Image
 
  To rotate an image in the Photos app, press the**Ctrl + R** key. This will rotate the image 90 degrees clockwise with each press.
@@ -65,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 
  The shortcut to save in the Photos app is the**Ctrl + S** key. This will save any changes made to a photo or video.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 9\. Print
 
  In the Photos app, the shortcut to print is the**Ctrl + P** key. This will open up a print dialogue box, allowing you to select the printer, paper size, quality, and other options before printing.
@@ -89,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 
  The shortcut to redo changes in the Photos app is the**Ctrl + Y** key. This will redo any changes that were undone with the Ctrl + Z key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 14\. View Original
 
  The shortcut to view the original version of a photo or video in the Photos app is the**Ctrl + /** key. This will show the image or video as it was before any edits were made.
@@ -100,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 ### 15\. Start a Slide Show
 
  The shortcut to start a slide show in the Photos app is the**F5** key. This will open up a full-screen slideshow of all the images and videos in the current folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 16\. Stop a Slide Show
 
@@ -113,25 +97,13 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 
  The shortcut to view file info in the Photos app is the**Alt + Enter** key. This will open up a window with detailed information about the selected photo or video, such as its size, and more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 18\. Set As Lock Screen
 
  The shortcut to set a photo or video as the lock screen in the Photos app is the**Ctrl + L** key. This will open up a window where you can select the image or video to be used as your lock screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 19\. Create a New Album
 
  In the Photos app, the shortcut for creating a new album is the**Ctrl + N** key. This will open up a window where you can enter the name and description of the new album.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 20\. Remove the Album
 
@@ -140,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 ### 21\. Move Within the Photo
 
  The shortcut to move within a photo in the Photos app is the**Arrow** key. Using the left and right arrow keys will allow you to quickly scroll through the photo, while the up and down arrows will zoom in and out.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 22\. Select an Item and Enter the Selection Mode
 
@@ -160,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 ### 25\. Move Crop or Selective Focus Area
 
  The shortcut to move the crop or selective focus area in the Photos app is the**Ctrl + Arrow** keys. Holding down the Ctrl key while using the arrow keys will allow you to move the crop or selective focus area.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Photos App Has More to Offer
 
@@ -184,24 +148,21 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-the-path-to-igtv-fame-5-growth-strategies-explored/"><u>[New] Navigating the Path to IGTV Fame 5 Growth Strategies Explored</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-top-5-emulators-for-reviving-ps1-classics-on-pc/"><u>[New] Top 5 Emulators for Reviving PS1 Classics on PC</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-navigating-zoom-to-elevate-your-facebook-lives-for-2024/"><u>[Updated] Navigating Zoom to Elevate Your Facebook Lives for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-iphone-13-mini-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From iPhone 13 mini? How to Fix it?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/best-8-free-4k-uhd-video-player-software-for-windows-pcandmac/"><u>Best 8 Free 4K UHD Video Player Software for Windows PC&Mac</u></a></li>
-<li><a href="https://win11.techidaily.com/customize-your-windows-11-directory-exposure/"><u>Customize Your Window's 11 Directory Exposure</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-get-around-regedit-is-not-found/"><u>How to Get Around Regedit Is Not Found</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-preserve-your-custom-audio-settings-on-windows/"><u>How to Preserve Your Custom Audio Settings on Windows</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-auditory-ambience-finder-for-film-and-video-sets/"><u>In 2024, Auditory Ambience Finder For Film and Video Sets</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-c67-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme C67 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-uncomplicated-guide-to-shooting-breatomed-time-lapses-with-gopro-hero5-black/"><u>In 2024, The Uncomplicated Guide to Shooting Breatomed Time-Lapses with GoPro Hero5 Black</u></a></li>
-<li><a href="https://win11.techidaily.com/master-plan-restore-google-drive-sync-on-your-desktop/"><u>Master Plan: Restore Google Drive Sync on Your Desktop</u></a></li>
-<li><a href="https://discover-data.techidaily.com/maximize-pc-performance-by-clearing-up-memory-space-guidance-from-yl-computing-solutions/"><u>Maximize PC Performance by Clearing Up Memory Space - Guidance From YL Computing Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-maze-of-common-rainmeter-challenges-on-pcs/"><u>Navigating the Maze of Common Rainmeter Challenges on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-for-no-saving-problem-with-photoapp/"><u>Remedy for 'No Saving' Problem with PhotoApp</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-windows-pin-modification/"><u>The Ultimate Guide to Windows PIN Modification</u></a></li>
-<li><a href="https://win11.techidaily.com/turbo-upgrade-top-5-tools-to-supercharge-your-pc/"><u>Turbo Upgrade: Top 5 Tools to Supercharge Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-security-reboot-a-guide-to-altering-rules/"><u>Windows Security Reboot: A Guide to Altering Rules</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/zdnet-reveals-the-groundbreaking-feature-of-the-new-google-pixel-9-innovative-satellite-emergency-messaging-for-android-devices/"><u>ZDNet Reveals: The Groundbreaking Feature of the New Google Pixel 9 - Innovative Satellite Emergency Messaging for Android Devices</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-compreehers-guide-to-srt-file-flexibility-for-2024/"><u>[New] The Compreeher’s Guide to SRT File Flexibility for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-masterclass-in-capturing-high-quality-vimeo-videos/"><u>[Updated] 2024 Approved Masterclass in Capturing High-Quality Vimeo Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-top-8-viral-vids-capturing-social-medias-attention/"><u>[Updated] Top 8 Viral Vids Capturing Social Media's Attention</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-monetization-techno-gamerz-youtube-income-2024/"><u>[Updated] YouTube Monetization Techno Gamerz YouTube Income 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/controlling-external-hard-drive-access-in-windows/"><u>Controlling External Hard Drive Access in Windows</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/convert-mov-files-to-mp4-for-free-easy-tools-compatible-with-all-platforms-including-mac-and-windows-11/"><u>Convert MOV Files to MP4 for Free: Easy Tools Compatible with All Platforms Including Mac & Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphered-doorkeeper-no-swift-shift-to-new-solution/"><u>Deciphered Doorkeeper? No Swift Shift to New Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-ii-resurrected-understanding-and-fixing-the-games-crashing-glitches/"><u>Diablo II Resurrected - Understanding and Fixing the Game's Crashing Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-gameplay-tips-for-addressing-lag-issues-on-avatar-frontiers-of-pandora/"><u>Effortless Gameplay: Tips for Addressing Lag Issues on Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://win11.techidaily.com/fresh-start-on-walls-top-3-techniques/"><u>Fresh Start on Walls: Top 3 Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/getting-started-the-windows-11-guide-to-altering-fax-cover-pages/"><u>Getting Started: The Windows 11 Guide to Altering Fax Cover Pages</u></a></li>
+<li><a href="https://win11.techidaily.com/must-remember-tips-for-clean-installation-of-windows/"><u>Must-Remember Tips for Clean Installation of Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sensory-engaging-e-commerce-platforms/"><u>Sensory Engaging E-Commerce Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-how-to-view-excel-files-in-notepad/"><u>Tips: How to View Excel Files in Notepad</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-garden-with-illumination-magic-the-new-govee-permanent-outdoor-lighting-range-that-shines-brighter-than-before-perfect-for-a-quick-setup-this247/"><u>Transform Your Garden with Illumination Magic: The New Govee Permanent Outdoor Lighting Range That Shines Brighter Than Before, Perfect for a Quick Setup This Saturday or Sunday!</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-responsive-desktop-menus-in-win-1011/"><u>Troubleshooting Non-Responsive Desktop Menus in Win 10/11</u></a></li>
 </ul></div>
 

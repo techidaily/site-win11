@@ -1,7 +1,7 @@
 ---
 title: Enabling Active Audio Input on OBS Studio - Windows 11 Guide
-date: 2025-02-09T16:47:08.924Z
-updated: 2025-02-16T00:56:54.900Z
+date: 2025-03-03T02:02:14.316Z
+updated: 2025-03-05T01:37:08.081Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart OBS Studio
 
  Before getting into advanced troubleshooting, consider restarting OBS Studio. The best way is to[launch the Task Manager](https://www.makeuseof.com/windows-open-device-manager/) and close all the OBS Studio-related processes.
@@ -46,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 3. Check the**Run this program as an administrator** option.  
 ![Run as admin option for OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-as-admin-option.jpg)
 4. Click**Apply** \>**OK** to save the settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Unmute OBS Studio in the Settings App
 
@@ -77,14 +69,6 @@ Restart OBS Studio and check if the problem persists.
 ![Set as default option in Sound properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/set-as-default-option.jpg)
 5. Click**Apply** and then**OK.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Allow OBS Studio to Access Microphone
 
 [Windows 11 is big on privacy and security](https://www.makeuseof.com/windows-11-privacy-options-explained/) . The OS lets you allow or restrict apps from accessing certain services of your computer. For instance, you can restrict apps from using the microphone on your computer.
@@ -96,10 +80,6 @@ Restart OBS Studio and check if the problem persists.
 3. Enable the toggle next to the**Microphone access** option.  
 ![Microphone access option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microphone-access.jpg)
 4. Next, enable the toggle next to**Let desktop apps to access your microphone** option.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Allow desktop apps to access microphone option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-desktop-apps-to-access-microphone.jpg)
 
@@ -117,10 +97,6 @@ Restart OBS Studio and check if the problem persists.
 ![Audio settings of OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/audio-settings.jpg)
 6. Choose**Apply** \>**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7 . Adjust the Audio Mixer Settings
 
  The next solution on the list is to adjust the audio mixer settings of the OBS Studio. Here's how:
@@ -137,14 +113,6 @@ Restart OBS Studio and check if the problem persists.
 6. Under the**Audio Monitoring** tab, choose**Monitor** **and Output** for**Desktop Audio** and**Monitor Only** **(mute output)** for**Mic/Aux.**  
 
 ![Adjusting Advanced Properties in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adjusting-advanced-properties.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Download the Latest Audio Driver Updates
 
@@ -185,24 +153,22 @@ You can do that by following the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-melody-filled-visuals-the-fusion-project/"><u>[New] Melody-Filled Visuals The Fusion Project</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-download-instagram-highlights-in-2-ways/"><u>[Updated] In 2024, How to Download Instagram Highlights in 2 Ways?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-asus-tuf-gaming-a14s-durability-and-performance/"><u>Comprehensive Analysis of Asus TUF Gaming A14's Durability and Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/cut-the-excess-12-non-essential-windows-software-for-removal/"><u>Cut the Excess: 12 Non-Essential Windows Software for Removal</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-mystery-of-non-adjustable-gif-sizes-on-discowin11/"><u>Decoding the Mystery of Non-Adjustable GIF Sizes on DiscoWin11</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-windows-11-firewall-on-demand/"><u>Disabling Windows 11 Firewall on Demand</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-realme-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Realme</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-method-to-address-error-0x80246007-on-win11/"><u>Efficient Method to Address Error 0X80246007 on Win11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-change-or-reset-the-password-protecting-screen-time-on-apple-devices/"><u>How to Change or Reset the Password Protecting Screen Time on Apple Devices</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-from-fandom-to-fame-gamers-livestream-success-strategies/"><u>In 2024, From Fandom to Fame Gamers' Livestream Success Strategies</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-industry-insiders-reveal-their-favorite-gif-makers/"><u>In 2024, Industry Insiders Reveal Their Favorite GIF Makers</u></a></li>
-<li><a href="https://win11.techidaily.com/patching-the-black-screen-problem-in-window-8-pcs/"><u>Patching the Black Screen Problem in Window 8 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/pinpoint-disk-technology-using-windows-features/"><u>Pinpoint Disk Technology Using Windows Features</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstation-plus-weighing-the-subscription-value-against-fee/"><u>PlayStation Plus: Weighing the Subscription Value Against Fee</u></a></li>
-<li><a href="https://win11.techidaily.com/revise-record-times-essential-tools-for-altering-createdmodified-dates-in-win8/"><u>Revise Record Times: Essential Tools for Altering Created/Modified Dates in Win8</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/set-up-windows-defender-firewall-with-specific-rules-that-limit-access-to-your-nas-ports-such-as-smb-default-is-445-rdp-3389-etc-only-from-authorized-device167/"><u>Set up Windows Defender Firewall with Specific Rules that Limit Access to Your NAS Ports, Such as SMB (Default Is 445), RDP (3389), Etc., Only From Authorized Devices or IP Ranges.</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-steam-disk-errors-on-pc/"><u>Troubleshooting Steam Disk Errors on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-power-of-dism-in-win11-repairs/"><u>Unlocking the Power of Dism in Win11 Repairs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-prime-6-social-sites-boosting-biz-success/"><u>[New] 2024 Approved Prime 6 Social Sites Boosting Biz Success</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-a-wealthy-beauty-channel-host/"><u>Becoming a Wealthy Beauty Channel Host</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-the-windows-11-bar-a-comprehensive-approach/"><u>Conquer the Windows 11 Bar: A Comprehensive Approach</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/effortless-dvd-winx-dvd-copy-iso/"><u>Effortless DVD 복사기 WinX DVD Copy 활용: 원형 ISO 제작 기술에 대한 간단한 안내</u></a></li>
+<li><a href="https://win11.techidaily.com/effortlessly-unlock-your-pcs-credentials-with-these-11-win11-tricks/"><u>Effortlessly Unlock Your PC’s Credentials with These 11 Win11 Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-insiders-guide-to-pro-windows-10-expertise/"><u>In 2024, Insider's Guide to Pro WINDOWS 10 Expertise</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-15-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 15 Plus without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-turning-vlogging-into-cash-essential-steps/"><u>In 2024, Turning Vlogging Into Cash Essential Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-9-ways-to-navigate-through-windows-audio-settings-panel/"><u>Learn 9 Ways to Navigate Through Windows Audio Settings Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-noninteractive-elements-on-windows-11/"><u>Overcoming Noninteractive Elements on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-silent-audio-issues-during-valorant-playthroughs-on-windows/"><u>Overcoming Silent Audio Issues During Valorant Playthroughs on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-access-to-your-gaming-hardware-information-in-win11/"><u>Quick Access to Your Gaming Hardware Information in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-server-unavailable-for-ea-on-windows/"><u>Tackling Server Unavailable for EA on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-discovering-deleting-null-space-in-windows-systems/"><u>The Ultimate Guide: Discovering, Deleting Null Space in Windows Systems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210659820-9781638740889-thoughts-from-a-mothers-love/"><u>Thoughts from a Mother's Love | Free Book</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-12-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 12 Pro Max i Do? Get Answers here</u></a></li>
 </ul></div>
 

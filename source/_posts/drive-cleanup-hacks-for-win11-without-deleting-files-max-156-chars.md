@@ -1,7 +1,7 @@
 ---
 title: Drive Cleanup Hacks for Win11 Without Deleting Files (Max 156 Chars)
-date: 2024-12-24T21:47:23.485Z
-updated: 2024-12-28T07:51:03.850Z
+date: 2025-02-27T02:08:08.476Z
+updated: 2025-03-05T00:19:28.411Z
 tags:
   - windows10
   - windows11
@@ -31,15 +31,7 @@ thumbnail: https://thmb.techidaily.com/172d2b5e16d3f59f8f3e9aeaa8db2d7a1dcd42c12
 
 ![The Compress this drive to save disk space checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/compress-this-drive-to-save-space-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Exactly how much drive space NTFS compression will free up can be variable. If you have many uncompressed user document files on your drive, then NTFS will likely free up at least a few gigabytes of storage space. However, this compression won’t free up so much space if there aren’t many user files on your PC’s drive. The only way to find out is to try it on at least one large folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Disable System Restore
 
@@ -73,18 +65,10 @@ thumbnail: https://thmb.techidaily.com/172d2b5e16d3f59f8f3e9aeaa8db2d7a1dcd42c12
 ![The Choose File button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/from-a-device-option.jpg)
 5. Press **Open** to add the selected videos.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click **Start** to convert the video to MP4\.
 7. Select **Download** to save the converted MP4 videos.
 
  Also, check out some of the options for converting to MP4 within the Online-Convert video conversion tool. You can select from a wide variety of video presets by clicking the **Choose a preset** drop-down menu. Further down, there’s a **Set file size** option in which you can input a target size value for the converted video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Convert Your Saved Image Files Into the JPG Format
 
@@ -93,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/172d2b5e16d3f59f8f3e9aeaa8db2d7a1dcd42c12
  You can convert image files to JPG with the [Online image converter to JPEG app](https://image.online-convert.com/convert-to-jpg) on the Online-Convert site as instructed for the video files in the previous method. To maximize the compression, select the **Smallest File** option. Alternatively, drag the **Quality** bar’s slider there left to increase compression.
 
 ![The image format conversion web app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/image-format-conversion-tool.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Reduce the Recycle Bin’s Size
 
@@ -109,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/172d2b5e16d3f59f8f3e9aeaa8db2d7a1dcd42c12
 3. Input a lower megabyte figure in the **Maximum size** box (1,000 MBs equals one gigabyte).  
 ![The Custom size radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-custom-size-option.jpg)
 4. Click **Apply** and **OK** in the Recycle Bin Properties window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Create ZIP Archives for Storing Files
 
@@ -129,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/172d2b5e16d3f59f8f3e9aeaa8db2d7a1dcd42c12
  So, you can potentially free up 15 gigabytes of local storage space by saving user files to Google Drive instead of your PC’s C: drive. You only need to set up a Google Account to get 15 GBs of free cloud storage. Furthermore, [adding Google Drive to File Explorer](https://www.makeuseof.com/windows-google-drive-file-explorer-add/) with the app will enable you to access that cloud storage within Windows 11’s file manager.
 
 ![Google Drive cloud storage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-drive-storage.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Utilize Third-Party Web Apps and Portable Programs
 
@@ -164,19 +136,21 @@ thumbnail: https://thmb.techidaily.com/172d2b5e16d3f59f8f3e9aeaa8db2d7a1dcd42c12
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-effortless-link-up-merging-instagram-posts-with-facebook/"><u>[New] 2024 Approved Effortless Link Up Merging Instagram Posts with Facebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-photos-into-videos-an-experts-complete-tutorial-series/"><u>[Updated] Transforming Photos Into Videos An Expert's Complete Tutorial Series</u></a></li>
-<li><a href="https://win11.techidaily.com/cure-non-scrolling-errors-in-excel-windows-edition/"><u>Cure Non-Scrolling Errors in Excel, Windows Edition</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/downloading-fb-videos-made-easy-our-top-5-selection-for-2024/"><u>Downloading FB Videos Made Easy Our Top 5 Selection for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-collaborative-creativity-the-disney-and-marvel-vision-pro-multiverse-experience-with-you-as-the-hero-zdnet-unveiled/"><u>Exploring Collaborative Creativity: The Disney & Marvel Vision Pro Multiverse Experience with You as the Hero | ZDNet Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/guides-to-revive-non-functional-radeon-software-in-windows/"><u>Guides to Revive Non-Functional Radeon Software in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-organization-managed-features-not-working-properly-in-windows-11/"><u>How to Fix Organization-Managed Features Not Working Properly in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-permanently-close-your-chatgpt-user-account/"><u>How to Permanently Close Your ChatGPT User Account</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-apple-iphone-se-2022-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Apple iPhone SE (2022) Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/master-error-management-top-10-tools-for-pc/"><u>Master Error Management: Top 10 Tools for PC</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-to-control-panel-top-tricks-and-tips/"><u>Navigate to Control Panel: Top Tricks & Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-resolution-of-script-woes-in-windows-os/"><u>Swift Resolution of Script Woes in Windows OS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-issues-with-cortana-when-its-unresponsive/"><u>Troubleshooting Guide: Fixing Issues with Cortana When It's Unresponsive</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-crystalline-speed-highlighting-moments-from-the-coldest-games-on-earth/"><u>[New] In 2024, Crystalline Speed Highlighting Moments From the Coldest Games on Earth</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-fluent-in-content-sharing-tiktok-twitter-transition/"><u>[Updated] Fluent in Content Sharing TikTok-Twitter Transition</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-viral-victory-your-kinemaster-journey/"><u>[Updated] Viral Victory Your KineMaster Journey</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-metaverse-vs-multimetverse-what-are-the-differences-ultimate-guide/"><u>2024 Approved Metaverse Vs. MultiMetverse What Are the Differences [Ultimate Guide]</u></a></li>
+<li><a href="https://win11.techidaily.com/blocking-snipping-tool-activation-by-pressing-prtscn-on-windows-11-devices/"><u>Blocking Snipping Tool Activation by Pressing PrtScn on Windows 11 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-crackling-sound-from-speakers-in-windows-systems/"><u>Diagnosing and Repairing Crackling Sound From Speakers in Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-installation-of-sandisk-drivers-on-windows-10-guide-and-free-download/"><u>Effortless Installation of SanDisk Drivers on Windows 10: Guide & Free Download</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-user-experience-tailoring-windows-via-alomware-applications/"><u>Elevate User Experience: Tailoring Windows via AlomWare Applications</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-motorola-moto-g84-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Motorola Moto G84 5G Phone Screen?</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/make-instant-pdf-to-word-conversions-at-no-cost-using-yl-computings-powerful-conversion-software/"><u>Make Instant PDF-to-Word Conversions at No Cost Using YL Computing's Powerful Conversion Software!</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-freeze-issues-photoshopping-onoff-windows-11-versions-2023/"><u>Overcoming Freeze Issues: Photoshopping On/Off Windows 11, Versions 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-sudden-freeze-and-blackout-with-steam/"><u>Resolving Sudden Freeze & Blackout with Steam</u></a></li>
+<li><a href="https://article-posts.techidaily.com/revealing-the-secrets-behind-lgs-high-definition-monitoring/"><u>Revealing the Secrets Behind LG’s High-Definition Monitoring</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-your-account-transitioning-from-pin-to-password-in-windows-11/"><u>Secure Your Account: Transitioning From PIN to Password in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/triggering-printer-commands-using-windows-11-edge-shield-mode/"><u>Triggering Printer Commands Using Windows 11 Edge Shield Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-cause-behind-error-0x80370102-in-wsl-distribution/"><u>Unraveling the Cause Behind Error 0X80370102 in WSL Distribution</u></a></li>
 </ul></div>
 

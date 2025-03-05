@@ -1,7 +1,7 @@
 ---
 title: "Unblocking Launch Failed: Lunar Client Error on PC"
-date: 2025-02-15T01:17:13.158Z
-updated: 2025-02-15T20:14:24.809Z
+date: 2025-02-26T21:58:33.660Z
+updated: 2025-03-04T19:22:16.613Z
 tags:
   - windows10
   - windows11
@@ -46,15 +46,7 @@ Follow these steps to run Lunar Client as an administrator:
 3. Right-click on Lunar Client's EXE file and select**Run as administrator** from the context menu.  
 ![Run Lunar Client as an Administrator on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-run-lunar-client-as-an-administrator-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If launching Lunar Client as an administrator fixes the problem, this indicates that operating system restrictions are causing this error. So, you should[configure the application to always run as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Delete Lunar Client's Cache Folders
 
@@ -68,10 +60,6 @@ C:\Users\<username>\AppData\Roaming
 3. Here, you have to delete three folders:**Cache** ,**Code Cache** , and**GPUCache** .
 4. Select the folders, right-click on them, and hit**Delete** .  
 ![Delete Lunar Client's Cache Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-delete-lunar-client-s-cache-folders.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Run Lunar Client again after deleting the cache folders. If you encounter the same error again, proceed to the next step.
 
@@ -88,15 +76,7 @@ To change Lunar Client's memory allocation, follow these steps:
 3. To change the memory allocation, drag the slider under**Allocated Memory** .  
 ![Change the Allocated Memory in the Lunar Client Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-change-the-allocated-memory-in-the-lunar-client-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  How much memory you should allocate depends entirely on the amount of memory you have on your computer. If you have 16GB of RAM installed, allocating 5GB would be a better decision. If the overall memory is less than that, you can allocate it accordingly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Delete the Old Renderer Log File
 
@@ -109,10 +89,6 @@ To change Lunar Client's memory allocation, follow these steps:
 3. Click on**Logs** under**Folders** . Clicking this will take you to the Logs folder.
 4. Right-click on the**Renderer.old** file and click on the**Delete** icon.  
 ![Delete the Old Renderer Log File in Lunar Client's Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-delete-the-old-renderer-log-file-in-lunar-client-s-installation-folder.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Whitelist Lunar Client in Windows Defender and Your Antivirus
 
@@ -162,22 +138,18 @@ To change Lunar Client's memory allocation, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-maximize-your-impact-strategic-approaches-to-facebook-bios/"><u>[New] In 2024, Maximize Your Impact Strategic Approaches to Facebook Bios</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-simplified-methods-for-logging-videos-on-vimeo-for-2024/"><u>[New] Simplified Methods for Logging Videos on Vimeo for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/amplify-earnings-monetize-youtube-on-the-go-with-effective-techniques-for-2024/"><u>Amplify Earnings Monetize YouTube on the Go with Effective Techniques for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/carminatis-gig-economy-ajays-youtube-wealth-stream/"><u>Carminati's Gig Economy AJay's YouTube Wealth Stream</u></a></li>
-<li><a href="https://win11.techidaily.com/excellent-win-software-alternatives-to-procreate/"><u>Excellent Win Software Alternatives To Procreate</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-compatibility-issues-tool-accessible-via-clipboard-menu/"><u>Fix Compatibility Issues: Tool Accessible Via Clipboard Menu</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-panasonic-hx-a1-wearable-camera-explored/"><u>In 2024, Panasonic HX-A1 Wearable Camera Explored</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-streamline-creativity-with-1-to-5-mac-editors-for-sierra-users/"><u>In 2024, Streamline Creativity with #1 to #5 Mac Editors for Sierra Users</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-double-click-opener-techniques-for-w11w10-folders/"><u>Mastering Double-Click Opener Techniques for W11/W10 Folders</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-16-best-free-avi-video-rotator-software-for-windows-mac-android-and-iphone/"><u>New In 2024, 16 Best Free AVI Video Rotator Software for Windows, MAC, Android, and iPhone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premiere-pro-speed-blackouts-for-2024/"><u>Premiere Pro Speed Blackouts for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/removed-in-the-new-wave-windows-characteristics/"><u>Removed in the New Wave: Windows Characteristics</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-borders-enhancing-images-with-style-on-social-platforms-for-2024/"><u>Step By Step Borders Enhancing Images with Style on Social Platforms for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-to-a-fresh-start-new-username-on-windows-11/"><u>Step-by-Step to a Fresh Start: New UserName on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/switching-shades-a-guide-to-paints-dark-mode/"><u>Switching Shades: A Guide to Paint's Dark Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/track-down-windows-shot-files-home/"><u>Track Down Windows Shot Files' Home</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-effectively-utilizing-powershell-policies/"><u>Understanding and Effectively Utilizing PowerShell Policies</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-precision-problem-solving-for-social-media-stories-issues/"><u>[New] 2024 Approved Precision Problem-Solving for Social Media Stories Issues</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mastering-video-posting-between-twitter-and-tumblr/"><u>[New] In 2024, Mastering Video Posting Between Twitter and Tumblr</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unparalleled-clarity-in-speech-interpretation-via-google-platform/"><u>[Updated] Unparalleled Clarity in Speech Interpretation via Google Platform</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1-diy-step-by-step-guide-to-downloading-your-favorite-songs-and-converting-them-into-ringtones-on-the-go/"><u>1. DIY: Step-by-Step Guide to Downloading Your Favorite Songs & Converting Them Into Ringtones on the Go!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-giggle-genesis-app/"><u>2024 Approved Giggle Genesis App</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-into-the-world-of-windows-11-the-taskbar-search-basics/"><u>Dive Into the World of Windows 11: The Taskbar Search Basics</u></a></li>
+<li><a href="https://win11.techidaily.com/embark-on-gesture-driven-navigation-within-microsoft-edge-windows-11/"><u>Embark on Gesture-Driven Navigation Within Microsoft Edge, Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-track-to-opening-windows-11s-calculator-feature/"><u>Fast Track to Opening Windows 11'S Calculator Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-repair-unable-to-open-issue-with-geforce/"><u>How to Repair Unable to Open Issue with GeForce</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-audience-experience-top-cameras-to-capture-live-music/"><u>In 2024, Audience Experience Top Cameras to Capture Live Music</u></a></li>
+<li><a href="https://win11.techidaily.com/instantaneous-speech-conversion-for-everyday-use-with-whisper/"><u>Instantaneous Speech Conversion for Everyday Use - With Whisper</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-your-auditory-capture-capabilities-with-w11/"><u>Maximizing Your Auditory Capture Capabilities with W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-bluetooth-speaker-audio-only-issue/"><u>Resolving Windows: Bluetooth Speaker - Audio Only Issue</u></a></li>
 </ul></div>
 

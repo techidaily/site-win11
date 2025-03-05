@@ -1,7 +1,7 @@
 ---
 title: Boost Functionality with the Best Windows PowerToys Uses
-date: 2024-08-08T13:11:26.239Z
-updated: 2024-08-09T13:11:26.239Z
+date: 2025-03-04T00:01:59.083Z
+updated: 2025-03-04T18:46:30.872Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 
  PowerToys is a set of free software which allows users to easily configure how Windows looks, feels, and works. If you’re still having doubts, we’ll list the best things you can do with PowerToys to level up your Windows user experience.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## How to Install PowerToys
 
  Veteran Windows users might remember PowerToys from Windows 95 days. After a few years of absence, PowerToys became available again for Windows 10 and Windows 11\. We recommend downloading PowerToys from Microsoft Store, so you’ll avoid any pirated version that might infect your computer with malware.
@@ -37,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 
 **Note:** Windows 7, 8, and 8.1 didn’t receive official support for PowerToys, so you might have a hard time trying to get it to work if you’re still using older Windows versions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## 1\. Identify Every Color
 
  How many times did you want to include in your designs a color displayed on your screen? Instead of struggling to recreate it, you could use PowerToys' Color Picker to identify any color, no matter if it's RGB or HEX code.
@@ -58,16 +52,10 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 
  You can check the**Preview** window to make sure the selection is correct. Then, type in the new name for your batch. PowerRename allows you to use multiple criteria when it comes to searching for your files. You can exclude files, enumerate items, or make the search case-sensitive.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## 3\. Resize Multiple Images at Once
 
  Image Resizer is another File Explorer add-on to make your life easier. As its name says, you can resize multiple images at once.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Resize images with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/resize-images-1.jpg)
 
  Select the images, bring up the context menu, and click**Image resize** . Then, in the pop-up window, you can choose one of the available settings or create a custom one.
@@ -80,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 
  File Explorer Preview really stands out when it comes to PDF files, as you can preview the first ten pages of the file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## 5\. Keep any Windows on Top
 
  Let’s say you created a Word doc to gather information from multiple files or apps. While you keep browsing through them, Word might get buried behind other windows. To keep this from happening, you could use PowerToys’**Always on Top** .
@@ -97,9 +82,6 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 
  If you [need to use a multiple-display setup](https://www.makeuseof.com/how-to-set-up-dual-monitors/) , the cursor might get lost between your monitors. Fortunately, you can have PowerToys indicate your cursor position for you.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Find your mouse with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/find-my-mouse-1.jpg)
 
  Head to**Mouse utilities** and turn on the toggle for**Enable Find My Mouse** . The next time when your cursor is lost, all you have to do is press**Left Control** twice. Also, you can use the old method of shaking the mouse, but this time, PowerToys will detect the movement and indicate your cursor position.
@@ -112,35 +94,20 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 
  Keyboard Manager allows you to remap individual keys or shortcuts. The new remap stays active as long as Keyboard Manager is enabled and PowerToys keeps running. Once you close it, your keyboard will go back to its default settings.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Manage Windows Easier
 
  FancyZones is designed to manage windows on your screen by moving and snapping them into customized layouts. This way, you’ll have no overlapping windows and can improve your workflow. And if you can’t find a layout that suits your preferences, you have the option to edit it.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Manage windows with FancyZones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/fancy-zones-1-1.jpg)
 
  You can add more zones, resize them, or add space between them, so your screen doesn’t look too cluttered.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Remember Every Windows Shortcut
 
 [Windows comes with a lot of keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) that you can use to increase your productivity, but sometimes you may have a hard time remembering them. Instead of googling a shortcut every time you need it, you can have PowerToys refresh your memory.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![PowerToys Windows shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-shortcut-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 10\. Keep Your Computer Awake
 
  There are situations when you need your computer awake, while you step away from it. Maybe you’re downloading a large file or installing a game from Steam. Depending on your Power settings, your computer might enter Sleep mode, which will interrupt the process.
@@ -155,14 +122,11 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 
  Now, if you need more tools to upgrade your system, make sure you download new software from safe and trustworthy websites.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -171,6 +135,24 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-creating-a-narrative-structure/"><u>[New] Creating a Narrative Structure</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-expertly-curated-list-of-top-9-virtual-mic-recorder-systems-23/"><u>[New] Expertly Curated List of Top 9 Virtual Mic Recorder Systems ('23)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-a-symphony-in-silence-mastering-audio-with-precision-for-2024/"><u>[Updated] A Symphony in Silence Mastering Audio with Precision for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-laugh-ledger-unveiling-the-best-text-generation-apps/"><u>[Updated] Laugh Ledger Unveiling the Best Text Generation Apps</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-your-blueprint-to-lost-youtube-video-accessibility-online/"><u>2024 Approved Your Blueprint to Lost YouTube Video Accessibility Online</u></a></li>
+<li><a href="https://win11.techidaily.com/empower-your-windows-cmd-experience/"><u>Empower Your Windows Cmd Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/flickering-wi-fi-mouse-issues-solutions-for-windows-users/"><u>Flickering Wi-Fi Mouse Issues - Solutions for Windows Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-videos-and-music-files-from-iphone-14-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Photos, Videos & Music Files from iPhone 14 Plus | Stellar</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-resolve-insert-error-message-on-your-dvd-player-screen/"><u>How to Resolve 'INSERT' Error Message on Your DVD Player Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reuse-powertoys-configurations-elsewhere/"><u>How to Reuse PowerToys Configurations Elsewhere</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-clever-escort-ix-the-self-learning-car-radar-detector/"><u>In-Depth Analysis of the Clever Escort iX: The Self-Learning Car Radar Detector</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-laptop-functionality-post-monitor-hookup/"><u>Optimize Laptop Functionality Post-Monitor Hookup</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unstable-operating-system-with-df-gameplay/"><u>Overcoming Unstable Operating System with DF Gameplay</u></a></li>
+<li><a href="https://win11.techidaily.com/prohibiting-date-manipulation-on-windows-machines/"><u>Prohibiting Date Manipulation on Windows Machines</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivate-system-audio-test-feedback-on-pcs/"><u>Reactivate System Audio Test Feedback on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essentials-of-navigating-comic-files-in-win11/"><u>The Essentials of Navigating Comic Files in Win11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-reviving-your-iphones-control-center/"><u>Troubleshooting Tips: Reviving Your iPhone's Control Center</u></a></li>
+</ul></div>
 

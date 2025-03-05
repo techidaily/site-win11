@@ -1,7 +1,7 @@
 ---
 title: "Boosting Windows 11 Security: Upgrading PIN Length"
-date: 2024-08-08T13:16:31.826Z
-updated: 2024-08-09T13:16:31.826Z
+date: 2025-03-02T16:47:44.653Z
+updated: 2025-03-05T00:52:02.139Z
 tags:
   - windows10
   - windows11
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 3. Enter this path inside Registry Editor’s address bar and press **Return**:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\`
 4. If the Microsoft key doesn’t have a PassportForWork subkey, you’ll need to set one up. To do so, right-click on the Microsoft key and select **New** \> **Key**.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-key-options3.jpg)
 5. Type **PassportForWork** in the new key’s text box.
 
@@ -39,23 +36,14 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 2. Enter **PINComplexity** inside the key’s text box to set that name.
 3. Right-click the **PINComplexity** key to select **New** \> **DWORD (32-bit) Value**.
 4. Enter **MinimumPINLength** in the DWORD text box.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The MinimumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-dword.jpg)
 5. Double-click the new **MinimumPINLength** DWORD you’ve created.
 
 1. Select the **Decimal** option.
 2. Then input a number higher than four in the **Value data** box and click **OK**. The value you enter there will be the new minimum character length for the Windows Hello PIN.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![The Edit DWORD window for the MinimumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window4.jpg)
 3. You can also set a maximum PIN length. To do so, right-click **PINComplexity** again and select the **DWORD (32-bit) Value** option on the **New** submenu.
 4. Type **MaximumPINLength** into the DWORD’s text box.  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A MaximumPINLength DWORD text box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-text-box.jpg)
 5. Double-click **MaximumPINLength** to view the **Value box** for that DWORD.
 6. Click on the **Decimal** radio button.
@@ -77,16 +65,10 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 2. Click on Run’s **OK** button to [access Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/).
 3. Double-click on **Computer Configuration** in the left sidebar.
 4. Next, double-click **Administrative Templates** to extend it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/administrative-templates.jpg)
 5. Then click the arrow by **System** and select **PIN Complexity**.
 
 1. Double-click on the **Minimum PIN Length** policy.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The PIN Complexity policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-complexity.jpg)
 2. Click the **Enabled** radio button to activate a **Minimum PIN Length** box.
 3. Then input a higher value in the **Minimum PIN Length** box.  
@@ -103,12 +85,33 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 
  So, it doesn’t seem users can set longer, more secure PINs for signing in to Windows. However, there are two ways to set a new minimum PIN length for the Hello PIN sign-in method. This is how you can extend the PIN length in Windows 10 and 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/levate-engagement-with-these-10-premier-youtube-seo-instruments/"><u>[New] Elevate Engagement with These 10 Premier YouTube SEO Instruments</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-accelerate-your-streaming-career-utilizing-obs-capabilities/"><u>[New] In 2024, Accelerate Your Streaming Career Utilizing OBS Capabilities</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-collecting-conquerors-8-tools-every-business-leader-cant-overlook-for-2024/"><u>[Updated] Collecting Conquerors 8 Tools Every Business Leader Can’t Overlook for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-non-compatibilities-easy-steps-for-windows-xp-users/"><u>Conquer Non-Compatibilities: Easy Steps for Windows XP Users</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-error-messages-solving-windows-crashes-easily/"><u>Decoding Error Messages: Solving Windows Crashes Easily</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-intel-nvme-driver-fast-and-simple-installation-guide/"><u>Download Intel NVMe Driver - Fast & Simple Installation Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-0x0000011b-failure-on-win-1011/"><u>Fixing 0X0000011B Failure on Win 10/11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-gamecast-viewers-take/"><u>In 2024, GameCast Viewer's Take</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-picks-for-virtual-globe-tourists/"><u>In 2024, Top Picks for Virtual Globe Tourists</u></a></li>
+<li><a href="https://win-answers.techidaily.com/left-4-dead-2-stability-improvements-no-more-game-crashes/"><u>Left #4 Dead 2 Stability Improvements - No More Game Crashes!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-geographic-deception-a-step-by-step-guide-to-altering-your-android-devices-gps/"><u>Mastering Geographic Deception: A Step-by-Step Guide to Altering Your Android Device's GPS</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-event-viewer-troubleshooting/"><u>Navigating Windows Event Viewer Troubleshooting</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-errors-in-onedrive-cloud-operations-win/"><u>Overcoming Errors in OneDrive Cloud Operations Win</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-budsplus-unveiled-a-comprehensive-handheld-trial-report/"><u>Samsung Galaxy Buds+ Unveiled: A Comprehensive Handheld Trial Report</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-stop-windows-from-locking-itself/"><u>Strategies to Stop Windows From Locking Itself</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-powerpoints-print-functionality-9-tips-for-windows-users/"><u>Streamlining PowerPoint's Print Functionality: 9 Tips for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/what-makes-the-updated-outlook-so-worth-it-top-9-reasons/"><u>What Makes the Updated Outlook So Worth It? - Top 9 Reasons</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-home-settings-made-simple/"><u>Windows 11 Home Settings Made Simple</u></a></li>
+</ul></div>
 

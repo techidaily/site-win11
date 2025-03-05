@@ -1,7 +1,7 @@
 ---
 title: Adjust Your User Profiles' Home Path on Win11 OS
-date: 2024-08-08T13:15:32.078Z
-updated: 2024-08-09T13:15:32.078Z
+date: 2025-02-27T01:26:52.062Z
+updated: 2025-03-05T03:42:28.378Z
 tags:
   - windows10
   - windows11
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 
  Windows, by default, will use the first five characters of your user account name as the profile folder name. If you don’t like the user profile folder name, you can change it using a registry hack. Here, we show you how to change the name of the user profile folder in Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## But First, Some Potential Issues That May Arise From These Steps
 
  While the registry hack should help you successfully change your user account folder name, it can lead to some complications. For example, some of your Microsoft Store apps, including OneDrive and Outlook, can stop working.
@@ -48,20 +45,8 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 1. Press **Win + I** to open **Settings**.
 2. Open the **Accounts** tab in the left pane.
 3. Click on **Family & other users** in the right pane.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![Windows 11 add user account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Windows-11-add-user-account.png)
 4. Click **Other users.** This option is useful to create a local user account without a Microsoft Account.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Add other user account in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/add-other-user-account-windows-11.png)
 5. Next, click on **I don’t have this person’s sign-in information.**  
 ![Creating a local user account without a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/create-local-user-account-without-Microsoft-account.png)
@@ -74,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 
  Now, you can log in with your new administrator account. To do this, click **Start**, then click on the user profile name, and select **Sign out.** Next, sign in with the new administrator account.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## How to Change the User Profile Folder Name Using the Registry Editor
 
  You can modify the registry entries associated with your user account to change the user profile folder name in Windows 11\.
@@ -89,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 2. Next, press **Win + R** to open the **Run** dialog.
 3. Type **netplwiz** and click **OK** to open the **User Accounts** dialog.
 4. Here, select your **user account** and click on **Properties**.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![User accounts properties.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/user-accounts-properties.jpg)
 5. In the **User Properties** dialog, you’ll see your **User name** and **Full name.**
 
@@ -99,14 +78,6 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 ![user account user name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/user-acount-user-name.jpg)
 2. Close the **User Account** dialog and perform a restart.
 3. Next, open the Command Prompt. To do this, press **Win + R,** type **cmd,** and click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![SID command prompt user account.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/SID-command-prompt-user-account.png)
 4. In the Command Prompt window, type the following command to view **SID (Security Identifier)** for all user accounts:  
 `wmic useraccount get name,SID`
@@ -121,14 +92,6 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 4. In the right pane, right-click on **ProfileImagePath** value and select **Modify**.  
 ![Modify profile image path in the registry editor.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/modify-profile-image-path-registry-editor.png)
 5. Enter a name you want for the profile folder and click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![add new name profile image path registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/add-new-name-profile-image-path-registry-editor.png)
 6. Close the Registry Editor and Command Prompt window if open.
 7. Next, press **Win + E** to open File Explorer and navigate to **C:\\Users\\.**  
@@ -144,12 +107,30 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 
  While you can rename the user account in Windows 11 using the Control Panel, doing so will not change the user profile folder name. You need to modify the ProfileImagePath value in the Registry Editor with a different administrator account. Once done, you can remove the new administrator user account to declutter your login screen.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-pixel-perfect-preservation-the-best-practices-of-recording-games/"><u>[New] 2024 Approved Pixel-Perfect Preservation The Best Practices of Recording Games</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-expert-advice-on-quick-and-clean-ppt-captures/"><u>[New] Expert Advice on Quick and Clean PPT Captures</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-breakthrough-visuals-top-10-monitors-for-your-macbook/"><u>2024 Approved Breakthrough Visuals Top 10 Monitors For Your MacBook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-pixelpanorama-crafting-collage-vids-on-gear/"><u>2024 Approved PixelPanorama Crafting Collage Vids on Gear</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/breaking-through-the-shadows-fixes-for-obss-black-gaming-capture-for-2024/"><u>Breaking Through the Shadows Fixes for OBS's Black Gaming Capture for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-geforce-notaxc0f1103f-issue-on-windows-pcs/"><u>Eradicating GeForce NotaXC0F1103F Issue on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-swiftly-speed-up-microsoft-edge-w10-w11/"><u>How to Swiftly Speed up Microsoft Edge (W10, W11)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-insta-velocity-strategic-use-of-likes-and-videos-for-growth/"><u>In 2024, Insta Velocity Strategic Use of Likes & Videos for Growth</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-auto-startup-for-windows-audio/"><u>Mastering the Art of Auto Startup for Windows Audio</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/mastering-the-art-of-custom-karaoke-with-pcdjs-karaoki-feature-build-your-own-playlist/"><u>Mastering the Art of Custom Karaoke with PCDJ's Karaoki Feature - Build Your Own Playlist!</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-inaudibility-windows-11s-wireless-speaker-problems/"><u>Overcoming Inaudibility: Windows 11'S Wireless Speaker Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-7-amazing-labor-day-promotions-on-apple-products-save-up-to-120-on-airpods-according-to-zdnet/"><u>Top 7 Amazing Labor Day Promotions on Apple Products - Save Up To $120 On AirPods, According to ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-7-essential-android-accessibility-options-for-enhanced-usability/"><u>Top 7 Essential Android Accessibility Options for Enhanced Usability</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-terminal-reset-on-win11/"><u>Understanding Terminal Reset on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unveil-missing-windows-11-control-panel-features/"><u>Unveil Missing Windows 11 Control Panel Features</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-a-deep-dive-into-its-data-acquisition-tactics/"><u>Windows 11: A Deep Dive Into Its Data Acquisition Tactics</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Enable or Disable Metered Connection for a Wi-Fi Network in Windows 11
-date: 2025-01-29T20:36:09.902Z
-updated: 2025-02-04T05:48:07.507Z
+date: 2025-03-03T17:56:20.290Z
+updated: 2025-03-05T00:21:06.902Z
 tags:
   - windows10
   - windows11
@@ -37,15 +37,7 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 6. Enable the toggle next to**Metered connection** to set the Wi-Fi network as metered. If you want to set the network as an unmetered connection, disable the toggle.  
 ![Enable or Disable Metered Connection in Windows 11 Using Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-or-disable-metered-connection-in-windows-11-using-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Note that you'll have to repeat the above steps for each Wi-Fi network separately. Following that, Windows will remember your network preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enable or Disable Wi-Fi Metered Connections via the Command Prompt
 
@@ -59,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 ![Network Profiles in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-profiles-in-windows.jpg)
 5. Note down the Wi-Fi network name for which you want to enable or disable the metered connection option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Next, run the following command to determine whether your connection is metered or unmetered.  
 `netsh wlan show profile name="Wi-Fi Name"`  
  Make sure you replace**Wi-Fi Name** in the above command with the actual name of the network noted in the last step.
@@ -71,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 `netsh wlan set profileparameter name="Wi-Fi Name" cost=Fixed`  
 ![Disable Metered Connection in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-metered-connection-in-windows-11-using-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to disable the metered connection for a network, run the following command instead.
 
 `netsh wlan set profileparameter name="Wi-Fi Name" cost=Unrestricted`
@@ -82,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
  The Command Prompt should display a message once the network profile is updated. After that, you can close the terminal window.
 
  Aside from the above, you can view important details about your Wi-Fi network using the Command Prompt. If you're interested in doing that, check our guide on[the best commands to manage wireless networks on Windows](https://www.makeuseof.com/tag/commands-manage-wireless-networks-windows/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Efficiently Manage Your Data With Metered Connection
 
@@ -108,20 +88,20 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagrams-power-in-motion-crafting-a-comprehensive-video-plan/"><u>[New] In 2024, Instagram's Power in Motion Crafting a Comprehensive Video Plan</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-safe-purchase-high-quality-tiktok-followers/"><u>[New] In 2024, Safe Purchase High-Quality TikTok Followers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723013291963-bypassing-the-stubborn-loading-screen-in-far-cry-5-solutions-inside/"><u>Bypassing the Stubborn Loading Screen in Far Cry 5 – Solutions Inside!</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-the-msvcr110dll-deficit-in-windows/"><u>Eliminating the msvcr110.dll Deficit in Windows</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ensuring-continuous-gameplay-with-quality-ups-units-an-in-depth-look-at-apcs-gaming-models/"><u>Ensuring Continuous Gameplay with Quality UPS Units: An In-Depth Look at APC's Gaming Models</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-guide-fixing-bluetooth-connection-problems-in-win-11/"><u>Essential Guide: Fixing Bluetooth Connection Problems in Win 11</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-skincare-revolution-the-best-apps-for-your-phone/"><u>In 2024, Skincare Revolution The Best Apps for Your Phone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Vivo Y36i? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/mastering-close-up-techniques-with-videoleap/"><u>Mastering Close-Up Techniques with Videoleap</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pixel-perfect-video-modifier/"><u>Pixel-Perfect Video Modifier</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-lost-data-curing-transfer-failures-on-windows-usbs/"><u>Preventing Lost Data: Curing Transfer Failures on Windows USBs</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-your-workspace-individual-monitors-in-windows-11/"><u>Tailoring Your Workspace: Individual Monitors in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/transitioning-oculus-quest-to-windows-pc-vr-setup/"><u>Transitioning Oculus Quest to Windows PC VR Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-potential-of-your-pc-learning-system-restore-in-windows/"><u>Unlock the Potential of Your PC: Learning System Restore in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/unseen-windows-rediscovered-secrets-to-restoring-hidden-panes-6-ways/"><u>Unseen Windows Rediscovered: Secrets to Restoring Hidden Panes (6 Ways)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-expertise-in-editing-how-to-add-descriptive-texts-to-videos/"><u>[New] In 2024, Expertise in Editing How to Add Descriptive Texts to Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-marketplace-for-customized-box-masterpieces/"><u>2024 Approved Ideal Marketplace For Customized Box Masterpieces</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-iphone-xs-advanced-photography-tools/"><u>2024 Approved Unveiling iPhone X's Advanced Photography Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-the-maze-quickly-entering-windows-support-space/"><u>Avoiding the Maze: Quickly Entering Windows' Support Space</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-places-online-watch-free-family-movies/"><u>Best Places Online: Watch Free Family Movies</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-vivo-s17e-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo S17e Phone?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-diminuendo-techniques-for-digital-ears/"><u>In 2024, Diminuendo Techniques for Digital Ears</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-no-browser-scenarios-in-new-oss/"><u>Overcoming No-Browser Scenarios in New OSs</u></a></li>
+<li><a href="https://win11.techidaily.com/reduce-delay-in-windows-11-keys-7-proven-methods/"><u>Reduce Delay in Windows 11 Keys: 7 Proven Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/srs-mastery-innovative-conversion-techniques/"><u>SRS Mastery Innovative Conversion Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-reactivating-a-greyed-out-secure-boot-in-bios/"><u>Steps for Reactivating a Greyed Out Secure Boot in BIOS</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-overcoming-blue-screen-error/"><u>Strategies for Overcoming Blue Screen Error</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performing-all-rounder-in-depth-analysis-of-the-garmin-forerunner-255-music-edition-the-runners-choice/"><u>Top-Performing All-Rounder: In-Depth Analysis of the Garmin Forerunner 255 Music Edition - The Runner's Choice</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steps-for-hardware-alerts-in-windows/"><u>Troubleshooting Steps for Hardware Alerts in Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Accessing Network Drives Through Explorer Pane
-date: 2024-08-08T13:14:34.710Z
-updated: 2024-08-09T13:14:34.710Z
+date: 2025-03-04T03:54:55.034Z
+updated: 2025-03-05T04:39:09.369Z
 tags:
   - windows10
   - windows11
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
  To access the D: drive, you normally have to open File Explorer, click on **This PC** in the Navigation pane, and expand the **Devices and drives** section. With a simple hack, you can add it to the Navigation pane so you can easily access it straight from there. It will require you to tweak the Windows Registry, but don’t worry; we'll show you an extremely easy way of going about it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Before You Proceed…
 
  We are going to [create a Registry file](https://www.makeuseof.com/windows-registry-file-guide/) to add the D: drive to the Navigation Pane. This file will make changes to the Windows registry, and you need to be careful [not to mess up the Windows Registry](https://www.makeuseof.com/tag/not-accidentally-mess-windows-registry/). A slip-up could make Windows unusable.
@@ -31,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
  Start by pressing **Win + S** to bring up Windows Search. Then, type **notepad** in the Search box, and when Notepad shows up in the search results, click on it to launch it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![The Notepad search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/notepad-search-result.png)
 
  Then copy and paste the below text into Notepad:
@@ -74,24 +67,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Press **Ctrl + S**, name the file **add-d-drive-file-explorer.reg**, and then click **Save**. Don’t forget to add the REG file extension to let Windows know it’s working with a Registry file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![saving a registry file in Notepad on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/save-reg-file-add-drive-nav-pane.jpg)
 
  Next, double-click the Registry file you just created and click **Yes** on the UAC prompt. You’ll then be asked if you want to continue with the merge, so click **Yes**. Afterward, press **Win + E** to open File Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![the D drive showing in the bottom section of the Navigation pane on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/d-drive-nav-pane.jpg)
 
  The D: drive should now be visible in the bottom part of the Navigation pane.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Do I Remove the D: Drive From the Navigation Pane in File Explorer?
 
  To remove the D: drive from the navigation pane, open Notepad and then copy and paste the below text:
@@ -107,14 +90,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Now the D: drive should be gone from the navigation pane in File Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Create an Easier Way to Access the D: Drive on Your Windows Computer
 
  With this guide, you will remove an extra step when accessing the D: drive on your Windows computer. Once you have created the registry files, adding and removing the D: drive from the Navigation pane will be easy. While the registry files are safe, don’t forget to create a backup of your Registry or a system restore point for good measure.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -122,4 +100,25 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-adding-media-to-enhance-content-for-2024/"><u>[New] Adding Media to Enhance Content for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-refined-retouches-using-the-eraser-in-photoshop-proficiently/"><u>[New] In 2024, Refined Retouches Using the Eraser in Photoshop Proficiently</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-moguls-and-millionaires/"><u>[Updated] In 2024, YouTube Moguls and Millionaires</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-swiftly-expand-your-youtube-following-for-minimal-cost/"><u>[Updated] Swiftly Expand Your YouTube Following for Minimal Cost</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-windows-11s-inability-to-open-files-for-writing/"><u>Correcting Windows 11'S Inability to Open Files for Writing</u></a></li>
+<li><a href="https://win11.techidaily.com/credential-manager-your-problem-solving-companion/"><u>Credential Manager: Your Problem-Solving Companion</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/definitive-top-5-superlight-cinematography-devices-for-2024/"><u>Definitive Top 5 Superlight Cinematography Devices for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-windows-update-restrictions-a-guide-to-uninstalling-apps/"><u>Easing Windows Update Restrictions: A Guide to Uninstalling Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-restoring-touch-key-positions-in-win-11/"><u>Guidelines for Restoring Touch Key Positions in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/increase-visible-pins-in-the-win-11-start-menu/"><u>Increase Visible Pins in the Win 11 Start Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/insights-into-pagefilesys-functionality-on-windows-systems/"><u>Insights Into Pagefile.sys Functionality on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-sleeping-pcs-with-keys-and-mice-on-windows-1011/"><u>Revive Sleeping PCs with Keys and Mice on Windows 10/11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-perfect-blend-of-exercise-tracking-and-music-streaming-discover-the-garmin-vivoactive-3/"><u>The Perfect Blend of Exercise Tracking & Music Streaming: Discover the Garmin Vivoactive 3!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oppo-reno-10-proplus-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Oppo Reno 10 Pro+ 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-applicazioni-piu-efficienti-per-la-registrazione-dello-schermo-del-computer/"><u>Top 5 Applicazioni Più Efficienti per La Registrazione Dello Schermo Del Computer</u></a></li>
+<li><a href="https://discover-best.techidaily.com/top-convertisseur-hevc-encodeur-video-le-plus-efficace-pour-windows-11-et-mac/"><u>Top Convertisseur HEVC - Encodeur Vidéo Le Plus Efficace Pour Windows 11 Et Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-global-precision-advanced-mouse-navigation-via-powertoys/"><u>Unlocking Global Precision - Advanced Mouse Navigation via PowerToys</u></a></li>
+</ul></div>
 

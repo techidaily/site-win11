@@ -1,7 +1,7 @@
 ---
 title: "Beyond Deletion: Windows' Innovative Erasing Technique"
-date: 2024-08-08T13:14:40.675Z
-updated: 2024-08-09T13:14:40.675Z
+date: 2025-03-01T04:48:40.655Z
+updated: 2025-03-05T04:20:54.351Z
 tags:
   - windows10
   - windows11
@@ -16,15 +16,8 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 
 ## Beyond Deletion: Windows' Innovative Erasing Technique
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![Screenshot highlighting the Edit button in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/edit-button-on-the-windows-photos-app-1.jpg)  
  Windows Photos' Generative Erase easily removes objects from images for free on Windows PCs.
 * The Erase tool is available on the Windows Photos app in version 2024.11020.21001.0 or higher.
@@ -32,32 +25,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Removing objects from photos is easier than ever on a smartphone, but that's largely limited to Pixels, Samsung flagships, or a Google One subscription. While you might think doing so requires expensive software on desktop, the Photos app on Windows is all you need to remove unwanted elements from an image. It's easily accessible, free, and is pretty great!
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is Windows Photos Generative Erase?
 
  The name is pretty self-explanatory in this case. Generative Erase is a tool built into the Windows Photos app that lets you select and remove objects from an image. The AI-powered feature does so without disrupting the background, using machine learning to gauge what the photo would be like without the object.
 
  You don't need expensive photo editing software or a high-end phone. The Photos app is available on all Windows 10 and 11 machines. You should see the Erase tool after [updating the Windows Photos app](https://www.makeuseof.com/tag/update-windows-software-guide/) to version 2024.11020.21001.0 or higher.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Use Generative Erase in Windows Photos
 
  Open the Photos app on your desktop and find or load the image you want to edit. If the Photos app is your default photo viewer, double-clicking the image should open it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Screenshot highlighting the Edit button in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/edit-button-on-the-windows-photos-app-1.jpg)
 
  Click the **Edit** button in the top bar and select **Erase**. If you want to get granular with your edit, you can adjust the brush size and zoom in on the picture.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![Erase button in the Edit tool in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/erase-button-in-the-edit-tool.png)
 
  The **Auto Erase** toggle is enabled by default and erases objects as you go. To erase multiple objects, toggle off **Auto Erase**, use the brush to highlight everything you want to remove, and then tap **Erase**.
@@ -87,12 +68,30 @@ Close
 
  Removing objects from photos is easier than ever on a smartphone, but that's largely limited to Pixels, Samsung flagships, or a Google One subscription. While you might think doing so requires expensive software on desktop, the Photos app on Windows is all you need to remove unwanted elements from an image. It's easily accessible, free, and is pretty great!
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-crafting-the-impeccable-circle-and-sphere-forms-in-mc-world-for-2024/"><u>[New] Crafting the Impeccable Circle & Sphere Forms in MC World for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-navigate-to-success-the-insiders-guide-to-adding-times/"><u>[New] In 2024, Navigate to Success The Insider's Guide to Adding Times</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-overcoming-non-displayed-thumbnails-youtube-shorts-guide/"><u>[Updated] 2024 Approved Overcoming Non-Displayed Thumbnails YouTube Shorts Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-avoiding-lost-frames-during-video-capture-in-obs/"><u>[Updated] Avoiding Lost Frames During Video Capture in OBS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-desktop-capture-obs-vs-shadowplay/"><u>[Updated] Desktop Capture OBS Vs. ShadowPlay</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-the-best-text-to-speech-online-tools-to-use/"><u>2024 Approved The Best Text-to-Speech Online Tools To Use</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-free-video-editors-on-windows-1110-learn-crop-merge-and-compression-tools-today/"><u>Best FREE Video Editors on Windows 11/10: Learn Crop, Merge and Compression Tools Today!</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-installer-setbacks-your-guide-to-fixing-win11-errors/"><u>Conquering Installer Setbacks: Your Guide to Fixing Win11 Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-the-warning-symbol-the-x-on-windows-drives/"><u>Deciphering the Warning Symbol: The X on Windows Drives</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-0x800704b3-issue-on-windows-devices/"><u>Demystifying 0X800704B3 Issue on Windows Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/dungeons-deep-and-deeper-old-school-and-hybrid-games/"><u>Dungeons Deep & Deeper Old School and Hybrid Games</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-infinix-zero-5g-2023-turbo-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Infinix Zero 5G 2023 Turbo FRP In 3 Different Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-inverted-alphabet-entering-windows/"><u>Solving Inverted Alphabet Entering Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-incessant-edge-hotkey-presence/"><u>Tackling Incessant Edge Hotkey Presence</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-hps-premium-powerhouse-a-critical-look-at-the-zbook-firefly-15-g8/"><u>The Ultimate Guide to HP's Premium Powerhouse - A Critical Look at the ZBook Firefly 15 G8</u></a></li>
+<li><a href="https://win11.techidaily.com/three-tactics-for-purging-old-wallpapers/"><u>Three Tactics for Purging Old Wallpapers</u></a></li>
+</ul></div>
 

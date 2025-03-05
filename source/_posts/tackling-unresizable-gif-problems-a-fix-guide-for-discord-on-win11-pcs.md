@@ -1,7 +1,7 @@
 ---
 title: "Tackling Unresizable GIF Problems: A Fix Guide for Discord on Win11 PCs"
-date: 2025-01-31T10:08:37.834Z
-updated: 2025-02-03T22:25:46.354Z
+date: 2025-02-26T04:15:12.986Z
+updated: 2025-03-04T21:25:02.206Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Optimize the GIF
 
  On Discord, file uploads are limited to a maximum of 8 MB. However, GIF emotes must not be more than 256 KB and should have dimensions of 128x128 pixels or less. If you try to upload a GIF that surpasses these size restrictions, you will encounter the "cannot resize GIF" error.
@@ -47,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 6. Click the **Save** button.  
 ![Save icon on Ezgif wesbite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/save-icon.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, check if you can upload the GIF. If not, probably the resolution is more than 128\*128 pixels. To reduce the resolution, follow the below steps:
 
 1. Switch to the **Resize** tab.
@@ -58,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 3. Type **128** in both the **Width** and **Height** fields. Then, click the **Resize image** button.  
 ![Resize image option in Ezgif wesbite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/resize-image.jpg)
 4. Click the **Save** icon.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Log Out and Back Into the Discord App
 
@@ -86,17 +74,9 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 
  To do that, first [uninstall the app on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and restart your computer. Then, visit the [Discord download page](https://discord.com/download) and install it on your device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Contact Discord Support
 
  Are you still facing the issue? If yes, that means this is probably an issue with your Discord account. In this case, the only solution is to reach out to the [Discord support](https://support.discord.com/hc/en-us) team and ask them to resolve the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Make Your Conversations Interesting With GIF Emotes on Discord
 
@@ -114,16 +94,22 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-expert-tips-streaming-youtube-and-fb-videos-seamlessly-with-apple-tv/"><u>[New] Expert Tips Streaming YouTube & FB Videos Seamlessly with Apple TV</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-a-chill-out-guide-selecting-inviting-winter-backgrounds/"><u>[Updated] A Chill-Out Guide Selecting Inviting Winter Backgrounds</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-secret-behind-successful-igtv-uploads-from-h-videos/"><u>2024 Approved The Secret Behind Successful IGTV Uploads From H-Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-restarting-of-windows-11s-key-software-directories/"><u>Efficient Restarting of Windows 11'S Key Software Directories</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-to-eradicate-temporary-storage-fail-win-error-1152/"><u>Expert Tips to Eradicate 'Temporary Storage Fail' - Win Error 1152</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/egular-are-youtube-monetization-payments-for-2024/"><u>How Regular Are YouTube Monetization Payments for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-samsung-galaxy-f34-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Samsung Galaxy F34 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-the-fundamentals-of-crafting-high-quality-videos-for-instagram-audiences/"><u>In 2024, The Fundamentals of Crafting High-Quality Videos for Instagram Audiences</u></a></li>
-<li><a href="https://win11.techidaily.com/reset-and-enhance-windows-11-visuals-efficiently/"><u>Reset and Enhance Windows 11 Visuals Efficiently</u></a></li>
-<li><a href="https://win11.techidaily.com/the-developers-playbook-mastering-dev-drive-in-windows-11/"><u>The Developer's Playbook: Mastering Dev Drive in Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevating-your-streaming-experience-switching-between-spotify-and-youtube-music-for-2024/"><u>[New] Elevating Your Streaming Experience Switching Between Spotify & YouTube Music for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-sync-video-elements-to-captivate-instagram-audiences/"><u>[New] In 2024, Sync Video Elements to Captivate Instagram Audiences</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-beginners-blueprint-for-initiating-instagram-discussions-for-2024/"><u>[Updated] Beginner's Blueprint for Initiating Instagram Discussions for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-master-memes-access-to-premium-free-designs/"><u>[Updated] In 2024, Master Memes Access to Premium FREE Designs</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-network-addresses-on-win11/"><u>Altering Network Addresses on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/best-vm-options-compatible-with-windows-11-pcs/"><u>Best VM Options Compatible With Windows 11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-pc-inquiry-speed-using-everythingapp/"><u>Boost PC Inquiry Speed Using EverythingApp</u></a></li>
+<li><a href="https://win11.techidaily.com/choco-vs-wslm-optimal-windows-software-downloader/"><u>Choco vs WSLM: Optimal Windows Software Downloader</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-windows-n-series-what-you-need-to-know/"><u>Delving Into Windows N Series: What You Need to Know</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-linksys-wrt1nac-ac-s-a-comprehensive-open-source-wi-fi-router-assessment/"><u>Expert Analysis of the Linksys WRT1nac AC S: A Comprehensive Open Source Wi-Fi Router Assessment</u></a></li>
+<li><a href="https://win11.techidaily.com/flicker-free-windows-experience-step-by-step-guide/"><u>Flicker-Free Windows Experience: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-re-enable-razer-recognition-by-synapse/"><u>How to Re-Enable Razer Recognition by Synapse</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/say-no-to-disguised-dangers-with-googles-bard-download/"><u>Say No to Disguised Dangers with Google’s Bard Download</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-unforeseen-errors-during-planning-in-windows-11-operating-systems/"><u>Troubleshooting Unforeseen Errors During Planning in Windows 11 Operating Systems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oneplus-nord-n30-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from OnePlus Nord N30 5G FRP Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/winfreedomgpt-guide-launching-unrestricted-chatbots/"><u>WinFreedomGPT Guide: Launching Unrestricted ChatBots</u></a></li>
 </ul></div>
 

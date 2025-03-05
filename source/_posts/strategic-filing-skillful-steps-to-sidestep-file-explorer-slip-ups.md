@@ -1,7 +1,7 @@
 ---
 title: "Strategic Filing: Skillful Steps to Sidestep File Explorer Slip-Ups"
-date: 2025-02-14T03:05:13.764Z
-updated: 2025-02-15T22:29:17.030Z
+date: 2025-03-04T01:09:13.923Z
+updated: 2025-03-05T03:27:33.156Z
 tags:
   - windows10
   - windows11
@@ -29,19 +29,11 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
 ![Windows 11 File Explorer with so many tabs open and scroll arrow buttons showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-explorer-title-bar-scroll-buttons.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you're running Windows 11, version 22H2 with Moment 3 update, you can open multiple tabs in File Explorer, just like in a web browser. When you don't use the feature, you have multiple folders that are opened in multiple windows, making switching between folders inconvenient.
 
  There are more benefits to using tabs. Right-clicking on tabs will display options to **Close other tabs**, which closes all tabs except the one you're currently seeing.
 
  Tabs can save you time, as you don't have to click multiple times to close multiple windows. You can learn [how to use tabs in File Explorer](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) to become more productive on Windows 11\.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Neglecting Keyboard Shortcuts
 
@@ -57,17 +49,9 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 * Press **Alt** \+ **P** to display the preview pane.
 * Press **Alt** \+ **Enter** to open the properties of the selected file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Avoiding Recent and Favorites Sections
 
 ![Screenshot showing File Explorer Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-home.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  File Explorer shows you recent files or folders you've opened, making them easier for you to quickly jump on later if needed. You shouldn't make the mistake of going to the folder location again to find something if you opened it recently. Instead, check the **Recent** section of File Explorer and get quick access to all the files you've opened recently.
 
@@ -90,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 ## 5\. Relying on Both Keyboard and Mouse To Select Multiple Files
 
 ![man using keyboard and mouse on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keyboard-and-mouse-on-desk.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
@@ -139,19 +119,24 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/he-urban-ecosystem-fostering-resilience-through-green-policies/"><u>[New] The Urban Ecosystem Fostering Resilience Through Green Policies</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unraveling-the-top-9-free-video-logo-creation-software-list/"><u>[New] Unraveling The Top 9 Free Video Logo Creation Software List</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-hide-identity-blurred-face-artistry/"><u>2024 Approved Hide Identity Blurred Face Artistry</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tuning-task-management-on-your-pc/"><u>Fine-Tuning Task Management on Your PC</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-oppo-f23-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo F23 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/how-cookiebot-enhances-your-digital-marketing-efforts-through-smart-bidding-and-automation/"><u>How Cookiebot Enhances Your Digital Marketing Efforts Through Smart Bidding and Automation</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-diagnose-and-resolve-runtimeexception-in-windows-applications/"><u>How to Diagnose and Resolve 'RuntimeException' In Windows Applications</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-connection-problems-in-win10win11-nvidia-use/"><u>Overcoming Connection Problems in Win10/Win11 Nvidia Use</u></a></li>
-<li><a href="https://win11.techidaily.com/preserve-cortanas-digital-footprint-on-pc/"><u>Preserve Cortana's Digital Footprint on PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/the-impact-of-eradicating-the-chatting-feature-in-windows-11s-taskbar/"><u>The Impact of Eradicating the Chatting Feature in Windows 11'S Taskbar</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-samsung-galaxy-z-fold-5-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Samsung Galaxy Z Fold 5 without backup.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-wi-fi-protocols-a-comprehensive-guide-to-ieee-80211-standards-be-ax-ac-bgn-and-a/"><u>Understanding Wi-Fi Protocols: A Comprehensive Guide to IEEE 802.11 Standards (Be, Ax, Ac, B/G/N, and A)</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-details-below-can-help-you-make-color-correction-simply-in-final-cut-pro-for-2024/"><u>Updated The Details Below Can Help You Make Color Correction Simply in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gimbal-guide-to-elevate-dslrmirrorless-footage/"><u>[Updated] Gimbal Guide to Elevate DSLR/Mirrorless Footage</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-adding-value-to-visuals-implementing-watermarks-in-instagram/"><u>2024 Approved Adding Value to Visuals Implementing Watermarks in Instagram</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-essential-toolkit-how-to-use-obs-for-youtube-and-twitch-streaming/"><u>2024 Approved The Essential Toolkit How to Use OBS for YouTube & Twitch Streaming</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-premier-smartwatch-selection-available-this-year/"><u>Discover the Premier Smartwatch Selection Available This Year</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unresponsive-notifications-from-phone-link-app-on-windows/"><u>Fixing Unresponsive Notifications From Phone Link App on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/from-apple-to-windows-effortless-integration-with-parallels-guide/"><u>From Apple to Windows: Effortless Integration with Parallels Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-batch-files-not-working-on-windows/"><u>How to Fix Batch Files Not Working on Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-12-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi 12 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-mindful-moments-easy-engrossing-phone-games/"><u>In 2024, Mindful Moments Easy, Engrossing Phone Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-your-chatbots-confidentiality-compromised-an-insight-into-neural-network-inversion-exploits/"><u>Is Your Chatbot's Confidentiality Compromised? An Insight Into Neural Network Inversion Exploits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/microsoft-word-woes-steps-to-take-when-your-files-wont-launch/"><u>Microsoft Word Woes: Steps to Take When Your Files Won't Launch</u></a></li>
+<li><a href="https://win11.techidaily.com/refreshing-windows-mastering-the-top-8-reboot-paths/"><u>Refreshing Windows: Mastering the Top 8 Reboot Paths</u></a></li>
+<li><a href="https://win11.techidaily.com/restore-order-on-your-desktop-8-fixes-for-odd-color-shifts/"><u>Restore Order on Your Desktop: 8 Fixes for Odd Color Shifts</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/revolutionize-your-business-with-ipatchsolutions-the-ultimate-project-management-tool/"><u>Revolutionize Your Business with IPatchSolutions: The Ultimate Project Management Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-managing-windows-11-registry-access/"><u>Securely Managing Windows 11 Registry Access</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reverse-the-blackout-issue-in-pc-games/"><u>Steps to Reverse the Blackout Issue in PC Games</u></a></li>
+<li><a href="https://win11.techidaily.com/total-uninstallation-of-wsl-on-windows/"><u>Total Uninstallation of WSL on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-full-scale-development-with-wsl-in-windows-10/"><u>Unleashing Full-Scale Development with WSL in Windows 10</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme Narzo N53? | Dr.fone</u></a></li>
 </ul></div>
 

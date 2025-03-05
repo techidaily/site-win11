@@ -1,7 +1,7 @@
 ---
 title: Reestablishing Connection Between Synapse & Razer Devices
-date: 2025-02-03T03:17:53.798Z
-updated: 2025-02-03T19:34:50.880Z
+date: 2025-02-25T17:03:57.107Z
+updated: 2025-03-04T21:41:33.624Z
 tags:
   - windows10
   - windows11
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 ![The Hardware and Devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-hardware-and-devices-troubleshooter.jpg)
 7. Select**Apply this fix** for resolutions the troubleshooter suggests.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Plug the Razer Device into an Alternative USB Port
 
  This issue can occur because of USB port connection issues. Some users have revealed that plugging Razer devices into different USB ports on their PCs resolved the issue of synapse not detecting them. So, try unplugging your Razer device and plugging it into an alternative USB port. Also, plug the device directly into your PC without using any intermediary USB hubs.
@@ -57,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
  It’s also recommended to select a**Remove device** option in Settings before plugging your device into another port. To do that, press the**Windows** logo +**I** key, select**Bluetooth and devices** , and click**View more** **devices** . Then click the three-dot button for your Razer hardware and select**Remove device** . In Windows 10’s Settings app, you can select a Razer peripheral on the**Bluetooth & other devices** tab and press**Remove device** .
 
 ![The Remove device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-device-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Select Synapse’s Repair Option
 
@@ -72,16 +64,8 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 ![The Change button for Synapse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-button.jpg)
 4. Select the**Repair** option in the window that opens.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Repair button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-button.jpg)
 5. Sign back into Razer Synapse after selecting**Repair** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Then select**Restart** in Windows 11/10 before launching Synapse.
 
@@ -115,14 +99,6 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 ![The Razer software installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razer-installer.jpg)
 3. Select the**Synapse** checkbox along with other Razer software to reinstall, and click the**Install** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Reinstall Mouse and Keyboard Device Drivers
 
  Another fix confirmed to work for this Synapse issue is to reinstall all Razer and HID-compliant mouse and keyboard devices. Applying that potential resolution can resolve device driver conflicts. You can reinstall HID mouse and keyboard drivers as follows:
@@ -148,10 +124,6 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 
  Launch Razer Synapse to see if it detects your devices after disabling antivirus software on your PC. If this potential resolution works, consider adding Razer Synapse to the[exclusion list in Windows Security](https://www.makeuseof.com/windows-11-security-exclusions/) or alternative security software. Then turn your antivirus protection back on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Configure Your Razer Devices in Synapse Again on Windows
 
  Those potential solutions will most likely resolve Synapse not detecting connected devices. Then you can reconfigure your Razer mouse, keyboard, or any other supported hardware with that software. However, any users who still need more troubleshooting guidance for this issue can submit a ticket to Razer’s support service by clicking the**Contact Support** button on this[Synapse 3 page](https://mysupport.razer.com/app/answers/detail/a%5Fid/3783/~/razer-synapse-3-support) .
@@ -171,24 +143,16 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-meme-mastery-strategies-for-engaging-audiences-with-fb-and-instagram-videos/"><u>[New] Meme Mastery Strategies for Engaging Audiences with FB & Instagram Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-influencers-playbook-5-tips-for-building-brand-authority-through-reddit-partnerships/"><u>[New] The Influencer's Playbook 5 Tips for Building Brand Authority Through Reddit Partnerships</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-asmr-videos-a-complete-guide/"><u>[Updated] In 2024, How to Make ASMR Videos A Complete Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-the-tick-tock-restoring-windows-time-service/"><u>Fixing the Tick-Tock: Restoring Windows Time Service</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Nokia C12? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-only-one-side-of-your-headphones-working-on-windows/"><u>How to Fix Only One Side of Your Headphones Working on Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-nokia-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Nokia</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-12-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 12 Lock Screen</u></a></li>
-<li><a href="https://some-tips.techidaily.com/labor-day-discount-snag-your-new-ipad-at-only-199-on-amazon-exclusive-deal-covered/"><u>Labor Day Discount: Snag Your New iPad at Only $199 on Amazon – Exclusive Deal Covered</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/mastering-sound-editing-shorten-audio-sections-in-imovie-for-mac-and-iphone-for-2024/"><u>Mastering Sound Editing Shorten Audio Sections in iMovie for Mac and iPhone for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-in-managing-windows-11-tpm-issues/"><u>Mastery in Managing Windows 11 TPM Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-exception-breakpoint-hit-on-windows-issues/"><u>Overcoming Exception Breakpoint Hit on Windows Issues</u></a></li>
-<li><a href="https://fox-links.techidaily.com/overcoming-virtual-reality-nausea/"><u>Overcoming Virtual Reality Nausea</u></a></li>
-<li><a href="https://win11.techidaily.com/pathways-to-troubleshooting-with-winrm-utility/"><u>Pathways to Troubleshooting with WinRM Utility</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-a-fresh-start-on-file-explorer/"><u>Quick-Fixes for a Fresh Start on File Explorer</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-suspended-system-safety-mechanisms-in-win-11/"><u>Solving Suspended System Safety Mechanisms in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlined-productivity-placing-shortcuts-next-to-windows-11s-power-icon/"><u>Streamlined Productivity: Placing Shortcuts Next to Windows 11'S Power Icon</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-windows-11-updates-via-batch-installation-using-winstall/"><u>Streamlining Windows 11 Updates via Batch Installation Using Winstall</u></a></li>
-<li><a href="https://win11.techidaily.com/tailor-your-taskbar-space-include-google-mail-in-edge-setup/"><u>Tailor Your Taskbar Space: Include Google Mail in Edge Setup</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-20plus-best-free-camera-apps-for-high-quality-slo-motion-videos/"><u>[New] 20+ Best Free Camera Apps for High-Quality Slo-Motion Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/7-ways-to-fix-optional-features-not-installing-on-windows-11-and-11/"><u>7 Ways to Fix Optional Features Not Installing on Windows 11 & 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-pitfalls-in-gpt-engagement/"><u>Avoid Pitfalls in GPT Engagement</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722880015430-discover-the-superiority-elite-ceiling-speakers-for-2024-unleashed/"><u>Discover the Superiority: Elite Ceiling Speakers for 202#4 Unleashed!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/leveraging-twitter-archive-for-research/"><u>Leveraging Twitter Archive for Research</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-tips-for-using-lesser-known-windows-11-assets-efficiently/"><u>Pro-Tips for Using Lesser Known Windows 11 Assets Efficiently</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/professional-reactaspnet-core-integration-for-ultimate-dashboard-templates-creative-tim-premium-edition/"><u>Professional React/ASP.NET Core Integration for Ultimate Dashboard Templates @ Creative Tim - Premium Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-missing-thermal-policy-in-windows-environment/"><u>Restoring Missing Thermal Policy in Windows Environment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-comprehensive-technique-to-recover-erased-texts-on-all-types-of-phones/"><u>The Comprehensive Technique to Recover Erased Texts on All Types of Phones</u></a></li>
+<li><a href="https://win11.techidaily.com/to-keep-or-not-to-delete-the-case-of-pagefilesys/"><u>To Keep or Not to Delete: The Case of Pagefile.sys</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-your-fcp-potential-with-these-10-plugs-for-2024/"><u>Unlock Your FCP Potential with These 10 Plugs for 2024</u></a></li>
 </ul></div>
 

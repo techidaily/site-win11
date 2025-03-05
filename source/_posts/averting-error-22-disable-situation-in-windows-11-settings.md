@@ -1,7 +1,7 @@
 ---
 title: Averting Error 22 Disable Situation in Windows 11 Settings
-date: 2024-08-08T13:11:28.052Z
-updated: 2024-08-09T13:11:28.052Z
+date: 2025-03-03T00:48:50.239Z
+updated: 2025-03-04T17:00:43.980Z
 tags:
   - windows10
   - windows11
@@ -34,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
  Now that you have a brief knowledge about the "this device is disabled (Code 22)" error, let's explore solutions that will help you fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Enable the Device in the Device Manager
 
  One of the simplest ways to fix error code 22 is to manually enable the device throwing the error. To do that, open the **Device Manager** (check how to [launch Device Manager on Windows](https://www.makeuseof.com/windows-open-device-manager/)), right-click on the problematic device, and choose **Properties**. Then, click the **Enable Device** button.
@@ -61,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
  Your computer will now check the Microsoft servers for updates to your current operating system, including its drivers. If any updates are found, they will be downloaded and installed automatically. Otherwise, you will see a message that says **You're up to date**.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Use the Hardware and Device Troubleshooter
 
  Windows comes with several troubleshooters that can help you fix different problems. One of them is the Hardware and Devices troubleshooter, which, as the name suggests, helps to fix hardware issues.
@@ -74,16 +68,10 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
  Then, check the **Apply repairs automatically** option and click **Next** to step through it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Apply repairs automatically option of Hardware troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Apply-repairs-automatically.jpg)
 
  Once the wizard completes, the troubleshooter will let you know of any issues it found and how to fix them.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## 5\. Clear Your Computer's CMOS
 
  Another way to fix the "this device is disabled (code 22)" error is to clear the CMOS. Doing this will be helpful if a recent change in your BIOS setting is causing the issue. You can clear the CMOS by following the below instructions:
@@ -95,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
  After that, put back the cover of your computer and plug in all the devices.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Update Your Computer's BIOS
 
  An outdated BIOS can prevent your PC from working properly with certain devices and may cause errors such as code 22\.
@@ -116,21 +101,11 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
  If you are still struggling with the error, you can [try a system restore on Windows](https://www.makeuseof.com/use-system-restore-windows/) to see if that fixes your problem. This will restore your computer to a prior point in time, which is useful if the issue started recently.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Fixing Error Code 22 in Windows
 
  There's nothing more frustrating than not being able to use an external device because your Windows PC is not recognizing it. The "this device is disabled (code 22)" error is one such issue that can prevent you from using an external device that's connected to your system. Fortunately, you can quickly troubleshoot this error using the above solutions.
 
  Fortunately, it's very easy to fix the error code 22 on Windows. Let's look at what the error code 22 means on Windows, some common reasons why it occurs, and how to quickly fix it.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -138,4 +113,18 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-step-by-step-approach-for-effective-spotify-marketing/"><u>[Updated] A Step-by-Step Approach for Effective Spotify Marketing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dead-by-daylight-troubleshooting-solving-error-code-8014/"><u>Dead by Daylight Troubleshooting: Solving Error Code 8014</u></a></li>
+<li><a href="https://win11.techidaily.com/dispel-windows-handbrake-barriers-instantly/"><u>Dispel Windows' HandBrake Barriers Instantly</u></a></li>
+<li><a href="https://fox-links.techidaily.com/find-the-best-value-top-6-budget-friendly-camera-options-for-2024/"><u>Find the Best Value Top 6 Budget-Friendly Camera Options for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-vivo-y100i-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo Y100i Unlock Without Password</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-text-actions-in-win-11s-snipping-tool/"><u>Navigating Text Actions in Win 11'S Snipping Tool</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-10-face-blurring-tools-for-photos-and-videos-a-beginners-guide/"><u>New Top 10 Face Blurring Tools for Photos and Videos A Beginners Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/record-your-games-effortlessly-without-relying-on-microsoft-for-2024/"><u>Record Your Games Effortlessly, Without Relying on Microsoft for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-slowness-issues-with-windows-monitor-app/"><u>Solving Slowness Issues with Windows Monitor App</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-solving-interrupt-at-breakpoint-in-debugging/"><u>Understanding and Solving 'Interrupt at Breakpoint' In Debugging</u></a></li>
+</ul></div>
 

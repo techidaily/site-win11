@@ -1,7 +1,7 @@
 ---
 title: Batch Automation for File Repositioning in Win 11
-date: 2024-08-08T13:14:08.916Z
-updated: 2024-08-09T13:14:08.916Z
+date: 2025-02-26T00:46:08.588Z
+updated: 2025-03-04T16:07:12.807Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 
  However, you can add this feature to Windows 11’s context menu with Files 2 Folder and TeraCopy. Both software packages add context menu options for putting selected files into new folders. This is how you can put selected files into new folders in Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## How to Place Selected Files Into a New Folder With Files 2 Folder
 
  Files 2 Folder is little more than a shell extension that adds a new option to Windows 11’s classic context menu. Selecting **Files 2 Folder** on the context menu brings up a window with four options for moving the selected files into a new directory.
@@ -37,14 +33,8 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 4. Now bring up a directory that includes some files with which to create a new folder.
 5. Select files to include in your new folder.
 6. Then right-click a selected file and select **Show more options** and **Files 2 Folder** on the classic context menu.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Files 2 Folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/files-2-folder-option.jpg)
 7. Input a folder name within the text for the **Move all selected items into a subfolder named** option.  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Files 2 Folders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/files2folder-window.jpg)
 8. Click **OK** to create the new folder with the files selected moved into it. The new folder will be in the directory where you selected the files.
 
@@ -52,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 
  If you need to organize selected files according to format, select **Move each file to subfolders based on their file extensions**.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Place Selected Files Into a New Folder With TeraCopy
 
  TeraCopy is freeware software for Windows 11, 10, 8, and 7 that enables users to set up and automate move and copy file operations. Once you integrate TeraCopy with Explorer’s context menu, it will add a **New folder with selection** option you can click to quickly put the selected files into a new folder.
@@ -68,18 +55,12 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 ![The Teracopy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/teracopy-window.jpg)
 5. Make sure the **Add to Explorer context menu** option is selected.
 6. Click **OK** to exit the preferences and close the TeraCopy window.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![The Add to Explorer context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-to-explorer-context-menu.jpg)
 
  Now that TeraCopy is ready to go, let's put it to use.
 
 1. Hold down **CTRL** and click the files you want to put into a folder.
 2. Right-click to select **Show more options** and the **New folder with selection** option.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![The New folder with selection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-folder-with-selection-option.jpg)
 3. Then input a title for your new folder and press **Enter**.
 4. The new folder is created as a subfolder within the directory that included your original file selection. Open the new folder to view and access the files you selected to move into it.
@@ -92,12 +73,33 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 
  However, you can add this feature to Windows 11’s context menu with Files 2 Folder and TeraCopy. Both software packages add context menu options for putting selected files into new folders. This is how you can put selected files into new folders in Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-chucklechops-witworks-corp/"><u>[New] 2024 Approved ChuckleChops WitWorks Corp</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-navigating-and-leveraging-siri-for-tiktok-content-creation/"><u>[New] 2024 Approved Navigating and Leveraging Siri for TikTok Content Creation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-precise-speech-to-text-the-google-standard/"><u>[New] 2024 Approved Precise Speech to Text The Google Standard</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-efficient-video-categorization-with-tags/"><u>[New] In 2024, Efficient Video Categorization with Tags</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-exemplar-storyboard-creators-circle/"><u>[Updated] 2024 Approved Exemplar Storyboard Creator's Circle</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-innovative-methods-for-shuffling-yt-playlists/"><u>[Updated] In 2024, Innovative Methods for Shuffling YT Playlists</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-google-cardboard-vs-samsung-gear-vr/"><u>2024 Approved Google Cardboard Vs. Samsung Gear VR</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigate-to-your-preferred-stream-rate-netflixs-controls/"><u>2024 Approved Navigate to Your Preferred Stream Rate - Netflix's Controls</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-clipboard-functionality-in-windows-11s-edge-shielding-mode/"><u>Enabling Clipboard Functionality in Windows 11'S Edge Shielding Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-screen-resolution-in-windows-11/"><u>Fine-Tuning Screen Resolution in Windows 11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/frugal-filmmaking-top-camera-deals-for-2024/"><u>Frugal Filmmaking Top Camera Deals for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-youtube-masterclass-crafting-engaging-openers-technique-1-and-2/"><u>In 2024, YouTube Masterclass Crafting Engaging Openers (Technique 1 & 2)</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-computer-controls-internationally-using-powertoys-capabilities/"><u>Master Your Computer Controls Internationally Using PowerToys' Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/overcome-your-intel-unison-errors-with-these-tips-for-win11/"><u>Overcome Your Intel Unison Errors with These Tips for Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-restore-file-editability-on-windows-devices/"><u>Solutions to Restore File Editability on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-eliminating-read-only-files-in-win10win11/"><u>Strategies for Eliminating Read-Only Files in Win10/Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-stop-random-cmd-openings-on-windows-devices/"><u>Strategies to Stop Random CMD Openings on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-guide-enabling-imessage-for-non-ios-devices/"><u>The Insider’s Guide: Enabling iMessage for Non-iOS Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-no-internet-router-control-panel/"><u>Troubleshooting No Internet Router Control Panel</u></a></li>
+</ul></div>
 

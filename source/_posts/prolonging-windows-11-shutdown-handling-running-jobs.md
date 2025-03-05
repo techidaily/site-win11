@@ -1,7 +1,7 @@
 ---
 title: Prolonging Windows 11 Shutdown - Handling Running Jobs
-date: 2024-12-23T16:32:41.414Z
-updated: 2024-12-28T00:21:17.815Z
+date: 2025-02-28T00:20:37.718Z
+updated: 2025-03-04T23:28:30.915Z
 tags:
   - windows10
   - windows11
@@ -31,29 +31,17 @@ thumbnail: https://thmb.techidaily.com/981f5aab13809d22943cf0e3715f6a9d6dac906b3
 
  Alternatively, it could just be a problem task. This may be true if it is a recurring issue. In this case, and if you’re sure none of the applications you are using will lose data, you could make Windows force a sign-off more quickly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Should You Try First?
 
  The method described here basically forces Windows to wait longer while shutting down or logging off. However, if you have a misbehaving program interfering with Windows log-off, it could be something to look into. There are fixes you should try first if there is an[app preventing Windows from shutting down or logging off](https://www.makeuseof.com/this-app-preventing-windows-shutting-down-restarting-signing-out-error/) .
 
  If none of those options works, you can adjust how long Windows waits before logging off, which gives any running or buggy apps more time to sort themselves out.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Make Windows Wait Longer When Logging Off
 
  There are two processes that you can turn to. With the first, WaitToKillAppTimeout, Windows grants apps 20 seconds to save data and close. If apps don’t respond, Windows considers them “hung.” HungAppTimeout, the second, tells Windows how many seconds to wait before considering apps to be hung and offering a force-close solution.
 
  Changing both these values involves[editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) , so be wary, and[make a backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) copy before you tinker with it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1A. How to Set WaitToKillAppTimeout for Just Your User Account
 
@@ -66,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/981f5aab13809d22943cf0e3715f6a9d6dac906b3
 4. If you don’t see it, you’ll need to create it by right-clicking in any empty space in the pane and selecting**New > String Value** . Rename it**WaitToKillAppTimeout** .
 5. Double-click this string to edit its value, which is in milliseconds. (1000 milliseconds equals one second.) By default, the value data is set to 20,000 (or 20 seconds).
 6. Increase this value to make Windows wait on running apps longer before shutting down or logging off. (Decreasing its value will log you off more quickly.)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1B. How to Change WaitToKillAppTimeout for All Users
 
@@ -101,10 +85,6 @@ This will allow you to change the default value for all users.
 `HKEY_USERS\.DEFAULT\Control Panel\Desktop`
 3. Follow steps 3 to 6 from method 2A to change how long Windows waits when logging off for all users.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Give Apps More Time to Close When Logging Off
 
  If apps keep interrupting Windows when you shut down or log off, it would be wise to give them a little more time to finish up and close properly. That way, they won’t interrupt the log-off process and have you intervene manually.
@@ -124,21 +104,20 @@ This will allow you to change the default value for all users.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-captivating-concepts-explore-14-innovative-text-movements/"><u>[New] 2024 Approved Captivating Concepts Explore 14 Innovative Text Movements</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-snap-and-tag-your-audio-favorite-to-share/"><u>[Updated] Snap & Tag Your Audio Favorite to Share</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/54sh5paz/"><u>無料</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cant-get-your-blue-yeti-to-work-here-are-some-quick-fixes/"><u>Can't Get Your Blue Yeti to Work? Here Are Some Quick Fixes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discovering-long-lasting-comfort-an-authoritative-review-of-the-mavix-m9-gaming-seat/"><u>Discovering Long-Lasting Comfort: An Authoritative Review of the Mavix M9 Gaming Seat</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-management-utilize-keyboard-shortcuts-for-window-control/"><u>Efficient Management: Utilize Keyboard Shortcuts for Window Control</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-memory-efficiency-with-edge-webview2-fixes/"><u>Enhancing Memory Efficiency with Edge WebView2 Fixes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo Y77t? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-glitches-the-top-10-tools/"><u>Mastering Windows Glitches: The Top 10 Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prime-video-recorders-head-on-screen-viewing-for-2024/"><u>Prime Video Recorders Head-On Screen Viewing for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-dealing-with-windows-exception-breakpoint-failure/"><u>Quick Fixes for Dealing with Windows Exception Breakpoint Failure</u></a></li>
-<li><a href="https://win11.techidaily.com/the-insiders-guide-to-tackling-regular-windows-rainmeter-issues/"><u>The Insider's Guide to Tackling Regular Windows Rainmeter Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/twitch-explained-your-gateway-to-streaming-success/"><u>Twitch Explained: Your Gateway to Streaming Success</u></a></li>
-<li><a href="https://win11.techidaily.com/uncovering-methods-to-disable-gpu-aided-prioritization-on-widno/"><u>Uncovering Methods to Disable GPU-Aided Prioritization on WIDNO</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-behind-apples-hidden-ipad-pro-sale-prime-day-bargain-extravaganza/"><u>Unveiling the Secrets Behind Apple's Hidden iPad Pro Sale – Prime Day Bargain Extravaganza!</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-tips-manage-file-explorer-folders-visibility/"><u>Windows 11 Tips: Manage File Explorer Folders Visibility</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-smooth-win11-meetings-via-zoom/"><u>[New] Expert Tips for Smooth Win11 Meetings via Zoom</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-affordable-pc-frame-capture-apps-for-2024/"><u>[Updated] Affordable PC Frame Capture Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-leveraging-youtubes-cc-options-for-video-production/"><u>[Updated] Leveraging YouTube's CC Options for Video Production</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/crop-circles-the-essential-list-of-farming-games-for-2024/"><u>Crop Circles The Essential List of Farming Games for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/discover-the-top-free-h265-encoded-uhd-media-players-of-2022-latest-rankings-and-picks/"><u>Discover the Top Free H.265 Encoded UHD Media Players of 2022 - Latest Rankings and Picks!</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-solid-state-drive-speed-on-windows-via-ssd-fresh/"><u>Elevate Solid State Drive Speed on Windows via SSD Fresh</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-itel-p55-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Itel P55 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-13c-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi 13C 5G Lock Screen Password?</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-charmap-incompatibility-challenges/"><u>Overcoming Windows CharMap Incompatibility Challenges</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-for-microsoft-store-crash-error-0x800704cf-in-windows/"><u>Quick Fix for Microsoft Store Crash: Error 0X800704CF in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-tips-for-access-denied-on-nvidia-panel/"><u>Quick-Fix Tips for Access Denied on NVIDIA Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-repairing-code-0x0000004e-on-pcs/"><u>Step-by-Step: Repairing Code 0X0000004E on PCs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/straightforward-steps-simplified-laptop-screening-on-dell/"><u>Straightforward Steps Simplified Laptop Screening on Dell</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-screen-savers-a-guide-to-win11/"><u>Tailoring Screen Savers: A Guide to Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/winfixer-rectifying-the-network-not-reachable-error-in-windows-11/"><u>Winfixer: Rectifying the 'Network Not Reachable' Error in Windows 11</u></a></li>
 </ul></div>
 

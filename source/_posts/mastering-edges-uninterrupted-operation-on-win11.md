@@ -1,7 +1,7 @@
 ---
 title: Mastering Edge's Uninterrupted Operation on Win11
-date: 2025-02-12T02:45:51.833Z
-updated: 2025-02-16T02:34:56.830Z
+date: 2025-03-03T16:10:06.971Z
+updated: 2025-03-04T18:35:46.418Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Change the Power Settings on Edge
 
  The easiest and most effective way to keep Edge from running undetected in the background on Windows 11 is to update its permissions from Settings.
@@ -37,14 +33,6 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 2. Select**Settings** and click on**Systems and Performance** .
 3. Find the toggle button for the option called **Continue running background extensions and apps when Microsoft Edge is closed** and turn it off.  
 ![changing settings in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edge-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Edit the Windows Registry
 
@@ -61,14 +49,6 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 3. Name the new file**AllowPrelaunch** .
 4. After renaming the new file, double-click on the file and set its**Value data** to 0.  
 ![editing registry to disable automatic edge process startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edit-registry-edge-processes.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Stop Edge Running in the Background to Ensure the Smooth Functioning of Your Device
 
@@ -89,22 +69,24 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-android-tools-for-video-recording/"><u>[New] 2024 Approved Essential Android Tools for Video Recording</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-efficiently-saving-your-screen-the-dell-approach-for-2024/"><u>[New] Efficiently Saving Your Screen The Dell Approach for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-instacrafts-seamless-video-assemblies-on-androidios-for-2024/"><u>[New] InstaCrafts Seamless Video Assemblies on Android/iOS for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-add-a-professional-touch-youtube-video-image-crafting/"><u>[Updated] In 2024, Add a Professional Touch YouTube Video Image Crafting</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-unseen-loss-rapid-video-expulsion/"><u>2024 Approved The Unseen Loss Rapid Video Expulsion</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-play-improving-robloxs-latency-on-windows/"><u>Elevating Play: Improving Roblox's Latency on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-overcoming-windows-restricted-files-errors/"><u>Guide to Overcoming Windows' Restricted Files Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-persistent-crashing-in-insurgency-sandstorm-a-complete-guide/"><u>How to Fix Persistent Crashing in Insurgency: Sandstorm - A Complete Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-huawei-nova-y71-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Huawei Nova Y71 Phone? Unlock It Now</u></a></li>
-<li><a href="https://win11.techidaily.com/master-method-skipping-windows-11-logon/"><u>Master Method: Skipping Windows 11 Logon</u></a></li>
-<li><a href="https://win11.techidaily.com/rehabilitate-non-functional-keys-on-win10-systems/"><u>Rehabilitate Non-Functional Keys on WIN10 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-spooler-reboot-techniques/"><u>Simple Spooler Reboot Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-for-preventing-outpost-infinity-siege-from-crashing-on-your-computer/"><u>Step-by-Step Solutions for Preventing Outpost: Infinity Siege From Crashing on Your Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-reconnecting-windows-11-to-a-disconnected-printer/"><u>Strategies for Reconnecting Windows 11 to a Disconnected Printer</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-win-error-for-mfc71udll/"><u>Troubleshooting Win Error for Mfc71u.dll</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/understanding-asmrs-health-perks-for-2024/"><u>Understanding ASMR's Health Perks for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-experts-insight-efficiently-using-mobizen-for-capturing-screens/"><u>[Updated] Expert's Insight Efficiently Using Mobizen for Capturing Screens</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-troubleshooting-stuttering-video-on-photo-booth-app/"><u>2024 Approved Troubleshooting Stuttering Video on Photo Booth App</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unpacking-the-necessity-of-instagram-written-verification/"><u>2024 Approved Unpacking the Necessity of Instagram’ Written Verification</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-address-windows-11s-missing-search-items/"><u>How to Address Windows 11'S Missing Search Items</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-v27-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo V27 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-wsl-removal-in-win-1011/"><u>Mastering WSL Removal in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-your-watch-time-free-windows-media-center-list/"><u>Maximize Your Watch Time: Free Windows Media Center List</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-wp-app-showdown-introducing-unison-and-phone-link/"><u>Microsoft WP App Showdown: Introducing Unison & Phone Link</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/reel-in-quality-essential-audio-devices-for-podcast-producers/"><u>Reel in Quality Essential Audio Devices for Podcast Producers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reinstating-scan-functionality-in-windows-11/"><u>Reinstating Scan Functionality in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-pc-download-rates-on-battlenet/"><u>Skyrocket PC Download Rates on Battle.net</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-upgrade-for-sluggish-microsoft-edge-on-win10plus11/"><u>Speedy Upgrade for Sluggish Microsoft Edge on Win10+11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-library-loading-problem-87-in-windows/"><u>Steps to Resolve Library Loading Problem 87 in Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/streamline-stress-effective-edits-for-lifeless-bigger-tiktok-drafters-for-2024/"><u>Streamline Stress Effective Edits for Lifeless, Bigger TikTok Drafters for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/stutter-free-screenplay-essential-steps-for-a-seamless-windows-media/"><u>Stutter-Free Screenplay: Essential Steps for a Seamless Windows Media</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-facetunes-potential-photo-editing-like-never-before-for-2024/"><u>Unveiling Facetune's Potential Photo Editing Like Never Before for 2024</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-best-10-free-video-translators-to-mitigate-translation-risks/"><u>Updated Best 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-unwaking-from-sleep-with-input-devices/"><u>Win11: Unwaking From Sleep with Input Devices</u></a></li>
 </ul></div>
 

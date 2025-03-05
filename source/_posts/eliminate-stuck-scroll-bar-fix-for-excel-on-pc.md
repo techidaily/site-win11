@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Stuck Scroll Bar: Fix for Excel on PC"
-date: 2025-02-14T01:50:09.341Z
-updated: 2025-02-15T17:11:18.432Z
+date: 2025-02-28T21:48:49.987Z
+updated: 2025-03-04T16:33:44.886Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Turn Off Scroll Lock
 
@@ -67,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 6. Click **OK** to save the changes.  
 ![Disable Zoom on Roll With IntelliMouse in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-zoom-on-roll-with-intellimouse-in-excel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Enable Scroll Bars
 
  You may have trouble scrolling through your spreadsheets if Excel does not display the horizontal and vertical scroll bars on your PC. Here’s how you can enable them.
@@ -101,15 +93,7 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 3. Click **Update Options > Update Now**.  
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for Microsoft Office to update Excel as well as other Office apps and check if that fixes the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Run the Office Repair Tool
 
@@ -123,15 +107,7 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 6. Select the **Quick Repair** option and then click **Repair**.  
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Allow the repair tool to fix any issues with the Office apps. If the problem persists, Microsoft recommends that you repeat the above steps and conduct an **Online Repair** instead. This will allow the tool to perform a more comprehensive repair. It's important to note that this process requires your PC to have an active internet connection.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Apply Some Generic Fixes
 
@@ -161,18 +137,18 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-navigating-facebook-live-your-2023-playbook/"><u>[New] Navigating Facebook Live Your 2023 Playbook</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unlock-the-power-of-your-fb-lives-with-these-picks/"><u>[New] Unlock the Power of Your Fb Lives with These Picks</u></a></li>
-<li><a href="https://win11.techidaily.com/compromised-corecipher-evaluate-dont-rush-to-replace/"><u>Compromised CoreCipher? Evaluate, Don't Rush to Replace</u></a></li>
-<li><a href="https://win11.techidaily.com/diagnosing-frozen-lock-screen-timed-out-error/"><u>Diagnosing Frozen Lock Screen Timed Out Error</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Lava Storm 5G? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-fcp-downloading-what-you-need-for-2024/"><u>Free FCP Downloading - What You Need for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-use-dism-commands-to-repair-windows-11-system-images/"><u>How to Use DISM Commands to Repair Windows 11 System Images</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-navigating-advanced-color-grading-techniques-using-luts/"><u>In 2024, Navigating Advanced Color Grading Techniques Using LUTs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Will iSpoofer update On Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-windows-for-crystal-clear-wallpapers/"><u>Optimizing Windows for Crystal Clear Wallpapers</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-profile-corruption-in-modern-windows-versions/"><u>Overcoming Profile Corruption in Modern Windows Versions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-fixes-and-solutions-ending-the-blackout-on-your-facetime-connections/"><u>Quick Fixes & Solutions: Ending the Blackout on Your FaceTime Connections</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-upgrade-wisdom-efficiently-shifting-your-pcs-programming/"><u>Windows Upgrade Wisdom: Efficiently Shifting Your PC's Programming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-decoding-the-best-free-video-apps-for-os-multiplicity/"><u>[New] In 2024, Decoding the Best Free Video Apps for OS Multiplicity</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-arc-electrify-powerful-media-player-replacement/"><u>2024 Approved Arc Electrify Powerful Media Player Replacement</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-and-tricks-sending-images-videos-and-more-from-mac-to-tv-via-airplay-connectivity/"><u>Expert Tips and Tricks: Sending Images, Videos & More From Mac to TV via AirPlay Connectivity</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-alerts-for-admin-set-security-options/"><u>Fixing Windows Alerts for Admin-Set Security Options</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-win11-without-an-online-connection/"><u>Guide to Win11 Without an Online Connection</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-se-2022-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone SE (2022)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-realme-c53-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Realme C53?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-rufus-to-bypass-tpm-and-secure-boot-requirements-in-windows-11/"><u>How to Use Rufus to Bypass TPM and Secure Boot Requirements in Windows 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-learning-unveiled-with-googled-editors-choice-mondly/"><u>Language Learning Unveiled with Googled Editors' Choice - Mondly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-d3d-driver-initiation-failures-fix-for-gta-v-errgfx-error/"><u>Overcoming D3D Driver Initiation Failures: Fix for GTA V ERR_GFX Error</u></a></li>
+<li><a href="https://win11.techidaily.com/redefining-monitor-clarity-on-windows-11/"><u>Redefining Monitor Clarity on Windows 11</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/seamless-strategies-for-converting-tudou-media-files-into-high-quality-mp3s/"><u>Seamless Strategies for Converting Tudou Media Files Into High-Quality MP3s</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-arp-cache-unrave-written-steps-and-strategies-126-chars-exceeds-limit-adjusted-to-fit-better-steps-for-clearing-windows-arp/"><u>Windows ARP Cache Unrave Written: Steps & Strategies (126 Chars, Exceeds Limit, Adjusted to Fit Better: Steps for Clearing Windows ARP</u></a></li>
 </ul></div>
 

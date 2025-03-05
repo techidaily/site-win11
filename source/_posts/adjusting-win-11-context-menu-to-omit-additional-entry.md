@@ -1,7 +1,7 @@
 ---
 title: Adjusting Win 11 Context Menu to Omit Additional Entry
-date: 2024-08-08T13:15:14.793Z
-updated: 2024-08-09T13:15:14.793Z
+date: 2025-02-26T18:14:43.262Z
+updated: 2025-03-04T18:52:10.499Z
 tags:
   - windows10
   - windows11
@@ -30,18 +30,6 @@ thumbnail: https://thmb.techidaily.com/a68fefb1cd3e565ec5f454a0d5028d3000ec7ede8
 2. Click the three horizontal dots at the top bar and choose**Options.**
 3. In the**Folder Options,** switch to the**View** tab.
 4. Check the**Launch folder** **windows in a separate process** box.  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Launch folder windows in a separate process box in the Folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/launch-folder-windows-in-a-separate-process-box.jpg)
 5. Click**Apply** \>**OK** to save the changes.
 
@@ -57,9 +45,6 @@ Next, restart your computer for the changes to take effect.
 4. In the elevated Command Prompt window, type the following command and press**Enter** :  
 `reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve`
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Command to Remove Context menu in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-to-remove-context-menu.jpg)
 
  After executing the command, you'll see the "The operation completed successfully" message to confirm that it went through.
@@ -87,9 +72,6 @@ Next, restart your computer for the changes to take effect.
 5. Double-click on the UndockingDisabled key, type**1** in the**Value data,** and click**OK** to save the changes.  
 ![Editing UndockingDisabled in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/editing-undockingdisabled.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Remove the "Show More Options" Entry From the Context Menu Using Winaero Tweaker
 
  There are plenty of third-party tools using which you can customize the look of your Windows 11 computer. For this guide, we will use Winaero Tweaker.
@@ -99,32 +81,20 @@ Next, restart your computer for the changes to take effect.
 1. Download the [Winaero Tweaker zip file](https://winaero.com/downloads/winaerotweaker.zip) on your computer.
 2. Unzip the file, open the executable, and then follow the on-screen instructions to install it on your computer.
 3. Launch Winaero Tweaker and choose the**Classic Full Context Menus** option from the left sidebar.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Classic Full Context Menus option of Winaero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/classic-full-context-menus-option.jpg)
 4. Check the**Enable classic full context menus** box.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable classic full context menus option in Winaero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-classic-full-context-menus.jpg)
 5. Click the**Restart Explorer** button that appears.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Enjoy an Old School Context Menu on Windows 11
 
  The desktop context menu lets you quickly access areas like the personalization menu, display settings, and much more. In Windows 11, you get the new "Show more options" entry in the context menu. But if you prefer the old design, you can quickly disable the "Show more options" entry from the context using either of the above methods.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,6 +103,26 @@ Next, restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-engagement-natural-ways-to-popularize-your-videos/"><u>[New] 2024 Approved Elevate Engagement Natural Ways to Popularize Your Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-explore-the-best-8-mirrorless-cameras-for-youtube-vloggers/"><u>[New] 2024 Approved Explore the Best 8 Mirrorless Cameras for YouTube Vloggers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-live-the-experience-top-4-ways-to-preserve-your-gaming-adventures/"><u>[New] In 2024, Live the Experience Top 4 Ways to Preserve Your Gaming Adventures</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-best-companions-choosing-blu-ray-software-freepaid-on-pcsmacs-for-2024/"><u>[Updated] Best Companions Choosing Blu-Ray Software (Free/Paid) on PCs/Macs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-correcting-windows-0x80072af9-mistake/"><u>Decoding and Correcting Windows' 0X80072AF9 Mistake</u></a></li>
+<li><a href="https://win11.techidaily.com/empowering-buyers-with-ai-at-microsofts-digital-marketplace/"><u>Empowering Buyers with AI at Microsoft's Digital Marketplace</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915385576-essential-social-networking-sites-explore-facebook-twitter-instagram-and-youtube/"><u>Essential Social Networking Sites - Explore Facebook, Twitter, Instagram, and YouTube!</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-engage-with-widget-features-in-win11-os/"><u>How to Engage With Widget Features in Win11 OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-keep-starfield-running-smoothly-without-crashing-on-your-desktop-system/"><u>How to Keep Starfield Running Smoothly Without Crashing on Your Desktop System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-move-playlist-library-from-apple-music-to-youtube-music-for-a-unified-listening-experience/"><u>How to Move Playlist Library From Apple Music to YouTube Music for a Unified Listening Experience</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-tips-for-capturing-evening-portraits/"><u>In 2024, Essential Tips for Capturing Evening Portraits</u></a></li>
+<li><a href="https://win11.techidaily.com/personalized-protocol-for-spotting-system-intrusions/"><u>Personalized Protocol for Spotting System Intrusions</u></a></li>
+<li><a href="https://win11.techidaily.com/power-users-unite-local-gpo-in-windows-11/"><u>Power Users Unite: Local GPO in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-pre-ultimate-windows-pc-accessibility/"><u>Revitalizing Pre-Ultimate Windows PC Accessibility</u></a></li>
+<li><a href="https://win11.techidaily.com/the-swift-route-to-opening-iis-manager-interface/"><u>The Swift Route to Opening IIS Manager Interface</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-moto-g34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/tracking-bandwidth-icon-tutorial-for-taskbar/"><u>Tracking Bandwidth: Icon Tutorial for Taskbar</u></a></li>
+<li><a href="https://win11.techidaily.com/tricks-for-bypassing-windows-11-lock-in-minutes/"><u>Tricks for Bypassing Windows 11 Lock in Minutes</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-access-denied-message-for-windows-device-files/"><u>Troubleshooting the 'Access Denied' Message for Windows Device Files</u></a></li>
+</ul></div>
 

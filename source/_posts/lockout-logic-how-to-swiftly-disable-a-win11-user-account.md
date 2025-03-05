@@ -1,7 +1,7 @@
 ---
 title: "Lockout Logic: How to Swiftly Disable a Win11 User Account"
-date: 2025-02-08T22:19:04.186Z
-updated: 2025-02-15T16:57:14.700Z
+date: 2025-03-04T02:03:22.089Z
+updated: 2025-03-04T22:13:20.216Z
 tags:
   - windows10
   - windows11
@@ -45,10 +45,6 @@ To disable user accounts via Settings:
 
  Note that you must log in to your administrator account to make changes to user accounts. Also, you can only block sign-in for members of**Your family** in the Family groups from Settings. If you need to disable a local user account, you must use the PowerShell and Command Prompt methods below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. How to Disable a User Account Using Windows PowerShell
 
  If you need to disable and enable user accounts frequently, PowerShell can help you do it efficiently. To do this, you can use the Disable-LocalUser cmdlet and specify the user account name you want to disable.
@@ -70,19 +66,11 @@ To disable a user account using PowerShell:
 ![powerhsell user account disable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powerhsell-user-account-disable.jpg)
 3. PowerShell will not return a success message after the user account is disabled.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. If you need to enable the account again, type the following command and press Enter:  
 `Enable-LocalUser -Name &ldquo;NewUser&rdquo;`
 5. In the above command replace NewUser with your user account name.
 
  When disabled, the user account will be hidden from your lock screen. To verify the same, press**Win + L** to[lock your Windows 11 computer](https://www.makeuseof.com/windows-11-ways-to-lock/) . Next, double-click on the lock screen to view the login screen. If disabled, the user account will appear on the lower left side of your screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Disable a User Account Using the Command Prompt
 
@@ -103,17 +91,9 @@ To disable a user account using Command Prompt:
 ![command prompt net user disable account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/command-prompt-net-user-disable-account.jpg)
 7. Next, type**exit** and press Enter to close Command Prompt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. If you need to enable the account again, execute the following command:  
 `net user NewUser /Active:yes`
 9. Make sure to replace NewUser with the account name you want to enable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Disable a User Account From the Computer Management Console
 
@@ -155,10 +135,6 @@ To disable a user account using Command Prompt:
 ![run lusrmgr exe file edit account disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-lusrmgr-exe-file-edit-account-disabled.jpg)
 6. Click**Apply** and**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## There Are Many Ways to Disable a User Account on Windows 11
 
  Disabling a user account lets you restrict access to a specific user account without deleting the account completely. This way, if you need to restore the account at a later stage, you can enable it and continue using it without restoring files and folders.
@@ -180,21 +156,19 @@ To disable a user account using Command Prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-classic-film-aesthetics-masterclass-in-video-production/"><u>[New] In 2024, Classic Film Aesthetics Masterclass in Video Production</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-unveiling-the-details-of-sonys-psvr2-pricing-insights-and-release-schedule-explored/"><u>Comprehensive Guide: Unveiling the Details of Sony's PSVR2 - Pricing Insights & Release Schedule Explored</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-gpu-within-your-operating-system-windows/"><u>Disabling GPU Within Your Operating System Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/free-your-pc-expedite-with-tiny11/"><u>Free Your PC: Expedite with Tiny11</u></a></li>
-<li><a href="https://win11.techidaily.com/from-out-of-sight-to-front-and-center-recovering-windows-1011-panels/"><u>From Out of Sight to Front and Center: Recovering Windows 10/11 Panels</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/grammar-gatekeeper-of-language-learning/"><u>Grammar: Gatekeeper of Language Learning?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/liberate-windows-talk-the-freedomgpt-way/"><u>Liberate Windows Talk: The FreedomGPT Way</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/new-horizon-for-iphone-chatgpt-app/"><u>New Horizon for iPhone: ChatGPT App</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-your-online-ops-top-4-windows-steps-to-gauge-network-velocity/"><u>Optimize Your Online Ops: Top 4 Windows Steps to Gauge Network Velocity</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premiere-cinematic-glimpses-series/"><u>Premiere Cinematic Glimpses Series</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/propella-7s-40-user-reviews-combining-economy-with-unmatched-nimbleness-for-urban-riding/"><u>Propella 7S 4.0 User Reviews: Combining Economy with Unmatched Nimbleness for Urban Riding</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-theme-installation-in-windows-via-microsoft-store/"><u>Seamless Theme Installation in Windows via Microsoft Store</u></a></li>
-<li><a href="https://win11.techidaily.com/timely-and-secure-access-management-using-powertoys/"><u>Timely and Secure Access Management Using PowerToys</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-nokia-g310-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Nokia G310</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-itel-p40-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Itel P40? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/win-back-control-solutions-to-thwart-stuck-menu-clicks/"><u>Win Back Control: Solutions to Thwart Stuck Menu Clicks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-tips-for-effective-vimeo-broadcasting/"><u>[Updated] In 2024, Tips for Effective Vimeo Broadcasting</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-inside-influence-a-peek-at-top-25-social-media-icons-on-insta/"><u>[Updated] Inside Influence A Peek at Top 25 Social Media Icons on Insta</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-mastering-the-art-of-screen-recording-top-4-techniques-for-hp-users/"><u>2024 Approved Mastering the Art of Screen Recording Top 4 Techniques for HP Users</u></a></li>
+<li><a href="https://win11.techidaily.com/convenient-accessibility-incorrancing-desktop-with-this-pc/"><u>Convenient Accessibility: Incorrancing Desktop with 'This PC'</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-look-at-iphone-16s-cutting-edge-features-that-make-upgrading-irresistible-expert-analysis/"><u>Exclusive Look at iPhone 16'S Cutting-Edge Features That Make Upgrading Irresistible | Expert Analysis</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-update-cpu-drivers-in-windows/"><u>How To Update CPU Drivers In Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-gratis-business-presentation-boosting-plugins-and-templates/"><u>In 2024, Gratis Business Presentation Boosting Plugins & Templates</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-routes-turning-pinterest-vids-into-music-files/"><u>In 2024, Ultimate Routes Turning Pinterest Vids Into Music Files</u></a></li>
+<li><a href="https://win11.techidaily.com/innovating-explore-key-modifications-in-windows-11-filesystem/"><u>Innovating Explore: Key Modifications in Windows 11 Filesystem</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-execute-the-sfc-command-correctly/"><u>Mastering Windows: Execute the SFC Command Correctly</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-more-efficiently-with-enhanced-mouseclicklock-functionality/"><u>Navigating More Efficiently with Enhanced MouseClickLock Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-wls-2-usage-cutting-edge-practices-for-windows-users/"><u>Pro WLS 2 Usage: Cutting-Edge Practices for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagining-images-windows-generative-erase-mastery/"><u>Reimagining Images: Windows Generative Erase Mastery</u></a></li>
+<li><a href="https://driver-error.techidaily.com/repair-broken-connection-fixed-asus-usb-webcam-in-windows-11/"><u>Repair Broken Connection: Fixed Asus USB Webcam in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Fix for Windows 11 Camera APP - Error F429F
-date: 2025-02-13T00:42:28.336Z
-updated: 2025-02-16T01:01:00.987Z
+date: 2025-02-25T20:58:46.050Z
+updated: 2025-03-04T17:49:21.827Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
  The Settings app’s layout is a little different in Windows 10, but you can still configure camera access much the same. Click**Privacy** \>**Camera** in Windows 10’s Settings app to reach the required options. Then click the**Change** button to turn on the**Camera** access for this device option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Enable and Start the Windows Camera Frame Server Service
 
  Error 0xA00F429F can often be due to a disabled Windows Camera Frame Server service. Some users who’ve needed to resolve the 0xA00F429F error have confirmed that enabling and starting the service fixed the issue. This is how you can enable and start the Windows Camera Frame Server service:
@@ -54,17 +50,9 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![The Automatic startup type option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/automatic-option-1.jpg)
 4. Click**Start** (in the properties window) if the Windows Camera Frame Server service isn’t running.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select the**Log on** tab for the service.  
 ![The Local System account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/local-system-account-option.jpg)
 6. Click the**Local System account** checkbox if that option isn’t selected.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Press the Windows Camera Frame Server service’s**Apply** button.
 8. Click**OK** to exit.
@@ -93,14 +81,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![The Reset option for the Camera app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/camera-reset-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Allow the Camera App Through Windows Defender Firewall
 
  Another possible reason for error 0xA00F429F is the Windows DefenderfFirewall, which could be blocking the Camera app’s connectivity. So, check your firewall’s settings to make sure that the Windows Camera app is allowed through it.
@@ -110,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![The Allowed apps through firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allowed-firewall-app.jpg)
 
  The same also applies to users who’ve installed third-party firewalls or antivirus software packages that include them. Check the app permission list for any third-party firewall, and select to permit Windows Camera through it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Disable the Camera Shields in Third-Party Antivirus Software Packages
 
@@ -143,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![The Windows Camera app page in MS Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-camera-app-page.jpg)
 7. Click**Get in the MS Store** app to reinstall the Camera app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Record With Your Camera App Again on Windows
 
  Hopefully, you’ll be able to use your webcam with Windows Camera again after applying the potential error 0xA00F429F solutions above. They’re among the most widely confirmed fixes to have resolved error 0xA00F429F for many users. So, there's a good chance one has done the trick for you.
@@ -166,22 +138,17 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-macs-prime-screen-seize-collection-max-156/"><u>[Updated] 2024 Approved Mac's Prime Screen Seize Collection (Max 156)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-camera-roll-to-youtube-the-ultimate-uploading-guide-for-2024/"><u>[Updated] From Camera Roll to YouTube The Ultimate Uploading Guide for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-unlocking-the-power-of-voice-transcription-in-whatsapp-recording/"><u>[Updated] In 2024, Unlocking the Power of Voice Transcription in WhatsApp Recording</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convertir-archivos-nsv-a-formato-mpeg-gratuito-guia-de-movavi/"><u>Convertir Archivos NSV a Formato MPEG Gratuito: Guía De Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/devoilant-les-secrets-des-systemes-dintelligence-de-traitement-perspectives-innovantes-avec-abbyy/"><u>Dévoilant Les Secrets Des Systèmes D'Intelligence De Traitement: Perspectives Innovantes Avec ABBYY</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-windows-11-introducing-powertoys/"><u>Elevating Windows 11: Introducing PowerToys</u></a></li>
-<li><a href="https://win11.techidaily.com/file-previews-missing-in-windows-11-quick-fix-guide-needed/"><u>File Previews Missing in Windows 11: Quick Fix Guide Needed</u></a></li>
-<li><a href="https://win11.techidaily.com/fortify-your-digital-footprint-with-regular-windows-backups/"><u>Fortify Your Digital Footprint with Regular Windows Backups</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-skip-persistent-sign-in-errors-in-ms-teams/"><u>How to Skip Persistent Sign-In Errors in MS Teams</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-instagram-to-tiktok-the-ultimate-connector/"><u>In 2024, Instagram to TikTok The Ultimate Connector</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-leading-asmr-content-on-the-web/"><u>In 2024, Leading ASMR Content on the Web</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-13-pro-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 13 Pro and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/locked-out-of-the-internet-seeking-solutions-to-open-websites-in-windows/"><u>Locked Out of the Internet? Seeking Solutions to Open Websites in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/repairing-data-corruption-on-windows-disks/"><u>Repairing Data Corruption on Windows Disks</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-to-accessing-disk-management-win-1011/"><u>Step-by-Step Guide to Accessing Disk Management (Win 10/11)</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-productivity-altering-and-adding-keyboards-in-windows-11/"><u>Unleash Productivity: Altering and Adding Keyboards in Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/igital-domination-worlds-top-10-video-content-kings-and-queens-for-2024/"><u>[New] Digital Domination World's Top 10 Video Content Kings & Queens for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-content-step-by-step-guide-to-youtube-video-editing/"><u>[Updated] In 2024, Crafting Content Step by Step Guide to YouTube Video Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-activate-or-deactivate-contactless-keyboard-windows/"><u>How to Activate or Deactivate Contactless Keyboard Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-configure-updated-widget-pickers-in-win11/"><u>How to Configure Updated Widget Pickers in Win11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-15-innovative-choices-for-action-cams-excluding-gopro/"><u>In 2024, 15 Innovative Choices for Action Cams, Excluding GoPro</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-microphone-input-in-obs-strategies-to-overcome-no-recording/"><u>Mastering Microphone Input in OBS - Strategies to Overcome No Recording</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/preventing-disruptive-print-spooler-failures-on-pcs/"><u>Preventing Disruptive Print Spooler Failures on PCs</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/resolution-facile-de-lerreur-du-pilote-bcm20702a0-dans-windows-11-guide-rapide/"><u>Résolution Facile De L'erreur Du Pilote BCM20702A0 Dans Windows 11 - Guide Rapide</u></a></li>
+<li><a href="https://win11.techidaily.com/security-risks-loom-as-microsoft-ends-support-for-xpwindows-781/"><u>Security Risks Loom as Microsoft Ends Support for XP/Windows 7/8.1</u></a></li>
+<li><a href="https://win11.techidaily.com/stability-and-precision-in-program-arrangement-for-users/"><u>Stability and Precision in Program Arrangement for Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-image-enhancement-pivotal-pixlr-insights-for-2024/"><u>The Art of Image Enhancement Pivotal Pixlr Insights for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-guide-turning-onoff-ntfs-compression/"><u>Windows 11 Guide: Turning On/Off NTFS Compression</u></a></li>
 </ul></div>
 

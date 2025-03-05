@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Widget Masterclass: The Ultimate Guide"
-date: 2025-02-14T17:11:06.005Z
-updated: 2025-02-16T00:03:12.728Z
+date: 2025-02-27T20:35:34.478Z
+updated: 2025-03-05T01:29:58.590Z
 tags:
   - windows10
   - windows11
@@ -58,19 +58,11 @@ Follow the below steps to add widgets:
 
  You can later unpin the widgets that you no longer need from the widget context menu. Also, you can[pin widgets to your desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) by using a third-party app called Widget Launcher.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Change the Size of Widgets
 
  Microsoft allows you to choose the size of widgets. Each widget will display the main information of the app irrespective of which size you choose. However, a large widget will show some additional information that you can not find on a medium or small widget. Windows 11 currently supports three sizes:**Small** ,**Medium** , and**Large** .
 
 ![Size of Widgets in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/size-of-widgets.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To change the size of widgets, follow the below steps:
 
@@ -99,15 +91,7 @@ To change the size of widgets, follow the below steps:
 
 ![Widgets Settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/widgets-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In**Widgets settings** , you get to tweak the**Widget taskbar behaviors** in three different ways: enabling or disabling**Show notification badges** ,**Show announcements** , and**Open Widgets board on hover** toggles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Expand the Widgets Panel
 
@@ -121,10 +105,6 @@ To expand the widgets panel, follow the below steps:
 2. Click on the**enlarge icon** , located right beside the**user profile logo** .
 
  It is important to note that a full-screen widgets panel will remember its previous state when you close it. If the previous state of the panel was full-screen, it would take the entire screen space when you launch it next time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Use Widgets Without a Microsoft Account
 
@@ -153,14 +133,24 @@ To expand the widgets panel, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11.techidaily.com/essential-tips-for-controlling-games-more-precision-wise/"><u>Essential Tips for Controlling Games More Precision-Wise</u></a></li>
-<li><a href="https://win11.techidaily.com/from-fuchsia-to-functional-remedying-rare-pc-colors/"><u>From Fuchsia to Functional: Remedying Rare PC Colors</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-y100i-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209667216-9781547579631-meditacion-aprenda-a-meditar-usando-la-atencion-plena-use-meditacion-guiada-y-trascendental/"><u>Meditación: Aprenda A Meditar Usando La Atención Plena (Use Meditación Guiada Y Trascendental) | Free Book</u></a></li>
-<li><a href="https://fox-links.techidaily.com/navigating-iphones-with-ease-download-podcasts-made-simple/"><u>Navigating iPhones with Ease - Download Podcasts Made Simple</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-remote-employment-six-innovative-ways-to-integrate-chatgpt-into-your-freelance-career/"><u>Revolutionize Remote Employment: Six Innovative Ways to Integrate ChatGPT Into Your Freelance Career</u></a></li>
-<li><a href="https://win11.techidaily.com/the-power-of-familiarity-seven-reasons-you-shouldnt-switch-from-win10/"><u>The Power of Familiarity: Seven Reasons You Shouldn't Switch From Win10</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/top-7-best-action-cameras-for-snowboardingskiing-for-2024/"><u>Top 7 Best Action Cameras for Snowboarding/Skiing for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshoot-win11-black-screen-top-fix-tips/"><u>Troubleshoot Win11 Black Screen: Top Fix Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-effortless-youtube-content-crafting-10-basic-video-ideas-for-all/"><u>[New] 2024 Approved Effortless YouTube Content Crafting 10 Basic Video Ideas for All</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-transforming-dull-interviews-into-engaging-assessments/"><u>[New] 2024 Approved Transforming Dull Interviews Into Engaging Assessments</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/armonize-your-favorites-creating-custom-youtube-playlists/"><u>[New] Harmonize Your Favorites Creating Custom YouTube Playlists</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-aspect-ratio-adaptation-in-dev-workflows/"><u>2024 Approved Seamless Aspect Ratio Adaptation in Dev Workflows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breaking-through-virtual-barriers-crafting-engaging-metaverse-content-for-2024/"><u>Breaking Through Virtual Barriers Crafting Engaging Metaverse Content for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-a-surround-audio-experience-in-windows-11/"><u>Creating a Surround Audio Experience in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-communication-integrating-emoji-15-in-win11/"><u>Elevate Communication: Integrating Emoji 15 in Win11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-realme-narzo-n53-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Realme Narzo N53 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-onedrive-0x80070194-error-in-windows-11-and-windows-10/"><u>How to Fix the OneDrive 0X80070194 Error in Windows 11 and Windows 10</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-mastering-youtube-tv-a-step-by-step-guide/"><u>In 2024, Mastering YouTube TV A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-starlight-and-storms-in-high-fidelity-hdr-sky-websites/"><u>In 2024, Starlight and Storms in High Fidelity HDR Sky Websites</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-aliases-enhancing-developer-efficiency/"><u>Mastering Aliases: Enhancing Developer Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-badge-icons-disappearance/"><u>Mending Badge Icons Disappearance</u></a></li>
+<li><a href="https://win11.techidaily.com/reinforcing-windows-safety-expanding-context-menu-with-firewall-filters/"><u>Reinforcing Windows Safety: Expanding Context Menu with Firewall Filters</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrockets-ethernet-speeds-bypassing-windows-100mbps-cap/"><u>Skyrockets Ethernet Speeds: Bypassing Windows' 100Mbps Cap</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-unsuccessful-file-transfers-in-windows/"><u>Tackling Unsuccessful File Transfers in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-essential-elements-warning-on-windows-11win11/"><u>Troubleshooting 'Essential Elements' Warning on Windows 11/Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-solving-lsassexe-issue-on-pc/"><u>Understanding and Solving lsass.exe Issue on PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-razer-naga-mouse-software-on-a-windows-pc-a-step-by-step-guide/"><u>Update Your Razer Naga Mouse Software on a Windows PC: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Addressing Self-Shutting Windows 11 Units
-date: 2024-08-08T13:15:23.133Z
-updated: 2024-08-09T13:15:23.133Z
+date: 2025-02-25T18:23:20.092Z
+updated: 2025-03-04T16:39:28.195Z
 tags:
   - windows10
   - windows11
@@ -24,16 +24,10 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
 
  The shutdown box might be a temporary system glitch caused by an outdated Windows version. To update your operating system, press the **Windows key + I** to bring up the Settings menu. There, head to **Windows Update** and click the **Check for updates** button.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Update Windows 11 to the latest version available](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/update-windows-1.jpg)
 
  If there’s a new version available, Windows will display the **Updates available to download** message. In this case, click **Download now**.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Run the System Maintenance Troubleshooter
 
  If the shutdown box is still popping up after updating the Windows version, you should give the System Maintenance troubleshooter a chance to fix the problem for you.
@@ -47,21 +41,12 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
 5. In the System Maintenance window, click **Advanced** and check the **Apply repairs automatically** option.
 6. Click **Next** to run the troubleshooter.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Run System Maintenance troubleshooter in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-maintenance-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## 3\. Perform Some Generic Windows-Based Fixes
 
  Whenever something goes awry with Windows, there are always a few tricks you can try to see if they fix it. These include:
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Scan Your System for Malware
 
  If the shutdown box constantly popping up isn’t the only issue you’re dealing with, you might be dealing with a malware infestation.
@@ -72,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
 
  The shutdown box might keep opening if some of your system files are corrupted or missing. The easiest way to search and automatically fix them is to [run the SFC and DISM scans](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
 ### Start Windows in Safe Mode
@@ -91,12 +73,33 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
 
  No matter the reason, here are a few troubleshooting tips to help you stop the shutdown box from popping up.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-finest-cameras-for-filming-inspiring-music-videos-4k-hd-next-year/"><u>[New] In 2024, The Finest Cameras for Filming Inspiring Music Videos (4K HD) Next Year</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-game-on-log-it-galaxy-phone-playthroughs/"><u>[Updated] In 2024, Game on, Log It! Galaxy Phone Playthroughs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-blades-new-vision-in-ultra-high-definition-clarity/"><u>2024 Approved Blade's New Vision in Ultra-High Definition Clarity</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-instant-solutions-to-banish-background-noise-swiftly-from-audio-files/"><u>2024 Approved Instant Solutions to Banish Background Noise Swiftly From Audio Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-royal-match-layers-how-intricate-is-it-really/"><u>Discovering Royal Match Layers – How Intricate Is It Really?</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-techniques-for-a-flawless-windows-11-search-bar/"><u>Essential Techniques for a Flawless Windows 11 Search Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-requested-resource-is-in-use-error-in-windows-10-and-11/"><u>How to Fix “The Requested Resource Is in Use” Error in Windows 10 & 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-amplify-your-iphones-secrets-to-great-silhouettes/"><u>In 2024, Amplify Your iPhones Secrets to Great Silhouettes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/section-2a-understanding-employee-attitudes/"><u>Section 2A: Understanding Employee Attitudes</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-windows-error-0x80041015-in-ms-office/"><u>Strategies to Overcome Windows Error 0X80041015 in MS Office</u></a></li>
+<li><a href="https://win11.techidaily.com/sustaining-classic-machines-in-a-new-age-windows-11-through-to-go-and-rufus/"><u>Sustaining Classic Machines in a New Age: Windows 11 Through To Go and Rufus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailoring-customer-experiences-in-chatgpt-through-strategic-user-persona-development/"><u>Tailoring Customer Experiences in ChatGPT Through Strategic User Persona Development</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-manual-locking-and-unlocking-fn-key-in-windows/"><u>The Insider's Manual: Locking and Unlocking FN Key in Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-secret-fix-how-refreshing-your-phones-system-clears-up-many-issues/"><u>The Secret Fix: How Refreshing Your Phone's System Clears Up Many Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/time-management-for-the-modern-office-top-8-window-timer-apps/"><u>Time Management for the Modern Office: Top 8 Window Timer Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-inactive-windows-disk-management/"><u>Troubleshooting Inactive Windows Disk Management</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unmatched-protection-for-gamers-why-this-apc-ups-is-a-must-have-addition/"><u>Unmatched Protection for Gamers: Why This APC UPS Is a Must-Have Addition</u></a></li>
+<li><a href="https://win11.techidaily.com/unpartition-your-drives-with-precision-the-fourfold-strategy-for-win-os/"><u>Unpartition Your Drives with Precision: The Fourfold Strategy for Win OS</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-notetakers-8-innovative-non-writing-note-apps/"><u>Windows Notetakers: 8 Innovative, Non-Writing Note Apps</u></a></li>
+</ul></div>
 

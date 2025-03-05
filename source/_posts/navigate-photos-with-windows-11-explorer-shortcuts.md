@@ -1,7 +1,7 @@
 ---
 title: Navigate Photos with Windows 11 Explorer Shortcuts
-date: 2025-02-13T04:20:06.369Z
-updated: 2025-02-16T01:39:56.963Z
+date: 2025-03-03T20:50:46.696Z
+updated: 2025-03-04T22:19:53.199Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 
  The Gallery section is hidden in Insider builds 25300 and above. If you are a Windows Insider program participant, open and check for the latest Insider builds on your system. Make sure to be in the Dev or Canary channel because this experimental feature is exclusive to these channels only. Or, you can use[UUP Dump to download Windows Insider builds without participating in Microsoft’s Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Download ViVeTool
 
  You will also need ViVeTool to enable these experimental features on your system. You can[download ViVetool from GitHub](https://github.com/thebookisclosed/ViVe/releases) , but make sure that you pick the most recent release. Extract the tool to the C drive and then proceed to the next section.
@@ -59,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 4. Type the**Vivetool** command and press enter key to check if the tool is accessible and working. You will see the version of the tool along with the parameters it supports.  
 ![Enable Gallery in File Explorer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-gallery-in-file-explorer-in-windows-11.jpg)
 5. Now, type the following command and press the enter key:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 vivetool /enable /id:41040327
 6. If the command executes correctly, you will see a “Successfully set feature configuration(s)” message. But don’t close the Command Prompt window. Type the following commands to enable all the Gallery features one by one and execute them.  
@@ -89,10 +81,6 @@ vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id
 ![Adding a Folder to Gallery in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adding-a-folder-to-gallery-in-windows-file-explorer.jpg)
 2. Now select any folder or sub-folder with images and click on the**Include Folder** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. The selected folder will appear in the list of available folders. Click on the**OK** button.
 4. File Explorer gallery will now display the images present inside the newly added folder as well.
 
@@ -104,19 +92,11 @@ To remove a folder from Gallery, repeat the following steps:
 ![Removing a Folder from Gallery in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/removing-a-folder-from-gallery-in-windows-file-explorer.jpg)
 4. Lastly, click on the**OK** button to finalize the changes. The Gallery section won’t display any images from the excluded folder from now onwards.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Problems With the Gallery Section in Windows File Explorer
 
  The current preview of the Gallery feature is far from perfect. Firstly, the section works well in finding and categorically listing all the images from the included folders. But the images, despite being big, appear hazy. What’s the point of including a section if the images aren’t visible clearly?
 
  There is also the issue of images opening in a separate tab rather than in the same File Explorer window. If you plan to open the image in another window, you can do it from the image folder as well. So, future builds should include an option to preview the image in the File Explorer window. Otherwise, you are opening two apps to achieve the same thing. The Gallery section cannot list any videos as well and just ignores all the video files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Find All Your Images in One Place on Windows With Galleries
 
@@ -137,18 +117,24 @@ To remove a folder from Gallery, repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-slow-taper-strategies-to-compress-sound-in-fl-studio/"><u>[New] In 2024, Slow Taper Strategies to Compress Sound in FL Studio</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-unboxing-marketing-strategy/"><u>[New] In 2024, Unboxing Marketing Strategy</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-sustainable-strategies-for-securing-over-a-million-viewers/"><u>[New] Sustainable Strategies for Securing Over a Million Viewers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/1716070268969-updated-2024-approved-efficient-image-capture-try-these-top-5-pc-tools/"><u>[Updated] 2024 Approved Efficient Image Capture? Try These Top 5 PC Tools!</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-exploring-the-top-8-facebook-extractors-for-films/"><u>[Updated] Exploring the Top 8 Facebook Extractors for Films</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-free-fast-skype-to-mp3-guide-for-call-recorders/"><u>[Updated] In 2024, Free, Fast Skype to MP3 Guide for Call Recorders</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-say-hello-to-banner-creativity-with-our-curated-set-of-50-free-youtube-pieces-for-2024/"><u>[Updated] Say Hello to Banner Creativity with Our Curated Set of 50 Free YouTube Pieces for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/configuring-windows-1011-explore-dialogues-to-reflect-updates/"><u>Configuring Windows 10/11 Explore Dialogues to Reflect Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/confronting-and-correcting-sound-issue-xc00d36b4-on-windows/"><u>Confronting and Correcting Sound Issue XC00D36B4 on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/delving-into-windows-diagnostics-formulating-and-reviewing-reports/"><u>Delving Into Windows Diagnostics: Formulating and Reviewing Reports</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-honor-magic-6-lite-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Honor Magic 6 Lite Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-user-administration-with-new-name-changes-on-win11/"><u>Optimize User Administration with New Name Changes on Win11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-tecno-spark-10-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Tecno Spark 10 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-supreme-performance-mods-ranking-the-best-srt-converters/"><u>[New] 2024 Approved Supreme Performance Mods Ranking the Best SRT Converters</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-essence-of-time-stretching-detailed-review-of-slomo-2e1924/"><u>[New] 2024 Approved The Essence of Time Stretching Detailed Review of SloMo, 2E1924</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-beyond-boundaries-a-comprehensive-hubsan-h501x4-study/"><u>[Updated] 2024 Approved Beyond Boundaries A Comprehensive Hubsan H501X4 Study</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-ancestral-aesthetics-art-without-restrictive-rights-for-2024/"><u>[Updated] Ancestral Aesthetics Art Without Restrictive Rights for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-square-it-up-your-complete-guide-to-instagram-ready-videos-in-imovie/"><u>[Updated] Square It Up! Your Complete Guide to Instagram-Ready Videos in iMovie</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tweaks-for-an-improved-windows-11-installation-experience/"><u>Essential Tweaks for an Improved Windows 11 Installation Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-relocate-your-onedrive-on-win-11/"><u>How to Relocate Your OneDrive on Win 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-11-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 11 iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/huntings-top-5-high-quality-video-recorders-for-2024/"><u>Hunting's Top 5 High-Quality Video Recorders for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-exploring-advanced-screen-recording-software/"><u>In 2024, Exploring Advanced Screen Recording Software</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-effortlessly-with-microsofts-gesture-control-feature-edge-edition/"><u>Navigate Effortlessly with Microsoft's Gesture Control Feature, Edge Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-glitches-maintaining-ps4-controller-connection/"><u>Navigating Windows Glitches: Maintaining PS4 Controller Connection</u></a></li>
+<li><a href="https://win11.techidaily.com/script-to-system-making-your-bat-into-an-exe/"><u>Script to System: Making Your .bat Into an EXE</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-setup-of-ms-office-works-on-win-11/"><u>Seamless Setup of MS Office Works on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-cortana-functionality-via-vivetool/"><u>Streamlining Cortana Functionality via ViveTool</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-guide-to-sticky-note-opening/"><u>The Insider's Guide to Sticky Note Opening</u></a></li>
+<li><a href="https://win11.techidaily.com/usb-wireless-mouse-unplugging-and-plugging-it-back-in-windows/"><u>USB Wireless Mouse - Unplugging and Plugging It Back In (Windows)</u></a></li>
 </ul></div>
 

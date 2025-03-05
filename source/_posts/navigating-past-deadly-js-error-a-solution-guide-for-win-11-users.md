@@ -1,7 +1,7 @@
 ---
 title: "Navigating Past Deadly JS Error: A Solution Guide for Win 11 Users"
-date: 2024-12-23T06:37:32.314Z
-updated: 2024-12-27T18:26:06.998Z
+date: 2025-02-28T20:59:33.193Z
+updated: 2025-03-04T20:47:23.198Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-this-program-as-administrator-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Uninstall BetterDiscord
 
  BetterDiscord is an extension for customizing the Discord app. However, some BetterDiscord custom scripts can cause Discord issues like the fatal JavaScript error. Furthermore, using that app doesn’t fall within Discord’s terms of service. If you have installed BetterDiscord, try removing that app as follows:
@@ -49,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 7. Choose a**Discord** version.
 
 8. Click**Uninstall** to finish.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Delete Discord’s Data Folders
 
@@ -73,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 
 9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Reinstall Discord
 
  The Javascript error can be due to missing or corrupted Discord modules. If the error message lists specific modules as the culprit for this error, reinstalling Discord will restore all its modules. You can reinstall Discord via Settings like this:
@@ -91,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 7. Click**Download** **for Windows** to get the Discord setup wizard.  
 ![The Download for Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-for-windows-button.jpg)
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 9. Go through Discord’s installation wizard to reinstall the software.
 
@@ -116,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Check the Quality Windows Audio Video Experience Service is Enabled
 
  Quality Windows Audio Video Experience is a service for improving audio and video streaming performance. That’s an important service to have enabled and running for Discord. So, check that qWave is turned on and running as follows:
@@ -133,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 5. If Quality Windows Audio Video Experience is disabled, select the**Automatic** startup option.  
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-startup-type-drop-down-menu.jpg)
 6. Press the service’s**Start** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Select**Log On** at the top of the service’s properties window.  
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/this-account-radio-button.jpg)
@@ -165,18 +141,20 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-unleashing-creativity-with-mobile-melodies-on-iphone-for-2024/"><u>[New] Unleashing Creativity with Mobile Melodies on iPhone for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/6-simple-steps-for-stellar-online-portrayals/"><u>6 Simple Steps for Stellar Online Portrayals</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/assembling-an-original-identification-alphanumeric-for-2024/"><u>Assembling an Original Identification Alphanumeric for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/cutting-edge-tools-for-unique-youtube-channel-names/"><u>Cutting-Edge Tools for Unique YouTube Channel Names</u></a></li>
-<li><a href="https://win11.techidaily.com/harness-powertoys-for-rapid-file-naming-tasks/"><u>Harness PowerToys for Rapid File Naming Tasks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-find-n3-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo Find N3 to PC? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-xbox-mic-troubleshooting-in-windows-11-platforms/"><u>Mastering Xbox Mic Troubleshooting in Windows 11 Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-network-navigation-for-the-elusive-mac-on-windows-11/"><u>Navigating Network Navigation for the Elusive MAC on WIndows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quantum-hdr-phenomenon-in-digital-photography-for-2024/"><u>Quantum HDR Phenomenon in Digital Photography for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quickly-link-tofrom-bing-chat-in-windows-11-search-field/"><u>Quickly Link To/From Bing Chat in Windows 11 Search Field</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-incomplete-network-prompt-guidance-on-windows/"><u>Resolving Incomplete Network Prompt Guidance on Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-meme-making-method-unveiling-6-crucial-gif-production-strategies/"><u>The Meme-Making Method Unveiling 6 Crucial GIF Production Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-your-digital-music-library-a-comprehensive-guide-on-mp3-to-cd-conversion-with-imgburn-windows/"><u>Transforming Your Digital Music Library: A Comprehensive Guide on Mp3 to CD Conversion with ImgBurn (Windows)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-podcast-powered-by-seo-dominating-search-engine-landscapes/"><u>[Updated] 2024 Approved Podcast Powered by SEO Dominating Search Engine Landscapes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-3-simple-methods-for-color-correction-in-photoshop/"><u>2024 Approved 3 Simple Methods for Color Correction in PhotoShop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/buy-the-ultimate-deal-over-half-off-on-a-4tb-samsung-usb-c-external-ssd-at-amazon-tech-advice/"><u>Buy the Ultimate Deal: Over Half Off on a 4TB Samsung USB-C External SSD at Amazon - Tech Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-the-hunt-for-lucrative-side-projects-how-legitimate-are-they-really/"><u>ChatGPT and the Hunt for Lucrative Side Projects: How Legitimate Are They Really?</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-insufficient-storage-warning-in-vmware-hosts/"><u>Dealing with Insufficient Storage Warning in VMware Hosts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-mastery-the-top-10-steps-to-optimize-engagement/"><u>In 2024, Instagram Mastery The Top 10 Steps to Optimize Engagement</u></a></li>
+<li><a href="https://win11.techidaily.com/make-windows-11-shine-a-holiday-system-guide/"><u>Make Windows 11 Shine: A Holiday System Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protonvpn-switching-email-and-browsing-safely/"><u>ProtonVPN: Switching Email & Browsing Safely</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-the-disappeared-disk-space-issue/"><u>Rectify the Disappeared Disk Space Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-it-administrator-cant-do-more-warning-in-winsec/"><u>Resolving 'IT Administrator Can’t Do More' Warning in WinSec</u></a></li>
+<li><a href="https://win11.techidaily.com/running-advanced-ai-on-windows-devices/"><u>Running Advanced AI on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-android-gaming-on-win-11-via-play-store-linkup/"><u>Seamless Android Gaming on Win 11 via Play Store Linkup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unexpected-situations-solved-regain-access-to-your-ipad-without-the-original-password/"><u>Unexpected Situations Solved: Regain Access to Your iPad Without the Original Password</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/unlocking-system-secrets-how-to-safely-access-the-windows-registry-with-tips-from-yl-software-experts/"><u>Unlocking System Secrets: How to Safely Access the Windows Registry with Tips From YL Software Experts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-driver-updates-simplified-guide/"><u>Windows 11 Driver Updates: Simplified Guide</u></a></li>
 </ul></div>
 

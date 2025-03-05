@@ -1,7 +1,7 @@
 ---
 title: Understanding and Managing Windows ODBC Sources
-date: 2024-12-23T17:22:10.246Z
-updated: 2024-12-27T21:54:53.195Z
+date: 2025-02-27T18:44:03.221Z
+updated: 2025-03-05T00:34:41.704Z
 tags:
   - windows10
   - windows11
@@ -36,29 +36,17 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 ![Accessing the ODBC Data Sources app using the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-using-the-run-command-dialog-box.jpg)
 * Navigate to the **User DSN** tab.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A DSN establishes a connection to a target database through an ODBC driver. It can also help you pull information from a database.
 
 * Click the **Add** button on the right to start creating a User DSN.  
 ![Clicking the Add button on the ODBC Data Sources app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/clicking-the-add-button-on-the-odbc-data-sources-app.jpg)
 * On the next screen, select the relevant ODBC driver and click the **Finish** button. From there, enter the details of your data source in the next window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Follow the on-screen steps and then click the **Finish** button.
 
  Once you've created a User DSN, you can explore some cool tricks with the ODBC tool. For example, you can check out how to connect your databases with VBScript by [creating a VBScript ODBC Connection](https://www.makeuseof.com/create-a-vb-script-odbc-connection/).
 
  Want to discover the various ways to access the ODBC Data Sources tool? Let's help you out!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access the ODBC Data Sources App Using the Start Menu Search Bar
 
@@ -71,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 1. Press **Win + S** to access the Start menu search bar. Alternatively, Press the **Windows search bar icon** on the taskbar.
 2. Type **ODBC Data Sources** and select the **Best match**.  
 ![Accessing the ODBC Data Sources app using the Start menu search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-using-the-start-menu-search-bar.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Access the ODBC Data Sources App Using the Start Menu
 
@@ -120,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 4. Type **odbcad32.exe** in the search box and press **OK** to open the ODBC Data Sources app.  
 ![Accessing the ODBC Data Sources app using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-using-the-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Access the ODBC Data Sources App From the Windows System32 Directory
 
  You can also open the ODBC Data Sources app by clicking the relevant file in the Windows System32 folder.
@@ -136,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 4. Open the **Windows** folder, scroll down, and open the **System32** folder.
 5. Double-click on the **odbcad32** option to open the ODBC Data Sources app.  
 ![Accessing the ODBC Data Sources app from the System32 directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-from-the-system32-directory.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Access the ODBC Data Sources App Using the Command Prompt or PowerShell
 
@@ -165,20 +141,12 @@ odbcad32.exe
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Using desktop shortcuts is one of the best ways to access your apps. So, let's explore how you can create an ODBC Data Sources desktop shortcut:
 
 1. Press **Win + D** to access the desktop.
 2. Right-click on a blank space and select **New > Shortcut**.
 3. Type **%windir%\\system32\\odbcad32.exe** in the location box and press **Next** to continue.  
 ![Creating the ODBC Data Sources desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-the-odbc-data-sources-desktop-shortcut.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Type **ODBC Data Sources App** in the "name" box and then click the **Finish** button. Now, you can easily access the ODBC Data Sources app using the desktop shortcut you've just created.
 
@@ -203,18 +171,15 @@ odbcad32.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-screen-sync-free-cross-platform-high-quality-recording-tools/"><u>[New] In 2024, Screen Sync Free Cross-Platform, High-Quality Recording Tools</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-initial-step-in-youtube-fame-account-registration/"><u>[New] The Initial Step in YouTube Fame Account Registration</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/discovering-facebook-supporters/"><u>Discovering Facebook Supporters</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-fixing-a-persistent-504-gateway-timeout-problem/"><u>Expert Tips for Fixing a Persistent 504 Gateway Timeout Problem</u></a></li>
-<li><a href="https://win-blog.techidaily.com/forza-horizon-npc-performance-boost-overcoming-game-crash-challenges-successfully/"><u>Forza Horizon nPC Performance Boost: Overcoming Game Crash Challenges Successfully</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-typing-speed-with-windows-10-and-11-keys/"><u>Maximize Typing Speed with Windows 10 & 11 Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/mitigating-high-cpu-load-due-to-modules-installer-activity/"><u>Mitigating High CPU Load Due to Modules Installer Activity</u></a></li>
-<li><a href="https://win11.techidaily.com/network-navigator-4-strategic-approaches-to-test-your-internet-pace/"><u>Network Navigator: 4 Strategic Approaches to Test Your Internet Pace</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-guide-to-freeing-windows-11-space/"><u>Quick-Fix Guide to Freeing Windows 11 Space</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-for-regedit-management-in-windows-11/"><u>Techniques for RegEdit Management in Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-8-subtitle-converters-speed-up-your-video-production-from-sub-to-quickly-released-srtr-format-for-2024/"><u>Top 8 Subtitle Converters Speed Up Your Video Production - From SUB to Quickly-Released SRTR Format for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshoot-windows-woes-in-4-easy-steps/"><u>Troubleshoot Windows Woes in 4 Easy Steps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-all-inclusive-giroptic-panoramic-study/"><u>[New] All-Inclusive Giroptic Panoramic Study</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-asus-unboxing-special-the-mg28uq-monitor-a-high-res-journey/"><u>[Updated] ASUS Unboxing Special The MG28UQ Monitor - A High-Res Journey</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-5-low-cost-drones-maximum-performance-on-a-shoestring/"><u>[Updated] In 2024, 5 Low-Cost Drones Maximum Performance on a Shoestring</u></a></li>
+<li><a href="https://win11.techidaily.com/breathe-life-into-your-dormant-device-speakers/"><u>Breathe Life Into Your Dormant Device Speakers</u></a></li>
+<li><a href="https://win-lab.techidaily.com/capture-and-conserve-every-frame-expert-tips-for-rtsp-live-streams-downloading-success/"><u>Capture and Conserve Every Frame: Expert Tips for RTSP Live Streams Downloading Success!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/costly-constraints-understanding-apples-newest-ai-exclusions-for-legacy-iphones-an-in-depth-analysis/"><u>Costly Constraints: Understanding Apple's Newest AI Exclusions for Legacy iPhones - An In-Depth Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-taskbar-visibility-when-browser-is-maximized/"><u>Restoring Taskbar Visibility When Browser Is Maximized</u></a></li>
+<li><a href="https://win11.techidaily.com/the-7-best-encryption-apps-for-windows/"><u>The 7 Best Encryption Apps for Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/understanding-hdr-techniques-in-modern-photoshoots/"><u>Understanding HDR Techniques in Modern Photoshoots</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-why-excel-opens-fail-in-notepad/"><u>Understanding Why Excel Opens Fail in Notepad</u></a></li>
 </ul></div>
 

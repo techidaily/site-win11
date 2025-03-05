@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Windows Update Error 0X80190001
-date: 2025-02-15T05:02:01.050Z
-updated: 2025-02-15T22:38:32.560Z
+date: 2025-02-25T23:20:00.707Z
+updated: 2025-03-05T02:34:20.779Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Causes Windows Update Error 0x80190001?
 
@@ -84,10 +80,6 @@ To try it, follow these steps:
 4. Then press**Enter** on your keyboard.  
 ![SFC and DISM Scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/SFC-and-DISM-Scan.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The process will take a few minutes to complete. If you wish, you can do other things while the system scans the data. Once the process is completed, try updating Windows again.
 
  If the problem persists, you should run the Deployment Image Servicing and Management command line tool to restore system files and repair any corrupted system images. Here are the steps to follow:
@@ -97,10 +89,6 @@ To try it, follow these steps:
 DISM /Online /Cleanup-Image /ScanHealthDism.exe /online /cleanup-image /restorehealth
 
  You may have to wait for a while for the process to complete. After you run the DISM command, restart your computer to see if the issue has been resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Clear the SoftwareDistribution Folder
 
@@ -138,10 +126,6 @@ net start msiserver`
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 5. Remove the check mark from**Load startup items** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. On the Services tab, select**Hide all Microsoft services** .  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 2. Then click**Disable all** .
@@ -150,10 +134,6 @@ net start msiserver`
 4. Now switch to the Startup tab and click the**Open Task Manager** link.  
 ![Open Task Manager Via Startup tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Open-Task-Manager-Via-Startup-tab.jpg)
 5. On the**Startup** tab, right-click each service and disable it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. To save your changes, click**OK** in the System Configuration window,
 
@@ -178,18 +158,20 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-switching-picture-in-picture-on-macios-effortlessly-for-2024/"><u>[New] Switching Picture-in-Picture on Mac/iOS Effortlessly for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-isolating-visual-snapshots-from-videos-using-the-windows-10-photos-tool/"><u>[Updated] Isolating Visual Snapshots From Videos Using the Windows 10 Photos Tool</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/download-the-ultimate-total-video-player-for-pc-no-cost-compatible-with-windows-64-bit-and-32-bit-versions/"><u>Download the Ultimate Total Video Player for PC – No Cost! Compatible with Windows 64-Bit & 32-Bit Versions</u></a></li>
-<li><a href="https://win11.techidaily.com/enriching-w1111-interfaces-with-psoft-tools/"><u>Enriching W11/11 Interfaces with PSoft Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-microsoft-store-issues-winerror-x80072f17-remedy/"><u>Fixing Microsoft Store Issues: WinError X80072F17 Remedy</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guide-facile-a-suivre-convertir-des-dvd-en-divx-en-2023/"><u>Guide Facile À Suivre : Convertir Des DVD en DivX en 2023</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reset-and-repair-speech-recognition-in-ms-word/"><u>How to Reset and Repair Speech Recognition in MS Word</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/learning-luminaries-leading-ed-tutorials-online/"><u>Learning Luminaries Leading Ed Tutorials Online</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-offline-errors-how-to-fix-steam-in-windows/"><u>Overcoming Offline Errors: How to Fix Steam in Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/revolutionary-chromatic-shots-with-uhd-blade-tech/"><u>Revolutionary Chromatic Shots with UHD Blade Tech</u></a></li>
-<li><a href="https://win11.techidaily.com/staying-cool-under-pressure-solutions-for-gamers-overheating-woes/"><u>Staying Cool Under Pressure: Solutions For Gamers' Overheating Woes</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-hardware-interaction-with-windows-disks/"><u>Streamlining Hardware Interaction with Windows Disks</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/winning-ways-top-8-video-capture-applications-for-windows/"><u>Winning Ways Top 8 Video Capture Applications for Windows</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-master-the-art-of-picture-perfection-on-snapchat-apps/"><u>[New] In 2024, Master the Art of Picture Perfection on Snapchat Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-video-editor-comparing-inshots-features/"><u>[Updated] 2024 Approved Top Video Editor Comparing InShot's Features</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-channel-conversion-secrets-yt-vs-igtv-for-2024/"><u>[Updated] Channel Conversion Secrets YT Vs IGTV for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-browser-performance-fixing-facebook-games/"><u>Enhance Browser Performance - Fixing Facebook Games</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-install-net-framework-issue-in-windows/"><u>How to Overcome Install .NET Framework Issue in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-msstore-troubleshooting-for-error-code-0x0-failure/"><u>Mastering MsStore Troubleshooting for Error Code 0X0 Failure</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-printer-connection-issues-in-windows-11/"><u>Resolving Printer Connection Issues in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/revamp-records-7-essential-tools-to-alter-file-dates-on-pc/"><u>Revamp Records: 7 Essential Tools to Alter File Dates on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-file-handling-with-powershell-expertise/"><u>Streamlining File Handling with PowerShell Expertise</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-stuttering-gameplay-solutions-for-warframe-freezing-problems/"><u>Troubleshooting Stuttering Gameplay: Solutions for Warframe Freezing Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/unboxing-the-essence-of-windows-11-tiny/"><u>Unboxing: The Essence of Windows 11 Tiny</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-within-windows-11s-registry/"><u>Unveiling the Secrets Within Windows 11'S Registry</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/your-blueprint-to-lost-youtube-video-accessibility-online-for-2024/"><u>Your Blueprint to Lost YouTube Video Accessibility Online for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-time-rewind-mastery-in-media-refreshes-for-2024/"><u>YouTube Time Rewind Mastery in Media Refreshes for 2024</u></a></li>
 </ul></div>
 

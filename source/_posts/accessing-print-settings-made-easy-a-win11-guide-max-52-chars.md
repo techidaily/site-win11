@@ -1,7 +1,7 @@
 ---
 title: "Accessing Print Settings Made Easy: A Win11 Guide (Max 52 Chars)"
-date: 2024-08-08T13:11:46.451Z
-updated: 2024-08-09T13:11:46.451Z
+date: 2025-03-03T02:15:06.788Z
+updated: 2025-03-05T00:50:58.736Z
 tags:
   - windows10
   - windows11
@@ -20,25 +20,16 @@ thumbnail: https://thmb.techidaily.com/b279c06b6e6c3fd0e8d4629e4ec0cbf49c045cc7b
 
  If you want to use this tool, you first need access to it. Here are some quick ways to open the Print Management tool in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. How to Open Print Management via the Windows Search Bar
 
  Windows' search bar makes it easy to find almost anything on your device. Follow these steps to access Print Management:
 
 1. Open the Start Menu and type**"print management"** into the search bar.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Print Management Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Print-Management-Using-Windows-Search.jpg)
 2. Select the result from the list at the top. This will open Print Management.
 
  The Print Management window will display a list of your printers and queues. You can view the properties of a specific printer by double-clicking on it. As such, it is very easy to handle your print jobs on your Windows PC from this screen.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How to Open Print Management Using a Run Command
 
  Alternatively, you can use the Run command dialog box to open the Print Management tool. To do this, follow these steps:
@@ -49,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/b279c06b6e6c3fd0e8d4629e4ec0cbf49c045cc7b
 
  When you open Print Management, you will be able to view all the printers you have installed. This page lets you add or remove printers, as well as manage printer drivers and preferences.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. How to Open Print Management Using the File Explorer
 
  In File Explorer, there is an address bar that you can use to launch Windows tools. Follow these steps to open Print Management:
@@ -60,17 +48,11 @@ thumbnail: https://thmb.techidaily.com/b279c06b6e6c3fd0e8d4629e4ec0cbf49c045cc7b
 2. Type**“File Explorer”** in the search bar, and press the**Enter** key. You can see our guide to [open Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) for other methods.
 3. In File Explorer, browse to the following location:**C:\\Windows\\System32** .
 4. On the following page, use the search bar next to the address bar to find "printmanagement.msc".  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Print Management Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Print-Management-Using-File-Explorer.jpg)
 5. Once you find the executable file, click on it to access the application.
 
 This will open the Print Management application.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. How to Open Print Management via the Control Panel
 
  The Control Panel is a location on Windows where you can change settings for your computer. Now that the control panel has been updated and improved, you can access the Print Management tool right here.
@@ -97,9 +79,6 @@ This will now open Print Management on your computer.
 
 This will open the Print Management window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. How to Open Print Management Using Start Menu
 
  It is also possible to access Print Management from the Start Menu. Follow these steps:
@@ -108,9 +87,6 @@ This will open the Print Management window.
 2. Scroll to the bottom and select “**Windows Tools** ” from the menu list.  
 ![Open Local Security Policy Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Open-Local-Security-Policy-Using-Start-Menu.jpg)
 3. Double-click on “**Print Management** ” to open the tool.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Print Management Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Print-Management-Using-Start-Menu.jpg)
 
 ## 7\. How to Open Print Management With Task Manager
@@ -122,9 +98,6 @@ Here's how.
 1. Press**Ctrl + Shift + Esc** on your keyboard to open Task Manager. Alternatively, you can use**Ctrl + Alt + Del** and select**Task Manager** from the list.
 2. Next, click the "**Run new task** " option at the top of Task Manager.
 3. In the Create new task window, type "printmanagement.msc" and press the**Enter** key.  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Print Management Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Print-Management-Using-Task-Manager.jpg)
 
 This will open the Print Management window for you.
@@ -151,10 +124,6 @@ This will open the Print Management window for you.
 
 1. Click on Start and type "Print Management."
 2. On the right side, click**Pin to taskbar** under the Printer Management app.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Pin Print Management to taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Print-Management-to-taskbar.jpg)
 3. Now go to the taskbar, and click the Print Management icon.
 
@@ -164,14 +133,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  It is quite easy to access the Windows Print Management tool. However, if you want to use it like an advanced user, you can check out the methods we have discussed in this article.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -180,6 +146,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-unleash-potential-deciding-between-studio-and-beta-version/"><u>[New] In 2024, Unleash Potential Deciding Between Studio and Beta Version</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-8-linux-cutting-solutions/"><u>[New] Ultimate 8 Linux Cutting Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-bend-reality-with-your-own-animated-craftsmanship/"><u>[Updated] In 2024, Bend Reality with Your Own Animated Craftsmanship</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/beyond-pronunciation-succeeding-in-difficult-language-learning/"><u>Beyond Pronunciation: Succeeding in Difficult Language Learning</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/cost-effective-obs-setup-tips-for-2024/"><u>Cost-Effective OBS Setup Tips for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-troubleshoot-ad-ds-printer-problems-in-modern-windows/"><u>How to Troubleshoot AD DS Printer Problems in Modern Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-restricted-folder-permissions-on-windows-1011/"><u>Mastering Restricted Folder Permissions on Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/radiate-holiday-cheer-through-designed-panes/"><u>Radiate Holiday Cheer Through Designed Panes</u></a></li>
+<li><a href="https://win11.techidaily.com/reduce-system-load-ways-to-lighten-media-apps-footprint/"><u>Reduce System Load: Ways to Lighten Media Apps' Footprint</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-dxgi-error-device-unattached-issue/"><u>Tackling DXGI Error - Device Unattached Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-iphone-wont-connect-to-mobile-data-post-ios-update-1721-expert-solutions-from-zdnet/"><u>Troubleshooting: IPhone Won't Connect to Mobile Data Post-iOS Update 17.2.1? Expert Solutions From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-tool-rules-the-translation-game-chatgpt-vs-google-translate/"><u>Which Tool Rules the Translation Game? ChatGPT Vs. Google Translate</u></a></li>
+</ul></div>
 

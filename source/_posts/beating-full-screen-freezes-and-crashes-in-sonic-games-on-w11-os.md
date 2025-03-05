@@ -1,7 +1,7 @@
 ---
 title: Beating Full-Screen Freezes and Crashes in Sonic Games on W11 OS
-date: 2024-08-08T13:13:14.079Z
-updated: 2024-08-09T13:13:14.079Z
+date: 2025-02-27T00:59:01.632Z
+updated: 2025-03-05T00:08:34.200Z
 tags:
   - windows10
   - windows11
@@ -22,18 +22,12 @@ thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cf
 
 ## Why Is Sonic Frontiers Crashing When It's Switched to Full-Screen Mode?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![screenshot of the sonic frontiers graphics menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontiers_graphics_menu.jpg)
 
  Sonic Frontiers may exhibit a strange bug where the game doesn't properly utilize your dedicated GPU.
 
  While running in windowed mode, Sonic Frontiers has no problem using the correct hardware. However, when switching to full-screen, the game attempts to switch to your integrated GPU. Your PC's integrated GPU is most likely not powerful enough to run the game, or it might even be non-existent depending on your setup. Either way, this causes the game to crash.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## How to Fix Sonic Frontiers' Full-Screen Crash on Windows 11
 
 ![screenshot of the windows graphics settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_graphics_settings.jpg)
@@ -46,22 +40,12 @@ thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cf
 
  Next, click into Sonic Frontiers in the list of games and hit**Options.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![screenshot of sonic frontiers switching to high performance in windows graphics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontiers_switching_to_high_performance.jpg)
 
  Switch the game to**High Performance** , then save your changes. This should fix the crash entirely.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Prevent Further Crashes in Sonic Frontiers
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![screenshot of sonic frontiers in amd graphics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontiers_in_amd_graphics_settings.jpg)
 
  It is good practice to always ensure your GPU drivers are up-to-date, especially when playing new releases.
@@ -70,23 +54,17 @@ thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cf
 
  This has a similar effect to the steps described above, except you'll have even more options to tweak the graphical performance of the game.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Sonic Frontiers Crash Is Annoying, but It's an Easy Fix
 
  The PC launch of Sonic Frontiers was a bit rocky, and it's surprising to see that the game can accidentally switch itself to an integrated GPU, even if none exists.
 
  Thankfully the fix is easy enough, and the full-screen crash should stop getting in the way of you playing Sonic Frontiers.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,6 +73,18 @@ thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-economic-expressiveness-in-video-theming-tools-for-2024/"><u>[New] Economic Expressiveness in Video Theming Tools for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-yis-actioncam-the-innovation-leader-in-high-res-footage-for-2024/"><u>[New] Yi's ActionCam The Innovation Leader in High-Res Footage for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-leaders-in-fan-following-top-10-global-youtubers-subs-for-2024/"><u>[Updated] The Leaders in Fan Following Top 10 Global YouTubers' Subs for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-ace-your-youtube-livestreams-mastering-broadcast-techniques-using-wirecast/"><u>2024 Approved Ace Your Youtube Livestreams Mastering Broadcast Techniques Using WireCast</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-top-mac-gif-saving-best-10-gif-apps/"><u>2024 Approved Top Mac GIF Saving Best 10 Gif Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/empowering-system-health-hardware-checks-with-live-tiles/"><u>Empowering System Health: Hardware Checks with Live Tiles</u></a></li>
+<li><a href="https://win11.techidaily.com/enable-auto-updates-for-windows-and-swap-amd-gpu-drivers/"><u>Enable Auto-Updates for Windows & Swap AMD GPU Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-telnet-three-steps-for-win-1011/"><u>Enabling Telnet: Three Steps for Win 10/11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhanced-ipad-gaming-experience-with-the-apple-pencil-a-step-by-step-guide/"><u>Enhanced iPad Gaming Experience with the Apple Pencil: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/enlighten-your-mac-embrace-windows-11-via-parallels/"><u>Enlighten Your Mac: Embrace Windows 11 via Parallels</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-s18-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo S18 and Browser | Dr.fone</u></a></li>
+</ul></div>
 

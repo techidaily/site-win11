@@ -1,7 +1,7 @@
 ---
 title: Beat the Sluggish Pace of Win-Based Outlook
-date: 2024-08-08T13:13:51.096Z
-updated: 2024-08-09T13:13:51.096Z
+date: 2025-02-25T16:27:28.949Z
+updated: 2025-03-04T23:50:33.058Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 
  Before you give up and switch to an alternative, try out the following tips to boost Outlook’s performance on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Modify Outlook's Send and Receive Settings
 
  By default, Outlook is set to send/receive emails every 30 minutes. Setting a longer interval for automatic send/receive in Outlook can help improve the app's performance as it would need to consume system resources less frequently.
@@ -79,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 4. Click the **Go** button next to **COM Add-ins**.
 5. Clear all the checkboxes to disable your add-ins. Alternatively, you can use the **Remove** button to uninstall add-ins.
 6. Click **OK** to save changes.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Disable Outlook Add-Ins-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-outlook-add-ins-1.jpg)
 
 ## 6\. Disable Redirection of the AppData Directory
@@ -92,14 +86,8 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 2. Navigate to **HKEY\_CURRENT\_USER > Software > Microsoft > Windows > CurrentVersion > Explorer > User Shell Folders**.
 3. Locate the **AppData** entry in the right pane and double-click it.
 4. Enter **%USERPROFILE%\\AppData\\Roaming** in the Value data field and click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Edit DWORD in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-dword-in-registry.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Run the Inbox Repair Tool
 
  The Outlook app may become unresponsive on Windows if some of its files are corrupted. Luckily, you can repair Outlook files easily with the built-in Inbox Repair Tool. Here's how to run it.
@@ -111,16 +99,10 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 `C:\Users\*username*\AppData\Local\Microsoft\Outlook`  
  Replace **\*username\*** in the above path with your own username.
 5. Select your profile and then click **Start**.  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Outlook Inbox Repair Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/outlook-inbox-repair-tool.jpg)
 
  Wait for the repair operation to complete, and then restart the Outlook app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Create a New Outlook Profile
 
  A damaged or corrupt Outlook profile can also cause such performance issues. If that’s the case, your best option is to create and switch to a new Outlook profile. Here’s how to do it.
@@ -134,9 +116,6 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 7. Select your new profile under **When starting Microsoft Outlook** and hit **Apply**.  
 ![Create New Outlook Profile-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-new-outlook-profile-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Run the Outlook Advanced Diagnostics Tool
 
  The Microsoft Support and Recovery Assistant (SaRA) is a useful tool that can help you address Outlook performance problems on Windows. It can scan the Outlook app to detect potential issues and suggest fixes accordingly. Here’s how to run it.
@@ -148,9 +127,6 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 
  From there, follow the on-screen prompts to scan the Outlook app for any issues. Click the **Issues found** tab after the scan is complete, and then take the suggested actions to troubleshoot Outlook’s performance issues.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Microsoft Support and Recovery Assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/microsoft-support-and-recovery-assistant.jpg)
 
 ## 10\. Run the Office Repair Tool
@@ -161,21 +137,13 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 2. Type **appwiz.cpl** in the box and press **Enter**.
 3. In the Programs and Features window, right-click the **Microsoft Office** suite and select **Change**.
 4. Select your preferred repair option and then click **Repair**.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Don’t Let Outlook Slow You Down
 
  Few things are as frustrating as working with an app that constantly lags or runs slowly. Hopefully, one or more of the fixes covered above have helped improve Outlook’s performance on Windows, and you are at peace.
 
  Before you give up and switch to an alternative, try out the following tips to boost Outlook’s performance on Windows.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -183,4 +151,21 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-9-zero-price-programs-to-take-your-videos-from-average-to-amazing-for-2024/"><u>[Updated] 9 Zero Price Programs to Take Your Videos From Average to Amazing for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-tips-for-film-saving-and-trimming-in-adobe-connect/"><u>Essential Tips for Film Saving and Trimming in Adobe Connect</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/getting-your-vizio-display-up-and-running-on-wi-fi-again-expert-tips/"><u>Getting Your Vizio Display Up and Running on Wi-Fi Again: Expert Tips</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-boosting-fb-video-engagement-and-audience-reach/"><u>In 2024, Boosting FB Video Engagement & Audience Reach</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-honor-90-gt-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Honor 90 GT to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/maximizing-your-software-access-a-step-by-step-guide-on-legally-obtaining-anydvd-full-version-and-understanding-piracy-risks/"><u>Maximizing Your Software Access: A Step-by-Step Guide on Legally Obtaining AnyDVD Full Version and Understanding Piracy Risks</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-fbm-hiccups-on-windows-seamlessly/"><u>Navigate Through FBM Hiccups on Windows Seamlessly</u></a></li>
+<li><a href="https://techidaily.com/nvidia-revives-classic-april-fools-prank-introducing-the-revolutionary-g-assist-ai/"><u>NVIDIA Revives Classic April Fool's Prank: Introducing the Revolutionary G-Assist AI</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-output-9-proven-methods-to-improve-windows-video-quality/"><u>Optimal Output: 9 Proven Methods to Improve Window's Video Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rectify-local-security-not-active-error/"><u>Steps to Rectify 'Local Security Not Active' Error</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-java-installation-obstacles-on-windows-os/"><u>Unblocking Java Installation Obstacles on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-why-your-digital-pen-is-failing-on-windows/"><u>Unraveling Why Your Digital Pen Is Failing on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/workarounds-to-administrative-restrictions-on-software-installs/"><u>Workarounds to Administrative Restrictions on Software Installs</u></a></li>
+</ul></div>
 

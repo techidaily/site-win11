@@ -1,7 +1,7 @@
 ---
 title: Boot Security Errors Squashed in 5 Easy Steps for Windows Users
-date: 2024-08-08T13:11:45.508Z
-updated: 2024-08-09T13:11:45.508Z
+date: 2025-02-28T01:05:35.626Z
+updated: 2025-03-04T21:35:48.098Z
 tags:
   - windows10
   - windows11
@@ -34,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
 
  Now, let's dive into fixes that will help you eliminate the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 1\. Enable Secure Boot in BIOS
 
  You must enable Secure Boot in BIOS if you want to install Windows 11 on your computer. But before doing that, view Secure Boot's current state. Here's how to do it:
@@ -44,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
 1. Press the **Win + R** hotkey to open the Run dialog box. Then, type **msinfo32,** and press **Enter**. It'll [open the System information window](https://www.makeuseof.com/windows-open-system-information/).
 2. Click **System** **Summary** in the left panel.
 3. Check the **Secure Boot State** in the right pane.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![Secure Boot State in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Secure-Boot-State.jpg)
 
  If the Secure Boot status is **Off**, you'll have to enable it through your BIOS. To do that, follow the instructions:
@@ -65,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
 
  Once you've enabled Secure Boot, try to install Windows and check if the problem continues. If yes, then try the next solution on the list.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## 2\. Check and Enable TPM Support
 
  You must have the TPM chip installed on your computer to download Windows 11\. If the TPM chip is missing, you can still install Windows 11 by bypassing the minimum requirement, but then the "Secure Boot state unsupported" error will continue to bother you now and then.
@@ -86,9 +73,6 @@ No advertising on the website.
 
  Restart your computer and check for the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## 3\. Choose UEFI as the BIOS' Mode
 
  Windows supports two BIOS modes–**UEFI** and **Legacy**. The difference between these two modes is in the process that the firmware uses to locate the boot target.
@@ -100,9 +84,6 @@ No advertising on the website.
 1. Open the BIOS page on your computer.
 2. Choose **Boot Sequence** from the left panel.
 3. Check the **UEFI option** under **Boot List** Options.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![UEFI Option in BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/UEFI-Option.jpg)
 4. Save the changes and restart your computer.
 
@@ -117,15 +98,9 @@ No advertising on the website.
 1. Press **Win + X** to open the **Power menu.**
 2. Choose **Disk Management.**
 3. In the Disk Management window, right-click on the hard disk drive and choose **Properties** from the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Properties option in Disk Management tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/properties-option.jpg)
 4. Switch to the **Volumes** tab.
 5. Check the **Partition style.** If it shows Master Boot Record (MBR), then you will have to convert it to GPT.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![Partition Style in Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Partition-Style.jpg)
 
  To convert the MBR partition style to GPT, follow the below steps:
@@ -138,9 +113,6 @@ No advertising on the website.
 
  That's it. Windows will start converting the partition style. The process may take some time, depending on the size of your drive.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Perform a Clean Boot
 
  Are you still facing the "Secure Boot state unsupported" error? If yes, then you will have to perform a clean boot to troubleshoot the issue. Check out our guide on [how to perform a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) for more information.
@@ -161,12 +133,33 @@ No advertising on the website.
 
  The error mainly appears when TPM is disabled on your computer. As such, if you're also facing the same problem, follow the fixes below to troubleshoot the problem for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-x-recorder-for-pc-audio-logger-at-no-cost/"><u>[Updated] X-Recorder for Pc Audio Logger at No Cost</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-converting-vimeo-videos-to-mp3-format/"><u>2024 Approved Converting Vimeo Videos to MP3 Format</u></a></li>
+<li><a href="https://extra-information.techidaily.com/closing-credits-collection-free-to-subscription-choices-for-2024/"><u>Closing Credits Collection Free to Subscription Choices for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-the-deadly-script-error-in-discord-for-windows-11-users/"><u>Combatting the Deadly Script Error in Discord for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/design-dilemma-overcoming-unexpected-screen-shades/"><u>Design Dilemma: Overcoming Unexpected Screen Shades</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-adjustments-your-guide-to-pointer-settings-in-win11/"><u>Effortless Adjustments: Your Guide to Pointer Settings in Win11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-successfully-install-acer-aspire-drivers-on-a-windows-pc-comprehensive-guide/"><u>How to Successfully Install Acer Aspire Drivers on a Windows PC - Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-chuckle-filled-creativity-crafting-7-side-splitting-youtube-sets/"><u>In 2024, Chuckle-Filled Creativity Crafting 7 Side-Splitting YouTube Sets</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagrams-latest-trends-in-video-loop-production-for-2024/"><u>Instagram's Latest Trends in Video Loop Production for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/rise-to-the-top-of-graphics-memory-increase-your-pcs-punch/"><u>Rise to the Top of Graphics Memory: Increase Your PC's Punch</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-synchronization-timely-windows-update/"><u>Seamless Synchronization: Timely Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-correct-nvidia-display-error-message/"><u>Steps to Correct Nvidia Display Error Message</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-correcting-java-not-setup-error-on-windows/"><u>Strategies for Correcting Java Not Setup Error on Windows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-art-of-audio-visual-harmony-youtube-music-inclusion-guide-for-2024/"><u>The Art of Audio-Visual Harmony YouTube Music Inclusion Guide for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-tutorial-for-srt-tagging-in-mp4-videos-2024/"><u>Ultimate Tutorial for SRT Tagging in MP4 Videos 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-resolving-access-denied-for-windows-users/"><u>Understanding and Resolving Access Denied for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-invisible-disk-in-os-environment/"><u>Unveiling Invisible Disk in OS Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-enhancement-choose-best-clock-based-screen-protectors/"><u>Windows Enhancement - Choose Best Clock-Based Screen Protectors</u></a></li>
+</ul></div>
 

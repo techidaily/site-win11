@@ -1,7 +1,7 @@
 ---
 title: "Win11: Turn Off Hyper-V Feature"
-date: 2025-02-09T04:20:49.847Z
-updated: 2025-02-15T20:13:45.388Z
+date: 2025-03-03T22:51:43.380Z
+updated: 2025-03-05T00:14:24.629Z
 tags:
   - windows10
   - windows11
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 
 ![System information hyper has been detected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/system-information-hyper-has-been-detected.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can access the System Information app to determine if the Hyper-V virtualization is running. This is useful if you need to verify the Hyper-V hypervisor status after or before disabling it.
 
  To check the Hyper-V hypervisor status on your computer:
@@ -73,25 +69,13 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 5. In the left pane, click on **Turn Windows features on or off.**  
 ![Turn Windows features on or off with Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/turn-windows-featureson-off-windows-11-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. In the Windows Features dialog, locate **Hyper-V.**
 2. Uncheck the **Hyper-V** option to disable the feature.  
 ![Windows features dialog disable Hyper-V](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Windows-features-dialog-disable-hyper-v.jpg)
 3. Next, scroll down and locate the **Virtual Machine Platform** and **Windows Hypervisor Platform** options.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows features dialog disable virtual machine platform windows hypervisor platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Windows-features-dialog-disable-virtual-machine-platform-windows-hypervisor-platform.jpg)
 4. Unselect both options and click **OK**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Windows will uninstall Hyper-V and other features from your system.
 6. Once done, restart your PC to apply the changes.
@@ -129,17 +113,9 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 
  After the restart, you can run your games and other hypervisors without the error. If not, open the Windows Features dialog, disable the **Virtual Machine Platform** and **Windows Hypervisor Platform** options, and restart your PC to turn off Hyper-V Hypervisor.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. How to Disable Hyper-V Using PowerShell
 
 ![Powershell disable Hyper-V](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/powershell-disable-hyper-v.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you prefer PowerShell, use the WindowsOptionalFeature cmdlet to disable Hyper-V in Windows 11\. To do this, [launch PowerShell with admin privileges](https://www.makeuseof.com/windows-open-command-prompt-powershell/) and execute the command. Here's how to do it:
 
@@ -162,10 +138,6 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 4. If no virtual adapters associated with Hyper-V are listed, click **View** and select **Show hidden devices.**  
 ![device manager show hidden devices windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/device-manager-show-hidden-devices-windows-11.jpg)
 5. Right-click on the **Hyper-V Virtual Ethernet Adapter** and select **Uninstall device**.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Do not remove the **Microsoft Wi-Fi Direct Virtual Adapter.**
 6. Click **Uninstall** to confirm the action.  
@@ -191,19 +163,11 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 ![Windows 11 privacy and security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Windows-11-privacy-and-security.jpg)
 5. Next, click on **Core isolation details** under the **Core isolation** section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows device security core isolation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-device-security-core-isolation.jpg)
 6. Toggle the switch under **Memory integrity** to turn it **Off**.  
 
 ![Windows 11 core isolation memory integrity turned off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-11-core-isolation-memory-integrity-off.jpg)
 7. Restart your PC to apply the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Disable Device Guard and Credential Guard
 
@@ -236,10 +200,6 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 ![Windows registry editor device guard subkey value 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-registry-editor-device-guard-subkey-value-0.jpg)
 6. Click **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart your computer to apply the changes and disable Device Guard and Credential Guard. If you ever need to enable these features, modify the value data and change it to **1**.
 
 ## Disable Hyper-V in Windows 11 to Run Third-Party Virtualization Tools and Apps
@@ -258,21 +218,18 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-coffee-stain-solution-on-iphone-fast-free-and-effective/"><u>[Updated] 2024 Approved Coffee Stain Solution on iPhone - Fast, Free, and Effective</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-gecata-watchers-complete-appraisal/"><u>[Updated] GECATA Watcher's Complete Appraisal</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-maximizing-your-photography-with-polarrs-enhanced-features-for-2024/"><u>[Updated] Maximizing Your Photography with Polarr's Enhanced Features for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/achieving-crystal-clear-quality-top-screen-modes-for-samsungs-uhd-tvs/"><u>Achieving Crystal Clear Quality: Top Screen Modes for Samsung's UHD TVs</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-make-the-most-out-of-windows-10-on-older-pcs/"><u>How to Make the Most Out of Windows 10 on Older PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-rectify-app-prevents-system-function-error-on-windows-pcs/"><u>How to Rectify App Prevents System Function Error on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-turn-off-tips-and-suggestions-notifications-on-windows-11/"><u>How to Turn Off Tips and Suggestions Notifications on Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-amazfit-gtr-3-smartwatch-unbiased-zdnet-review/"><u>In-Depth Analysis: Amazfit GTR 3 Smartwatch - Unbiased ZDNet Review</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-resetting-request-limits-in-win-based-programming/"><u>Mastering the Art of Resetting Request Limits in Win-Based Programming</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-corrupted-access-control-in-windows/"><u>Rectifying Corrupted Access Control in Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-getting-steam-voice-chat-back-on-track/"><u>Step-by-Step Solutions: Getting Steam Voice Chat Back on Track</u></a></li>
-<li><a href="https://win11.techidaily.com/the-power-of-pictures-notetaking-with-obsidian/"><u>The Power of Pictures: Notetaking with Obsidian</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-se-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone SE</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-8-striking-ui-mismatches/"><u>Windows 11: 8 Striking UI Mismatches</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-top-8-youtube-rank-tracker-to-track-your-video/"><u>[New] In 2024, Top 8 YouTube Rank Tracker to Track Your Video</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-guide-to-mp4-devices/"><u>[New] The Ultimate Guide to MP4 Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-capture-king-review-the-screen-recorder-showdown-for-2024/"><u>[Updated] Capture King Review The Screen Recorder Showdown for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-soundscaping-stories-musical-elements-in-reels/"><u>[Updated] In 2024, Soundscaping Stories Musical Elements in Reels</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-se-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-pathway-for-windows-11-safe-mode-troubleshooting/"><u>Efficient Pathway for Windows 11 Safe Mode Troubleshooting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exquisite-drone-fleet-the-pinnacle-of-visual-artistry/"><u>Exquisite Drone Fleet The Pinnacle of Visual Artistry</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-optimal-templates-for-introducing-panzoids/"><u>In 2024, Optimal Templates for Introducing Panzoids</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-download-problems-from-microsoft-store/"><u>Mitigating Download Problems From Microsoft Store</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-charge-fixes-for-call-of-duty-black-ops-cold-war-beating-the-chilling-glitch/"><u>No Charge Fixes for Call of Duty: Black Ops Cold War - Beating the Chilling Glitch</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-your-pc-with-the-right-win11-edition-home-or-pro/"><u>Personalize Your PC with the Right Win11 Edition: Home or Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-stop-disk-read-issues-on-your-pc/"><u>Tips to Stop 'Disk Read' Issues on Your PC</u></a></li>
 </ul></div>
 

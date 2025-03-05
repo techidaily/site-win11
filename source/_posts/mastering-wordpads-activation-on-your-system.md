@@ -1,7 +1,7 @@
 ---
 title: Mastering WordPad's Activation on Your System
-date: 2025-02-09T22:11:14.947Z
-updated: 2025-02-15T18:04:55.634Z
+date: 2025-02-28T19:03:11.084Z
+updated: 2025-03-04T20:14:00.800Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/8f88442ac6dedc419a65e9e8bd02cadcc874f8f08
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Open WordPad Using the Windows Search Tool
 
  If you're not sure how to open WordPad on your Windows PC, don't worry! You can easily find and launch the program using the Windows Search tool.
@@ -39,15 +35,7 @@ To open WordPad using the search tool, follow these steps:
 ![Open WordPad Using Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Search-Tool.jpg)
 2. You should see the WordPad program pop up in the results. Simply click on it to launch the program.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you open WordPad, you can start typing or pasting text and use the ribbon interface to access formatting options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Open WordPad via File Explorer
 
@@ -68,10 +56,6 @@ The WordPad application will open on your computer.
 2. In the dialog box, type "WordPad" and hit**Enter** . You can also type "write" instead of WordPad.
 
 The WordPad application will now launch.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. How to Open WordPad Using the Task Manager
 
@@ -100,10 +84,6 @@ To open WordPad using the Control Panel, follow these steps:
 ![Open WordPad Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Control-Panel.jpg)
 5. Next, you will find WordPad in the right pane. Double-click on it to open the WordPad application.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. How to Open WordPad Using Command Prompt or PowerShell
 
  In this day and age, we are so reliant on technology that even the simplest tasks can feel daunting if we don't know how to do them. Opening WordPad is a basic task that can be easily accomplished by running a simple command in Command Prompt or Windows PowerShell.
@@ -117,10 +97,6 @@ To do this, follow these steps:
 5. Type "write.exe" in the Command Prompt or PowerShell window.  
 ![Open WordPad Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Command-Prompt.jpg)
 6. Press the**Enter** key now. You will see the WordPad application on your computer screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. How to Open WordPad Via Start Menu
 
@@ -149,10 +125,6 @@ To open WordPad using the Start menu, follow these steps:
 4. If Windows asks for your confirmation, click**Yes** to create it.
 
  You will find a shortcut to WordPad on your desktop; double-click the shortcut to open it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Pin WordPad to the Start menu or Taskbar
 
@@ -183,24 +155,18 @@ To open WordPad using the Start menu, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/treamline-visual-marking-in-youtube-posts-with-watermarks-and-logos/"><u>[New] Streamline Visual Marking in Youtube Posts with Watermarks & Logos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-choosing-the-right-medium-audio-vs-video-based-platforms/"><u>[Updated] Choosing the Right Medium Audio vs Video-Based Platforms</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-explore-the-full-potential-of-picsart-a-comprehensive-review/"><u>[Updated] In 2024, Explore the Full Potential of PicsArt - A Comprehensive Review</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-reset-counter-for-incorrect-logins-on-windows-11-os/"><u>Customizing Reset Counter for Incorrect Logins on Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-windows-update-and-synchronization-service/"><u>Decoding Windows Update and Synchronization Service</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-resetting-search-to-factory-standards-in-win11/"><u>Expert Tips: Resetting Search to Factory Standards in Win11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/find-your-ideal-second-number-software-our-picks-and-recommendations/"><u>Find Your Ideal Second Number Software: Our Picks and Recommendations</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-remedy-for-keyboard-shortcut-failures-with-snips/"><u>Immediate Remedy for Keyboard Shortcut Failures with Snips</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-y36-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo Y36 Devices</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-navigating-the-world-of-youtube-keywords/"><u>In 2024, Navigating the World of YouTube Keywords</u></a></li>
-<li><a href="https://fox-info.techidaily.com/mastering-haul-videos-tips-and-tricks-for-editors-for-2024/"><u>Mastering Haul Videos Tips & Tricks for Editors for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/methodical-steps-to-scrub-microsofts-defender-traces-on-win-11/"><u>Methodical Steps to Scrub Microsoft’s Defender Traces on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/optimal-nvidia-driver-matches-gamingstudio-distinction/"><u>Optimal Nvidia Driver Matches: Gaming/Studio Distinction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-crc-data-mismatches-solutions-for-flawless-transmission/"><u>Overcoming CRC Data Mismatches – Solutions for Flawless Transmission</u></a></li>
-<li><a href="https://win11.techidaily.com/prioritizing-privacy-trusted-sites-listing-in-windows-11/"><u>Prioritizing Privacy: Trusted Sites Listing in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/seeking-low-ram-browsers-our-exhaustive-evaluation-guide/"><u>Seeking Low-RAM Browsers: Our Exhaustive Evaluation Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-visuals-win11s-auto-color-features/"><u>Streamline Your Visuals: Win11's Auto Color Features</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-complete-fixing-the-memory-shortage-in-god-of-war-gameplay/"><u>Troubleshooting Complete: Fixing the Memory Shortage in God of War Gameplay</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/voice-activated-ai-chatgpt-for-android-users/"><u>Voice-Activated AI ChatGPT for Android Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-explore-advanced-video-control-in-youtubes-playback-features/"><u>[New] 2024 Approved Explore Advanced Video Control in YouTube’s Playback Features</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-ghostly-glimpses-video-review/"><u>[New] 2024 Approved Ghostly Glimpses Video Review</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-unforgettable-stop-motion-films-the-top-15-list/"><u>[Updated] In 2024, Unforgettable Stop-Motion Films - The Top 15 List</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unveiling-instagrams-background-replace-technique/"><u>[Updated] In 2024, Unveiling Instagram’s Background Replace Technique</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlock-efficiency-the-editors-guide-to-speed-control-for-2024/"><u>[Updated] Unlock Efficiency The Editor's Guide to Speed Control for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-overcome-chromes-video-troubles-in-seconds/"><u>2024 Approved Overcome Chrome's Video Troubles in Seconds</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-persistence-of-custom-sound-adjustments-on-pc/"><u>Ensuring Persistence of Custom Sound Adjustments on PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unlocking-creative-potential-with-ig-reel-slow-motion/"><u>In 2024, Unlocking Creative Potential with IG Reel Slow-Motion</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-to-lose-and-gain-photo-dimensions-in-windows-11-seamlessly/"><u>Learn to Lose and Gain Photo Dimensions in Windows 11 Seamlessly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/minimizing-disorientation-your-vr-wellbe-written-guide-for-2024/"><u>Minimizing Disorientation Your VR Wellbe Written Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-inaccessible-fingerprint-scanner-errors-on-windows/"><u>Overcoming Inaccessible Fingerprint Scanner Errors on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/transferring-powertoys-configurations-without-losing-data/"><u>Transferring PowerToys Configurations Without Losing Data</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Honor Play 8T | Dr.fone</u></a></li>
 </ul></div>
 

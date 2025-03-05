@@ -1,7 +1,7 @@
 ---
 title: Resolving Search Bar Inactivity on Windows 11
-date: 2025-02-14T16:52:06.125Z
-updated: 2025-02-16T02:33:21.440Z
+date: 2025-02-25T23:25:16.074Z
+updated: 2025-03-04T17:42:33.522Z
 tags:
   - windows10
   - windows11
@@ -48,15 +48,7 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 
 ![The Search and Indexing troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-search-and-indexing-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The steps for opening the Search and Indexing troubleshooter in Windows 10’s Settings app aren’t exactly the same. Click**Update & Security** \>**Troubleshoot** in Windows 10’s Settings app. Selecting**Additional troubleshooters** will bring up the list. Then you can click**Run the troubleshooter** for Search and Indexing to open it from there.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Select the Enhanced Search Option
 
@@ -68,18 +60,10 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 ![The Search Windows navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-searching-windows-navigation-option.jpg)
 4. Then select the**Enhanced** radio button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Enhanced radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-enhanced-radio-button.jpg)
 5. Click the menu buttons for all excluded search folders listed below that option and select**Remove** .  
 
 ![The Remove option for excluded folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-remove-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Start the Windows Search Service
 
@@ -98,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 7. Select**OK** to close Windows Search Properties.
 
  If the Windows Search service is already running, try restarting it. Select the**Stop** option for Windows Search. Wait a few minutes, and click the**Start** button for the service to restart it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Run a Scan With the SFC Tool
 
@@ -125,20 +105,12 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 ![The Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-large-icons-button.jpg)
 3. Click**Indexing Options** to view that applet.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Select**Advanced** in the Indexing Options window.
 5. Click**Rebuild** in the Index**Settings** tab.  
 ![The Rebuild button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-rebuild-option.jpg)
 6. Wait for the rebuilding to finish.
 
 7. Select**OK** \>**Close** to exit the indexing applet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall Cortana
 
@@ -153,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 `Get-AppXPackage -Name Microsoft.Windows.Cortana | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`  
 ![The command for reinstalling Cortana](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reinstall-cortana-command.jpg)
 7. Press**Enter** to execute the PowerShell command.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Reset Windows
 
@@ -185,14 +153,15 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-apex-creators-video-giants-in-the-making/"><u>[New] 2024 Approved Apex Creators Video Giants in the Making</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-launching-hit-online-streams/"><u>2024 Approved The Ultimate Guide to Launching Hit Online Streams</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-windows-bt-directories-a-guide/"><u>Eliminating Windows ~BT Directories: A Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/file-fusion-and-drive-dynamics-win11s-defrag-guidebook/"><u>File Fusion & Drive Dynamics: Win11's Defrag Guidebook</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-response-guide-booting-into-safe-mode-in-windows-11/"><u>Immediate Response Guide: Booting Into Safe Mode in Windows 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-apple-iphone-14-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From Apple iPhone 14?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-uncovering-stardews-depths-with-ginger-island-adventures/"><u>In 2024, Uncovering Stardew's Depths with Ginger Island Adventures</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/surviving-a-power-cut-with-modern-innovation-the-portable-battery-that-kept-us-lit-and-connected-zdnet/"><u>Surviving a Power Cut with Modern Innovation: The Portable Battery That Kept Us Lit and Connected | ZDNET</u></a></li>
-<li><a href="https://win11.techidaily.com/top-10-windows-error-solvers-your-ultimate-fix-guide/"><u>Top 10 Windows Error Solvers: Your Ultimate Fix Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/levating-your-vlogs-a-list-of-the-top-12-professional-cameras-for-2024/"><u>[New] Elevating Your Vlogs A List of the Top 12 Professional Cameras for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-five-expert-tools-for-extracting-fb-content/"><u>[Updated] In 2024, Five Expert Tools for Extracting FB Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-access-essential-windows-10-tips/"><u>[Updated] Quick Access Essential Windows 10 Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-sas-drivers-for-windows-1187-step-by-step-guide/"><u>Download Updated SAS Drivers for Windows 11/8/7: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/encrypted-transfer-protecting-data-through-windows-os/"><u>Encrypted Transfer: Protecting Data Through Windows OS</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/extract-media-from-medicitv-onto-your-pc-or-mac-with-medicidownloader-pro/"><u>Extract Media From Medici.tv Onto Your PC or Mac with MediciDownloader Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-overcoming-frequent-pc-shutdowns-while-playing-alien-fireteam-elite/"><u>Mastering Stability: Overcoming Frequent PC Shutdowns While Playing Alien: Fireteam Elite</u></a></li>
+<li><a href="https://win11.techidaily.com/proactive-steps-to-excel-on-windows-11/"><u>Proactive Steps to Excel on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-chromes-dark-display-problem-in-windows/"><u>Resolving Chrome's Dark Display Problem in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/top-7-win10-art-software-innovative-drawing-tools-reviewed/"><u>Top 7 Win10 Art Software: Innovative Drawing Tools Reviewed</u></a></li>
 </ul></div>
 

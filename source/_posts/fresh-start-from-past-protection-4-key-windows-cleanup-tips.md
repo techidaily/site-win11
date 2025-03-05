@@ -1,7 +1,7 @@
 ---
 title: "Fresh Start From Past Protection: 4 Key Windows Cleanup Tips"
-date: 2025-02-10T04:36:51.304Z
-updated: 2025-02-15T22:46:54.838Z
+date: 2025-02-27T23:29:40.447Z
+updated: 2025-03-04T18:50:21.086Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 ![Protection History Page in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ProtectionHistory1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Though Windows Defender keeps the history of its detections for 30 days, you can clear it before that time if you need to—for example, when a lot of scan logs have accumulated. Clearing the Protection History would help you make space on your PC and keep Defender running smoothly. Remember, you must be signed in as an administrator to clear the protection history so [do check if you have administrative rights](https://www.makeuseof.com/check-windows-account-admin-rights/).
 
  Now let's see four easy ways to clear Protection History in Windows 10 and 11\.
@@ -58,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 ![Select Files in History Folder and Delete Them](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Select-Files-in-History-Folder-and-Delete-Them.jpg)
 5. Next, search for **Windows Security** and open it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Under **Virus & threat protection** click on **Manage settings**.  
 ![Virus and Threat Protection Settings in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Virus-and-Threat-Protection-in-Windows-Security.jpg)
@@ -88,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 ![Options to Clear Logs or Save and Clear Defender Logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Clear-and-Save-and-Clear-Options-for-Defender-Logs.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. How to Clear the Microsoft Defender Protection History via PowerShell
 
  What if you want the Protection History to clear automatically after a specific number of days? You can also use a PowerShell command to do that. Let's see how to do this:
@@ -106,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
  The number **7** at the end of the command is the number of days after which the protection history logs will be cleared. Just change that number to specify when you want the protection history to be cleared. And it will be cleared automatically.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. How to Clear the Microsoft Defender Protection History Using the Group Policy Editor
 
  If you have a PC with Windows 10 Pro, Windows 11 Pro, or a higher version, you can also use the Group Policy Editor to clear the Defender Protection History automatically. Though there are solutions to [access the Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) too. But let's see how to clear Protection History via Group Policy Editor in Windows Pro and higher versions:
@@ -121,25 +105,13 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 ![Navigate to Windows Defender Antivirus in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Navigate-to-Windows-Defender-Antivirus-in-Group-Policy-Editor.jpg)
 5. In the list of **Windows Defender** items, **double-click** on the **Scan** folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. In the right pane, **double-click** on **Turn on removal of items from scan history folder**. Or click **Edit policy setting** in the middle pane. This policy setting defines the number of days items should be kept in the scan history folder before being permanently removed.  
 ![Turn on Removal of Items Policy in Defender Scan Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Edit-Removal-of-Items-Policy-in-Defender-Scan-Folder.jpg)
 7. Next, select **Edit policy setting** to open the policy window. It would be showing **Not Configured** by default. To set the number of days, toggle on the button next to **Enabled**. The default number of days, which is **30**, would then be set. If you set the number of days to zero, items will be kept forever and will not be automatically removed. So just change the days to whenever you want the items to be removed. Finally, click **Apply** and then **OK**.  
 
 ![Specify Number of Days to Remove Scan Items in Defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Set-Number-of-Days-to-Remove-Scan-Items.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, you won't need to manually clear Protection History every time—the items in the scan history folder would be deleted automatically after the days you've specified.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Clear the Microsoft Defender Protection History Whenever You Want
 
@@ -157,20 +129,20 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-fcp-download-hack-get-it-for-free-in-2024/"><u>[New] FCP Download Hack Get It for Free, In 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-camera-essentials-for-adventure-videographers/"><u>2024 Approved Camera Essentials for Adventure Videographers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-premier-experts-innovative-instragram-hlv-designs/"><u>2024 Approved Premier Experts Innovative Instragram HLV Designs</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-editors-interface-incorporate-wordpad-triggers-in-windows-11s-menu/"><u>Enhancing Editors' Interface: Incorporate WordPad Triggers in Windows 11’S Menu</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-14-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 14 Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-hot-40-pro-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Hot 40 Pro Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ideal-cloud-services-with-infinite-capacity/"><u>Ideal Cloud Services with Infinite Capacity</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-21-edition-examination-the-gamblers-guide-to-vegas-pro/"><u>In 2024, '21 Edition Examination – The Gambler’s Guide to Vegas Pro</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-foremost-youtube-networks-for-news-enthusiasts/"><u>In 2024, Foremost YouTube Networks for News Enthusiasts</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-disconnectivity-solutions-to-fix-fall-guys-problems-on-windows/"><u>Mastering Disconnectivity: Solutions to Fix Fall Guys Problems on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-restart-and-shutdown-issues-from-faulty-applications-in-windows/"><u>Overcoming Restart and Shutdown Issues From Faulty Applications in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-dormant-ccleaner-in-windows-11-systems/"><u>Reviving Dormant CCleaner in Windows 11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/saving-your-progress-how-to-avoid-forced-closure-by-roblox/"><u>Saving Your Progress: How to Avoid Forced Closure by Roblox</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-revitalize-old-hardware-with-windows-11-22h2/"><u>Steps to Revitalize Old Hardware with Windows 11 22H2</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-setup-hacks-forming-fresh-folders-effortlessly/"><u>Win11 Setup Hacks: Forming Fresh Folders Effortlessly</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-elevate-your-channels-popularity-with-12-key-growth-techniques/"><u>[New] In 2024, Elevate Your Channel's Popularity with 12 Key Growth Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-streamline-your-images-in-canva-without-clutter/"><u>[New] Streamline Your Images in Canva Without Clutter</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-unveiling-the-top-8-youtube-boosters/"><u>[New] The Ultimate Guide Unveiling the Top 8 Youtube Boosters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-utilizing-luts-for-enhanced-color-correction-in-pscc/"><u>[New] Utilizing LUTs for Enhanced Color Correction in PSCC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/common-fixes-for-the-persona-3-reload-failure-to-start-dilemma/"><u>Common Fixes for the Persona 3 Reload Failure to Start Dilemma</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-precise-ai-responses-six-essential-strategies-to-curtail-hallucinations/"><u>Crafting Precise AI Responses: Six Essential Strategies to Curtail Hallucinations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-utorrents-connectiondownload-malfunctions/"><u>Diagnosing and Repairing uTorrent's Connection/Download Malfunctions</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-scrutinizing-and-eliminating-windows-11-chronicles/"><u>Guide to Scrutinizing & Eliminating Windows 11 Chronicles</u></a></li>
+<li><a href="https://techtrends.techidaily.com/important-aspects-to-review-prior-to-purchasing-a-video-capture-device/"><u>Important Aspects to Review Prior to Purchasing a Video Capture Device</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/in-depth-aomei-backupper-pricing-features-and-faqs-for-a-smart-buying-decision/"><u>In-Depth AOMEI Backupper Pricing, Features & FAQs for a Smart Buying Decision</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-media-exclusive-list-the-best-video-editors-for-windows/"><u>Master Your Media - Exclusive List: The Best Video Editors for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/microsofts-new-era-accelerated-team-collaboration/"><u>Microsoft's New Era: Accelerated Team Collaboration</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-crashes-and-error-codes/"><u>Navigating Through Windows Crashes and Error Codes</u></a></li>
+<li><a href="https://win11.techidaily.com/setup-guide-for-outlook-preview-on-windows-11/"><u>Setup Guide for Outlook Preview on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-secrets-to-fixing-robloxs-error-262/"><u>Unraveling the Secrets to Fixing Roblox's Error 262</u></a></li>
 </ul></div>
 

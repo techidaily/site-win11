@@ -1,7 +1,7 @@
 ---
 title: Overcoming Disabled Accounts in Windows
-date: 2025-01-28T16:50:41.195Z
-updated: 2025-02-03T18:04:23.053Z
+date: 2025-02-26T21:48:33.577Z
+updated: 2025-03-04T23:52:12.410Z
 tags:
   - windows10
   - windows11
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 
  That said, if you can't wait for two hours, try to log in using an alternate sign-in option, such as a password or biometric authentication. To use the alternate sign-in option, click the dotted icon under the Sign-in options in the error screen to log in with your password.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Reset the Account Password from the Sign-In Screen
 
  If you have forgotten your password, you can reset your sign-in password from the sign-in screen. To confirm the authenticity of the user, Windows will need you to answer the security questions correctly to perform a reset.
@@ -64,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 
 ![reset account password windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-account-password-windows.jpg)
 4. Enter your new password and then re-enter the password to confirm the same.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Press **Enter** to sign-in to your user account.
 
@@ -92,16 +84,8 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 ![local users and groups account properties windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-users-and-groups-account-peroperties-windows.jpg)
 5. Next, select **Properties**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![local users and groups unselect account is disabled account is locked out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-users-and-groups-unselect-account-is-disabled-account-is-locked-out.jpg)
 6. In the **Properties** dialog, open the **General** tab.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Here, uncheck Account is disabled, and Account is locked out option.
 8. Click **Apply** and **OK** to save the changes.
@@ -119,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 1. Open the Notepad app. Search for **Notepad** in Windows search and open the app.  
 ![script remove pin win user account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sccript-remove-pin-win-user-account.jpg)
 2. Next, copy and paste the following script into the Notepad file:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `@echo off  
 powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'  
@@ -158,10 +138,6 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 4. In the right pane, double-click on **Account lockout threshold**.  
 ![account lockout threshold gpedit windows modify](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/account-lockout-threshold-gpedit-windows-modify.jpg)
 5. Type **0** in the **Account will not lock out** field.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![account lockout threshold gpedit windows modify o value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/account-lockout-threshold-gpedit-windows-modify-o-value.jpg)
 6. Click **Apply** and **OK** to save the changes.
@@ -207,22 +183,17 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-enriched-minecraft-experience-via-ram-expansion/"><u>[Updated] Enriched Minecraft Experience via RAM Expansion</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-experts-guide-to-finding-cheap-sbd-solutions-for-2024/"><u>[Updated] Expert's Guide to Finding Cheap SBD Solutions for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-access-to-outlook-preview-in-the-latest-windows-os/"><u>Effortless Access to Outlook Preview in the Latest Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-user-experience-mouse-pointer-adjustments/"><u>Enhancing User Experience: Mouse Pointer Adjustments</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-tecno-spark-20c-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Tecno Spark 20C</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-infinix-smart-7-hd-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Infinix Smart 7 HD?</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-your-machine-how-to-tweak-windows-11-preferences/"><u>Mastering Your Machine: How to Tweak Windows 11 Preferences</u></a></li>
-<li><a href="https://win11.techidaily.com/must-remember-actions-before-installation-of-new-windows/"><u>Must-Remember Actions Before Installation of New Windows</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-convert-dailymotion-videos-to-any-format-for-free-for-2024/"><u>New Convert Dailymotion Videos to Any Format for Free for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-quick-access-use-onedrive-first-in-windows/"><u>Overcoming Quick Access: Use OneDrive First in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/red-alert-purple-windows-fixed-in-a-flash-with-these-tips/"><u>Red Alert! Purple Windows - Fixed in a Flash with These Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-steam-error-lack-of-file-access-on-win11/"><u>Resolving Steam Error: Lack of File Access on Win11</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-sphere-shift-understanding-the-metamate-identity/"><u>Social Sphere Shift: Understanding the Metamate Identity</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-buffering-resolving-video-delay-in-vlc-win/"><u>Tackling Buffering: Resolving Video Delay in VLC Win</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-itel-a05s-frp-by-drfone-android/"><u>The Updated Method to Bypass Itel A05s FRP</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-discounted-8tb-samsung-portable-ssd-post-prime-day-on-amazon-zdnet/"><u>Unbeatable Deal: Discounted 8TB Samsung Portable SSD Post-Prime Day on Amazon - ZDNet</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-captivating-sound-design-essentials-review-of-premier-audio-editors-pros-and-cons/"><u>Updated In 2024, Captivating Sound Design Essentials Review of Premier Audio Editors, Pros & Cons</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-skyborne-duo-faceoff-dji-mavic-pro-and-gopro-karma/"><u>[New] 2024 Approved The Skyborne Duo Faceoff DJI Mavic Pro & GoPro Karma</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-ultimate-list-seamless-no-download-gif-to-video-converters/"><u>[New] 2024 Approved Ultimate List Seamless No-Download GIF to Video Converters</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-enhance-videos-at-no-extra-cost-best-editors-ranked-top-9/"><u>[New] Enhance Videos at No Extra Cost Best Editors Ranked (Top 9)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-captureking-high-definition-edition-for-2024/"><u>[Updated] CaptureKing High Definition Edition for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/10-solutions-when-wifi-detection-fails-in-windows-11/"><u>10 Solutions When Wifi Detection Fails in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/apples-wwdc24-recap-a-complete-overview-of-key-announcements-and-insights/"><u>Apple's WWDC24 Recap: A Complete Overview of Key Announcements and Insights</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminate-paperjam-error-by-deleting-printer/"><u>Eliminate PaperJam Error by Deleting Printer</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-reading-qr-codes-on-windows-devices/"><u>Essential Tips for Reading QR Codes on Windows Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oneplus-12-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from OnePlus 12 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/speak-up-troubleshooting-and-fixing-microphone-errors-on-microsoft-powered-google-meet/"><u>Speak Up! Troubleshooting and Fixing Microphone Errors on Microsoft-Powered Google Meet</u></a></li>
+<li><a href="https://win11.techidaily.com/ten-terminal-tricks-you-can-try-today/"><u>Ten Terminal Tricks You Can Try Today</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-secrets-to-removing-windows-extract-error-1152/"><u>Unlocking Secrets to Removing Windows Extract Error 1152</u></a></li>
 </ul></div>
 

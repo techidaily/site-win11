@@ -1,7 +1,7 @@
 ---
 title: Overcoming Inaccessible Power Settings in Windows 11
-date: 2025-02-12T23:08:46.404Z
-updated: 2025-02-15T23:09:24.667Z
+date: 2025-03-02T16:25:26.613Z
+updated: 2025-03-04T22:35:09.977Z
 tags:
   - windows10
   - windows11
@@ -47,16 +47,8 @@ Here is how you can proceed:
 ![Click on Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/large-icons-control-panel.jpg)
 4. Now, look for**Power options** and click on it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Click on Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/win11-power-options.jpg)
 5. You should now be able to see your current power plan. Click on**Create a power plan** in the left pane.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Create a power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/create-power-plan-1.jpg)
 6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
@@ -64,10 +56,6 @@ Here is how you can proceed:
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
 
 Once done, check if you can now change the power mode successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the Power Troubleshooter
 
@@ -85,10 +73,6 @@ Here is how you can run the troubleshooter:
 
 ![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Reset the Power Settings
 
@@ -119,10 +103,6 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 
 Hopefully, this will resolve the issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Revert the System to an Older Working State
 
  Another way to fix the problem is by reverting the system back to a state where you can change the power modes without any issues. This can be achieved using the System Restore feature,[one of the most important PC-Saving Windows Tools available](https://www.makeuseof.com/tag/8-pc-saving-windows-tools-must-not-overlook/) , which periodically creates restore points on the system.
@@ -152,20 +132,19 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-essential-frames-from-apples-display-max-length-156/"><u>[Updated] In 2024, Essential Frames From Apple's Display (Max Length 156)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/high-definition-capture-best-pc-cameras-for-windows-11/"><u>High Definition Capture Best PC Cameras for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-optimize-windows-11-taskbar/"><u>How to Optimize Windows 11 Taskbar</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 13 Pro Max</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pewdiepie-revenue-analysis-overview/"><u>In 2024, PewDiePie Revenue Analysis Overview</u></a></li>
-<li><a href="https://fox-info.techidaily.com/incredible-virtual-films-to-explore-for-2024/"><u>Incredible Virtual Films to Explore for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/make-your-window-interface-unforgettable-using-winbubble-tips/"><u>Make Your Window Interface Unforgettable Using WinBubble Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-your-pc-with-these-4-win11-god-mode-tricks/"><u>Maximize Your PC with These 4 Win11 God Mode Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-start-how-to-set-up-outlook-preview-on-windows-1011/"><u>Quick Start: How to Set Up Outlook Preview on Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-blue-screen-code-0xc0000142/"><u>Rectifying Blue Screen Code 0XC0000142</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-click-no-open-windows-folder-troubles/"><u>Remedying Click, No Open: Windows Folder Troubles</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-connection-issues-how-to-troubleshoot-your-airpods-on-windows-11/"><u>Resolving Connection Issues: How to Troubleshoot Your AirPods on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tackling-disappearing-win1110-pci-devices/"><u>Tackling Disappearing Win11/10 PCI Devices</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-understanding-the-advantages-of-the-iphone-12-series/"><u>The Ultimate Guide to Understanding the Advantages of the iPhone 12 Series</u></a></li>
-<li><a href="https://win11.techidaily.com/win11s-best-matches-8-superb-video-editing-apps/"><u>Win11’s Best Matches: 8 Superb Video Editing Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-ultimate-screen-upgrade-high-resolution-video-enhancer/"><u>[New] Ultimate Screen Upgrade High-Resolution Video Enhancer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-screen-recorders-guide-trusted-recommendations/"><u>[Updated] 2024 Approved The Ultimate Screen Recorders Guide - Trusted Recommendations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-uploading-and-embedding-srt-text-in-social-media-videos/"><u>[Updated] Uploading and Embedding SRT Text in Social Media Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-acoustics-the-windows-11-approach/"><u>Exploring Acoustics: The Windows 11 Approach</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-efficiency-of-apc-back-ups-pro-1500va-power-surge-protection-and-extra-outlets-included/"><u>Exploring the Efficiency of APC Back-UPS Pro 1500VA – Power Surge Protection and Extra Outlets Included</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bone-chilling-image-builder/"><u>In 2024, Bone-Chilling Image Builder</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-windows-ntoskrnlexe-efficiency/"><u>Optimizing Windows' Ntoskrnl.exe Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-the-call-failure-problem-in-windows-based-malwarebytes/"><u>Rectifying the Call Failure Problem in Windows-Based Malwarebytes</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-error-code-31-a-guide-to-recovering-network-adapter-issues/"><u>Resolving Windows Error Code 31: A Guide to Recovering Network Adapter Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reactivate-windows-photo-viewer-on-windows-11/"><u>Steps to Reactivate Windows Photo Viewer on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-choosing-a-screen-for-superior-4k-video/"><u>The Ultimate Guide to Choosing a Screen for Superior 4K Video</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-stop-unwanted-sms-alerts-on-your-android-device/"><u>Ultimate Guide: Stop Unwanted SMS Alerts on Your Android Device</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unmatched-mobileweb-image-magnification-toolkit-for-2024/"><u>Unmatched Mobile/Web Image Magnification Toolkit for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-11x-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme 11X 5G Device</u></a></li>
 </ul></div>
 

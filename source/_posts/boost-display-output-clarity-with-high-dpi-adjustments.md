@@ -1,7 +1,7 @@
 ---
 title: Boost Display Output Clarity with High-DPI Adjustments
-date: 2024-08-08T13:12:36.993Z
-updated: 2024-08-09T13:12:36.993Z
+date: 2025-02-28T17:41:49.939Z
+updated: 2025-03-04T16:58:00.510Z
 tags:
   - windows10
   - windows11
@@ -20,16 +20,10 @@ thumbnail: https://thmb.techidaily.com/4b4c42d86cbc7f5900b95e8b4af00dbe97e236701
 
  Whether it's due to vision problems or if you simply want more control over how things look onscreen, these solutions are sure to help.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is DPI Scaling on Windows?
 
  DPI stands for "dots per inch" and it refers to the number of individual dots that can be packed into an inch of space on your screen. The higher the number, the sharper and clearer the display. But here's the thing, sometimes you might want your text and images to be bigger, while at other times, you might want them smaller. That's where DPI scaling comes in; it's your very own personal adjustment tool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Change Display DPI Scaling via Windows Settings
 
  The Settings app is the simplest and easiest way to change display scaling in Windows 11\. Here's how to do it.
@@ -44,15 +38,6 @@ thumbnail: https://thmb.techidaily.com/4b4c42d86cbc7f5900b95e8b4af00dbe97e236701
 
  After you've made your changes, close the window and restart your computer, so the changes take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## How to Change Display DPI Scaling Using the Registry Editor
 
  If the Settings app isn't working, or you don't have access to it, you can change the scaling through the Registry Editor. But keep in mind that it can be a bit tricky, and you should [back up your registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before making any changes.
@@ -68,10 +53,6 @@ HKEY_CURRENT_USER\Control Panel\Desktop
  If you don't see the LogPixels DWORD key, you need to manually create it. For this, right-click on the empty space in the right pane and select**New > DWORD (32-bit) Value** . Upon creating the DWORD key, give it the name**LogPixels** and save it. Now click twice on the key you just created, and a pop-up will appear.
 
 1. Choose one of the following Value data fields and set the base to**Decimal** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Change Display DPI Scaling in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-display-dpi-scaling-in-windows.jpg)  
 | Value data | DPI scale                  |  
 | ---------- | -------------------------- |  
@@ -85,30 +66,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 | 480        | Custom 500%                |
 2. When you're done making these changes, click**OK** to save them.
 3. Next, double-click**Win8DpiScaling** in the right pane. If you don't see the Win8DpiScaling DWORD key there, you must create it manually in the same way as you created LogPixels.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Change Display DPI Scaling Using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-display-dpi-scaling-using-registry.jpg)
 4. In the pop-up menu, set the Value data to**0** if you set Logpixels to 96, or**1** if you used any other value.
 5. Select**Hexadecimal** as the base and click**OK** .
 
  After performing the above steps, restart your computer to take effect the changes. If you ever need to restore the default settings, just open Registry Editor and go to the same location. Then double-click on Win8DpiScaling and change the Value data to 0.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Scale the Display DPI on Windows
 
  If you're in search of ways to give your screen a sharper and crisper look, change the DPI scaling! You can customize different elements displayed on your device like text size, icons, and more so that it's easier for you to read and navigate.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -117,6 +89,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-essential-mobile-media-apps-for-high-quality-photographyvideography/"><u>[New] In 2024, Essential Mobile Media Apps for High-Quality Photography/Videography</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unlocking-srt-files-accessing-on-windowsmac/"><u>[New] Unlocking SRT Files Accessing on Windows/Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-visual-data-harvester/"><u>[New] Visual Data Harvester</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-innovative-marker-use-in-digital-filmmaking/"><u>[Updated] In 2024, Innovative Marker Use in Digital Filmmaking</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cyberpunk-2077-update-woes-navigating-the-error-2024-glitch-phenomenon/"><u>Cyberpunk 2077 Update Woes: Navigating the 'Error 2024' Glitch Phenomenon</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-err0r-x7e1-in-windows-1011/"><u>Disabling Err0r X7E1 in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-overscan-perfecting-window-sizing-on-windows/"><u>Eliminate Overscan: Perfecting Window Sizing on Windows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/how-to-find-the-optimal-balance-equipment-for-drone-photography/"><u>How To Find the Optimal Balance Equipment for Drone Photography</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-premium-lineup-best-8-devices-for-superior-uhd-viewing/"><u>In 2024, Premium Lineup Best 8 Devices for Superior UHD Viewing</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-teams-performance-leap-forward/"><u>Microsoft Teams' Performance Leap Forward</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-user-interface-efficiency-with-a-single-90-degrees-flip/"><u>Optimize User Interface Efficiency with a Single 90 Degrees Flip</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-your-pcs-missing-windows-update-service/"><u>Restoring Your PC's Missing Windows Update Service</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-your-repository-adding-meaning-through-labels/"><u>Revolutionize Your Repository: Adding Meaning Through Labels</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-windows-11-upgrade-in-place-techniques/"><u>Seamless Windows 11 Upgrade: In-Place Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/strategic-approaches-to-reopening-windows-11s-system-tools/"><u>Strategic Approaches to Reopening Windows 11'S System Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-issues-with-non-functional-microphones-on-turtle-beach-elite-atlas/"><u>Troubleshooting Guide: Solving Issues with Non-Functional Microphones on Turtle Beach Elite Atlas</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-potential-of-quantum-hdr-for-2024/"><u>Unlocking the Potential of Quantum HDR for 2024</u></a></li>
+</ul></div>
 

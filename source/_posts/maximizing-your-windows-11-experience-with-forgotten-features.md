@@ -1,7 +1,7 @@
 ---
 title: Maximizing Your Windows 11 Experience with Forgotten Features
-date: 2025-02-09T23:07:56.856Z
-updated: 2025-02-16T03:56:23.299Z
+date: 2025-02-25T21:17:37.351Z
+updated: 2025-03-05T01:48:38.685Z
 tags:
   - windows10
   - windows11
@@ -43,25 +43,13 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
 ![Enable Widgets from Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-widgets-from-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  They are so easy to use and so terribly useful, that we suggest[getting started with Windows 11 widgets](https://www.makeuseof.com/windows-11-widgets-starter-tips/) right away. And there’s an easy fix if your[Windows 11 widgets are not working](https://www.makeuseof.com/windows-11-widgets-not-working/) —a frustrating situation indeed to find yourself in.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Get More Productive With Focus Sessions
 
  Windows 11’s Focus Sessions feature aims to boost your productivity, cutting out distractions and helping you set goals for work. The tool can be found in the clock app and allows you to set the tasks you want to focus on in each session. You can even link your Spotify account to have music playing in the background if that’s what helps you stay focused.
 
 ![windows 11 focus sessions clock app home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/windows-11-focus-sessions-clock-app-home-page.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  We’ve got a comprehensive article on[how to use the new Windows 11 Focus Sessions](https://www.makeuseof.com/how-to-use-windows-11-focus-sessions/) , which explains what they are and guides you to set things up so you can get the most out of your time at your PC.
 
@@ -72,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 ![The Clipboard history tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/the-clipboard-history-tab.png)
 
  Even though it may seem overwhelming, there’s nothing complicated about[using the improved clipboard manager in Windows 11](https://www.makeuseof.com/how-to-use-clipboard-manager-in-windows-11/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Quicker Text Capture With Voice Typing
 
@@ -88,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
  The Windows 11 taskbar automatically sets up hotkeys when you pin items to it. Not sure what a hotkey is? We’ve got more about them and[how to make your own hotkeys](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) .
 
 ![Taskbar keyboard shortcut numbers for pinned apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/keyboard-shortcut-numbers-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can quickly switch to a specific window or application by using the Windows key in conjunction with a number key that corresponds to the position of the pinned item. Especially for lower numbers, this shaves off seconds when switching between windows and apps.
 
@@ -120,21 +100,19 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-master-the-art-of-preserving-your-musical-journey/"><u>[New] In 2024, Master the Art of Preserving Your Musical Journey</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-earning-expertise-short-video-revenue-boosting-for-2024/"><u>[Updated] Earning Expertise Short Video Revenue Boosting for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-record-and-incorporate-speech-into-powerpoint-decks/"><u>2024 Approved How to Record & Incorporate Speech Into PowerPoint Decks</u></a></li>
-<li><a href="https://games-able.techidaily.com/counteracting-missing-elements-alert-on-pc/"><u>Counteracting Missing Elements Alert on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-to-fix-windows-activation-failure-0x803f700f/"><u>Essential Steps to Fix Windows Activation Failure 0X803F700f</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-app-install-issues-on-microsoft-store/"><u>Fixing App Install Issues on Microsoft Store</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-mitigate-admin-access-restricted-on-pcs/"><u>How to Mitigate 'Admin Access Restricted' On PCs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tips-for-sharper-images-during-zoom-calls/"><u>In 2024, Tips for Sharper Images During Zoom Calls</u></a></li>
-<li><a href="https://techidaily.com/invisible-web-journeys-strategies-for-anonymous-internet-use/"><u>Invisible Web Journeys: Strategies for Anonymous Internet Use</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimize-playtime-overcome-halo-infinite-stalling-with-these-7-essential-tweaks-for-a-seamless-pc-gaming-session/"><u>Optimize Playtime: Overcome Halo Infinite Stalling with These 7 Essential Tweaks for a Seamless PC Gaming Session</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-mouse-visibility-on-new-windows-os/"><u>Optimizing Mouse Visibility on New Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-lunar-client-failure-errors-quickly/"><u>Overcoming “Windows Lunar Client Failure” Errors Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-device-removal-problems-on-windows/"><u>Overcoming Device Removal Problems on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/python-package-installation/"><u>Python Package Installation</u></a></li>
-<li><a href="https://techidaily.com/quick-guide-to-turning-off-driver-signature-protection-in-windows-10/"><u>Quick Guide to Turning Off Driver Signature Protection in Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-secure-connections-after-winvpn-dropout/"><u>Restoring Secure Connections After WinVPN Dropout</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-captivating-clips-keywords-that-ignite-viral-shorts-on-youtube/"><u>[New] Captivating Clips Keywords That Ignite Viral Shorts on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-multi-screen-browsing-in-chrome-using-pip/"><u>[New] Seamless Multi-Screen Browsing in Chrome Using PIP</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-speak-out-leverage-ai-gratis/"><u>[Updated] Speak Out, Leverage AI Gratis</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-black-screen-post-boot-windows/"><u>Correcting Black Screen Post-Boot Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-troubleshooting-tips-for-apex-crashing-win11/"><u>Essential Troubleshooting Tips for Apex Crashing Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-recover-from-msvcr120dll-absence-in-windows-pcs/"><u>How to Recover From MSVCR120.DLL Absence in Windows PCs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723002446238-jurassic-world-evolution-master-the-tips-and-tricks-to-stop-your-game-from-crashing/"><u>Jurassic World Evolution: Master the Tips & Tricks to Stop Your Game From Crashing</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-audio-mishap-code-0xc00d36b4/"><u>Navigating Through Audio Mishap: Code 0Xc00d36b4</u></a></li>
+<li><a href="https://fox-http.techidaily.com/obs-vs-wirecast-which-should-you-trust-for-live-in-2024/"><u>OBS Vs. Wirecast - Which Should You Trust for Live, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionizing-navigation-noteworthy-updates-to-windows-11-filesystem/"><u>Revolutionizing Navigation: Noteworthy Updates to Windows 11 Filesystem</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/screen-capture-without-cost-best-free-software-guide/"><u>Screen Capture Without Cost Best Free Software Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/ultimate-livestream-setup-reviews-on-the-top-livestream-tools-and-devices-for-2024/"><u>Ultimate Livestream Setup Reviews on the Top Livestream Tools and Devices for 2024</u></a></li>
 </ul></div>
 

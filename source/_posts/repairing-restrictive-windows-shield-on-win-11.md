@@ -1,7 +1,7 @@
 ---
 title: Repairing Restrictive Windows Shield on Win 11
-date: 2025-02-13T19:31:42.185Z
-updated: 2025-02-16T01:25:13.869Z
+date: 2025-03-03T21:59:52.761Z
+updated: 2025-03-05T04:16:14.299Z
 tags:
   - windows10
   - windows11
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 ![windows update section in the settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/windows-update-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When the updates download is complete, give your PC a quick restart and see if the problem with Windows Security persists. If it does, then jump below to the next method.
 
 ## 3\. Disable Third-Party Antivirus
@@ -67,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
  To get started, launch the **Settings** again. Go to **Apps > Apps & features**, search for the antivirus, and when you find it, click on options (three dots) and select **Uninstall**.
 
 ![apps and features in the apps settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/apps-and-feature.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The third-party antivirus will be removed. Now restart your Windows 11 and see if the problem with Windows Security persists. It shouldn’t.
 
@@ -117,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 ![execution of dsim scan in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/dsim-scan-command-prompt.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As soon as the command finishes executing, your files would've been scanned and all the corruption issues would most possibly have been resolved.
 
  When you’re done, [simply restart your PC](https://www.makeuseof.com/windows-restart-methods/) for the changes to take effect, and see if the problem persists.
@@ -136,15 +124,7 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 ![security services process in the services app on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/services-app-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That's it. Follow any other on-screen instructions and wait for the service to reboot of the service. When that's done, restart your PC and the Windows Security service will be fixed by the next boot-up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reset Your PC
 
@@ -158,10 +138,6 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 4. Then select **Keep my files > Local reinstall** and click on **Next**.
 
 ![two types of reset options in the reset this pc on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/reset-this-pc-windows-11.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That’s it. Follow the onscreen instructions ahead and your Windows will be formatted and reinstalled in no time. When your PC restarts, all your settings will be at ground zero again.
 
@@ -185,22 +161,17 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-tips.techidaily.com/1728494881251-sharepoint-3/"><u>「SharePoint ドキュメント同時更新に失敗する？3つのフィックスをご紹介」</u></a></li>
-<li><a href="https://win11.techidaily.com/discovering-ram-type-in-windows-a-step-by-step-guide/"><u>Discovering RAM Type in Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-techniques-to-modify-windows-11-account-hierarchy/"><u>Essential Techniques to Modify Windows 11 Account Hierarchy</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-how-to-troubleshoot-voice-communication-in-destiny-2/"><u>Fixing Common Issues: How to Troubleshoot Voice Communication in Destiny 2</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-capturing-adventures-a-close-look-at-panasonics-hx-a1/"><u>In 2024, Capturing Adventures A Close Look at Panasonic's HX-A1</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-fixes-unraveling-error-1152-on-pc/"><u>Mastering Windows Fixes: Unraveling Error 1152 on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-lost-windows-a-compact-guide-to-resurrecting-hidden-panes-on-win-10/"><u>Reviving Lost Windows: A Compact Guide to Resurrecting Hidden Panes on Win 10</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/silent-insights-into-improving-visual-elements-for-2024/"><u>Silent Insights Into Improving Visual Elements for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-asus-rog-phone-7-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Asus ROG Phone 7 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-correct-error-0x800700e1-windows/"><u>Steps to Correct Error 0X800700E1 Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-stop-overheating-in-computers-os-w11/"><u>Strategies to Stop Overheating in Computers OS: W11</u></a></li>
-<li><a href="https://win11.techidaily.com/successfully-restarting-non-operational-obs-on-pc/"><u>Successfully Restarting Non-Operational OBS on PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-influence-essential-marketing-expressions-explained-for-2024/"><u>The Art of Influence Essential Marketing Expressions Explained for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/three-essential-tweaks-for-windows-11-settings/"><u>Three Essential Tweaks for Windows 11 Settings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-essentials-what-to-check-before-purchasing-pre-owned-ipads/"><u>Top 5 Essentials: What to Check Before Purchasing Pre-Owned iPads</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transforming-your-chrome-new-tab-page-into-a-workflow-booster-expert-tips-and-tricks/"><u>Transforming Your Chrome New Tab Page Into a Workflow Booster: Expert Tips & Tricks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/your-guide-to-advanced-tech-the-expertise-of-toms-hardware/"><u>Your Guide to Advanced Tech: The Expertise of Tom's Hardware</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-must-visit-web-resources-for-text-aesthetics-and-functionality-for-2024/"><u>[New] Must-Visit Web Resources for Text Aesthetics & Functionality for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfect-your-phones-chat-signal-how-to-download-and-personalize-whatsapp-ringtone/"><u>[New] Perfect Your Phone's Chat Signal How to Download & Personalize WhatsApp Ringtone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/claim-the-crown-strategies-for-staff-picked-videos-at-vimeo/"><u>Claim the Crown Strategies for Staff-Picked Videos at Vimeo</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-desktop-experience-with-program-size-control-on-win11/"><u>Elevate Desktop Experience with Program Size Control on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/establishing-default-settings-in-windows-terminal/"><u>Establishing Default Settings in Windows Terminal</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-blurry-photos-on-your-iphone-essential-tricks-for-perfect-camera-focus/"><u>Fixing Blurry Photos on Your iPhone: Essential Tricks for Perfect Camera Focus</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/garmin-forerunner-945-evaluation-all-inclusive-features-of-an-advanced-sports-smartwatch/"><u>Garmin Forerunner 945 Evaluation: All-Inclusive Features of an Advanced Sports Smartwatch</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-sidestepping-file-explorer-faux-pas/"><u>Mastering the Art: Sidestepping File Explorer Faux Pas</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionary-messaging-feature-to-enhance-iphone-safety-with-ios-18-release-not-powered-by-artificial-intelligence-zdnet-insights/"><u>Revolutionary Messaging Feature to Enhance iPhone Safety with iOS 18 Release - Not Powered by Artificial Intelligence | ZDNET Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-missing-device-driver-issue-in-windows-10-installation/"><u>Solutions for 'Missing Device Driver' Issue in Windows 10 Installation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-crafting-bespo-pointed-video-closures-on-the-dashboard/"><u>Step-by-Step Crafting Bespo Pointed Video Closures on the Dashboard</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-steam-from-freezing-and-crashing-in-no-time/"><u>Stop Steam From Freezing and Crashing in No Time!</u></a></li>
 </ul></div>
 

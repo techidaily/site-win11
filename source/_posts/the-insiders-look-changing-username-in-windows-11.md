@@ -1,7 +1,7 @@
 ---
 title: "The Insider's Look: Changing UserName in Windows 11"
-date: 2025-02-02T18:44:13.984Z
-updated: 2025-02-04T08:09:07.172Z
+date: 2025-02-28T04:55:22.915Z
+updated: 2025-03-05T03:56:55.925Z
 tags:
   - windows10
   - windows11
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Before We Get Started…
 
@@ -66,10 +62,6 @@ To change your username using the Run command, follow these steps:
 ![Run Netplwiz Command in the Windows Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-run-netplwiz-command-in-the-windows-run-command.jpg)
 3. Click**Yes** in the**User Account Control (UAC)** window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. In the**User Accounts** window, select the user account for which the username needs to be changed.
 5. Click on**Properties** .  
 ![Go to Properties in the User Accounts Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/5-go-to-properties-in-the-user-accounts-window.jpg)
@@ -90,25 +82,13 @@ To change your username using the Run command, follow these steps:
 ![Run lusrmgr.msc Command in Windows Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-run-lusrmgr-msc-command-in-windows-run-command.jpg)
 3. Click**"Yes"** in the**User Account Control (UAC)** window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Select the**Users** tab in the left sidebar.
 5. Find your account in the right pane.
 6. Right-click the username and click**Rename** .  
 ![Click Rename by Right-clicking on the Account Name in the Local User and Group Management Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/8-click-rename-by-right-clicking-on-the-account-name-in-the-local-user-and-group-management-tool.jpg)
 7. Enter the new username you want to use.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Afterward, close the local user and group management tool, sign out of your account once, and you'll see your new username on the sign-in screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. How to Change Your Username Using Windows PowerShell
 
@@ -138,10 +118,6 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 ![Click on Your info and Edit name to Change Username of a Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-your-info-and-edit-name-to-change-username-of-a-microsoft-account.jpg)
 5. Remove your current username and add the one you wish to switch to.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. After that, click**Save** .  
 ![Click on Save to Change the Username of Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-save-to-change-the-username-of-microsoft-account.jpg)
 
@@ -168,24 +144,22 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-a-step-by-step-guide-to-outstanding-color-grading-top-11/"><u>[New] A Step-by-Step Guide to Outstanding Color Grading (Top 11)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-enhancing-vimeo-videos-with-effective-end-credits/"><u>[New] Enhancing Vimeo Videos with Effective End Credits</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-sourav-joshis-predictions-on-youtube-profits-in-the-new-year/"><u>[Updated] Sourav Joshi's Predictions on YouTube Profits in the New Year</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-streamlined-techniques-for-discovering-highly-engaged-youtube-remarks/"><u>[Updated] Streamlined Techniques for Discovering Highly Engaged YouTube Remarks</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/boost-your-pcs-performance-with-this-secret-windows-11-feature-to-instantly-close-frozen-programs/"><u>Boost Your PC's Performance with This Secret Windows 11 Feature to Instantly Close Frozen Programs</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/comment-initialiser-avec-succes-votre-disque-dur-etapes-cles-a-suivre-pour-une-configuration-optimale/"><u>Comment Initialiser Avec Succès Votre Disque Dur : Étapes Clés À Suivre Pour Une Configuration Optimale</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-system-performance-by-reducing-tiworkerexe-load/"><u>Enhancing System Performance by Reducing TiWorker.exe Load</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-successful-run-as-user-permissions/"><u>Essential Tips for Successful Run As User Permissions</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-app-launch-failures-demystifying-error-code-xc000003e-on-win11-and-11/"><u>Fixing App Launch Failures: Demystifying Error Code Xc000003e on Win11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-retrieving-disappeared-data-on-pcs/"><u>Guide to Retrieving Disappeared Data on PCs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-beginners-guide-to-mastering-final-cut-pro/"><u>In 2024, The Ultimate Beginner’s Guide to Mastering Final Cut Pro</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/live-streaming-mastery-with-manycam-advanced-video-softwares-and-online-cameras/"><u>Live Streaming Mastery with ManyCam: Advanced Video Softwares & Online Cameras</u></a></li>
-<li><a href="https://win11.techidaily.com/making-sense-of-stuff-a-guide-to-obsidian-notes/"><u>Making Sense of Stuff: A Guide to Obsidian Notes</u></a></li>
-<li><a href="https://win11.techidaily.com/reset-your-trust-5-paths-to-fixed-windows-family-protection/"><u>Reset Your Trust: 5 Paths to Fixed Windows Family Protection</u></a></li>
-<li><a href="https://win11.techidaily.com/significance-of-the-x-mark-on-computer-files/"><u>Significance of the X Mark on Computer Files</u></a></li>
-<li><a href="https://win11.techidaily.com/studio-2-insight-near-perfect-tool-by-microsoft-unveiled/"><u>Studio 2 Insight: Near-Perfect Tool by Microsoft Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/tactics-to-resolve-dxgi-error-after-deletion-of-devices/"><u>Tactics to Resolve DXGI Error After Deletion of Devices</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/top-5-solutions-for-restoring-the-partition-table-on-windows-10-11-8-and-7/"><u>Top 5 Solutions for Restoring the Partition Table on Windows (10, 11, 8, and 7)</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/ultimate-pulp-fiction-collection-full-hd-wallpapers-backgrounds-and-images-for-dynamic-displays-curated-by-yl-computing/"><u>Ultimate Pulp Fiction Collection: Full HD Wallpapers, Backgrounds and Images for Dynamic Displays - Curated by YL Computing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-scaling-up-with-sourav-joshi-youtube-earnings-strategy/"><u>[New] 2024 Approved Scaling Up with Sourav Joshi YouTube Earnings Strategy</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-lowering-audio-amplitude-progressively-using-lumafusion/"><u>[New] In 2024, Lowering Audio Amplitude Progressively Using Lumafusion</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-sound-of-success-audio-tips-to-elevate-your-youtube-experience/"><u>[New] The Sound of Success Audio Tips to Elevate Your YouTube Experience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-unveiling-the-ultimate-iphone-selfie-sticks-8/"><u>[Updated] In 2024, Unveiling the Ultimate IPhone Selfie Sticks (#8)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-split-screen-simplicity-mastering-picture-in-picture-videos-on-apple-devices/"><u>[Updated] Split-Screen Simplicity Mastering Picture in Picture Videos on Apple Devices</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/"><u>2024 Approved Masterclass in 3D Color Grading with Custom LUTs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ampace-andes-1500-in-action-real-world-testing-of-an-all-in-one-portable-energy-source/"><u>Ampacē Andes 1500 in Action: Real-World Testing of an All-in-One Portable Energy Source</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-closing-several-programs-at-once-in-windows/"><u>Efficient Methods: Closing Several Programs at Once in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/halting-unintentional-launches-of-microsofts-storeapp/"><u>Halting Unintentional Launches of Microsoft's StoreApp</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-9-methods-to-access-and-tweak-windows-sound-settings/"><u>Learn 9 Methods to Access and Tweak Windows Sound Settings</u></a></li>
+<li><a href="https://win-tips.techidaily.com/passaggio-rapido-trasferisci-i-tuoi-file-in-modalita-prova-windows-versioni-10-8-e-7/"><u>Passaggio Rapido: Trasferisci I Tuoi File in Modalità Prova Windows (Versioni 10, 8 E 7)</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-way-to-windows-11-group-policies/"><u>Streamline Your Way to Windows 11 Group Policies</u></a></li>
+<li><a href="https://win11.techidaily.com/the-pathway-to-using-windows-11-toolbars-effectively/"><u>The Pathway to Using Window's 11 Toolbars Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/top-12-redundant-windows-extras-for-removal/"><u>Top 12 Redundant Windows Extras for Removal</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-securely-integrating-tiktok-profile-links-for-2024/"><u>Ultimate Guide Securely Integrating TikTok Profile Links for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-9-methods-for-altering-windows-sound-settings/"><u>Unlock 9 Methods for Altering Windows Sound Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-control-panel-lost-find-unlisted-system-configurations/"><u>Win11 Control Panel Lost, Find Unlisted System Configurations</u></a></li>
 </ul></div>
 

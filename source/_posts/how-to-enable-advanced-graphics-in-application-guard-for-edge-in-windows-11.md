@@ -1,7 +1,7 @@
 ---
 title: How to Enable Advanced Graphics in Application Guard for Edge in Windows 11
-date: 2025-02-08T20:52:18.484Z
-updated: 2025-02-15T22:55:09.228Z
+date: 2025-03-04T00:26:01.475Z
+updated: 2025-03-05T02:26:55.171Z
 tags:
   - windows10
   - windows11
@@ -36,23 +36,11 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 ![Change Application Guard Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-application-guard-settings.jpg)
 5. Select**Change Applications Guard settings** from the Isolated browsing section.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Then, on the Application Guard settings page, toggle**Advanced graphics** on.  
 ![Enable Advanced Graphics in Application Guard Using Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-advanced-graphics-in-application-guard-using-settings.jpg)
 7. If you see a UAC prompt, click**Yes** to continue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you follow the above steps, close the Settings window and restart your computer. Application Guard will now be enabled with advanced graphics support. If you ever want to turn off this feature, just follow the same steps and turn off Advanced graphics.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Enable Advanced Graphics via Registry Editor
 
@@ -69,15 +57,7 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 ![Enable Advanced Graphics in Application Guard Using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-advanced-graphics-in-application-guard-using-registry.jpg)
 6. In the Value data field, type**1** and click**OK** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After completing the above steps, close the Registry window and restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Application Guard for Edge Now Works With Advanced Graphics
 
@@ -98,20 +78,20 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-top-10-tunes-turned-into-wit-wonders/"><u>[New] 2024 Approved Top 10 Tunes Turned Into Wit Wonders</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-elite-cutting-edge-tools-devices-for-apps/"><u>[Updated] In 2024, Elite Cutting-Edge Tools (Devices) for Apps</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-iphone-11-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from iPhone 11</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-13-mini-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 13 mini to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-scan-qr-codes-on-windows/"><u>How to Scan QR Codes on Windows</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-poco-x6-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Poco X6</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-presentation-perfection-9-essential-tips-for-winning-at-powerpoint-prints/"><u>Mastering Presentation Perfection: 9 Essential Tips for Winning at PowerPoint Prints</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/pro-motherboard-drivers-easy-downloads-for-gamers/"><u>PRO Motherboard Drivers - Easy Downloads for Gamers</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-the-non-responder-service-error-on-windows/"><u>Remedying the Non-Responder Service Error on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-high-dpi-screen-issues-in-windows-os/"><u>Resolving High DPI Screen Issues in Windows OS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-right-way-to-secure-your-tech-devices-with-an-appropriate-surge-protector/"><u>The Right Way to Secure Your Tech Devices with an Appropriate Surge Protector</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-ultimate-checklist-for-efficiently-uploading-tracks-on-youtube/"><u>The Ultimate Checklist for Efficiently Uploading Tracks on YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/win-users-top-6-video-to-flv-editors/"><u>Win Users: Top 6 Video To FLV Editors</u></a></li>
-<li><a href="https://win11.techidaily.com/workaround-for-windows-security-errors-managed-by-admins/"><u>Workaround for Windows Security Errors Managed by Admins</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-guard-your-camera-top-10-shields-reviewed/"><u>[New] In 2024, Guard Your Camera - Top 10 Shields Reviewed</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-top-6-hdmi-21-screens-detailed-feature-rundown/"><u>[New] In 2024, Top 6 HDMI 2.1 Screens Detailed Feature Rundown</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-tips-to-inject-oversized-characters-into-tiktoks/"><u>[Updated] 2024 Approved Tips to Inject Oversized Characters Into TikToks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-guide-enhancing-youtube-content-with-ios-recording/"><u>2024 Approved Step-by-Step Guide Enhancing YouTube Content with iOS Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/enable-chatgpt-functionality-in-windows-apps/"><u>Enable ChatGPT Functionality in Windows Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/ensure-smooth-outlook-synchronization-on-your-pc/"><u>Ensure Smooth Outlook Synchronization on Your PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-14-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 14 Pro Max Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/immersive-tech-the-best-vr-gadgets-rated/"><u>Immersive Tech The Best VR Gadgets Rated</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-select-and-use-the-best-braw-luts/"><u>New 2024 Approved How to Select and Use The Best BRAW LUTs</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-cloud-sync-errors-win-10-and-11-edition/"><u>Overcoming Cloud Sync Errors: Win 10 & 11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/redefining-explore-top-7-updates-to-windows-11s-filesystem/"><u>Redefining Explore: Top 7 Updates to Windows 11'S Filesystem</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-your-windows-crash-with-ntkrnlmpexe-a-step-by-step-solution/"><u>Resolve Your Windows Crash with 'ntkrnlmp.exe' - A Step-by-Step Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-connection-establishing-intels-network-protocols-in-windows/"><u>Secure Connection: Establishing Intel's Network Protocols in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-combat-wi-fi-woes-for-lol-in-windows/"><u>Steps to Combat Wi-Fi Woes for LoL in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-sound-issue-generic-device-alert/"><u>Troubleshooting Windows Sound Issue: Generic Device Alert</u></a></li>
 </ul></div>
 

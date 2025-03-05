@@ -1,7 +1,7 @@
 ---
 title: "Boosting System Speed: Implementing a Smart Enhanced Run Feature"
-date: 2024-08-15T23:12:49.845Z
-updated: 2024-08-16T23:12:49.845Z
+date: 2025-03-03T18:47:37.670Z
+updated: 2025-03-05T01:26:03.116Z
 tags:
   - windows10
   - windows11
@@ -71,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 
  The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Add an Alternative Run Accessory to Windows With PowerToys
 
  PowerToys is a great piece of kit for adding new features to Windows 11/10\. That software has a PowerToys Run utility you can enable, which looks somewhat different from the native Run accessory. That utility is more like a 2-in-1 quick app launcher and search tool for Windows 11/10\. This is how you can add that Run replacement to Windows 11/10:
@@ -85,9 +82,6 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 5. Double-click**PowerToysSetup-0.66.0-x64.exe** to open the PowerToys setup window.
 6. Select the**I agree to** checkbox and click PowerToys’**Install** option.  
 ![The PowerToys setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powertoys-setup-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 7. To open PowerToys, click**Start** and**All apps** (in Windows 11). Select PowerToys on the menu
 8. Select the PowerToys**Run** tab.
 9. Toggle on the Enable PowerToys**Run** option if it’s off.  
@@ -114,29 +108,17 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
  Another good thing about PowerToys is that you can utilize it for calculations. Input an**\=** before a sum in the PowerToys Run command box to activate the calculator. For example, entering**\=55+125** will display a 180 result. You can do calculations by inputting the**+** (addition),**\*** (multiplication),**/** (division), and**–** (subtraction) operators.
 
 ![A calculator command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-calculator-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
  You can also access Control Panel applets and Settings app pages by inputting the**$** plugin followed by a search phrase. For example, entering**$uninstall** will find both Programs and Features and the Apps & Features tool. Or you input**$** on its own to view a long list of Settings pages and Control Panel applets.
 
 ![The $ command for accessing Control Panel applets and Settings pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 
  You can disable or enable plugins via the**PowerToys Run** tab. Scroll down to the**Plugins** section of that tab to view those options. You can click the**On** or**Off** switches to enable/disable them.
 
 ![The plugin settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/plugin-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Click the down arrows for the plugins to view their settings. Then you can see the activation commands for the plugins in their**Direct** **activation command** boxes. You can change the command by selecting that box, clicking the**X** , and entering a different one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Make the Most of the Your Enhanced Run Accessory in Windows 11/10
 
  So, you don’t have to stick with Windows’ outmoded Run accessory anymore. Both Run-Command and PowerToys Run are superior alternatives for opening apps, files, and more besides in Windows 11 and 10\. PowerToys offers the best flexibility thanks to its numerous plugins. However, Run-Command’s shortcuts menu is a great feature that could make it the preferable Run replacement for many users.
@@ -147,8 +129,6 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,6 +136,21 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/approved-network-nodes-sites-that-spotlight-youtube-paid-content/"><u>2024 Approved Network Nodes Sites That Spotlight YouTube Paid Content</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oppo-f25-pro-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Oppo F25 Pro 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-dedicated-decade-with-mondlybacks-filters/"><u>A Dedicated Decade with MondlyBack's Filters</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-play-recording-with-intels-gpu-center/"><u>Direct Play Recording with Intel's GPU Center</u></a></li>
+<li><a href="https://win11.techidaily.com/ending-operation-failures-address-code-0x000-written-by-user2295431/"><u>Ending Operation Failures: Address Code 0X000 Written by User2295431</u></a></li>
+<li><a href="https://win11.techidaily.com/hacker-intrusion-do-fingerprint-scanners-risk-our-safety/"><u>Hacker Intrusion: Do Fingerprint Scanners Risk Our Safety?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hero5-black-vs-yi-4k-which-takes-the-crown-in-action-cam-war-in-2024/"><u>Hero5 Black Vs. Yi 4K Which Takes the Crown in Action Cam War, In 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-undo-macos-sierras-os-x-transition/"><u>How to Undo MacOS Sierra's OS X Transition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-iphone-screen-recording-made-simple/"><u>In 2024, Iphone Screen Recording Made Simple</u></a></li>
+<li><a href="https://win11.techidaily.com/increase-real-time-updates-for-task-tracker-win-11/"><u>Increase Real-Time Updates for Task Tracker Win 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/premium-selection-the-ultimate-15-video-devices-for-2024/"><u>Premium Selection The Ultimate 15 Video Devices for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-cannot-read-from-disk-issue-with-win1110/"><u>Tackling 'Cannot Read From Disk' Issue with Win11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-11-camera-app-failures/"><u>Troubleshooting Windows 11 Camera App Failures</u></a></li>
+</ul></div>
 

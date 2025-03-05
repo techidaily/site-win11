@@ -1,7 +1,7 @@
 ---
 title: "Backup Basics: Protecting Your Digital Adventures in Epic Games"
-date: 2024-08-08T13:13:22.185Z
-updated: 2024-08-09T13:13:22.185Z
+date: 2025-02-28T03:57:25.085Z
+updated: 2025-03-04T17:14:03.508Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
 
  Fortunately, there are two ways you can back up saved game data for games installed with Epic Games Launcher. Doing so will enable you to reinstall Epic Games titles without losing your saved progress. This is how you can back up saved data for Windows 11/10 games installed via Epic Games Launcher.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Enable Cloud Saves in Epic Games Launcher
 
  Epic Games Launcher has a Cloud Save feature with which you can back up saved data. That feature automatically backs up saved game progress to Epic’s online cloud service. Then all your saved progress will be preserved so that you can continue playing from where you left off after reinstalling a game. You can enable that Cloud Save feature in Epic Games Launcher like this:
@@ -43,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
 1. Bring up the Epic Games Launcher window.
 2. Click **Library** to view all the titles you’ve installed with Epic Games.
 3. Next, right-click the cover image thumbnail for the game you want to check and select **Manage**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![The Manage option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-option.jpg)
 4. You should see a **Cloud Saves** setting in the management options. Toggle on the **Cloud Saves** option if it’s off (but it shouldn’t be if you’ve already selected **Enable Cloud Saves**).  
 ![The Cloud Saves option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-cloud-saves-option.jpg)
@@ -54,16 +48,10 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
 
  If a **Cloud Save** option isn’t available there, your saved game data for that title will not be backed up to Epic’s cloud service. So, you’ll need to back up your saved game data with the alternative method covered below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Handle a Cloud Save Conflict
 
  Sometimes you might see Cloud Save conflict error messages when you select to start games with Epic Games. That error prompts you to select an **Upload to Cloud** or **Download to Machine** option with newer or older files. Always select the newer file option when a **Cloud Save** conflict arises to ensure you retain your latest saves.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## How to Manually Back Up Saved Data for Games in Your Epic Library
 
  You’ll probably find some titles in your Epic Games library don’t support the Cloud Save feature. Those are games for which you’ll need to manually back up game saves. To do that, you’ll need to find out where those games store saved data and copy and paste the data in Windows to another location before reinstalling.
@@ -73,15 +61,9 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
 1. Open the [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home) website.
 2. Then input a game title you need to back up data for within that site’s search box and press **Enter**.
 3. Scroll down the game’s page to the saved game data location details. You can find the saved game data at the Windows or Epic Games Launcher paths specified there.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Save game data location details for Subnautica](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/save-game-location-details.jpg)
 4. [Launch File Explorer](https://www.makeuseof.com/windows-file-explorer-not-opening/) to open the Windows or Epic Games Launcher saved data path specified for your game on its PCGamingWiki page.
 5. Right-click the game’s saved game folder and select **Copy**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![The Copy option in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-copy-option.jpg)
 6. Open another directory to paste the folder in and press **Ctrl + V**.
 
@@ -103,12 +85,30 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
 
  Fortunately, there are two ways you can back up saved game data for games installed with Epic Games Launcher. Doing so will enable you to reinstall Epic Games titles without losing your saved progress. This is how you can back up saved data for Windows 11/10 games installed via Epic Games Launcher.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-a-guide-to-homemade-film-crafting-youtube-and-beyond-for-2024/"><u>[New] A Guide to Homemade Film Crafting, YouTube & Beyond for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-scout-out-best-spots-for-vr-experiences/"><u>[New] Scout Out Best Spots for VR Experiences</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-becoming-a-visionary-in-the-field-of-lut-artistry/"><u>[Updated] In 2024, Becoming a Visionary in the Field of LUT Artistry</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-streamlined-converting-top-six-free-ios-apps-for-youtube-to-mp3/"><u>2024 Approved Streamlined Converting Top Six Free iOS Apps for YouTube-to-MP3</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-postpones-ryzen-9000-release-over-quality-concerns-expecting-an-august-debut-after-global-recall/"><u>AMD Postpones Ryzen 9000 Release Over Quality Concerns - Expecting an August Debut After Global Recall</u></a></li>
+<li><a href="https://media-tips.techidaily.com/choosing-between-mp4-and-mov-formats-a-comprehensive-guide-to-video-encoding/"><u>Choosing Between MP4 and MOV Formats: A Comprehensive Guide to Video Encoding</u></a></li>
+<li><a href="https://win11.techidaily.com/curtail-windows-enhanced-audio-protocols/"><u>Curtail Windows Enhanced Audio Protocols</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-no-mail-blight-with-five-fixes-on-windows-11-app/"><u>Eliminating the 'No Mail' Blight with Five Fixes on Windows 11 App</u></a></li>
+<li><a href="https://win11.techidaily.com/engage-with-these-9-strategies-to-navigate-sound-settings-in-windows-11/"><u>Engage With These 9 Strategies to Navigate Sound Settings in Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-microsoft-excel-2019-cannot-access-the-file-error-stellar-by-stellar-guide/"><u>Fixed Microsoft Excel 2019 Cannot Access the File Error | Stellar</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-rectifying-the-connect-bluetooth-issue-in-windows-11/"><u>Guide to Rectifying the Connect Bluetooth Issue in Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-play-40c-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor Play 40C</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reactivate-a-disconnected-printer-in-windows/"><u>Steps to Reactivate a Disconnected Printer in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-guide-to-adjusting-screen-touch-input/"><u>The Essential Guide to Adjusting Screen Touch Input</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-choosing-the-best-explainer-video-software-for-2024/"><u>The Ultimate Guide to Choosing the Best Explainer Video Software for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/zero-noise-reignite-your-computers-speaker-power/"><u>Zero Noise? Reignite Your Computer's Speaker Power</u></a></li>
+</ul></div>
 

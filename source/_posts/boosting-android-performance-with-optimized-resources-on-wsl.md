@@ -1,7 +1,7 @@
 ---
 title: Boosting Android Performance with Optimized Resources on WSL
-date: 2024-08-08T13:12:56.257Z
-updated: 2024-08-09T13:12:56.257Z
+date: 2025-02-26T21:52:48.650Z
+updated: 2025-03-04T16:55:30.676Z
 tags:
   - windows10
   - windows11
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
  When running Windows Subsystem for Android (WSA) on your Windows 11 PC, you might not like how the virtual machine for Android apps uses resources. These resources include memory, CPU, and GPU. Luckily, you can manage that pretty easily, and we’re going to show you how.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## "As Needed" or "Continuous?" Which One to Choose
 
  You have two choices when it comes to the way WSA uses your computer’s resources:**As needed** or**Continuous** .
@@ -31,44 +28,29 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
 **Continuous** , on the other hand, keeps WSA running in the background. The benefit is that Android apps will fire up much quicker at the cost of using more of your computer’s resources. You can choose this option if your Windows 11 PC has the resources to spare.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## How Do I Manage the Way Windows Subsystem for Android Uses Its Resources?
 
  To change the way the Windows Subsystem for Android utilizes resources on Windows 11, start by pressing**Win + S** to bring up Windows Search. In the search box, type**windows subsystem for android** . In the results click on**Windows Subsystem for Android Settings** to launch the program.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![searching for WSA on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-search-windows-11.jpg)
 
  On the left side menu of Windows Subsystem for Android, make sure you have selected**System** . On the right side, click on the**Subsystem resources** to expand the section. Then, select either**As needed** or**Continuous** by clicking on the appropriate radio button.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![the Subsystems resources section of WSA settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-windows-subsystem-resources.jpg)
 
  Now Windows Subsystem for Android will use resources depending on the option you have chosen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Best Way For Windows Subsystem for Android to Use Resources
 
  Whether you pick**As needed** or**Continuous** depends on how many resources your Windows 11 computer has. To recap, choose**As needed** if you’re low on resources and pick**Continuous** if you have enough so WSA doesn’t negatively impact performance.
 
  Furthermore, If you’re looking for where to get Android apps to run, you can install Google Play on Windows 11.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -77,6 +59,26 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-gamers-ultimate-guide-selecting-the-best-video-card-brands/"><u>[Updated] 2024 Approved Gamer’s Ultimate Guide Selecting the Best Video Card Brands</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unveiling-profits-how-much-do-creators-earn-from-each-ad/"><u>[Updated] In 2024, Unveiling Profits How Much Do Creators Earn From Each Ad?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-rapid-releases-review-best-quick-gaming-selections/"><u>[Updated] Rapid Releases Review Best Quick Gaming Selections</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-from-phones-to-cameras-a-guide-to-diy-video-capturing/"><u>2024 Approved From Phones to Cameras A Guide to DIY Video Capturing</u></a></li>
+<li><a href="https://win11.techidaily.com/detecting-hacker-activity-on-a-windows-device/"><u>Detecting Hacker Activity on a Windows Device</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/editor-de-peliculas-mac-pro-plusmovavi-optimizacion-seo-y-creatividad-sin-fronteras/"><u>Editor De Películas Mac Pro +Movavi: Optimización SEO Y Creatividad Sin Fronteras</u></a></li>
+<li><a href="https://win11.techidaily.com/experts-tips-investigating-and-clearing-window-history/"><u>Expert's Tips: Investigating & Clearing Window History</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-the-too-many-different-cell-formats-error-in-excel-2013-by-stellar-guide/"><u>Fix the Too many different cell formats Error in Excel 2013?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-correctly-address-the-absence-of-avcodecdll-in-windows/"><u>How to Correctly Address the Absence of Avcodec.dll in Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-htc-u23-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead HTC U23 Safely | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/identifying-wins-best-performance-analyzers-of-choice/"><u>Identifying Win's Best Performance Analyzers of Choice</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-gaming-potential-on-windows-os/"><u>Maximizing Gaming Potential on Windows OS</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-free-avi-video-rotators-compared-top-5-choices-for-2024/"><u>New Free AVI Video Rotators Compared Top 5 Choices for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-windows-11-icons-from-getting-smaller/"><u>Prevent Windows 11 Icons From Getting Smaller</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstallation-guide-for-windows-feature-absence/"><u>Reinstallation Guide for Windows Feature Absence</u></a></li>
+<li><a href="https://win11.techidaily.com/the-new-horizon-of-digital-drawing-tools-4-essential-paint-updates/"><u>The New Horizon of Digital Drawing Tools - 4 Essential Paint Updates</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-itel-a05s-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/winfixer-overcoming-unreachable-wi-fi-connection-on-windows-11/"><u>Winfixer: Overcoming Unreachable Wi-Fi Connection on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-back-printer-functionality-on-windows/"><u>Winning Back Printer Functionality on Windows</u></a></li>
+</ul></div>
 

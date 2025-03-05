@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Secrets: Display/Hide Folders on Windows 11"
-date: 2025-02-14T00:08:15.884Z
-updated: 2025-02-15T16:45:50.055Z
+date: 2025-02-27T00:54:25.227Z
+updated: 2025-03-04T20:41:03.443Z
 tags:
   - windows10
   - windows11
@@ -47,23 +47,11 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 
 ![new-key-namespace-regedit-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-key-namespace-regedit-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once done, refresh File Explorer by hitting **F5**. Now you will see that the **3D Objects** folder has appeared in This PC.
 
 ![3d-objects-this-pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-objects-this-pc.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To remove the folder again, just go back to the Registry Editor, right-click the **{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}** key, and select **Delete**. After you refresh File Explorer, the folder will be gone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Show or Hide the Documents, Music, Videos, Pictures, and/or Downloads Folders in This PC
 
@@ -80,10 +68,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
  To hide it, right-click the key on the left panel and select **New > DWORD (32-bit) Value** and name it **HideIfEnabled**. Double-click the newly-created value in the right panel, set **Value data** to **22ab9b9**, and then click **OK**.
 
 ![set-hideifenabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-hideifenabled.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now when you refresh This PC in File Explorer, you will see that the **Documents** folder is gone.
 
@@ -104,10 +88,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
  Here’s the path to the **Downloads** folder:
 
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{088e3905-0323-4b02-9826-5d99428e115f}
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Choose the Folders You Want to Appear on This PC in Windows 11
 
@@ -130,18 +110,19 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-strategic-approaches-to-share-ppt-powerfully-in-google-meet/"><u>[New] 2024 Approved Strategic Approaches to Share PPT Powerfully in Google Meet</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-creative-clips-excellent-tools-for-photoshopping-with-frames/"><u>[Updated] In 2024, Creative Clips Excellent Tools for Photoshopping with Frames</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-jake-paul-unveiled-charting-the-path-of-youtube-stardom-for-2024/"><u>[Updated] Jake Paul Unveiled Charting the Path of YouTube Stardom for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-nvidia-display-settings-are-not-available-error-on-the-nvidia-control-panel-for-windows/"><u>How to Fix the “Nvidia Display Settings Are Not Available” Error on the Nvidia Control Panel for Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 to other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-error-with-windows-previous-credentials/"><u>Navigating Error with Windows Previous Credentials</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/rapidly-constructing-a-dynamic-facebook-visual-narrative/"><u>Rapidly Constructing a Dynamic Facebook Visual Narrative</u></a></li>
-<li><a href="https://win11.techidaily.com/regaining-control-over-a-frozen-windows-start-button/"><u>Regaining Control over a Frozen Windows Start Button</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/saving-on-recording-expenses-free-cam-screen-recorders-evaluated/"><u>Saving on Recording Expenses Free Cam Screen Recorders Evaluated</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/step-by-step-walkthrough-how-to-install-and-configure-a-domain-controller-with-windows-server-201-generate-two-new-seo-titles-based-on-the-given-phrase-full22/"><u>Step-by-Step Walkthrough: How to Install and Configure a Domain Controller with Windows Server 201# Generate Two New SEO Titles Based on the Given Phrase Full Guide: Install Domain Controller on Windows Server 2012</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-reset-microsoft-sql-access-for-malwarebytes/"><u>Steps to Reset Microsoft SQL Access for Malwarebytes</u></a></li>
-<li><a href="https://win11.techidaily.com/the-significance-of-dxvk-integration-in-win-based-games/"><u>The Significance of DXVK Integration in Win-Based Games</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-navigating-phone-based-recordings-of-snapchats/"><u>[Updated] 2024 Approved Navigating Phone-Based Recordings of Snapchats</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-essential-guide-to-best-rated-vr-bike-games/"><u>[Updated] Essential Guide to Best-Rated VR Bike Games</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-comprehensible-approach-to-masterful-gopro-studio-edits/"><u>2024 Approved A Comprehensible Approach to Masterful GoPro Studio Edits</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-revisiting-streamers-for-enhanced-experience/"><u>2024 Approved Revisiting Streamers for Enhanced Experience</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-tecno-pova-6-pro-5g-frp-bypass-by-drfone-android/"><u>About Tecno Pova 6 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/confronting-and-correcting-directdraw-mistakes-in-win1011-systems/"><u>Confronting and Correcting DirectDraw Mistakes in Win10/11 Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-top-8-windows-11-video-snatchers-unveiled/"><u>In 2024, Top 8 Windows 11 Video Snatchers Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/powershell-vs-windows-terminal-delving-into-their-distinctive-features/"><u>PowerShell Vs. Windows Terminal: Delving Into Their Distinctive Features</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-search-bar-inactivity-on-windows-11/"><u>Resolving Search Bar Inactivity on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/seasons-greetings-with-free-windows-store-apps/"><u>Season's Greetings with Free Windows Store Apps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/supreme-narrative-designers-den-for-2024/"><u>Supreme Narrative Designer's Den for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-dual-programming-conflict-in-win-10/"><u>Unraveling the 'Dual Programming Conflict' In Win 10</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-feature-switch-on-wsl-integration-mode/"><u>Windows Feature Switch: On WSL Integration Mode</u></a></li>
 </ul></div>
 

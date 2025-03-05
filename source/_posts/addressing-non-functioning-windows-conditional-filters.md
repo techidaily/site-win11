@@ -1,7 +1,7 @@
 ---
 title: Addressing Non-Functioning Windows Conditional Filters
-date: 2024-08-08T13:16:01.499Z
-updated: 2024-08-09T13:16:01.499Z
+date: 2025-03-04T02:26:42.802Z
+updated: 2025-03-04T23:26:40.282Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
 
  To help out, we have compiled a list of useful solutions that should get Outlook rules to work again.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Make Sure Outlook Rules Are Enabled
 
  To start, you need to ensure that you haven't inadvertently disabled any Outlook rules. To do so, use these steps:
@@ -30,14 +27,8 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
 1. Open the **Outlook** app and click the **File** menu in the top left corner.
 2. In the **Info** tab, click the **Manage Rules & Alerts** button.
 3. Under the **Email Rules** tab, make sure the boxes next to your rules are checked.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Enable Outlook Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-outlook-rules.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Rename Outlook Rules
 
  Using lengthy names for your Outlook rules can cause them to become larger in size, leading to unexpected issues with their functionality. To address this, try assigning shorter names to your Outlook rules and see if that gets things moving again.
@@ -60,16 +51,8 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
 2. Hold down the **Ctrl** key and select the rules you no longer need.
 3. Click the **Delete** option at the top.
 4. Select **Yes** when prompted.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Delete a Outlook Rule](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-a-outlook-rule.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 4\. Reset the Outlook SRS File
 
  Microsoft Outlook stores essential account configuration in an SRS (Send and Receive Settings) file on your PC. If this file somehow becomes corrupted, Outlook rules won’t work. To fix this, you can force Outlook to recreate the SRS file by renaming the old file. Here's how.
@@ -78,9 +61,6 @@ The powerful video editing program for your Windows PC</a>
 2. Type **%appdata%\\Microsoft\\Outlook** in the Open field and press **Enter**.
 3. In the File Explorer window that opens, locate and select **Outlook.srs** file.
 4. Press **F2** on your keyboard and [rename the file](https://www.makeuseof.com/windows-11-rename-files/) to **Outlook.srs.old**.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Rename Outlook SRS File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-outlook-srs-file.jpg)
 
  Restart Outlook after completing the above steps and check if your rules work as expected.
@@ -104,14 +84,8 @@ The powerful video editing program for your Windows PC</a>
 2. Double-click the problematic rule.
 3. Under **Select conditions**, uncheck the **on this computer only** box.
 4. Hit **Finish** followed by **Apply**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![Configure Outlook Rule](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/configure-outlook-rule.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Activate Cached Exchange Mode
 
  When you enable the Cached Exchange Mode, Outlook retains a copy of your mailbox within the Outlook data file. This can help the app implement your rules without any issues.
@@ -151,9 +125,6 @@ The powerful video editing program for your Windows PC</a>
 
  Wait for Microsoft Office to check for new updates and install them. Following that, Outlook rules should start working.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Reset All the Rules
 
  Lastly, if none of the above tips help, you can consider deleting all the Outlook rules and then setting them up again. Doing so will help fix any issues caused by improper configuration or corrupt data.
@@ -164,16 +135,11 @@ The powerful video editing program for your Windows PC</a>
 
  Once Outlook deletes all the rules, head to **Manage Rules & Alerts** and set them up again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Manage Your Emails Efficiently With Outlook Rules
 
  Without Outlook rules, organizing your inbox can be quite challenging, especially if you receive a lot of emails throughout the day. Hopefully, one or more of the above tips have proven useful, and Outlook rules are now working as before.
 
  To help out, we have compiled a list of useful solutions that should get Outlook rules to work again.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -181,4 +147,27 @@ The powerful video editing program for your Windows PC</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-creator-studio-vs-youtube-studio-beta-which-one-is-better/"><u>[New] YouTube Creator Studio Vs. YouTube Studio (Beta) Which One Is Better?</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-realme-gt-5-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Realme GT 5 Pro? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/connect-without-passwords-advanced-rdp-tips-for-windows-11/"><u>Connect Without Passwords: Advanced RDP Tips for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-workspace-with-artistry-in-win-11-devices/"><u>Elevate Your Workspace with Artistry in Win 11 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-eliminating-common-windows-blue-screens/"><u>Expert Tips for Eliminating Common Windows Blue Screens</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-ahead-on-googles-newest-device-in-depth-info-on-the-pixel-tablet-specs-and-expected-launch-date-shared/"><u>Get Ahead on Google's Newest Device: In-Depth Info on the Pixel Tablet, Specs & Expected Launch Date Shared</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-gaming-on-a-budget-asus-rog-nuc-begins-at-affordable-1629-with-core-ultra-cpu-and-rtx-gpu/"><u>Get Gaming On a Budget: Asus ROG NUC Begins at Affordable $1,629 with Core Ultra CPU and RTX GPU</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-ultra-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 Ultra Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/latest-information-accessibility-for-everyone/"><u>Latest Information Accessibility for Everyone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-youtubing-timetables-the-definitive-guide-to-optimal-video-publishing-times/"><u>Mastering YouTubing Timetables - The Definitive Guide to Optimal Video Publishing Times</u></a></li>
+<li><a href="https://discover-best.techidaily.com/premium-charlize-theron-image-gallery-crystal-clear-hd-backgrounds-photo-collections-and-vibrant-pictures-by-yl-computing-solutions/"><u>Premium Charlize Theron Image Gallery: Crystal Clear HD Backgrounds, Photo Collections & Vibrant Pictures by YL Computing Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-unlocking-tabbing-capabilities-of-windows-11/"><u>Step-by-Step Guide to Unlocking Tabbing Capabilities of Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-host-systems-cpu-usage/"><u>Streamlining Host System's CPU Usage</u></a></li>
+<li><a href="https://win11.techidaily.com/the-legacy-lives-on-seven-windows-1011-features-from-the-past/"><u>The Legacy Lives On: Seven Windows 10/11 Features From the Past</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-non-procreate-drawing-software-for-pc-users/"><u>Top 5 Non-Procreate Drawing Software for PC Users</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-ignored-windows-start-menu-click/"><u>Troubleshooting: Ignored Windows Start Menu Click</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-insights-how-gartners-2024-hype-cycle-predictions-shape-our-understanding-of-upcoming-ai-and-technology-trends-discover-what-lies-ahead-with-zdnet47/"><u>Unlocking Insights: How Gartner's 2024 Hype Cycle Predictions Shape Our Understanding of Upcoming AI and Technology Trends - Discover What Lies Ahead with ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/vanish-wi-fi-blocking-networks-easily-on-windows/"><u>Vanish Wi-Fi: Blocking Networks Easily on Windows</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/why-the-nintendo-switch-reigns-supreme-in-handheld-game-systems-an-expert-review/"><u>Why the Nintendo Switch Reigns Supreme in Handheld Game Systems: An Expert Review</u></a></li>
+</ul></div>
 

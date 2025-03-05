@@ -1,7 +1,7 @@
 ---
 title: "Banish Temp Files: Quick Windows Fixes"
-date: 2024-08-08T13:16:25.392Z
-updated: 2024-08-09T13:16:25.392Z
+date: 2025-02-27T19:43:32.355Z
+updated: 2025-03-04T17:09:43.928Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 
  While temporary files are typically harmless, you may have your own reasons for deleting them. Here are some useful tips that should help remove any stubborn temporary files on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Use the Disk Cleanup Tool
 
 [Windows offers several options for clearing temporary files](http://www.makeuseof.com/windows-11-delete-temporary-files/) on your PC. If you are unable to delete temporary files via the Settings app or File Explorer, try using the Disk Cleanup tool instead.
@@ -50,16 +47,10 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 2. Select **Yes** when the User Account Control (UAC) prompt appears.
 3. Copy and paste the following command into the console and hit **Enter**.  
 del /q /f /s %temp%\* && del /s /q C:\Windows\temp\*  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Delete Temp Files Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-temp-files-using-command-prompt.jpg)
 
  Wait for the above command to run and delete the temporary files.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 3\. Empty the SoftwareDistribution Folder
 
  Windows saves all the downloaded update files in the SoftwareDistribution folder before installing them. If a [Windows system update gets stuck](https://www.makeuseof.com/tag/windows-update-stuck/), the OS will not delete the temporary files associated with it.
@@ -78,9 +69,6 @@ C:\Windows\SoftwareDistribution\Download
 
  If you run into issues while emptying the SoftwareDistribution folder, you can [force delete files in Windows](https://www.makeuseof.com/windows-11-delete-stubborn-files/) using Command Prompt or a third-party tool.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Edit Registry Files
 
  By default, the Disk Cleanup utility does not delete temporary files that are less than seven days old. This is because Windows marks these files as active. However, if you want to delete all the temporary files, regardless of their age, you can make changes to the Windows Registry.
@@ -94,9 +82,6 @@ C:\Windows\SoftwareDistribution\Download
 5. In the right pane, double-click the **LastAccess** key.
 6. Enter **0** in the Value data field.
 7. Click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![Edit DWORD in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-dword-in-registry.jpg)
 
  Restart your PC after this and try to delete temporary files once again.
@@ -107,9 +92,6 @@ C:\Windows\SoftwareDistribution\Download
 
  Use one of the many ways to [boot into safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) and try to delete temporary files one more time.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Rid of Temporary Files on Windows
 
  Clearing temporary files is a great way to free up storage space without deleting any of your apps or important data.
@@ -118,12 +100,28 @@ C:\Windows\SoftwareDistribution\Download
 
  While temporary files are typically harmless, you may have your own reasons for deleting them. Here are some useful tips that should help remove any stubborn temporary files on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-top-visual-effects-to-elevate-your-film-cutting/"><u>[New] Top Visual Effects to Elevate Your Film Cutting</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-straightforward-guide-to-ios-screen-share-simplicity/"><u>[Updated] In 2024, Straightforward Guide to IOS Screen Share Simplicity</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/canon-speedlite-430ex-iii-rt-flash-review-rock-solid-build-quality-and-excellent-performance/"><u>Canon Speedlite 430EX III-RT Flash Review: Rock Solid Build Quality and Excellent Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-update-malfunction-windows-0x80246007-issue/"><u>Correcting Update Malfunction: Windows' 0X80246007 Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-successful-onedrive-operations-on-win-1011/"><u>Enhancing Successful OneDrive Operations on Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/expand-your-gaming-library-in-playnite/"><u>Expand Your Gaming Library in Playnite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-non-functional-front-headphone-jack-troubleshooting-steps/"><u>Fixing a Non-Functional Front Headphone Jack - Troubleshooting Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/flawless-window-display-arranging-tasks-effortlessly-win11/"><u>Flawless Window Display: Arranging Tasks Effortlessly (Win11)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y27-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y27 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-time-display-taskbar-clock-and-date-controls/"><u>Mastering Time Display: Taskbar Clock & Date Controls</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/ps5xbox-x-visuals-the-leading-game-screens-ranked-for-2024/"><u>PS5/Xbox X Visuals The Leading Game Screens Ranked for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-your-phoenix-point-crash-issues/"><u>Troubleshooting Steps: Resolving Your Phoenix Point Crash Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-resolving-m365-error-30015-26-on-pcs/"><u>Understanding and Resolving M365 Error 30015-26 on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-secrets-of-winning-ps1-games-on-windows-with-duckstations-wisdom/"><u>Unlock the Secrets of Winning PS1 Games on Windows with Duckstation's Wisdom</u></a></li>
+</ul></div>
 

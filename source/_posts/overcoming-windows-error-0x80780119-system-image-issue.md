@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows Error: 0X80780119 System Image Issue"
-date: 2025-02-01T01:16:37.597Z
-updated: 2025-02-04T05:34:29.332Z
+date: 2025-02-27T23:23:00.871Z
+updated: 2025-03-04T17:02:34.593Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Are You Unable to Create a System Image?
 
  If you are unable to create a system image due to the error 0x80780119, it might be because of one or more of the following reasons:
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 
  Regardless of what might be resulting in the problem in your case, the solutions we have listed below are sure to help you get the restore utility back on track. Proceed with the solutions one by one and follow the steps carefully for successful execution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Free Up Disk Space
 
  When you create a restore point in Windows, the system requires sufficient space on the destination drive to store all the backup files. If you do not have enough space, the System Restore is likely to return errors like the 0x80780119 error.
@@ -56,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 * **Uninstall unused programs**: If there are apps that you do not use anymore, head over to the Control Panel to uninstall them from the system. This will free up a great amount of space that can be used by the System Restore utility.
 
  In case you have large files or folders that you do not want to remove but also don’t need immediately, you can consider moving them to an external drive to free up space.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Check and Repair Disk Errors
 
@@ -80,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 ![Run the error checking tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/error-checking-tool.jpg)
 
  If any issues are found, Windows will prompt you to repair them. Follow the on-screen instructions to proceed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Enable System Protection
 
@@ -127,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 
  After the commands are executed, you can close Command Prompt and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create a Backup Without Any More Errors on Windows
 
  Ensuring the protection of your data should be your foremost priority, and a system image backup plays a vital role in safeguarding against unforeseen data loss. With the solutions above, you should be able to get the System Restore utility up and running in no time. However, if the problem persists, you can consider reporting the issue to Microsoft and try the specific solutions they suggest. Till then, you can switch to a third-party backup tool to safeguard your data.
@@ -147,24 +127,20 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capturing-the-moment-a-practical-guide-to-google-meetings-screen-recordings/"><u>[New] 2024 Approved Capturing the Moment A Practical Guide to GooGle Meetings' Screen Recordings</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-analyzing-lightroom-for-mobile-a-detailed-exploration/"><u>[New] Analyzing Lightroom for Mobile A Detailed Exploration</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-astral-expressions-top-30-bios-to-boost-your-signs-charm/"><u>[New] Astral Expressions Top 30 Bios to Boost Your Sign's Charm</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-streamlined-approaches-for-zoom-utility-on-chromebook/"><u>[Updated] Streamlined Approaches for Zoom Utility on Chromebook</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bypassing-common-windows-11-glitches-with-working-headphones/"><u>Bypassing Common Windows 11 Glitches with Working Headphones</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/convert-sharepoint-videos-to-mp4-and-avi-formats-download-guide-for-pc-and-mac/"><u>Convert SharePoint Videos to MP4 & AVI Formats - Download Guide for PC & Mac</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-edge-widget-integration-in-windows-11/"><u>Cutting-Edge Widget Integration in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-solutions-to-bypass-disallowed-logins-on-windows/"><u>Effective Solutions to Bypass Disallowed Logins on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-dev-drive-essential-setup-for-windows-11-programmers/"><u>Exploring Dev Drive: Essential Setup for Windows 11 Programmers</u></a></li>
-<li><a href="https://win11.techidaily.com/ftdibussys-and-windows-the-integrity-disruption-scenario/"><u>Ftdibus.sys & Windows: The Integrity Disruption Scenario</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-correcting-windows-camera-app-error-code-0xa00f429f/"><u>Guide to Correcting Windows Camera App Error Code 0xA00F429F</u></a></li>
-<li><a href="https://win11.techidaily.com/guiding-windows-11-users-on-restarting-mobile-hotspots/"><u>Guiding Windows 11 Users on Restarting Mobile Hotspots</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-x6-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from X6?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-13-pro-max-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone 13 Pro Max? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-to-tackle-error-code-0x0000004e/"><u>Quick Fixes to Tackle Error Code 0X0000004E</u></a></li>
-<li><a href="https://win11.techidaily.com/reimagine-productivity-select-7-innovative-window-11-widgets/"><u>Reimagine Productivity: Select 7 Innovative Window 11 Widgets</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-graphics-card-info-windows-11-edition/"><u>Unlocking Graphics Card Info: Windows 11 Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unraveling-psvr2-secrets-a-comprehensive-guide-on-pricing-launch-dates-and-tech-features/"><u>Unraveling PSVR2 Secrets: A Comprehensive Guide on Pricing, Launch Dates, and Tech Features</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-grab-your-favorite-facebook-videos-today-for-2024/"><u>[New] Grab Your Favorite Facebook Videos Today for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-enhanced-google-chats-essential-techniques-4-ways/"><u>[Updated] Enhanced Google Chats Essential Techniques, 4 Ways</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-youtube-watch-parties-to-home-auditory-archives/"><u>[Updated] From YouTube Watch Parties to Home Auditory Archives</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-perfected-podcasts-iphones-seamless-audio-download-routines/"><u>2024 Approved Perfected Podcasts IPhone's Seamless Audio Download Routines</u></a></li>
+<li><a href="https://win11.techidaily.com/a-window-into-future-skies-top-weather-apps-for-pc/"><u>A Window Into Future Skies: Top Weather Apps for PC</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-secure-boot-the-ultimate-rufus-guidebook/"><u>Conquering Secure Boot: The Ultimate Rufus Guidebook</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-realtek-rtl8188ee-wireless-network-adapter-drivers-windows-compatible/"><u>Download RealTek RTL8188EE Wireless Network Adapter Drivers (Windows Compatible)</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-vm-management-hosting-linux-on-a-windows-system-with-hyper-v/"><u>Efficient VM Management: Hosting Linux on a Windows System with Hyper-V</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-x-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From iPhone X</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-get-started-on-creativity-top-10-apps-for-digital-pencils-on-chrome-os/"><u>In 2024, Get Started on Creativity Top 10 Apps for Digital Pencils on Chrome OS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/leveraging-engagement-for-higher-facebook-profile-visibility/"><u>Leveraging Engagement for Higher Facebook Profile Visibility</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-5ghz-wireless-hurdles/"><u>Overcoming Windows 11 5GHz Wireless Hurdles</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-your-pc-with-apples-imessage/"><u>Setting Up Your PC with Apple's iMessage</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/solving-common-issues-fix-a-non-functional-scanner-with-our-tips-from-yl-computing-and-yl-software/"><u>Solving Common Issues: Fix a Non-Functional Scanner with Our Tips From YL Computing & YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/the-10-best-apps-to-replace-windows-11s-default-apps/"><u>The 10 Best Apps to Replace Windows 11'S Default Apps</u></a></li>
 </ul></div>
 

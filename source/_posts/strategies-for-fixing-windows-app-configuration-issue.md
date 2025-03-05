@@ -1,7 +1,7 @@
 ---
 title: Strategies for Fixing Windows App Configuration Issue
-date: 2024-12-23T16:23:18.749Z
-updated: 2024-12-28T04:18:12.561Z
+date: 2025-02-28T03:08:00.788Z
+updated: 2025-03-05T00:05:23.123Z
 tags:
   - windows10
   - windows11
@@ -35,18 +35,10 @@ thumbnail: https://thmb.techidaily.com/1acb8c811dd75a749590a9459a8ce73dd17ec95c9
 ![Event Viewer on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Event-Viewer-on-Windows.jpg)
 4. Choose the most recent side-by-side error from the middle pane and note down the version number under the**General** tab.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Open up your web browser and head over to the[Microsoft Visual C++ Redistributable download page](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) .
 6. Download and install the Visual C++ package corresponding to your version number.
 
  Restart your PC after this (see[how to restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) and try to launch your app or program one more time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the SFC and DISM Scans
 
@@ -65,10 +57,6 @@ To run the SFC scan on your computer:
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 
  After the process is complete, exit the Command Prompt window and restart your PC. The error should not appear anymore after the reboot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Run the Program Compatibility Troubleshooter
 
@@ -104,10 +92,6 @@ To run the SFC scan on your computer:
 3. Select**Uninstall** again to confirm.  
 ![Uninstall App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Uninstall-App-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Head over to Microsoft Store and install the app again. Following this, the error should not bother you.
 
 ## 6\. Scan for Malware
@@ -123,10 +107,6 @@ To run the SFC scan on your computer:
  Press**Win + I** to open the Settings app and navigate to the**Windows Update** section. Click on**Check for updates** to download and install pending updates.
 
 ![Check for System Updates on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-for-System-Updates-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Perform a System Restore
 
@@ -144,10 +124,6 @@ To perform a system restore on Windows:
 ![System Restore Dialog on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/System-Restore-Dialog-on-Windows.jpg)
 
  Windows will restart and revert to the specified restore point. Following that, the error should be resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Start Using Your Apps Again
 
@@ -168,24 +144,14 @@ To perform a system restore on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-downloadsave-instagram-reels-video-in-2-ways/"><u>[New] 2024 Approved How to Download/Save Instagram Reels Video in 2 Ways</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-adding-flair-to-your-online-gatherings-an-in-depth-zoom-filter-guide-for-2024/"><u>[New] Adding Flair to Your Online Gatherings An In-Depth Zoom Filter Guide for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-guide-to-non-vimeo-editing-software/"><u>[New] The Ultimate Guide to Non-Vimeo Editing Software</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-best-practices-for-youtube-to-igtv-transformation/"><u>[Updated] In 2024, Best Practices for YouTube to IGTV Transformation</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-live-links-debate-is-software-superior-to-gear-for-2024/"><u>[Updated] Live Links Debate Is Software Superior to Gear for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-premium-downloader-suite-for-vimeo-content/"><u>2024 Approved Premium Downloader Suite for Vimeo Content</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-the-ease-of-disk-management-access-on-win-1011/"><u>Discover the Ease of Disk Management Access on Win 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-accelerated-gpu-task-order-in-windows/"><u>Eliminating Accelerated GPU Task Order in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-adjust-administrative-controlled-options-in-windows-11-os/"><u>How to Adjust Administrative Controlled Options in Windows 11 OS</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo V30? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-facebook-messages-overcoming-window-snags/"><u>Mastering Facebook Messages: Overcoming Window Snags</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixed-windows-pin-issues/"><u>Mastering the Art of Fixed Windows PIN Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11s-tool-accessibility-settings/"><u>Mastering Windows 11'S Tool Accessibility Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-pathways-to-windows-performance-reports/"><u>Quick Pathways to Windows Performance Reports</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-restoring-corrupt-system-files-in-windows-10-and-11/"><u>Step-by-Step Tutorial: Restoring Corrupt System Files in Windows 10 and 11</u></a></li>
-<li><a href="https://win11.techidaily.com/thaw-frozen-handbrake-on-windows/"><u>Thaw Frozen HandBrake on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-your-inner-artist-creating-captivating-ai-visuals-with-paint-cocreator-and-windows-11/"><u>Unleash Your Inner Artist: Creating Captivating AI Visuals with Paint Cocreator & Windows 11</u></a></li>
-<li><a href="https://techidaily.com/vivo-y78-5g-music-recovery-recover-deleted-music-from-vivo-y78-5g-by-fonelab-android-recover-music/"><u>Vivo Y78 5G Music Recovery - Recover Deleted Music from Vivo Y78 5G</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721467435745-why-wont-my-iphone-back-up-to-icloud-here-are-9-fixes-that-work/"><u>Why Won’t My iPhone Back Up to iCloud? Here Are 9 Fixes That Work</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-harnessing-windows-10-tools-for-exquisite-video-editing/"><u>[Updated] Harnessing Windows 10 Tools for Exquisite Video Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/assessing-the-impact-do-widgets-streamline-win-11s-usage/"><u>Assessing the Impact: Do Widgets Streamline Win 11'S Usage?</u></a></li>
+<li><a href="https://win11.techidaily.com/cleaning-slates-in-windows-the-3-reset-routes/"><u>Cleaning Slates in Windows: The 3 Reset Routes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-honor-90-pro-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Honor 90 Pro.</u></a></li>
+<li><a href="https://win11.techidaily.com/fingerprint-fiasco-can-you-still-count-on-windows-hello/"><u>Fingerprint Fiasco: Can You Still Count on Windows Hello?</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-group-policy-changes-on-a-windows-system/"><u>Navigating Group Policy Changes on a Windows System</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pushing-boundaries-the-innovations-of-magix-vpx/"><u>Pushing Boundaries The Innovations of Magix VPX</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-makes-mac-tasks-effortless-and-faster/"><u>Stellar Makes Mac Tasks Effortless and Faster</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722959039814-update-your-pc-with-intels-ac-9560-network-card-driver-free-guide/"><u>Update Your PC with Intel's AC 9560 Network Card Driver - Free Guide!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Restore Color to Extended Volume Option in Disk Management
-date: 2024-12-22T06:27:46.872Z
-updated: 2024-12-27T19:39:07.701Z
+date: 2025-03-03T21:45:01.196Z
+updated: 2025-03-04T17:59:23.297Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Is the Extend Volume Option Grayed Out on Windows?
 
  If you see the extend volume option is grayed out in the Disk Management tool, there are a few possible reasons:
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1
 3. The extend volume option will be grayed out if your drive has no unallocated space.
 
  Now that you know all the possible culprits behind the issue, let's check out all the solutions that can help fix it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Convert the Partition to an NTFS File System
 
@@ -54,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1
 1. Right-click on the partition and select **Format**.
 2. Choose **NTFS** from the File system drop-down menu. Then, click **OK**.  
 ![File system option in Disk Management tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-system-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The formatting process may take some time, depending on the amount of data on the partition. Once done, restart your computer and check if the issue is resolved.
 
@@ -83,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1
 7. To delete the recovery partition, type **delete partition override** and press **Enter**.  
 ![delete partition override command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-partition-override.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You will see the message **DiskPart successfully deleted the selected partition**. This indicates that the recovery partition has been deleted.
 
 ![DiskPart successfully deleted the selected partition message in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/diskpart-successfully-deleted-the-selected-partition.jpg)
@@ -94,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1
  Next, open the Disk Management tool, and you will see an unallocated space next to the partition you want to extend. Right-click on the partition, choose **Extend** **Volume**, and then click **Next**.
 
 ![Extend partition option in Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extend-partition-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the wizard completes, you will see the partition size has been increased.
 
@@ -117,21 +97,20 @@ thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-seamless-methodology-viewing-favorited-and-well-liked-youtube-remarks/"><u>[New] 2024 Approved Seamless Methodology Viewing Favorited and Well-Liked YouTube Remarks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-disrupt-bot-patterns-for-natural-viewer-increase/"><u>[Updated] In 2024, Disrupt Bot Patterns for Natural Viewer Increase</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-vegas-pro-gambit-unveiled-a-21-comprehensive-review/"><u>2024 Approved Vegas Pro Gambit Unveiled A '21 Comprehensive Review</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-tecno-spark-20-proplus-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Tecno Spark 20 Pro+ via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discover-effortless-photo-combinations-picshots-way/"><u>Discover Effortless Photo Combinations - Picshot's Way</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-when-your-media-device-wont-connect-to-windows-system/"><u>Easy Fixes When Your Media Device Won’t Connect to Windows System</u></a></li>
-<li><a href="https://win11.techidaily.com/edges-steady-cycle-managing-on-windows-11/"><u>Edge's Steady Cycle: Managing on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-continuous-tab-integrity-in-explorer/"><u>Ensuring Continuous Tab Integrity in Explorer</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-reviews-the-most-effective-storm-chasing-tools-for-navigating-2024/"><u>Expert Reviews: The Most Effective Storm Chasing Tools for Navigating 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/extending-windows-10-shutdown-time-tips-for-active-tasks/"><u>Extending Windows 10 Shutdown Time: Tips for Active Tasks</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-fix-a-non-responsive-login-screen-in-windows-1011/"><u>Guide to Fix a Non-Responsive Login Screen in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-stopping-discord-initial-launch-and-updates-on-windows/"><u>Guide: Stopping Discord Initial Launch & Updates on Windows</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Poco C55? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-plugged-in-but-not-charging-problems-on-your-microsoft-surface/"><u>Solving Plugged In But Not Charging Problems on Your Microsoft Surface</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ins-and-outs-of-windows-11-calendar-interface/"><u>The Ins and Outs of Windows 11 Calendar Interface</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-stuck-exe-files-in-windows-systems/"><u>Unlocking Stuck .exe Files in Windows Systems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discover-the-joy-of-animated-journeys-youtubes-best-for-everyday/"><u>[New] In 2024, Discover the Joy of Animated Journeys YouTube's Best for Everyday</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-time-management-using-timestamps-to-amplify-views-on-youtube/"><u>[New] In 2024, Time Management Using Timestamps to Amplify Views on YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-step-by-step-funimate-video-retrieval/"><u>[New] Step-by-Step Funimate Video Retrieval</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-virtual-playstation-revival-on-android-try-the-5-best-emulators-here-in-2024/"><u>[New] Virtual PlayStation Revival on Android? Try the 5 Best Emulators Here, In 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-tecno-pova-6-pro-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Tecno Pova 6 Pro 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/bridge-the-gap-top-methods-to-reconnect-your-usb-wi-fi-on-pcs/"><u>Bridge the Gap: Top Methods to Reconnect Your USB Wi-Fi on PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/chicconsole-compact-modern-twist-on-classic-gaming/"><u>ChicConsole Compact: Modern Twist on Classic Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-blank-display-of-startup-items/"><u>Eradicating Blank Display of Startup Items</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tune-monitor-settings-in-latest-os-version/"><u>Fine-Tune Monitor Settings in Latest OS Version</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-smooth-streaming-elite-stabilizers-reviewed/"><u>In 2024, Smooth Streaming Elite Stabilizers Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-11s-onedrive-error-def5-woes/"><u>Navigating Through Windows 11'S Onedrive Error DEF5 Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/outsmart-windows-delete-temp-files-without-fuss/"><u>Outsmart Windows: Delete Temp Files Without Fuss</u></a></li>
+<li><a href="https://win-blog.techidaily.com/red-dead-redemption-2-error-resolved-fixing-errgfxstate-for-a-smooth-gaming-experience/"><u>Red Dead Redemption 2 Error Resolved: Fixing ERR_GFX_State for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-essentials-of-name-changes-in-social-media-networks/"><u>The Essentials of Name Changes in Social Media Networks</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-skyrocketing-your-workflow-with-windows-apps/"><u>The Ultimate Guide to Skyrocketing Your Workflow with Windows Apps</u></a></li>
 </ul></div>
 

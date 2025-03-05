@@ -1,7 +1,7 @@
 ---
 title: Boosting App Aesthetics with Win11's Automatic Tuning
-date: 2024-08-08T13:13:28.872Z
-updated: 2024-08-09T13:13:28.872Z
+date: 2025-02-27T18:51:05.393Z
+updated: 2025-03-04T16:38:24.901Z
 tags:
   - windows10
   - windows11
@@ -20,18 +20,12 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  This remarkable tool has been made available in Windows 11's 25309 build, but if you don't have this version yet, you can use a third-party application called ViveTool instead. Read this guide to learn how to enable Auto Color Management for apps in Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## How to Enable Auto Color Management for Apps in Windows 11
 
  The Auto Color Management feature is currently in beta testing. It is only available in Windows Insider builds 25309 and above. If you want to enable this feature on your system, you will first need to [update to the latest Canary channel build](https://www.makeuseof.com/what-is-windows-insider-canary-channel/) and then [download ViVeTool from the GitHub page](https://github.com/thebookisclosed/ViVe/releases).
 
  Now open the Command Prompt with administrative rights. If you need help, see our detailed tutorial on [how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/).
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![Enable New Auto Color Management-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-new-auto-color-management-1.jpg)
 
  Once you're in the Command Prompt window, run the following command:
@@ -49,27 +43,18 @@ vivetool /enable /id:36371531
 1. Press **Win + I** to [open the Settings menu](https://www.makeuseof.com/windows-ways-to-open-system-settings/).
 2. Then navigate to **System > Display**.
 3. Scroll down to Related settings and click **Advanced display**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Advanced display settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-display-settings-1.jpg)
 4. Next, turn on the toggle for **Automatically manage color for apps**.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows Settings Now Includes Auto Color Management
 
  With the release of Windows Insider builds 25309, you will get a new feature called Auto Color Management feature in your Windows settings. You can use it for multiple activities such as photo editing and graphic design.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -78,6 +63,24 @@ vivetool /enable /id:36371531
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-comparative-study-of-vsdc-vs-best-video-recorders/"><u>[New] In 2024, Comparative Study of VSDC vs Best Video Recorders</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-master-iphone-podcast-downloads-a-comprehensible-approach-for-2024/"><u>[New] Master iPhone Podcast Downloads A Comprehensible Approach for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-become-a-yt-hub-pro-complete-guide-revealed/"><u>[Updated] 2024 Approved Become a YT Hub Pro Complete Guide Revealed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-secrets-to-perfectly-screen-capturing-instagram-content/"><u>[Updated] Secrets to Perfectly Screen Capturing Instagram Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/battle-of-titans-thieye-t5-or-sjcam-s6-legend-in-2024/"><u>Battle of Titans Thieye T5 or SJCAM S6 Legend, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-absent-mcuicntexe-entry-point-in-microsoft-oses/"><u>Fixing Absent McUICnt.exe Entry Point in Microsoft OSes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-converter-change-wmv-files-into-ogg-format-with-ease/"><u>Free Online Converter: Change WMV Files Into OGG Format with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-updates-resolving-post-update-issues/"><u>Mastering Windows Updates: Resolving Post-Update Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-internet-shutdown-win-ethernet-edition/"><u>Overcoming Internet Shutdown: Win Ethernet Edition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/reclaim-your-social-space-after-a-hack-for-2024/"><u>Reclaim Your Social Space After a Hack for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/regulating-ntoskrnlexes-voracious-cpu-needs/"><u>Regulating Ntoskrnl.exe's Voracious CPU Needs</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-gameplay-resumes-with-fixing-epic-launcher-sign-ins/"><u>Smooth Gameplay Resumes with Fixing Epic Launcher Sign-Ins</u></a></li>
+<li><a href="https://win11.techidaily.com/tearing-protection-keep-holding-onto-bitlocker/"><u>Tearing Protection? Keep Holding Onto BitLocker</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-of-networking-exploring-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse of Networking: Exploring Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-windows-11s-virtual-potential-with-hyper-v/"><u>Unlock Windows 11'S Virtual Potential with Hyper-V</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-funimate-the-ultimate-video-guide/"><u>Unveiling Funimate The Ultimate Video Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-method-to-rectify-missing-time-remaining-gauge/"><u>Win 11: Method to Rectify Missing Time Remaining Gauge</u></a></li>
+</ul></div>
 

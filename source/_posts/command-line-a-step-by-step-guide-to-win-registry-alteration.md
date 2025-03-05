@@ -1,7 +1,7 @@
 ---
 title: "Command Line: A Step-by-Step Guide to Win Registry Alteration"
-date: 2025-02-12T05:04:45.893Z
-updated: 2025-02-15T19:52:27.024Z
+date: 2025-02-27T21:35:38.504Z
+updated: 2025-03-04T19:29:03.361Z
 tags:
   - windows10
   - windows11
@@ -93,17 +93,9 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
  After running the above command successfully, the value should disappear from the Registry Editor.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Copy Registry Entries From One Key to Another
 
 ![transfering entries from one registry key to another in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/transfering-entries-from-one-registry-key-to-another-in-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Sometimes, you might want to copy the values from one key to another in the registry. This is as easy as using the **reg copy** command while specifying the key you're copying them from and the one you're copying them to (keep in mind that both keys have to already exist before you run the command). Here's an example:
 
@@ -139,17 +131,9 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
  The resulting registry file will only contain the key and the specific value you exported.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Save Registry Entries
 
 ![saving-a-key-to-a-registry-file-in-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/saving-a-key-to-a-registry-file-in-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you already have a registry file or any other text file, you can add keys to it using Command Prompt and the **reg save** command, which will overwrite the file with the new information. You just need to specify the name of the key and the registry file you want to save it to. Here's an example:
 
@@ -157,17 +141,9 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
  The **/y** switch at the end of the command above overwrites the file you're saving the key to without bringing up a prompt. When you open the file, you won't be able to read the contents since it will be saved as a binary file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Restore Registry Entries
 
 ![restoring-a-registry-key-in-command-prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/restoring-a-registry-key-in-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  So, let's say something has happened to the keys and values within the **MyNewKey2** we saved in the previous section, you can use the backup file you created to restore it. You'll need to use the **reg restore** command. Here's how to run it:
 
@@ -193,20 +169,18 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-ultimate-list-of-top-quality-cost-free-luts/"><u>[New] 2024 Approved Ultimate List of Top-Quality, Cost-Free LUTs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-preserving-pixels-in-the-sky-selecting-best-photo-cloud-storages/"><u>[New] Preserving Pixels in the Sky Selecting Best Photo Cloud Storages</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-vr-cameras-clash-the-2023-showdown-between-gopro-and-yi/"><u>[Updated] In 2024, VR Cameras Clash The 2023 Showdown Between GoPro & Yi</u></a></li>
-<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/dvd-mp4dvd/"><u>DVD化 公式ガイド：MP4ファイルをDVDビデオへの容易な変換方法</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-solutions-for-stubborn-windows-application-errors/"><u>Immediate Solutions for Stubborn Windows Application Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-sign-in-snag-onedrive-0x8004dec5-fix-guide-for-windows/"><u>Overcoming the Sign-In Snag: ONEDRIVE 0X8004DEC5 Fix Guide for Windows</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pros-picks-10-premium-action-cameras-with-image-stabilization-for-2024/"><u>Pro's Picks 10 Premium Action Cameras with Image Stabilization for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-for-disabled-timed-lock-screen-delay/"><u>Remedy for Disabled Timed Lock Screen Delay</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-rectifying-something-went-wrong-in-outlook/"><u>Step-by-Step: Rectifying 'Something Went Wrong' In Outlook</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nail-tactics-for-top-views-on-youtube-videos/"><u>Thumbnail Tactics for Top Views on YouTube Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-notetaking-tablets-comprehensive-testing-and-insights-zdnet/"><u>Ultimate Guide to the Best Notetaking Tablets : Comprehensive Testing & Insights | ZDNET</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-list-of-video-cutting-apps-on-windows-11/"><u>Ultimate List of Video Cutting Apps on Windows 11</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-best-of-the-best-top-5-video-editing-apps-for-iphone-this-year-for-2024/"><u>Updated Best of the Best Top 5 Video Editing Apps for iPhone This Year for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-store-troubleshooting-tips-for-error-x800704cf/"><u>Windows Store Troubleshooting Tips for Error X800704CF</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-skys-best-pixels-face-off-dji-inspire-1-and-gopro-fusion-mini/"><u>[New] In 2024, Sky's Best Pixels Face-Off DJi Inspire 1 & GoPro Fusion Mini</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unlocking-the-best-free-screen-recorders-on-windows-10/"><u>[Updated] 2024 Approved Unlocking the Best Free Screen Recorders on Windows 10</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-beginners-glossary-for-instagram-chat-rooms/"><u>[Updated] In 2024, Beginner's Glossary for Instagram Chat Rooms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-enhancing-youtube-visibility-with-tubebuddy/"><u>[Updated] In 2024, Enhancing YouTube Visibility with TubeBuddy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-efficient-airdrop-transfers-fixes-for-all-apple-gadgets/"><u>[Updated] Unlock Efficient AirDrop Transfers - Fixes for All Apple Gadgets</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unlock-fb-livestream-potential-with-recorded-content-know-how/"><u>2024 Approved Unlock FB Livestream Potential with Recorded Content Know-How</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-blending-of-win-product-key-and-microsoft-account/"><u>Effortless Blending of WIN Product Key & MICROSOFT ACCOUNT</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-overcoming-frozen-state-of-essential-wsreset/"><u>Guide to Overcoming Frozen State of Essential WSReset</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seamless-tweeting-expert-video-conversion-software/"><u>Seamless Tweeting Expert Video Conversion Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-fix-for-xbox-controller-compatibility-issues-on-windows-7-8-and-11/"><u>Step-by-Step Fix for Xbox Controller Compatibility Issues on Windows 7, 8, and 11</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-bypass-difficulty-in-installing-version-22h2-of-win11-updater/"><u>Techniques to Bypass Difficulty in Installing Version 22H2 of Win11 Updater</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windows-top-security-programs-for-privacy-150-chars/"><u>Unveiling Window's Top Security Programs for Privacy (150 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-dxgi-correction-for-removed-devices/"><u>Windows 11 DXGI Correction for Removed Devices</u></a></li>
 </ul></div>
 

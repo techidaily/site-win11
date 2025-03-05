@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Workflows: Incorporating Additional Folders in Windows"
-date: 2025-02-12T20:34:30.186Z
-updated: 2025-02-15T16:18:19.265Z
+date: 2025-03-04T01:14:17.101Z
+updated: 2025-03-05T03:48:59.583Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 ![The Install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-install-option.jpg)
 8. Click the**Yes** ,**restart the computer now radio** button, and select**Finish** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once your PC has restarted:
 
 1. Sign in to the user account in which you installed MyFolders within.
@@ -53,29 +49,17 @@ Once your PC has restarted:
 
 5. Click**Done** to exit the MyFolders window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Use MyFolders
 
  Check out the new folder shortcut you’ve just added to the context menu. Right-click a space on the desktop background and select**Show more options** . Move the cursor over the**MyFolders** submenu and**Go to** . Then click the folder shortcut you just added to open its directory in Explorer.
 
 ![The MyFolders submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/myfolders-submenu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you can select to open the folder in the Command Prompt. Move the cursor over the**Open command window** option. There you can select to open the same folder with the Command Prompt.
 
  The**MyFolders** submenu includes extra options you can select in File Explorer. Right-click a folder in Explorer to select**Show more options** \>**MyFolders** . Then you can click**Copy to** and**Move to** options for copying and moving directories to the folders you’ve added to the menu.
 
 ![The Copy to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-to-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
 
@@ -110,10 +94,6 @@ Once your PC has restarted:
 ![The Right Click Context Menu Adder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/right-click-context-menu-adder-window.jpg)
 5. Press the**Choose Folder** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Select a directory to add to the context menu within the**Browse For Folder** window and click**OK** .
 7. Click the**Add to Desktop Context Menu** **and to Folders Context Menu** option.
 8. Press the**Add to Context Menu** button.
@@ -136,10 +116,6 @@ Once your PC has restarted:
 
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Open Your Most Important Folders From the Windows 11 Context Menu
 
  MyFolders and Right Click Context Menu Adder make it quick and easy to add folders to the desktop and Explorer context menus without any manual registry tweaking. Adding folders to the context menu will save you from rummaging through File Explorer to get to them. Such right-click shortcuts can be invaluable for quickly accessing folders with long paths in Windows 11.
@@ -159,20 +135,20 @@ Once your PC has restarted:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-reimagining-your-video-presentation-update-facebook-covers-today/"><u>[New] In 2024, Reimagining Your Video Presentation Update Facebook Covers Today</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-snapmaster-pro-advanced-ai-enhanced-editing/"><u>2024 Approved SnapMaster Pro Advanced AI Enhanced Editing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-fixes-to-overcome-windows-restore-errors-and-get-back-on-track/"><u>Easy Fixes to Overcome Windows Restore Errors and Get Back on Track</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-workflow-with-these-8-windows-timers/"><u>Elevate Your Workflow with These 8 Windows Timers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-itel-p55-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Itel P55 FRP Locks</u></a></li>
-<li><a href="https://win11.techidaily.com/hardware-memory-slot-windows-reservation-approach/"><u>Hardware Memory Slot: Windows’ Reservation Approach</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-y100i-power-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo Y100i Power 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-is-cash-involved-with-criticism-displays/"><u>In 2024, Is Cash Involved with Criticism Displays?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-creativity-with-pro-gopro-guidance/"><u>In 2024, Unleashing Creativity with Pro-GoPro Guidance</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/pioneering-virtual-realities-in-live-video-feeds-for-2024/"><u>Pioneering Virtual Realities in Live Video Feeds for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-guide-to-disable-disk-read-error/"><u>Quick Fix Guide to Disable “Disk Read” Error</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-excel-notation-on-notepad/"><u>Quick Fixes for Excel Notation on Notepad</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-control-windows-setup-service-status/"><u>Steps to Control Windows Setup Service Status</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-behindahead-time-error-in-chrome-windows/"><u>Tackling Behind/Ahead Time Error in Chrome-Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-guide-to-fixing-microsoft-outlook-failures/"><u>Windows Guide to Fixing Microsoft Outlook Failures</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unveiling-the-trick-how-to-store-instagram-content-on-pc-and-macos-for-2024/"><u>[New] Unveiling the Trick How to Store Instagram Content on PC and macOS for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-building-engaging-learning-experiences-youtube-as-your-classroom-screen/"><u>[Updated] In 2024, Building Engaging Learning Experiences YouTube as Your Classroom Screen</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instas-tunes-ownership-and-legalities/"><u>2024 Approved Insta's Tunes Ownership & Legalities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/as-15-paginas-de-captura-de-tela-mais-eficazes-entenda-o-que-e-um-captura-tela/"><u>As 15 Páginas De Captura De Tela Mais Eficazes - Entenda O Que É Um Captura-Tela!</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-hardware-requirement-issues-in-windows-capturing/"><u>Eliminating Hardware Requirement Issues in Windows Capturing</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-app-locations-remain-constant-in-windows/"><u>Ensuring App Locations Remain Constant in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-dodge-world-of-warcraft-crash-tackle-fatal-132/"><u>How to Dodge World of Warcraft Crash: Tackle Fatal #132</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-your-data-management-mastery-in-merging-directories-and-files-for-windows-11/"><u>Maximize Your Data Management: Mastery in Merging Directories & Files for Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigate-the-web-with-ease-bings-ai-search-on-ios-and-android/"><u>Navigate the Web with Ease: Bing's AI Search on iOS & Android</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/professional-emma-ray-norman-backdrops-for-pcs-macs-and-mobile-premium-collection-from-yl-software/"><u>Professional Emma Ray Norman Backdrops for PCs, Macs, and Mobile: Premium Collection From YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-your-pc-updating-windows-11-passwords/"><u>Secure Your PC: Updating Windows 11 Passwords</u></a></li>
+<li><a href="https://win11.techidaily.com/standardize-security-restore-basic-user-rights-in-windows-11/"><u>Standardize Security: Restore Basic User Rights in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/trim-your-win11-startup-list-for-optimal-performance/"><u>Trim Your Win11 Startup List for Optimal Performance</u></a></li>
 </ul></div>
 

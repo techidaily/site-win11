@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Door: Entering & Exiting Terminal's Concentrated State"
-date: 2024-12-25T17:33:21.192Z
-updated: 2024-12-27T22:41:26.915Z
+date: 2025-02-28T01:30:44.724Z
+updated: 2025-03-04T19:52:15.148Z
 tags:
   - windows10
   - windows11
@@ -47,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 
  This will open the Windows Terminal with Focus Mode enabled. To turn off Focus Mode, press**Ctrl + Shift + P** on your keyboard. Then search for**Toggle focus mode** and click on it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Use the Command Palette
 
  If you prefer using commands, you can enter Focus Mode in the Windows Terminal through the Command Palette. Here's how to do it:
@@ -60,17 +56,9 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 ![Use the Command Palette to enable Focus Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/use-the-command-palette-to-enable-focus-mode.jpg)
 3. Type "focus mode" in the text box and select**Toggle focus mode** from the list of options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. The Windows Terminal will then enter Focus Mode and hide all unnecessary information from the window.
 
  If you need to access the tabs and title bar, you can press the same shortcut again. It will switch back to the normal mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Create a Shortcut Key
 
@@ -86,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 
  Once you create the shortcut key, you can press it to switch between Focus Mode and normal mode in Windows Terminal.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Use Windows File Explorer
 
  If you're using File Explorer to manage files, you can also enter Focus Mode in Windows Terminal from there. Here's how:
@@ -99,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 wt.exe /focus
 
  This will open the Windows Terminal in Focus Mode, with all tabs and title bars hidden. To switch back to normal mode, press**Ctrl + Shift + P** and select Toggle focus mode from the Command Palette.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Switch to the Windows Terminal Focus Mode Quickly on Windows
 
@@ -123,22 +103,19 @@ wt.exe /focus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-implementing-stunning-visual-effects-on-zoom-calls/"><u>[New] In 2024, Implementing Stunning Visual Effects on Zoom Calls</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-10-superior-tools-for-fbx-file-recording/"><u>2024 Approved 10 Superior Tools for FBX File Recording</u></a></li>
-<li><a href="https://win11.techidaily.com/configuring-reset-count-for-unsuccessful-logins-on-windows-11-systems/"><u>Configuring Reset Count for Unsuccessful Logins on Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-mysteries-articles-and-guides-from-toms-hardware/"><u>Decoding Tech Mysteries: Articles and Guides From Tom's Hardware</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-windows-app-functionality-enhance-internet-connectivity/"><u>Elevate Windows App Functionality: Enhance Internet Connectivity</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-the-isarcextract-error-a-w11-guide/"><u>Eliminating the ISArcExtract Error: A W11 Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/hottest-youtube-music-playback-responses-23-for-2024/"><u>Hottest YouTube Music Playback Responses '23 for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-syncing-zen-and-zeal-elevating-youtube-livestreams-on-zoom/"><u>In 2024, Syncing Zen and Zeal Elevating YouTube Livestreams on Zoom</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oppo-a1-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Oppo A1 5G Phones</u></a></li>
-<li><a href="https://fox-where.techidaily.com/mastering-cryptocurrency-chart-patterns-a-comprehensive-guide-with-yl-software/"><u>Mastering Cryptocurrency Chart Patterns: A Comprehensive Guide with YL Software</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-0x800704cf-problem-in-windows-microsoft-store/"><u>Overcoming 0X800704CF Problem in Windows' Microsoft Store</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/replace-imovie-with-these-top-rated-windows-10-video-editors/"><u>Replace iMovie with These Top-Rated Windows 10 Video Editors</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-folder-access-denied-issue-in-microsoft-outlook-for-pcs/"><u>Resolving Folder Access Denied Issue in Microsoft Outlook for PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-start-menu-issues-in-windows-11-a-step-by-step-guide/"><u>Resolving Start Menu Issues in Windows 11 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/strengthening-the-synergy-between-wsl-and-windows-11-ecosystems/"><u>Strengthening the Synergy Between WSL and Windows 11 Ecosystems</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-secure-tests-with-win-11s-sandbox/"><u>Unlocking Secure Tests with Win 11'S Sandbox</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-true-potential-of-windows-11-the-best-changes-to-make/"><u>Unlocking the True Potential of Windows 11: The Best Changes to Make</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-best-5-video-webcams-equipped-with-microphones/"><u>[New] In 2024, Best 5 Video Webcams Equipped With Microphones</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-securing-your-digital-dividends-a-no-ads-youtube-money-manual/"><u>[Updated] In 2024, Securing Your Digital Dividends A No Ads YouTube Money Manual</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-top-5-game-changers-for-professional-obs-studio-video/"><u>2024 Approved The Top 5 Game-Changers for Professional OBS Studio Video</u></a></li>
+<li><a href="https://win11.techidaily.com/devhome-the-comprehensive-resource-for-w11-enthusiasts/"><u>DevHome: The Comprehensive Resource for W11 Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/establishing-enduring-trash-settings-in-the-windows-environment/"><u>Establishing Enduring Trash Settings in the Windows Environment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/formato-de-imagen-gratuitos-para-convertir-jpeg-a-bmp-sin-problemas-lineamoveai/"><u>Formato De Imagen Gratuitos Para Convertir JPEG a BMP Sin Problemas - LineaMove.ai</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-nokia-c110-by-fonelab-android-recover-music/"><u>How to restore wiped music on Nokia C110</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-distractions-how-to-resolve-unwanted-noises-from-your-headphones/"><u>No More Distractions: How to Resolve Unwanted Noises From Your Headphones</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/revive-lost-files-on-acer-mastering-the-art-of-disk-to-disk-recovery-with-these-3-straightforward-methods/"><u>Revive Lost Files on Acer: Mastering the Art of Disk-to-Disk Recovery with These 3 Straightforward Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-the-lost-link-a-comprehensive-guide-to-reinstating-defective-adapters-in-windows/"><u>Reviving the Lost Link: A Comprehensive Guide to Reinstating Defective Adapters in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/steering-the-path-of-your-onedrive-file-space-in-windows/"><u>Steering the Path of Your OneDrive File Space in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-overcome-ppt-save-blunders-6-quick-fixes-windows-users-need/"><u>Swiftly Overcome PPT Save Blunders: 6 Quick Fixes Windows Users Need</u></a></li>
+<li><a href="https://win11.techidaily.com/taskbar-chat-disappearance-in-windows-11-what-it-entails-for-users/"><u>Taskbar Chat Disappearance in Windows 11: What It Entails for Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows Admin: Command Prompt Tools"
-date: 2025-02-12T03:55:18.518Z
-updated: 2025-02-15T16:25:56.445Z
+date: 2025-02-28T02:22:25.178Z
+updated: 2025-03-05T04:06:14.102Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 ![user account details while using net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/user-account-details-while-using-net-user.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also bring up all the important information about a user by simply typing the **net user** command followed by the name of the user's name. Here's the basic syntax:
 
 `net user Username`
@@ -68,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 `net user Jill /delete`
 
  Now net user will remove the account from the computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Enable and Disable a User Account
 
@@ -119,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 ![setting an account expiriation date with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-an-account-expiriation-date-with-net-user.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  By default, accounts are set to never expire, but you can change that if you have a user you want to be active for a specific period of time. You will need to use the **/expires** parameter while specifying the year, month, and expiration date. Here's the basic command structure:
 
 `net user Username /expires:DD/MM/YYYY`
@@ -138,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
  You can also use the **net user** command to [change the password of a user account in Command Prompt](https://www.makeuseof.com/tag/quick-tip-change-the-windows-user-password-via-command-line/). This will make it so that you can quickly change the password of any local account with a single command, instead of having to do it through the Settings app, which requires many clicks.
 
  The beauty of it is that you can also use it to change passwords for multiple accounts without leaving the Command Prompt window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Change the Password of a Domain User Account
 
@@ -165,10 +149,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
  So, the next time Jack logs into the computer, he will get a prompt asking him to change his password before he can access his user account.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 11\. Set a Home Directory for Users
 
  When creating a new user profile using **net user**, you can set the home directory, which is where Windows will store the user's personal files and settings. By default, Windows places the home directory of each user account in **This PC > Local Disk (C:) > Users**. To change this with **net user** during account creation, the basic syntax is as follows:
@@ -180,10 +160,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 `net user Jack Pa$w0rd /add /homedir:D:\Other Users\Jack`
 
  The above command will place the home directory of **Jack**, as it creates the account, in the **D:\\Other Users\\Jack** folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Take Control of Your Computer's Users Accounts With the Net User Command
 
@@ -203,19 +179,18 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-complete-reference-to-display-recording-methods/"><u>[New] The Complete Reference to Display Recording Methods</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-pro-monitor-snapshot-software-w10/"><u>[Updated] In 2024, Pro Monitor Snapshot Software W10</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-sony-vegas-for-the-aspiring-youtube-editor-a-comprehensive-overview/"><u>[Updated] Sony Vegas for the Aspiring YouTube Editor A Comprehensive Overview</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-guide-to-the-best-cpu-thermal-pastes-evaluating-and-ranking-top-90-picks/"><u>2024'S Ultimate Guide to the Best CPU Thermal Pastes: Evaluating and Ranking Top 90 Picks</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-apple-iphone-11-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 11 Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-the-nba-2k21-viridian-glitch-guide-updated/"><u>How to Overcome the NBA 2K21 Viridian Glitch – Guide Updated</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/in-depth-guide-shifting-nat-settings-on-windows-11-and-10-devices/"><u>In-Depth Guide: Shifting NAT Settings on Windows 11 & 10 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-calendar-personalization-in-windows-outlook/"><u>Mastering Calendar Personalization in Windows Outlook</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-lsassexe-unable-to-locate-on-windows-xpvista7/"><u>Overcoming 'lsass.exe' Unable to Locate on Windows XP/Vista/7</u></a></li>
-<li><a href="https://win11.techidaily.com/prevent-google-chrome-from-autopilot-tab-creation-in-windows/"><u>Prevent Google Chrome From Autopilot Tab Creation in Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/section-2b-five-facts-to-remember/"><u>Section 2B: Five Facts to Remember</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-and-fix-frozen-epic-games-launcher-error/"><u>Stop and Fix Frozen Epic Games Launcher Error</u></a></li>
-<li><a href="https://win11.techidaily.com/the-insiders-guide-to-windows-functional-control/"><u>The Insider's Guide to Window's Functional Control</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-infinite-visual-vaults-blend-zero-cost-sky-spaces-with-premium-packages/"><u>[New] 2024 Approved Infinite Visual Vaults Blend Zero-Cost Sky Spaces With Premium Packages</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-innovative-methods-iphoneipad-recording-2023-revealed/"><u>[New] In 2024, Innovative Methods IPhone/iPad Recording [2023 Revealed]</u></a></li>
+<li><a href="https://win11.techidaily.com/converting-android-device-an-android-phone-as-a-windows-11-webcam/"><u>Converting Android Device: An Android Phone as a Windows 11 Webcam</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-oneplus-12-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from OnePlus 12.</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/innovative-wrist-tech-showdown-top-smartwatches/"><u>Innovative Wrist Tech Showdown: Top Smartwatches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/installing-bavarder-linuxs-chatgpt-routine/"><u>Installing Bavarder: Linux's ChatGPT Routine</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-hide-locally-logged-in-details-on-windows-11/"><u>Techniques to Hide Locally Logged-In Details on Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/top-5-podcast-apps-for-listening-to-podcasts-on-an-iphone-for-2024/"><u>Top 5 Podcast Apps for Listening to Podcasts on an iPhone for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-win11s-automatic-color-adjustment-power/"><u>Unleashing Win11's Automatic Color Adjustment Power</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-strategies-to-correct-active-directory-print-problems/"><u>Windows 11: Strategies to Correct Active Directory Print Problems</u></a></li>
 </ul></div>
 

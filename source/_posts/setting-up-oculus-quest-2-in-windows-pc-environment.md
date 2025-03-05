@@ -1,7 +1,7 @@
 ---
 title: Setting up Oculus Quest 2 in Windows PC Environment
-date: 2025-02-10T16:03:30.840Z
-updated: 2025-02-15T22:08:25.685Z
+date: 2025-02-28T20:12:11.392Z
+updated: 2025-03-04T21:25:51.718Z
 tags:
   - windows10
   - windows11
@@ -49,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 ![The Install Now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/install-now-button.jpg)
 6. You’ll be prompted to either set up an Oculus account or sign in with an existing one. Select to sign in with the account you use for your Oculus Quest 2 headset.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Set Up Oculus Link
 
  When you’ve installed the Oculus software as outlined above, you can connect your Oculus Quest 2 headset to a Windows PC. These are the steps for adding a device with the Oculus software.
@@ -62,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 3. Select the**Add Headset** option.  
 ![Add-Headset-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-headset-option.jpg)
 4. Click the Oculus Quest 2 option and press the**Continue** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Select**Link (Cable)** and click**Continue** .
 
@@ -80,15 +72,7 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 ![The Allow option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-connected-device-to-access-files.jpg)
 7. The second prompt asks you to enable Oculus Quest Link. Select the**Enable** option.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Enable Oculus Link prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-quest-link.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Get Into Oculus Dash on the Oculus Quest 2
 
@@ -117,17 +101,9 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 
 ![A screenshot captured in Dash's Home VR feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/home-feature-sceenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can access that virtual environment by pressing the**Home** button on the Dash bar. Press the**Menu** button on the left control stick to bring up the menu for customizing the environment. Then select**Inventory** to add new things to the environment from the**Base** ,**Objects** , and**Decorations** tabs on that menu.
 
 ![The Home customization menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/home-customize-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Virtual Desktop is another notable feature of Dash that enables you to see and access your Windows desktop within the Quest 2 headset – when it works right. However, many users have reported seeing a blank, black screen when they try to utilize that feature.
 
@@ -155,10 +131,6 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 
 ![Audio settings for PC VR in the Oculus software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/audio-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Upgrade the Oculus Quest 2 With Your Windows PC
 
  Enabling Oculus Link is a great way to upgrade an Oculus Quest 2 headset. By combining your Windows 10 or 11 computer with an Oculus headset, you can enjoy all the best PC VR Rift apps on your Oculus Quest 2\. You can also have lots of VR fun with the Oculus Home feature and live events in Dash.
@@ -178,14 +150,17 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-discovering-xs-the-ultimate-100-i-action-movie-maker/"><u>[New] In 2024, Discovering XS The Ultimate 100 I Action Movie Maker</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/comment-configurer-le-processus-de-sauvegarde-sur-un-serveur-windows-r2/"><u>Comment Configurer Le Processus De Sauvegarde Sur Un Serveur Windows R2?</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-fighters-fixes-conquer-mouse-lags-in-star-wars-battlefront-2/"><u>Fast Fighter's Fixes: Conquer Mouse Lags in Star Wars Battlefront 2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-cod-modern-warfare-gameplay-interruptions-and-stops/"><u>Fixes for Cod: Modern Warfare Gameplay Interruptions & Stops</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-iphone-x-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On iPhone X without Password?</u></a></li>
-<li><a href="https://win11.techidaily.com/synchronize-system-seconds-in-windows/"><u>Synchronize System Seconds in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/the-best-new-laptops-shown-at-ifa-2023/"><u>The Best New Laptops Shown at IFA 2023</u></a></li>
-<li><a href="https://win11.techidaily.com/the-definitive-resource-on-windows-system-booting/"><u>The Definitive Resource on Windows System Booting</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976986837-tp-link-ac-wireless-network-card-drivers-updated-for-windows-operating-systems-11-8-and-groove-download-now/"><u>TP-Link AC Wireless Network Card Drivers Updated | For Windows Operating Systems (11, 8 & Groove) Download Now!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-expand-your-video-editing-experience-no-inshot-required/"><u>[Updated] 2024 Approved Expand Your Video Editing Experience No Inshot Required</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-guide-to-identifying-recent-instagram-leavers/"><u>2024 Approved Guide to Identifying Recent Instagram Leavers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/exploring-updates-to-sonys-s6500-model-for-2024/"><u>Exploring Updates to Sony's S6500 Model for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-pace-165hz-game-screens/"><u>High-Pace 165Hz Game Screens</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-unleash-the-full-potential-of-youtube-videos-with-srt-download-tutorial/"><u>In 2024, Unleash the Full Potential of YouTube Videos With SRT Download Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/key-hardware-diagnostic-tools/"><u>Key Hardware Diagnostic Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-resetting-windows-pins/"><u>Mastering the Art of Resetting Windows PINs</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-email-app-chaos-solving-the-mystery-of-zero-x-eight-oh-three-one-f/"><u>Navigating Through Email App Chaos: Solving the Mystery of Zero X Eight Oh Three One F</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-engaging-windows-repair-feature/"><u>Quick Fixes: Engaging Windows' Repair Feature</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-12-udemy-substitutes-high-quality-online-learning-platforms/"><u>Top 12 Udemy Substitutes: High-Quality Online Learning Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-access-denied-on-windows-devices/"><u>Troubleshooting 'Access Denied' On Windows Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vintage-voices-top-websites-for-classical-ringtone-acquisition/"><u>Vintage Voices Top Websites for Classical Ringtone Acquisition</u></a></li>
 </ul></div>
 

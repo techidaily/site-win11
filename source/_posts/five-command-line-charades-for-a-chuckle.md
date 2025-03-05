@@ -1,7 +1,7 @@
 ---
 title: Five Command Line Charades for a Chuckle
-date: 2025-02-14T22:55:47.528Z
-updated: 2025-02-15T18:17:47.377Z
+date: 2025-03-03T19:00:43.179Z
+updated: 2025-03-04T22:55:45.629Z
 tags:
   - windows10
   - windows11
@@ -23,17 +23,9 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Customize Your Look
 
 ![screenshot of a customized command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_customized_cmd.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You may know this one already, as it can be a great tool to play around with for accessibility purposes. Command Prompt can be fully customized, from background and text color, font, opacity, and more.
 
@@ -44,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 **Font**, **Layout** and **Colors** have more immediate options, such as changing text size and colors. Head into **Terminal** to alter some elements of the text cursor.
 
  You can make some pretty ridiculous Command Prompts this way, or further refine the window to your exact needs. The features are so extensive that it might be worth brushing up on [customizing the command prompt](https://www.makeuseof.com/windows-customize-command-prompt/) if it's something that interests you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Watch Star Wars on Command Prompt
 
@@ -90,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
  It's relatively useless outside organizing multiple Command Prompts, but it's a fun detail to keep in mind.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Trace Where Your Data Goes
 
  This one is as fun as it is interesting, and it has legitimate uses in networking and troubleshooting.
@@ -116,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
  Is there much purpose to this command? If you're working with batch files, maybe, but the average user might just prefer to shut down their computer the usual way. This command might not have much practical use, but it's a fun trick all the same.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fun With Command Prompt
 
  Despite being one of the most plain-looking interfaces imaginable, a user can still very easily have some fun with the Command Prompt. The items listed here don't even scratch the surface of the hacks and tricks you can pull off with Command Prompt.
@@ -136,21 +116,18 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-soulful-selection-candid-songs-that-perfectly-match-your-yes/"><u>[New] Soulful Selection Candid Songs that Perfectly Match Your 'Yes'</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-capture-creativity-iosandroids-best-caption-apps/"><u>[Updated] Capture Creativity IOS/Android’s Best Caption Apps</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-complete-rundown-on-dji-inspire-2/"><u>[Updated] In 2024, The Complete Rundown on DJI Inspire 2</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-ultimate-guide-to-choosing-best-free-srt-translators-online/"><u>[Updated] The Ultimate Guide to Choosing Best FREE SRT Translators Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-aspers-best-practices-secrets-to-deep-restful-sleep/"><u>2024 Approved Asper's Best Practices Secrets to Deep, Restful Sleep</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/beyond-increased-capabilities-a-thoughtful-look-at-the-sony-playstation-5/"><u>Beyond Increased Capabilities: A Thoughtful Look at the Sony PlayStation 5</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-list-of-narrator-commands-and-keys/"><u>Comprehensive List of Narrator Commands and Keys</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/effortless-avi-to-gif-migration-with-filmora-on-windows-and-macos-devices/"><u>Effortless AVI to GIF Migration with Filmora on Windows & macOS Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-wsl-a-complete-removal-manual/"><u>Eliminating WSL: A Complete Removal Manual</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-with-apple-studio-display-unveiled-luxurious-27-inch-5k-screen-tailored-for-mac-users-a-costly-yet-captivating-choice/"><u>Experience with Apple Studio Display Unveiled: Luxurious 27 Inch 5K Screen Tailored for Mac Users – A Costly Yet Captivating Choice!</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-resolve-playback-error-in-media-player/"><u>How to Resolve Playback Error in Media Player</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/iphotovidsyncer-seamless-imageplusvideo-playback-for-2024/"><u>IPhotoVidSyncer Seamless Image+Video Playback for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/lifetime-dormancy-protocols-for-ms-security-software/"><u>Lifetime Dormancy Protocols for MS Security Software</u></a></li>
-<li><a href="https://win11.techidaily.com/pointer-customization-a-complete-look-at-windows-11-controls/"><u>Pointer Customization: A Complete Look at Windows 11 Controls</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-on-how-to-fix-error-code-0x80071a90/"><u>Quick Guide on How To Fix Error Code: 0X80071A90</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-maintain-static-windows-11-screens/"><u>Strategies to Maintain Static Windows 11 Screens</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-synthesize-vision-constructing-dynamic-photographic-ensembles/"><u>[New] In 2024, Synthesize Vision Constructing Dynamic Photographic Ensembles</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-art-of-simulating-quantum-leaps-in-film/"><u>[Updated] 2024 Approved The Art of Simulating Quantum Leaps in Film</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-essential-zoom-strategies-for-chromeos-for-2024/"><u>[Updated] Essential Zoom Strategies for ChromeOS for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-samsung-galaxy-m14-4g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Samsung Galaxy M14 4G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/crafted-for-quality-converting-ipv-files-from-instagram-to-mp4/"><u>Crafted for Quality Converting IPV Files From Instagram to MP4</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-elevating-visual-engagement-transferring-twitter-videos-on-snapchat/"><u>In 2024, Elevating Visual Engagement Transferring Twitter Videos on Snapchat</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-poco-m6-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Poco M6 5Gwith/without a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/insiders-guide-top-considerations-in-choosing-a-laptop-windows-style/"><u>Insider's Guide: Top Considerations in Choosing a Laptop Windows Style</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-surface-firmware-updates-a-step-by-step-guide/"><u>Mastering Surface Firmware Updates: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/peeking-behind-the-curtain-of-os-maintenance/"><u>Peeking Behind the Curtain of OS Maintenance</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-tools-for-properties-6-methods-unveiled/"><u>Pro Tools for Properties: 6 Methods Unveiled</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-xiaomi-redmi-note-12t-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Xiaomi Redmi Note 12T Pro Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-wi-fi-error-mysteries-focusing-on-essential-actions/"><u>Unraveling Wi-Fi Error Mysteries: Focusing on Essential Actions</u></a></li>
 </ul></div>
 

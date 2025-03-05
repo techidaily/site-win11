@@ -1,7 +1,7 @@
 ---
 title: How to Fix the MMC Could Not Create the Snap-In Error in Windows
-date: 2025-02-09T21:42:47.973Z
-updated: 2025-02-16T00:09:11.889Z
+date: 2025-02-28T17:58:46.632Z
+updated: 2025-03-04T19:11:03.785Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
 ![delete-registry-key-mmc-snap-in-windows-registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-registry-key-mmc-snap-in-windows-registry.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the registry configuration for the affected snap-in is broken, it may trigger the "MMC could not create the snap-in" error. To fix the issue, you’ll need to delete the corrupt registry entry associated with the snap-in. Here’s how to do it.
 
  Making incorrect modifications to the Windows Registry involves risk and may cause your system to malfunction. We recommend you [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) and [make a registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) to be on the safe side.
@@ -49,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 3. Click **Yes** to confirm the action.
 4. Close the **Registry Editor** and restart your computer.
 5. After the restart, open the administrative tool snap-in to see if the error is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enable .NET Framework
 
@@ -74,19 +66,11 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan-health-restore-health-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have one or more corrupt system files, it may cause issues with the system apps. You can run the System File Checker tool to determine if the problem is due to system file issues. It will scan and check the integrity of systems files and automatically repair them to fix the problem.
 
  Microsoft recommends running its built-in Windows image check and repair utility, Deployment Image Servicing and Management (DISM), before running the System File Checker utility.
 
  If you're not sure how to run either of these tools, we cover both in our guide on [how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Remove and Reinstall the Microsoft Visual C++ Redistributable
 
@@ -106,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
  If the issue persists, reinstalling the Visual C++ Redistributable package may be required. To reinstall the package:
 
 ![uninstall microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/uninstall-microsoft-visual-c-plus-plus-distributable-package.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Select the **Microsoft Visual C++ package** in Control Panel and click on **Uninstall**.
 2. Click **Uninstall** in the **Modify Setup** dialog.
@@ -137,22 +117,14 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/nlocking-wealth-with-youtube-shorts-ventures/"><u>[New] Unlocking Wealth with YouTube Shorts Ventures</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ion-air-pro-3-review-unleashing-videography-potential/"><u>[Updated] 2024 Approved ION Air Pro 3 Review Unleashing Videography Potential</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-save-music-files-from-fb-for-2024/"><u>[Updated] Save Music Files From Fb for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-durability-meets-photography-with-nikon-w100/"><u>Affordable Durability Meets Photography with Nikon W100</u></a></li>
-<li><a href="https://win11.techidaily.com/cool-down-guide-to-your-windows-system/"><u>Cool Down Guide to Your Windows System</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-of-amd-ryzen-amoled-2400g-gpu-software/"><u>Easy Installation of AMD Ryzen Amoled 2400G GPU Software</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/from-youtube-watch-parties-to-home-auditory-archives/"><u>From YouTube Watch Parties to Home Auditory Archives</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-address-and-solve-the-windows-11-not-installed-error-code-80240020-issue/"><u>How to Correctly Address and Solve the 'Windows 11 Not Installed - Error Code 80240020' Issue</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722902235715-how-to-get-rid-of-pin-based-login-from-windows-11-detailed-steps-inside/"><u>How to Get Rid of Pin-Based Login From Windows 11 - Detailed Steps Inside!</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-high-dpi-display-scaling-issues-in-windows/"><u>Overcoming High DPI Display Scaling Issues in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-stalled-utorrent-transfers-a-guide-for-windows-devices/"><u>Remedying Stalled uTorrent Transfers: A Guide for Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-11-update-error-code-0x80246007/"><u>Resolving Windows 11 Update Error Code: 0X80246007</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-overloaded-chatgpt-on-pc/"><u>Solving Overloaded ChatGPT On PC</u></a></li>
-<li><a href="https://win11.techidaily.com/tactics-to-unlock-windows-non-openable-folders-with-a-click-twice/"><u>Tactics to Unlock Windows' Non-Openable Folders with a Click Twice</u></a></li>
-<li><a href="https://win11.techidaily.com/top-tricks-to-reinstate-firewall-in-windows-os/"><u>Top Tricks to Reinstate Firewall in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-steps-for-server-stumbled-on-windows-store-app/"><u>Troubleshooting Steps for Server Stumbled on Windows Store App</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/unveiling-the-power-of-srt-in-broadcasting-for-2024/"><u>Unveiling the Power of SRT in Broadcasting for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unveiling-the-role-of-authenticity-in-online-self-portraits/"><u>[Updated] Unveiling the Role of Authenticity in Online Self-Portraits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-modern-alternatives-matching-or-surpassing-gpts-mobile-feature-set/"><u>7 Modern Alternatives Matching or Surpassing GPT's Mobile Feature Set</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-dual-network-connectivity-in-windows-os/"><u>Optimizing Dual Network Connectivity in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-stuttering-displays-in-windows-devices/"><u>Resolving Stuttering Displays in Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-frozen-screensaver-options-on-pc-windows/"><u>Revitalizing Frozen Screensaver Options on PC Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-greyed-out-remove-pin-feature-on-windows-11-pcs/"><u>Reviving Greyed-Out 'Remove PIN' Feature on Windows 11 PCs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-downloading-and-installing-ricoh-printers-on-windows-pc/"><u>Step-by-Step Guide to Downloading and Installing Ricoh Printers on Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rejuvenate-non-responding-windows-download-folder/"><u>Steps to Rejuvenate Non-Responding Windows Download Folder</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002955049-titanfall-2-continuously-crashes-fix-it-fast-with-these-simple-solutions/"><u>Titanfall 2 Continuously Crashes? Fix It Fast with These Simple Solutions</u></a></li>
 </ul></div>
 

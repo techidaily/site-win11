@@ -1,7 +1,7 @@
 ---
 title: "Tackling DXGIErrorCode ZeroX887A0006: Device Hang Fixes"
-date: 2025-01-29T19:47:43.808Z
-updated: 2025-02-04T06:35:12.059Z
+date: 2025-03-03T04:09:53.052Z
+updated: 2025-03-04T23:44:46.325Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
 7. Then try playing your affected game to see if this potential solution makes a difference.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Select Debug Mode in the NVIDIA Control Panel
 
  Some players have fixed the 0x887A0006 error by selecting **Debug Mode** in the NVIDIA Control Panel. That option disables GPU (graphical processing unit) overclocking. If your PC has an NVIDIA graphics card, you can select the **Debug Mode** option as follows:
@@ -51,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 2. Click the **Help** menu.  
 ![The Debug Mode option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-debug-mode-option.jpg)
 3. Select **Debug Mode** on the menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Repair the Files for Any Affected Games
 
@@ -70,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 4. Select **Manage** to bring up some options.  
 ![The Manage option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-manage-option.jpg)
 5. Press the **Verify** button, and wait for the verification process to finish.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The Verify button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-verify-files-option-in-epic.jpg)
 
@@ -105,23 +93,11 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
  If your PC has an AMD graphics card, you’ll need to open the AMD Radeon Settings panel from the desktop’s context menu. Click the System tab in AMD Radeon Settings. Then click the **Switchable Graphics** tab, and select the **High Performance** GPU option for the affected game.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Roll Back the Most Recent Graphics Driver Update
 
  A few players have said they fixed error 0x887A0006 by rolling back graphics drivers. Applying such a resolution will restore the previous graphics driver installed on your PC. If the file for your previous graphics driver remains saved, you can select to roll back the driver via Device Manager. This article about [how to roll back a driver](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) includes instructions for applying this possible fix.
 
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/roll-back-driver-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Update Your GPU’s Driver
 
@@ -132,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
  Our guide for [updating your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) provides further details about the various methods.
 
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-nvidia-driver-download-page.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Disable DirectX 12 in Any Affected Games
 
@@ -153,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 ![The Additional Command Line Arguments checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-d3d11-command-line.jpg)
 6. Add **d3d11** in the text box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Switch to the High-Performance Power Plan
 
  Error 0x887A0006 will more likely arise with the Power saver or Balanced power setting selected. Those power settings reduce PC performance for the sake of saving energy. So, try selecting the high-performance setting to ensure optimal gaming performance as follows:
@@ -169,10 +137,6 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
 ![The Create a power plan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/high-performance-radio-button.jpg)
 5. Input a plan title in the name box and click **Next**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click **Create** to add the plan.
 7. Select the new high-performance plan in the Power Options Control Panel applet.
@@ -193,10 +157,6 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 3. Right-click GraphicsDrivers and select that key’s **New** \> **DWORD (32-bit) Value** options.  
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-dword-option.jpg)
 4. Type **TdrLevel** inside the DWORD’s text box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Double-click **TdrLevel** to view a **Value data** box for that DWORD.  
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-edit-dword-value-box.jpg)
@@ -228,21 +188,17 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-icy-acceleration-olympics-best-from-2022-short-tracks/"><u>[New] 2024 Approved Icy Acceleration Olympics' Best From 2022 Short Tracks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-a-comprehensive-guide-to-mastering-vivocuts-new-capabilities/"><u>[New] A Comprehensive Guide to Mastering VivoCut's New Capabilities</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-snapshotsculptor-ultimate-photo-mosaic-builder/"><u>[New] SnapshotSculptor Ultimate Photo Mosaic Builder</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-permanent-silence-of-the-quick-content-platform/"><u>[Updated] 2024 Approved Permanent Silence of the Quick Content Platform</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-7-superior-mac-video-applications/"><u>2024 Approved 7 Superior Mac Video Applications</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-advice-regaining-control-of-your-pcs-manager-in-windows-11/"><u>Expert Advice: Regaining Control of Your PC's Manager in Windows 11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-y27s-by-drfone-android/"><u>How to Bypass FRP on Vivo Y27s?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-samsung-galaxy-a23-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Samsung Galaxy A23 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/maintaining-desktop-consistency-with-win11/"><u>Maintaining Desktop Consistency with Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-through-windows-11s-zip-extraction-maze/"><u>Navigate Through Windows 11'S Zip Extraction Maze</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-access-tools-making-windows-actions-easier/"><u>Quick Access Tools: Making Windows Actions Easier</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-lsa-protection-errors-step-by-step/"><u>Solving LSA Protection Errors, Step by Step</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-cutting-edge-recording-sounds-in-the-mac-era-for-2024/"><u>The Cutting Edge Recording Sounds in the Mac Era for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/uncovering-the-magic-of-windows-11s-dynamic-color-spectrum/"><u>Uncovering the Magic of Windows 11'S Dynamic Color Spectrum</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-file-clarity-the-art-of-notating-explorers/"><u>Unraveling File Clarity: The Art of Notating Explorers</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-the-complexities-of-online-platform-dissatisfaction/"><u>Unveiling the Complexities of Online Platform Dissatisfaction</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-compreenasive-look-the-new-era-of-vr-cams-by-samsung-for-2024/"><u>[New] Compreenasive Look The New Era of VR Cams by Samsung for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-revitalize-your-content-3-advanced-methods-for-changing-tiktok-backdrops/"><u>[New] Revitalize Your Content 3 Advanced Methods for Changing TikTok Backdrops</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-discover-5-best-webcams-featuring-crystal-clear-mics/"><u>[Updated] In 2024, Discover 5 Best Webcams Featuring Crystal Clear Mics</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-essential-photo-tools-top-9-camgear-enhancers-for-filmmakers/"><u>2024 Approved Essential Photo Tools Top 9 CamGear Enhancers for Filmmakers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-whats-coming-in-apples-latest-wwdc-tease-a-deeper-dive-into-enhanced-intelligence-and-ios-18-features-zdnet/"><u>Explore What's Coming in Apple's Latest WWDC Tease: A Deeper Dive Into Enhanced Intelligence & iOS 18 Features | ZDNET</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-compact-your-content-explore-the-most-admirable-33-video-reducers/"><u>In 2024, Compact Your Content Explore the Most Admirable 33 Video Reducers</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-monochrome-troubles-with-store-app/"><u>Overcoming Monochrome Troubles with Store App</u></a></li>
+<li><a href="https://win11.techidaily.com/powerful-tactics-for-using-windows-explorer-not-ls/"><u>Powerful Tactics for Using Windows Explorer, Not LS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/review-of-the-tiny-titans-how-the-rugged-unihertz-atom-xl-packs-a-punch/"><u>Review of the Tiny Titans: How the Rugged Unihertz Atom XL Packs a Punch</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-address-app-support-issues-on-newer-windows/"><u>Techniques to Address App Support Issues on Newer Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unleash-your-audio-potential-pazeras-free-tool-review-for-2024/"><u>Unleash Your Audio Potential Pazera's Free Tool Review for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719350994094-winshift-stuck-heres-how-to-tackle-it/"><u>WinShift Stuck? Here's How to Tackle It</u></a></li>
 </ul></div>
 

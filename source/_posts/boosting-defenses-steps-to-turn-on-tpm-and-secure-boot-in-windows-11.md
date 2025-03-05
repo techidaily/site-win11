@@ -1,7 +1,7 @@
 ---
 title: "Boosting Defenses: Steps to Turn On TPM and Secure Boot in Windows 11"
-date: 2024-08-08T13:11:43.630Z
-updated: 2024-08-09T13:11:43.630Z
+date: 2025-02-25T17:44:06.703Z
+updated: 2025-03-05T03:51:24.182Z
 tags:
   - windows10
   - windows11
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
  First up is your physical hardware. If you're not using an AMD Ryzen 3000 series or Intel 7th Gen CPU or better, neither a clean Windows 11 installation nor the Windows 10 upgrade path will work. Second, if your computer doesn't support Secure Boot and TPM, you'll also fall at the initial hurdle. However, all is not lost because you can switch on Secure Boot and TPM from your BIOS/UEFI menu.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Are Secure Boot and TPM?
 
  The [Trusted Module Platform (TPM) is a hardware-level security solution](http://www.makeuseof.com/what-is-a-trusted-platform-module-tpm/) that protects your data from hacking and other data breaches. The TPM holds unique encryption keys stored in such a way that it is nearly impossible for a hacker to access. If someone breaches your computer and your data is encrypted, it will remain secure.
@@ -43,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
  Along with TPM 2.0, Microsoft also requires you to activate Secure Boot, a UEFI-level security setting that stops any unauthorized operating system from booting up. Secure Boot is effectively a gatekeeper, stopping malicious code from booting up before your system, and its primary goal is to protect against rootkits, bootkits, and other malicious code.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![windows bios secure boot warning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/windows-bios-secure-boot-warning.jpg)
 
  But it also has some side effects. For example, Secure Boot will stop you from dual-booting Linux distributions, which has led many [users to disable Secure Boot.](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/)
@@ -58,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
  Trusted Module Platform and Secure Boot are found in your UEFI settings. You'll have to enter system UEFI to enable them before attempting to upgrade to Windows 11\. Both settings are found in similar areas, but we'll break the steps down into three parts for ease of reading.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Enter Your BIOS/UEFI
 
  There are a couple of ways to enter your system BIOS/UEFI. The old tried and tested method of [tapping a keyboard key during bootup](https://www.makeuseof.com/tag/enter-bios-computer/) still works, but you might not get the chance if you have fast boot enabled. If the boot screens whizz past and you end up in Windows 10, there is another way you can access the BIOS:
@@ -87,31 +78,18 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
  Press **Windows key + R** to open the Run dialog, then input **tpm.msc** and press Enter. The TPM management console will load, indicating if TPM is enabled—and if so, which version you're using.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### How to Enable Secure Boot
 
  While you're deep in your system settings, take a moment to check if Secure Boot is enabled.
 
  Like the TPM options, where you find the Secure Boot option will differ depending on hardware, but it is generally located in the **Boot** tab. Find your **Boot** tab, scroll down to find the **Secure Boot** option, and ensure it's enabled.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![msi motherboard enable secure boot settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/msi-motherboard-enable-secure-boot-settings.jpg)
 
  Note that Secure Boot requires your drives to use GUID Partition Table (GPT) rather than the older master boot record (MBR). As the newer partition table, GPT comes with several enhancements over MBR. If Secure Boot doesn't enable, you may need to [convert your MBR drive to GPT](http://www.makeuseof.com/tag/convert-mbr-gpt-windows/).
 
  Alternatively, your computer or hardware may be too old to enable Secure Boot.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use Microsoft's PC Health Check App to Check If Your Hardware Is Compatible
 
  Microsoft recommends using its [PC Health Check App](https://www.microsoft.com/en-us/windows/windows-11?r=1), which you'll find at the bottom of the linked page, to check for hardware compatibility. Download and fire it up to check your system's compatibility with Windows 11\.
@@ -120,12 +98,29 @@ No advertising on the website.
 
  So there you have it. You've enabled two of the most important settings that will block your Windows 11 upgrade path. Once enabled, and presuming you're running compatible hardware, Microsoft will offer you the Windows 11 upgrade. To check if your Windows 11 upgrade is ready, head to **Settings > Update & Security > Windows Update**, where you'll find the big update button.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-dive-into-instagram-live-without-hesitation-for-2024/"><u>[New] Dive Into Instagram Live Without Hesitation for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-soundtrack-switch-up-effortlessly-moving-your-music-queue/"><u>[New] Soundtrack Switch-Up Effortlessly Moving Your Music Queue</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-understanding-the-importance-of-professional-images-as-thumbnails/"><u>[Updated] In 2024, Understanding the Importance of Professional Images as Thumbnails</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/approach-calculate-the-energy-for-full-and-half-voltage-scenarios-separately-then-sum-up/"><u>Approach: Calculate the Energy for Full and Half Voltage Scenarios Separately, Then Sum Up.</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/blueprints-for-success-top-10-insights-into-instagram-video-marketing/"><u>Blueprints for Success Top 10 Insights Into Instagram Video Marketing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/explore-this-costless-voice-changer-to-boost-valorant-skills/"><u>Explore This Costless Voice Changer to Boost Valorant Skills</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-file-playability-issue-in-windows-os/"><u>Fixing File Playability Issue in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/is-your-internet-slow-on-your-windows-laptop-but-not-on-your-phone-heres-how-to-fix-it/"><u>Is Your Internet Slow on Your Windows Laptop, But Not on Your Phone? Here's How to Fix It</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-more-graphics-ram-a-windows-11-technique/"><u>Leveraging More Graphics RAM: A Windows 11 Technique</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/live-streaming-pro-discover-the-best-features-of-manycam-your-ultimate-virtual-camera/"><u>Live Streaming Pro: Discover the Best Features of ManyCam - Your Ultimate Virtual Camera</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-control-of-windows-11s-safety-filters/"><u>Mastering the Control of Windows 11'S Safety Filters</u></a></li>
+<li><a href="https://win11.techidaily.com/reconciling-error-0xa00f425d-from-windows-devices-camera/"><u>Reconciling Error 0xA00F425D From Windows Device's Camera</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-0x8007045d-error-in-windows-11-a-step-by-step-guide/"><u>Resolving 0X8007045D Error in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-essential-framework-for-saving-instagram-vids-from-desktop-systems/"><u>The Essential Framework for Saving Instagram Vids From Desktop Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-your-reading-habits-with-our-2024-selection-of-the-best-ebook-apps-on-the-market/"><u>Transform Your Reading Habits with Our 2024 Selection of the Best eBook Apps on the Market</u></a></li>
+</ul></div>
 

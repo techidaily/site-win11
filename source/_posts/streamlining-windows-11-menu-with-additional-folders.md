@@ -1,7 +1,7 @@
 ---
 title: Streamlining Windows 11 Menu with Additional Folders
-date: 2025-02-14T01:09:05.241Z
-updated: 2025-02-15T20:25:17.779Z
+date: 2025-02-28T04:26:05.501Z
+updated: 2025-03-05T04:52:17.072Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add Folders to Windows 11’s Context Menu With MyFolders
 
  MyFolders is freeware software for Windows 11,10, 8,7, Vista, and XP that adds a new directory submenu to the context menu for the desktop and in File Explorer. You can configure that submenu by adding folder shortcuts to it for opening with Explorer or Command Prompt. Its submenu also includes some additional folder management options. This is how you can add folders to Windows 11’s context menu with MyFolders:
@@ -40,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 ![The Setup - MyFolders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/setup-myfolder-option.jpg)
 7. Select**Next** two more times, and then click MyFolders’**Install** option.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-install-option.jpg)
 8. Click the**Yes** ,**restart the computer now radio** button, and select**Finish** .
 
@@ -55,15 +47,7 @@ Once your PC has restarted:
 ![The Add button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-add-button.jpg)
 4. Choose a directory to add to the context menu and select the**OK** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click**Done** to exit the MyFolders window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Use MyFolders
 
@@ -132,14 +116,6 @@ Once your PC has restarted:
 
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Open Your Most Important Folders From the Windows 11 Context Menu
 
  MyFolders and Right Click Context Menu Adder make it quick and easy to add folders to the desktop and Explorer context menus without any manual registry tweaking. Adding folders to the context menu will save you from rummaging through File Explorer to get to them. Such right-click shortcuts can be invaluable for quickly accessing folders with long paths in Windows 11.
@@ -159,24 +135,24 @@ Once your PC has restarted:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-learn-the-insider-tricks-of-screening-instagram-stories/"><u>[New] 2024 Approved Learn the Insider Tricks of Screening Instagram Stories</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-revitalize-your-tiktok-videos-masterful-techniques-to-alter-backdrops/"><u>[Updated] Revitalize Your TikTok Videos Masterful Techniques to Alter Backdrops</u></a></li>
-<li><a href="https://win11.techidaily.com/dns-flush-strategies-for-windows-11-users/"><u>DNS Flush Strategies for Windows 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-dead-pixels-from-windows-steam/"><u>Eliminating Dead Pixels From Windows Steam</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-the-server-stumble-a-guide-to-fixing-ms-store-in-windows-11-and-11/"><u>Eliminating the Server Stumble: A Guide to Fixing MS Store in Windows 11 and 11</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/enhancing-your-creative-vision-iphones-new-camera-tools-for-2024/"><u>Enhancing Your Creative Vision IPhone's New Camera Tools for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-missing-sound-in-anthem-for-windows-11-users-a-step-by-step-guide/"><u>Fix Missing Sound in Anthem for Windows 11 Users: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/google-chrome-black-screen-error-step-by-step-solutions-for-a-clear-display/"><u>Google Chrome Black Screen Error - Step-by-Step Solutions for a Clear Display</u></a></li>
-<li><a href="https://win11.techidaily.com/guidelines-to-avoid-windows-will-expire-soon-error/"><u>Guidelines to Avoid 'Windows Will Expire Soon' Error</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-toggle-registry-tool-access-in-win11/"><u>How to Toggle Registry Tool Access in Win11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xr-drfone-by-drfone-ios/"><u>How to Unlock iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/ignite-innovation-top-picks-from-microsofts-store-2-infuse-your-living-space-with-a-touch-of-history-while-maintaining-modern-comfort-and-style-lets-embark-24/"><u>Ignite Innovation: Top Picks From Microsoft's Store, 2 Infuse Your Living Space with a Touch of History While Maintaining Modern Comfort and Style? Let's Embark on an Exciting Home Decor Journey Together</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-motorola-g54-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Motorola G54 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://win11.techidaily.com/masterful-management-of-network-safety-areas-in-windows/"><u>Masterful Management of Network Safety Areas in Windows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-gopro-studio-ultimate-video-edits-step-by-step-for-2024/"><u>Mastering GoPro Studio Ultimate Video Edits Step-by-Step for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-steam-and-windows-11-privilege-problems/"><u>Navigating Through Steam and Windows 11 Privilege Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-silent-gamepad-on-windows-platforms/"><u>Reviving Silent Gamepad on Windows Platforms</u></a></li>
-<li><a href="https://win-forum.techidaily.com/sources-daudio-libres-de-droits-et-gratuites-pour-illustrer-votre-contenu-visuel-en-ligne/"><u>Sources D’Audio Libres De Droits Et Gratuites Pour Illustrer Votre Contenu Visuel en Ligne</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-into-a-metaverse-virtuoso-essential-tools-list/"><u>[New] Transform Into a Metaverse Virtuoso - Essential Tools List</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726027753056-5/"><u>初学者にぬける！今期のベストゲーム配信用エディッター5本〜無料でリニューアル受注中</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-your-system-the-advantages-of-16gb-on-windows/"><u>Elevating Your System: The Advantages of 16GB on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-your-workflow-top-7-widgets-to-ignite-win-11-performance/"><u>Elevating Your Workflow: Top 7 Widgets to Ignite Win 11 Performance</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-address-memory-diagnostic-failures/"><u>How To Address Memory Diagnostic Failures</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your iPhone 6s Plus?</u></a></li>
+<li><a href="https://win11.techidaily.com/keep-your-windows-pc-always-open/"><u>Keep Your Windows PC Always Open</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-modern-design-with-microsoft-paints-fresh-features/"><u>Navigating Modern Design with Microsoft Paint's Fresh Features</u></a></li>
+<li><a href="https://techidaily.com/reno-10-5g-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Reno 10 5G support - Forgotten screen lock.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-1011s-dxgi-disconnection-issues/"><u>Resolving Windows 10/11'S DXGI Disconnection Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-inserting-music-in-your-ppt-masterpieces/"><u>Step-by-Step Inserting Music in Your PPT Masterpieces</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reactivate-and-optimize-windows-11-hotspot/"><u>Steps to Reactivate and Optimize Windows 11 Hotspot</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-regaining-control-over-router-webpage/"><u>Strategies for Regaining Control over Router Webpage</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-package-control-using-winget-in-the-windows-11-environment/"><u>Streamlined Package Control Using Winget in the Windows 11 Environment</u></a></li>
+<li><a href="https://fox-info.techidaily.com/turning-tiktok-hits-into-mobile-ringtones-with-ease-for-2024/"><u>Turning TikTok Hits Into Mobile Ringtones with Ease for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-router-web-interfaces-in-windows-os/"><u>Unlocking Router Web Interfaces in Windows OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wi-fi-woes-a-guide-to-fixing-connectivity-problems-with-your-vizio-set/"><u>Wi-Fi Woes? A Guide to Fixing Connectivity Problems with Your Vizio Set</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/avi-3gp-movavi/"><u>웹에서 무료 AVI 파일을 바인드하기 위해 자이오티를 구성하기 위한 3GP로의 전환 - MOVAVI</u></a></li>
 </ul></div>
 

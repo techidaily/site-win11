@@ -1,7 +1,7 @@
 ---
 title: "From Failure to Functionality: How to Fix Windows with 13 Steps"
-date: 2024-12-21T20:52:00.223Z
-updated: 2024-12-27T23:46:01.198Z
+date: 2025-03-01T02:14:47.854Z
+updated: 2025-03-04T20:07:28.590Z
 tags:
   - windows10
   - windows11
@@ -31,15 +31,7 @@ thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fd
 
 ![Create restore point manually](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-restore-point-manually-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To get started, type **Restore Point** into your search bar and click on the result titled **Create a restore point**. Click the button labelled **Create** and choose a name, then wait for the process to complete and see if an error message pops up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Check System Restore is Active on All Volumes
 
@@ -71,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fd
 
  As we’ve mentioned, System Restore will fail to create a new restore point if there’s no available storage space on your computer. However, you can [manually delete older restore points](https://www.makeuseof.com/ways-delete-system-restore-points-in-windows/) that you no longer need to free up some space for System Restore to work.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Confirm Essential Services are Running
 
  System Restore relies on a few different services to do its job; without them, it can't function. Fortunately, it's very easy to check whether or not they are active by typing **Services** into the search bar and opening the app.
@@ -89,19 +77,11 @@ thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fd
 
 ![Check System Restore services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-restore-services-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Run Check Disk via Command Prompt
 
  Check Disk is a system tool built into Windows that can verify the integrity of a file system, and fix logical errors. To access the utility, in the Start menu search bar, search for **command prompt** and select **Run as administrator**.
 
 ![Run SFC scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sfc-scan-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To run Check Disk, input the following command:
 
@@ -129,10 +109,6 @@ sfc /scannow
 
 ![Use selective startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/selective-startup-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can check and uncheck the **Load system services** and **Load startup items** boxes to customize how your computer behaves at startup. For more information on using Selective Startup to troubleshoot, refer to Microsoft's guide to the process.
 
 ## 10\. Consult the Event Viewer
@@ -143,10 +119,6 @@ sfc /scannow
 
  Scroll through the results to find anything with **Error** in the **Level** column. Click on an individual event to display its description, and see if that offers up any reason that it might be connected to System Restore. You can do a Google search for any related errors that you find to see what the best course of action is.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 11\. Check Your Timing
 
  As simple as it might sound, your System Restore strife might be caused by something as straightforward as your computer being asleep when it's scheduled to create a new image. Your PC won't be able to wake itself up to do the job, unless you have a handy tool called [Restore Point Creator](http://www.downloadcrew.com/article/31634-restore%5Fpoint%5Fcreator).
@@ -156,10 +128,6 @@ sfc /scannow
  Among a host of other advantages, Restore Point Creator offers users the opportunity to schedule the task for the future, and instruct their system to wake up at that specified time. This option is available by navigating to **System Restore Point Utilities** \> **Schedule creation of System Restore Points** and then checking the box labelled **Wake computer if the system is sleeping**.
 
  One point to remember is that Restore Point Creator uses Task Scheduler to implement this feature. As such, you'll have to check that your computer is compatible with the tool.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 12\. Employ a Third-Party Alternative
 
@@ -194,17 +162,18 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-melody-manual-grab-listen-and-scrutinize-songs/"><u>[New] Melody Manual Grab, Listen & Scrutinize Songs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cutting-edge-strategies-for-youtube-to-mpeg-transformation/"><u>Cutting-Edge Strategies for YouTube to MPEG Transformation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125183339-dive-into-the-world-of-gadgets-premium-guides-and-in-depth-analysis-by-toms-hardware-your-trusted-tech-authority/"><u>Dive Into the World of Gadgets - Premium Guides & In-Depth Analysis by Tom's Hardware | Your Trusted Tech Authority</u></a></li>
-<li><a href="https://video-capture.techidaily.com/easyvidwin11-the-simplest-way-to-record-your-pc-screen-for-2024/"><u>EasyVidWin11 The Simplest Way to Record Your PC Screen for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-windows-explorer-to-show-disk-space/"><u>Enhancing Windows Explorer to Show Disk Space</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/evaluating-the-reliability-of-gratis-windows-registry-cleaners-expert-advice-by-yl-software-team/"><u>Evaluating the Reliability of Gratis Windows Registry Cleaners – Expert Advice by YL Software Team</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/exploring-top-substitutes-to-webexs-arf-player-a-comprehensive-guide/"><u>Exploring Top Substitutes to WebEx's ARF Player: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-pin-almost-anything-to-the-windows-11-taskbar/"><u>How to Pin Almost Anything to the Windows 11 Taskbar</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-leading-the-edge-professional-cameras-that-rotate-full-circle-2023/"><u>In 2024, Leading the Edge Professional Cameras That Rotate Full Circle - 2023</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/navigating-new-skies-with-syma-x5c-an-experts-take-for-novices-for-2024/"><u>Navigating New Skies with Syma X5C – An Expert’s Take for Novices for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/relaunching-file-explorer-a-step-bystep-guide/"><u>Relaunching File Explorer: A Step-Bystep Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-win-error-31-in-network-connections/"><u>Troubleshooting WIN Error 31 in Network Connections</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-saving-a-look-at-your-window/"><u>[New] 2024 Approved Saving a Look at Your Window</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-premiere-illustrator-adjustments/"><u>[New] In 2024, Premiere Illustrator Adjustments</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-elite-aerial-assistants-tailored-for-gopro-cinematographers/"><u>[Updated] 2024 Approved Elite Aerial Assistants Tailored For GoPro Cinematographers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-how-to-convert-twitter-videos-to-gifs-for-2024/"><u>[Updated] How To Convert Twitter Videos To GIFS for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-and-easy-nft-generation-a-beginners-playbook/"><u>[Updated] Quick and Easy NFT Generation A Beginner's Playbook</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-rx-6700-xt-freshest-drivers-install-now-for-optimal-performance-on-windows-systems/"><u>AMD RX 6700 XT Freshest Drivers - Install Now for Optimal Performance on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/nix-the-need-for-speedy-pointers-on-windows-11/"><u>Nix the Need for Speedy Pointers on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212279696-quick-fixes-for-your-non-functioning-mac-webcam-simple-solutions/"><u>Quick Fixes for Your Non-Functioning Mac Webcam – Simple Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-eliminate-windows-1011-camera-app-error-a00f429f/"><u>Steps to Eliminate Windows 10/11 Camera App Error A00F429F</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-and-personalize-windows-11-files-via-added-movecopy/"><u>Streamline and Personalize Windows 11 Files via Added 'Move'/'Copy'</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-workflow-coloring-without-conflict-on-windows/"><u>Streamlining Your Workflow: Coloring Without Conflict on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tactics-to-overcome-windows-lunar-client-launch-problem/"><u>Tactics to Overcome Windows Lunar Client Launch Problem</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-guide-spotting-active-tcp-connections/"><u>Windows Guide: Spotting Active TCP Connections</u></a></li>
 </ul></div>
 

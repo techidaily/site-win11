@@ -1,7 +1,7 @@
 ---
 title: "Harness the Power of Windows 11 Photo App: Crafting Impeccable Slideshows & Fixes"
-date: 2025-02-11T20:23:14.960Z
-updated: 2025-02-15T18:45:10.974Z
+date: 2025-02-28T19:44:08.944Z
+updated: 2025-03-04T17:48:06.385Z
 tags:
   - windows10
   - windows11
@@ -49,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
 ![Start Slideshow in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/start-slideshow-in-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The slideshow will continue playing in the background even if you click on the music icon. You can press the **Spacebar** or click on the **Pause** icon to stop it.
 
  By default, the app will apply transitions, music, animation, and a loop to the slideshow. To adjust any of these features, **hover** on the slideshow and click on the **Music** icon. Now, you can enable or disable any of the four **toggles** to add or remove the effect from the slideshow.
@@ -66,14 +62,6 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
  If you want to resize the slideshow window, click on the **resize** icon. Now, snap the window to the left or right side. To close the slideshow click on the **Exit Slideshow** button in the top-left corner.
 
 ![Slideshow running in windowed mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-running-in-windowed-mode.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is the Spot Fix Feature?
 
@@ -95,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
  Another gripe with the Spot Fix feature is that you cannot select an area in an image. You are left with the maximum size of the tool only. The circular size of the tool makes it difficult to tackle the corners of the object you want to remove from the image.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Other Improvements in the Photos App
 
  The app reintroduces the Timeline Scrollbar using which you can quickly view photos added in a particular month or year. Microsoft also added the [timeline scrollbar in the Gallery section of the File Explorer](https://www.makeuseof.com/enable-gallery-file-explorer-windows-11/) which is also in the experimental stage.
@@ -108,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 ![Auto enhance in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/auto-enhance-in-photos-app.jpg)
 
  If you want to select consecutive photos, hold the **Shift** key and click on images. It is a faster way to select multiple images without having to click on each one of them. For non-consecutive photo selection, you can use the **Ctrl** key.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A Much-Needed Overhaul for Photos on Windows 11
 
@@ -129,22 +109,15 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-ensuring-your-shorts-videos-thumbnail-shows-up/"><u>[New] 2024 Approved Ensuring Your Shorts Video's Thumbnail Shows Up</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-image-clarity-reignited-exclusive-guide-to-top-10-photo-tools-for-2024/"><u>[Updated] Image Clarity Reignited Exclusive Guide to Top 10 Photo Tools for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209994133-9780786451388-an-introduction-to-parapsychology-5th-ed/"><u>An Introduction to Parapsychology, 5th ed. | Free Book</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/empower-yourself-learning-the-ins-and-outs-of-io-screen-recorder/"><u>Empower Yourself Learning the Ins and Outs of IO Screen Recorder</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-screen-going-black-while-gaming-on-windows/"><u>How to Fix the Screen Going Black While Gaming on Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-tecno-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Tecno Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Nokia G42 5G? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-apple-iphone-12-mini-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and Apple iPhone 12 mini iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/leverage-the-power-of-cookiebot-in-your-online-marketing-efforts/"><u>Leverage the Power of Cookiebot in Your Online Marketing Efforts</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-parseerror-0xc00ce556-in-winoss/"><u>Overcoming ParseError: 0XC00CE556 in WinOSs</u></a></li>
-<li><a href="https://win11.techidaily.com/preventive-tips-for-keeping-epic-games-launcher-active/"><u>Preventive Tips for Keeping Epic Games Launcher Active</u></a></li>
-<li><a href="https://win11.techidaily.com/resolve-error-2e-to-propel-windows-update/"><u>Resolve Error 2E to Propel Windows Update</u></a></li>
-<li><a href="https://win11.techidaily.com/revitalizing-team-interaction-with-efficiency/"><u>Revitalizing Team Interaction with Efficiency</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-operations-with-crucial-cmd-command-knowledge/"><u>Streamline Operations with Crucial CMD Command Knowledge</u></a></li>
-<li><a href="https://win11.techidaily.com/unseen-toolbar-actions-the-sly-way-in-win-10/"><u>Unseen Toolbar Actions: The Sly Way in Win 10</u></a></li>
-<li><a href="https://win11.techidaily.com/zero-dollars-down-for-podcast-improvement-tools/"><u>Zero Dollars Down for Podcast Improvement Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-speeding-up-spotify-tracks-safe-techniques-and-strategies/"><u>2024 Approved Speeding Up Spotify Tracks Safe Techniques and Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-step-by-step-for-adding-a-link-in-your-tiktok-bios/"><u>2024 Approved The Ultimate Step-by-Step for Adding a Link in Your TikTok Bios</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fax-cover-page-customization-in-windows-11/"><u>Mastering Fax Cover Page Customization in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/neaten-up-windows-11-with-straight-corners/"><u>Neaten Up Windows 11 with Straight Corners</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-error-0x80780119-system-image-issue/"><u>Overcoming Windows Error: 0X80780119 System Image Issue</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quality-friendly-mp4-rotation-guide-how-to-tilt-your-videos-by-90180270-without-compromising-clarity/"><u>Quality-Friendly MP4 Rotation Guide: How to Tilt Your Videos by 90/180/270 Without Compromising Clarity</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-windows-mouse-quick-fixes-explored/"><u>Reviving Your Windows Mouse - Quick Fixes Explored</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y77t-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y77t Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-buyers-guide-choosing-the-right-external-usb-dvd-drive-for-your-mac-in-202-instruction-same-difficultyformatlength/"><u>Ultimate Buyer's Guide: Choosing the Right External USB DVD Drive for Your Mac in 202# Instruction (Same Difficulty/Format/Length)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-mastering-silence-enhancing-audio-focus-in-adobe-premiere-pro-projects/"><u>Updated In 2024, Mastering Silence Enhancing Audio Focus in Adobe Premiere Pro Projects</u></a></li>
 </ul></div>
 

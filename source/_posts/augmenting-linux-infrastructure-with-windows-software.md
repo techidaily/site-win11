@@ -1,7 +1,7 @@
 ---
 title: Augmenting Linux Infrastructure with Windows Software
-date: 2024-08-08T13:13:21.234Z
-updated: 2024-08-09T13:13:21.234Z
+date: 2025-02-25T18:44:06.660Z
+updated: 2025-03-05T00:21:23.859Z
 tags:
   - windows10
   - windows11
@@ -20,14 +20,8 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
  Thankfully, much like Linux, Windows leaves power in the hands of the user. Let's have a look at a handful of different features you can pull over from Linux into your own Windows system.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Getting Linux Features on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![screenshot of numerous programs with linux features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_numerous_programs_with_linux_features.jpg)
 
  Linux offers many useful tools for power users, but at the end of the day, many of its functions are simple ones that Windows either obscures or didn't think to add.
@@ -62,14 +56,8 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
 **Download:**[X-Mouse Controls](https://joelpurra.com/projects/X-Mouse%5FControls/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Batch File for More Efficient Command Prompt Management
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![screenshot of the cd command in cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_cd_command_in_cmd.jpg)
 
  This one is a bit obscure, but anyone who has used Linux distros in the past will know how useful this can be.
@@ -86,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
  Now you can use whatever you named the batch file as a command to jump to your home directory. This can be a huge time saver if you're coming over from Linux!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 4\. Strip Down Unnecessary Bloat With Winaero Tweaker
 
 ![screenshot of the winaero tweaker main screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_winaero_tweaker_main_screen.jpg)
@@ -103,23 +88,17 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
 **Download:**[Winaero Tweaker](https://winaero.com/winaero-tweaker/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Windows and Linux Are as Similar as They Are Different
 
  There are not many Linux-exclusive features that you can simply port over to Windows. Enjoying Windows as you would a Linux system has a lot to do with crafting the perfect user experience, which thankfully, Windows allows you to do.
 
  You won't be achieving the same feats as a Linux power user on your Windows machine, but you might be able to feel a little more at home if you were previously a Linux user.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,6 +107,22 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-enhance-creativity-top-ai-tools-to-generate-podcast-names/"><u>[New] In 2024, Enhance Creativity Top AI Tools to Generate Podcast Names</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-audio-improvement-for-effective-online-communication/"><u>[Updated] 2024 Approved Audio Improvement for Effective Online Communication</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-spark-conversation-crafting-questions-for-ig-story-boost/"><u>[Updated] Spark Conversation Crafting Questions for IG Story Boost</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-premier-drawing-tools-for-win-11/"><u>Discover the Premier Drawing Tools for Win 11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/echo-your-thoughts-cost-included-not-here/"><u>Echo Your Thoughts, Cost Included? Not Here</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-to-dodge-xbox-game-pass-fatal-error-code-0/"><u>Expert Tips to Dodge Xbox Game Pass Fatal Error Code 0</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-a34-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy A34 5G Lock Screen Password</u></a></li>
+<li><a href="https://win11.techidaily.com/innovations-in-connectivity-the-ultimate-guide-to-w11-rdc/"><u>Innovations in Connectivity: The Ultimate Guide to W11 RDC</u></a></li>
+<li><a href="https://win11.techidaily.com/lower-heat-output-in-overheating-w11-computers/"><u>Lower Heat Output in Overheating W11 Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-high-res-display-scale-glitches-in-windows/"><u>Overcoming High-Res Display Scale Glitches in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-windows-13-strategies-for-system-recovery/"><u>Reviving Windows: 13 Strategies for System Recovery</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316630-9781401945299-the-essential-law-of-attraction-collection/"><u>The Essential Law of Attraction Collection | Free Book</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-live-stream-scenery-ideas-2023/"><u>Top Live Stream Scenery Ideas 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-6-pros-that-make-win11-excel/"><u>Unveiling the 6 Pros That Make Win11 Excel</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Install and Set Up Windows 11 Without an Internet Connection
-date: 2025-02-14T18:21:24.085Z
-updated: 2025-02-15T21:48:08.508Z
+date: 2025-02-26T21:33:52.453Z
+updated: 2025-03-04T16:25:46.845Z
 tags:
   - windows10
   - windows11
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![Windows-11-setup-screen-install-now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-screen-install-now.jpg)
 4. Click **Install Now.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows 11 setup i dont have product key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-i-dont-have-product-key.jpg)
 5. Enter your product key. If you don't have a product key, click the **I don't have a product key** link in the bottom right corner. If you are upgrading from Windows 10 and had Windows 11 previously installed, the operating system will automatically recognize and validate the Windows product key linked to your computer hardware.
 
@@ -81,15 +77,7 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![Windows 11 setup select installation continue with limited setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-continue-with-limited-setup.jpg)
 6. Accept the **License Agreement** and proceed to create your local user account.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Make sure to add security questions. This will help you recover your local user account in case you forget your password. Once done, follow the on-screen instructions to complete the setup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. End Network Connection Flow Process Using Task Manager
 
@@ -104,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![open task manager command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/open-task-manager-command-prompt.png)
 3. Alternatively, use the **Ctrl + Shift + Esc** shortcut to launch Task Manager without Command Prompt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click **More Details** to open Task Manager in full view.
 5. In the **Processes** tab, locate **Network Connection Flow.** Use the search bar in Task Manager to find the Network Connection Flow process.  
 ![Windows 11 setup select installation task manager kill network connection flow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-task-manager-kill-network-connection-flow.jpg)
@@ -121,20 +105,12 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![end network connection flow command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/end-network-connection-flow-command-prompt.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you are unable to end the Network Connect Flow through Task Manager, you can directly kill it using the Command Prompt. Here’s how to do it.
 
 1. At the Let’s connect you to a network screen, press **Shift + F10** to launch Command Prompt.
 2. In the Command prompt window, type the following command and hit enter to execute:  
 `taskkill /F /IM oobenetworkconnectionflow.exe`
 3. Once executed, close the Command Prompt window to continue with the setup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Skip Let’s Connect You to a Network Page with Alt + F4
 
@@ -162,24 +138,17 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-expert-evaluation-best-action-capture-systems/"><u>[Updated] Expert Evaluation Best Action Capture Systems</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/100-killer-facebook-bios-to-make-profile-attractive2/"><u>100 Killer Facebook Bios to Make Profile Attractive2</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-blueprint-for-viral-video-mastery/"><u>2024 Approved The Blueprint for Viral Video Mastery</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-measures-to-resolve-windows-service-not-responding-errors/"><u>Effective Measures to Resolve Windows' 'Service Not Responding' Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-multilingual-translation-with-windows-shortcut-hotkeys/"><u>Efficient Multilingual Translation with Windows Shortcut Hotkeys</u></a></li>
-<li><a href="https://common-error.techidaily.com/efficient-strategies-to-fix-delayed-start-up-response-addressing-error-1053/"><u>Efficient Strategies to Fix Delayed Start-Up Response - Addressing Error 1053</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-user-experience-in-win11-with-customized-cmd-shortcuts/"><u>Enhance User Experience in Win11 with Customized Cmd Shortcuts</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-effortless-device-cooperation-between-android-and-pc/"><u>Exploring Effortless Device Cooperation Between Android and PC</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/er-free-video-conversion-the-best-alternatives-for-youtube-upload-for-2024/"><u>Flutter Free Video Conversion The Best Alternatives for YouTube Upload for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/get-started-fast-one-click-android-apk-installation-guide-on-w11/"><u>Get Started Fast: One Click Android APK Installation Guide on W11</u></a></li>
-<li><a href="https://win11.techidaily.com/gratis-gems-a-compreeled-list-for-superior-windows-11-use/"><u>Gratis Gems: A Compreeled List for Superior Windows 11 Use</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-effortlessly-gain-premium-quality-pictures-online-for-2024/"><u>How to Effortlessly Gain Premium Quality Pictures Online for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-chrome-opening-new-tabs-by-itself-on-windows/"><u>How to Fix Chrome Opening New Tabs by Itself on Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-k70-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Xiaomi Redmi K70 Pro PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-your-images-in-canva-without-clutter/"><u>In 2024, Streamline Your Images in Canva Without Clutter</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-file-download-problems-on-windows-11-and-11-pcs-2/"><u>Solving File Download Problems on Windows 11 & 11 PCs (2)</u></a></li>
-<li><a href="https://win11.techidaily.com/tech-tapestry-woven-together-windows-for-iosipados-pc-unveiled/"><u>Tech Tapestry Woven Together: Windows for iOS/iPadOS, PC Unveiled</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-secret-screensnappers-guide-discreet-techniques-for-photo-taking-for-2024/"><u>[New] Secret ScreenSnapper's Guide Discreet Techniques for Photo-Taking for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-realme-12-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme 12 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-streamline-vlogging-titles-top-11-affordable-generators/"><u>In 2024, Streamline Vlogging Titles - Top 11 Affordable Generators</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-how-to-use-updated-window-for-choosing-widgets-in-win11/"><u>Learn How to Use Updated Window for Choosing Widgets in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-errors-in-windows-media-maker-0x8007043c-0x90017/"><u>Navigating Errors in Windows' Media Maker: 0X8007043C, 0X90017</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-policies-that-prevent-admin-level-software-installs/"><u>Navigating Policies that Prevent Admin-Level Software Installs</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-flv-editor-for-windows-8-a-comprehensive-video-editing-toolkit/"><u>New In 2024, FLV Editor for Windows 8 A Comprehensive Video Editing Toolkit</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-enabling-automatic-restarts-for-windows-audio/"><u>Quick Fix: Enabling Automatic Restarts for Windows Audio</u></a></li>
+<li><a href="https://win11.techidaily.com/recommendations-when-windows-stops-finding-powershell/"><u>Recommendations When Windows Stops Finding PowerShell</u></a></li>
+<li><a href="https://driver-error.techidaily.com/samsung-system-files-windows-download/"><u>Samsung System Files - Windows Download</u></a></li>
+<li><a href="https://extra-information.techidaily.com/spark-creativity-get-to-know-windows-11s-movie-maker-app/"><u>Spark Creativity Get to Know Windows 11'S Movie Maker App</u></a></li>
 </ul></div>
 

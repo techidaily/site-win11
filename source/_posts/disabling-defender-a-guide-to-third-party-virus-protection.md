@@ -1,7 +1,7 @@
 ---
 title: "Disabling Defender: A Guide to Third-Party Virus Protection"
-date: 2025-02-14T20:10:47.979Z
-updated: 2025-02-15T18:25:13.417Z
+date: 2025-02-26T01:44:37.519Z
+updated: 2025-03-04T22:40:45.686Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
  This may result in conflicts and compromise the overall protection of your system. If you encounter such an issue, here is what to do.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Disable Tamper Protection
 
  The first step to resolve this issue is to disable Tamper Protection in Microsoft Defender. This feature prevents malicious programs from changing security settings without your consent. To disable it, follow the below steps:
@@ -49,17 +45,9 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
  After disabling Tamper Protection, see if your third-party antivirus works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Turn Off Microsoft Defender
 
  As mentioned earlier, two active security solutions on your system may conflict. In this case, you can [turn off Microsoft Defender](http://www.makeuseof.com/permanently-disable-microsoft-defender-windows-11/) temporarily and use your third-party antivirus software. Doing this will turn off all Microsoft Defender features, including real-time protection, cloud-delivered protection, and automatic sample submission. However, you can turn it back on when needed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Add an Exclusion for the File to Windows Defender
 
@@ -79,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 ![Add or remove exclusions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-or-remove-exclusions.jpg)
 6. If the UAC prompts you for permission, click **Yes**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Click on the **Add an exclusion** button and select **Folder**. In File Explorer, navigate to the folder where your third-party antivirus is installed.  
 ![Add an exclusion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-an-exclusion.jpg)
 8. Select the file and click on **Select Folder**. You'll see the folder added under the Exclusions section.
@@ -98,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
  To reinstall, uninstall the app using one of the [many ways to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). After uninstalling, restart your computer.
 
  Next, navigate to the official website and download the latest version. Once installed, restart your computer again. This should resolve any conflicts between Microsoft Defender and the third-party antivirus software.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix Microsoft Defender Blocking Your Third-Party Antivirus
 
@@ -119,19 +99,22 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-leading-apps-top-10-choices-for-seamless-vimeo-file-extraction-for-2024/"><u>[Updated] Leading Apps Top 10 Choices for Seamless Vimeo File Extraction for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-optimal-storage-savings-for-the-digital-age/"><u>[Updated] Optimal Storage Savings for the Digital Age</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-streamline-your-workflow-learn-to-record-macs-screen-with-shortcuts-for-2024/"><u>[Updated] Streamline Your Workflow Learn to Record Mac's Screen with Shortcuts for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-pro-techniques-for-iphone-nature-photography-at-a-new-level/"><u>2024 Approved Pro Techniques for iPhone Nature Photography at a New Level</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-soniccapture-pro-review-and-download-steps/"><u>2024 Approved SonicCapture Pro Review & Download Steps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-the-pursuit-of-ultra-clarity-the-4k-z32x-reviewed/"><u>In 2024, The Pursuit of Ultra Clarity The 4K Z32X Reviewed</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/is-it-time-to-upgrade-your-ram-after-sustaining-damage-expert-advice-from-yl-computing/"><u>Is It Time to Upgrade Your RAM After Sustaining Damage? - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-memory-problems-head-on/"><u>Overcoming Windows Memory Problems Head-On</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-effective-ways-to-resolve-windows-errors/"><u>Quick, Effective Ways to Resolve Windows Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-invalid-reparse-point-buffers-onedrive-error-guide/"><u>Resolving Invalid Reparse Point Buffers: OneDrive Error Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-fix-silenced-xbox-mic-on-windows-devices/"><u>Techniques to Fix Silenced Xbox Mic on Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-the-vds-crash-that-impacts-disk-management/"><u>Troubleshooting the VDS Crash that Impacts Disk Management</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unraveling-popularity-myths-the-real-truth-about-instagram-reels/"><u>Unraveling Popularity Myths The Real Truth About Instagram Reels</u></a></li>
-<li><a href="https://win11.techidaily.com/what-is-the-windows-defender-error-0x80004004-and-how-do-you-fix-it/"><u>What Is the Windows Defender Error 0X80004004 and How Do You Fix It?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-android-video-editor-app-roundup/"><u>[New] The Ultimate Android Video Editor App Roundup</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pixel-perfect-converter-max-resolution/"><u>2024 Approved Pixel Perfect Converter Max Resolution</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/amplify-your-content-speedy-instagram-fame/"><u>Amplify Your Content Speedy Instagram Fame</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-google-pixel-8-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Google Pixel 8</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-optimal-icon-sizes-in-win-11/"><u>Ensuring Optimal Icon Sizes in Win 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-gpu-temp-for-gaming-finding-balance/"><u>Ideal GPU Temp for Gaming: Finding Balance</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-error-code-0x80070141-and-device-disconnection/"><u>Mastering Windows' Error Code 0X80070141 and Device Disconnection</u></a></li>
+<li><a href="https://win11.techidaily.com/reconfiguring-privileges-for-regular-windows-users/"><u>Reconfiguring Privileges for Regular Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagine-your-taskbar-a-guide-to-incorporating-a-favorite-weather-icon-in-windows-11/"><u>Reimagine Your Taskbar: A Guide to Incorporating a Favorite Weather Icon in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/running-on-windows-10-after-skipping-11-upgrade/"><u>Running On Windows 10 After Skipping 11 Upgrade</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-recovering-colorful-microsoft-store/"><u>Strategies for Recovering Colorful Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-winscan-failures-in-geforce-experience/"><u>Troubleshooting WinScan Failures in GeForce Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/tweaking-home-page-settings-in-windows-11-ui/"><u>Tweaking Home Page Settings in Windows 11 UI</u></a></li>
+<li><a href="https://common-error.techidaily.com/werfaultexe-woes-be-gone-6-effective-strategies-to-resolve-microsoft-error-codes/"><u>WerFault.exe Woes Be Gone: 6 Effective Strategies to Resolve Microsoft Error Codes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-ibms-affordable-linuxone-4-express-might-be-the-ideal-choice-for-your-it-needs-insights-from-zdnet/"><u>Why IBM's Affordable LinuxONE 4 Express Might Be the Ideal Choice for Your IT Needs - Insights From ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Clutter: Smart Note Management for Windows"
-date: 2024-08-08T13:12:40.712Z
-updated: 2024-08-09T13:12:40.712Z
+date: 2025-02-28T01:08:48.197Z
+updated: 2025-03-04T20:59:20.324Z
 tags:
   - windows10
   - windows11
@@ -35,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
 3. Click the**Settings** button on the app's window.  
 ![Stick a Note's Settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-a-note-s-settings-button.jpg)
 4. Select the**Shift** checkbox to change Stick A Note's hotkey to**Win** +**Shift** +**N** . This is necessary because Windows 11 already has a**Win** +**N** keyboard shortcut for notifications that matches this software's default hotkey.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![The Note Hotkey option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/note-hotkey-option.jpg)
 5. Click**OK** on the Settings – Stick A Note window.
 
@@ -50,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
 
  Now that note will remain stuck to the window until you delete it. If you close and reopen an app window, press the**Win** +**Shift** +**N** hotkey to view its note.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A sticky note added with Stick a Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-stick-a-note-note.jpg)
 
  Or you can set Stick A Note to automatically show notes after opening software windows. To do so, right-click the program's system tray icon and select**Settings** . Select the**Auto Show Note for the Active Program** checkbox, and click the**OK** option.
@@ -63,14 +57,8 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
 
  However, you can at least change the color and size of the notes. To do that, right-click the**Stick a Note** system tray icon and select**Settings** \>**Note Settings** ; choose an alternative option on the**Note Color** drop-down menu. Enter values up to**600** in the size boxes to resize the notes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![The Note Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/note-settings-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## How to Stick Sticky Notes to Software Windows With Notezilla
 
  Notezilla is a more comprehensive sticky note app for Windows 11/10/8/7\. You can stick notes to the desktop area and software windows with Notezilla. This software also packs text-formatting options for notes, among other more advanced features.
@@ -93,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
 1. Drag the sticky note onto the top area of the software's window.  
 ![A sticky note added with Notezilla](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-notezilla-sticky-note.jpg)
 2. Press**Alt** +**Space** to bring up the note's menu.  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Stick to window option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-to-window-option.jpg)
 3. Select the**Stick to window** option, which also has a**Ctrl** +**W** hotkey.
 4. Next, select the checkbox for the software to add the note to in the window that opens.  
@@ -108,18 +93,12 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
 
  Notezilla also enables you to stick notes to specific files open in software packages. Bring up a word processor, spreadsheet, or any other application with which you can open document files. Open a file within the application. Stick a note to the software's window, as outlined for steps eight to 14 above. Select the checkbox for the file in the window and click**OK** . Then you'll only see the note in the software's window when you bring up the file you stuck it on.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![A sticky note for a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-sticky-note-for-a-file.jpg)
 
  Or you can stick a note to a webpage instead. Open a page in a web browser. Then drag the note onto the webpage, and select the**Stick to window** option. Select the checkbox for the page tab in the browser.
 
  To check out Notezilla's formatting options, double-click inside the note to add some content. Then right-click in the text box ao bring up a formatting context menu. There you can select different fonts and adjust the text size and color. Move your cursor over the**Font style** drop-down menu to select**Bold** ,**Italic** ,**Underline** , and**Strikethrough** options. You can even add images to your notes by clicking**Add picture** .
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sticky-note-formatting-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sticky-note-formatting-options.jpg)
 
 ## Add Sticky Notes to Software in Windows 11 and Windows 10
@@ -132,8 +111,6 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,6 +118,26 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-practical-ways-to-archive-online-discussions-for-2024/"><u>[New] Practical Ways to Archive Online Discussions for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-high-quality-edge-max-360-vs-hero-11/"><u>2024 Approved Exploring the High-Quality Edge Max 360 vs Hero 11</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/catch-the-flame-ideas-for-unbroken-snapstreaks-for-2024/"><u>Catch the Flame - Ideas for Unbroken Snapstreaks for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-microsofts-advanced-pc-search-powered-by-artificial-intelligence-technology/"><u>Discover Microsoft's Advanced PC Search Powered by Artificial Intelligence Technology</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-1603-fatal-error-during-installation-fixed/"><u>Error 1603: Fatal Error During Installation [FIXED]</u></a></li>
+<li><a href="https://win11.techidaily.com/finding-astra-pilot-on-new-horizons-windows-11-guide/"><u>Finding Astra Pilot on New Horizons: Windows 11 Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-resolution-choices-picking-between-ultrawide-and-uhd-4k/"><u>High-Resolution Choices Picking Between UltraWide and UHD 4K</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-7-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 7</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-monetization-marvels-worldwide-youtuber-winners/"><u>In 2024, Monetization Marvels - Worldwide Youtuber Winners</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-music-on-windows-by-ironing-out-irqs/"><u>Master Your Music on Windows by Ironing Out IRQs</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-windows-filename-date-management/"><u>Mastering the Art of Windows Filename Date Management</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-fun-ahead-top-10-game-download-sites-for-pc-android-and-beyond/"><u>New In 2024, Free Fun Ahead Top 10 Game Download Sites for PC, Android, and Beyond</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfecting-iphone-photography-for-vr-spheres-for-2024/"><u>Perfecting iPhone Photography for VR Spheres for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-your-gameplay-on-win-11-with-these-essential-seven-strategies/"><u>Revolutionize Your Gameplay on Win 11 with These Essential Seven Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-mend-unloading-issues-in-windows-discord-application/"><u>Steps to Mend Unloading Issues in Windows Discord Application</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-system-fixes-with-10-windows-actions/"><u>Streamlining System Fixes with 10 Windows Actions</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-stubborn-0x800f0831-problem-in-win11/"><u>Tackling the Stubborn 0X800F0831 Problem in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-functionality-and-security-implications-of-deleting-pagefilesys/"><u>The Functionality & Security Implications of Deleting Pagefile.sys</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-low-usb-resources-in-windows-os/"><u>Troubleshooting Low USB Resources in Windows OS</u></a></li>
+</ul></div>
 

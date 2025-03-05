@@ -1,7 +1,7 @@
 ---
 title: How To Address Memory Diagnostic Failures
-date: 2024-12-22T02:27:17.230Z
-updated: 2024-12-27T23:59:28.163Z
+date: 2025-02-28T03:40:32.662Z
+updated: 2025-03-05T04:10:48.181Z
 tags:
   - windows10
   - windows11
@@ -55,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/a0951da729f49f8bf93e8223ca1a50717bbb6f5f3
 ![hardware and devices troubleshooter windows 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hardware-and-devices-troubleshooter-windows-1.jpg)
 5. It will scan your computer for issues, which may take a few minutes. If an issue is detected, select to automatically apply the repair.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. If the suggested problem is unrelated to memory, you can skip it to see the next problem. The troubleshooter will detect additional issues. If an issue is found, apply the fixes and check for any improvements.
 
 ## 3\. Remove and Reinsert Your Memory Sticks
@@ -89,18 +85,10 @@ thumbnail: https://thmb.techidaily.com/a0951da729f49f8bf93e8223ca1a50717bbb6f5f3
 ![memtest86 plus create bootable usb drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memtest86-plus-create-bootable-usb-drive.jpg)
 4. Click **Next** and wait for the installer to create a bootable drive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Next, if you haven’t already, [disable Secure Boot on your Windows computer](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/).
 6. Next, power off your computer. You may also need to clear your motherboard CMOS to reset your BIOS to factory default settings. You can also [reset BIOS to its default configuration](https://www.makeuseof.com/tag/reset-bios-default-settings-computer/) from the BIOS menu.  
 ![memtest86 plus memory integrity test in progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memtest86-plus-memory-integrity-test-in-progress.png)
 7. Next, plug the Memtest86+ bootable USB drive into your computer and turn it on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Boot into the Boot Menu and select the bootable USB drive as the boot device. The hotkey key to enter the Boot Menu may vary depending on your computer manufacturer. You can press **F9** on an **HP** computer, **F12** on a **Dell** computer and so on to access the **Boot Menu**.
 9. Memtest86+ will automatically start the memory integrity check. Let Memtest86+ complete at least 2 passes; the more, the better. Press the **Esc** key to stop the test if there are no errors after multiple passes.
@@ -109,19 +97,11 @@ thumbnail: https://thmb.techidaily.com/a0951da729f49f8bf93e8223ca1a50717bbb6f5f3
 
  Not all the errors detected by the Memtest86+ are due to faulty hardware. Some errors may occur due to compatibility issues. Check your RAM module and the motherboard specifications to determine any compatibility issues. You can also test the RAM modules by inserting them into a different motherboard and see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Perform a Repair Reinstall or Clean Install Windows
 
  If the Windows Memory Diagnostic tool continues to show the hardware problem was detected error, even after the Memtest86+ passed the test, check if the problem is due to issues with the Windows operating system.
 
  To fix critical issues with your Windows image, you can perform a [repair reinstall of Windows 11 without deleting apps](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/). If that does not work, perform a clean install. This will reinstall the operating system but delete all your apps and data from the computer. So, backup any data you need before attempting a clean install.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the Memory Diagnostic Tool "Hardware Problem Detected" Error
 
@@ -141,18 +121,20 @@ thumbnail: https://thmb.techidaily.com/a0951da729f49f8bf93e8223ca1a50717bbb6f5f3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-understanding-the-impact-of-circular-videography/"><u>[New] 2024 Approved Understanding the Impact of Circular Videography</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-experience-unlimited-recording-review-of-free-screen-tools-for-cameras/"><u>[New] Experience Unlimited Recording – Review of Free Screen Tools for Cameras</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-ultimate-instagram-live-mastering-video-chats/"><u>[New] In 2024, Ultimate Instagram Live Mastering Video Chats</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/efficiently-manage-invoices-integrating-abbyy-technology-with-m-files-systems/"><u>Efficiently Manage Invoices: Integrating ABBYY Technology with M-Files Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/enable-rgb-control-for-windows-11-display/"><u>Enable RGB Control for Windows 11 Display</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-uninstall-issues-with-epic-games-hub-on-windows-11/"><u>Fix Uninstall Issues with Epic Games Hub on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/getting-rid-of-windows-11s-official-store/"><u>Getting Rid of Windows 11'S Official Store</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-development-github-desktop-and-windows-11-synergy/"><u>Streamlining Development: GitHub Desktop & Windows 11 Synergy</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-windows-to-dos-compilation/"><u>The Ultimate Windows To-Dos Compilation</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/transform-your-streaming-journey-by-activating-youtubes-av1/"><u>Transform Your Streaming Journey by Activating YouTube's AV1</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-a-swift-overview-of-vn-video-editor-for-pc-users/"><u>Updated In 2024, A Swift Overview of VN Video Editor for PC Users</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/visual-virtuosity-suite-for-windowsmac-users/"><u>Visual Virtuosity Suite for Windows/Mac Users</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-9-methods-to-halt-system-functions/"><u>Windows 11: 9 Methods to Halt System Functions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-rapid-growth-tactics-hit-and-maintain-a-stellar-10000-views-mark/"><u>[New] Rapid Growth Tactics Hit and Maintain a Stellar 10,000 Views Mark</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-reaching-peak-youtube-potential-through-strategic-creator-studio-usage/"><u>[Updated] Reaching Peak YouTube Potential Through Strategic Creator Studio Usage</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-android-and-iphone-apps-for-free-photo-overlay-artistry-for-2024/"><u>[Updated] Top Android & iPhone Apps for FREE Photo Overlay Artistry for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/5pa55rov5y676zmk56gs56kf5lit5ye654plusplus55qe5l2o6zplusz5zmq6igy77ym5rex5ywl5lqg6kej5lplusu5asn5q2l6aqk/"><u>方法去除硬碟中出現的低音噪聲，深入了解修复步骤</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-techniques-to-combat-dxgi-errors/"><u>Effective Techniques to Combat DXGI Errors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ferramentas-mka-e-mkv-online-gratuitas-da-movavi-guia-de-transformacao-perfeito/"><u>Ferramentas MKA E MKV Online Gratuitas Da Movavi: Guia De Transformação Perfeito</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-motorola-moto-g73-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Motorola Moto G73 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-htc-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on HTC FRP Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-photo-size-transformation-with-these-six-ways-on-windows-11/"><u>Master the Art of Photo Size Transformation with These Six Ways on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-system-resources-for-fps-performance/"><u>Optimizing System Resources for FPS Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-dormant-screen-saver-configurations-in-windows/"><u>Revitalizing Dormant Screen Saver Configurations in Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/l-media-integration-for-amplified-youtube-shorts-reach-for-2024/"><u>Social Media Integration for Amplified YouTube Shorts Reach for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solutions-for-rectifying-windows-error-code-0x80040610/"><u>Swift Solutions for Rectifying Windows Error Code 0X80040610</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-of-windows-11s-app-collection/"><u>Unveiling the Secrets of Windows 11'S App Collection</u></a></li>
+<li><a href="https://win11.techidaily.com/usb-wi-fi-anomalies-on-windows-heres-the-solution-guide-you-need/"><u>USB Wi-Fi Anomalies on Windows? Here's the Solution Guide You Need</u></a></li>
 </ul></div>
 
