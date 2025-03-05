@@ -33,8 +33,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-3.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-4.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/ubuntu-virtual-machine-running-using-hyper-v.jpg">
-<meta property="article:published_time" content="2025-02-14T15:45:19.862Z">
-<meta property="article:modified_time" content="2025-02-15T12:52:04.863Z">
+<meta property="article:published_time" content="2025-03-01T13:52:28.362Z">
+<meta property="article:modified_time" content="2025-03-04T15:51:05.364Z">
 <meta property="article:author" content="David">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -720,15 +720,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2025-02-14 23:45:19</span>
-        <span class="mobile">2025-02-14 23:45:19</span>
+        <span class="desktop">2025-03-01 21:52:28</span>
+        <span class="mobile">2025-03-01 21:52:28</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-02-15 20:52:04</span>
-            <span class="mobile">2025-02-15 20:52:04</span>
+            <span class="desktop">2025-03-04 23:51:05</span>
+            <span class="mobile">2025-03-04 23:51:05</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -801,10 +801,6 @@
 <h2 id="The-Prerequisites-for-Running-a-Linux-Virtual-Machine-Inside-Hyper-V"><a href="#The-Prerequisites-for-Running-a-Linux-Virtual-Machine-Inside-Hyper-V" class="headerlink" title="The Prerequisites for Running a Linux Virtual Machine Inside Hyper-V"></a>The Prerequisites for Running a Linux Virtual Machine Inside Hyper-V</h2><p> Firstly, you will need a Windows virtual machine that is completely functional inside VMware. We would suggest Windows 10 or 11 virtual machines for this project. Moreover, you must pick either Windows Pro or Enterprise edition because Hyper-V isn’t available for Windows Home edition.</p>
 <p> Make sure to dedicate an adequate amount of hardware resources to the virtual machine. The reason behind this is that you will try to run a virtual machine inside a virtual machine. So, the Windows virtual machine can dedicate only a portion of its resources to running a Linux virtual machine using Hyper-V. We tested this using a Windows 11 system with 16GB of RAM and an eight-core AMD processor.</p>
 <p> Also, update the VMware Workstation Player to the latest version before you begin the installation method.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="How-to-Create-a-Linux-Virtual-Machine-Inside-Windows-Virtual-Machine-Using-Hyper-V"><a href="#How-to-Create-a-Linux-Virtual-Machine-Inside-Windows-Virtual-Machine-Using-Hyper-V" class="headerlink" title="How to Create a Linux Virtual Machine Inside Windows Virtual Machine Using Hyper-V"></a>How to Create a Linux Virtual Machine Inside Windows Virtual Machine Using Hyper-V</h2><p> We will break the steps into three parts. Firstly, you must enable the virtualization features for the Windows virtual machine. Then you need to enable Hyper-V on this virtual machine. Lastly, you need to create a Linux virtual machine using Hyper-V.</p>
 <h3 id="1-Enable-Virtualization-for-Windows-Virtual-Machine-in-VMware"><a href="#1-Enable-Virtualization-for-Windows-Virtual-Machine-in-VMware" class="headerlink" title="1. Enable Virtualization for Windows Virtual Machine in VMware"></a>1. Enable Virtualization for Windows Virtual Machine in VMware</h3><p>To enable Virtualization, do as follows:</p>
 <ol>
@@ -819,31 +815,28 @@
                 ></li>
 <li>Click on the<strong>OK</strong> button to apply changes.</li>
 </ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> Virtualization features are now active for the above Windows virtual machine. Next, you need to install Hyper-V.</p>
 <h3 id="2-Install-Hyper-V-on-the-Windows-Virtual-Machine"><a href="#2-Install-Hyper-V-on-the-Windows-Virtual-Machine" class="headerlink" title="2. Install Hyper-V on the Windows Virtual Machine"></a>2. Install Hyper-V on the Windows Virtual Machine</h3><p> To install Hyper-V on the VMware Windows virtual machine, repeat the following steps.</p>
 <ol>
-<li>Launch the VMware app on your system. Double-click on the Windows virtual machine to boot it up.</li>
-<li>Once you boot to the desktop, press the<strong>Win + R</strong> key to<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-open-run-command-dialog-box/" >launch the Run command box <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> .</li>
-<li>Type<strong>appwiz.cpl</strong> and press the enter key.</li>
-<li>The programs and features window will launch. Click on the<strong>Turn Windows Features on or off</strong> option.</li>
-<li>Scroll down and click on the<strong>Hyper-V</strong> checkbox in the Windows Features list.<br><img  
+<li><p>Launch the VMware app on your system. Double-click on the Windows virtual machine to boot it up.</p>
+</li>
+<li><p>Once you boot to the desktop, press the<strong>Win + R</strong> key to<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-open-run-command-dialog-box/" >launch the Run command box <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> .</p>
+</li>
+<li><p>Type<strong>appwiz.cpl</strong> and press the enter key.</p>
+</li>
+<li><p>The programs and features window will launch. Click on the<strong>Turn Windows Features on or off</strong> option.</p>
+</li>
+<li><p>Scroll down and click on the<strong>Hyper-V</strong> checkbox in the Windows Features list.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-hyper-v-on-the-windows-virtual-machine.jpg"
                       alt="Install Hyper-V on the Windows Virtual Machine"
-                ></li>
-<li>Click on the<strong>OK</strong> button to install the feature on your system.</li>
-</ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<ol start="7">
-<li><strong>Restart</strong> your system to apply changes when the installation completes.</li>
+                ></p>
+</li>
+<li><p>Click on the<strong>OK</strong> button to install the feature on your system.</p>
+</li>
+<li><p><strong>Restart</strong> your system to apply changes when the installation completes.</p>
+</li>
 </ol>
 <p> Hyper-V is now active on your Windows virtual machine. Next, you need to create a Linux virtual machine it.</p>
 <h3 id="3-Create-a-Linux-Virtual-Machine-Using-Hyper-V"><a href="#3-Create-a-Linux-Virtual-Machine-Using-Hyper-V" class="headerlink" title="3. Create a Linux Virtual Machine Using Hyper-V"></a>3. Create a Linux Virtual Machine Using Hyper-V</h3><p> The last piece of the puzzle is to create a Linux virtual machine inside the Windows virtual machine using Hyper-V. You can pick any Linux distribution that you want. We will go with Ubuntu for this experiment. You have to download the Ubuntu ISO file inside the virtual machine from the<a class="link"   target="_blank" rel="noopener" href="https://ubuntu.com/download/desktop" >Ubuntu website <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> before starting with the steps.</p>
@@ -871,19 +864,15 @@
 </li>
 <li><p>Then, click on<strong>Next</strong> button and select the<strong>Default switch</strong> option in the Configure Networking section.</p>
 </li>
-</ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<ol start="7">
-<li>Click on the<strong>Create a virtual hard disk</strong> option and allocate<strong>20GB</strong> to the virtual hard disk. Move to the next section.<br><img  
+<li><p>Click on the<strong>Create a virtual hard disk</strong> option and allocate<strong>20GB</strong> to the virtual hard disk. Move to the next section.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-3.jpg"
                       alt="Create a Linux Virtual Machine Using Hyper-V 3"
-                ></li>
-<li>Pick the<strong>Install an operating system from a bootable CD&#x2F;DVD-ROM</strong> option located under the Installation options section. Select the Ubuntu Image file (.iso) you downloaded before beginning this step.</li>
+                ></p>
+</li>
+<li><p>Pick the<strong>Install an operating system from a bootable CD&#x2F;DVD-ROM</strong> option located under the Installation options section. Select the Ubuntu Image file (.iso) you downloaded before beginning this step.</p>
+</li>
 </ol>
 <p><img  
                      lazyload
@@ -891,10 +880,6 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-4.jpg"
                       alt="Create a Linux Virtual Machine Using Hyper-V 4"
                 ><br>9. Click on the<strong>Next</strong> button and review the virtual machine configuration. Then, click on the<strong>Finish</strong> button to create the virtual machine.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> Now that the virtual machine is ready, it’s time to get Ubuntu up and running:</p>
 <ol>
 <li>Select the newly created virtual machine in the list and click on the<strong>Start</strong> option to launch the virtual machine.</li>
@@ -928,19 +913,18 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://video-capture.techidaily.com/new-2024-approved-innovative-ways-to-capture-online-discussions/"><u>[New] 2024 Approved Innovative Ways to Capture Online Discussions</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://article-knowledge.techidaily.com/new-in-2024-expertly-chosen-top-5-premium-drones-for-professionals/"><u>[New] In 2024, Expertly Chosen Top 5 Premium Drones for Professionals</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://desktop-recording.techidaily.com/updated-2024-approved-premium-enhancements-guide-to-superior-terria/"><u>[Updated] 2024 Approved Premium Enhancements Guide to Superior Terria</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://twitter-videos.techidaily.com/updated-tweet-transformation-techniques-for-free-gifs/"><u>[Updated] Tweet Transformation Techniques for Free GIFs</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-methods-to-fix-windows-error-in-your-office-app/"><u>Efficient Methods to Fix Windows Error in Your Office App</u></a></li>
-<li><a href="https://win11.techidaily.com/empowering-windows-11-workflows-advanced-run-command-incorporation/"><u>Empowering Windows 11 Workflows: Advanced Run Command Incorporation</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-hovers.techidaily.com/in-2024-capturing-heights-in-focus-examining-the-mavic-pro/"><u>In 2024, Capturing Heights in Focus Examining the Mavic Pro</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Itel P55+? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-guidance.techidaily.com/in-2024-navigating-the-dynamic-world-of-drone-racing-and-top-5-high-speed-drones/"><u>In 2024, Navigating the Dynamic World of Drone Racing & Top 5 High-Speed Drones</u></a></li>
-<li><a href="https://win11.techidaily.com/prime-windows-pomodoro-tools-roundup/"><u>Prime Windows Pomodoro Tools Roundup</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-microsoft-teams-sign-in-problems-on-pc/"><u>Resolving Microsoft Teams Sign-In Problems on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/successfully-solving-steam-readwrite-issues-in-windows/"><u>Successfully Solving Steam Read/Write Issues in Windows</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-approaches.techidaily.com/top-5-mkv-players-for-mac-for-2024/"><u>Top 5 MKV Players for Mac for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-guidance.techidaily.com/new-personalize-vr-gear-with-homemade-google-headgear/"><u>[New] Personalize VR Gear with Homemade Google Headgear</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-access.techidaily.com/updated-splendid-scenery-crafting-visuals-with-strategic-lighting-for-2024/"><u>[Updated] Splendid Scenery Crafting Visuals with Strategic Lighting for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/2024-approved-master-the-momentum-sending-viral-videos-soaring/"><u>2024 Approved Master the Momentum Sending Viral Videos Soaring</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-htc-u23-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-default-mobility-settings-on-windows-11/"><u>Eliminate Default Mobility Settings on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-or-disable-metered-connection-for-a-wi-fi-network-in-windows-11/"><u>How to Enable or Disable Metered Connection for a Wi-Fi Network in Windows 11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-moto-g04-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Moto G04 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-dxgierrorcode-zerox887a0006-device-hang-fixes/"><u>Tackling DXGIErrorCode ZeroX887A0006: Device Hang Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-look-changing-username-in-windows-11/"><u>The Insider's Look: Changing UserName in Windows 11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://discover-able.techidaily.com/the-key-differences-between-trivia-hosting-and-dj-entertainment-optimize-your-pcdj-offerings/"><u>The Key Differences Between Trivia Hosting & DJ Entertainment – Optimize Your PCDJ Offerings</u></a></li>
+<li><a href="https://win11.techidaily.com/the-next-evolution-of-windows-11-advanced-widget-techniques/"><u>The Next Evolution of Windows 11: Advanced Widget Techniques</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On OnePlus Nord N30 5G | Dr.fone</u></a></li>
 </ul></div>
 
 
@@ -953,11 +937,11 @@
         <li><strong>Title:</strong> Integrating Linux Into Hyper-V on Windows Systems</li>
         <li><strong>Author:</strong> David</li>
         <li><strong>Created at
-                :</strong> 2025-02-14 23:45:19</li>
+                :</strong> 2025-03-01 21:52:28</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-02-15 20:52:04
+                    :</strong> 2025-03-04 23:51:05
             </li>
         
         <li>
@@ -1001,13 +985,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/bypassing-login-blockers-effective-fixes-for-windows/"
+                        href="/overcoming-windows-no-access-error-securing-file-viewer-rights/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Bypassing Login Blockers: Effective Fixes for Windows</span>
+                                <span class="post-nav-title-item">Overcoming Windows&#39; No Access Error: Securing File Viewer Rights</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1017,10 +1001,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/cleanse-your-pc-banishing-temporary-windows-files/"
+                        href="/banishing-error-xc0f1103f-in-windows-11-nvidias-geforce-now/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Cleanse Your PC: Banishing Temporary Windows Files</span>
+                                <span class="post-nav-title-item">Banishing Error Xc0f1103f in Windows 11, NVIDIA&#39;s GeForce Now</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
@@ -1056,15 +1040,6 @@
 
 		<!-- add seo affiliate products -->
 <div>
-  <div class="grid grid-cols-2 md:grid-cols-1 gap-2">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-  </div>
-  <a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390"><img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://arkmc.pxf.io/c/5597632/427527/5172" target="_top" id="427527"><img src="//a.impactradius-go.com/display-ad/5172-427527" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427527/5172" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040"><img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2086402/21526" target="_top" id="2086402"><img src="//a.impactradius-go.com/display-ad/21526-2086402" border="0" alt="" width="830" height="312"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086402/21526" style="position:absolute;visibility:hidden;" border="0" />
 </div>
 
 

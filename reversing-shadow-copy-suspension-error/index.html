@@ -33,8 +33,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/turn-off-firewall-settings.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/startup-tab.jpg">
-<meta property="article:published_time" content="2024-12-22T20:38:12.568Z">
-<meta property="article:modified_time" content="2024-12-27T23:20:06.407Z">
+<meta property="article:published_time" content="2025-03-01T13:05:21.945Z">
+<meta property="article:modified_time" content="2025-03-04T17:58:34.847Z">
 <meta property="article:author" content="David">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -720,15 +720,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-12-23 04:38:12</span>
-        <span class="mobile">2024-12-23 04:38:12</span>
+        <span class="desktop">2025-03-01 21:05:21</span>
+        <span class="mobile">2025-03-01 21:05:21</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-12-28 07:20:06</span>
-            <span class="mobile">2024-12-28 07:20:06</span>
+            <span class="desktop">2025-03-05 01:58:34</span>
+            <span class="mobile">2025-03-05 01:58:34</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -797,10 +797,6 @@
 <p> Disclaimer: This post includes affiliate links</p>
 <p> If you click on a link and make a purchase, I may receive a commission at no extra cost to you.</p>
 </blockquote>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="1-Enable-and-Start-Volume-Shadow-Copy-Services"><a href="#1-Enable-and-Start-Volume-Shadow-Copy-Services" class="headerlink" title="1. Enable and Start Volume Shadow Copy Services"></a>1. Enable and Start Volume Shadow Copy Services</h2><p> VSS errors can often arise because the Volume Shadow Copy and Microsoft Software Shadow Copy Provider services aren’t enabled or running. For example, many users have confirmed enabling those services can fix VSS error codes 0x81000202 and 0x81000203, which affect the System Restore tool. So, you may be able to resolve numerous Volume Shadow Copy errors by enabling VSS services like this:</p>
 <ol>
 <li>First, press the <strong>Windows</strong> logo key + <strong>S</strong> and enter a Services search phrase to find that app.</li>
@@ -820,10 +816,6 @@
                       alt="The Startup type drop-down menu"
                 ><br>5. Press <strong>Start</strong> in the Volume Shadow Copy Service window.<br>6. Click on the service window’s <strong>Apply</strong> and <strong>OK</strong> buttons to set the changed options.<br>7. Repeat steps three to six for the Microsoft Software Shadow Copy Provider service.<br>8. Also, check that the RPC Endpoint Mapper and DCOM Server Process dependency services for Volume Shadow Copy are enabled and running.</p>
 <p> Restart those shadow copy services if they’re already set as required. You can do that by right-clicking on those services and selecting the Restart context menu options for them.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="2-Repair-Your-System-Files-With-the-SFC-and-DISM-Commands"><a href="#2-Repair-Your-System-Files-With-the-SFC-and-DISM-Commands" class="headerlink" title="2. Repair Your System Files With the SFC and DISM Commands"></a>2. Repair Your System Files With the SFC and DISM Commands</h2><p> Corrupted system files can affect Windows services, such as Volume Shadow Copy. So, some users may need to repair system files to fix the Volume Shadow Copy Service when it’s not working. You can do that by running System File Checker and Deployment Image Servicing Management scans, as covered in this article about <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-built-in-repair-tools/" >repairing corrupt Windows files <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
 <p><img  
                      lazyload
@@ -831,10 +823,6 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sfc-scannow-error.jpg"
                       alt="The sfc scannow command"
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="3-Run-the-Check-Disk-Utility"><a href="#3-Run-the-Check-Disk-Utility" class="headerlink" title="3. Run the Check Disk Utility"></a>3. Run the Check Disk Utility</h2><p> Drive issues can cause Windows system backup VSS errors to occur, with codes like 0x807800A1 or 0x80042315. In this case, running the Check Disk utility to scan for and address hard drive issues, such as bad sectors, is a potential fix for the Volume Shadow Copy Service not working. Check out this <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/" >guide to running the CHKDSK utility <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for further details about how you can apply this potential resolution.</p>
 <p><img  
                      lazyload
@@ -849,10 +837,6 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg"
                       alt="Temporarily disable antivirus"
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> Don’t leave your antivirus shield permanently disabled. If possible, select to disable it for a few hours before attempting the backup or system restoration operation again. Or manually re-enable your antivirus if you can’t select a temporary option.</p>
 <h2 id="5-Disable-Any-Active-Firewalls"><a href="#5-Disable-Any-Active-Firewalls" class="headerlink" title="5. Disable Any Active Firewalls"></a>5. Disable Any Active Firewalls</h2><p> It’s also recommended to disable the firewall component of a third-party antivirus utility before attempting to perform a VSS operation. Turning off an antivirus shield won’t disable a firewall component. Look for firewall settings within your antivirus software’s tabs to see if it includes one. If it does, select to turn off the firewall.</p>
 <p> Try turning off the Windows firewall if you haven’t installed a third-party antivirus utility or firewall software. Check out this guide to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/" >disabling Microsoft Defender Firewall <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for instructions for turning off that security component.</p>
@@ -868,10 +852,6 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/startup-tab.jpg"
                       alt="The Startup type"
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> Conflicting background apps or services are another potential cause of Volume Shadow Copy errors. Third-party backup utilities with snapshot managers are the most likely software packages to conflict with the Volume Shadow Copy Service. If you know you’ve installed a third-party backup manager, uninstalling it could be the best way to ensure it doesn’t cause any conflicts.</p>
 <p> However, you can <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/clean-boot-windows-11/" >perform a clean boot <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> to stop third-party apps and services from starting with Windows to prevent conflicts from arising. This involves disabling startup items and services with Task Manager and MSConfig and restarting Windows. Then try utilizing the Windows Backup and Restore or System Restore tools after clean booting your PC to see if the VSS error persists.</p>
 <p> If it does, this means something you disabled during the clean boot is causing the problem. Now you can slowly re-enable each app until the problem reappears, then either uninstall or update the offending app.</p>
@@ -884,25 +864,21 @@
       data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://facebook-clips.techidaily.com/updated-2024-approved-are-you-prepared-for-the-changed-facebook-algorithm/"><u>[Updated] 2024 Approved Are You Prepared for the Changed Facebook Algorithm?</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-content.techidaily.com/updated-elevate-your-profile-picture-game-with-these-high-end-online-services/"><u>[Updated] Elevate Your Profile Picture Game with These High-End Online Services</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://article-tips.techidaily.com/updated-selective-selections-notable-sites-for-snagging-snapalert-tunes/"><u>[Updated] Selective Selections Notable Sites for Snagging SnapAlert Tunes</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/can-life360-track-you-when-your-htc-u23-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your HTC U23 is off? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/crucial-steps-to-idle-your-windowed-machine/"><u>Crucial Steps to Idle Your Windowed Machine</u></a></li>
-<li><a href="https://win11.techidaily.com/from-silence-to-sound-windows-11s-tale-beginnings/"><u>From Silence to Sound: Windows 11'S Tale Beginnings</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://hardware-updates.techidaily.com/get-the-latest-sound-card-software-for-your-windows-7-pc-download-now/"><u>Get the Latest Sound Card Software for Your Windows 7 PC - Download Now</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-guidance.techidaily.com/guia-gratuita-para-convertir-archivos-pbm-en-imagenes-jpg-con-movavi/"><u>Guía Gratuita Para Convertir Archivos PBM en Imágenes JPG Con Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-active-directory-domain-services-printer-error-in-windows-11-and-11/"><u>How to Fix the “Active Directory Domain Services” Printer Error in Windows 11 & 11</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-video-recordings.techidaily.com/in-2024-hone-your-skills-how-to-seamlessly-post-videos-to-instagram-via-desktop/"><u>In 2024, Hone Your Skills How to Seamlessly Post Videos to Instagram via Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-hurdles-with-handbrake/"><u>Overcoming Windows Hurdles with HandBrake</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-login-failures-8-strategies/"><u>Overcoming Windows Login Failures: 8 Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-uninstalling-and-reinstalling-utorrent-on-windows-1087/"><u>Steps for Uninstalling and Reinstalling uTorrent on Windows 10/8/7</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://discover-cloud.techidaily.com/strategie-gratuite-per-recuperare-file-persi-o-cancellati-3-anni-fa-scopri-i-tuoi-modi/"><u>Strategie Gratuite per Recuperare File Persi O Cancellati 3 Anni Fa, Scopri I Tuoi Modi!</u></a></li>
-<li><a href="https://win11.techidaily.com/sudden-rav-virus-alert-where-it-comes-from-how-to-uninstall/"><u>Sudden Rav Virus Alert - Where It Comes From, How To Uninstall</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-wipe-out-email-at-sign-in/"><u>The Ultimate Guide to Wipe Out Email at Sign-In</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-xc0f1103f-failure-on-geforce-now-and-windows-1011/"><u>Troubleshooting XC0F1103F Failure on GeForce Now & Windows 10/11</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-answers.techidaily.com/ultimate-fixes-for-stuttering-and-crashing-during-zivf-dead-war-saves/"><u>Ultimate Fixes for Stuttering and Crashing During 'ZIVF: Dead War' Saves</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-great.techidaily.com/ultimate-tutorial-mastering-the-art-of-deleting-documents-within-word/"><u>Ultimate Tutorial: Mastering the Art of Deleting Documents Within Word</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-hovers.techidaily.com/new-2024-approved-accelerated-adventures-fastest-flash-games-on-devices/"><u>[New] 2024 Approved Accelerated Adventures Fastest Flash Games on Devices</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-access.techidaily.com/new-ultimate-guide-premier-live-streaming-plus-local-channels-2024/"><u>[New] Ultimate Guide Premier Live Streaming + Local Channels 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-tips.techidaily.com/ed-in-2024-optimizing-video-visibility-with-strategic-tag-selection/"><u>[Updated] In 2024, Optimizing Video Visibility with Strategic Tag Selection</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-access.techidaily.com/updated-in-2024-top-10-stabilizing-tech-for-youtube-creators-success/"><u>[Updated] In 2024, Top 10 Stabilizing Tech for YouTube Creators' Success</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-lessons.techidaily.com/2024-approved-top-8-best-4k-blu-ray-players/"><u>2024 Approved Top 8 Best 4K Blu-Ray Players</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-the-code-of-windowsstore-folder-protection/"><u>Breaking the Code of WindowsStore Folder Protection</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-the-lock-essential-tpm-hacks-for-windows-11/"><u>Bypassing the Lock: Essential TPM Hacks for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/connect-your-games-across-screens-win-11-and-android-via-google-linkup/"><u>Connect Your Games Across Screens: Win 11 & Android via Google Linkup</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-hyper-v-in-windows-11-steps-to-follow/"><u>Enabling Hyper-V in Windows 11: Steps to Follow</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-windows-update-error-0x80246007-in-windows-11-and-11/"><u>How to Fix the Windows Update Error 0X80246007 in Windows 11 & 11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-webster.techidaily.com/24-creative-video-ends-top-6-budget-friendly-options/"><u>In 2024, Creative Video Ends Top 6 Budget-Friendly Options!</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-tecno-camon-20-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Tecno Camon 20 Phone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-help.techidaily.com/in-2024-speeding-up-youtube-quick-video-rendering-and-transfer-tips/"><u>In 2024, Speeding Up YouTube Quick Video Rendering & Transfer Tips</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, What are Location Permissions Life360 On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-screen-brilliance-adjustments-in-windows-11/"><u>Mastering Screen Brilliance Adjustments in Windows 11</u></a></li>
 </ul></div>
 
 
@@ -915,11 +891,11 @@
         <li><strong>Title:</strong> Reversing Shadow Copy Suspension Error</li>
         <li><strong>Author:</strong> David</li>
         <li><strong>Created at
-                :</strong> 2024-12-23 04:38:12</li>
+                :</strong> 2025-03-01 21:05:21</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-12-28 07:20:06
+                    :</strong> 2025-03-05 01:58:34
             </li>
         
         <li>
@@ -963,13 +939,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/smooth-radeon-driver-transitions-on-new-windows-11-laptops/"
+                        href="/internal-building-controls-in-windows-11/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Smooth Radeon Driver Transitions on New Windows 11 Laptops</span>
+                                <span class="post-nav-title-item">Internal Building Controls in Windows 11</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -979,10 +955,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/snip-and-sketch-vs-prtsc-the-window-warriors-showdown/"
+                        href="/make-office-automatically-open-attached-files-as-text-only/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Snip &amp; Sketch Vs. PrtSc: The Window Warriors Showdown</span>
+                                <span class="post-nav-title-item">Make Office Automatically Open Attached Files as Text Only</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
@@ -1018,15 +994,6 @@
 
 		<!-- add seo affiliate products -->
 <div>
-  <div class="grid grid-cols-2 md:grid-cols-1 gap-2">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-  </div>
-  <a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390"><img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://arkmc.pxf.io/c/5597632/427527/5172" target="_top" id="427527"><img src="//a.impactradius-go.com/display-ad/5172-427527" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427527/5172" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040"><img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2086402/21526" target="_top" id="2086402"><img src="//a.impactradius-go.com/display-ad/21526-2086402" border="0" alt="" width="830" height="312"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086402/21526" style="position:absolute;visibility:hidden;" border="0" />
 </div>
 
 
